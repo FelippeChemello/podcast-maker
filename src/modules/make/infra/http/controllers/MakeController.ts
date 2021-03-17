@@ -5,12 +5,13 @@ import BreakTextInParagraphsService from '@modules/make/services/BreakTextInPara
 import BreakParagraphIntoSentencesService from '@modules/make/services/BreakParagraphIntoSentencesService';
 import GetTagsFromSentencesService from '@modules/make/services/GetTagsFromSentencesService';
 import TextToSpeechService from '@modules/make/services/TextToSpeechService';
+import RenderVideoService from '@modules/make/services/RenderVideoService';
 
 export default class AppointmentsController {
   public async create(request: Request, response: Response): Promise<Response> {
-    const text = new GetTextService().execute('text.txt');
+    // const text = new GetTextService().execute('text.txt');
 
-    const paragraphs = new BreakTextInParagraphsService().execute(text);
+    // const paragraphs = new BreakTextInParagraphsService().execute(text);
 
     // const paragraphsInPhrasesPromises = paragraphs.map(paragraph =>
     //   new BreakParagraphIntoSentencesService().execute(paragraph),
@@ -27,7 +28,7 @@ export default class AppointmentsController {
     // );
     // await Promise.all(ttsPromises);
 
-    
+    await new RenderVideoService().execute('', '');
 
     return response.json({ ok: 'ok' });
   }

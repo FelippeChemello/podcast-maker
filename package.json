@@ -13,6 +13,10 @@
         "test": "jest"
     },
     "dependencies": {
+        "@ffmpeg-installer/ffmpeg": "^1.0.20",
+        "@ffprobe-installer/ffprobe": "^1.1.0",
+        "@remotion/bundler": "^1.5.3",
+        "@remotion/renderer": "^1.5.3",
         "@types/node": "^14.6.1",
         "algorithmia": "^0.3.10",
         "aws-sdk": "^2.808.0",
@@ -22,8 +26,10 @@
         "cors": "^2.8.5",
         "date-fns": "^2.15.0",
         "dotenv": "^8.2.0",
+        "execa": "^5.0.0",
         "express": "^4.17.1",
         "express-async-errors": "^3.1.1",
+        "fluent-ffmpeg": "^2.1.2",
         "handlebars": "^4.7.6",
         "imap": "^0.8.19",
         "ioredis": "^4.19.2",
@@ -38,10 +44,12 @@
         "rate-limiter-flexible": "^2.1.14",
         "redis": "^3.0.2",
         "reflect-metadata": "^0.1.13",
+        "remotion": "^1.5.3",
         "ts-node": "^9.0.0",
         "tsyringe": "^4.4.0",
         "typeorm": "^0.2.25",
-        "uuidv4": "^6.2.2"
+        "uuidv4": "^6.2.2",
+        "waveform-data": "^3.3.4"
     },
     "devDependencies": {
         "@babel/cli": "^7.12.10",
@@ -54,6 +62,7 @@
         "@types/bcryptjs": "^2.4.2",
         "@types/cors": "^2.8.9",
         "@types/express": "^4.17.7",
+        "@types/fluent-ffmpeg": "^2.1.16",
         "@types/imap": "^0.8.33",
         "@types/ioredis": "^4.17.8",
         "@types/jest": "^26.0.16",
