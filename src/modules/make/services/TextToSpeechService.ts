@@ -9,8 +9,9 @@ import path from 'path';
 class TextToSpeechService {
     constructor() {}
 
-    public async execute(text: string, sufix: string): Promise<void> {
+    public async execute(text: string, sufix: string): Promise<string> {
         return new Promise(resolve => {
+            console.log('Sintetizando ' + sufix);
             const speechConfig = SpeechConfig.fromSubscription(
                 'd0a5a0c73744412c96bd3bd8dff9b7f9',
                 'southcentralus',
@@ -33,7 +34,7 @@ class TextToSpeechService {
             const ssml = `
                 <speak version="1.0" xml:lang="pt-BR">
                     <voice name="pt-BR-FranciscaNeural">
-                        ${text}
+                        <break time="250ms" /> ${text}
                     </voice>
                 </speak>`;
 
@@ -48,7 +49,18 @@ class TextToSpeechService {
                         console.log(JSON.stringify(result));
                     }
                     synthesizer.close();
-                    resolve();
+                    console.log('Finalizou ' + sufix);
+                    resolve(
+                        path.resolve(
+                            __dirname,
+                            '..',
+                            '..',
+                            '..',
+                            '..',
+                            'tmp',
+                            `output-${sufix}.mp3`,
+                        ),
+                    );
                 },
                 error => {
                     console.log(error);

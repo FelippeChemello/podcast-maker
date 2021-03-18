@@ -5,14 +5,18 @@ import BreakTextInParagraphsService from '@modules/make/services/BreakTextInPara
 import BreakParagraphIntoSentencesService from '@modules/make/services/BreakParagraphIntoSentencesService';
 import GetTagsFromSentencesService from '@modules/make/services/GetTagsFromSentencesService';
 import TextToSpeechService from '@modules/make/services/TextToSpeechService';
+import CreateSingleAudioFileWithTransitionsService from '@modules/make/services/CreateSingleAudioFileWithTransitionsService';
 import RenderVideoService from '@modules/make/services/RenderVideoService';
 
 export default class AppointmentsController {
   public async create(request: Request, response: Response): Promise<Response> {
-    // const text = new GetTextService().execute('text.txt');
+    console.log('Buscando texto');
+    const text = new GetTextService().execute('text.txt');
 
-    // const paragraphs = new BreakTextInParagraphsService().execute(text);
+    console.log('Separando em paragrafos');
+    const paragraphs = new BreakTextInParagraphsService().execute(text);
 
+    // console.log('Separando em frases');
     // const paragraphsInPhrasesPromises = paragraphs.map(paragraph =>
     //   new BreakParagraphIntoSentencesService().execute(paragraph),
     // );
@@ -23,12 +27,20 @@ export default class AppointmentsController {
     // );
     // const SentencesTags = await Promise.all(sentencesTagsPromises);
 
-    // const ttsPromises = paragraphs.map((paragraph, index) =>
-    //   new TextToSpeechService().execute(paragraph, index.toString()),
-    // );
-    // await Promise.all(ttsPromises);
+    const tts: string[] = [];
+    // for (let i = 0; i < paragraphs.length; i++) {
+    //   const path = await new TextToSpeechService().execute(
+    //     paragraphs[i],
+    //     i.toString(),
+    //   );
+    //   tts.push(path);
+    // }
 
-    await new RenderVideoService().execute('', '');
+    // console.log('Unindo audios');
+    // await new CreateSingleAudioFileWithTransitionsService().execute(tts);
+
+    console.log('Iniciando Render');
+    await new RenderVideoService().execute(paragraphs || [], tts || []);
 
     return response.json({ ok: 'ok' });
   }

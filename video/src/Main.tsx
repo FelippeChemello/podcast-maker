@@ -61,11 +61,18 @@ export const Main: React.FC<{
 							>
 								<Title titleText={prop.text} />
 							</Sequence>
-							<Sequence from={initialFrame} durationInFrames={60}>
-								<Transition />
-							</Sequence>
+							{index < textProps.length - 1 ? (
+								<Sequence
+									from={initialFrame}
+									durationInFrames={87}
+								>
+									<Transition />
+								</Sequence>
+							) : (
+								<> </>
+							)}
 							<p style={{display: 'none'}}>
-								{(initialFrame += 60)}
+								{(initialFrame += 87)}
 							</p>
 						</>
 					);

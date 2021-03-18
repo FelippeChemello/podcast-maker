@@ -1,9 +1,10 @@
-import {useCurrentFrame, useVideoConfig, random} from 'remotion';
+import {useCurrentFrame, useVideoConfig, random, interpolate} from 'remotion';
 
 import './fonts.css';
 
 export const Bars: React.FC<{}> = () => {
 	const frame = useCurrentFrame();
+	const videoConfig = useVideoConfig();
 
 	return (
 		<div
