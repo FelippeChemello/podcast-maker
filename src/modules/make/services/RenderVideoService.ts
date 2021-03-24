@@ -23,12 +23,18 @@ class RenderVideoService {
         const compositionId = 'Main';
 
         console.log('Montando o bundle');
-        const bundled = await bundle(
-            require.resolve('../../../../video/src/index'),
-        );
+        // const bundled = await bundle(
+        //     require.resolve('../../../../video/src/index'),
+        // );
+
+        const bundled = '/tmp/react-motion-graphicsFELNrB';
+
+        console.log(bundled);
 
         console.log('Pegando comps');
         const compositions = await getCompositions(bundled);
+
+        console.log(compositions);
 
         console.log('Buscando video');
         const video = compositions.find(c => c.id === compositionId);
@@ -122,7 +128,7 @@ class RenderVideoService {
         //     textProps.push({ duration, text });
         // }
 
-        console.log(textProps);
+        // console.log(textProps);
 
         console.log('Iniciando render');
         await renderFrames({
@@ -137,7 +143,7 @@ class RenderVideoService {
             parallelism: null,
             outputDir: framesDir,
             userProps: {
-                textProps,
+                duration: 300,
             },
             compositionId,
             imageFormat: 'jpeg',

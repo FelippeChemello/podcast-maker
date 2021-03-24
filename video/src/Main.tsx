@@ -1,4 +1,10 @@
-import {interpolate, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
+import {
+	interpolate,
+	Sequence,
+	useCurrentFrame,
+	useVideoConfig,
+	Audio,
+} from 'remotion';
 import {Title} from './Podcast/Title';
 import {Bars} from './Podcast/Bars';
 import {Transition} from './Podcast/Transition';

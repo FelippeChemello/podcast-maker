@@ -4,7 +4,7 @@ import {Main} from './Main';
 
 const handle = delayRender();
 
-export const RemotionVideo: React.FC = () => {
+export const RemotionVideo: React.FC<{duration: number}> = ({duration}) => {
 	const [textProps, setData] = useState<{duration: number; text: string}[]>(
 		[]
 	);
@@ -21,14 +21,12 @@ export const RemotionVideo: React.FC = () => {
 		fetchData();
 	}, []);
 
-	console.log(textProps);
-
 	return (
 		<>
 			<Composition
 				id="Main"
 				component={Main}
-				durationInFrames={12420}
+				durationInFrames={duration || 15000}
 				fps={30}
 				width={1920}
 				height={1080}
