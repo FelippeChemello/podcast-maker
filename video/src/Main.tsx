@@ -6,13 +6,14 @@ import {
 	Audio,
 } from 'remotion';
 import {Title} from './Podcast/Title';
-import {Bars} from './Podcast/Bars';
+import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
 
 export const Main: React.FC<{
 	textProps: {
 		duration: number;
 		text: string;
+		audioFileName: string;
 	}[];
 }> = ({textProps}) => {
 	const frame = useCurrentFrame();
@@ -54,7 +55,9 @@ export const Main: React.FC<{
 									videoConfig.fps * prop.duration
 								}
 							>
-								<Bars />
+								<AudioWaveform
+									audioFileName={prop.audioFileName}
+								/>
 							</Sequence>
 							<Sequence
 								from={

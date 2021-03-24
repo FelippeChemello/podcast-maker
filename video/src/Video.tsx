@@ -5,9 +5,9 @@ import {Main} from './Main';
 const handle = delayRender();
 
 export const RemotionVideo: React.FC<{duration: number}> = ({duration}) => {
-	const [textProps, setData] = useState<{duration: number; text: string}[]>(
-		[]
-	);
+	const [textProps, setData] = useState<
+		{duration: number; text: string; audioFileName: string}[]
+	>([]);
 
 	const fetchData = async () => {
 		const response = await fetch('http://localhost:3333/make');
