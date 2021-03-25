@@ -23,11 +23,9 @@ class RenderVideoService {
         const compositionId = 'Main';
 
         console.log('Montando o bundle');
-        // const bundled = await bundle(
-        //     require.resolve('../../../../video/src/index'),
-        // );
-
-        const bundled = '/tmp/react-motion-graphicsFELNrB';
+        const bundled = await bundle(
+            require.resolve('../../../../video/src/index'),
+        );
 
         console.log(bundled);
 

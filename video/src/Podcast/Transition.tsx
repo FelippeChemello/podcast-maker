@@ -1,7 +1,15 @@
 import React from 'react';
-import {spring, SpringConfig, useCurrentFrame, useVideoConfig} from 'remotion';
+import {
+	spring,
+	SpringConfig,
+	useCurrentFrame,
+	useVideoConfig,
+	Audio,
+	delayRender,
+} from 'remotion';
 import styled from 'styled-components';
 
+import transitionAudioSrc from '../../../assets/transition.mp3';
 import {Arc} from './Arc';
 
 const Container = styled.div`
@@ -36,30 +44,33 @@ export const Transition: React.FC<{}> = () => {
 	);
 
 	return (
-		<Container>
-			<div
-				style={{
-					transform: `scale(${scale})`,
-				}}
-			>
-				<svg
+		<>
+			<Audio src={transitionAudioSrc} />
+			<Container>
+				<div
 					style={{
-						width: videoConfig.width,
-						height: videoConfig.height,
-						position: 'absolute',
-						zIndex: 4,
+						transform: `scale(${scale})`,
 					}}
 				>
-					<defs>
-						<linearGradient id="lg">
-							<stop stopColor="#4290f5" offset="0" />
-							<stop stopColor="#42e9f5" offset="1" />
-						</linearGradient>
-						<mask id="mask">{arcs}</mask>
-					</defs>
-					{arcs}
-				</svg>
-			</div>
-		</Container>
+					<svg
+						style={{
+							width: videoConfig.width,
+							height: videoConfig.height,
+							position: 'absolute',
+							zIndex: 4,
+						}}
+					>
+						<defs>
+							<linearGradient id="lg">
+								<stop stopColor="#4290f5" offset="0" />
+								<stop stopColor="#42e9f5" offset="1" />
+							</linearGradient>
+							<mask id="mask">{arcs}</mask>
+						</defs>
+						{arcs}
+					</svg>
+				</div>
+			</Container>
+		</>
 	);
 };

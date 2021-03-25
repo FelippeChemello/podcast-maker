@@ -8,6 +8,7 @@ import {
 import {Title} from './Podcast/Title';
 import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
+import {Logo} from './Podcast/Logo';
 
 export const Main: React.FC<{
 	textProps: {
@@ -35,8 +36,8 @@ export const Main: React.FC<{
 		<div
 			style={{
 				flex: 1,
-				background:
-					'linear-gradient(170deg, #7AABD0 -1%, rgba(76, 109, 173, 0.796875) 30.99%, rgba(27, 47, 88, 0) 96.05%), #1B2F58',
+				background: '#0C2D48',
+				// 'linear-gradient(170deg, #7AABD0 -1%, rgba(76, 109, 173, 0.796875) 30.99%, rgba(27, 47, 88, 0) 96.05%), #1B2F58',
 			}}
 		>
 			<div style={{opacity}}>
@@ -46,6 +47,17 @@ export const Main: React.FC<{
 
 					return (
 						<>
+							<Sequence
+								from={
+									initialFrame -
+									videoConfig.fps * prop.duration
+								}
+								durationInFrames={
+									videoConfig.fps * prop.duration
+								}
+							>
+								<Title titleText={prop.text} />
+							</Sequence>
 							<Sequence
 								from={
 									initialFrame -
@@ -68,7 +80,7 @@ export const Main: React.FC<{
 									videoConfig.fps * prop.duration
 								}
 							>
-								<Title titleText={prop.text} />
+								<Logo />
 							</Sequence>
 							{index < textProps.length - 1 ? (
 								<Sequence

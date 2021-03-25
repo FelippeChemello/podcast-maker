@@ -1,15 +1,6 @@
-import {useCurrentFrame, useVideoConfig} from 'remotion';
-import styled from 'styled-components';
+import {spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
 import './fonts.css';
-
-const H1 = styled.h1`
-	font-family: 'Nunito';
-	font-weight: 300;
-	text-align: center;
-	align-self: center;
-	padding: 50px;
-`;
 
 export const Title: React.FC<{
 	titleText: string;
@@ -20,14 +11,26 @@ export const Title: React.FC<{
 
 	const indexOfEndOfTitle = text.findIndex((word) => word.match(/.*:.*/));
 
+	const opacity = spring({
+		fps: videoConfig.fps,
+		from: 0,
+		to: 1,
+		frame,
+		config: {mass: 1, damping: 1000},
+	});
+
 	return (
-		<H1>
+		<h1
+			style={{
+				fontFamily: 'Nunito',
+				alignSelf: 'center',
+				padding: 50,
+				opacity,
+			}}
+		>
 			{text.map((t, i) => {
 				const wordShouldAppear =
-					frame -
-						i *
-							((videoConfig.durationInFrames - 50) /
-								text.length) >
+					frame - i * (videoConfig.durationInFrames / text.length) >
 					0;
 
 				if (i <= indexOfEndOfTitle) {
@@ -40,7 +43,7 @@ export const Title: React.FC<{
 										wordShouldAppear ? '#fff' : '#497399'
 									}`,
 									display: 'inline-block',
-									fontSize: 72,
+									fontSize: 65,
 									fontWeight: 700,
 								}}
 							>
@@ -60,13 +63,13 @@ export const Title: React.FC<{
 							color: `${wordShouldAppear ? '#fff' : '#497399'}`,
 							display: 'inline-block',
 							fontWeight: 300,
-							fontSize: 48,
+							fontSize: 45,
 						}}
 					>
 						{t}
 					</span>
 				);
 			})}
-		</H1>
+		</h1>
 	);
 };

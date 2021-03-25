@@ -9,39 +9,42 @@ import CreateSingleAudioFileWithTransitionsService from '@modules/make/services/
 import RenderVideoService from '@modules/make/services/RenderVideoService';
 
 export default class AppointmentsController {
-  public async create(request: Request, response: Response): Promise<Response> {
-    console.log('Buscando texto');
-    const text = new GetTextService().execute('text.txt');
+    public async create(
+        request: Request,
+        response: Response,
+    ): Promise<Response> {
+        console.log('Buscando texto');
+        const text = new GetTextService().execute('.text.txt');
 
-    console.log('Separando em paragrafos');
-    const paragraphs = new BreakTextInParagraphsService().execute(text);
+        console.log('Separando em paragrafos');
+        const paragraphs = new BreakTextInParagraphsService().execute(text);
 
-    // console.log('Separando em frases');
-    // const paragraphsInPhrasesPromises = paragraphs.map(paragraph =>
-    //   new BreakParagraphIntoSentencesService().execute(paragraph),
-    // );
-    // const paragraphsInPhrases = await Promise.all(paragraphsInPhrasesPromises);
+        // console.log('Separando em frases');
+        // const paragraphsInPhrasesPromises = paragraphs.map(paragraph =>
+        //   new BreakParagraphIntoSentencesService().execute(paragraph),
+        // );
+        // const paragraphsInPhrases = await Promise.all(paragraphsInPhrasesPromises);
 
-    // const sentencesTagsPromises = paragraphsInPhrases.map(sentences =>
-    //   new GetTagsFromSentencesService().execute(sentences),
-    // );
-    // const SentencesTags = await Promise.all(sentencesTagsPromises);
+        // const sentencesTagsPromises = paragraphsInPhrases.map(sentences =>
+        //   new GetTagsFromSentencesService().execute(sentences),
+        // );
+        // const SentencesTags = await Promise.all(sentencesTagsPromises);
 
-    const tts: string[] = [];
-    // for (let i = 0; i < paragraphs.length; i++) {
-    //   const path = await new TextToSpeechService().execute(
-    //     paragraphs[i],
-    //     i.toString(),
-    //   );
-    //   tts.push(path);
-    // }
+        const tts: string[] = [];
+        // for (let i = 0; i < paragraphs.length; i++) {
+        //   const path = await new TextToSpeechService().execute(
+        //     paragraphs[i],
+        //     i.toString(),
+        //   );
+        //   tts.push(path);
+        // }
 
-    // console.log('Unindo audios');
-    // await new CreateSingleAudioFileWithTransitionsService().execute(tts);
+        // console.log('Unindo audios');
+        // await new CreateSingleAudioFileWithTransitionsService().execute(tts);
 
-    console.log('Iniciando Render');
-    await new RenderVideoService().execute(paragraphs || [], tts || []);
+        console.log('Iniciando Render');
+        await new RenderVideoService().execute(paragraphs || [], tts || []);
 
-    return response.json({ ok: 'ok' });
-  }
+        return response.json({ ok: 'ok' });
+    }
 }
