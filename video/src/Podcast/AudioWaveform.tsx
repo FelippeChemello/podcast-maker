@@ -36,16 +36,18 @@ const normalizeData = (filteredData: number[]) => {
 	return filteredData.map((n) => n * multiplier);
 };
 
-async function loadAudio(audioFileName: string) {
-	return await require(`/home/felippe/Projects/podcast-maker/tmp/${audioFileName}`);
+async function loadAudio(audioFilePath: string) {
+	const pathArray = audioFilePath.split('/');
+	const audioFileName = pathArray[pathArray.length - 1];
+
+	return await require(`../../../tmp/${audioFileName}`);
 }
 
 // const handle = delayRender();
 
-// TODO: Show metadata such as stereo, duration, bitrate
 export const AudioWaveform: React.FC<{
-	audioFileName: string;
-}> = ({audioFileName}) => {
+	audioFilePath: string;
+}> = ({audioFilePath}) => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
 
@@ -57,7 +59,7 @@ export const AudioWaveform: React.FC<{
 	useEffect(() => {
 		const audioContext = new AudioContext();
 
-		loadAudio(audioFileName)
+		loadAudio(audioFilePath)
 			.then((audio) => {
 				setAudioSrc(audio);
 				return fetch(audio);
@@ -74,7 +76,7 @@ export const AudioWaveform: React.FC<{
 			.catch((err) => {
 				console.log(err);
 			});
-	}, [audioFileName]);
+	}, [audioFilePath]);
 
 	if (!waveform) {
 		return null;

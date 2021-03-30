@@ -2,8 +2,7 @@ node_modules
 dist
 .vercel
 yarn-error.log
-tmp/uploads/*
-!tmp/uploads/.gitkeep
+tmp/frames/*
 tmp/*
 !tmp/.gitkeep
 !tmp/**/

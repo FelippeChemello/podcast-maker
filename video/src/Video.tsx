@@ -4,14 +4,21 @@ import {Main} from './Main';
 
 const handle = delayRender();
 
-export const RemotionVideo: React.FC<{duration: number}> = ({duration}) => {
-	const [textProps, setData] = useState<
-		{duration: number; text: string; audioFileName: string}[]
-	>([]);
+async function loadData() {
+	return await require(`/home/felippe/Projects/podcast-maker/tmp/1616956600.json`);
+}
+
+export const RemotionVideo: React.FC = () => {
+	const [data, setData] = useState<{
+		width: number;
+		height: number;
+		fullDuration: number;
+		date: string;
+		renderData: {duration: number; text: string; audioFilePath: string}[];
+	}>();
 
 	const fetchData = async () => {
-		const response = await fetch('http://localhost:3333/make');
-		const json = await response.json();
+		const json = await loadData();
 		setData(json);
 
 		continueRender(handle);
@@ -21,17 +28,22 @@ export const RemotionVideo: React.FC<{duration: number}> = ({duration}) => {
 		fetchData();
 	}, []);
 
+	if (!data) {
+		return null;
+	}
+
 	return (
 		<>
 			<Composition
 				id="Main"
 				component={Main}
-				durationInFrames={duration || 12548}
+				durationInFrames={Math.floor(data.fullDuration * 30)}
 				fps={30}
 				width={1920}
 				height={1080}
 				defaultProps={{
-					textProps,
+					textProps: data.renderData,
+					date: data.date,
 				}}
 			/>
 		</>
