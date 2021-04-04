@@ -7,6 +7,7 @@ import { tmpPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class RetrieveAudioDuration {
+    private transitionDurationInSeconds = 2.9;
     private content: InterfaceJsonContent;
 
     constructor(content: InterfaceJsonContent) {
@@ -31,6 +32,8 @@ export default class RetrieveAudioDuration {
 
             this.content.renderData[i].duration = duration;
         }
+
+        this.setFullDuration();
     }
 
     private async getDuration(path: string): Promise<number> {
@@ -46,5 +49,30 @@ export default class RetrieveAudioDuration {
                 resolve(duration);
             });
         });
+    }
+
+    private setFullDuration() {
+        if (!this.content.renderData) {
+            error('RenderData is undefined', 'ExportDataService');
+            return;
+        }
+
+        this.content.fullDuration = this.content.renderData.reduce(
+            (accumulator, currentValue, index) => {
+                if (
+                    !this.content.renderData ||
+                    index !== this.content.renderData.length - 1
+                ) {
+                    return (
+                        accumulator +
+                        currentValue.duration +
+                        this.transitionDurationInSeconds
+                    );
+                } else {
+                    return accumulator + currentValue.duration;
+                }
+            },
+            0,
+        );
     }
 }

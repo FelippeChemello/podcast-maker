@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-import { log } from '../utils/log';
+import { error, log } from '../utils/log';
 import { contentPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
@@ -17,13 +17,23 @@ export default class GetContentService {
             `Getting content from ${contentFilename}.${this.fileType}`,
             'GetContentService',
         );
-        const content = fs.readFileSync(
-            path.resolve(contentPath, `${contentFilename}.${this.fileType}`),
-            { encoding: 'utf-8' },
+        const contentFilePath = path.resolve(
+            contentPath,
+            `${contentFilename}.${this.fileType}`,
         );
-        const jsonContent = JSON.parse(content) as InterfaceJsonContent;
 
-        return jsonContent;
+        try {
+            const content = fs.readFileSync(contentFilePath, {
+                encoding: 'utf-8',
+            });
+
+            const jsonContent = JSON.parse(content) as InterfaceJsonContent;
+
+            return jsonContent;
+        } catch {
+            error(`${contentFilePath} not found`, 'GetContentService');
+            process.exit();
+        }
     }
 
     private getLastCreatedFile() {
@@ -32,7 +42,7 @@ export default class GetContentService {
         const files = fs.readdirSync(contentPath);
 
         const sortedFiles = files
-            .map(t => Number(t.split('.')[0]))
+            .map(t => Number(t.split('-')[0]))
             .sort((a, b) => a - b);
 
         return sortedFiles.pop();

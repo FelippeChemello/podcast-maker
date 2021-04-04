@@ -2,8 +2,9 @@ export default interface InterfaceJsonContent {
     timestamp: number;
     width: number;
     height: number;
-    text: string[];
+    news: { text: string; url?: string; shortLink?: string }[];
     fps: number;
+    title: string;
     fullDuration?: number;
     renderData?: {
         text: string;

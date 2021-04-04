@@ -1,0 +1,40 @@
+{
+    "title": "Monopólio em GIFs / GitHub com grande problema / IA usa voz para identificar doença",
+    "fps": 30,
+    "height": 1080,
+    "width": 1920,
+    "timestamp": 1617495844,
+    "news": [
+        {
+            "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+        },
+        {
+            "text": "Facebook é investigado por monopólio em imagens GIF: após a compra do site Giphy por 400 milhões de dólares no ano passado, o Reino Unido lançou uma investigação contra a empresa por preocupações sobre a concorrência relacionada à publicidade digital e controle do suprimento de imagens animadas para outros serviços de internet. As informações são do TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/01/uks-antitrust-watchdog-takes-a-closer-look-at-facebook-giphy/"
+        },
+        {
+            "text": "Dados médicos vazados de pacientes podem estar gravados permanentemente no projeto de preservação “GitHub Arctic Code Vault”: um snapshot de cada repositório público ativo no site, realizado em fevereiro de 2020, está preservado em um cofre de aço no Arquivo Ártico Mundial, instalação enterrada a 250m abaixo do permafrost da Noruega, e pode durar até 2.000 anos. O pesquisador holandês Jelle Ursem estima que cerca de 200 mil registros confidenciais de pacientes vazados estão neste arquivo, já que estavam disponíveis no site até dezembro do ano passado. Com informações do site Bleeping Computer e Wikipedia.",
+            "url": "https://www.bleepingcomputer.com/news/security/github-arctic-vault-likely-contains-leaked-meddata-patient-records/"
+        },
+        {
+            "text": "Nova IA faz pré-teste de infecção viral através da voz: o paciente precisa apenas contar do número 50 a 70 para um aplicativo instalado em um smartphone ou interface web para a inteligência artificial VocalisCheck então montar um espectrograma, identificando 512 biomarcadores das amostras de voz, e indicar a possibilidade de uma infecção viral em poucos minutos, mesmo assintomática, com 81,2% de acerto. As informações são do site TheNextWeb.",
+            "url": "https://thenextweb.com/neural/2021/04/02/this-ai-powered-app-detects-covid-19-using-just-your-voice-with-80-accuracy/"
+        },
+        {
+            "text": "Estudo aponta erros de rotulagem em dados usados para treinamento de IAs: pesquisadores do MIT analisaram conjuntos de dados citados mais de 100 mil vezes em trabalhos acadêmicos e descobriram que, em média, 3,4% das amostras estão rotuladas incorretamente (classificando um lâmpada como um crocodilo, por exemplo). Os pesquisadores argumentam que existem grandes riscos caso esses sistemas forem implementados no mundo real e aconselham desenvolvedores a primeiramente classificar as amostras e, somente então, treinar grandes modelos de inteligência artificial. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/01/mit_ai_accuracy/"
+        },
+        {
+            "text": "Amazon lança entregas no mesmo dia em São Paulo: o serviço vale para pedidos efetuados até 12h e as entregas ocorrem até as 21h do mesmo dia. O serviço está disponível para itens como bens de consumo, objetos para casa e eletrônicos. As informações são do portal da Folha de S.Paulo.",
+            "url": "https://www1.folha.uol.com.br/mercado/2021/03/amazon-anuncia-entrega-no-mesmo-dia-para-regiao-central-de-sao-paulo.shtml#:~:text=A%20Amazon%20vai%20fornecer%20o,as%2021h%20do%20mesmo%20dia."
+        },
+        {
+            "text": "Crew Dragon da SpaceX adicionará janela panorâmica no nariz da cápsula: a cúpula de vidro dará a turistas espaciais uma visão de 360 graus do espaço. Um escudo aerodinâmico protegerá a área durante o lançamento e se abrirá para expor um membro da tripulação de cada vez. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/3/31/22358313/spacex-crew-dragon-glass-dome-window-space-tourists"
+        },
+        {
+            "text": "Coreia do Sul irá lançar passaporte de vacina com tecnologia blockchain: os certificados ficarão armazenados em um aplicativo para celular e serão utilizados para retomada das viagens internacionais, mantendo dessa forma os riscos de infecção sob controle, afirmou o governo do país. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea-idUSKBN2BO43W"
+        }
+    ]
+}

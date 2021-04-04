@@ -1,11 +1,21 @@
 import {useEffect, useState} from 'react';
-import {Composition, delayRender, continueRender} from 'remotion';
+import {
+	Composition,
+	delayRender,
+	continueRender,
+	getInputProps,
+} from 'remotion';
 import {Main} from './Main';
+import {Thumbnail} from './Thumbnail';
+
+import './fonts.css';
 
 const handle = delayRender();
 
+const {filename} = getInputProps();
+
 async function loadData() {
-	return await require(`/home/felippe/Projects/podcast-maker/tmp/1616956600.json`);
+	return await require(`../../tmp/${filename}.json`);
 }
 
 export const RemotionVideo: React.FC = () => {
@@ -14,6 +24,7 @@ export const RemotionVideo: React.FC = () => {
 		height: number;
 		fullDuration: number;
 		date: string;
+		title: string;
 		renderData: {duration: number; text: string; audioFilePath: string}[];
 	}>();
 
@@ -43,6 +54,18 @@ export const RemotionVideo: React.FC = () => {
 				height={1080}
 				defaultProps={{
 					textProps: data.renderData,
+					date: data.date,
+				}}
+			/>
+			<Composition
+				id="Thumbnail"
+				component={Thumbnail}
+				durationInFrames={1}
+				fps={30}
+				width={1920}
+				height={1080}
+				defaultProps={{
+					title: data.title,
 					date: data.date,
 				}}
 			/>

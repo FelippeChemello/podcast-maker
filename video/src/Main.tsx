@@ -1,10 +1,4 @@
-import {
-	interpolate,
-	Sequence,
-	useCurrentFrame,
-	useVideoConfig,
-	Audio,
-} from 'remotion';
+import {interpolate, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
 import {Title} from './Podcast/Title';
 import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
@@ -21,10 +15,12 @@ export const Main: React.FC<{
 }> = ({textProps, date}) => {
 	const frame = useCurrentFrame();
 	const videoConfig = useVideoConfig();
+	const finishContentEarlierInFrames = 50;
+	const transitionDurationInFrames = 2.9 * videoConfig.fps;
 
 	const opacity = interpolate(
 		frame,
-		[videoConfig.durationInFrames - 25, videoConfig.durationInFrames - 15],
+		[videoConfig.durationInFrames, videoConfig.durationInFrames + 100],
 		[1, 0],
 		{
 			extrapolateLeft: 'clamp',
@@ -33,6 +29,7 @@ export const Main: React.FC<{
 	);
 
 	let initialFrame = 10;
+	let nextInitialFrame = initialFrame;
 
 	return (
 		<div
@@ -43,17 +40,17 @@ export const Main: React.FC<{
 		>
 			<div style={{opacity}}>
 				{textProps.map((prop, index) => {
-					initialFrame =
-						videoConfig.fps * prop.duration + initialFrame;
+					initialFrame = nextInitialFrame;
+					nextInitialFrame =
+						initialFrame +
+						transitionDurationInFrames +
+						videoConfig.fps * prop.duration;
 
 					if (index === 0) {
 						return (
 							<>
 								<Sequence
-									from={
-										initialFrame -
-										videoConfig.fps * prop.duration
-									}
+									from={initialFrame}
 									durationInFrames={
 										videoConfig.fps * prop.duration
 									}
@@ -64,10 +61,7 @@ export const Main: React.FC<{
 									/>
 								</Sequence>
 								<Sequence
-									from={
-										initialFrame -
-										videoConfig.fps * prop.duration
-									}
+									from={initialFrame}
 									durationInFrames={
 										videoConfig.fps * prop.duration
 									}
@@ -76,17 +70,17 @@ export const Main: React.FC<{
 								</Sequence>
 								{index < textProps.length - 1 ? (
 									<Sequence
-										from={initialFrame}
-										durationInFrames={87}
+										from={
+											initialFrame +
+											prop.duration * videoConfig.fps
+										}
+										durationInFrames={
+											transitionDurationInFrames
+										}
 									>
 										<Transition />
 									</Sequence>
-								) : (
-									<> </>
-								)}
-								<p style={{display: 'none'}}>
-									{(initialFrame += 87)}
-								</p>
+								) : null}
 							</>
 						);
 					}
@@ -94,21 +88,20 @@ export const Main: React.FC<{
 					return (
 						<>
 							<Sequence
-								from={
-									initialFrame -
-									videoConfig.fps * prop.duration
-								}
+								from={initialFrame}
 								durationInFrames={
 									videoConfig.fps * prop.duration
 								}
 							>
-								<Title titleText={prop.text} />
+								<Title
+									titleText={prop.text}
+									finishContentEarlierInFrames={
+										finishContentEarlierInFrames
+									}
+								/>
 							</Sequence>
 							<Sequence
-								from={
-									initialFrame -
-									videoConfig.fps * prop.duration
-								}
+								from={initialFrame}
 								durationInFrames={
 									videoConfig.fps * prop.duration
 								}
@@ -118,10 +111,7 @@ export const Main: React.FC<{
 								/>
 							</Sequence>
 							<Sequence
-								from={
-									initialFrame -
-									videoConfig.fps * prop.duration
-								}
+								from={initialFrame}
 								durationInFrames={
 									videoConfig.fps * prop.duration
 								}
@@ -130,17 +120,17 @@ export const Main: React.FC<{
 							</Sequence>
 							{index < textProps.length - 1 ? (
 								<Sequence
-									from={initialFrame}
-									durationInFrames={87}
+									from={
+										initialFrame +
+										prop.duration * videoConfig.fps
+									}
+									durationInFrames={
+										transitionDurationInFrames
+									}
 								>
 									<Transition />
 								</Sequence>
-							) : (
-								<> </>
-							)}
-							<p style={{display: 'none'}}>
-								{(initialFrame += 87)}
-							</p>
+							) : null}
 						</>
 					);
 				})}

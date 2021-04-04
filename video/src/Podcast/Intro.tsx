@@ -10,8 +10,6 @@ import {
 	Audio,
 } from 'remotion';
 
-import './fonts.css';
-
 async function loadAudio(audioFilePath: string) {
 	const pathArray = audioFilePath.split('/');
 	const audioFileName = pathArray[pathArray.length - 1];
@@ -151,7 +149,6 @@ export const Intro: React.FC<{
 					xmlnsXlink="http://www.w3.org/1999/xlink"
 					viewBox="0 0 1186.4 662.8"
 				>
-					<path fill="#2c3e50" d="M-9.7 0h1197.1v662.8H-9.7z" />
 					<defs>
 						<path id="prefix__a" d="M-9.7 0h1197.1v662.8H-9.7z" />
 					</defs>
@@ -291,10 +288,10 @@ export const Intro: React.FC<{
 							></rect>
 						) : null}
 						<text
-							x="521"
-							y="480"
+							x="531"
+							y="485"
 							style={{
-								fontFamily: 'Courier Prime',
+								fontFamily: 'ProductSans',
 								fontSize: 25,
 							}}
 						>

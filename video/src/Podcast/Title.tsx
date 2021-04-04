@@ -1,13 +1,15 @@
 import {spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
-import './fonts.css';
-
 export const Title: React.FC<{
 	titleText: string;
-}> = ({titleText}) => {
+	finishContentEarlierInFrames: number;
+}> = ({titleText, finishContentEarlierInFrames}) => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
 	const text = titleText.split(' ').map((t) => ` ${t} `);
+	const framesPerChar =
+		(videoConfig.durationInFrames - finishContentEarlierInFrames) /
+		titleText.length;
 
 	const indexOfEndOfTitle = text.findIndex((word) => word.match(/.*:.*/));
 
@@ -28,10 +30,16 @@ export const Title: React.FC<{
 				opacity,
 			}}
 		>
-			{text.map((t, i) => {
+			{text.map((t, i, arr) => {
 				const wordShouldAppear =
-					frame - i * (videoConfig.durationInFrames / text.length) >
+					frame -
+						(arr
+							.slice(0, i)
+							.reduce((acc, element) => acc + element.length, 0) -
+							i) *
+							framesPerChar >
 					0;
+				// Se o frame atual - frame da palavra (todas as letras e espaços da palavra atual e anteriores * framesPerChar) > 0 -> mostra a palavra
 
 				if (i <= indexOfEndOfTitle) {
 					return (

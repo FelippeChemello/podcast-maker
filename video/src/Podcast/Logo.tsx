@@ -8,13 +8,20 @@ import {
 } from 'remotion';
 import avatar from '../../../assets/Avatar.png';
 
-import './fonts.css';
-
 export const Logo: React.FC = () => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	const logoEntry = spring({fps: videoConfig.fps, from: -30, to: 30, frame});
+	const logoEntry = spring({
+		fps: videoConfig.fps,
+		from: -150,
+		to: 30,
+		frame,
+		config: {
+			mass: 0.8,
+			damping: 10,
+		},
+	});
 
 	return (
 		<div

@@ -20,38 +20,34 @@ class TextToSpeechService {
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
-    }
 
-    private init() {
-        if (!process.env.AZURE_KEY) {
+        if (!process.env.AZURE_TTS_KEY) {
             error('Azure Key is not defined', 'TextToSpeechService');
             return;
         }
 
-        if (!process.env.AZURE_REGION) {
+        if (!process.env.AZURE_TTS_REGION) {
             error('Azure Region is not defined', 'TextToSpeechService');
             return;
         }
 
-        this.azureKey = process.env.AZURE_KEY;
-        this.azureRegion = process.env.AZURE_REGION;
+        this.azureKey = process.env.AZURE_TTS_KEY;
+        this.azureRegion = process.env.AZURE_TTS_REGION;
     }
 
     public async execute(): Promise<void> {
-        this.init();
-
         this.content.renderData = [];
 
-        for (let i = 0; i < this.content.text.length; i++) {
+        for (let i = 0; i < this.content.news.length; i++) {
             log(`Synthetizing sentence ${i}`, 'TextToSpeechService');
 
             const audioFilePath = await this.synthesize(
-                this.content.text[i],
+                this.content.news[i].text,
                 i.toString(),
             );
 
             this.content.renderData.push({
-                text: this.content.text[i],
+                text: this.content.news[i].text,
                 duration: 0,
                 audioFilePath,
             });

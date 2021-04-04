@@ -2,11 +2,11 @@ node_modules
 dist
 .vercel
 yarn-error.log
-tmp/frames/*
 tmp/*
 !tmp/.gitkeep
-!tmp/**/
 coverage
 .env
 .env.prod
 .env.dev
+access_token.json
+google-youtube.json

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime');
+
+@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 300;
+	src: url(../../assets/ProductSans-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 100;
+	src: url(../../assets/ProductSans-Thin.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 600;
+	src: url(../../assets/ProductSans-Black.woff) format('woff');
+}

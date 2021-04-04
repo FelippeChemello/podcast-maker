@@ -17,7 +17,7 @@ import {
 
 const filterData = (audioBuffer: AudioBuffer) => {
 	const rawData = audioBuffer.getChannelData(0); // We only need to work with one channel of data
-	const samples = 750; //Quantas barras serão exibidas por audio. Implica na largura de cada barra
+	const samples = 750; //Quantity of bars will show for each audio. It imply at width of each bar.
 	const blockSize = Math.floor(rawData.length / Math.ceil(samples)); // the number of samples in each subdivision
 	const filteredData = [];
 	for (let i = 0; i < samples; i++) {
@@ -107,7 +107,6 @@ export const AudioWaveform: React.FC<{
 
 					return (
 						<div
-							// eslint-disable-next-line react/no-array-index-key
 							key={i}
 							style={{
 								height,
