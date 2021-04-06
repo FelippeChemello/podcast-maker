@@ -33,17 +33,59 @@ class TextToSpeechService {
 
         this.azureKey = process.env.AZURE_TTS_KEY;
         this.azureRegion = process.env.AZURE_TTS_REGION;
+        this.content.renderData = [];
     }
 
-    public async execute(): Promise<void> {
-        this.content.renderData = [];
+    public async execute(destination: 'instagram' | 'youtube'): Promise<void> {
+        let hasIntro = false;
+        if (destination === 'youtube') {
+            hasIntro = await this.synthesizeIntro();
+        }
 
-        for (let i = 0; i < this.content.news.length; i++) {
-            log(`Synthetizing sentence ${i}`, 'TextToSpeechService');
+        const lastAudioIndex = await this.synthesizeNews(hasIntro ? 1 : 0);
 
+        if (destination === 'youtube') {
+            await this.synthesizeEnd(lastAudioIndex + 1);
+        }
+    }
+
+    private async synthesizeIntro(): Promise<boolean> {
+        if (!this.content.intro?.text) {
+            return false;
+        }
+
+        if (typeof this.content.renderData !== 'object') {
+            error('Render data is not defined', 'TextToSeechService');
+            process.exit(1);
+        }
+
+        log(`Synthetizing Intro`, 'TextToSpeechService');
+        const audioFilePath = await this.synthesize(
+            this.content.intro.text,
+            '0',
+        );
+
+        this.content.renderData.push({
+            text: this.content.intro.text,
+            duration: 0,
+            audioFilePath,
+        });
+
+        return true;
+    }
+
+    private async synthesizeNews(startFileIndexAt: number): Promise<number> {
+        if (typeof this.content.renderData !== 'object') {
+            error('Render data is not defined', 'TextToSeechService');
+            process.exit(1);
+        }
+
+        let i: number;
+        for (i = 0; i < this.content.news.length; i++) {
+            log(`Synthetizing news ${i}`, 'TextToSpeechService');
             const audioFilePath = await this.synthesize(
                 this.content.news[i].text,
-                i.toString(),
+                (i + startFileIndexAt).toString(),
             );
 
             this.content.renderData.push({
@@ -52,6 +94,31 @@ class TextToSpeechService {
                 audioFilePath,
             });
         }
+
+        return i;
+    }
+
+    private async synthesizeEnd(indexFileName: number): Promise<void> {
+        if (!this.content.end?.text) {
+            return;
+        }
+
+        if (typeof this.content.renderData !== 'object') {
+            error('Render data is not defined', 'TextToSeechService');
+            process.exit(1);
+        }
+
+        log('Synthetizing end', 'TextToSpeechService');
+        const audioFilePath = await this.synthesize(
+            this.content.end.text,
+            indexFileName.toString(),
+        );
+
+        this.content.renderData.push({
+            text: this.content.end.text,
+            duration: 0,
+            audioFilePath,
+        });
     }
 
     private getVoice() {

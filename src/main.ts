@@ -14,28 +14,51 @@ import UrlShortenerService from './services/UrlShortenerService';
 import CleanTmpService from './services/CleanTmpService';
 import { error, log } from './utils/log';
 
-const create = async (contentFileName?: string) => {
+// Permitir a criação e utilização de audios separadamente.
+// --audio-only | --use-audio-from <path>
+//
+// Testar novamente youtube. Instagram funcionando!
+//
+// Fazer upload para Instagram automaticamente
+
+const create = async ({
+    contentFileName,
+    destination,
+}: {
+    contentFileName?: string;
+    destination: 'youtube' | 'instagram';
+}) => {
     const beginTime = Date.now();
 
     const content = new GetContentService().execute(contentFileName);
 
-    await new UrlShortenerService(content).execute();
+    if (destination === 'youtube') {
+        await new UrlShortenerService(content).execute();
+    }
 
-    await new TextToSpeechService(content).execute();
+    await new TextToSpeechService(content).execute(destination);
 
     await new RetrieveAudioDuration(content).execute();
 
-    new exportDataService(content).execute();
+    new exportDataService(content).execute(destination);
 
     const bundle = await new BundleVideoService().execute();
 
-    const videoPath = await new RenderVideoService(content).execute(bundle);
+    const videoPath = await new RenderVideoService(content).execute(
+        bundle,
+        destination,
+    );
 
     const thumbnailPath = await new CreateThumnailService(content).execute(
         bundle,
     );
 
-    await new YoutubeUploadService(content).execute(videoPath, thumbnailPath);
+    if (destination === 'youtube') {
+        await new YoutubeUploadService(content).execute(
+            videoPath,
+            thumbnailPath,
+        );
+    }
 
     log(
         `Podcast created in ${Math.round(
@@ -51,12 +74,15 @@ program
     .option('-b, --build', 'Create video and upload to YouTube')
     .option('-f, --file <filename>', 'Define content file to build video')
     .option(
+        '-d, --destination <destination>',
+        'Set destination of video. \nOptions: youtube or instagram.',
+        'youtube',
+    )
+    .option(
         '-c, --create <description>',
         'Create new content file with default labels',
     )
     .option('-rm, --clean', 'Clean tmp dir')
-    .option('-vh, --height', 'Set video height')
-    .option('-vw, --width', 'Set video width')
     .option('-vf, --fps', 'Set video FPS')
     .parse(process.argv);
 
@@ -67,14 +93,12 @@ if (Object.keys(options).length <= 0) {
 }
 
 if (options.build) {
-    create(options.file);
+    create({ contentFileName: options.file, destination: options.destination });
 }
 
 if (options.create) {
     new CreateContentTemplateService().execute(options.create, {
         fps: options.fps,
-        height: options.height,
-        width: options.width,
     });
 }
 

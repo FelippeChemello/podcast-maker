@@ -1,14 +1,16 @@
 {
     "title": "Telefone de Zuckerberg vaza na Web / LinkedIn anuncia pausa / Interface cérebro-computador sem fio",
     "fps": 30,
-    "height": 1080,
-    "width": 1920,
     "date": "05/04/2021",
-    "timestamp": 1617654606,
+    "timestamp": 1617654777,
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
     "news": [
-        {
-            "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
-        },
         {
             "text": "Milhões de dados pessoais de usuários do Facebook estão disponíveis gratuitamente em fórum: os dados pertencem a 533 milhões de usuários e contemplam informações como números de telefone, nomes completos, localização, email e informações biográficas. De brasileiros, o hacker afirma possuir mais de oito milhões de registros. O Facebook afirma que os dados foram obtidos através de uma vulnerabilidade antiga, já corrigida em 2019. Pesquisadores de segurança alertam que os dados roubados poderão ser utilizados por hackers para cometer fraudes. As informações são da Business Insider.",
             "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
@@ -48,10 +50,6 @@
         {
             "text": "IBM lança primeira certificação para programadores de computadores quânticos: a “IBM Quantum Developer Certification” permite que qualquer pessoa com experiência em Python e conhecimento básico de álgebra linear obtenha uma certificação no Qiskit, kit de desenvolvimento de software quântico de código aberto da IBM. Estima-se que a computação quântica será uma indústria de 65 bilhões de dólares em 2030, resultando em um grande aumento na oferta de novos empregos no setor. As informações são do blog da IBM.",
             "url": "https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/"
-        },
-        {
-            "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
-            "url": "https://filipedeschamps.com.br/newsletter"
         }
     ]
 }

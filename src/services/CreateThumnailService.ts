@@ -1,16 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import { bundle } from '@remotion/bundler';
-import {
-    getCompositions,
-    renderFrames,
-    stitchFramesToVideo,
-} from '@remotion/renderer';
-import cliProgress from 'cli-progress';
+import { getCompositions, renderFrames } from '@remotion/renderer';
 
 import InterfaceJsonContent from 'models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
-import { tmpPath, remotionPath } from '../config/defaultPaths';
+import { tmpPath } from '../config/defaultPaths';
 
 export default class CreateThumnailService {
     private content: InterfaceJsonContent;

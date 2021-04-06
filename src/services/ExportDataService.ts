@@ -1,8 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-import { error, log } from '../utils/log';
+import { log } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
+import { format } from '../config/destination';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class ExportDataService {
@@ -13,8 +14,11 @@ export default class ExportDataService {
         this.content = content;
     }
 
-    public execute(): void {
+    public execute(destination: 'youtube' | 'instagram'): void {
         const dataFilename = `${this.content.timestamp}.${this.fileType}`;
+
+        this.content.width = format[destination].width;
+        this.content.height = format[destination].height;
 
         log(`Exporting data to ${dataFilename}`, 'ExportDataService');
         fs.writeFileSync(

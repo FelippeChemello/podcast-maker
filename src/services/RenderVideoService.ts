@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { bundle } from '@remotion/bundler';
 import {
     getCompositions,
     renderFrames,
@@ -11,6 +10,7 @@ import cliProgress from 'cli-progress';
 import InterfaceJsonContent from 'models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
+import { format } from '../config/destination';
 
 class RenderVideoService {
     private content: InterfaceJsonContent;
@@ -20,7 +20,10 @@ class RenderVideoService {
         this.content = content;
     }
 
-    public async execute(bundle: string): Promise<string> {
+    public async execute(
+        bundle: string,
+        destination: 'instagram' | 'youtube',
+    ): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
         const compositions = await getCompositions(bundle, {
             inputProps: { filename: this.content.timestamp },
@@ -59,7 +62,10 @@ class RenderVideoService {
             onFrameUpdate: frame => renderProgressBar.update(frame),
             parallelism: null,
             outputDir: framesDir,
-            inputProps: { filename: this.content.timestamp },
+            inputProps: {
+                filename: this.content.timestamp,
+                withoutIntro: destination === 'instagram',
+            },
             compositionId: this.compositionId,
             imageFormat: 'jpeg',
         });
@@ -83,8 +89,8 @@ class RenderVideoService {
         await stitchFramesToVideo({
             dir: framesDir,
             fps: this.content.fps,
-            width: this.content.width,
-            height: this.content.height,
+            width: format[destination].width,
+            height: format[destination].height,
             outputLocation: outputVideoPath,
             force: true,
             imageFormat: 'jpeg',

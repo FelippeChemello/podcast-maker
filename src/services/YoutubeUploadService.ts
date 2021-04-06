@@ -112,8 +112,7 @@ export default class YoutubeUploadService {
         }[] = [];
 
         this.content.news.forEach((news, i) => {
-            // Won't add first news to description, since it is the video intro
-            if (i != 0) {
+            
                 const [title, details] = news.text.split(': ');
 
                 descriptionArray.push({
@@ -123,8 +122,20 @@ export default class YoutubeUploadService {
                         : '',
                     url: news.shortLink ?? news.url ?? '',
                 });
-            }
+            
         });
+
+        if (this.content.end) {
+            const [title, details] = this.content.end.text.split(': ');
+
+            descriptionArray.push({
+                title: details ? title.toUpperCase() : title,
+                details: details
+                    ? details.charAt(0).toUpperCase() + details.slice(1)
+                    : '',
+                url: this.content.end.shortLink ?? this.content.end.url ?? '',
+            });
+        }
 
         const charactersLimitPerNews =
             this.descriptionCharactersLimit / descriptionArray.length;
