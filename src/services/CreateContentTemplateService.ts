@@ -18,12 +18,18 @@ export default class CreateContentTemplateService {
 
         const timestamp = Math.round(Date.now() / 1000);
 
+        const newsTemplate = new Array(10).fill({
+            text: '',
+            url: '',
+        });
+
         const template: InterfaceJsonContent = {
             title: '',
             fps: fps ?? 30,
             height: height ?? 1080,
             width: width ?? 1920,
             timestamp,
+            date: new Date().toLocaleDateString('pt-BR'),
             news: [
                 {
                     text: `Olá pessoal, A seguir vocês acompanharão as notícias desta ${new Date().toLocaleDateString(
@@ -31,13 +37,11 @@ export default class CreateContentTemplateService {
                         { weekday: 'long' },
                     )}. Na descrição vocês encontram os links para saber mais sobre cada noticia. `,
                 },
+                ...newsTemplate,
                 {
-                    text: '',
-                    url: '',
-                },
-                {
-                    text: '',
-                    url: '',
+                    text:
+                        'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
+                    url: 'https://filipedeschamps.com.br/newsletter',
                 },
             ],
         };

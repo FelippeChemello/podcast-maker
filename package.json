@@ -4,9 +4,10 @@
     "main": "dist/server.js",
     "license": "MIT",
     "scripts": {
-        "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": 1616956600}'",
-        "video:build-debug": "remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": 1617495844}'",
+        "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": \"example\"}'",
+        "video:build-debug": "remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example\"}'",
         "video:build": "ts-node src/main.ts --build",
+        "tmp:clean": "ts-node src/main.ts --clean",
         "content:create": "ts-node src/main.ts --create",
         "remotion:upgrade": "remotion upgrade"
     },

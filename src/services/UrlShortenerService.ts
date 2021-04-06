@@ -5,18 +5,19 @@ import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class UrlShortenerService {
     private content: InterfaceJsonContent;
-    private bitlyApiKey: string;
-    private bitlyGroup = 'felippechemello';
+    private rebrandlyApiKey: string;
+    private rebrandlyWorkspaceId = 'dfff71669fb94fd38131030d58f23ae6';
+    private shortUrlBase = 'links.codestack.me';
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
 
-        if (!process.env.BITLY_API_KEY) {
-            error('Bitly API key is not defined', 'UrlShortenerService');
+        if (!process.env.REBRANDLY_API_KEY) {
+            error('Rebrandly API key is not defined', 'UrlShortenerService');
             return;
         }
 
-        this.bitlyApiKey = process.env.BITLY_API_KEY;
+        this.rebrandlyApiKey = process.env.REBRANDLY_API_KEY;
     }
 
     public async execute(): Promise<void> {
@@ -25,19 +26,28 @@ export default class UrlShortenerService {
                 continue;
             }
 
-            log(`Shorting url from news ${i}`, 'UrlShortenerService');
-            const bitlyResponse = await axios.post(
-                'https://api-ssl.bitly.com/v4/shorten',
-                {
-                    long_url: this.content.news[i].url,
-                    group_guid: this.bitlyGroup,
-                },
-                { headers: { Authorization: `Bearer ${this.bitlyApiKey}` } },
-            );
+            try {
+                log(`Shorting url from news ${i}`, 'UrlShortenerService');
+                const rebrandlyResponse = await axios.post(
+                    'https://api.rebrandly.com/v1/links',
+                    {
+                        destination: this.content.news[i].url,
+                        domain: { fullName: this.shortUrlBase },
+                    },
+                    {
+                        headers: {
+                            apikey: this.rebrandlyApiKey,
+                            workspace: this.rebrandlyWorkspaceId,
+                        },
+                    },
+                );
 
-            console.log(bitlyResponse);
-
-            // this.content.news[i].shortLink = bitlyResponse.link;
+                this.content.news[
+                    i
+                ].shortLink = `https://${rebrandlyResponse.data.shortUrl}`;
+            } catch {
+                continue;
+            }
         }
     }
 }

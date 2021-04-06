@@ -4,6 +4,7 @@ dist
 yarn-error.log
 tmp/*
 !tmp/.gitkeep
+!tmp/example*
 coverage
 .env
 .env.prod

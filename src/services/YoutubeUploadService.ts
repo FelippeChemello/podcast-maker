@@ -8,10 +8,11 @@ import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class YoutubeUploadService {
     private content: InterfaceJsonContent;
-    private redirectUrl = 'http://localhost:5000/oauth2callback';
+    private redirectUrl = 'http://localhost:3000/oauth2callback';
     private clientId: string;
     private clientSecret: string;
     private refreshToken: string;
+    private descriptionCharactersLimit = 5000 - 50; // 50 is the safe area to avoid errors
     private categoryIds = {
         Entertainment: 24,
         Education: 27,
@@ -104,17 +105,96 @@ export default class YoutubeUploadService {
     }
 
     private getDescription() {
-        let description = '';
+        const descriptionArray: {
+            title: string;
+            details: string;
+            url: string;
+        }[] = [];
 
         this.content.news.forEach((news, i) => {
             // Won't add first news to description, since it is the video intro
             if (i != 0) {
                 const [title, details] = news.text.split(': ');
 
-                description += `${title.toUpperCase()} \n${
-                    details.charAt(0).toUpperCase() + details.slice(1)
-                } \n${news.shortLink ?? news.url ?? ''} \n\n`;
+                descriptionArray.push({
+                    title: details ? title.toUpperCase() : title,
+                    details: details
+                        ? details.charAt(0).toUpperCase() + details.slice(1)
+                        : '',
+                    url: news.shortLink ?? news.url ?? '',
+                });
             }
+        });
+
+        const charactersLimitPerNews =
+            this.descriptionCharactersLimit / descriptionArray.length;
+
+        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray = descriptionArray.filter(
+            newsDescription =>
+                newsDescription.title.length +
+                    newsDescription.details.length +
+                    newsDescription.url.length <
+                charactersLimitPerNews,
+        );
+
+        const characterRemain = newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
+            .map(
+                newsDescription =>
+                    charactersLimitPerNews -
+                    (newsDescription.title.length +
+                        newsDescription.details.length +
+                        newsDescription.url.length),
+            )
+            .reduce((acc, detailsLength) => acc + detailsLength);
+
+        const quantityOfNewsWithMoreThanLimitPerNews =
+            descriptionArray.length -
+            newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray.length;
+
+        const increaseEachDetailLimitWith =
+            characterRemain / quantityOfNewsWithMoreThanLimitPerNews;
+
+        const newCharactersLimitPerNews =
+            charactersLimitPerNews + increaseEachDetailLimitWith;
+
+        let description = '';
+
+        descriptionArray.forEach((newsDescriptions, i) => {
+            description += `${newsDescriptions.title} \n`;
+
+            if (newsDescriptions.details) {
+                if (
+                    newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray.includes(
+                        newsDescriptions,
+                    )
+                ) {
+                    description += `${newsDescriptions.details} \n`;
+                } else {
+                    const newsDetailsCharacterLimit =
+                        newCharactersLimitPerNews -
+                        newsDescriptions.title.length -
+                        newsDescriptions.url.length;
+
+                    const trimmedDetails = newsDescriptions.details.substr(
+                        0,
+                        newsDetailsCharacterLimit,
+                    );
+
+                    description += `${trimmedDetails.substr(
+                        0,
+                        Math.min(
+                            trimmedDetails.length,
+                            trimmedDetails.lastIndexOf(' '),
+                        ),
+                    )}... \n`;
+                }
+            }
+
+            if (newsDescriptions.url) {
+                description += `${newsDescriptions.url} \n`;
+            }
+
+            description += '\n';
         });
 
         return description;
@@ -126,7 +206,7 @@ export default class YoutubeUploadService {
     ): Promise<string> {
         const youtube = google.youtube({ version: 'v3' });
 
-        log('Starting to upload the video to YouTube', 'YoutubeUploadService');
+        log('Uploading video to YouTube', 'YoutubeUploadService');
 
         const uploadProgressBar = new cliProgress.SingleBar(
             {
@@ -138,9 +218,18 @@ export default class YoutubeUploadService {
             cliProgress.Presets.shades_classic,
         );
 
-        const videoSize = fs.statSync(videoPath).size / 1000000; // Convert to Mb
+        const videoSize =
+            Math.floor((fs.statSync(videoPath).size / 1000000) * 100) / 100;
 
-        uploadProgressBar.start(videoSize, 0, { speed: 'N/A' });
+        let title = `[CodeStack News] ${this.content.title}`;
+
+        if (title.length >= 100) {
+            const titleArray = title.split('/');
+            titleArray.pop();
+            title = titleArray.join('/');
+        }
+
+        uploadProgressBar.start(videoSize, 0);
 
         const youtubeResponse = await youtube.videos.insert(
             {
@@ -148,13 +237,13 @@ export default class YoutubeUploadService {
                 part: ['snippet', 'status'],
                 requestBody: {
                     snippet: {
-                        title: `[CodeStack News] ${this.content.title}`,
+                        title,
                         description: this.getDescription(),
                         tags: this.defaultTags,
                         categoryId: `${this.categoryIds.ScienceTechnology}`,
                     },
                     status: {
-                        privacyStatus: 'private',
+                        privacyStatus: 'public',
                         madeForKids: false,
                     },
                 },
@@ -164,7 +253,9 @@ export default class YoutubeUploadService {
             },
             {
                 onUploadProgress: event =>
-                    uploadProgressBar.update(event.bytesRead / 1000000),
+                    uploadProgressBar.update(
+                        Math.floor((event.bytesRead / 1000000) * 100) / 100,
+                    ),
             },
         );
 

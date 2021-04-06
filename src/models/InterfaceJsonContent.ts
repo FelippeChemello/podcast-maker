@@ -6,6 +6,7 @@ export default interface InterfaceJsonContent {
     fps: number;
     title: string;
     fullDuration?: number;
+    date: string;
     renderData?: {
         text: string;
         duration: number;

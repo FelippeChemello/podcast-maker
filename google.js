@@ -112,10 +112,12 @@ function getNewToken(oauth2Client, callback) {
         scope: ['https://www.googleapis.com/auth/youtube'],
     });
     console.log('Authorize this app by visiting this url: ', authUrl);
+    fs.writeFileSync('oauth', authUrl, { encoding: 'utf-8' });
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout,
     });
+    // If takes from URL need to use decoreURIComponent -> https://stackoverflow.com/questions/51058256/google-api-node-js-invalid-grant-malformed-auth-code
     rl.question('Enter the code from that page here: ', function (code) {
         rl.close();
         oauth2Client.getToken(code, function (err, token) {

@@ -6,21 +6,13 @@ import { contentPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class GetContentService {
-    private fileType = 'json';
-
     constructor() {}
 
     public execute(filename?: string): InterfaceJsonContent {
         const contentFilename = filename ? filename : this.getLastCreatedFile();
 
-        log(
-            `Getting content from ${contentFilename}.${this.fileType}`,
-            'GetContentService',
-        );
-        const contentFilePath = path.resolve(
-            contentPath,
-            `${contentFilename}.${this.fileType}`,
-        );
+        log(`Getting content from ${contentFilename}`, 'GetContentService');
+        const contentFilePath = path.resolve(contentPath, contentFilename);
 
         try {
             const content = fs.readFileSync(contentFilePath, {
@@ -45,6 +37,18 @@ export default class GetContentService {
             .map(t => Number(t.split('-')[0]))
             .sort((a, b) => a - b);
 
-        return sortedFiles.pop();
+        const latestTimestamp = sortedFiles.pop();
+        const fileRegExp = new RegExp(`${latestTimestamp}.*`, 'ig');
+
+        const latestCreatedFilename = files.find(file =>
+            file.match(fileRegExp),
+        );
+
+        if (!latestCreatedFilename) {
+            error('Could not find latest file content', 'GetContentService');
+            return '';
+        }
+
+        return latestCreatedFilename;
     }
 }

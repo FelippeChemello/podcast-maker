@@ -11,15 +11,15 @@ import CreateThumnailService from './services/CreateThumnailService';
 import BundleVideoService from './services/BundleVideoService';
 import CreateContentTemplateService from './services/CreateContentTemplateService';
 import UrlShortenerService from './services/UrlShortenerService';
+import CleanTmpService from './services/CleanTmpService';
 import { error, log } from './utils/log';
-
-// Fazer funcionar encurtador de links e utilizar links curtos na descrição do video
-// File default não está sendo encontrada no GetContentService, pois não encontra o texto após '-'
 
 const create = async (contentFileName?: string) => {
     const beginTime = Date.now();
 
     const content = new GetContentService().execute(contentFileName);
+
+    await new UrlShortenerService(content).execute();
 
     await new TextToSpeechService(content).execute();
 
@@ -54,6 +54,7 @@ program
         '-c, --create <description>',
         'Create new content file with default labels',
     )
+    .option('-rm, --clean', 'Clean tmp dir')
     .option('-vh, --height', 'Set video height')
     .option('-vw, --width', 'Set video width')
     .option('-vf, --fps', 'Set video FPS')
@@ -75,4 +76,8 @@ if (options.create) {
         height: options.height,
         width: options.width,
     });
+}
+
+if (options.clean) {
+    new CleanTmpService().execute();
 }
