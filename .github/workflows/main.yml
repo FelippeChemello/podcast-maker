@@ -5,6 +5,15 @@ on:
         branches: [master]
     workflow_dispatch:
 
+env:
+    DEBUG: ${{ secrets.DEBUG }}
+    AZURE_TTS_KEY: ${{ secrets.AZURE_TTS_KEY }}
+    AZURE_TTS_REGION: ${{ secrets.AZURE_TTS_REGION }}
+    YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+    YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+    YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+    REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
+
 jobs:
     TextToSpeech:
         runs-on: ubuntu-latest
