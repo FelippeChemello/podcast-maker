@@ -1,9 +1,4 @@
-import { google } from 'googleapis';
-import fs from 'fs';
-import cliProgress from 'cli-progress';
-import { OAuth2Client } from 'googleapis-common';
-
-import { error, log } from '../utils/log';
+import { error } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class InstagramUploadService {
@@ -15,6 +10,9 @@ export default class InstagramUploadService {
         'noticiasrapidas',
         'tecnologia',
         'ia',
+        'programacao',
+        'newsletter',
+        'newsletterfilipedeschamps',
     ];
 
     constructor(content: InterfaceJsonContent) {
