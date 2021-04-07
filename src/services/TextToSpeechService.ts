@@ -37,15 +37,14 @@ class TextToSpeechService {
     }
 
     public async execute(destination: 'instagram' | 'youtube'): Promise<void> {
-        let hasIntro = false;
         if (destination === 'youtube') {
-            hasIntro = await this.synthesizeIntro();
+            await this.synthesizeIntro();
         }
 
-        const lastAudioIndex = await this.synthesizeNews(hasIntro ? 1 : 0);
+        await this.synthesizeNews();
 
         if (destination === 'youtube') {
-            await this.synthesizeEnd(lastAudioIndex + 1);
+            await this.synthesizeEnd();
         }
     }
 
@@ -63,7 +62,7 @@ class TextToSpeechService {
         log(`Synthetizing Intro`, 'TextToSpeechService');
         const audioFilePath = await this.synthesize(
             this.content.intro.text,
-            '0',
+            'intro',
         );
 
         this.content.renderData.push({
@@ -75,7 +74,7 @@ class TextToSpeechService {
         return true;
     }
 
-    private async synthesizeNews(startFileIndexAt: number): Promise<number> {
+    private async synthesizeNews(): Promise<number> {
         if (typeof this.content.renderData !== 'object') {
             error('Render data is not defined', 'TextToSeechService');
             process.exit(1);
@@ -86,7 +85,7 @@ class TextToSpeechService {
             log(`Synthetizing news ${i}`, 'TextToSpeechService');
             const audioFilePath = await this.synthesize(
                 this.content.news[i].text,
-                (i + startFileIndexAt).toString(),
+                i.toString(),
             );
 
             this.content.renderData.push({
@@ -99,7 +98,7 @@ class TextToSpeechService {
         return i;
     }
 
-    private async synthesizeEnd(indexFileName: number): Promise<void> {
+    private async synthesizeEnd(): Promise<void> {
         if (!this.content.end?.text) {
             log('End text is not defined, skipping...', 'TextToSeechService');
             return;
@@ -113,7 +112,7 @@ class TextToSpeechService {
         log('Synthetizing end', 'TextToSpeechService');
         const audioFilePath = await this.synthesize(
             this.content.end.text,
-            indexFileName.toString(),
+            'end',
         );
 
         this.content.renderData.push({

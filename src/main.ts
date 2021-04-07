@@ -4,7 +4,7 @@ import { Command } from 'commander';
 import { error, log } from './utils/log';
 import GetContentService from './services/GetContentService';
 import TextToSpeechService from './services/TextToSpeechService';
-import RetrieveAudioDuration from './services/RetrieveAudioDuration';
+import RetrieveAudioDuration from './services/RetrieveAudioDataService';
 import exportDataService from './services/ExportDataService';
 import RenderVideoService from './services/RenderVideoService';
 import YoutubeUploadService from './services/YoutubeUploadService';
@@ -15,29 +15,42 @@ import UrlShortenerService from './services/UrlShortenerService';
 import CleanTmpService from './services/CleanTmpService';
 import InstagramUploadService from './services/InstagramUploadService';
 
-// Permitir a criação e utilização de audios separadamente.
-// --audio-only | --use-audio-from <path>
-//
 // Fazer upload para Instagram automaticamente
 
 const create = async ({
     contentFileName,
     destination,
+    onlyTTS,
+    noNeedTTS,
 }: {
     contentFileName?: string;
     destination: 'youtube' | 'instagram';
+    onlyTTS: boolean;
+    noNeedTTS: boolean;
 }) => {
     const beginTime = Date.now();
 
     const content = new GetContentService().execute(contentFileName);
 
+    if (!noNeedTTS) {
+        await new TextToSpeechService(content).execute(destination);
+    }
+
+    if (onlyTTS) {
+        log(
+            `TTS audio files created in ${Math.round(
+                (Date.now() - beginTime) / 1000,
+            )} seconds`,
+            'Main',
+        );
+        process.exit(0);
+    }
+
+    await new RetrieveAudioDuration(content).execute(noNeedTTS, destination);
+
     if (destination === 'youtube') {
         await new UrlShortenerService(content).execute();
     }
-
-    await new TextToSpeechService(content).execute(destination);
-
-    await new RetrieveAudioDuration(content).execute();
 
     new exportDataService(content).execute(destination);
 
@@ -84,6 +97,12 @@ program
         'Set destination of video. \nOptions: youtube or instagram.',
         'youtube',
     )
+    .option('-tts, --onlyTTS', 'Only create TTS audio files', false)
+    .option(
+        '-ntts, --noNeedTTS',
+        'If TTS audio files has already been created and it is placed in `tmp/`, set it param',
+        false,
+    )
     .option(
         '-c, --create <description>',
         'Create new content file with default labels',
@@ -99,7 +118,12 @@ if (Object.keys(options).length <= 0) {
 }
 
 if (options.build) {
-    create({ contentFileName: options.file, destination: options.destination });
+    create({
+        contentFileName: options.file,
+        destination: options.destination,
+        onlyTTS: options.onlyTTS,
+        noNeedTTS: options.noNeedTTS,
+    });
 }
 
 if (options.create) {

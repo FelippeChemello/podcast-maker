@@ -8,5 +8,5 @@ export function log(message: any, prefix?: string) {
 
 export function error(message: any, prefix?: string) {
     console.log(`[ERROR] ${prefix ? `[${prefix}]` : null} ${message}`);
-    process.exit(0);
+    process.exit(1);
 }

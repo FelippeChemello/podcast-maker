@@ -24,7 +24,7 @@ export default class GetContentService {
             return jsonContent;
         } catch {
             error(`${contentFilePath} not found`, 'GetContentService');
-            process.exit();
+            process.exit(1);
         }
     }
 

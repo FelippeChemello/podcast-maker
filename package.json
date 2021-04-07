@@ -7,6 +7,10 @@
         "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": \"example\"}'",
         "video:build-debug": "remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example\"}'",
         "video:build": "ts-node src/main.ts --build",
+        "video:build:instagram": "ts-node src/main.ts --build --destination instagram",
+        "video:auto:tts": "ts-node src/main.ts --build --onlyTTS",
+        "video:auto:youtube": "ts-node src/main.ts --build --noNeedTTS",
+        "video:auto:instagram": "ts-node src/main.ts --build --noNeedTTS --destination instagram",
         "tmp:clean": "ts-node src/main.ts --clean",
         "content:create": "ts-node src/main.ts --create",
         "remotion:upgrade": "remotion upgrade"

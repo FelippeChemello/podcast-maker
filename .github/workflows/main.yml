@@ -27,8 +27,4 @@ jobs:
             - uses: actions/download-artifact@v2
               with:
                   name: audio-files
-                  path: tmp/
-            - run: pwd
-            - run: ls
-            # - run: unzip tmp/audio-files.zip
-            - run: ls tmp
+                  path: tmp/audioFiles
