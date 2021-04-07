@@ -12,19 +12,46 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Upload TTS files
+            - name: Setup Node.JS environment
+              uses: actions/setup-node@v2.1.4
+              with:
+                  node-version: 14.x
+
+            - name: Install project dependencies
+              run: yarn
+
+            - name: Create TTS
+              run: yarn video:auto:tts
+
+            - name: Save TTS files in Artifacts
               uses: actions/upload-artifact@v2
               with:
                   name: audio-files
-                  path: assets
+                  path: tmp/*.mp3
                   retention-days: 3
 
     YouTubeVideo:
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
-            - run: mkdir tmp
-            - uses: actions/download-artifact@v2
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
               with:
                   name: audio-files
-                  path: tmp/audioFiles
+                  path: tmp/
+
+            - name: Install project dependencies
+              run: yarn
+
+            - name: Create and Upload Youtube video
+              run: yarn video:auto:youtube
+
+            - name: Save video in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: audio-files
+                  path: tmp/*.mp4
+                  retention-days: 2

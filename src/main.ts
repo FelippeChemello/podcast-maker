@@ -15,6 +15,7 @@ import UrlShortenerService from './services/UrlShortenerService';
 import CleanTmpService from './services/CleanTmpService';
 import InstagramUploadService from './services/InstagramUploadService';
 
+// Validar se todos os campos necessários estão preenchidos (Title e no minimo uma news)
 // Fazer upload para Instagram automaticamente
 
 const create = async ({

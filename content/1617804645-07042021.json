@@ -1,0 +1,54 @@
+{
+    "title": "WhatsApp investigado no Brasil / Estudante hackeia o GitHub / Fortran mais popular",
+    "fps": 30,
+    "timestamp": 1617804645,
+    "date": "07/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Idec pede suspensão da nova política de privacidade do WhatsApp: o Instituto de Defesa do Consumidor enviou ao Ministério da Justiça e à ANPD um documento em que pede que o WhatsApp continue permitindo o envio de mensagens mesmo para os usuários que não concordarem com os novos termos de uso. O instituto também exige que o aplicativo não repasse dados a outras empresas do grupo econômico Facebook para fins de publicidade ou análise de dados. A nova política do WhatsApp também está sendo investigada pela Senacon (Secretaria Nacional do Consumidor). As informações são do portal da Folha de São Paulo.",
+            "url": "https://www1.folha.uol.com.br/mercado/2021/04/privacidade-do-whatsapp-e-questionada-no-ministerio-da-justica-e-na-anpd.shtml"
+        },
+        {
+            "text": "Estudante do ensino médio encontra vulnerabilidade no GitHub: Robert Chen conseguiu hackear as “Private Pages” do GitHub ao utilizar uma “CRLF injection”. Em seu próprio blog, Chen afirma que decidiu caçar vulnerabilidades após ficar sem nada para fazer entre as aulas online durante a pandemia. Pelo feito, o estudante recebeu 35 mil dólares, sua primeira recompensa, e ele estima que essa seja a maior já paga pelo GitHub por uma vulnerabilidade."
+        },
+        {
+            "text": "Fortran volta para o Top 20 das linguagens de programação mais populares: a linguagem criada pela IBM na década de 50 volta para a 20ª posição na atualização de abril do TIOBE Index. Após mais de 10 anos fora do Top 20, o Fortran estaria ganhando popularidade graças à crescente necessidade de processamento de dados científicos. As informações são da página do TIOBE Index.",
+            "url": "https://www.tiobe.com/tiobe-index/"
+        },
+        {
+            "text": "Procon notifica Facebook sobre vazamento de dados: a rede social tem até esta sexta-feira, dia 9, para esclarecer quais medidas foram tomadas para conter o vazamento de 533 milhões de contas, e o que pretende fazer para reparar os danos decorrentes e evitar que a falha aconteça novamente. As informações são da página do Procon-SP.",
+            "url": "https://www.procon.sp.gov.br/procon-sp-notifica-facebook-3/"
+        },
+        {
+            "text": "Associação quer proibir “loot boxes” em jogos no Brasil: a Associação Nacional dos Centros de Defesa dos Direitos da Criança e do Adolescente afirma que as “caixas de surpresas” ou “recompensas” são uma prática muito utilizada em jogos de azar e que levaria ao vício ou ao desenvolvimento de desvios de personalidade em crianças. Foram acionadas na Justiça grandes produtoras de jogos eletrônicos como a Nintendo, Activision, Ubisoft, e inclusive as plataformas de distribuição como Sony, Microsoft, Apple e Google. A ação pede 19,5 bilhões de reais em indenizações por danos morais coletivos e individuais. As informações são da página da ANCED.",
+            "url": "https://www.ancedbrasil.org.br/anced-entra-na-justica-pedindo-proibicao-de-sorteios-ilegais-em-jogos-eletronicos/"
+        },
+        {
+            "text": "Samsung registra melhor resultado de sua história: o lucro operacional cresceu 44% no primeiro trimestre de 2021, para 8,3 bilhões de dólares. O faturamento no período também foi recorde, de 58,1 bilhões de dólares, devido ao sucesso do recente lançamento da linha Galaxy S21. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/07/samsung_q1_2021_guidance/"
+        },
+        {
+            "text": "Vendas de smartphones caem pelo terceiro ano consecutivo: em 2020 foram vendidas 1,33 bilhão de unidades, uma queda de 10% no ano, declínio muito mais acentuado do que em 2019 (-1,7%) devido aos lockdowns no primeiro trimestre do ano passado causados pela pandemia. As informações são da Counterpoint Research.",
+            "url": "https://www.counterpointresearch.com/global-smartphone-shipments-2/"
+        },
+        {
+            "text": "Signal anuncia sistema de pagamentos com moeda digital: o recurso é uma tentativa de estender as proteções de privacidade e criptografia do aplicativo de mensagens para transferências de valores entre pessoas. Por enquanto, o sistema está disponível apenas no Reino Unido, mas há planos de expansão para todo o mundo. As informações são da Wired.",
+            "url": "https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/"
+        },
+        {
+            "text": "Seagate é a primeira empresa a produzir 3 zettabytes de armazenamento: 3ZB são suficientes para armazenar 30 bilhões de filmes em 4K, o equivalente a 5,4 milhões de anos de entretenimento. A empresa levou 36 anos para produzir e vender o primeiro zettabyte, quatro anos para o segundo e apenas dois anos para o terceiro. A soma dos dados gerados globalmente irá acelerar exponencialmente nos próximos anos com novos dispositivos e cidades inteligentes. As informações são do blog da Seagate.",
+            "url": "https://blog.seagate.com/enterprises/seagate-has-shipped-three-zettabytes-of-data-storage/"
+        },
+        {
+            "text": "Google anuncia suporte ao Rust para desenvolvimento no Android: o Rust irá fornecer maior segurança de memória em níveis mais baixos do sistema operacional com um desempenho equivalente a C e C++. O Google afirma que trabalhou por 18 meses para adicionar suporte à linguagem e em breve irá compartilhar mais detalhes do desenvolvimento com Rust no Android. As informações são do Google Security Blog.",
+            "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html"
+        }
+    ]
+}
