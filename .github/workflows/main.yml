@@ -20,6 +20,7 @@ jobs:
                   retention-days: 5
 
     YouTubeVideo:
+        needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
             - run: mkdir tmp
@@ -27,5 +28,5 @@ jobs:
               with:
                   name: audio-files
                   path: tmp/
-            - run: unzip audio-files.zip
+            - run: unzip tmp/audio-files.zip
             - run: ls tmp
