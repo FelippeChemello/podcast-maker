@@ -1,0 +1,17 @@
+name: Create video
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  Text-To-Speech:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Upload TTS to Artifact
+          path: assets
+      
