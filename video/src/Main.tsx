@@ -1,9 +1,17 @@
-import {interpolate, Sequence, useCurrentFrame, useVideoConfig} from 'remotion';
+import {
+	interpolate,
+	Sequence,
+	useCurrentFrame,
+	useVideoConfig,
+	getInputProps,
+} from 'remotion';
 import {Title} from './Podcast/Title';
 import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
 import {Logo} from './Podcast/Logo';
 import {Intro} from './Podcast/Intro';
+
+const {withoutIntro} = getInputProps();
 
 export const Main: React.FC<{
 	textProps: {
@@ -12,7 +20,8 @@ export const Main: React.FC<{
 		audioFilePath: string;
 	}[];
 	date: string;
-}> = ({textProps, date}) => {
+	title: string;
+}> = ({textProps, date, title}) => {
 	const frame = useCurrentFrame();
 	const videoConfig = useVideoConfig();
 	const finishContentEarlierInFrames = 50;
@@ -46,7 +55,7 @@ export const Main: React.FC<{
 						transitionDurationInFrames +
 						videoConfig.fps * prop.duration;
 
-					if (index === 0) {
+					if (index === 0 && !withoutIntro) {
 						return (
 							<>
 								<Sequence
@@ -58,6 +67,7 @@ export const Main: React.FC<{
 									<Intro
 										date={date}
 										audioFilePath={prop.audioFilePath}
+										title={title}
 									/>
 								</Sequence>
 								<Sequence

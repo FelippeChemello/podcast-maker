@@ -1,14 +1,34 @@
 import {useEffect, useState} from 'react';
 import {
-	continueRender,
-	delayRender,
-	interpolate,
 	spring,
 	useCurrentFrame,
 	useVideoConfig,
 	AbsoluteFill,
 	Audio,
 } from 'remotion';
+import styled from 'styled-components';
+
+const TitleDiv = styled.div`
+	position: relative;
+	overflow: hidden;
+	top: -120px;
+	height: 1150px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+
+	h1 {
+		font-size: 100px;
+		line-height: 85px;
+		font-family: 'ProductSans';
+		color: #fff;
+		text-align: center;
+		font-weight: 300;
+		margin: 0;
+		padding: 0 100px;
+	}
+`;
 
 async function loadAudio(audioFilePath: string) {
 	const pathArray = audioFilePath.split('/');
@@ -20,9 +40,13 @@ async function loadAudio(audioFilePath: string) {
 export const Intro: React.FC<{
 	date: string;
 	audioFilePath: string;
-}> = ({date, audioFilePath}) => {
+	title: string;
+}> = ({date, audioFilePath, title}) => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
+
+	const orientation =
+		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
 
 	const [audioSrc, setAudioSrc] = useState<any>(null);
 
@@ -38,7 +62,7 @@ export const Intro: React.FC<{
 
 	const lampEntry = spring({
 		fps: videoConfig.fps,
-		from: -2000,
+		from: orientation === 'landscape' ? -2000 : 2000,
 		to: 0,
 		frame,
 		config: {
@@ -58,7 +82,7 @@ export const Intro: React.FC<{
 	});
 	const coffeeEntry = spring({
 		fps: videoConfig.fps,
-		from: -1700,
+		from: orientation === 'landscape' ? -1700 : 1700,
 		to: 0,
 		frame,
 		config: {
@@ -68,7 +92,7 @@ export const Intro: React.FC<{
 	});
 	const computerEntry = spring({
 		fps: videoConfig.fps,
-		from: -1000,
+		from: orientation === 'landscape' ? -1000 : 1000,
 		to: 0,
 		frame,
 		config: {
@@ -78,7 +102,7 @@ export const Intro: React.FC<{
 	});
 	const keyboardEntry = spring({
 		fps: videoConfig.fps,
-		from: -1300,
+		from: orientation === 'landscape' ? -1300 : 1300,
 		to: 0,
 		frame,
 		config: {
@@ -88,7 +112,7 @@ export const Intro: React.FC<{
 	});
 	const mouseEntry = spring({
 		fps: videoConfig.fps,
-		from: -1500,
+		from: orientation === 'landscape' ? -1500 : 1500,
 		to: 0,
 		frame,
 		config: {
@@ -144,10 +168,18 @@ export const Intro: React.FC<{
 					fontFamily: 'nunito',
 				}}
 			>
+				{orientation === 'portrait' ? (
+					<TitleDiv>
+						{title.split('/').map((t) => (
+							<h1>{t}</h1>
+						))}
+					</TitleDiv>
+				) : null}
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					xmlnsXlink="http://www.w3.org/1999/xlink"
 					viewBox="0 0 1186.4 662.8"
+					style={{position: 'absolute', bottom: 0}}
 				>
 					<defs>
 						<path id="prefix__a" d="M-9.7 0h1197.1v662.8H-9.7z" />

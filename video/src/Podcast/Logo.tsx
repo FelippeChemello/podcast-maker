@@ -12,10 +12,13 @@ export const Logo: React.FC = () => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
 
+	const orientation =
+		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
+
 	const logoEntry = spring({
 		fps: videoConfig.fps,
 		from: -150,
-		to: 30,
+		to: orientation === 'landscape' ? 30 : 50,
 		frame,
 		config: {
 			mass: 0.8,
@@ -27,7 +30,7 @@ export const Logo: React.FC = () => {
 		<div
 			style={{
 				marginTop: logoEntry,
-				marginLeft: 30,
+				marginLeft: orientation === 'landscape' ? 30 : 100,
 				height: videoConfig.width / 15 + 20,
 				display: 'flex',
 				alignItems: 'center',

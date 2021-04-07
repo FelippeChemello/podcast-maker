@@ -8,6 +8,9 @@ export const Thumbnail: React.FC<{
 }> = ({title, date}) => {
 	const videoConfig = useVideoConfig();
 
+	const orientation =
+		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
+
 	return (
 		<div
 			style={{
@@ -15,10 +18,14 @@ export const Thumbnail: React.FC<{
 				background: '#0C2D48',
 			}}
 		>
-			<AbsoluteFill>
+			<AbsoluteFill
+				style={{
+					justifyContent: orientation === 'landscape' ? '' : 'center',
+				}}
+			>
 				<div
 					style={{
-						height: 900,
+						height: orientation === 'landscape' ? 900 : 1150,
 						display: 'flex',
 						flexDirection: 'column',
 						alignItems: 'center',
@@ -45,8 +52,12 @@ export const Thumbnail: React.FC<{
 				<div
 					style={{
 						position: 'absolute',
-						right: 50,
-						bottom: 50,
+						right: orientation === 'landscape' ? 50 : '50%',
+						transform:
+							orientation === 'landscape'
+								? ''
+								: 'translateX(50%)',
+						bottom: orientation === 'landscape' ? 50 : 1700,
 						display: 'flex',
 						alignItems: 'center',
 						backgroundColor: '#3F6182',
@@ -78,7 +89,11 @@ export const Thumbnail: React.FC<{
 					style={{
 						position: 'absolute',
 						bottom: 50,
-						left: 50,
+						left: orientation === 'landscape' ? 50 : '50%',
+						transform:
+							orientation === 'landscape'
+								? ''
+								: 'translateX(-50%)',
 						fontSize: 70,
 						fontFamily: 'ProductSans',
 						color: '#fff',

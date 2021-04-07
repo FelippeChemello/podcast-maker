@@ -11,6 +11,9 @@ export const Title: React.FC<{
 		(videoConfig.durationInFrames - finishContentEarlierInFrames) /
 		titleText.length;
 
+	const orientation =
+		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
+
 	const indexOfEndOfTitle = text.findIndex((word) => word.match(/.*:.*/));
 
 	const opacity = spring({
@@ -26,7 +29,7 @@ export const Title: React.FC<{
 			style={{
 				fontFamily: 'Nunito',
 				alignSelf: 'center',
-				padding: 50,
+				padding: orientation === 'landscape' ? 50 : 100,
 				opacity,
 			}}
 		>

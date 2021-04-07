@@ -50,10 +50,11 @@ export const RemotionVideo: React.FC = () => {
 				component={Main}
 				durationInFrames={Math.floor(data.fullDuration * 30)}
 				fps={30}
-				width={1920}
-				height={1080}
+				width={data.width}
+				height={data.height}
 				defaultProps={{
 					textProps: data.renderData,
+					title: data.title,
 					date: data.date,
 				}}
 			/>
@@ -62,8 +63,8 @@ export const RemotionVideo: React.FC = () => {
 				component={Thumbnail}
 				durationInFrames={1}
 				fps={30}
-				width={1920}
-				height={1080}
+				width={data.width}
+				height={data.height}
 				defaultProps={{
 					title: data.title,
 					date: data.date,

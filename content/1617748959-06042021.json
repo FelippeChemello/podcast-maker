@@ -1,0 +1,59 @@
+{
+    "title": "“Jurassic Park” real / Zuckerberg usa Signal / Internet galáctica",
+    "fps": 30,
+    "timestamp": 1617748959,
+    "date": "06/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Sócio de Elon Musk afirma que é possível montar um Jurassic Park real: aproveitando-se dos avanços na engenharia genética, Max Hodak, cofundador da Neuralink, afirmou que seria possível criar um parque de dinossauros como nos filmes. Os dinossauros não seriam geneticamente autênticos, mas com 15 anos de criação e engenharia seria possível obter novas espécies super-exóticas. Hodak argumenta que a biodiversidade é valiosa e questiona se não deveríamos criar intencionalmente novas espécies. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/neuralink-cofounder-tech-build-actual-jurassic-park"
+        },
+        {
+            "text": "Vazamento de dados do Facebook mostra que Zuckerberg usa aplicativo concorrente ao WhatsApp: o especialista em segurança Dave Walker mostrou em seu perfil no Twitter que o telefone de Mark Zuckerberg, disponível no vazamento de 533 milhões de contas do Facebook, está registrado no aplicativo de mensagens Signal. Várias pessoas, no entanto, comentaram que o fato de Zuckerberg ter registrado seu número no aplicativo não garante que o mesmo utilize regularmente o serviço.",
+            "url": "https://www.tecmundo.com.br/mercado/215040-mark-zuckerberg-usando-signal-principal-rival-whatsapp.htm"
+        },
+        {
+            "text": "Lentes gravitacionais podem permitir Internet galáctica: o estudo do pesquisador Claudio Maccone propõe utilizar as lentes gravitacionais do Sol como uma grande antena para criar ligações de rádio entre o sistema solar e futuras sondas terrestres interestelares. Maccone estima que a largura de banda entre o Sol e uma estrela próxima, como Alpha Centauri, seria da ordem de kilobits por segundo, velocidade de internet discada, mas o suficiente para transmitir imagens e outros dados úteis. As informações são do site Universe Today.",
+            "url": "https://www.universetoday.com/150671/gravitational-lenses-could-allow-a-galaxy-wide-internet/"
+        },
+        {
+            "text": "Funcionários da fábrica de smartphones da LG no Brasil estão em greve: 400 dos 1 mil empregos na unidade de Taubaté (SP) devem ser atingidos após a companhia anunciar ontem que vai desativar sua divisão de celulares em todo o mundo. A fábrica também produz os monitores da marca, que não devem ser afetados pela decisão. As informações são do portal G1.",
+            "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2021/04/06/funcionarios-de-fornecedoras-da-lg-entram-em-greve-apos-anuncio-de-fim-da-producao-de-celulares-em-taubate.ghtml"
+        },
+        {
+            "text": "Dispositivos Wi-Fi também serão sensores de pessoas e objetos: a especificação 802.11bf, que deve ser introduzida em setembro de 2024, permitirá que dispositivos Wi-Fi não apenas realizem protocolos de comunicação, mas criem um novo paradigma de detecção completo, utilizando diferenças de interferência dos sinais sem fio para medir o alcance, direção, movimento, presença e proximidade de pessoas e objetos. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/03/31/wifi_devices_monitoring/"
+        },
+        {
+            "text": "IA vai analisar imagens de satélite para descobrir sítios arqueológicos escondidos: os pesquisadores do Centro de Tecnologia do Patrimônio Cultural de Veneza, utilizarão inteligência artificial para rastrear a presença ancestral de humanos, revelando vestígios ocultos mínimos ou imperceptíveis na vegetação e no solo. As informações são do site EurekAlert.",
+            "url": "https://www.eurekalert.org/pub_releases/2021-03/iidt-aas032621.php"
+        },
+        {
+            "text": "Banco central do Japão anuncia experimento com moeda digital: a autoridade monetária do país planeja desenvolver um ambiente de teste para o sistema e conduzir experimentos sobre as funções básicas essenciais de uma moeda digital como instrumento de pagamento, emissão, distribuição e resgate. As informações são da página do Bank of Japan.",
+            "url": "https://www.japantimes.co.jp/news/2020/10/10/business/economy-business/bank-of-japan-test-digital-currency-2021/"
+        },
+        {
+            "text": "Startup promete computador quântico compacto baseado em diamantes sintéticos em apenas 5 anos: a Quantum Brilliance demonstrou um computador quântico do tamanho de um PC desktop que utiliza pequenos defeitos em diamantes como qubits (bits quânticos), protegendo-os de interrupções térmicas e impurezas magnéticas, permitindo a operação em temperatura ambiente. A empresa pretende reduzir ainda mais o dispositivo para colocá-lo a bordo de satélites e veículos autônomos até 2026. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/computing/hardware/nitrogen-vacancy-diamond-quantum-computer-accelerator-qubits-server-rack"
+        },
+        {
+            "text": "Yahoo Respostas anuncia fechamento: um dos serviços mais populares no começo da era da internet vai encerrar suas atividades no dia 4 de maio. A partir do dia 20 de abril, já não será mais possível postar novas perguntas ou respostas no site. O Yahoo decidiu encerrar a plataforma após seu uso declinar nos últimos anos. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/5/22368488/yahoo-answers-shutdown-may-4-internet-era-over-rip"
+        },
+        {
+            "text": "Edge ultrapassa Firefox: o uso do navegador da Microsoft cresceu 1.300% nos últimos 12 meses, atingindo uma fatia de 8,04% do mercado mundial, superando os 7,97% do Firefox. No Brasil, o Chrome possui 80,73% de dominância do mercado, seguido pelo Edge (5,97%), Opera (5,69%) e Firefox (4,9%). As informações são da StatCounter.",
+            "url": "https://canaltech.com.br/navegadores/microsoft-edge-ganha-mercado-e-ultrapassa-firefox-em-total-de-usuarios-em-marco-182030"
+        },
+        {
+            "text": "E3 2021 oficializa data e será totalmente digital: a maior feira de jogos eletrônicos do mundo irá acontecer entre os dias 12 e 15 de junho. Nintendo, Xbox, Capcom, Konami e Ubisoft já confirmaram presença, mas a Sony, EA, Activision Blizzard, Sega, Bandai Namco e Square Enix ainda não manifestaram se participarão ou não. As informações são do site GamesIndustry.",
+            "url": "https://www.gamesindustry.biz/articles/2021-04-06-nintendo-xbox-and-ubisoft-back-digital-only-e3-2021"
+        }
+    ]
+}
