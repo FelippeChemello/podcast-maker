@@ -17,7 +17,7 @@ jobs:
               with:
                   name: audio-files
                   path: assets
-                  retention-days: 5
+                  retention-days: 3
 
     YouTubeVideo:
         needs: [TextToSpeech]
@@ -28,5 +28,7 @@ jobs:
               with:
                   name: audio-files
                   path: tmp/
-            - run: unzip tmp/audio-files.zip
+            - run: pwd
+            - run: ls
+            # - run: unzip tmp/audio-files.zip
             - run: ls tmp
