@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 env:
-    DEBUG: ${{ secrets.DEBUG }}
+    DEBUG: 1
     AZURE_TTS_KEY: ${{ secrets.AZURE_TTS_KEY }}
     AZURE_TTS_REGION: ${{ secrets.AZURE_TTS_REGION }}
     YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
