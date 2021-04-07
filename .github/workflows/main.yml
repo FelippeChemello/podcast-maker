@@ -101,6 +101,49 @@ jobs:
             - name: Save video in Artifacts
               uses: actions/upload-artifact@v2
               with:
+                  name: youtube-video-assets
+                  path: |
+                      tmp/*.mp4
+                      tmp/*.jpeg
+                      tmp/*.png
+                  retention-days: 2
+
+    InstagramVideo:
+        needs: [TextToSpeech]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install FFMPEG
+              uses: FedericoCarboni/setup-ffmpeg@v1
+
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
+              with:
                   name: audio-files
-                  path: tmp/*.mp4
+                  path: tmp/
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+            - name: Create and Upload Youtube video
+              run: yarn video:auto:instagram
+
+            - name: Save video in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: instagram-video-assets
+                  path: |
+                      tmp/*.mp4
+                      tmp/*.jpeg
+                      tmp/*.png
                   retention-days: 2
