@@ -27,6 +27,7 @@
         "axios": "^0.21.1",
         "class-transformer": "^0.3.1",
         "cli-progress": "^3.9.0",
+        "colors": "^1.4.0",
         "commander": "^7.2.0",
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
@@ -37,8 +38,10 @@
         "mp3-duration": "^1.1.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
+        "readline": "^1.3.0",
         "reflect-metadata": "^0.1.13",
         "remotion": "1.6.0-alpha.74db7d81",
+        "string-width": "^4.2.2",
         "ts-node": "^9.1.1"
     },
     "devDependencies": {

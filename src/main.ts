@@ -16,6 +16,8 @@ import CleanTmpService from './services/CleanTmpService';
 import InstagramUploadService from './services/InstagramUploadService';
 
 // Validar se todos os campos necessários estão preenchidos (Title e no minimo uma news)
+// Alterar exibição do progress de render e stitching
+// Fazer upload para anchor.fm
 // Fazer upload para Instagram automaticamente
 
 const create = async ({
@@ -29,6 +31,14 @@ const create = async ({
     onlyTTS: boolean;
     noNeedTTS: boolean;
 }) => {
+    if (process.stdout.isTTY) {
+        console.log('isTTY');
+    } else {
+        console.log('Not isTTY');
+    }
+
+    process.exit(0);
+
     const beginTime = Date.now();
 
     const content = new GetContentService().execute(contentFileName);

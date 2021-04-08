@@ -29,7 +29,9 @@ export default class RetrieveAudioDataService {
 
         for (let i = 0; i < this.content.renderData.length; i++) {
             log(
-                `Getting duration of audio-sentence ${i}`,
+                `Getting duration of audio-sentence ${path.basename(
+                    this.content.renderData[i].audioFilePath,
+                )}`,
                 'RetrieveAudioDataService',
             );
 

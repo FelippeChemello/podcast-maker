@@ -26,14 +26,16 @@ jobs:
               with:
                   node-version: 14.x
 
-            - name: Install project dependencies
-              run: yarn
-
-            - name: Cache node_modules
+            - name: Check cache node_modules
+              id: dependencies
               uses: actions/cache@v2
               with:
                   path: node_modules
                   key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
     TextToSpeech:
         needs: [CacheDependencies]
