@@ -1,0 +1,59 @@
+{
+    "title": "Novo imposto em e-books / Rede Globo vai para nuvem / Eletrônicos transparentes",
+    "fps": 30,
+    "timestamp": 1617893002,
+    "date": "08/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Receita Federal quer criar novo imposto sobre livros: a CBS (Contribuição sobre Bens e Serviços), com alíquota de 12%, poderá afetar também os preços de e-books e e-readers, como o Kindle. Segundo a Receita, a maior parte dos livros é consumida pelas famílias com renda superior a 10 salários mínimos e a tributação permitirá que o dinheiro arrecadado possa ser utilizado em novas políticas. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/429453/receita-quer-imposto-sobre-livros-e-isso-deve-afetar-kindle-e-e-books/"
+        },
+        {
+            "text": "Rede Globo anuncia migração total para nuvem: a reestruturação vai focar em serviços direct-to-consumer para a empresa tornar-se uma mediatech. Nos próximos sete anos, a Globo irá migrar 100% dos seus centros de dados à nuvem do Google, inclusive o Globoplay, e utilizará inteligência artificial para otimizar as recomendações personalizadas em tempo real ao público. As informações são da página de notícias da Rede Globo.",
+            "url": "https://redeglobo.globo.com/novidades/noticia/globo-anuncia-parceria-estrategica-de-co-inovacao-e-migracao-para-nuvem-com-google-cloud.ghtml"
+        },
+        {
+            "text": "Novo material pode abrir caminho para eletrônicos transparentes: a pesquisa foi desenvolvida após um estudo computacional revelar que o beta-telurito poderia se comportar como um metal e um não-metal. A universidade australiana RMIT confirmou as propriedades do material, possibilitando a criação de dispositivos transparentes para serem integrados em óculos, visores flexíveis ou em lentes de contato inteligentes. As informações são do site FLEET.",
+            "url": "https://scitechdaily.com/new-material-breakthrough-could-be-the-key-to-revolutionary-transparent-electronics/"
+        },
+        {
+            "text": "Novo trojan bancário no Brasil: a ESET Research está rastreando o trojan bancário recém-descoberto “Janeleiro” que tem como alvo usuários corporativos no Brasil em setores como engenharia, saúde, varejo, manufatura, finanças, transporte e governo. O Janeleiro tenta enganar suas vítimas com janelas pop-up e formulários projetados para se parecer com sites de alguns dos maiores bancos do Brasil. As informações são do site WeLiveSecurity.",
+            "url": "https://www.welivesecurity.com/2021/04/06/janeleiro-time-traveler-new-old-banking-trojan-brazil/"
+        },
+        {
+            "text": "Governo anuncia programa nacional de tecnologia: o “MCTI Futuro” pretende capacitar programadores com experiência prática em todo o País. Segundo levantamento realizado pela Softex, o déficit de profissionais de TI no Brasil deverá superar 408 mil em 2022. As informações são da página de notícias do Ministério da Ciência, Tecnologia e Inovações.",
+            "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/04/em-live-ministro-marcos-pontes-anuncia-pre-lancamento-de-programa-nacional-de-tecnologia"
+        },
+        {
+            "text": "Pesquisa mostra que brasileiros estão jogando mais video games durante a pandemia: 75,8% dos entrevistados afirmam que jogaram mais durante o isolamento social e 51,5% participaram de mais jogos online. As informações estão na página da Pesquisa Game Brasil 2021.",
+            "url": "https://www.pesquisagamebrasil.com.br/pt/pesquisa-game-brasil/"
+        },
+        {
+            "text": "Maioria dos brasileiro paga ransomware, mas poucos recebem dados de volta: 56% das vítimas de ataque de ransomware no Brasil no ano passado pagaram resgate para restaurar o acesso a seus dados, mas apenas 29% conseguiram seus dados de volta segundo uma nova pesquisa realizada pela Kaspersky. As informações são da CISO Advisor.",
+            "url": "https://www.cisoadvisor.com.br/maioria-dos-brasileiros-paga-resgate-de-ransomware-so-1-3-tem-dados-devolvidos/"
+        },
+        {
+            "text": "Netflix ainda domina, mas perde mercado para concorrentes: a fatia de mercado do serviço de streaming caiu 31% nos EUA, para 20% do total. O Amazon Prime segue em segundo lugar com 16% do mercado e a Hulu em terceiro com 13%. O destaque ficou para a HBO Max que cresceu 300% no último ano, para 12% do mercado. As informações são do site Olhar Digital.",
+            "url": "https://olhardigital.com.br/2021/04/07/cinema-e-streaming/netflix-queda-mercado/"
+        },
+        {
+            "text": "Google I/O 2021 é confirmado: o evento, que foi cancelado no ano passado devido à pandemia, vai acontecer entre os dias 18 e 20 de maio e será totalmente virtual. Além de novidades para as plataforma digitais como Android, Chrome e Assistente, são esperadas novas versões do smartphone Pixel e do fone de ouvido Pixel Buds. As informações são do site Android Police.",
+            "url": "https://www.androidpolice.com/2021/04/07/google-i-o-2021-has-been-announced-and-its-the-first-free-i-o-in-memory/"
+        },
+        {
+            "text": "Microsoft passa a oferecer recursos de processamento de dados geoespaciais quase em tempo real: em parceria com a Thales Alenia Space, o Azure Orbital, serviço de estações terrestres gerenciadas para comunicação e controle de satélites da Microsoft, agora também vai realizar análises de mudanças ambientais capturadas com imagens de satélite com aplicação de inteligência artificial e aprendizado de máquina. As informações são do blog do Microsoft Azure.",
+            "url": "https://azure.microsoft.com/en-us/blog/deepen-the-value-chain-for-geospatial-earth-imagery-on-cloud-using-azure-orbital/"
+        },
+        {
+            "text": "VISA alerta que hackers utilizam cada vez mais web shells para roubar cartões de crédito: a companhia tem observado uma tendência crescente de web shells sendo utilizados para injetar scripts utilizando JavaScript em lojas online comprometidas. Segundo a equipe de Proteção Avançada contra Ameaças (ATP) da Microsoft, o número de web shells implantados em servidores comprometidos quase dobrou desde o ano passado. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/visa-hackers-increasingly-using-web-shells-to-steal-credit-cards/"
+        }
+    ]
+}
