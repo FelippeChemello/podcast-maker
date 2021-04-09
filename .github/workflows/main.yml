@@ -26,7 +26,7 @@ jobs:
               with:
                   node-version: 14.x
 
-            - name: Check cache node_modules
+            - name: Cache node_modules
               id: dependencies
               uses: actions/cache@v2
               with:

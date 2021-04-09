@@ -5,12 +5,12 @@ import {
     renderFrames,
     stitchFramesToVideo,
 } from '@remotion/renderer';
-import cliProgress from 'cli-progress';
 
 import InterfaceJsonContent from 'models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
 import { format } from '../config/destination';
+import Bar from '../utils/CliProgress/bar';
 
 class RenderVideoService {
     private content: InterfaceJsonContent;
@@ -45,21 +45,22 @@ class RenderVideoService {
 
         log(`Rendering frames`, 'RenderVideoService');
 
-        const renderProgressBar = new cliProgress.SingleBar(
-            {
-                clearOnComplete: true,
-                etaBuffer: 150,
-                format:
-                    '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total}',
-            },
-            cliProgress.Presets.shades_classic,
-        );
+        let renderProgressBar = {} as Bar;
 
         const { assetsInfo, frameCount, localPort } = await renderFrames({
             config: video,
             webpackBundle: bundle,
-            onStart: ({ frameCount }) => renderProgressBar.start(frameCount, 0),
-            onFrameUpdate: frame => renderProgressBar.update(frame),
+            onStart: ({ frameCount }) => {
+                renderProgressBar = new Bar({
+                    initValue: 0,
+                    total: frameCount,
+                    text:
+                        '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
+                });
+            },
+            onFrameUpdate: frame => {
+                renderProgressBar.update(frame);
+            },
             parallelism: null,
             outputDir: framesDir,
             inputProps: {
@@ -74,17 +75,12 @@ class RenderVideoService {
 
         log(`Stitching frames`, 'RenderVideoService');
 
-        const stitchingProgressBar = new cliProgress.SingleBar(
-            {
-                clearOnComplete: true,
-                etaBuffer: 150,
-                format:
-                    '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total}',
-            },
-            cliProgress.Presets.shades_classic,
-        );
-
-        stitchingProgressBar.start(frameCount, 0);
+        const stitchingProgressBar = new Bar({
+            initValue: 0,
+            total: frameCount,
+            text:
+                '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
+        });
 
         await stitchFramesToVideo({
             dir: framesDir,

@@ -14,9 +14,9 @@ import CreateContentTemplateService from './services/CreateContentTemplateServic
 import UrlShortenerService from './services/UrlShortenerService';
 import CleanTmpService from './services/CleanTmpService';
 import InstagramUploadService from './services/InstagramUploadService';
+import ValidatesContentService from './services/ValidatesContentService';
 
 // Validar se todos os campos necessários estão preenchidos (Title e no minimo uma news)
-// Alterar exibição do progress de render e stitching
 // Fazer upload para anchor.fm
 // Fazer upload para Instagram automaticamente
 
@@ -31,14 +31,6 @@ const create = async ({
     onlyTTS: boolean;
     noNeedTTS: boolean;
 }) => {
-    if (process.stdout.isTTY) {
-        console.log('isTTY');
-    } else {
-        console.log('Not isTTY');
-    }
-
-    process.exit(0);
-
     const beginTime = Date.now();
 
     const content = new GetContentService().execute(contentFileName);
@@ -118,6 +110,10 @@ program
         '-c, --create <description>',
         'Create new content file with default labels',
     )
+    .option(
+        '-v, --validate',
+        'Validates if all necessary labels in last content was filled',
+    )
     .option('-rm, --clean', 'Clean tmp dir')
     .option('-vf, --fps', 'Set video FPS')
     .parse(process.argv);
@@ -141,6 +137,10 @@ if (options.create) {
     new CreateContentTemplateService().execute(options.create, {
         fps: options.fps,
     });
+}
+
+if (options.validate) {
+    new ValidatesContentService().execute();
 }
 
 if (options.clean) {

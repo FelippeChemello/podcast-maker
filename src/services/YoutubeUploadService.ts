@@ -1,9 +1,9 @@
 import { google } from 'googleapis';
 import fs from 'fs';
-import cliProgress from 'cli-progress';
 import { OAuth2Client } from 'googleapis-common';
 
 import { error, log } from '../utils/log';
+import Bar from '../utils/CliProgress/bar';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class YoutubeUploadService {
@@ -217,18 +217,15 @@ export default class YoutubeUploadService {
 
         log('Uploading video to YouTube', 'YoutubeUploadService');
 
-        const uploadProgressBar = new cliProgress.SingleBar(
-            {
-                clearOnComplete: true,
-                etaBuffer: 50,
-                format:
-                    '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
-            },
-            cliProgress.Presets.shades_classic,
-        );
-
         const videoSize =
             Math.floor((fs.statSync(videoPath).size / 1000000) * 100) / 100;
+
+        const uploadProgressBar = new Bar({
+            total: videoSize,
+            initValue: 0,
+            text:
+                '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
+        });
 
         let title = `[CodeStack News] ${this.content.title}`;
 
@@ -237,8 +234,6 @@ export default class YoutubeUploadService {
             titleArray.pop();
             title = titleArray.join('/');
         }
-
-        uploadProgressBar.start(videoSize, 0);
 
         const youtubeResponse = await youtube.videos.insert(
             {
@@ -263,7 +258,7 @@ export default class YoutubeUploadService {
             {
                 onUploadProgress: event =>
                     uploadProgressBar.update(
-                        Math.floor((event.bytesRead / 1000000) * 100) / 100,
+                        Math.floor(event.bytesRead / 10000) / 100,
                     ),
             },
         );

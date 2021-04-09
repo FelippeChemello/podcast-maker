@@ -1,0 +1,51 @@
+{
+    "title": "Polícia recupera mensagens do WhatsApp / Google atualiza algoritmo / Jogando Pong com a mente",
+    "fps": 30,
+    "timestamp": 1617981859,
+    "date": "09/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Polícia utiliza ferramenta israelense para recuperar mensagens de WhatsApp apagadas no caso do menino Henry Borel: a Polícia Civil do Rio de Janeiro afirma que o dispositivo da empresa Cellebrite proveu uma prova técnica extremamente relevante para o caso. A Cellebrite oferece produtos e serviços como desbloqueio de senhas de celular, acessos a logs de sistema, e recuperação de arquivos apagados e dados em aplicativos como WhatsApp, Telegram e Facebook. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/429734/policia-usa-cellebrite-para-resgatar-provas-apagadas-de-celular-no-caso-henry-borel/"
+        },
+        {
+            "text": "Google atualiza algoritmo de Busca para dar preferência a reviews aprofundadas de produtos: segundo o Google, o foco geral é fornecer conteúdo com análises criteriosas e pesquisas originais, escrito por especialistas ou entusiastas que conhecem bem o tópico. A atualização envolve apenas análises em inglês por enquanto. As informações são do Google Search Central Blog.",
+            "url": "https://developers.google.com/search/blog/2021/04/product-reviews-update"
+        },
+        {
+            "text": "Neuralink apresenta Pager, macaco que joga Pong apenas com a mente: Pager recebeu um implante do “N1 Link”, um dispositivo de gravação e transmissão de dados sem fio com 1.024 eletrodos, na área do cérebro que está envolvida no planejamento e execução de movimentos. O primeiro objetivo da Neuralink é utilizar a mesma tecnologia para devolver a pessoas com paralisia a habilidade de se comunicar e navegar pela Web, expressar sua criatividade e até mesmo jogar videogames. As informações são do blog da Neuralink.",
+            "url": "https://www.theverge.com/2021/4/8/22374749/elon-musk-neuralink-monkey-pong-brain-interface"
+        },
+        {
+            "text": "Fintech IUGU expôs inadvertidamente banco de dados de todos os clientes: conforme relato do pesquisador de segurança Bob Diachenko em seu perfil no Twitter, no dia em 7 de abril, um banco de dados ElasticSearch da fintech, com 1,69TB e 655,39 milhões de arquivos, incluindo todos os clientes e detalhes como emails, telefones, endereços e faturas estavam expostos na Web. Diachenko afirma que a equipe da IUGU atuou com profissionalismo e agilidade assim que recebeu o alerta e o banco de dados foi derrubado uma hora depois.",
+            "url": "https://twitter.com/1ZRR4H/status/1380207820302340104"
+        },
+        {
+            "text": "LinkedIn afirma que dados de 500 milhões de usuários vendidos em fórum hacker não são de vazamento: as informações como nomes completos, email, números de telefone e informações sobre o local de trabalho seriam na verdade uma agregação de dados de vários sites e empresas obtidos através de scraping. As informações são do site CyberNews.",
+            "url": "https://cybernews.com/news/stolen-data-of-500-million-linkedin-users-being-sold-online-2-million-leaked-as-proof-2/"
+        },
+        {
+            "text": "Mineração de ativos digitais pode prejudicar metas globais para redução de gases do efeito estufa: um estudo publicado na revista Nature descobriu que a mineração de ativos digitais na China gerarão 130,5 milhões de toneladas métricas de emissões de carbono até 2024, o equivalente ao gerado pela Itália anualmente, já que cerca de 40% da eletricidade utilizada para essa atividade na China é gerada por usinas de carvão. As informações são da página de notícias do Yahoo.",
+            "url": "https://br.noticias.yahoo.com/minera%C3%A7%C3%A3o-criptomoedas-pode-dificultar-metas-184000381.html"
+        },
+        {
+            "text": "Pesquisadores recebem 200 mil dólares após hackear o Zoom: dois pesquisadores de segurança holandeses participaram do concurso anual de hacking “Pwn2Own” e demonstraram uma falha de execução remota de código (RCE) no Zoom combinando três vulnerabilidades para assumir o controle de um computador da vítima, sem qualquer interação, a não ser atender a uma chamada. As informações são do blog da Malwarebytes Labs.",
+            "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/"
+        },
+        {
+            "text": "Microsoft libera código-fonte do “CyberBattleSim”: o software simula invasores artificiais treinados por machine learning contra defensores automatizados dentro de redes virtuais. O projeto, escrito em Python, utiliza a interface “OpenAI Gym” para permitir o treinamento de agentes automatizados usando algoritmos de aprendizado por reforço. As informações são do blog de segurança da Microsoft.",
+            "url": "https://github.com/microsoft/CyberBattleSim"
+        },
+        {
+            "text": "Satélite Amazônia-1 foi programado com Julia: em entrevista ao portal TecMundo, Ronan Arraes, arquiteto da missão e responsável pelo subsistema de controle de atitude e órbita do satélite, explicou que a linguagem de programação Julia foi uma aposta da equipe após perceber que “linguagens interpretadas” não conseguiam entregar respostas na velocidade exigida pela missão. Ainda segundo Arraes, Julia parece interpretada, mas não é, e consegue ser executada como linguagens mais tradicionais como C e C++, entregando velocidade.",
+            "url": "https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541"
+        }
+    ]
+}
