@@ -217,4 +217,4 @@ jobs:
               run: yarn
 
             - name: Uplaod Instagram video
-              run: yarn video:upload:instagram
+              run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:instagram
