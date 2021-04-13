@@ -73,7 +73,6 @@ jobs:
                   retention-days: 3
 
     YouTube-CreateVideo:
-        if: ${{ false }}
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
@@ -115,7 +114,6 @@ jobs:
                   retention-days: 2
 
     YouTube-UploadVideo:
-        if: ${{ false }}
         needs: [YouTube-CreateVideo]
         runs-on: ubuntu-latest
         steps:
