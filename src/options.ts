@@ -123,7 +123,7 @@ export const uploadInstagram = async () => {
         getContentFromFile(getLastestFileCreated('json', tmpPath)),
     );
 
-    await new YoutubeUploadService(content).execute(videoPath, thumbnailPath);
+    await new InstagramUploadService(content).execute(videoPath, thumbnailPath);
 };
 
 export const createAndUploadInstagram = async ({

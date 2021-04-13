@@ -104,26 +104,26 @@ export default class InstagramUploadService {
 
                     await page.waitForNavigation();
 
-                    log('Uploading video', 'InstagramUploadService');
-
                     await page.goto(this.urls.igtvUpload);
+
+                    log(`Setting title to: ${title}`, 'InstagramUploadService');
+                    await page.type('input[type="text"]', title);
+
+                    log(
+                        `Setting description to: \n${description}`,
+                        'InstagramUploadService',
+                    );
+                    await page.type('textarea', description);
+
+                    log('Uploading video', 'InstagramUploadService');
 
                     const [videoInput, thumnailInput] = await page.$$(
                         'input[type="file"]',
                     );
-                    const titleInput = await page.$('input[type="text"]');
-                    const descriptionInput = await page.$('textarea');
-                    const submitButton = await page.$('button');
 
-                    if (
-                        !videoInput ||
-                        !thumnailInput ||
-                        !titleInput ||
-                        !descriptionInput ||
-                        !submitButton
-                    ) {
+                    if (!videoInput || !thumnailInput) {
                         error(
-                            'Failed to find input labels',
+                            'Failed to find media input ',
                             'InstagramUploadService',
                         );
                         return;
@@ -141,16 +141,14 @@ export default class InstagramUploadService {
                     log('Upload completed', 'InstagramUploadService');
                     thumnailInput?.uploadFile(thumbnailPath);
 
-                    log(`Setting title to: ${title}`, 'InstagramUploadService');
-                    await titleInput.click();
-                    await page.keyboard.type(title);
-
-                    log(
-                        `Setting description to: \n${description}`,
-                        'InstagramUploadService',
-                    );
-                    await descriptionInput.click();
-                    await page.keyboard.type(description);
+                    const submitButton = await page.$('button');
+                    if (!submitButton) {
+                        error(
+                            'Failed to find submit button',
+                            'InstagramUploadService',
+                        );
+                        return;
+                    }
 
                     await submitButton.click();
 
