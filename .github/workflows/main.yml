@@ -73,6 +73,7 @@ jobs:
                   retention-days: 3
 
     YouTube-CreateVideo:
+        if: ${{ false }}
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
@@ -114,6 +115,7 @@ jobs:
                   retention-days: 2
 
     YouTube-UploadVideo:
+        if: ${{ false }}
         needs: [YouTube-CreateVideo]
         runs-on: ubuntu-latest
         steps:
@@ -188,13 +190,14 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Install Chrome
-              uses: browser-actions/setup-chrome@latest
-              with:
-                  chrome-version: stable
+            - name: Install virtual display
+              run: sudo apt-get install -yq --no-install-recommends xvfb xauth ffmpeg libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 libnss3
+
+            - name: Install full Google Chrome
+              run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
             - name: Exports chrome bin path to ENV
-              run: export CHROME_BIN=$(which chrome)
+              run: export CHROME_BIN=$(which google-chrome)
 
             - name: Download Instagram assets
               uses: actions/download-artifact@v2
