@@ -10,9 +10,7 @@ export default class CreateContentTemplateService {
 
     constructor() {}
 
-    public execute(description: string, options: { fps?: number }): void {
-        const { fps } = options;
-
+    public execute(description: string): void {
         const timestamp = Math.round(Date.now() / 1000);
 
         const newsTemplate = new Array(10).fill({
@@ -22,7 +20,7 @@ export default class CreateContentTemplateService {
 
         const template: InterfaceJsonContent = {
             title: '',
-            fps: fps ?? 30,
+            fps: 30,
             timestamp,
             date: new Date().toLocaleDateString('pt-BR'),
             intro: {

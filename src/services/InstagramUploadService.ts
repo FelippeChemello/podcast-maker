@@ -1,3 +1,5 @@
+import fs from 'fs';
+import path from 'path';
 import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 
@@ -5,6 +7,7 @@ puppeteer.use(StealthPlugin());
 
 import { error, log } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
+import { tmpPath } from '../config/defaultPaths';
 
 export default class InstagramUploadService {
     private content: InterfaceJsonContent;

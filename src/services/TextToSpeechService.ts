@@ -36,14 +36,20 @@ class TextToSpeechService {
         this.content.renderData = [];
     }
 
-    public async execute(destination: 'instagram' | 'youtube'): Promise<void> {
-        if (destination === 'youtube') {
+    public async execute({
+        synthesizeIntro,
+        synthesizeEnd,
+    }: {
+        synthesizeIntro?: boolean;
+        synthesizeEnd?: boolean;
+    }): Promise<void> {
+        if (synthesizeIntro) {
             await this.synthesizeIntro();
         }
 
         await this.synthesizeNews();
 
-        if (destination === 'youtube') {
+        if (synthesizeEnd) {
             await this.synthesizeEnd();
         }
     }

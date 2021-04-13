@@ -5,6 +5,8 @@ import { OAuth2Client } from 'googleapis-common';
 import { error, log } from '../utils/log';
 import Bar from '../utils/CliProgress/bar';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
+import { tmpPath } from '../config/defaultPaths';
+import path from 'path';
 
 export default class YoutubeUploadService {
     private content: InterfaceJsonContent;
@@ -31,7 +33,7 @@ export default class YoutubeUploadService {
 
         if (!process.env.YOUTUBE_CLIENT_ID) {
             error('Youtube Client ID is not defined', 'YoutubeUploadService');
-            return;
+            process.exit(1);
         }
 
         if (!process.env.YOUTUBE_CLIENT_SECRET) {
@@ -39,7 +41,7 @@ export default class YoutubeUploadService {
                 'Youtube Client Secret is not defined',
                 'YoutubeUploadService',
             );
-            return;
+            process.exit(1);
         }
 
         if (!process.env.YOUTUBE_REFRESH_TOKEN) {
@@ -47,7 +49,7 @@ export default class YoutubeUploadService {
                 'Youtube Refresh Token is not defined',
                 'YoutubeUploadService',
             );
-            return;
+            process.exit(1);
         }
 
         this.clientId = process.env.YOUTUBE_CLIENT_ID;

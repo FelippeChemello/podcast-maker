@@ -15,11 +15,14 @@ export default class RetrieveAudioDataService {
     }
 
     public async execute(
-        needToRetrieveAudioDataFromTmp: boolean,
-        destination: 'youtube' | 'instagram',
+        audioDataIsInContent: boolean,
+        options: { haveIntro?: boolean; haveEnd?: boolean },
     ): Promise<void> {
-        if (needToRetrieveAudioDataFromTmp) {
-            this.retrieveAudioData(destination);
+        if (!audioDataIsInContent) {
+            this.retrieveAudioData(
+                options.haveIntro || false,
+                options.haveEnd || false,
+            );
         }
 
         if (!this.content.renderData) {
@@ -45,7 +48,7 @@ export default class RetrieveAudioDataService {
         this.setFullDuration();
     }
 
-    private async retrieveAudioData(destination: 'youtube' | 'instagram') {
+    private async retrieveAudioData(haveIntro: boolean, haveEnd: boolean) {
         log('Getting data from audio files in tmp/', 'RetrieveAudioData');
 
         const files = fs.readdirSync(tmpPath);
@@ -79,7 +82,7 @@ export default class RetrieveAudioDataService {
         }
 
         if (
-            destination === 'youtube' &&
+            haveIntro &&
             fs.existsSync(path.resolve(tmpPath, introFilePath)) &&
             this.content.intro?.text
         ) {
@@ -102,7 +105,7 @@ export default class RetrieveAudioDataService {
         }
 
         if (
-            destination === 'youtube' &&
+            haveEnd &&
             fs.existsSync(path.resolve(tmpPath, endFilePath)) &&
             this.content.end?.text
         ) {

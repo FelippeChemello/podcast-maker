@@ -63,7 +63,7 @@ jobs:
               run: yarn
 
             - name: Create TTS
-              run: yarn video:auto:tts
+              run: yarn video:make:tts
 
             - name: Save TTS files in Artifacts
               uses: actions/upload-artifact@v2
@@ -72,47 +72,73 @@ jobs:
                   path: tmp/*.mp3
                   retention-days: 3
 
-    # YouTubeVideo:
-    #     needs: [TextToSpeech]
-    #     runs-on: ubuntu-latest
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
+    YouTube-CreateVideo:
+        needs: [TextToSpeech]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-    #         - name: Install FFMPEG
-    #           uses: FedericoCarboni/setup-ffmpeg@v1
+            - name: Install FFMPEG
+              uses: FedericoCarboni/setup-ffmpeg@v1
 
-    #         - name: Download TTS files
-    #           uses: actions/download-artifact@v2
-    #           with:
-    #               name: audio-files
-    #               path: tmp/
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
+              with:
+                  name: audio-files
+                  path: tmp/
 
-    #         - name: Get node_modules from cache
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
-    #         - name: Create and Upload Youtube video
-    #           run: yarn video:auto:youtube
+            - name: Create Youtube video
+              run: yarn video:make:youtube
 
-    #         - name: Save video in Artifacts
-    #           uses: actions/upload-artifact@v2
-    #           with:
-    #               name: youtube-video-assets
-    #               path: |
-    #                   tmp/*.mp4
-    #                   tmp/*.jpeg
-    #                   tmp/*.png
-    #               retention-days: 2
+            - name: Save video in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: youtube-video-assets
+                  path: |
+                      tmp/*.mp4
+                      tmp/*.jpeg
+                  retention-days: 2
 
-    InstagramVideo:
+    YouTube-UploadVideo:
+        needs: [YouTube-CreateVideo]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Download Youtube assets
+              uses: actions/download-artifact@v2
+              with:
+                  name: youtube-video-assets
+                  path: tmp/
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+            - name: Upload Youtube video
+              run: yarn video:upload:youtube
+
+    Instagram-CreateVideo:
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
@@ -147,8 +173,8 @@ jobs:
               if: steps.dependencies.outputs.cache-hit != 'true'
               run: yarn
 
-            - name: Create and Upload Youtube video
-              run: yarn video:auto:instagram
+            - name: Create Instagram video
+              run: yarn video:make:instagram
 
             - name: Save video in Artifacts
               uses: actions/upload-artifact@v2
@@ -157,5 +183,31 @@ jobs:
                   path: |
                       tmp/*.mp4
                       tmp/*.jpeg
-                      tmp/*.png
                   retention-days: 2
+
+    Instagram-UploadVideo:
+        needs: [Instagram-CreateVideo]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Download Instagram assets
+              uses: actions/download-artifact@v2
+              with:
+                  name: instagram-video-assets
+                  path: tmp/
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+            - name: Uplaod Instagram video
+              run: yarn video:upload:instagram
