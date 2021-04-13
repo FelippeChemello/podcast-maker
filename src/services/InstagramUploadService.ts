@@ -1,13 +1,7 @@
-import fs from 'fs';
-import path from 'path';
-import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
-
-puppeteer.use(StealthPlugin());
+import puppeteer from 'puppeteer';
 
 import { error, log } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
-import { tmpPath } from '../config/defaultPaths';
 
 export default class InstagramUploadService {
     private content: InterfaceJsonContent;
@@ -64,106 +58,88 @@ export default class InstagramUploadService {
 
         const description = this.getDescription();
 
-        return new Promise(resolve => {
-            puppeteer
-                .launch({
-                    executablePath: this.chromeExecutablePath,
-                })
-                .then(async browser => {
-                    const page = await browser.newPage();
-
-                    await page.goto(this.urls.login);
-
-                    await page.waitForSelector("input[name='username']");
-
-                    const usernameInput = await page.$(
-                        "input[name='username']",
-                    );
-                    const passwordInput = await page.$(
-                        "input[name='password']",
-                    );
-                    const loginButton = await page.$('button');
-
-                    if (!usernameInput || !passwordInput || !loginButton) {
-                        error(
-                            'Failed to find username or password inputs',
-                            'InstagramUploadService',
-                        );
-                        process.exit(1);
-                    }
-
-                    log('Logging at instagram', 'InstagramUploadService');
-
-                    await usernameInput.click();
-                    await page.keyboard.type(this.email);
-
-                    await passwordInput.click();
-                    await page.keyboard.type(this.password);
-
-                    await loginButton.click();
-
-                    await page.waitForNavigation();
-
-                    await page.goto(this.urls.igtvUpload);
-
-                    log(`Setting title to: ${title}`, 'InstagramUploadService');
-                    await page.type('input[type="text"]', title);
-
-                    log(
-                        `Setting description to: \n${description}`,
-                        'InstagramUploadService',
-                    );
-                    await page.type('textarea', description);
-
-                    log('Uploading video', 'InstagramUploadService');
-
-                    const [videoInput, thumnailInput] = await page.$$(
-                        'input[type="file"]',
-                    );
-
-                    if (!videoInput || !thumnailInput) {
-                        error(
-                            'Failed to find media input ',
-                            'InstagramUploadService',
-                        );
-                        return;
-                    }
-
-                    videoInput.uploadFile(videoPath);
-                    await page.waitForFunction(
-                        () =>
-                            Array.from(
-                                document.querySelectorAll('div'),
-                            ).find(div => div.innerText.includes('100%')),
-                        { timeout: 120000 },
-                    );
-
-                    log('Upload completed', 'InstagramUploadService');
-                    thumnailInput?.uploadFile(thumbnailPath);
-
-                    const submitButton = await page.$('button');
-                    if (!submitButton) {
-                        error(
-                            'Failed to find submit button',
-                            'InstagramUploadService',
-                        );
-                        return;
-                    }
-
-                    await submitButton.click();
-
-                    await page.waitForSelector('button img');
-
-                    await browser.close();
-
-                    log(
-                        `Video published on Instagram`,
-                        'InstagramUploadService',
-                    );
-
-                    resolve();
-                });
+        const browser = await puppeteer.launch({
+            executablePath: process.env.CHROME_BIN,
+            headless: false,
+            defaultViewport: null as any,
         });
+
+        const page = await browser.newPage();
+
+        await page.goto(this.urls.login);
+
+        await page.waitForSelector("input[name='username']");
+
+        const usernameInput = await page.$("input[name='username']");
+        const passwordInput = await page.$("input[name='password']");
+        const loginButton = await page.$('button');
+
+        if (!usernameInput || !passwordInput || !loginButton) {
+            error(
+                'Failed to find username or password inputs',
+                'InstagramUploadService',
+            );
+            process.exit(1);
+        }
+
+        log('Logging at instagram', 'InstagramUploadService');
+
+        await usernameInput.click();
+        await page.keyboard.type(this.email);
+
+        await passwordInput.click();
+        await page.keyboard.type(this.password);
+
+        await loginButton.click();
+
+        await page.waitForNavigation();
+
+        await page.goto(this.urls.igtvUpload);
+
+        log(`Setting title to: ${title}`, 'InstagramUploadService');
+        await page.type('input[type="text"]', title);
+
+        log(
+            `Setting description to: \n${description}`,
+            'InstagramUploadService',
+        );
+
+        await page.type('textarea', description);
+
+        log('Uploading video', 'InstagramUploadService');
+
+        const [videoInput, thumnailInput] = await page.$$('input[type="file"]');
+
+        if (!videoInput || !thumnailInput) {
+            error('Failed to find media input ', 'InstagramUploadService');
+            return;
+        }
+
+        videoInput.uploadFile(videoPath);
+        await page.waitForFunction(
+            () =>
+                Array.from(document.querySelectorAll('div')).find(div =>
+                    div.innerText.includes('100%'),
+                ),
+            { timeout: 120000 },
+        );
+
+        log('Upload completed', 'InstagramUploadService');
+        thumnailInput?.uploadFile(thumbnailPath);
+
+        const submitButton = await page.$('button');
+        if (!submitButton) {
+            error('Failed to find submit button', 'InstagramUploadService');
+            return;
+        }
+
+        await submitButton.click();
+
+        await page.waitForSelector('button img');
+
+        await browser.close();
+
+        log(`Video published on Instagram`, 'InstagramUploadService');
     }
 
     private getDescription() {
