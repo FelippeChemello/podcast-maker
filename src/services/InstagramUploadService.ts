@@ -62,6 +62,7 @@ export default class InstagramUploadService {
             executablePath: process.env.CHROME_BIN,
             headless: false,
             defaultViewport: null as any,
+            args: ['--no-sandbox', '--disable-setuid-sandbox'],
         });
 
         const page = await browser.newPage();
@@ -116,6 +117,7 @@ export default class InstagramUploadService {
         }
 
         videoInput.uploadFile(videoPath);
+        await page.screenshot({ path: 'shot.png' });
         await page.waitForFunction(
             () =>
                 Array.from(document.querySelectorAll('div')).find(div =>
