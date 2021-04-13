@@ -109,6 +109,8 @@ jobs:
                   path: |
                       tmp/*.mp4
                       tmp/*.jpeg
+                      tmp/*.json
+                      !tmp/example.json
                   retention-days: 2
 
     YouTube-UploadVideo:
@@ -148,14 +150,6 @@ jobs:
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
 
-            - name: Install Chrome
-              uses: browser-actions/setup-chrome@latest
-              with:
-                  chrome-version: stable
-
-            - name: Exports chrome bin path to ENV
-              run: export CHROME_BIN=$(which chrome)
-
             - name: Download TTS files
               uses: actions/download-artifact@v2
               with:
@@ -183,6 +177,8 @@ jobs:
                   path: |
                       tmp/*.mp4
                       tmp/*.jpeg
+                      tmp/*.json
+                      !tmp/example.json
                   retention-days: 2
 
     Instagram-UploadVideo:
@@ -191,6 +187,14 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
+
+            - name: Install Chrome
+              uses: browser-actions/setup-chrome@latest
+              with:
+                  chrome-version: stable
+
+            - name: Exports chrome bin path to ENV
+              run: export CHROME_BIN=$(which chrome)
 
             - name: Download Instagram assets
               uses: actions/download-artifact@v2

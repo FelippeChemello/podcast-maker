@@ -4,19 +4,19 @@
     "timestamp": 1618281365,
     "date": "12/04/2021",
     "intro": {
-        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. "
     },
     "end": {
-        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. ",
         "url": "https://filipedeschamps.com.br/newsletter"
     },
     "news": [
         {
-            "text": "Milhões de dados pessoais de usuários do Facebook estão disponíveis gratuitamente em fórum: os dados pertencem a 533 milhões de usuários e contemplam informações como números de telefone, nomes completos, localização, email e informações biográficas. De brasileiros, o hacker afirma possuir mais de oito milhões de registros. O Facebook afirma que os dados foram obtidos através de uma vulnerabilidade antiga, já corrigida em 2019. Pesquisadores de segurança alertam que os dados roubados poderão ser utilizados por hackers para cometer fraudes. As informações são da Business Insider.",
+            "text": "Milhões de dados pessoais de usuários do Facebook estão disponíveis gratuitamente em fórum",
             "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
         },
         {
-            "text": "Telefone de Mark Zuckerberg está entre dados vazados do Facebook: além do telefone, dados como localização, detalhes do casamento, data de nascimento e ID do usuário de Zuckerberg foram expostos, reporta a Business Insider. Também estão disponíveis as informações dos co-fundadores da companhia, Chris Hughes e Dustin Moskovitz.",
+            "text": "Telefone de Mark Zuckerberg está entre dados vazados do Facebook",
             "url": "https://www.businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4"
         }
     ]
