@@ -17,6 +17,7 @@ import { error, log } from './utils/log';
 
 // Adicionar minutagem das noticias
 // Fazer upload para anchor.fm
+// Ajustar google.js para receber via webserver o code e printar na tela as instruções
 
 const program = new Command();
 program
@@ -36,7 +37,7 @@ program
         `,
         'youtube',
     )
-    .option('-tts, --tts', 'Need to create TTS', true)
+    .option('-tts, --tts', 'Need to create TTS', false)
     .option(
         '-c, --create <description>',
         'Create new content file with default labels',
@@ -121,4 +122,6 @@ if (Object.keys(options).length <= 0) {
         )} seconds`,
         'Main',
     );
+
+    process.exit(0);
 })();

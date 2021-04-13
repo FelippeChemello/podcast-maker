@@ -68,8 +68,6 @@ export default class YoutubeUploadService {
 
             await this.uploadThumbnail(auth, thumnailPath, videoid);
         } catch (err) {
-            console.log(err);
-
             error(
                 'Failed at uploading video \n' + JSON.stringify(err),
                 'YoutubeUploadService',

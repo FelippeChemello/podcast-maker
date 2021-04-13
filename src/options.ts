@@ -97,8 +97,8 @@ export const createInstagram = async ({
 
     if (needTTS) {
         await new TextToSpeechService(content).execute({
-            synthesizeIntro: true,
-            synthesizeEnd: true,
+            synthesizeIntro: false,
+            synthesizeEnd: false,
         });
     }
 

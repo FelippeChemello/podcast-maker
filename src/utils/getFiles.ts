@@ -26,8 +26,6 @@ export const getLastestFileCreated = (fileExt: string, dirPath: string) => {
 };
 
 export const getContentFromFile = (filePath: string) => {
-    console.log(filePath);
-
     const data = fs.readFileSync(filePath, { encoding: 'utf-8' });
 
     if (!data) {
