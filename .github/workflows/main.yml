@@ -13,6 +13,8 @@ env:
     YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
     YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
     REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
+    INSTAGRAM_EMAIL: ${{ secrets.INSTAGRAM_EMAIL }}
+    INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
 
 jobs:
     CacheDependencies:
@@ -70,45 +72,45 @@ jobs:
                   path: tmp/*.mp3
                   retention-days: 3
 
-    YouTubeVideo:
-        needs: [TextToSpeech]
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v2
+    # YouTubeVideo:
+    #     needs: [TextToSpeech]
+    #     runs-on: ubuntu-latest
+    #     steps:
+    #         - name: Checkout code
+    #           uses: actions/checkout@v2
 
-            - name: Install FFMPEG
-              uses: FedericoCarboni/setup-ffmpeg@v1
+    #         - name: Install FFMPEG
+    #           uses: FedericoCarboni/setup-ffmpeg@v1
 
-            - name: Download TTS files
-              uses: actions/download-artifact@v2
-              with:
-                  name: audio-files
-                  path: tmp/
+    #         - name: Download TTS files
+    #           uses: actions/download-artifact@v2
+    #           with:
+    #               name: audio-files
+    #               path: tmp/
 
-            - name: Get node_modules from cache
-              id: dependencies
-              uses: actions/cache@v2
-              with:
-                  path: node_modules
-                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+    #         - name: Get node_modules from cache
+    #           id: dependencies
+    #           uses: actions/cache@v2
+    #           with:
+    #               path: node_modules
+    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-            - name: Install project dependencies
-              if: steps.dependencies.outputs.cache-hit != 'true'
-              run: yarn
+    #         - name: Install project dependencies
+    #           if: steps.dependencies.outputs.cache-hit != 'true'
+    #           run: yarn
 
-            - name: Create and Upload Youtube video
-              run: yarn video:auto:youtube
+    #         - name: Create and Upload Youtube video
+    #           run: yarn video:auto:youtube
 
-            - name: Save video in Artifacts
-              uses: actions/upload-artifact@v2
-              with:
-                  name: youtube-video-assets
-                  path: |
-                      tmp/*.mp4
-                      tmp/*.jpeg
-                      tmp/*.png
-                  retention-days: 2
+    #         - name: Save video in Artifacts
+    #           uses: actions/upload-artifact@v2
+    #           with:
+    #               name: youtube-video-assets
+    #               path: |
+    #                   tmp/*.mp4
+    #                   tmp/*.jpeg
+    #                   tmp/*.png
+    #               retention-days: 2
 
     InstagramVideo:
         needs: [TextToSpeech]
@@ -119,6 +121,14 @@ jobs:
 
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
+
+            - name: Install Chrome
+              uses: browser-actions/setup-chrome@latest
+              with:
+                  chrome-version: stable
+
+            - name: Exports chrome bin path to ENV
+              run: export CHROME_BIN=$(which chrome)
 
             - name: Download TTS files
               uses: actions/download-artifact@v2

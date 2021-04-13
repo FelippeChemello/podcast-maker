@@ -16,9 +16,9 @@ import CleanTmpService from './services/CleanTmpService';
 import InstagramUploadService from './services/InstagramUploadService';
 import ValidatesContentService from './services/ValidatesContentService';
 
-// Validar se todos os campos necessários estão preenchidos (Title e no minimo uma news)
+// Adicionar minutagem das noticias
 // Fazer upload para anchor.fm
-// Fazer upload para Instagram automaticamente
+// WIP: Fazer upload para Instagram automaticamente
 
 const create = async ({
     contentFileName,
