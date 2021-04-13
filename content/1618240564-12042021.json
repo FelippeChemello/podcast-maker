@@ -1,0 +1,59 @@
+{
+    "title": "Usina nuclear explode após ataque cibernético / Rede elétrica sem fio usando 5G / Programa secreto do Google revelado",
+    "fps": 30,
+    "timestamp": 1618240564,
+    "date": "12/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Centrífuga de enriquecimento de urânio no Irã explode após ataque cibernético: o país havia inaugurado a usina no dia anterior e não há indicações de vazamento de material radioativo. Fontes da inteligência israelense afirmam que o acidente foi causado por um ataque cibernético. Não seria a primeira vez que isso acontece: em 2010, o malware “Stuxnet” atingiu os sistemas de automação de processos eletromecânicos de outra usina de enriquecimento de urânio no Irã. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/"
+        },
+        {
+            "text": "5G também pode ser utilizado como rede elétrica sem fio: pesquisadores do Instituto de Tecnologia da Geórgia desenvolveram uma antena retificadora capaz de captar ondas milimétricas da banda de 28 GHz, transformando-as em uma rede elétrica sem fio para alimentar dispositivos IoT que hoje precisam de baterias para operar. Os pesquisadores prevêem que a energia será a próxima grande aplicação para a indústria de telecomunicações, assim como dados superaram os serviços de voz. As informações são da página de imprensa da Georgia Tech.",
+            "url": "https://rh.gatech.edu/news/645735/leveraging-5g-network-wirelessly-power-iot-devices"
+        },
+        {
+            "text": "Programa secreto do Google é revelado durante ação antitruste nos EUA: o “Projeto Bernanke” usava dados de lances de seu próprio sistema de publicidade digital para garantir uma vantagem competitiva injusta sobre seus rivais na venda de anúncios. O Google nega que usar essas informações para direcionar leilões seja impróprio. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760"
+        },
+        {
+            "text": "Procon chama Facebook para conversar sobre o WhatsApp: o órgão quer discutir a atualização da política de privacidade do WhatsApp que prevê o compartilhamento de dados do usuário com outras empresas. A reunião acontecerá no próximo dia 22. As informações são da página do Procon-SP.",
+            "url": "https://www.procon.sp.gov.br/procon-sp-notifica-facebook-para-reuniao/"
+        },
+        {
+            "text": "Governo institui a EBIA, Estratégia Brasileira de Inteligência Artificial: a EBIA irá nortear as ações do País para o desenvolvimento de pesquisa, inovação e desenvolvimento de soluções em inteligência artificial, bem como seu uso consciente, ético e em prol de um futuro melhor. As informações são da página do Ministério da Ciência, Tecnologia e Inovações.",
+            "url": "http://pedbrasil.org.br/estrategia-brasileira-de-inteligencia-artificial-ebia/"
+        },
+        {
+            "text": "Sessenta anos da ida do primeiro humano ao espaço nesta segunda-feira: a bordo da cápsula Vostok 1, o cosmonauta Yuri Gagarin completou uma órbita ao redor da Terra em 12 de abril de 1961. Com a façanha, Gagarin se tornou uma celebridade internacional. As informações são da Wikipedia.",
+            "url": "https://canaltech.com.br/espaco/60-anos-do-voo-de-yuri-gagarin-e-celebrado-em-evento-online-e-gratuito-hoje-182315/"
+        },
+        {
+            "text": "NASA decide atrasar primeiro voo do mini helicóptero Ingenuity após anomalia em teste de rotação das hélices: a NASA, no entanto, afirmou que o helicóptero está seguro e saudável, comunicando sua telemetria completa à Terra. Uma nova tentativa de voo irá acontecer nesta quarta-feira, dia 14. As informações são do site Space.",
+            "url": "https://www.livescience.com/nasa-mars-helicopter-flight-delay.html"
+        },
+        {
+            "text": "FBI prende homem que planejava explodir data center da AWS nos EUA: sua ideia era destruir “cerca de 70% da internet”. O homem de 28 anos foi preso após tentar comprar explosivos de um agente disfarçado. O FBI agradeceu ao usuário anônimo que alertou a agência para os posts com ameaças do homem em um fórum da internet. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/fbi-arrests-man-plotting-bomb-data-center-cause-huge-internet-outage"
+        },
+        {
+            "text": "Microsoft compra Nuance Communications por 19,7 bilhões de dólares: a Nuance vende ferramentas para reconhecimento e transcrição de falas em consultas médicas, chamadas de atendimento ao cliente e correios de voz. O negócio é o segundo maior da companhia, ficando apenas atrás da aquisição do LinkedIn por 26,2 bilhões de dólares em 2016. As informações são do TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/12/microsoft-is-acquiring-nuance-communications-for-19-7b/"
+        },
+        {
+            "text": "Google apresenta “Monster Mash”, ferramenta para facilitar modelagem e animação 3D: a nova ferramenta permite esboçar rapidamente um personagem, torná-lo tridimensional e animá-lo imediatamente, sem nenhuma manipulação 3D avançada ser necessária. É possível testar a ferramenta no site Monster Mash e o código-fonte está disponível no repositório “google/monster-mash” no GitHub.",
+            "url": "https://github.com/google/monster-mash"
+        },
+        {
+            "text": "Cloudflare Pages sai do beta e fica disponível de forma geral: no final do ano passado, a companhia havia anunciado uma versão preliminar do Cloudflare Pages, uma nova forma para desenvolvedores front-end hospedarem sites Jamstack. O lançamento nesta segunda-feira traz novos recursos como web analytics gratuito, redirecionamentos de páginas integrado e otimização de imagens. As informações são do blog da Cloudfare.",
+            "url": "https://pages.cloudflare.com/"
+        }
+    ]
+}
