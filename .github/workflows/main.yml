@@ -184,6 +184,7 @@ jobs:
     Instagram-UploadVideo:
         needs: [Instagram-CreateVideo]
         runs-on: ubuntu-latest
+        timeout-minutes: 15
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
