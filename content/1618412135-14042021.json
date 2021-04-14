@@ -1,0 +1,55 @@
+{
+    "title": "“Hacker do Bem” invade Fiocruz / Magalu compra Jovem Nerd / FBI faz operação inédita",
+    "fps": 30,
+    "timestamp": 1618412135,
+    "date": "14/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Autointitulado “Hacker do Bem” encontra falha gravíssima em sistemas da Fiocruz: segundo informações obtidas com exclusividade pelo Canaltech, a vulnerabilidade poderia ser explorada para obtenção de informações confidenciais e até atrapalhar a produção de vacinas. Um servidor aberto da fundação dava acesso a um MongoDB interno para o gerenciamento de vacinas. Era possível apagar os controles de temperatura do armazenamento de insumos e até mesmo desconfigurar e desligar freezers que continham imunizantes. A base também incluía credenciais, emails e senhas criptografadas de colaboradores, mas o hash e a chave estavam armazenadas no mesmo local. Segundo o hacker, o órgão foi rápido em corrigir os problemas.",
+            "url": "https://canaltech.com.br/seguranca/fiocruz-tinha-falha-cibernetica-que-poderia-afetar-pesquisas-contra-a-covid-19-182681/"
+        },
+        {
+            "text": "Magazine Luiza compra o Jovem Nerd: a aquisição faz parte da estratégia de criação de um ecossistema digital completo da companhia. O Jovem Nerd é uma das maiores plataformas multimídia do País e produz conteúdo sobre diversos temas como cinema, séries de TV, quadrinhos, jogos, história, ciência e tecnologia. O valor da aquisição não foi revelado. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/negocios/magazine-luiza-compra-jovem-nerd-182688/"
+        },
+        {
+            "text": "FBI realiza operação inédita e neutraliza ataques a servidores Microsoft Exchange sem avisar admins: a operação, autorizada pela Justiça dos EUA, removeu silenciosamente e sem notificação prévia, web shells maliciosos de centenas de servidores Microsoft Exchange usados para fornecer serviços de email para empresas. Em março deste ano, a Microsoft alertou que hackers estavam se aproveitando de várias vulnerabilidades zero-day para instalar web shells em milhares de servidores no mundo todo. As informações são da página de imprensa do Departamento de Justiça dos EUA.",
+            "url": "https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft-exchange"
+        },
+        {
+            "text": "Instagram Lite chega hoje ao Brasil: grande parte do processamento dessa versão do aplicativo é executada em servidores da rede social, permitindo ser utilizado em smartphones com configurações mais simples e por usuários com planos de dados limitados. O Instagram Lite está disponível para download a partir desta quarta-feira, dia 14. As informações são do site Canaltech.",
+            "url": "https://canaltech.com.br/redes-sociais/lancamento-instagram-lite-brasil-182576/"
+        },
+        {
+            "text": "TIM inicia construção de antenas 4G que utilizam energia solar: o projeto de expansão da rede LTE da operadora começará a usar energia solar em locais “off-grid” e faz parte do plano da empresa de usar 90% de energia renovável em suas operações até o ano de 2025. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/13/04/2021/tim-inicia-construcao-de-antenas-4g-com-energia-solar-em-sp/"
+        },
+        {
+            "text": "Chip para computadores e notebooks da Qualcomm poderá ser fabricado no Brasil: o “Snapdragon 7c” recebeu certificado de conformidade técnica da Anatel e a Fênix Indústria de Eletrônicos, em Santa Rita do Sapucaí (MG), poderá produzir o processador. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/431255/qualcomm-snapdragon-7c-passa-na-anatel-e-pode-ser-fabricado-no-brasil/"
+        },
+        {
+            "text": "Nova pesquisa mostra um número crescente de jogadores mais velhos: o relatório da empresa de consultoria Global Web Index com 19.500 pessoas revela que jogadores na faixa etária entre 55 e 64 anos cresceram 32% nos últimos três anos. Outro dado interessante é que 24% dos avós e pais relatam que jogar videogames juntos conta como tempo em família. As informações são do site GamesIndustry.",
+            "url": "https://www.gamesindustry.biz/articles/2021-04-12-new-market-research-reveals-growing-number-of-old-aged-gamers"
+        },
+        {
+            "text": "Facebook está testando “Sparked”, aplicativo de “speed dating” por vídeo: as pessoas poderão realizar encontros através de vídeos rápidos e que não duram mais do que quatro minutos. Um segundo encontro de 10 minutos é agendado caso duas pessoas se curtam e o app sugerirá a continuidade de conversas por meio do Instagram, email ou mensagens de texto. O aplicativo está sendo desenvolvido pelo “NPE Team”, projeto de experimentação de novos produtos do Facebook e não é certo que venha a ser lançado. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/13/22381511/facebook-video-speed-dating-npe-team-sparked-feature"
+        },
+        {
+            "text": "Mini helicóptero em Marte vai precisar de atualização e reinstalação de software: o processo de inicialização de dois controladores de voo do Ingenuity serão modificados. Segundo a NASA, embora o desenvolvimento do novo software seja relativamente simples, o processo de validação e uplink para o Ingenuity levará algum tempo. As informações são da página Mars Exploration Program da NASA.",
+            "url": "https://mars.nasa.gov/technology/helicopter/status/290/work-progresses-toward-ingenuity-s-first-flight-on-mars/"
+        },
+        {
+            "text": "AWS lança OpenSearch, um fork do Elasticsearch e Kibana: uma versão beta é esperada nas próximas semanas, com um lançamento de produção planejado para o início do verão no hemisfério norte. A AWS confirmou que as novas APIs serão retrocompatíveis. Em 2019, a Elasticsearch entrou com uma ação contra a Amazon, acusando-a de usar sem permissão sua marca e confundir a comunidade. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/13/aws_renames_elasticsearch_fork_opensearch/"
+        }
+    ]
+}
