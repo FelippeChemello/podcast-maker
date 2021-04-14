@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { getCompositions, renderFrames } from '@remotion/renderer';
 
-import InterfaceJsonContent from 'models/InterfaceJsonContent';
+import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
 

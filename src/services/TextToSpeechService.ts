@@ -8,8 +8,7 @@ import path from 'path';
 
 import { error, log } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
-import randomNumbersBetween from '../utils/randomNumbersBetween';
-import InterfaceJsonContent from 'models/InterfaceJsonContent';
+import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 class TextToSpeechService {
     private voices = ['pt-BR-FranciscaNeural', 'pt-BR-AntonioNeural'];

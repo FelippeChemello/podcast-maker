@@ -6,7 +6,7 @@ import {
     stitchFramesToVideo,
 } from '@remotion/renderer';
 
-import InterfaceJsonContent from 'models/InterfaceJsonContent';
+import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
 import { format } from '../config/destination';

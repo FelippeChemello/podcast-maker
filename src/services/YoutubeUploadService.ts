@@ -5,8 +5,6 @@ import { OAuth2Client } from 'googleapis-common';
 import { error, log } from '../utils/log';
 import Bar from '../utils/CliProgress/bar';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
-import { tmpPath } from '../config/defaultPaths';
-import path from 'path';
 
 export default class YoutubeUploadService {
     private content: InterfaceJsonContent;
