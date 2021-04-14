@@ -1,0 +1,55 @@
+{
+    "title": "Falhas graves no WhatsApp, Chrome e Edge / Estudante surpreende com código quântico",
+    "fps": 30,
+    "timestamp": 1618323132,
+    "date": "13/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://filipedeschamps.com.br/newsletter"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores descobrem como bloquear qualquer conta do WhatsApp: o ataque não é sofisticado, bastando instalar o aplicativo em outro telefone, requisitar o SMS de desbloqueio da autenticação de dois fatores utilizando o número de telefone da vítima e digitar os números de forma incorreta diversas vezes num período de 36 horas. A partir desse momento, um bug no WhatsApp alerta que já existem muitas tentativas para adivinhar o código e jogará a mensagem “Tente novamente após -1 segundo” como erro. Se o invasor enviar então um email para o suporte do WhatsApp alertando que o número de celular que está sendo atacado foi roubado ou perdido, o sistema desconectará a vítima, e por causa do bug de “-1 segundo” ela não conseguirá recuperar sua conta através da autenticação de dois fatores. As informações são da Forbes.",
+            "url": "https://www.news18.com/news/tech/major-whatsapp-warning-your-whatsapp-may-be-hacked-and-theres-nothing-you-can-do-3635069.html"
+        },
+        {
+            "text": "Falha zero-day no Chrome e Edge permite execução remota de código: o pesquisador de segurança Rajvardhan Agarwal publicou uma prova de conceito (PoC) funcional para a engine JavaScript V8 utilizada em navegadores baseados em Chromium. Embora a vulnerabilidade não funcionar na versão mais recente do V8, não está claro quando o Google e Microsoft lançarão atualizações para os navegadores que utilizam esta versão da engine. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/google-chrome-microsoft-edge-zero-day-vulnerability-shared-on-twitter/"
+        },
+        {
+            "text": "Estudante de física cria código que será utilizado em computadores quânticos da AWS: no segundo ano da faculdade, o estudante Pablo Bonilla Ataides, da Universidade de Sydney, examinou códigos de correção de erros comumente utilizados na computação quântica como tarefa de casa e descobriu como efetivamente dobrar a capacidade de supressão de erros. O Dr. Earl Campbell, cientista sênior de pesquisa quântica da AWS, afirmou que ficou surpreso como uma mudança tão simples pudesse levar a um impacto tão grande no desempenho. As informações são da página de imprensa da Universidade de Sydney.",
+            "url": "https://www.sydney.edu.au/news-opinion/news/2021/04/13/student-physics-homework-picked-up-by-amazon-web-services-quantum.html"
+        },
+        {
+            "text": "Cientistas adiam estudo sobre tecnologia polêmica financiada por Bill Gates: o experimento de geoengenharia solar desenvolvido pela Universidade de Harvard, que testará a eficácia do uso de aerosóis na atmosfera para bloquear parte da luz solar que chega à Terra, foi adiado para 2022 por implicações éticas. Segundo o comitê consultivo de Harvard, é necessário um processo de engajamento social mais completo para a realização de pesquisas envolvendo geoengenharia solar. As informações são da revista Popular Mechanics.",
+            "url": "https://www.popularmechanics.com/science/a36014979/bill-gates-sun-blocking-experiment-postponed/"
+        },
+        {
+            "text": "Tesla vai utilizar IA para automatizar outras funções dos veículos: Elon Musk afirmou que a próxima revisão da rede neural da marca vai melhorar como os limpadores e desembaçadores do para-brisa funcionam, e ajustará os assentos utilizando a distribuição de massa do ocupante. Além disso, a atualização deixará o sistema de radar do veículo obsoleto, utilizando apenas as câmeras e visão computacional para o sistema de direção autônoma. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
+        },
+        {
+            "text": "Spotify lança “Car Thing”, dispositivo para tocar músicas em carros: o aparelho está sendo oferecido gratuitamente para usuários Premium do serviço nos EUA. O Car Thing oferece uma combinação de controle por voz, botões e uma tela sensível ao toque para navegação e pode se conectar ao carro por bluetooth, porta auxiliar ou cabo USB. As informações são do TechCrunch.",
+            "url": "https://techcrunch.com/2019/05/17/spotify-is-test-driving-a-car-hardware-thing-called-car-thing/"
+        },
+        {
+            "text": "Próximo rover lunar da NASA rodará com software de código aberto: em 2023, a agência espacial lançará o rover VIPER que percorrerá a superfície da Lua em busca de gelo que um dia poderá ser utilizado na fabricação de combustível para foguetes. Segundo a NASA, além de mais barato, o uso de software open source facilita a contratação de novos desenvolvedores. As informações são da página MIT Technology Review.",
+            "url": "https://www.technologyreview.com/2021/04/12/1022420/nasa-lunar-rover-viper-open-source-software/"
+        },
+        {
+            "text": "Nvidia lança Grace, CPU para data centers: o processador, baseado na arquitetura ARM e uma homenagem a Grace Hopper, uma das primeiras cientistas de computação, será 10 vezes mais rápido do que soluções atuais para cargas de trabalho de computação de alto desempenho e inteligências artificiais mais complexas. As informações são da página de imprensa da Nvidia.",
+            "url": "https://www.nvidia.com/en-us/data-center/grace-cpu/"
+        },
+        {
+            "text": "Navegador Brave decide desativar novo sistema de rastreamento do Google que visa substituir os cookies: segundo o Brave, o “FLoC” prejudica a privacidade sob o pretexto de ser menos invasivo, mas compartilha muito mais informações sobre o histórico de navegação com anunciantes do que navegadores atuais. As informações são do site do Brave.",
+            "url": "https://brave.com/why-brave-disables-floc/"
+        },
+        {
+            "text": "Replit lança Kaboom, biblioteca e ambiente de programação de jogos em JavaScript: é possível editar todo o código, sprites e rodar o jogo pelo navegador, e em breve será adicionado um editor de sons e criador de música. O Kaboom é um esforço para tornar o desenvolvimento de jogos mais acessível e divertido para programadores iniciantes e intermediários. As informações são do blog da Replit.",
+            "url": "https://replit.com/languages/kaboom"
+        }
+    ]
+}
