@@ -1,0 +1,55 @@
+{
+    "title": "Cientistas transformam suor em energia / Celular que se transforma em tablet / NASA vai lançar pipas em Vênus",
+    "fps": 30,
+    "timestamp": 1618496542,
+    "date": "15/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Célula de biocombustível utiliza suor humano para gerar energia: o dispositivo, desenvolvido por cientistas japoneses, gera energia elétrica a partir do lactato presente no suor, abrindo a possibilidade de aparelhos eletrônicos vestíveis como relógios inteligentes que não precisam de baterias. Os pesquisadores conseguiram manter ligado um medidor de atividades comercialmente disponível por uma hora e meia utilizando apenas uma gota de suor artificial. As informações são da Tokyo University of Science.",
+            "url": "https://techxplore.com/news/2021-04-batteries-wearable-biofuel-cells-electricity.html"
+        },
+        {
+            "text": "Smartphone que se transforma em tablet: o “Fold ‘n Roll” da TCL pode ser utilizado como um celular normal com uma tela de 6,8 polegadas, se desdobrar para 8,8 polegadas, e ainda expandir a tela enrolável para 10 polegadas. A TCL afirma que ainda está definindo as especificações técnicas do aparelho e não forneceu uma data para o lançamento. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/14/22383668/tcl-fold-n-roll-concept-rollable-phone-tablet"
+        },
+        {
+            "text": "NASA vai lançar enxame de “pipas” cheias de sensores na atmosfera de Vênus: cada pipa do projeto “LEAVES” pesa 130g e voará por cerca de 9 horas coletando dados importantes sobre o estado dinâmico e a composição da atmosfera do planeta. As pipas serão lançadas de um satélite que ficará orbitando Vênus, reduzindo assim os custos e riscos da missão. As informações são da página da NASA.",
+            "url": "https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/Lofted_Environmental_Venus_Sensors/"
+        },
+        {
+            "text": "Projeto de Lei cria regras para remoção de conteúdo de sites e redes sociais: a finalidade do PL 649/21 é exigir maior transparência e mecanismos que possibilitem o exercício da ampla defesa por usuários que se sentirem prejudicados com a remoção de suas postagens. As informações são da Agência Câmara Notícias.",
+            "url": "https://www.camara.leg.br/noticias/737425-proposta-preve-regras-para-provedor-retirar-conteudo-de-usuario-de-internet/"
+        },
+        {
+            "text": "PIX supera marca de 1 bilhão de transações: desde o lançamento, em novembro do ano passado, o sistema de pagamentos instantâneo já transacionou 787 bilhões de reais. Já são 75,6 milhões de pessoas físicas cadastradas no PIX e 5 milhões de empresas. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/14/04/2021/pix-supera-1-bilhao-de-transacoes-em-cinco-meses/"
+        },
+        {
+            "text": "Twitter lança iniciativa para rever seus próprios algoritmos: um grupo interno de engenheiros, pesquisadores e cientistas de dados irá avaliar danos não intencionais causados por algoritmos utilizados pela rede social. Segundo a empresa, é possível que sistemas de aprendizado de máquina possam se comportar de maneiras diferentes das projetadas. As informações são do blog do Twitter.",
+            "url": "https://www.forbes.com/sites/rachelsandler/2021/04/14/twitter-to-study-whether-its-algorithm-causes-unintentional-harms/?sh=48c2b745516a"
+        },
+        {
+            "text": "Novo recurso no Google Earth: o modo “Timelapse” agora reúne 24 milhões de fotos de satélite dos últimos 37 anos para uma experiência interativa em 4D. O Google gastou mais de dois milhões de horas de processamento para compilar 20 petabytes das imagens de satélite em um único mosaico de vídeo de 4,4 terapixels. As informações são do blog do Google.",
+            "url": "https://earthengine.google.com/timelapse/"
+        },
+        {
+            "text": "Google lança Chrome 90: um dos destaques é o uso do codec AV1, otimizado para videoconferências e compartilhamento de telas, oferecendo melhor qualidade visual com consumo menor de banda. Para desenvolvedores, há um novo valor para a propriedade overflow do CSS e uma nova maneira de implementar e usar Shadow DOM diretamente em HTML. O Chrome 90 incorpora a versão 9.0 da engine JavaScript V8 e resolve a vulnerabilidade zero-day que atingia navegadores baseados no Chromium relatada nesta semana aqui na Newsletter. As informações são do Chromium Blog.",
+            "url": "https://developer.chrome.com/blog/new-in-chrome-90/"
+        },
+        {
+            "text": "Google confirma que bloqueadores de anúncios estão quebrando funcionalidades no Docs: a empresa diz que não fará nada a respeito e cabe aos criadores de ad blockers consertarem o problema. O AdBlock já avisou que está desenvolvendo uma solução. As informações são do site Android Police.",
+            "url": "https://www.androidpolice.com/2021/04/15/if-youre-using-an-ad-blocker-in-google-docs-you-could-run-into-weird-problems/"
+        },
+        {
+            "text": "Google apresenta “Logica”, nova linguagem de programação open source para contornar problemas do SQL: segundo o Google, essa nova linguagem é muito mais concisa, pode ser composta utilizando abstrações que faltam no SQL, suporta “modules” e “imports”, e foi projetada para implementar testes automatizados de uma forma mais natural. O código escrito em Logica é compilado para SQL, e por hora roda apenas no Google BigQuery, com suporte experimental para PostgreSQL e SQLite. As informações são do blog Google Open Source.",
+            "url": "https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html"
+        }
+    ]
+}

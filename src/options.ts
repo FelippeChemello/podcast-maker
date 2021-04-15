@@ -13,6 +13,7 @@ import {
     RenderVideoService,
     RetrieveAudioDuration,
     TextToSpeechService,
+    CreatePodcastAudioFile,
 } from './services';
 import { tmpPath } from './config/defaultPaths';
 
@@ -52,11 +53,11 @@ export const createYouTube = async ({
 
     await new UrlShortenerService(content).execute();
 
-    new exportDataService(content).execute('youtube');
+    new exportDataService(content).execute('landscape');
 
     const bundle = await new BundleVideoService().execute();
 
-    await new RenderVideoService(content).execute(bundle, 'youtube');
+    await new RenderVideoService(content).execute(bundle, 'landscape', true);
 
     await new CreateThumnailService(content).execute(bundle);
 };
@@ -107,11 +108,11 @@ export const createInstagram = async ({
         haveEnd: false,
     });
 
-    new exportDataService(content).execute('instagram');
+    new exportDataService(content).execute('portrait');
 
     const bundle = await new BundleVideoService().execute();
 
-    await new RenderVideoService(content).execute(bundle, 'instagram');
+    await new RenderVideoService(content).execute(bundle, 'portrait', false);
 
     await new CreateThumnailService(content).execute(bundle);
 };
@@ -139,6 +140,36 @@ export const createAndUploadInstagram = async ({
     });
 
     await uploadInstagram();
+};
+
+export const createPodcast = async ({
+    contentFileName,
+    needTTS,
+}: {
+    contentFileName?: string;
+    needTTS?: boolean;
+}) => {
+    const content = new GetContentService().execute(contentFileName);
+
+    if (needTTS) {
+        await new TextToSpeechService(content).execute({
+            synthesizeIntro: false,
+            synthesizeEnd: false,
+        });
+    }
+
+    await new RetrieveAudioDuration(content).execute(needTTS || false, {
+        haveIntro: false,
+        haveEnd: false,
+    });
+
+    new exportDataService(content).execute('square');
+
+    const bundle = await new BundleVideoService().execute();
+
+    await new CreateThumnailService(content).execute(bundle);
+
+    await new CreatePodcastAudioFile(content).execute();
 };
 
 export const createNewContent = (name: string) => {

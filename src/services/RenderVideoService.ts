@@ -9,7 +9,7 @@ import {
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
-import { format } from '../config/destination';
+import format from '../config/format';
 import Bar from '../utils/CliProgress/bar';
 
 class RenderVideoService {
@@ -22,7 +22,8 @@ class RenderVideoService {
 
     public async execute(
         bundle: string,
-        destination: 'instagram' | 'youtube',
+        videoFormat: 'portrait' | 'landscape' | 'square',
+        withIntro: boolean,
     ): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
         const compositions = await getCompositions(bundle, {
@@ -65,7 +66,7 @@ class RenderVideoService {
             outputDir: framesDir,
             inputProps: {
                 filename: this.content.timestamp,
-                withoutIntro: destination === 'instagram',
+                withoutIntro: !withIntro,
             },
             compositionId: this.compositionId,
             imageFormat: 'jpeg',
@@ -85,8 +86,8 @@ class RenderVideoService {
         await stitchFramesToVideo({
             dir: framesDir,
             fps: this.content.fps,
-            width: format[destination].width,
-            height: format[destination].height,
+            width: format[videoFormat].width,
+            height: format[videoFormat].height,
             outputLocation: outputVideoPath,
             force: true,
             imageFormat: 'jpeg',

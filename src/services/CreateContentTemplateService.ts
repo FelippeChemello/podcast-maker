@@ -32,7 +32,7 @@ export default class CreateContentTemplateService {
             end: {
                 text:
                     'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
-                url: 'https://filipedeschamps.com.br/newsletter',
+                url: 'https://links.codestack.me/newsletter-filipe',
             },
             news: newsTemplate,
         };

@@ -12,6 +12,7 @@ import {
     uploadInstagram,
     uploadYouTube,
     validateLatestContent,
+    createPodcast,
 } from './options';
 import { error, log } from './utils/log';
 
@@ -33,6 +34,10 @@ program
                                     - instagram 
                                     - instagramCreate (not upload) 
                                     - instagramUpload (not create) 
+                                    - WIP: anchor
+                                    - podcastCreate (not upload)
+                                    - WIP: anchorUpload
+
         `,
         'youtube',
     )
@@ -75,7 +80,10 @@ if (Object.keys(options).length <= 0) {
             | 'youtubeUpload'
             | 'instagram'
             | 'instagramCreate'
-            | 'instagramUpload';
+            | 'instagramUpload'
+            | 'anchor'
+            | 'podcastCreate'
+            | 'anchorUpload';
 
         switch (option) {
             case 'tts':
@@ -104,6 +112,10 @@ if (Object.keys(options).length <= 0) {
 
             case 'instagramUpload':
                 await uploadInstagram();
+                break;
+
+            case 'podcastCreate':
+                await createPodcast({ contentFileName, needTTS });
                 break;
 
             default:

@@ -3,7 +3,7 @@ import path from 'path';
 
 import { log } from '../utils/log';
 import { tmpPath } from '../config/defaultPaths';
-import { format } from '../config/destination';
+import format from '../config/format';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class ExportDataService {
@@ -14,11 +14,11 @@ export default class ExportDataService {
         this.content = content;
     }
 
-    public execute(destination: 'youtube' | 'instagram'): void {
+    public execute(videoFormat: 'portrait' | 'landscape' | 'square'): void {
         const dataFilename = `${this.content.timestamp}.${this.fileType}`;
 
-        this.content.width = format[destination].width;
-        this.content.height = format[destination].height;
+        this.content.width = format[videoFormat].width;
+        this.content.height = format[videoFormat].height;
 
         log(`Exporting data to ${dataFilename}`, 'ExportDataService');
         fs.writeFileSync(

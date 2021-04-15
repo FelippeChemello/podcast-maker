@@ -11,6 +11,7 @@ import UrlShortenerService from './UrlShortenerService';
 import CleanTmpService from './CleanTmpService';
 import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
+import CreatePodcastAudioFile from './CreatePodcastAudioFile';
 
 export {
     GetContentService,
@@ -26,4 +27,5 @@ export {
     CleanTmpService,
     InstagramUploadService,
     ValidatesContentService,
+    CreatePodcastAudioFile,
 };

@@ -217,3 +217,44 @@ jobs:
 
             - name: Uplaod Instagram video
               run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:instagram
+
+    Podcast-CreateAudio:
+        needs: [TextToSpeech]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install FFMPEG
+              uses: FedericoCarboni/setup-ffmpeg@v1
+
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
+              with:
+                  name: audio-files
+                  path: tmp/
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+            - name: Create Instagram video
+              run: yarn video:make:podcast
+
+            - name: Save audio and thumbnail in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: podcast-assets
+                  path: |
+                      tmp/output-final.mp3
+                      tmp/*.jpeg
+                      tmp/*.json
+                      !tmp/example.json
+                  retention-days: 2
