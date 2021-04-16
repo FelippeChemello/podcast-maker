@@ -24,6 +24,15 @@ export default class YoutubeUploadService {
         'Tecnologia',
         'Noticias rápidas',
         'tech news',
+        'CodeStackNews',
+        'technews',
+        'ia',
+        'programacao',
+        'newsletter',
+        'newsletterfilipedeschamps',
+        'remotion',
+        'dev',
+        'desenvolvimento',
     ];
 
     constructor(content: InterfaceJsonContent) {

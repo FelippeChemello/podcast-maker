@@ -1,0 +1,59 @@
+{
+    "title": "Primeira Ferrari elétrica / Arma futurista derruba drones militares / Europa quer banir parcialmente IAs",
+    "fps": 30,
+    "timestamp": 1618582804,
+    "date": "16/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Europa quer banir parcialmente IAs: a Comissão Europeia estuda proibir o uso de sistemas de inteligência artificial considerados de “alto risco” como os utilizados para vigilância, prevenção de crimes, recrutamento e avaliação de crédito. As empresas que não cumprirem as regras podem ser multadas em até 20 milhões de euros ou 4% de seu faturamento. A Comissão apresentará o regulamento final no dia 21 de abril. As informações são do site Politico.",
+            "url": "https://www.reuters.com/article/eu-tech-artificialintelligence/eu-wants-to-ban-use-of-ai-for-surveillance-idINL1N2M71DL"
+        },
+        {
+            "text": "Ferrari quebra tradição e confirma desenvolvimento do primeiro veículo 100% elétrico: a companhia italiana irá revelar o esportivo apenas em 2025, mas prometeu trazer uma tecnologia completamente nova para o mercado. O CEO da companhia, John Elkann, também afirmou que esta será uma grande oportunidade para criar uma nova geração de entusiastas pela marca. As informações são da Forbes.",
+            "url": "https://www.forbes.com/sites/alistaircharlton/2021/04/15/ferrari-confirms-first-all-electric-car-will-arrive-in-2025/?sh=58347bce4a9d"
+        },
+        {
+            "text": "Empresa cria arma futurista para derrubar drones militares: o “Leonidas” pode desativar um enxame de drones em uma ampla área ou neutralizar um único dispositivo em espaços pequenos e lotados, efetuando mil disparos de feixes de microondas de alta potência por segundo. O sistema é compacto, não possui partes móveis e pode ser acomodado em uma camionete. As informações são da página da Epirus.",
+            "url": "https://www.epirusinc.com/solutions/counter-uas"
+        },
+        {
+            "text": "Integração entre Facebook Messenger e DMs do Instagram chega ao Brasil: será possível iniciar conversas e chamadas de vídeo entre duas pessoas, mesmo se uma delas não tiver conta em uma das redes sociais. Quem já usa o Instagram, receberá uma notificação sobre a integração, mas para contas novas a permissão será automática, assim como para quem usa o Messenger. As informações são do portal G1.",
+            "url": "https://g1.globo.com/economia/tecnologia/noticia/2021/04/15/facebook-integra-mensagens-do-instagram-com-messenger-no-brasil.ghtml"
+        },
+        {
+            "text": "WhatsApp passa a mostrar imagens maiores em conversas: ao invés das miniaturas quadradas, a atualização agora exibe prévias de mídias em tamanho maior e na orientação original (horizontal ou vertical). A mudança já está disponível para iPhones e chegará em breve para dispositivos Android. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/432617/whatsapp-exibe-imagens-em-tamanho-maior-dentro-de-conversas/"
+        },
+        {
+            "text": "Novo Projeto de Lei define prazo para a troca de itens comprados pela internet: o PL 745/21 determina que a substituição de mercadorias defeituosas deverá ocorrer em prazo não superior ao da primeira entrega acrescido de 48 horas e com todas as despesas custeadas pelo fornecedor. As informações são da Agência Câmara Notícias.",
+            "url": "https://www.camara.leg.br/propostas-legislativas/2272158"
+        },
+        {
+            "text": "Cientistas criam a tinta mais branca do mundo: além de refletir 98,1% da luz solar, a tinta é compatível com processos convencionais de fabricação e pode ser aplicada em edifícios e casas para reduzir a necessidade do uso de sistemas de ar-condicionado, já que consegue manter as superfícies pintadas mais frias, ao contrário de tintas tradicionais. As informações são do site Phys.",
+            "url": "https://engenhariae.com.br/editorial/ciencia/o-branco-mais-branco-e-tambem-o-mais-frio-entenda"
+        },
+        {
+            "text": "Rússia anuncia novas missões lunares: a “Luna 25” será lançada em outubro deste ano para estudar o gelo abaixo da superfície da Lua. Esta é a primeira missão lunar em 45 anos pelo país. Para os próximos anos, mais quatro missões estão planejadas, e levarão até mesmo um rover para exploração da superfície lunar. As informações são do site Space.",
+            "url": "https://www.space.com/russia-luna-25-returning-to-moon"
+        },
+        {
+            "text": "Maior feira de eletrônicos da Europa planeja evento presencial em setembro: os organizadores do IFA Berlin 2021 estão confiantes de que os programas de vacinação serão eficazes o suficiente para realizar o evento como de costume. Cerca de 80% das vagas para expositores já foram reservadas. As informações são do site Yahoo Finance.",
+            "url": "https://au.finance.yahoo.com/finance/news/ifa-berlin-2021-full-scale-return-in-person-event-190708696.html"
+        },
+        {
+            "text": "Huawei afirma possuir tecnologia de direção autônoma superior ao da Tesla: sem necessidade de intervenção humana, três fabricantes chinesas já anunciaram que vão utilizar a tecnologia. A Huawei também prometeu investir mais de 1 bilhão de dólares em novas pesquisas para desenvolvimento de direção autônoma e carros elétricos. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+        },
+        {
+            "text": "Escassez de semicondutores deve durar até 2023: a previsão é da taiwanesa TSMC, que confirmou o investimento de 100 bilhões de dólares para construir novas fábricas e a contratação de milhares de engenheiros para conseguir dar conta da demanda. O problema na oferta de semicondutores começou no ano passado, com fábricas sendo inundadas por pedidos de processadores para servidores, componentes para PCs, videogames, telefones e outros dispositivos à medida que milhões de pessoas passavam a trabalhar ou estudar em casa. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/16/tsmc_chip_forecast/"
+        }
+    ]
+}

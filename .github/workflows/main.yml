@@ -245,7 +245,7 @@ jobs:
               if: steps.dependencies.outputs.cache-hit != 'true'
               run: yarn
 
-            - name: Create Instagram video
+            - name: Create Podcast audio
               run: yarn video:make:podcast
 
             - name: Save audio and thumbnail in Artifacts

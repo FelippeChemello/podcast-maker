@@ -22,6 +22,9 @@ export default class InstagramUploadService {
         'programacao',
         'newsletter',
         'newsletterfilipedeschamps',
+        'remotion',
+        'dev',
+        'desenvolvimento',
     ];
 
     constructor(content: InterfaceJsonContent) {
