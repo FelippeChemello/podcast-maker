@@ -154,7 +154,7 @@ export default class AnchorFmUploadService {
         log(`Setting title to: ${title}`, 'AnchorFmUploadService');
         await page.type('input[type="text"]', title);
 
-        log('Changing descrition to HTML mode');
+        log('Changing descrition to HTML mode', 'AnchorFmUploadService');
         await page.click('#app > div > div button[type="button"]');
 
         log(
@@ -204,7 +204,7 @@ export default class AnchorFmUploadService {
         ) {
             description += `<br><br>${this.content.end.text} <br>\n${
                 this.content.end.shortLink || this.content.end.url
-            } \n\n`;
+            } <br><br>\n\n`;
         }
 
         this.defaultHashtags.forEach(hashtag => {

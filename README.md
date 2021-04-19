@@ -27,7 +27,7 @@ Este projeto foi desenvolvido utilizando:
 
 | [YouTube](https://www.youtube.com/channel/UCEQb3ajJgTK_Xr33OE0jeoQ) | [Instagram](https://www.instagram.com/codestackme/) | [Podcast](https://anchor.fm/codestack) |
 | --- | --- | --- |
-| <iframe width="426" height="240" src="https://www.youtube.com/embed/ePc9ljAkIjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | <iframe src="https://instagram.com/tv/CN2jdC4Aelc/embed" frameborder="0" allowfullscreen scrolling="no" allowtransparency width="300" height="535"></iframe> |  <iframe src="https://anchor.fm/codestack/embed/episodes/CodeStack-News-Primeira-Ferrari-eltrica--Arma-futurista-derruba-drones-militares--Europa-quer-banir-parcialmente-IAs-ev1p36" height="102px" width="400px" frameborder="0" scrolling="no"></iframe> |
+| [<img src="https://img.youtube.com/vi/ePc9ljAkIjc/maxresdefault.jpg" width="320"/>](https://www.youtube.com/watch?v=ePc9ljAkIjc) | [<img src="https://links.codestack.me/0mp" width="250"/>](https://instagram.com/tv/CN2jdC4Aelc) |  [<img src="https://links.codestack.me/0i9" width="250"/>](https://anchor.fm/codestack/episodes/CodeStack-News-Stalkers-utilizam-status-do-WhatsApp-ilegalmente--Primeiro-voo-em-Marte--Apple-anuncia-impacto-de-carregadores-ev86fi) |
 
 ## 💻 Getting started | Iniciando
 
