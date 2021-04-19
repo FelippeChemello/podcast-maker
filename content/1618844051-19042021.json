@@ -1,0 +1,55 @@
+{
+    "title": "Stalkers utilizam status do WhatsApp ilegalmente / Primeiro voo em Marte / Apple anuncia impacto de carregadores",
+    "fps": 30,
+    "timestamp": 1618844051,
+    "date": "19/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Apple deixa de utilizar 861 mil toneladas de metal ao não incluir carregador com iPhones: a economia se refere a metais como cobre, estanho e zinco de acordo com o mais recente relatório ambiental da companhia (disponível em seu site). A meta da Apple é se tornar completamente neutra de carbono até 2030.",
+            "url": "https://www.b9.com.br/142376/apple-afirma-iphone-sem-carregador-salva-861-mil-toneladas-metal/"
+        },
+        {
+            "text": "Reino Unido decide intervir na venda da ARM para Nvidia por segurança nacional: em setembro do ano passado, a Nvidia anunciou a aquisição da ARM por 40 bilhões de dólares. A autoridade de concorrência do Reino Unido irá preparar um relatório sobre as implicações da transação, que ajudará a informar sobre quaisquer decisões futuras do governo. As informações são da Reuters.",
+            "url": "https://www.reuters.com/world/uk/uk-intervenes-nvidias-takeover-arm-national-security-grounds-2021-04-19/"
+        },
+        {
+            "text": "Ingenuity realiza primeiro voo em Marte: o pequeno helicóptero que realizará a exploração área do solo marciano se elevou a três metros do chão e pairou no ar durante 30 segundos. Ao completar com sucesso seu primeiro voo de testes, o Ingenuity comprova é possível voar na atmosfera extremamente rarefeita de Marte. O evento foi transmitido ao vivo pela NASA na manhã desta segunda-feira com imagens obtidas do rover Perseverance. As informações são do site Space.",
+            "url": "https://www.space.com/mars-helicopter-ingenuity-first-flight-success"
+        },
+        {
+            "text": "Câmara aprova penas maiores para crimes cibernéticos: o Projeto de Lei 4554/20 amplia as penas (reclusão de 4 a 8 anos) por crimes de furto e estelionato praticados com o uso de celulares, computadores ou outros dispositivos eletrônicos. Se o crime for contra idosos ou vulneráveis, a pena aumenta de 1/3 ao dobro, e se for praticado com o uso de servidores mantidos fora do País, a pena aumenta de 1/3 a 2/3. As informações são da Agência Câmara Notícias.",
+            "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2266148"
+        },
+        {
+            "text": "Status de “Online” do WhatsApp pode ser usado por stalkers: a empresa de segurança Traced publicou em seu blog que aplicativos e site rastreadores de status do WhatsApp permitem o acompanhamento de qualquer número de celular, fornecendo a data e hora exata do uso do aplicativo de mensagens ou se duas pessoas se conectaram para utilizar o aplicativo ao mesmo tempo. Segundo a empresa, o Google Play não permite “stalkerware” em sua loja, mas os aplicativos burlam essa regra ao alegarem que servem apenas para o monitoramento de crianças pelos pais.",
+            "url": "https://tecnoblog.net/433219/status-online-do-whatsapp-e-alvo-de-aplicativos-para-stalkers/"
+        },
+        {
+            "text": "Desenvolvedor descobre chats do WhatsApp embutidos no Facebook Messenger: Alessandro Paluzzi mostrou em seu perfil no Twitter que a integração entre os dois serviços de mensagens parece estar avançando. Segundo o site WABetaInfo, a integração será opcional, mas novas funcionalidades implementadas recentemente no Facebook Messenger (como reações a mensagens) provavelmente virão para o WhatsApp.",
+            "url": "https://twitter.com/alex193a/status/1280239076982116354"
+        },
+        {
+            "text": "Smartphones conseguem detectar grandes tempestades solares: segundo o astrônomo Sten Odenwald, os magnetômetros embutidos em celulares, e que são utilizados para a função de compasso, poderiam ser utilizados para pesquisas científicas de avaliação e mapeamento dos efeitos de ejeções de plasma solar em nível global. As informações são do site The Academic Times.",
+            "url": "https://academictimes.com/smartphones-can-detect-huge-solar-storms/"
+        },
+        {
+            "text": "Nvidia transforma imagens 2D em objetos 3D: o aplicativo “GANverse3D” usa uma nova engine de deep learning que “infla” imagens planas em modelos 3D realistas. O recurso poderá auxiliar arquitetos, designers e desenvolvedores de jogos que não possuem experiência em modelagem 3D. As informações são do blog da Nvidia.",
+            "url": "https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/"
+        },
+        {
+            "text": "“Memories” será a nova forma de pesquisar o histórico de navegação no Chrome: ainda em fase de testes (versão 92 Canary), o histórico dará preferência para abas e páginas favoritas acessadas recentemente. As informações são do site Techdows.",
+            "url": "https://techdows.com/2021/04/chrome-memories-let-you-see-find-your-web-activity.html"
+        },
+        {
+            "text": "WordPress vai desabilitar FLoCs por padrão: o sistema de rastreamento desenvolvido pelo Google para substituição de cookies será tratado como um risco de segurança. O WordPress, no entanto, indicou que poderá adicionar no futuro uma configuração que permita FLoCs se assim desejado por Admins. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/wordpress-may-automatically-disable-google-floc-on-websites/"
+        }
+    ]
+}
