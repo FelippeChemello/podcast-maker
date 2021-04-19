@@ -13,6 +13,8 @@ import {
     uploadYouTube,
     validateLatestContent,
     createPodcast,
+    uploadAnchor,
+    createAndUploadAnchor,
 } from './options';
 import { error, log } from './utils/log';
 
@@ -34,9 +36,9 @@ program
                                     - instagram 
                                     - instagramCreate (not upload) 
                                     - instagramUpload (not create) 
-                                    - WIP: anchor
+                                    - anchor
                                     - podcastCreate (not upload)
-                                    - WIP: anchorUpload
+                                    - anchorUpload
 
         `,
         'youtube',
@@ -116,6 +118,14 @@ if (Object.keys(options).length <= 0) {
 
             case 'podcastCreate':
                 await createPodcast({ contentFileName, needTTS });
+                break;
+
+            case 'anchorUpload':
+                await uploadAnchor();
+                break;
+
+            case 'anchor':
+                await createAndUploadAnchor({ contentFileName, needTTS });
                 break;
 
             default:

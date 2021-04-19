@@ -33,13 +33,13 @@ class CreatePodcastAudioFile {
             })
             .reduce((acc, array) => acc.concat(array), []);
 
-            await this.concatAudioFiles(audioFilesWithTransitions)
+        await this.concatAudioFiles(audioFilesWithTransitions);
     }
 
     private concatAudioFiles(audioFilesPath: string[]): Promise<string> {
         return new Promise(resolve => {
             audioConcat(audioFilesPath)
-                .concat(path.resolve(tmpPath, 'output-final.mp3'))
+                .concat(path.resolve(tmpPath, `${this.content.timestamp}.mp3`))
                 .on('start', (command: string) => {
                     log(
                         'Starting audios concatenation',

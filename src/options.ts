@@ -14,6 +14,7 @@ import {
     RetrieveAudioDuration,
     TextToSpeechService,
     CreatePodcastAudioFile,
+    AnchorFmUploadService,
 } from './services';
 import { tmpPath } from './config/defaultPaths';
 
@@ -163,6 +164,8 @@ export const createPodcast = async ({
         haveEnd: false,
     });
 
+    await new UrlShortenerService(content).execute();
+
     new exportDataService(content).execute('square');
 
     const bundle = await new BundleVideoService().execute();
@@ -170,6 +173,31 @@ export const createPodcast = async ({
     await new CreateThumnailService(content).execute(bundle);
 
     await new CreatePodcastAudioFile(content).execute();
+};
+
+export const uploadAnchor = async () => {
+    const audioPath = getLastestFileCreated('mp3', tmpPath);
+    const thumbnailPath = getLastestFileCreated('jpeg', tmpPath);
+    const content = JSON.parse(
+        getContentFromFile(getLastestFileCreated('json', tmpPath)),
+    );
+
+    await new AnchorFmUploadService(content).execute(audioPath, thumbnailPath);
+};
+
+export const createAndUploadAnchor = async ({
+    contentFileName,
+    needTTS,
+}: {
+    contentFileName?: string;
+    needTTS?: boolean;
+}) => {
+    await createPodcast({
+        contentFileName,
+        needTTS,
+    });
+
+    await uploadAnchor();
 };
 
 export const createNewContent = (name: string) => {

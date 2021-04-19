@@ -62,7 +62,7 @@ export default class InstagramUploadService {
         const description = this.getDescription();
 
         const browser = await puppeteer.launch({
-            executablePath: process.env.CHROME_BIN,
+            executablePath: this.chromeExecutablePath,
             headless: false,
             defaultViewport: null as any,
             args: ['--no-sandbox', '--disable-setuid-sandbox'],
@@ -120,7 +120,6 @@ export default class InstagramUploadService {
         }
 
         videoInput.uploadFile(videoPath);
-        await page.screenshot({ path: 'shot.png' });
         await page.waitForFunction(
             () =>
                 Array.from(document.querySelectorAll('div')).find(div =>
@@ -130,7 +129,7 @@ export default class InstagramUploadService {
         );
 
         log('Upload completed', 'InstagramUploadService');
-        thumnailInput?.uploadFile(thumbnailPath);
+        thumnailInput.uploadFile(thumbnailPath);
 
         const submitButton = await page.$('button');
         if (!submitButton) {
