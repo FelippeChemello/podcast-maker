@@ -1,0 +1,59 @@
+{
+    "title": "Evento da Apple hoje / SpaceX na Lua / Novo algoritmo do Google",
+    "fps": 30,
+    "timestamp": 1618927901,
+    "date": "20/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Google oferece mais detalhes sobre novo algoritmo de buscas: a atualização, que será aplicada gradualmente a partir de junho deste ano, dará maior peso para páginas com melhores “sinais de experiência” como carregamento rápido (Largest Contentful Paint menor do que 2,5 segundos), estabilidade visual (pontuação Cumulative Layout Shift menor do que 0.1) e rapidez na possibilidade de interação (First Input Delay menor do que 100ms). O Google também ampliará o uso de “signed exchanges” (SXG) para todas as páginas da web, permitindo que a busca carregue os principais recursos de uma página (HTML, JavaScript, CSS) antes da navegação, o que possibilita ao navegador exibi-las com mais rapidez. As informações são do site Google Search Central Blog.",
+            "url": "https://developers.google.com/search/blog/2021/04/more-details-page-experience"
+        },
+        {
+            "text": "Apple realiza evento “Spring Loaded” nesta terça-feira: o evento será transmitido ao vivo a partir das 14h00 (horário de Brasília). Analistas e sites especializados acreditam que serão apresentados novos iPads, desktops iMacs e AirTags, pequenos dispositivos bluetooth para o rastreamento de itens como chaves e carteiras.",
+            "url": "https://www.apple.com/apple-events/"
+        },
+        {
+            "text": "SpaceX vai pousar astronautas na Lua: a NASA anunciou que o programa Artemis usará a nave espacial HLS (Sistema de Pouso Humano) da SpaceX para pousar dois astronautas na superfície lunar. A exploração acontecerá por duas semanas até o retorno para a cápsula Orion da NASA que fará a viagem de volta à Terra. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/16/spacex-wins-nasa-contract-to-develop-human-landing-system-for-returning-to-the-moon/"
+        },
+        {
+            "text": "Biblioteca Nacional sofre ataque ransomware: após o incidente, a instituição havia colocado seu site de volta no ar, mas foi atacada uma segunda vez. Todos os servidores estão desligados no momento por precaução, sem previsão de retorno. As informações são da WeLiveSecurity.",
+            "url": "https://www.welivesecurity.com/br/2021/04/19/site-da-biblioteca-nacional-sofre-ataque-de-ransomware/"
+        },
+        {
+            "text": "Cientistas estão testando videogame para quem tem problemas de memória pós-Covid: neuropsicólogos da Weill Cornell Medicine, em Nova York, acreditam que o jogo “EndeavorRX” pode tratar sintomas como confusão mental e dificuldade de foco que podem persistir por meses após a recuperação. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/19/22391587/long-covid-brain-cognitive-treatment-video-game-akili"
+        },
+        {
+            "text": "Facebook apresenta clone do Clubhouse, parceria com Spotify e ferramentas de áudio: os “Live Audio Rooms”, disponíveis também no Messenger, serão um clone do Clubhouse e permitirão conversas em tempo real entre participantes de grupos. O projeto Boombox permite pesquisar e ouvir podcasts e músicas do Spotify diretamente no aplicativo do Facebook. Os “Soundbites” são clipes de áudio criativos e curtos para capturar piadas ou momentos de inspiração. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/19/facebook-invests-in-audio-with-short-form-soundbites-feature-podcast-support-and-a-clubhouse-clone/"
+        },
+        {
+            "text": "Novo implante minúsculo consegue aferir oxigenação corporal interna: o implante, menor do que uma joaninha e alimentado por ondas de ultrassom, pode fornecer medições sem fio e em tempo real dos níveis de oxigênio em partes internas do corpo, permitindo o monitoramento focado em órgãos transplantados ou tratamento de tumores. As informações são da página de imprensa da Universidade da Califórnia, Berkeley.",
+            "url": "https://news.berkeley.edu/2021/04/14/tiny-wireless-implant-detects-oxygen-deep-within-the-body/"
+        },
+        {
+            "text": "Edward Snowden arrecada 5,5 milhões de dólares com NFTs: intitulada “Stay Free”, a obra de arte digital usa as páginas da decisão judicial que concluiu que as atividades de vigilância em massa da Agência de Segurança Nacional dos EUA violavam as leis do país. O dinheiro será doado para a Freedom of the Press Foundation. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/edward-snowden-nft-sold-for-55-million-080508241.html"
+        },
+        {
+            "text": "Microsoft Edge não vai adotar FLoC do Google: outros navegadores como Brave, Vivaldi e Firefox também já rejeitaram a tecnologia de publicidade criada pelo Google para substituir cookies de terceiros. No momento, o Chrome é o único navegador com suporte ao FLoC. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/16/22387492/google-floc-ad-tech-privacy-browsers-brave-vivaldi-edge-mozilla-chrome-safari"
+        },
+        {
+            "text": "GitHub cria novo “bagde” específico para quem colaborou com o projeto Ingenuity: o novo emblema “Mars 2020 Helicopter Mission” será adicionado ao perfil do GitHub de cada um dos quase 12 mil desenvolvedores que contribuíram em projetos e bibliotecas de código aberto usados pelo Ingenuity, pequeno helicóptero que fez seu primeiro voo de testes em Marte ontem. As informações são do blog do GitHub.",
+            "url": "https://github.blog/2021-04-19-open-source-goes-to-mars/"
+        },
+        {
+            "text": "Google celebra voo do helicóptero Ingenuity com “easter egg”: basta pesquisar pelo termo “Ingenuity” no buscador (PC ou celular) que uma imagem em 3D do pequeno helicóptero aparecerá no quadro informativo. Ao clicar ou tocar nele, o dispositivo começará a voar pela tela. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/433535/easter-egg-do-google-celebra-voo-do-helicoptero-ingenuity-em-marte/"
+        }
+    ]
+}
