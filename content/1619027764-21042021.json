@@ -1,0 +1,55 @@
+{
+    "title": "Discord desiste da Microsoft / Filósofa preocupada com Neuralink / Banco indeniza por WhatsApp clonado",
+    "fps": 30,
+    "timestamp": 1619027764,
+    "date": "21/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Discord desiste de venda para Microsoft: as negociações foram interrompidas após renovar o interesse por uma oferta pública inicial de suas ações na bolsa de valores. A Microsoft estava em negociações avançadas para adquirir o Discord por pelo menos 10 bilhões de dólares. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806"
+        },
+        {
+            "text": "Filósofa está preocupada com sistema Neuralink de Elon Musk: Susan Schneider, que também é psicóloga cognitiva, acredita que no futuro, sem regulamentos adequados, os pensamentos mais íntimos das pessoas e seus dados biométricos poderiam ser vendidos para “quem pagar mais”. Schneider também acredita que as pessoas possam se sentir compelidas a usar chips cerebrais para permanecerem competitivas ao lado de inteligências artificiais no mercado de trabalho futuro. As informações são do site Observer.",
+            "url": "https://interestingengineering.com/neuralink-read-minds-sell-private-thoughts"
+        },
+        {
+            "text": "Santander é condenado a indenizar amiga de vítima que teve o WhatsApp clonado: o banco não teria agido devidamente após o relato da fraude e terá que devolver os 2.980 reais depositados ao estelionatário, acrescidos de mais 5.000 reais por danos morais. O banco argumentou que a responsabilidade foi da cliente, que transferiu valores para uma conta sem vínculo com sua amiga. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/433151/santander-deve-indenizar-cliente-que-caiu-em-golpe-de-whatsapp-clonado/"
+        },
+        {
+            "text": "Justiça determina que condomínio pode impedir aluguéis por Airbnb: o Superior Tribunal de Justiça decidiu que as convenções de condomínio podem ser usadas para vedar locações através do aplicativo. Airbnb avalia se vai recorrer da decisão, reforçando que no caso específico, os anfitriões teriam transformado as unidades em “hostels”, com prestação de serviço e café, diferindo da destinação do imóvel para uso meramente residencial. As informações são do O Globo.",
+            "url": "https://oglobo.globo.com/economia/stj-diz-que-condominio-pode-proibir-aluguel-de-imovel-por-airbnb-entenda-por-que-tema-divide-vizinhos-24979952"
+        },
+        {
+            "text": "Alerta sobre apps falsos voltados ao auxílio emergencial no Google Play: os aplicativos prometem consultas a valores e calendários de pagamentos, mas apenas inundam o smartphone com notificações a cada 10 minutos e exibem propagandas não relacionadas. Após análise inicial, disponível em seu blog, a Kaspersky não identificou nenhuma tentativa de roubo de dados ou valores, mas acredita que existe uma grande possibilidade desses aplicativos se tornarem, eventualmente, maliciosos.",
+            "url": "https://www.kaspersky.com.br/blog/apps-falsos-auxilio-emergencial-google-play/17331/"
+        },
+        {
+            "text": "Nubank vai permitir investimentos através do app: ainda em fase de testes com um grupo pequeno de usuários, serão oferecidos três fundos multimercado com riscos diferentes: renda fixa, renda variável no Brasil e no exterior, e cambial, que usa a cotação do ouro ou do dólar como índice. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/434271/nubank-anuncia-fundos-de-investimento-com-aplicacao-a-partir-de-r-1/"
+        },
+        {
+            "text": "TIM alcança velocidade de 1,8Gbps com teste em 5G: a latência obtida foi de 9 milissegundos e jitter de 2 ms, sem perda aparente de pacotes. A operadora utilizou equipamentos da Huawei e um smartphone da Samsung para o teste. As informações são da Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/20/04/2021/tim-e-huawei-atingem-velocidade-de-18-gbps-com-5g-standalone/"
+        },
+        {
+            "text": "Exército dos EUA está desenvolvendo sua própria “Alexa”: a JUDI (interface comum de entendimento e diálogo, na sigla em inglês) é um sistema conversacional de inteligência artificial para equipamentos militares. O foco atual está no desenvolvimento da assistente para tarefas de busca e resgate. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/21/military_judi_ai/"
+        },
+        {
+            "text": "Astronomia quântica pode criar telescópios com centenas de quilômetros de largura: astrônomos da Universidade de Sydney querem utilizar discos rígidos quânticos (QHDs) para capturar dados de interferômetros ópticos, matrizes incrivelmente grandes de observatórios espalhados pelo planeta. Esses instrumentos podem auxiliar na medição dos tamanhos e movimentos intrínsecos de estrelas e galáxias com maior precisão. As informações são da revista Scientific American.",
+            "url": "https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/"
+        },
+        {
+            "text": "Facebook agora permite realizar backup de posts e notas: os dados podem ser exportados para o Google Docs, Blogger e WordPress. A atualização estende o alcance da ferramenta que já permitia a transferência de fotos e vídeos para o Dropbox, Google Fotos, Backblaze e Koofr. As informações são da página de imprensa do Facebook.",
+            "url": "https://canaltech.com.br/redes-sociais/facebook-agora-permite-exportar-postagens-para-google-docs-e-wordpress-183042/"
+        }
+    ]
+}
