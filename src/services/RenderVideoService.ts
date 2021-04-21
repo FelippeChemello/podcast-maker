@@ -48,7 +48,7 @@ class RenderVideoService {
 
         let renderProgressBar = {} as Bar;
 
-        const { assetsInfo, frameCount, localPort } = await renderFrames({
+        const { assetsInfo, frameCount } = await renderFrames({
             config: video,
             webpackBundle: bundle,
             onStart: ({ frameCount }) => {
@@ -92,7 +92,6 @@ class RenderVideoService {
             force: true,
             imageFormat: 'jpeg',
             assetsInfo,
-            localPort,
             onProgress: frame => {
                 stitchingProgressBar.update(frame);
             },

@@ -1,40 +1,6 @@
-import React, {
-	useEffect,
-	useState,
-	useLayoutEffect,
-	useRef,
-	useContext,
-} from 'react';
-import {
-	continueRender,
-	delayRender,
-	interpolate,
-	spring,
-	useCurrentFrame,
-	useVideoConfig,
-	Audio,
-} from 'remotion';
-
-const filterData = (audioBuffer: AudioBuffer) => {
-	const rawData = audioBuffer.getChannelData(0); // We only need to work with one channel of data
-	const samples = 750; //Quantity of bars will show for each audio. It imply at width of each bar.
-	const blockSize = Math.floor(rawData.length / Math.ceil(samples)); // the number of samples in each subdivision
-	const filteredData = [];
-	for (let i = 0; i < samples; i++) {
-		const blockStart = blockSize * i; // the location of the first sample in the block
-		let sum = 0;
-		for (let j = 0; j < blockSize; j++) {
-			sum = sum + Math.abs(rawData[blockStart + j]); // find the sum of all the samples in the block
-		}
-		filteredData.push(sum / blockSize); // divide the sum by the block size to get the average
-	}
-	return filteredData;
-};
-
-const normalizeData = (filteredData: number[]) => {
-	const multiplier = Math.pow(Math.max(...filteredData), -1);
-	return filteredData.map((n) => n * multiplier);
-};
+import React, {useEffect, useState} from 'react';
+import {interpolate, useCurrentFrame, useVideoConfig, Audio} from 'remotion';
+import {getAudioData} from '@remotion/media-utils';
 
 async function loadAudio(audioFilePath: string) {
 	const pathArray = audioFilePath.split('/');
@@ -43,53 +9,77 @@ async function loadAudio(audioFilePath: string) {
 	return await require(`../../../tmp/${audioFileName}`);
 }
 
-// const handle = delayRender();
-
 export const AudioWaveform: React.FC<{
 	audioFilePath: string;
 }> = ({audioFilePath}) => {
-	const videoConfig = useVideoConfig();
+	const {width, durationInFrames} = useVideoConfig();
 	const frame = useCurrentFrame();
 
 	const MAX_BAR_HEIGHT = 100;
+	const QUANTITY_OF_SAMPLES = 750;
 
-	const [waveform, setWaveform] = useState<number[] | null>(null);
-	const [audioSrc, setAudioSrc] = useState<any>(null);
+	const [audioSrc, setAudioSrc] = useState<string | null>(`null`);
+	const [waveforms, setWaveforms] = useState<number[] | null>(null);
 
 	useEffect(() => {
-		const audioContext = new AudioContext();
+		loadAudio(audioFilePath).then(async (audio) => {
+			setAudioSrc(audio);
+			const audioData = await getAudioData(audio);
 
-		loadAudio(audioFilePath)
-			.then((audio) => {
-				setAudioSrc(audio);
-				return fetch(audio);
-			})
-			.then((response) => response.arrayBuffer())
-			.then((arrayBuffer) => audioContext.decodeAudioData(arrayBuffer))
-			.then((audioBuffer) => filterData(audioBuffer))
-			.then((filtered) => normalizeData(filtered))
-			.then((wave) => {
-				setWaveform(wave);
-				// continueRender(handle);
-			})
+			const fullWaveforms = Array.from(audioData.channelWaveforms[0]);
 
-			.catch((err) => {
-				console.log(err);
-			});
+			const blockSize = Math.floor(
+				fullWaveforms.length / QUANTITY_OF_SAMPLES
+			);
+
+			const blocks = new Array(
+				Math.floor(fullWaveforms.length / blockSize)
+			)
+				.fill(0)
+				.map((_) => fullWaveforms.splice(0, blockSize));
+
+			const smoothWaveforms = blocks
+				.map(
+					(block) =>
+						block.reduce(
+							(accumulator, value) => accumulator + value,
+							0
+						) / block.length
+				)
+				.map((value, index, array) => {
+					const weightOfMean = 5;
+					const toSmooth = [
+						array[index - 1],
+						value * 3,
+						array[index + 1],
+					];
+
+					const sanitizedToSmooth = toSmooth
+						.filter((value) => !!value)
+						.map((value) => Math.abs(value));
+
+					return (
+						(sanitizedToSmooth.reduce(
+							(acc, value) => acc + value,
+							0
+						) /
+							weightOfMean) *
+						100
+					);
+				});
+
+			setWaveforms(smoothWaveforms);
+		});
 	}, [audioFilePath]);
 
-	if (!waveform) {
+	if (!waveforms || !audioSrc) {
 		return null;
 	}
 
-	const position = interpolate(
-		frame,
-		[0, videoConfig.durationInFrames],
-		[100, -200]
-	);
+	const position = interpolate(frame, [0, durationInFrames], [100, -200]);
 
 	return (
-		<>
+		<div>
 			<Audio src={audioSrc} />
 			<div
 				style={{
@@ -102,17 +92,15 @@ export const AudioWaveform: React.FC<{
 					left: `${position}%`,
 				}}
 			>
-				{waveform.map((w, i) => {
-					const height = MAX_BAR_HEIGHT * w;
+				{waveforms.map((v, i) => {
+					const height = MAX_BAR_HEIGHT * v;
 
 					return (
 						<div
 							key={i}
 							style={{
 								height,
-								width:
-									(videoConfig.width * 3) / waveform.length -
-									2,
+								width: (width * 3) / waveforms.length - 2,
 								backgroundColor: '#fff' || '#282B4B',
 								marginLeft: 2,
 								borderRadius: 2,
@@ -121,6 +109,6 @@ export const AudioWaveform: React.FC<{
 					);
 				})}
 			</div>
-		</>
+		</div>
 	);
 };

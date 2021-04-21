@@ -52,7 +52,7 @@ export const Thumbnail: React.FC<{
 				<div
 					style={{
 						position: 'absolute',
-						right: orientation === 'landscape' ? 50 : '50%',
+						right: orientation === 'landscape' ? 100 : '50%',
 						transform:
 							orientation === 'landscape'
 								? ''
@@ -89,7 +89,7 @@ export const Thumbnail: React.FC<{
 					style={{
 						position: 'absolute',
 						bottom: 50,
-						left: orientation === 'landscape' ? 50 : '50%',
+						left: orientation === 'landscape' ? 100 : '50%',
 						transform:
 							orientation === 'landscape'
 								? ''
