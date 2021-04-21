@@ -23,13 +23,13 @@ export const Main: React.FC<{
 	title: string;
 }> = ({textProps, date, title}) => {
 	const frame = useCurrentFrame();
-	const videoConfig = useVideoConfig();
+	const {fps, durationInFrames} = useVideoConfig();
 	const finishContentEarlierInFrames = 50;
-	const transitionDurationInFrames = 2.9 * videoConfig.fps;
+	const transitionDurationInFrames = 2.9 * fps;
 
 	const opacity = interpolate(
 		frame,
-		[videoConfig.durationInFrames, videoConfig.durationInFrames + 100],
+		[durationInFrames - 30, durationInFrames - 10],
 		[1, 0],
 		{
 			extrapolateLeft: 'clamp',
@@ -49,20 +49,21 @@ export const Main: React.FC<{
 		>
 			<div style={{opacity}}>
 				{textProps.map((prop, index) => {
+					const textDuration = Math.round(prop.duration * fps);
+
 					initialFrame = nextInitialFrame;
 					nextInitialFrame =
 						initialFrame +
 						transitionDurationInFrames +
-						videoConfig.fps * prop.duration;
+						textDuration;
 
 					if (index === 0 && !withoutIntro) {
 						return (
 							<>
 								<Sequence
+									key={`${initialFrame}-Intro`}
 									from={initialFrame}
-									durationInFrames={
-										videoConfig.fps * prop.duration
-									}
+									durationInFrames={textDuration}
 								>
 									<Intro
 										date={date}
@@ -71,19 +72,16 @@ export const Main: React.FC<{
 									/>
 								</Sequence>
 								<Sequence
+									key={`${initialFrame}-Logo`}
 									from={initialFrame}
-									durationInFrames={
-										videoConfig.fps * prop.duration
-									}
+									durationInFrames={textDuration}
 								>
 									<Logo />
 								</Sequence>
 								{index < textProps.length - 1 ? (
 									<Sequence
-										from={
-											initialFrame +
-											prop.duration * videoConfig.fps
-										}
+										key={`${initialFrame}-Transition`}
+										from={initialFrame + textDuration}
 										durationInFrames={
 											transitionDurationInFrames
 										}
@@ -98,10 +96,9 @@ export const Main: React.FC<{
 					return (
 						<>
 							<Sequence
+								key={`${initialFrame}-Title`}
 								from={initialFrame}
-								durationInFrames={
-									videoConfig.fps * prop.duration
-								}
+								durationInFrames={textDuration}
 							>
 								<Title
 									titleText={prop.text}
@@ -111,29 +108,25 @@ export const Main: React.FC<{
 								/>
 							</Sequence>
 							<Sequence
+								key={`${initialFrame}-Audio`}
 								from={initialFrame}
-								durationInFrames={
-									videoConfig.fps * prop.duration
-								}
+								durationInFrames={textDuration}
 							>
 								<AudioWaveform
 									audioFilePath={prop.audioFilePath}
 								/>
 							</Sequence>
 							<Sequence
+								key={`${initialFrame}-Logo`}
 								from={initialFrame}
-								durationInFrames={
-									videoConfig.fps * prop.duration
-								}
+								durationInFrames={textDuration}
 							>
 								<Logo />
 							</Sequence>
 							{index < textProps.length - 1 ? (
 								<Sequence
-									from={
-										initialFrame +
-										prop.duration * videoConfig.fps
-									}
+									key={`${initialFrame}-Transition`}
+									from={initialFrame + textDuration}
 									durationInFrames={
 										transitionDurationInFrames
 									}

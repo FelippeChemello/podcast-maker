@@ -133,7 +133,7 @@ export default class AnchorFmUploadService {
 
         await page.waitForSelector('#save-episode-button[disabled]');
         await page.waitForSelector('#save-episode-button:not([disabled])', {
-            timeout: 150000,
+            timeout: 300000,
         });
 
         log('Upload completed', 'AnchorFmUploadService');
@@ -185,7 +185,7 @@ export default class AnchorFmUploadService {
 
         await browser.close();
 
-        log(`Video published on Instagram`, 'AnchorFmUploadService');
+        log(`Video published on Anchor.FM`, 'AnchorFmUploadService');
     }
 
     private getDescription() {
