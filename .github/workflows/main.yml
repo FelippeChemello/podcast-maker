@@ -116,7 +116,6 @@ jobs:
                   retention-days: 2
 
     YouTube-UploadVideo:
-        if: ${{ false }}
         needs: [YouTube-CreateVideo]
         runs-on: ubuntu-latest
         steps:
@@ -185,7 +184,6 @@ jobs:
                   retention-days: 2
 
     Instagram-UploadVideo:
-        if: ${{ false }}
         needs: [Instagram-CreateVideo]
         runs-on: ubuntu-latest
         timeout-minutes: 15
@@ -265,7 +263,6 @@ jobs:
                   retention-days: 2
 
     AnchorFM-UploadPodcast:
-        if: ${{ false }}
         needs: [Podcast-CreateAudio]
         runs-on: ubuntu-latest
         timeout-minutes: 15
