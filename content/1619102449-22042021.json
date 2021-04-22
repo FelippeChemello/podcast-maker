@@ -1,0 +1,59 @@
+{
+    "title": "Rover produz oxigênio em marte / Linux bane universidade / Satélite preocupa os EUA / Signal hackeia Cellebrite",
+    "fps": 30,
+    "timestamp": 1619102449,
+    "date": "22/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Rover Perseverance extrai oxigênio pela primeira vez de Marte: a produção de 5 gramas equivale a cerca de 10 minutos de oxigênio respirável para um astronauta. O sistema “MOXIE” do rover é projetado para gerar até 10 gramas de oxigênio por hora utilizando o dióxido de carbono abundante na atmosfera do planeta. As informações são da página de imprensa da NASA.",
+            "url": "https://www.nasa.gov/press-release/nasa-s-perseverance-mars-rover-extracts-first-oxygen-from-red-planet/"
+        },
+        {
+            "text": "Linux bane Universidade de Minnesota por “commitar” código malicioso: um grupo de pesquisadores da universidade introduziu deliberadamente vulnerabilidades de segurança no kernel do Linux como parte de um projeto que testava a capacidade de revisão da comunidade. Os mantenedores do Linux também decidiram reverter todo e qualquer código que já foi submetido pela universidade ao longo dos anos, potencialmente reintroduzindo bugs no sistema, afirmam especialistas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/linux-bans-university-of-minnesota-for-committing-malicious-code/"
+        },
+        {
+            "text": "Signal hackeia máquinas da Cellebrite: a Cellebrite automatiza a extração e indexação de dados de dispositivos Android e iOS e é comumente utilizada por autoridades policiais. Moxie Marlinspike, CEO do Signal, obteve acesso e descobriu que é facilmente possível hackear uma máquina da Cellebrite, modificando qualquer informação de dispositivos coletada pelo sistema, inserindo ou removendo textos, emails, fotos, contatos, arquivos ou quaisquer outros dados não somente do celular que está sendo analisado, mas adulterando extrações anteriores. De forma sarcástica, Marlinspike afirmou que as próximas versões do Signal conterão certos arquivos que não terão nenhuma função dentro do aplicativo, mas dá a entender que esses arquivos poderão sabotar ou invalidar as informações obtidas pelas máquinas da Cellebrite. As informações são do blog do Signal.",
+            "url": "https://signal.org/blog/cellebrite-vulnerabilities/"
+        },
+        {
+            "text": "EUA estão preocupados com satélite chinês: o “Shijian-17” possui um braço robótico que poderia ser usado para agarrar e desativar outros satélites em órbita. A China afirma que o satélite é apenas utilizado para serviços de comunicação e verificação de detritos espaciais, mas a espaçonave já conduziu manobras orbitais incomuns que a aproximou de outros satélites. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/21/the_legit_real_star_wars/"
+        },
+        {
+            "text": "Governo quer que Apple e Samsung voltem a vender celulares com carregador: o Ministério da Justiça e Segurança Pública vai propor um Termo de Ajustamento de Conduta prévio às duas empresas, mas se não houver acordo, elas poderão ser multadas em até 10 milhões de reais. As informações foram obtidas com exclusividade pelo site TechTudo.",
+            "url": "https://www.techtudo.com.br/noticias/2021/04/ministerio-da-justica-quer-ajustes-na-conduta-de-apple-e-samsung.ghtml"
+        },
+        {
+            "text": "Airbus está desenvolvendo motores supercondutores resfriados por hidrogênio líquido: o sistema “Ascend” é um trem de força com cabos, controladores, eletrônicos e motores todos resfriados criogenicamente por hidrogênio líquido, que também será usado como combustível. A técnica permitirá reduzir pela metade o peso de componentes e perdas elétricas do sistema. As informações são do site New Atlas.",
+            "url": "https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/"
+        },
+        {
+            "text": "Netflix tem forte queda em novos assinantes: o serviço de streaming adicionou 4 milhões de novos usuários no primeiro trimestre de 2021, queda de 75% na comparação anual, após o lançamento de menos séries e filmes originais devido a atrasos de produção relacionados à pandemia. As filmagens já foram retomadas em todos os principais mercados, com exceção do Brasil e da Índia. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/20/netflix-q1-2021/"
+        },
+        {
+            "text": "“WhatsApp Pink” é um novo malware disfarçado de atualização para o WhatsApp: o aplicativo falso está disponível para celulares Android e consegue responder automaticamente a mensagens recebidas pelo WhatsApp, Signal, Skype, Viber e Telegram com um link para novas infecções. Uma vez instalado, o aplicativo se esconde e parece ser um teste para a criação de uma versão mais maliciosa no futuro. As informações são da WeLiveSecurity.",
+            "url": "https://www.welivesecurity.com/br/2021/04/21/whatsapp-rosa-falsa-atualizacao-baixa-um-trojan-no-dispositivo-das-vitimas/"
+        },
+        {
+            "text": "Hackers ameaçam vazar informações de notebook da Apple que ainda não foi lançado: o grupo hacker REvil obteve os dados ao invadir a Quanta Computer, fabricante de produtos para diversas empresas como Apple, Dell e HP. Eles pedem 50 milhões de dólares como resgate. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/quanta-computer-cyber-idUSL4N2ME2X1"
+        },
+        {
+            "text": "YouTube cria processador especial para transcoding de vídeos: a VCU, Video (trans)Coding Unit, chamada “Argos” é até 33 vezes mais eficiente no processo de compressão de vídeos. Esse processador vai auxiliar o YouTube a transicionar para o uso do codec AV1, que compacta vídeos com mais eficiência do que o VP9, mas tem uma carga de computação muito maior. As informações são do blog do YouTube.",
+            "url": "https://www.cnet.com/news/google-supercharges-youtube-with-a-custom-video-chip/"
+        },
+        {
+            "text": "Já é possível rodar aplicativos Linux com interface gráfica no Windows: a ideia do “Windows Subsystem for Linux GUI ” (WSLg) é fornecer uma experiência integrada para quem prefere rodar Windows em PCs, mas também precisa executar ferramentas ou aplicativos que funcionam melhor, ou exclusivamente, em um ambiente Linux. As instruções de instalação completas estão no repositório GitHub “/microsoft/wslg”.",
+            "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/"
+        }
+    ]
+}
