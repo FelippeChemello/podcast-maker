@@ -1,0 +1,55 @@
+{
+    "title": "Facebook Pay no Brasil / Google fica fora na Argentina após ser vendido / IA cria mapas que não existem",
+    "fps": 30,
+    "timestamp": 1619189018,
+    "date": "23/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Facebook Pay já está disponível no Brasil: o sistema permite realizar o pagamento de compras, transferências para amigos e doações. O sistema está habilitado apenas no aplicativo do Facebook, mas em breve estará disponível também no Instagram e WhatsApp. As informações são da página do Facebook Pay.",
+            "url": "https://pay.facebook.com/br/"
+        },
+        {
+            "text": "Alerta para golpes envolvendo a cerimônia do Oscar neste domingo: sites maliciosos estão exibindo os primeiros minutos dos filmes que estão concorrendo à premiação gratuitamente, mas cobram um valor para liberar a versão completa, que nunca é exibida. Outro golpe é a oferta de download ilegal dos filmes indicados, que na verdade são arquivos contendo malware. As informações são do blog da Kaspersky.",
+            "url": "https://www.kaspersky.com.br/blog/golpes-filmes-oscar-2021-dicas/17348/"
+        },
+        {
+            "text": "Pesquisadores criam software que desenha robôs feitos de DNA: o “MagicDNA” permite combinar filamentos de DNA em estruturas complexas, como rotores e dobradiças, que podem se mover e completar uma variedade de tarefas. Nos próximos 5 a 10 anos, os pesquisadores acreditam que esses nanodispositivos poderão administrar medicamentos, detectar a presença de patógenos mortais e ajudar na fabricação de aparelhos eletrônicos cada vez menores. As informações são do site Ohio State News.",
+            "url": "https://news.osu.edu/dna-robots-designed-in-minutes-instead-of-days/"
+        },
+        {
+            "text": "Facebook vai incorporar opiniões de usuários em feeds personalizados: a rede social vai perguntar a usuários se os posts apresentados são inspiracionais, se fotos de comida, postagens sobre esportes e política vindos de amigos são relevantes ou não, e vai avaliar se tópicos muito polêmicos, com muitas reações negativas devem aparecer menos. As informações são da página de imprensa do Facebook.",
+            "url": "https://tecnologia.ig.com.br/olhar-digital/2021-04-23/facebook-pede-opiniao-dos-usuarios-para-calibrar-algoritmo-do-feed.html#202"
+        },
+        {
+            "text": "Google na Argentina para de funcionar após domínio ser vendido por engano: Nicolás David Kuroña conseguiu comprar o domínio argentino do Google (“.ar”) por 540 pesos (cerca de 32 reais). De alguma forma ainda não explicada, o domínio, que deveria expirar apenas em julho, venceu antes do tempo. O Google já recuperou de volta o domínio, mas ficou cerca de 3 horas fora do ar. As informações são do site Mercopress.",
+            "url": "https://en.mercopress.com/2021/04/22/argentine-version-of-google-falls-into-wrong-hands-leading-to-search-engine-s-temporary-collapse"
+        },
+        {
+            "text": "Microsoft vai construir supercomputador meteorológico mais potente do mundo: o serviço nacional de meteorologia do Reino Unido comissionou o equipamento para realizar previsões mais precisas de climas severos, tempestades, inundações e neve, e utilizará apenas fontes renováveis de energia para rodar. As informações são da página de imprensa do Met Office UK.",
+            "url": "https://news.microsoft.com/en-gb/2021/04/22/met-office-and-microsoft-join-forces-to-build-worlds-most-powerful-weather-and-climate-forecasting-supercomputer-in-uk/"
+        },
+        {
+            "text": "Veículos da Tesla podem ser enganados e dirigir sozinhos sem motorista: a Consumer Reports postou em seu site como fazer um Tesla dirigir autonomamente, sem garantir que um motorista esteja prestando atenção ou mesmo presente no veículo. Basta colocar uma corrente pesada ao redor do volante para simular o peso da mão da pessoa que estaria dirigindo e, sem desengatar o cinto de segurança ou abrir alguma das portas do veículo, deslizar para o banco do passageiro da frente.",
+            "url": "https://www.consumerreports.org/autonomous-driving/cr-engineers-show-tesla-will-drive-with-no-one-in-drivers-seat/"
+        },
+        {
+            "text": "Estudo usa tecnologia “deepfake” para criar mapas que não existem: a equipe da Universidade de Washington treinou o sistema com imagens de satélite de cidades como Seattle e Pequim. A técnica pode ser utilizada para simular locais sem nenhuma imagem de satélite disponível ou para criar imagens realistas a partir de mapas antigos feitos à mão. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/22/deepfake-tech-takes-on-satellite-maps/"
+        },
+        {
+            "text": "Sensores de gás vestíveis exibem alerta através de holograma: uma equipe de pesquisa coreana desenvolveu um sensor portátil ultracompacto e barato de se fabricar que exibe um alerta holográfico imediatamente após detectar gases voláteis prejudiciais a seres humanos. O sensor pode ser colado em óculos de segurança ou ser integrado em óculos de realidade aumentada. As informações são da Universidade de Ciência e Tecnologia de Pohang.",
+            "url": "https://phys.org/news/2021-04-wearable-sensors-gas-leaks.html"
+        },
+        {
+            "text": "Cerebras anuncia novo chip gigante exclusivo para treinar IAs: o “Wafer Scale Engine 2” é do tamanho de um wafer de silício inteiro, possui 2,6 trilhões de transistores, 850 mil núcleos e 40 gigabytes de memória integrada. Para comparação, o processador voltado ao treinamento de redes neurais mais recente da Nvidia, o A100, possui 54 bilhões de transistores, 7,3 mil núcleos e 40 megabytes de memória integrada. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors"
+        }
+    ]
+}
