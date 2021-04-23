@@ -108,8 +108,6 @@ export default class AnchorFmUploadService {
                 '#app > div > div button[type="button"]',
             );
 
-            console.log(saveButton?.classList);
-
             if (!saveButton) {
                 console.log(
                     `[AnchorFmUploadService] [ERROR] Failed to find Save Episode button`,

@@ -36,8 +36,6 @@ export default class UrlShortenerService {
                 password: this.password,
             });
 
-            console.log(auth.data);
-
             const token = auth.data.token;
 
             try {
