@@ -15,7 +15,9 @@ const handle = delayRender();
 const {filename} = getInputProps();
 
 async function loadData() {
-	return await require(`../../tmp/${filename}.json`);
+	if (filename) {
+		return await require(`../../tmp/${filename}.json`);
+	}
 }
 
 export const RemotionVideo: React.FC = () => {

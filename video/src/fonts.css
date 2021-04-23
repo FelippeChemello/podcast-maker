@@ -1,17 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700');
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime');
-
 @font-face {
 	font-family: 'ProductSans';
 	font-style: normal;
-	font-weight: 300;
+	font-weight: 400;
 	src: url(../../assets/ProductSans-Regular.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'ProductSans';
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 200;
 	src: url(../../assets/ProductSans-Thin.woff) format('woff');
 }
 
@@ -20,4 +17,46 @@
 	font-style: normal;
 	font-weight: 600;
 	src: url(../../assets/ProductSans-Black.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 200;
+	src: url(../../assets/Nunito-ExtraLight.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 300;
+	src: url(../../assets/Nunito-Light.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../../assets/Nunito-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 600;
+	src: url(../../assets/Nunito-SemiBold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 700;
+	src: url(../../assets/Nunito-Bold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Courier Prime';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../../assets/CourierPrime-Regular.woff) format('woff');
 }

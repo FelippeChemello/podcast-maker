@@ -26,17 +26,17 @@ export default class UrlShortenerService {
     }
 
     public async execute(): Promise<void> {
+        const auth = await axios.post('http://links.codestack.me/login', {
+            email: this.email,
+            password: this.password,
+        });
+
+        const token = auth.data.token;
+
         for (let i = 0; i < this.content.news.length; i++) {
             if (!this.content.news[i].url) {
                 continue;
             }
-
-            const auth = await axios.post('http://links.codestack.me/login', {
-                email: this.email,
-                password: this.password,
-            });
-
-            const token = auth.data.token;
 
             try {
                 log(`Shorting url from news ${i}`, 'UrlShortenerService');
