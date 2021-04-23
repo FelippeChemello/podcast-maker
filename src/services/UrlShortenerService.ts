@@ -5,19 +5,24 @@ import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class UrlShortenerService {
     private content: InterfaceJsonContent;
-    private rebrandlyApiKey: string;
-    private rebrandlyWorkspaceId = 'dfff71669fb94fd38131030d58f23ae6';
-    private shortUrlBase = 'links.codestack.me';
+    private email: string;
+    private password: string;
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
 
-        if (!process.env.REBRANDLY_API_KEY) {
-            error('Rebrandly API key is not defined', 'UrlShortenerService');
+        if (!process.env.JAUS_EMAIL) {
+            error('E-mail is not defined', 'UrlShortenerService');
             return;
         }
 
-        this.rebrandlyApiKey = process.env.REBRANDLY_API_KEY;
+        if (!process.env.JAUS_PASSWORD) {
+            error('Password is not defined', 'UrlShortenerService');
+            return;
+        }
+
+        this.email = process.env.JAUS_EMAIL;
+        this.password = process.env.JAUS_PASSWORD;
     }
 
     public async execute(): Promise<void> {
@@ -26,25 +31,32 @@ export default class UrlShortenerService {
                 continue;
             }
 
+            const auth = await axios.post('http://links.codestack.me/login', {
+                email: this.email,
+                password: this.password,
+            });
+
+            console.log(auth.data);
+
+            const token = auth.data.token;
+
             try {
                 log(`Shorting url from news ${i}`, 'UrlShortenerService');
                 const rebrandlyResponse = await axios.post(
-                    'https://api.rebrandly.com/v1/links',
+                    'http://links.codestack.me/create',
                     {
-                        destination: this.content.news[i].url,
-                        domain: { fullName: this.shortUrlBase },
+                        long_url: this.content.news[i].url,
                     },
                     {
                         headers: {
-                            apikey: this.rebrandlyApiKey,
-                            workspace: this.rebrandlyWorkspaceId,
+                            Authorization: `Bearer ${token}`,
                         },
                     },
                 );
 
                 this.content.news[
                     i
-                ].shortLink = `https://${rebrandlyResponse.data.shortUrl}`;
+                ].shortLink = `https://${rebrandlyResponse.data.short_url}`;
             } catch {
                 continue;
             }
