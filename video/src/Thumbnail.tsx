@@ -41,7 +41,7 @@ export const Thumbnail: React.FC<{
 								fontFamily: 'ProductSans',
 								color: '#fff',
 								textAlign: 'center',
-								fontWeight: 300,
+								fontWeight: 400,
 								margin: 0,
 							}}
 						>

@@ -12,13 +12,17 @@ async function loadAudio(audioFilePath: string) {
 export const AudioWaveform: React.FC<{
 	audioFilePath: string;
 }> = ({audioFilePath}) => {
-	const {width, durationInFrames} = useVideoConfig();
+	const {width: videoWidth, durationInFrames} = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	const MAX_BAR_HEIGHT = 100;
-	const QUANTITY_OF_SAMPLES = 750;
+	const BAR_WIDTH = 7;
+	const BAR_MARGIN_BETWEEN = 2;
+	const MAX_BAR_HEIGHT = 500;
+	const QUANTITY_OF_SAMPLES = durationInFrames;
 
-	const [audioSrc, setAudioSrc] = useState<string | null>(`null`);
+	console.log(QUANTITY_OF_SAMPLES);
+
+	const [audioSrc, setAudioSrc] = useState<string | null>(null);
 	const [waveforms, setWaveforms] = useState<number[] | null>(null);
 
 	useEffect(() => {
@@ -38,15 +42,21 @@ export const AudioWaveform: React.FC<{
 				.fill(0)
 				.map((_) => fullWaveforms.splice(0, blockSize));
 
-			const smoothWaveforms = blocks
+			const waveformValues = blocks
 				.map(
 					(block) =>
 						block.reduce(
-							(accumulator, value) => accumulator + value,
+							(accumulator, value) =>
+								accumulator + Math.abs(value),
 							0
 						) / block.length
 				)
-				.map((value, index, array) => {
+				.filter((value) => !!value);
+
+			const multiplier = Math.pow(Math.max(...waveformValues), -1);
+
+			const smoothWaveforms = waveformValues.map(
+				(value, index, array) => {
 					const weightOfMean = 5;
 					const toSmooth = [
 						array[index - 1],
@@ -54,19 +64,13 @@ export const AudioWaveform: React.FC<{
 						array[index + 1],
 					];
 
-					const sanitizedToSmooth = toSmooth
-						.filter((value) => !!value)
-						.map((value) => Math.abs(value));
+					const smootherValue =
+						toSmooth.reduce((acc, value) => acc + value, 0) /
+						weightOfMean;
 
-					return (
-						(sanitizedToSmooth.reduce(
-							(acc, value) => acc + value,
-							0
-						) /
-							weightOfMean) *
-						100
-					);
-				});
+					return smootherValue;
+				}
+			);
 
 			setWaveforms(smoothWaveforms);
 		});
@@ -76,7 +80,19 @@ export const AudioWaveform: React.FC<{
 		return null;
 	}
 
-	const position = interpolate(frame, [0, durationInFrames], [100, -200]);
+	const rateWaveformSpeed =
+		(waveforms.length * BAR_WIDTH +
+			waveforms.length * BAR_MARGIN_BETWEEN -
+			videoWidth) /
+		videoWidth;
+
+	console.warn(rateWaveformSpeed);
+
+	const position = interpolate(
+		frame,
+		[10, durationInFrames - 20],
+		[100, -100 * rateWaveformSpeed]
+	);
 
 	return (
 		<div>
@@ -100,10 +116,10 @@ export const AudioWaveform: React.FC<{
 							key={i}
 							style={{
 								height,
-								width: (width * 3) / waveforms.length - 2,
+								width: BAR_WIDTH,
 								backgroundColor: '#fff' || '#282B4B',
-								marginLeft: 2,
-								borderRadius: 2,
+								marginLeft: BAR_MARGIN_BETWEEN,
+								borderRadius: 10,
 							}}
 						/>
 					);
