@@ -1,0 +1,55 @@
+{
+    "title": "Robô fazendeiro com lasers / Oculus ganha Oscar / Rússia usa deepfakes de políticos",
+    "fps": 30,
+    "timestamp": 1619448042,
+    "date": "26/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Robô agrícola mata 100 mil ervas daninhas por hora com lasers: o “Autonomous Weeder” elimina as pestes sem agredir o solo ou a água, capinando autonomamente até 20 acres por dia (para comparação, uma pessoa consegue capinar cerca de um acre por dia). Apesar de custar centenas de milhares de dólares, a Carbon Robotics afirma que já vendeu todos os robôs que serão produzidos em 2021. As informações são do site Freethink.",
+            "url": "https://www.freethink.com/articles/farming-robot"
+        },
+        {
+            "text": "Filme produzido pela Oculus, sistema de realidade virtual do Facebook, ganha Oscar: o documentário “Colette” é o primeiro curta-metragem na indústria de videogames a receber o prêmio da academia. Apresentada pela primeira vez no jogo “Medal of Honor: Above and Beyond”, Colette conta a história de uma mulher que luta contra os nazistas como membro da Resistência Francesa. As informações são do blog da Oculus.",
+            "url": "https://www.oculus.com/blog/colette-brings-home-the-video-game-industrys-first-oscar/"
+        },
+        {
+            "text": "Rússia é acusada de utilizar deepfakes de opositores em chamadas do Zoom: diversos parlamentares europeus foram abordados nos últimos dias por indivíduos que parecem estar usando filtros falsos para imitar figuras da oposição russa e tratar de assuntos delicados como o suporte a prisioneiros políticos e geopolítica durante chamadas de vídeo. As informações são do site The Guardian.",
+            "url": "https://www.theguardian.com/world/2021/apr/22/european-mps-targeted-by-deepfake-video-calls-imitating-russian-opposition"
+        },
+        {
+            "text": "Banco do Brasil vai levar internet gratuita a 500 cidades do interior: operando via satélite, o acesso à rede wi-fi prevê a capacitação de clientes para o mundo digital, consultoria em educação financeira e uso dos serviços bancários por produtores rurais. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-04/banco-do-brasil-pretende-levar-wi-fi-gratuito-ate-500-municipios"
+        },
+        {
+            "text": "Internet cai no Canadá após castores roerem cabo de fibra óptica: os animais também usaram parte destes materiais, que são enterrados profundamente na terra, para construírem suas tocas. A internet em Tumbler Ridge, British Columbia, já voltou e a operadora Telus afirmou que a situação é muito bizarra, mas unicamente canadense. As informações são da CBC Canada.",
+            "url": "https://ca.news.yahoo.com/beavers-shut-down-internet-36-105115245.html"
+        },
+        {
+            "text": "Agência europeia quer proibir programas de reconhecimento facial: a Autoridade Europeia para a Proteção de Dados é contra um projeto que permitiria o uso do reconhecimento facial em espaços públicos para procurar por crianças desaparecidas, criminosos ou terroristas. Segundo o órgão, esses sistemas são uma intrusão profunda e não democrática na vida privada das pessoas. As informações são do Estadão.",
+            "url": "https://link.estadao.com.br/noticias/cultura-digital,agencia-europeia-quer-banir-reconhecimento-facial,70003691085"
+        },
+        {
+            "text": "Cientista vai leiloar o próprio DNA através de NFTs: George Church participou ativamente do “Projeto Genoma Humano” na década de 90 e foi a quinta pessoa no mundo a ter o seu genoma completamente sequenciado. Church afirma que leiloar seu código genético dará início a discussões sobre maneiras justas e transparentes de monetizar dados de saúde. O valor do leilão será investido em pesquisas genômicas. As informações são do site The Hill.",
+            "url": "https://thehill.com/changing-america/enrichment/arts-culture/549108-first-genomic-nft-to-be-sold-for-science-and-a"
+        },
+        {
+            "text": "Tesla anuncia aumento da capacidade de baterias residenciais através de atualização de software: dependendo da data de fabricação do Powerwall, sistema de reserva de energia elétrica para residências, a capacidade aumentará em até 50%. Elon Musk também aproveitou para anunciar que o Powerwall agora será apenas vendido em conjunto com os painéis e telhas solares da companhia. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/04/22/tesla-increasing-powerwall-power-capacity/"
+        },
+        {
+            "text": "Malware Emotet se autodestrói de todos os computadores infectados no mundo: um dos botnets de e-mail mais perigosos de todos os tempos se desinstalou automaticamente de sistemas infectados neste último domingo (dia 25). Em janeiro deste ano, autoridades policiais internacionais obtiveram o controle dos servidores que rodavam as operações do Emotet e a polícia federal da Alemanha (BKA) ficou responsável por criar e distribuir o módulo de desinstalação contendo um arquivo DLL customizado do Windows. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/emotet-malware-nukes-itself-today-from-all-infected-computers-worldwide/"
+        },
+        {
+            "text": "Pesquisadores pedem desculpas por adicionar vulnerabilidades no código do Linux: embora o objetivo fosse melhorar a segurança do sistema operacional, a pesquisa desperdiçou o tempo e esforço da comunidade revisando os patches. Por causa da pesquisa, a Universidade de Minnesota foi banida de contribuir com a manutenção do Linux no futuro. As informações são do site TheHackerNews.",
+            "url": "https://thehackernews.com/2021/04/minnesota-university-apologizes-for.html"
+        }
+    ]
+}
