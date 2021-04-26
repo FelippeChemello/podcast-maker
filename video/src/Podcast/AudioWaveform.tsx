@@ -17,8 +17,8 @@ export const AudioWaveform: React.FC<{
 
 	const BAR_WIDTH = 7;
 	const BAR_MARGIN_BETWEEN = 2;
-	const MAX_BAR_HEIGHT = 500;
-	const QUANTITY_OF_SAMPLES = durationInFrames;
+	const MAX_BAR_HEIGHT = 100;
+	const QUANTITY_OF_SAMPLES = durationInFrames / 1.5;
 
 	console.log(QUANTITY_OF_SAMPLES);
 
@@ -68,7 +68,7 @@ export const AudioWaveform: React.FC<{
 						toSmooth.reduce((acc, value) => acc + value, 0) /
 						weightOfMean;
 
-					return smootherValue;
+					return smootherValue * multiplier;
 				}
 			);
 
@@ -88,24 +88,19 @@ export const AudioWaveform: React.FC<{
 
 	console.warn(rateWaveformSpeed);
 
-	const position = interpolate(
-		frame,
-		[10, durationInFrames - 20],
-		[100, -100 * rateWaveformSpeed]
-	);
+	const position = interpolate(frame, [10, durationInFrames - 20], [0, 100]);
 
 	return (
-		<div>
+		<>
 			<Audio src={audioSrc} />
 			<div
 				style={{
 					display: 'flex',
 					flexDirection: 'row',
 					alignItems: 'center',
-					position: 'absolute',
-					height: 150,
-					bottom: 0,
-					left: `${position}%`,
+					height: MAX_BAR_HEIGHT + 50,
+					width: waveforms.length * (BAR_WIDTH + BAR_MARGIN_BETWEEN),
+					transform: `translateX(calc(${videoWidth}px - ${position}%))`,
 				}}
 			>
 				{waveforms.map((v, i) => {
@@ -125,6 +120,6 @@ export const AudioWaveform: React.FC<{
 					);
 				})}
 			</div>
-		</div>
+		</>
 	);
 };

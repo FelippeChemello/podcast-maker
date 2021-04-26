@@ -10,6 +10,7 @@ import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
 import {Logo} from './Podcast/Logo';
 import {Intro} from './Podcast/Intro';
+import {Wrapper} from './Wrappers/index';
 
 const {withoutIntro} = getInputProps();
 
@@ -70,12 +71,6 @@ export const Main: React.FC<{
 										audioFilePath={prop.audioFilePath}
 										title={title}
 									/>
-								</Sequence>
-								<Sequence
-									key={`${initialFrame}-Logo`}
-									from={initialFrame}
-									durationInFrames={textDuration}
-								>
 									<Logo />
 								</Sequence>
 								{index < textProps.length - 1 ? (
@@ -100,28 +95,19 @@ export const Main: React.FC<{
 								from={initialFrame}
 								durationInFrames={textDuration}
 							>
-								<Title
-									titleText={prop.text}
-									finishContentEarlierInFrames={
-										finishContentEarlierInFrames
-									}
-								/>
-							</Sequence>
-							<Sequence
-								key={`${initialFrame}-Audio`}
-								from={initialFrame}
-								durationInFrames={textDuration}
-							>
-								<AudioWaveform
-									audioFilePath={prop.audioFilePath}
-								/>
-							</Sequence>
-							<Sequence
-								key={`${initialFrame}-Logo`}
-								from={initialFrame}
-								durationInFrames={textDuration}
-							>
-								<Logo />
+								<Wrapper>
+									<Logo />
+
+									<Title
+										titleText={prop.text}
+										finishContentEarlierInFrames={
+											finishContentEarlierInFrames
+										}
+									/>
+									<AudioWaveform
+										audioFilePath={prop.audioFilePath}
+									/>
+								</Wrapper>
 							</Sequence>
 							{index < textProps.length - 1 ? (
 								<Sequence

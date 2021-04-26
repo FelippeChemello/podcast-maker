@@ -1,0 +1,55 @@
+{
+    "title": "Telefone de Zuckerberg vaza na Web / LinkedIn anuncia pausa / Interface cérebro-computador sem fio",
+    "fps": 30,
+    "timestamp": 0,
+    "date": "26/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Milhões de dados pessoais de usuários do Facebook estão disponíveis gratuitamente em fórum: os dados pertencem a 533 milhões de usuários e contemplam informações como números de telefone, nomes completos, localização, email e informações biográficas. De brasileiros, o hacker afirma possuir mais de oito milhões de registros. O Facebook afirma que os dados foram obtidos através de uma vulnerabilidade antiga, já corrigida em 2019. Pesquisadores de segurança alertam que os dados roubados poderão ser utilizados por hackers para cometer fraudes. As informações são da Business Insider.",
+            "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4"
+        },
+        {
+            "text": "Telefone de Mark Zuckerberg está entre dados vazados do Facebook: além do telefone, dados como localização, detalhes do casamento, data de nascimento e ID do usuário de Zuckerberg foram expostos, reporta a Business Insider. Também estão disponíveis as informações dos co-fundadores da companhia, Chris Hughes e Dustin Moskovitz.",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-phone-number-facebook-leak-data-reports-2021-4"
+        },
+        {
+            "text": "LinkedIn anuncia folga de uma semana para todos os funcionários: a partir desta segunda-feira, dia 5, todos os 15.900 funcionários da companhia em todo o mundo poderão tirar uma semana de folga remunerada. Apenas uma equipe principal ficará de plantão. A ideia surgiu após uma pesquisa interna da companhia mostrar um índice muito alto de burnout (esgotamento) entre seus trabalhadores remotos. As informações são da CNN Business.",
+            "url": "https://edition.cnn.com/2021/04/02/success/linkedin-paid-week-off/index.html"
+        },
+        {
+            "text": "Pesquisadores demonstram primeiro uso humano de interface cérebro-computador sem fio: dois participantes com tetraplegia utilizaram o sistema “BrainGate” durante um ensaio clínico para apontar, clicar e digitar em um tablet padrão. O transmissor de cerca de 5cm é fixado no topo da cabeça e se conecta ao córtex motor do cérebro, emitindo sinais cerebrais com resolução de apenas um neurônio e sem a necessidade de conectar as pessoas fisicamente a um sistema externo de decodificação. As informações são da página de notícias da Brown University.",
+            "url": "https://www.brown.edu/news/2021-03-31/braingate-wireless"
+        },
+        {
+            "text": "LG deixará de produzir smartphones: a companhia confirmou que irá desativar sua unidade de telefonia móvel em todo o mundo. A decisão de sair do setor, que a LG afirmou ser incrivelmente competitivo, permitirá à empresa focar em áreas em crescimento como componentes para veículos elétricos, dispositivos conectados, casas inteligentes, robótica, inteligência artificial e soluções business-to-business. A companhia se comprometeu a fornecer assistência técnica e atualizações de software para celulares existentes por um período de tempo que irá variar de acordo com a região. As informações são da página de imprensa da LG.",
+            "url": "https://techcrunch.com/2021/04/04/lg-is-shutting-down-its-smartphone-business-worldwide/#:~:text=LG%20said%20on%20Monday%20it,solutions%2C%20and%20platforms%20and%20services."
+        },
+        {
+            "text": "Jogo lacrado do Super Mario quebra recorde histórico em leilão: a cópia selada do clássico “Super Mario Bros.”, do NES, foi vendida por 660 mil dólares na última sexta-feira, mais do que quadruplicando o recorde anterior, que era do jogo “Super Mario Bros. 3”, vendido por 156 mil dólares em 2020. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/2/22364245/super-mario-bros-most-expensive-game-ever-record-sealed-auction"
+        },
+        {
+            "text": "Número de dispositivos inteligentes se aproxima ao de toda a população mundial: a quantidade de PCs, smartphones e tablets em uso em todo o mundo deve aumentar para 6,4 bilhões em 2022, impulsionado pela mudança para o trabalho remoto, afirma pesquisa da Gartner. Estima-se que a população mundial tenha atingido 7,67 bilhões de pessoas em 2019. As informações são do site TechRadar e Google.",
+            "url": "https://www.techradar.com/nz/news/there-will-soon-be-more-smart-devices-on-earth-than-people"
+        },
+        {
+            "text": "Tim Cook não estará no comando da Apple nos próximos dez anos: em entrevista à Kara Swisher, no podcast Sway, o CEO da Apple não fixou nenhuma data para sua saída, mas indicou o período para a transição do cargo. No ano passado, a Bloomberg reportou que a Apple já estaria trabalhando no planejamento de sucessão, com candidatos da companhia incluindo Jeff Williams (diretor de operações) e John Ternus (vice-presidente de engenharia de hardware). As informações são do site 9to5Apple.",
+            "url": "https://9to5mac.com/2021/04/05/tim-cook-says-he-probably-wont-be-at-apple-in-10-years-time/"
+        },
+        {
+            "text": "Novos testes do EmDrive mostram que “motor impossível” não desenvolve propulsão: em testes inicialmente realizados nos laboratórios da NASA, o motor EmDrive havia gerado grande esperança de que pudesse representar uma alternativa sem combustível revolucionária para propulsão espacial. Agora, novos testes realizados por pesquisadores da Universidade de Dresden mostram que o EmDrive não desenvolveu nenhuma força de empuxo como previamente observado pela NASA. As informações são do site Grenzwissenschaft-Aktuell.",
+            "url": "https://www.grenzwissenschaft-aktuell.de/latest-emdrive-tests-at-dresden-university-shows-impossible-engine-does-not-develop-any-thrust20210321/"
+        },
+        {
+            "text": "IBM lança primeira certificação para programadores de computadores quânticos: a “IBM Quantum Developer Certification” permite que qualquer pessoa com experiência em Python e conhecimento básico de álgebra linear obtenha uma certificação no Qiskit, kit de desenvolvimento de software quântico de código aberto da IBM. Estima-se que a computação quântica será uma indústria de 65 bilhões de dólares em 2030, resultando em um grande aumento na oferta de novos empregos no setor. As informações são do blog da IBM.",
+            "url": "https://www.ibm.com/blogs/research/2021/03/quantum-developer-certification/"
+        }
+    ]
+}
