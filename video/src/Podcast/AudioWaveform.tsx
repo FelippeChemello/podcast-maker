@@ -20,8 +20,6 @@ export const AudioWaveform: React.FC<{
 	const MAX_BAR_HEIGHT = 100;
 	const QUANTITY_OF_SAMPLES = durationInFrames / 1.5;
 
-	console.log(QUANTITY_OF_SAMPLES);
-
 	const [audioSrc, setAudioSrc] = useState<string | null>(null);
 	const [waveforms, setWaveforms] = useState<number[] | null>(null);
 
@@ -79,14 +77,6 @@ export const AudioWaveform: React.FC<{
 	if (!waveforms || !audioSrc) {
 		return null;
 	}
-
-	const rateWaveformSpeed =
-		(waveforms.length * BAR_WIDTH +
-			waveforms.length * BAR_MARGIN_BETWEEN -
-			videoWidth) /
-		videoWidth;
-
-	console.warn(rateWaveformSpeed);
 
 	const position = interpolate(frame, [10, durationInFrames - 20], [0, 100]);
 
