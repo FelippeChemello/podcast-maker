@@ -103,18 +103,23 @@ export default class InstagramUploadService {
         log(`Setting title to: ${title}`, 'InstagramUploadService');
         await page.type('input[type="text"]', title);
 
-        log(
-            `Setting description to: \n${description}`,
-            'InstagramUploadService',
-        );
-
-        await page.type('textarea', description);
+        try {
+            log(
+                `Setting description to: \n${description}`,
+                'InstagramUploadService',
+            );
+            await page.type('textarea', description);
+        } catch (e) {
+            log('Failed to set description', 'InstagramUploadService');
+        }
 
         log('Uploading video', 'InstagramUploadService');
 
-        const [videoInput, thumnailInput] = await page.$$('input[type="file"]');
+        const [videoInput, thumbnailInput] = await page.$$(
+            'input[type="file"]',
+        );
 
-        if (!videoInput || !thumnailInput) {
+        if (!videoInput || !thumbnailInput) {
             error('Failed to find media input ', 'InstagramUploadService');
             return;
         }
@@ -129,7 +134,7 @@ export default class InstagramUploadService {
         );
 
         log('Upload completed', 'InstagramUploadService');
-        thumnailInput.uploadFile(thumbnailPath);
+        thumbnailInput.uploadFile(thumbnailPath);
 
         const submitButton = await page.$('button');
         if (!submitButton) {
