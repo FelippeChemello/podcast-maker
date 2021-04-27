@@ -1,5 +1,10 @@
 import {useEffect, useState} from 'react';
-import {interpolate, useCurrentFrame, useVideoConfig} from 'remotion';
+import {
+	interpolate,
+	interpolateColors,
+	useCurrentFrame,
+	useVideoConfig,
+} from 'remotion';
 import styled from 'styled-components';
 import {AiOutlineSearch, AiOutlineMenu} from 'react-icons/ai';
 import {
@@ -12,7 +17,6 @@ import {RiPlayListAddLine} from 'react-icons/ri';
 import {BsThreeDots} from 'react-icons/bs';
 import {format} from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
-import RssParser from 'rss-parser';
 
 import ytLogo from '../../../assets/YT-Logo.svg';
 import avatar from '../../../assets/Avatar.png';
@@ -27,13 +31,6 @@ type VideoWrapperProps = {
 };
 
 type FooterProps = {videoWidth: number};
-
-type Feed = {
-	id: number;
-	title: string;
-	publishedAt: string;
-	thumbnail: string;
-}[];
 
 const VideoWrapper = styled.div<VideoWrapperProps>`
 	background: #0c2d48;
@@ -98,7 +95,6 @@ const Footer = styled.footer<FooterProps>`
 
 		section {
 			margin-bottom: -0.875rem;
-			border-bottom: 3px solid #fff;
 			padding-bottom: 0.5rem;
 			display: flex;
 			align-items: center;
@@ -161,16 +157,59 @@ const Aside = styled.aside`
 `;
 
 export const Wrapper: React.FC<WrapperProps> = ({children, title}) => {
-	const {width: videoWidth, height: videoHeight} = useVideoConfig();
+	const {
+		width: videoWidth,
+		height: videoHeight,
+		durationInFrames,
+	} = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	const moveY = interpolate(frame, [0, 10, 50, 60], [0, 1, 1, 0]);
-	console.log(moveY);
+	const startClickAnimationAtFrame = 50;
+
+	//Mouse movement
+	const moveY = interpolate(
+		frame,
+		[0, 50, 57, 73, 90, 110, 115, 125, 150].map(
+			(value) => value + startClickAnimationAtFrame
+		),
+		[-50, 95, 93, 97, 20, 10, 15, 12, -50]
+	);
+	const moveX = interpolate(
+		frame,
+		[0, 50, 57, 73, 90, 110, 115, 125, 150].map(
+			(value) => value + startClickAnimationAtFrame
+		),
+		[370, 650, 657, 655, 40, 50, 45, 48, 150]
+	);
+	const colorsClick = interpolateColors(
+		frame,
+		[0, 50, 57, 73, 90, 110, 115, 125, 150].map(
+			(value) => value + startClickAnimationAtFrame
+		),
+		['#fff', '#fff', '#aaa', '#fff', '#fff', '#fff', '#aaa', '#fff', '#fff']
+	);
+
+	//Scale change
+	const scale = interpolate(
+		frame,
+		[0, startClickAnimationAtFrame, 170, 220, durationInFrames],
+		[1.57, 1, 1, 1.57, 1.57]
+	);
+	const translateX = interpolate(
+		frame,
+		[0, startClickAnimationAtFrame, 170, 220, durationInFrames],
+		[16.3, 0, 0, 16.3, 16.3]
+	);
+	const translateY = interpolate(
+		frame,
+		[0, startClickAnimationAtFrame, 170, 220, durationInFrames],
+		[7.3, 0, 0, 7.3, 7.3]
+	);
 
 	return (
 		<div
 			style={{
-				// transform: 'scale(1.5)'
+				transform: `scale(${scale}) translate(${translateX}%, ${translateY}%)`,
 				background: '#212121',
 			}}
 		>
@@ -262,9 +301,27 @@ export const Wrapper: React.FC<WrapperProps> = ({children, title}) => {
 								</span>
 							</p>
 							<div>
-								<section>
+								<section
+									style={{
+										borderBottom: `3px solid ${
+											frame >=
+											57 + startClickAnimationAtFrame
+												? '#3EA6FF'
+												: ''
+										}`,
+									}}
+								>
 									<text>
-										<IoMdThumbsUp size="3rem" /> 2
+										<IoMdThumbsUp
+											size="3rem"
+											color={
+												frame >=
+												57 + startClickAnimationAtFrame
+													? '#3EA6FF'
+													: ''
+											}
+										/>
+										{Math.round(frame / 10)}
 									</text>
 									<text>
 										<IoMdThumbsDown size="3rem" /> 0
@@ -307,13 +364,17 @@ export const Wrapper: React.FC<WrapperProps> = ({children, title}) => {
 										CodeStack
 									</strong>
 									<span>
-										{Math.round(frame / 10)} inscritos
+										{Math.round(frame / 15)} inscritos
 									</span>
 								</p>
 							</div>
 							<p
 								style={{
-									background: '#CC0000' || '#303030',
+									background:
+										frame >=
+										115 + startClickAnimationAtFrame
+											? '#303030'
+											: '#CC0000',
 									color: '#fff',
 									fontSize: '1.7rem',
 									textTransform: 'uppercase',
@@ -322,10 +383,33 @@ export const Wrapper: React.FC<WrapperProps> = ({children, title}) => {
 									borderRadius: 5,
 								}}
 							>
-								Inscreva-se
+								{frame >= 115 + startClickAnimationAtFrame
+									? 'Inscrito'
+									: 'Inscreva-se'}
 							</p>
 						</div>
-						<img />
+						<div
+							style={{
+								position: 'absolute',
+								bottom: moveY, //-50 -> 95 -> 10 -> -50
+								right: moveX, //370 -> 670 -> 50 -> 150
+							}}
+						>
+							<svg
+								width="3rem"
+								height="3rem"
+								viewBox="0 0 23 25"
+								fill="none"
+								xmlns="http://www.w3.org/2000/svg"
+							>
+								<g clipPath="url(#prefix__clip0)">
+									<path
+										d="M22.326 11.773v4.5c0 .145-.018.29-.053.43l-1.571 6.375c-.209.847-1 1.445-1.912 1.445H8.576c-.31 0-.616-.07-.892-.204a1.944 1.944 0 01-.697-.568l-6.285-8.25c-.639-.837-.445-2.01.433-2.619.877-.609 2.106-.424 2.744.414l1.554 2.04V2.398c0-1.035.88-1.875 1.964-1.875 1.085 0 1.964.84 1.964 1.875v9.375h.393V9.898c0-1.035.88-1.875 1.965-1.875 1.084 0 1.964.84 1.964 1.875v1.875h.393v-1.125c0-1.035.88-1.875 1.964-1.875 1.085 0 1.964.84 1.964 1.875v1.125h.393c0-1.035.88-1.875 1.964-1.875 1.085 0 1.965.84 1.965 1.875zm-12.572 3.75h-.393v4.5h.393v-4.5zm4.322 0h-.393v4.5h.393v-4.5zm4.321 0h-.393v4.5h.393v-4.5z"
+										fill={colorsClick}
+									/>
+								</g>
+							</svg>
+						</div>
 					</Footer>
 				</main>
 				<Aside>
