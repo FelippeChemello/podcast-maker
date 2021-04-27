@@ -95,7 +95,7 @@ export const Main: React.FC<{
 								from={initialFrame}
 								durationInFrames={textDuration}
 							>
-								<Wrapper>
+								<Wrapper title={title}>
 									<Logo />
 
 									<Title
