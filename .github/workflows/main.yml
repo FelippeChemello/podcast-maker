@@ -77,7 +77,6 @@ jobs:
                   retention-days: 3
 
     YouTube-CreateVideo:
-        if: ${{ false }}
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
@@ -119,7 +118,6 @@ jobs:
                   retention-days: 2
 
     YouTube-UploadVideo:
-        if: ${{ false }}
         needs: [YouTube-CreateVideo]
         runs-on: ubuntu-latest
         steps:
@@ -225,7 +223,6 @@ jobs:
               run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:instagram
 
     Podcast-CreateAudio:
-        if: ${{ false }}
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
@@ -268,7 +265,6 @@ jobs:
                   retention-days: 2
 
     AnchorFM-UploadPodcast:
-        if: ${{ false }}
         needs: [Podcast-CreateAudio]
         runs-on: ubuntu-latest
         timeout-minutes: 15
