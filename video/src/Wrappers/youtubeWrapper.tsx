@@ -3,6 +3,8 @@ import {
 	interpolateColors,
 	useCurrentFrame,
 	useVideoConfig,
+	Audio,
+	Sequence,
 } from 'remotion';
 import styled from 'styled-components';
 import {AiOutlineSearch, AiOutlineMenu} from 'react-icons/ai';
@@ -19,6 +21,7 @@ import ptBR from 'date-fns/locale/pt-BR';
 
 import ytLogo from '../../../assets/YT-Logo.svg';
 import avatar from '../../../assets/Avatar.png';
+import clickSound from '../../../assets/click.mp3';
 
 type WrapperProps = {
 	title: string;
@@ -163,7 +166,8 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	} = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	const startClickAnimationAtFrame = 50;
+	const startScaleAnimationAtFrame = 30;
+	const startClickAnimationAtFrame = 50 + startScaleAnimationAtFrame;
 
 	//Mouse movement
 	const moveY = interpolate(
@@ -191,18 +195,39 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 	//Scale change
 	const scale = interpolate(
 		frame,
-		[0, startClickAnimationAtFrame, 200, 250, durationInFrames],
-		[1.57, 1, 1, 1.57, 1.57]
+		[
+			0,
+			0 + startScaleAnimationAtFrame,
+			startClickAnimationAtFrame,
+			200 + startScaleAnimationAtFrame,
+			250 + startScaleAnimationAtFrame,
+			durationInFrames,
+		],
+		[1.57, 1.57, 1, 1, 1.57, 1.57]
 	);
 	const translateX = interpolate(
 		frame,
-		[0, startClickAnimationAtFrame, 200, 250, durationInFrames],
-		[16.3, 0, 0, 16.3, 16.3]
+		[
+			0,
+			0 + startScaleAnimationAtFrame,
+			startClickAnimationAtFrame,
+			200 + startScaleAnimationAtFrame,
+			250 + startScaleAnimationAtFrame,
+			durationInFrames,
+		],
+		[16.3, 16.3, 0, 0, 16.3, 16.3]
 	);
 	const translateY = interpolate(
 		frame,
-		[0, startClickAnimationAtFrame, 200, 250, durationInFrames],
-		[7.3, 0, 0, 7.3, 7.3]
+		[
+			0,
+			0 + startScaleAnimationAtFrame,
+			startClickAnimationAtFrame,
+			200 + startScaleAnimationAtFrame,
+			250 + startScaleAnimationAtFrame,
+			durationInFrames,
+		],
+		[7.3, 7.3, 0, 0, 7.3, 7.3]
 	);
 
 	return (
@@ -212,6 +237,18 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 				background: '#212121',
 			}}
 		>
+			<Sequence
+				from={47 + startClickAnimationAtFrame}
+				durationInFrames={Infinity}
+			>
+				<Audio src={clickSound} startFrom={30} />
+			</Sequence>
+			<Sequence
+				from={105 + startClickAnimationAtFrame}
+				durationInFrames={Infinity}
+			>
+				<Audio src={clickSound} startFrom={30} />
+			</Sequence>
 			<header
 				style={{
 					background: '#202020',
@@ -310,16 +347,16 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 										}`,
 									}}
 								>
-									<text>
-										<IoMdThumbsUp
-											size="3rem"
-											color={
+									<text
+										style={{
+											color:
 												frame >=
 												57 + startClickAnimationAtFrame
 													? '#3EA6FF'
-													: ''
-											}
-										/>
+													: '',
+										}}
+									>
+										<IoMdThumbsUp size="3rem" />
 										{Math.round(frame / 10)}
 									</text>
 									<text>
