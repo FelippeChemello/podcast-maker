@@ -52,9 +52,8 @@ export default class UrlShortenerService {
                     },
                 );
 
-                this.content.news[
-                    i
-                ].shortLink = `https://${rebrandlyResponse.data.short_url}`;
+                this.content.news[i].shortLink =
+                    rebrandlyResponse.data.short_url;
             } catch {
                 continue;
             }

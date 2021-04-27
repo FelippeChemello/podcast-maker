@@ -4,12 +4,14 @@ import {
 	useCurrentFrame,
 	useVideoConfig,
 	getInputProps,
+	random,
 } from 'remotion';
 import {Title} from './Podcast/Title';
 import {AudioWaveform} from './Podcast/AudioWaveform';
 import {Transition} from './Podcast/Transition';
 import {Logo} from './Podcast/Logo';
 import {Intro} from './Podcast/Intro';
+import {Wrapper} from './Wrappers/index';
 
 const {withoutIntro} = getInputProps();
 
@@ -26,6 +28,10 @@ export const Main: React.FC<{
 	const {fps, durationInFrames} = useVideoConfig();
 	const finishContentEarlierInFrames = 50;
 	const transitionDurationInFrames = 2.9 * fps;
+	const showWrapperOnIndex =
+		textProps.length > 2
+			? Math.floor(random(title) * (textProps.length - 2 - 2) + 2) //Valor randomico entre 2 e (quantidade de noticias - final - ultima noticia)
+			: -1; //If have less then 2 news will not show wrapper
 
 	const opacity = interpolate(
 		frame,
@@ -70,12 +76,6 @@ export const Main: React.FC<{
 										audioFilePath={prop.audioFilePath}
 										title={title}
 									/>
-								</Sequence>
-								<Sequence
-									key={`${initialFrame}-Logo`}
-									from={initialFrame}
-									durationInFrames={textDuration}
-								>
 									<Logo />
 								</Sequence>
 								{index < textProps.length - 1 ? (
@@ -100,28 +100,22 @@ export const Main: React.FC<{
 								from={initialFrame}
 								durationInFrames={textDuration}
 							>
-								<Title
-									titleText={prop.text}
-									finishContentEarlierInFrames={
-										finishContentEarlierInFrames
-									}
-								/>
-							</Sequence>
-							<Sequence
-								key={`${initialFrame}-Audio`}
-								from={initialFrame}
-								durationInFrames={textDuration}
-							>
-								<AudioWaveform
-									audioFilePath={prop.audioFilePath}
-								/>
-							</Sequence>
-							<Sequence
-								key={`${initialFrame}-Logo`}
-								from={initialFrame}
-								durationInFrames={textDuration}
-							>
-								<Logo />
+								<Wrapper
+									title={title}
+									show={index === showWrapperOnIndex}
+								>
+									<Logo />
+
+									<Title
+										titleText={prop.text}
+										finishContentEarlierInFrames={
+											finishContentEarlierInFrames
+										}
+									/>
+									<AudioWaveform
+										audioFilePath={prop.audioFilePath}
+									/>
+								</Wrapper>
 							</Sequence>
 							{index < textProps.length - 1 ? (
 								<Sequence

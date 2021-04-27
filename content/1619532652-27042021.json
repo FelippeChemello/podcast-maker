@@ -1,0 +1,55 @@
+{
+    "title": "Spotify mais caro no Brasil / Lucro da Tesla explode / Cabify encerra operações no Brasil",
+    "fps": 30,
+    "timestamp": 1619532652,
+    "date": "27/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Spotify aumenta preços no Brasil: os planos Universitário, Individual, Duo e Família receberam aumentos de até 30%. Os novos valores entrarão em vigor já no final deste mês, mas para quem já é assinante, somente a partir de julho. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/436015/spotify-aumenta-precos-assinaturas-premium-brasil/"
+        },
+        {
+            "text": "Tesla bate recorde com lucro 2.600% maior no último trimestre: o forte crescimento no resultado (438 milhões de dólares) foi devido à expansão da companhia na China e venda de créditos de carbono para outras empresas automotivas. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/4/26/22404198/tesla-q1-results-earnings-profit-model-s-x-y-3-bitcoin-delay"
+        },
+        {
+            "text": "NASA cria “nariz eletrônico” portátil para detectar infecção viral: o “E-Nose”, do tamanho de uma latinha de refrigerante, reaproveita nanosensores utilizados no monitoramento da qualidade do ar dentro de espaçonaves para detectar compostos orgânicos voláteis no hálito de pessoas. O E-Nose pode ser utilizado de maneira semelhante às verificações de temperatura realizadas antes de se entrar em supermercados ou restaurantes. As informações são da página da NASA.",
+            "url": "https://www.theregister.com/2021/04/27/nasa_enose_covid19/"
+        },
+        {
+            "text": "Envio de “fake news” por WhatsApp pode dar cinco anos de prisão: o Projeto de Lei 6.764, que revoga a Lei de Segurança Nacional, tipifica como crimes contra o Estado a “comunicação enganosa” através de mensagens para um grande número de pessoas, o que é especialmente grave em épocas de eleição. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/435479/disparo-de-fake-news-no-whatsapp-podera-render-5-anos-de-prisao/"
+        },
+        {
+            "text": "ONG suspende plano de cadastrar biometria facial em 2 milhões de pessoas que moram em favelas: a Cufa (Central Única das Favelas) escolheu a tecnologia para agilizar determinados processos exigidos por doadores. O sistema de reconhecimento facial, no entanto, foi interrompido após pesquisadores levantarem dúvidas sobre a prática. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/436281/cufa-suspende-plano-de-cadastrar-biometria-facial-de-2-milhoes-de-pessoas/"
+        },
+        {
+            "text": "Cabify decide encerrar operações no Brasil: o serviço de transporte de passageiros por aplicativo explicou que a pandemia foi a principal razão para deixar o País. A informação foi oficializada através do perfil da companhia no Twitter.",
+            "url": "https://twitter.com/cabifybrasil/status/1385599816953122816"
+        },
+        {
+            "text": "Engenheiro constrói máquina que envia mensagens através do Telegram para avó de 96 anos: o “Yayagram” possui apenas dois recursos, o envio de mensagens de voz, pressionando-se apenas um botão, e o recebimento de mensagens de texto, imprimindo-as fisicamente em um rolo de papel térmico. O espanhol Manuel Lucio Dallo detalhou a construção do equipamento em seu perfil no Twitter, utilizando um Raspberry Pi, Linux e Python.",
+            "url": "https://twitter.com/mrcatacroquer/status/1386318806411325440"
+        },
+        {
+            "text": "Tropas americanas podem ser rastreadas através dos telefones celulares de soldados: a empresa PlanetRisk utilizou dados de localização extraídos de aplicativos de previsão do tempo, jogos e apps de namoro, descobrindo operações secretas de soldados dos EUA na Síria. A intenção original na companhia, no entanto, era construir uma ferramenta de vigilância para monitoramento de refugiados. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/the-ease-of-tracking-mobile-phones-of-u-s-soldiers-in-hot-spots-11619429402"
+        },
+        {
+            "text": "Apple lança iOS 14.5 com grandes mudanças em privacidade: a atualização inclui o recurso “App Tracking Transparency”, permitindo que se controle quais aplicativos podem compartilhar dados de uso e navegação com terceiros, o desbloqueio do iPhone através do Apple Watch (para quem estiver usando máscara) e novos emojis. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/26/ios-14-5-goes-live-with-watch-unlocking-tracking-transparency-and-kissing-emojis/"
+        },
+        {
+            "text": "Cientistas gravam dados em moléculas de plástico: a técnica, desenvolvida por pesquisadores da Universidade do Texas, consegue codificar dados com uma maior densidade de informação do que abordagens baseadas em ácidos nucleicos (DNA) e utiliza plásticos semelhantes ao uretano, matérias-prima química altamente acessível e estruturalmente modificável. As informações são do site Science Daily.",
+            "url": "https://www.sciencedaily.com/releases/2021/04/210421124651.htm"
+        }
+    ]
+}

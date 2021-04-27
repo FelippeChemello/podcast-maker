@@ -18,7 +18,6 @@ import {
 } from './options';
 import { error, log } from './utils/log';
 
-// Fazer upload para anchor.fm
 // Ajustar google.js para receber via webserver o code e printar na tela as instruções
 
 const program = new Command();

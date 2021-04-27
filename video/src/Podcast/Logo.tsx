@@ -31,11 +31,12 @@ export const Logo: React.FC = () => {
 			style={{
 				marginTop: logoEntry,
 				marginLeft: orientation === 'landscape' ? 30 : 100,
-				height: videoConfig.width / 15 + 20,
 				display: 'flex',
+				width: 'fit-content',
+				height: 'fit-content',
 				alignItems: 'center',
 				backgroundColor: '#3F6182',
-				padding: 20,
+				padding: '20px 30px',
 				borderRadius: 10,
 			}}
 		>

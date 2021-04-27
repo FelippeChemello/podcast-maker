@@ -58,7 +58,12 @@ export const createYouTube = async ({
 
     const bundle = await new BundleVideoService().execute();
 
-    await new RenderVideoService(content).execute(bundle, 'landscape', true);
+    await new RenderVideoService(content).execute(
+        bundle,
+        'landscape',
+        true,
+        'youtube',
+    );
 
     await new CreateThumnailService(content).execute(bundle);
 };
@@ -113,7 +118,12 @@ export const createInstagram = async ({
 
     const bundle = await new BundleVideoService().execute();
 
-    await new RenderVideoService(content).execute(bundle, 'portrait', false);
+    await new RenderVideoService(content).execute(
+        bundle,
+        'portrait',
+        false,
+        'instagram',
+    );
 
     await new CreateThumnailService(content).execute(bundle);
 };
