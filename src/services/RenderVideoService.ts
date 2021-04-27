@@ -24,6 +24,7 @@ class RenderVideoService {
         bundle: string,
         videoFormat: 'portrait' | 'landscape' | 'square',
         withIntro: boolean,
+        destination?: 'youtube' | 'instagram',
     ): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
         const compositions = await getCompositions(bundle, {
@@ -67,6 +68,7 @@ class RenderVideoService {
             inputProps: {
                 filename: this.content.timestamp,
                 withoutIntro: !withIntro,
+                destination,
             },
             compositionId: this.compositionId,
             imageFormat: 'jpeg',

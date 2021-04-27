@@ -4,7 +4,7 @@
     "main": "dist/server.js",
     "license": "MIT",
     "scripts": {
-        "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": \"example\"}'",
+        "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": \"example\", \"destination\": \"youtube\"}'",
         "video:remotion-debug": "remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example\"}'",
         "video:make:tts": "ts-node src/main.ts --build --config tts",
         "video:make:youtube": "ts-node src/main.ts --build --config youtubeCreate ",

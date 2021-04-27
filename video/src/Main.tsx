@@ -4,6 +4,7 @@ import {
 	useCurrentFrame,
 	useVideoConfig,
 	getInputProps,
+	random,
 } from 'remotion';
 import {Title} from './Podcast/Title';
 import {AudioWaveform} from './Podcast/AudioWaveform';
@@ -27,6 +28,10 @@ export const Main: React.FC<{
 	const {fps, durationInFrames} = useVideoConfig();
 	const finishContentEarlierInFrames = 50;
 	const transitionDurationInFrames = 2.9 * fps;
+	const showWrapperOnIndex =
+		textProps.length > 2
+			? Math.floor(random(title) * ((textProps.length - 2) - 2) + 2) //Valor randomico entre 2 e (quantidade de noticias - final - ultima noticia)
+			: -1; //If have less then 2 news will not show wrapper
 
 	const opacity = interpolate(
 		frame,
@@ -95,7 +100,10 @@ export const Main: React.FC<{
 								from={initialFrame}
 								durationInFrames={textDuration}
 							>
-								<Wrapper title={title}>
+								<Wrapper
+									title={title}
+									show={index === showWrapperOnIndex}
+								>
 									<Logo />
 
 									<Title
