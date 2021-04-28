@@ -1,0 +1,51 @@
+{
+    "title": "Telegram anuncia nova plataforma / Descoberta acidental com silício / Fábrica da LG estatizada",
+    "fps": 30,
+    "timestamp": 1619619536,
+    "date": "28/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Telegram anuncia plataforma de videoconferência para concorrer com o Zoom: Pavel Durov, fundador do sistema de mensagens, anunciou em seu canal no Telegram que apresentará em maio uma nova ferramenta de teleconferência integrada ao aplicativo, disponível tanto para PCs como smartphones. Ainda sem nome, a plataforma contará com muitos recursos, como o compartilhamento de tela, cancelamento de ruídos e criptografia integrada, além de uma interface “nível Telegram”, segundo Durov.",
+            "url": "https://www.androidpolice.com/2021/04/28/telegram-is-launching-its-own-zoom-competitor/"
+        },
+        {
+            "text": "Cientistas descobrem acidentalmente nova função para o silício: uma pesquisa da Universidade de Surrey mostra que o silício é excelente para manipulação fotônica de informações, abrindo possibilidades para a criação de lasers e monitores feitos do material. A descoberta, feita por acaso, aconteceu durante uma pesquisa sobre cristais de silício para computação quântica. As informações são do site EurekaAlert.",
+            "url": "https://www.eurekalert.org/pub_releases/2021-04/uos-sst042721.php"
+        },
+        {
+            "text": "Sindicato propõe estatizar fábrica de celulares que será fechada pela LG no Brasil: segundo o SindMetalSJC, no local existe tecnologia, maquinário e capacitação técnica necessária para o desenvolvimento de celulares com uma marca nacional. No momento, cerca de 700 trabalhadores encontram-se paralisados, em greve contra o fechamento da fábrica. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/436463/sindicato-quer-que-lg-brasil-seja-estatizada-pelo-governo-federal/"
+        },
+        {
+            "text": "Navegador Mighty promete consumir 10 vezes menos memória do que o Chrome: o novo navegador virtualiza uma instância Chromium utilizando 16 vCPUs, com processadores Intel Xeon duplos de até 4GHz, GPUs Nvidia e 16GB de RAM, permitindo carregar centenas de abas sem impacto no sistema e acelerando renderizações para cargas de trabalho com muitos gráficos, como o Figma. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/04/27/mighty-browser/"
+        },
+        {
+            "text": "GitHub bloqueia rastreador FLoC do Google: em um post sucinto em seu blog, o GitHub indicou que todas as suas páginas ficarão de fora do novo sistema de rastreamento do Google. No entanto, páginas que usam um domínio personalizado não serão afetadas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/github-blocks-google-floc-tracking/"
+        },
+        {
+            "text": "Facebook e Instagram estão criando ferramentas de monetização para criadores de conteúdo: entre as ideias estão um marketplace para conectar marcas e influenciadores, e um programa de afiliados para gerar comissões sobre vendas em lojas online. As informações são da Reuters.",
+            "url": "https://www.reuters.com/technology/facebook-help-creators-earn-money-ecommerce-sales-2021-04-27/"
+        },
+        {
+            "text": "Google e Microsoft apresentam resultados trimestrais: o Google registrou lucro líquido de 17,9 bilhões de dólares no primeiro trimestre de 2021, um crescimento de 162% em um ano, devido a uma procura maior por publicidade digital. A Microsoft lucrou 15,4 bilhões, alta de 43% no período, com receitas maiores em serviços cloud e produtos relacionados ao trabalho remoto. As informações são das páginas de relação com investidores das duas empresas.",
+            "url": "https://conteudos.xpi.com.br/internacional/relatorios/radar-global-microsoft-e-google-divulgam-resultados/"
+        },
+        {
+            "text": "Novo drone atinge autonomia de nível 4A: os drones da Exyn são totalmente autossuficientes e não requerem nenhuma interação humana durante o voo, bastando ao operador apenas definir a área que deverá ser explorada. Uma das potenciais aplicações é a de resgate, na qual o drone poderá receber o comando “explore até encontrar alguém”. Drones possuem 5 níveis de autonomia, com o quarto nível contendo 3 segmentações, A, B e C. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/automaton/robotics/drones/exyn-brings-level-4-autonomy-to-drones"
+        },
+        {
+            "text": "Microsoft e Google irão promover o desenvolvimento do WebAssembly: as duas companhias se unem à “Bytecode Alliance”, fundação formada por empresas como Mozilla, Intel, ARM, Fastly, Shopify e Red Hat, e que tem a missão de tornar o software mais modular, seguro e rápido. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/04/28/microsoft_bytecode_alliance/"
+        }
+    ]
+}
