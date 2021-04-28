@@ -118,16 +118,16 @@ export default class AnchorFmUploadService {
             saveButton.id = 'save-episode-button';
         });
 
-        log('Uploading video', 'AnchorFmUploadService');
+        log('Uploading podcast', 'AnchorFmUploadService');
 
-        const videoInput = await page.$('input[type="file"]');
+        const audioInput = await page.$('input[type="file"]');
 
-        if (!videoInput) {
+        if (!audioInput) {
             error('Failed to find media input ', 'AnchorFmUploadService');
             return;
         }
 
-        await videoInput.uploadFile(audioPath);
+        await audioInput.uploadFile(audioPath);
 
         await page.waitForSelector('#save-episode-button[disabled]');
         await page.waitForSelector('#save-episode-button:not([disabled])', {
@@ -183,7 +183,7 @@ export default class AnchorFmUploadService {
 
         await browser.close();
 
-        log(`Video published on Anchor.FM`, 'AnchorFmUploadService');
+        log(`Podcast published on Anchor.FM`, 'AnchorFmUploadService');
     }
 
     private getDescription() {
