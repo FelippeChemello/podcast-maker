@@ -1,0 +1,55 @@
+{
+    "title": "Instagram supera Facebook / Descomplica é alvo de Hackers / Rust surpreende em pesquisa",
+    "fps": 30,
+    "timestamp": 1619724797,
+    "date": "29/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Instagram tem taxa de engajamento quatro vezes superior a do Facebook: ainda segundo o relatório “Facebook e Instagram 2021” da mLabs, o engajamento no Facebook é cada vez menor na maioria dos segmentos analisados. Outro dado interessante é que o Feed do Instagram engaja mais do que o formato Stories, sendo em média 36% maior.",
+            "url": "https://canaltech.com.br/internet/instagram-tem-engajamento-4x-maior-que-o-facebook-desde-o-inicio-da-pandemia-183731/"
+        },
+        {
+            "text": "JavaScript é a linguagem mais popular, mas Rust é a que mais cresce: em termos de popularidade, o destaque também fica com Python e Java, em segundo e terceiro lugar, respectivamente. O Rust, apesar de ainda pouco utilizado, está ganhando tração: o Google vai utilizar a linguagem para códigos no Android por causa de suas garantias em segurança de memória. Os dados são da mais recente pesquisa da SlashData com 19 mil desenvolvedores, de 155 países diferentes, realizada no primeiro trimestre de 2021. As informações são da ZDNet.",
+            "url": "https://www.zdnet.com/article/programming-languages-javascript-has-most-developers-but-rust-is-the-fastest-growing/"
+        },
+        {
+            "text": "Google está economizando 1 bilhão de dólares por ano com trabalho remoto: o motivo é a redução nas despesas com promoções, viagens e entretenimento durante a pandemia. As informações são do jornal Los Angeles Times.",
+            "url": "https://www.latimes.com/business/technology/story/2021-04-28/google-is-saving-1-billion-per-year-as-a-result-of-employees-working-from-home"
+        },
+        {
+            "text": "Hacker distribui dados de usuários do “Descomplica” gratuitamente na web: são 4,8 milhões de contas da rede de cursos preparatórios, contendo e-mails, CPFs, telefones e dados parciais de cartões de crédito (sem CVV). As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/436951/vazamento-do-descomplica-expoe-dados-de-48-milhoes-de-contas/"
+        },
+        {
+            "text": "Netflix lança recurso que escolhe automaticamente o que assistir: a função “Títulos aleatórios” seleciona um filme ou série baseando-se nas preferências anteriores de quem está assistindo. O recurso se encontra no menu, próximo do ícone de usuário. As informações são do canal do YouTube do Netflix.",
+            "url": "https://olhardigital.com.br/en/2021/04/28/cinema-and-streaming/random-titles-netflix-releases-shuffle-button-on-the-platform/amp/"
+        },
+        {
+            "text": "Microsoft decide alterar fonte padrão de documentos Office: a empresa vai substituir a Calibri, padrão desde 2007, mas ainda está decidindo entre as cinco novas fontes: Tenorite, Bierstadt, Skeena, Seaford e Grandview. As informações são do blog da Microsoft.",
+            "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/"
+        },
+        {
+            "text": "China lança primeiro módulo de sua nova estação espacial: esta é a primeira de 11 missões necessárias para construção completa da estação e posterior envio de uma tripulação de três pessoas até o final de 2022. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2021-04/china-lanca-modulo-principal-da-sua-1a-estacao-espacial-permanente"
+        },
+        {
+            "text": "Fones de ouvido com interface cérebro-computador: o Enten, da Neurable, possui eletrodos embutidos nas almofadas dos ouvidos para detectar a atividade elétrica cerebral e sugerir períodos de trabalho e pausa, silenciar notificações em momentos de concentração e indicar quais músicas mantém a pessoa mais focada. As informações são do site TechXplore.",
+            "url": "https://techxplore.com/news/2021-04-neurable-brain-computer-interface-headphones.html"
+        },
+        {
+            "text": "Facebook, Spotify e Apple apresentam resultados: o Facebook viu seus lucros crescerem 94% no primeiro trimestre de 2021, para 9,5 bilhões de dólares, após aumentar preços e vender mais anúncios na plataforma. O lucro líquido do Spotify cresceu 2.200% no último trimestre, para 23 milhões de dólares, atingindo uma base de 356 milhões de usuários. Os lucros da Apple subiram 110%, para 23,6 bilhões de dólares, com receitas maiores em todas as categorias de produtos da empresa. As informações são das páginas de relações com investidores de cada companhia.",
+            "url": "https://conteudos.xpi.com.br/internacional/relatorios/radar-global-apple-e-facebook-reportam-resultados/"
+        },
+        {
+            "text": "IA calcula tensão e deformação de materiais com base em imagens: a ferramenta, desenvolvida por pesquisadores do MIT, utiliza visão computacional e aprendizado de máquina para observar a microestrutura interna de um material sujeito a forças mecânicas. A nova técnica pode auxiliar arquitetos e designers a testar a viabilidade de ideias antes de passar o projeto para uma equipe de engenharia. As informações são do site MIT News.",
+            "url": "https://californianewstimes.com/new-ai-tool-calculates-materials-stress-and-strain-based-on-photos/301074/"
+        }
+    ]
+}
