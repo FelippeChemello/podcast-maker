@@ -18,8 +18,6 @@ import {
 } from './options';
 import { error, log } from './utils/log';
 
-// Ajustar google.js para receber via webserver o code e printar na tela as instruções
-
 const program = new Command();
 program
     .option('-b, --build', 'Create video and upload to YouTube')
