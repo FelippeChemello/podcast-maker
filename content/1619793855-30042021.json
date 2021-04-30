@@ -1,0 +1,51 @@
+{
+    "title": "“Perda total” no Tribunal do RS / Assinatura por PIX / Sincronização entre dispositivos no Edge",
+    "fps": 30,
+    "timestamp": 1619793855,
+    "date": "30/04/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "“Perda total” no Tribunal de Justiça do Rio Grande do Sul após ataque ransomware: os hackers teriam comprometido todos os 12 mil servidores do tribunal e todos os arquivos do Word e Excel estariam contaminados com malware. Em um áudio do WhatsApp, obtido pelo site CISO Advisor, uma pessoa próxima afirma que um dos funcionários de TI do tribunal “estaria quase infartando” após o que seria considerado uma “perda total” dos servidores.",
+            "url": "https://www.uol.com.br/tilt/noticias/redacao/2021/04/30/tj-rs-sofre-ataque-hacker-sem-precedentes-diz-desembargador.htm"
+        },
+        {
+            "text": "Signal planeja lançar serviços de e-mail e armazenamento em nuvem: em entrevista ao site Tilt do UOL, Moxie Marlinspike, CEO do aplicativo de mensagens, afirmou que as duas funcionalidades colocarão criptografia e privacidade em primeiro lugar. Marlinspike também acredita que se o Signal continuar sua recente trajetória de instalações poderá superar o WhatsApp, tornando-se o mensageiro mais utilizado.",
+            "url": "https://www.uol.com.br/tilt/noticias/redacao/2021/04/29/quem-e-o-criador-do-signal-app-que-quer-substituir-o-whatsapp.htm"
+        },
+        {
+            "text": "Clicksign lança assinatura de documentos por PIX: para autenticar o documento, basta enviar um PIX de 1 centavo através de um QR Code. O sistema verifica se o PIX veio do mesmo CPF vinculado ao documento, validando a assinatura eletrônica. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/437695/pix-e-usado-pela-clicksign-para-autenticar-assinatura-eletronica/"
+        },
+        {
+            "text": "Nova Iorque desiste de utilizar “cão-robô” para patrulhar cidade: o “Digidog”, uma versão adaptada do robô Spot da Boston Dynamics, não foi bem recebido por políticos e pela própria população. O Digidog era utilizado em operações de inteligência e contraterrorismo. As informações são do jornal New York Post.",
+            "url": "https://abc7ny.com/digidog-robodog-robot-dog-nypd/10559908/"
+        },
+        {
+            "text": "Cientistas chineses criam dessalinizador de água altamente eficiente: o dispositivo contém uma camada de titânio que absorve a energia solar, vaporizando rapidamente a água do mar. Além de ser eficiente e barato de se produzir, o dispositivo produz água potável com menos de 2 miligramas de sal por litro, cerca de 1% da salinidade da água comum. As informações são do site da AIP Publishing.",
+            "url": "https://publishing.aip.org/publications/latest-content/solar-powered-desalination-unit-shows-great-promise/"
+        },
+        {
+            "text": "Samsung e Amazon apresentam resultados trimestrais: a Samsung registrou lucros de 8,4 bilhões de dólares nos primeiros três meses deste ano, crescimento de 4% puxado por melhores vendas de smartphones e TVs. A Amazon acumulou 8,1 bilhões no período, alta de 224%, com o crescimento na receita da AWS, comércio eletrônico e mais assinantes do serviço de streaming Prime Video. As informações são das páginas de relação com investidores de cada companhia.",
+            "url": "https://www.infomoney.com.br/mercados/amazon-tem-receita-de-mais-de-us-100-bilhoes-pela-primeira-vez-no-4o-trimestre-de-2020/"
+        },
+        {
+            "text": "Hackers por trás do ransomware Babuk decidem encerrar operações: com o recente ataque ao Departamento de Polícia de Washington, nos EUA, o grupo afirma ter atingido seu último objetivo. O código-fonte do malware será disponibilizado ao público, fato que os hackers esperam contribuir para o desenvolvimento de RaaS ('ransomware como serviço' na sigla em inglês) por outros grupos criminosos. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/babuk-ransomware-readies-shut-down-post-plans-to-open-source-malware/"
+        },
+        {
+            "text": "Facebook se une à Rust Foundation: a companhia afirma estar ansiosa em tornar o Rust uma linguagem dominante na programação de sistemas. O Facebook possui uma equipe dedicada ao Rust, responsável pelo crescimento do uso da linguagem dentro da empresa. As informações são do blog Facebook for Developers.",
+            "url": "https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/"
+        },
+        {
+            "text": "Microsoft Edge agora ganha sincronização entre dispositivos: o recurso introduzido pelo Chrome e depois por outros navegadores, finalmente chega ao Edge tornando a solução da Microsoft cada vez mais atraente para usuários de todos os sistemas operacionais. As informações são do blog Diolinux",
+            "url": "https://diolinux.com.br/aplicativos/novidade-no-microsoft-edge.html"
+        }
+    ]
+}
