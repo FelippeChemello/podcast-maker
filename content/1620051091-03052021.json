@@ -1,0 +1,55 @@
+{
+    "title": "TJRS continua em pânico / Celular dobrável da Apple / Stories chegam ao Spotify",
+    "fps": 30,
+    "timestamp": 1620051091,
+    "date": "03/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Situação continua de “pânico” no TJRS: segundo reportagem do Tecnoblog, se o Tribunal de Justiça do Rio Grande do Sul não pagar 5 milhões de dólares ao grupo de ransomware REvil até o dia 12 de maio, além de dobrar o valor cobrado pelo resgate e divulgar parte dos dados roubados, os sistemas do órgão poderão ser alvo de ataques DDoS. Áudios mostram que a equipe de TI do tribunal sofreu de um “ataque histérico” enquanto tentava restaurar os sistemas afetados. Ainda não está claro se há backup dos dados, mas o Tribunal afirma que as equipes técnicas estão atuando na contenção e restauração dos sistemas.",
+            "url": "https://tecnoblog.net/437846/ataque-hacker-derruba-sistemas-tjrs-ransomware/"
+        },
+        {
+            "text": "Nova versão da vulnerabilidade Spectre: pesquisadores das Universidades de Virginia e California San Diego descobriram uma nova variante que atinge todos os processadores x86 existentes da Intel e AMD. O exploit tem como alvo uma estrutura de cache de baixo nível e a mitigação do problema trará uma degradação severa de desempenho, acreditam os pesquisadores. As informações são do site TechPowerUp.",
+            "url": "https://www.techpowerup.com/281718/new-spectre-vulnerability-version-beats-all-mitigations-performance-to-badly-degrade-after-the-fix"
+        },
+        {
+            "text": "Apple deverá lançar smartphone com tela dobrável até 2023: a previsão é do analista Ming-Chi Kuo, um dos mais respeitados do setor. Kuo acredita que dispositivos dobráveis serão o futuro, eliminando a diferenciação entre smartphones, tablets e laptops. As informações são do site MacRumors.",
+            "url": "https://www.macrumors.com/2021/05/02/kuo-8-inch-foldable-iphone-2023/"
+        },
+        {
+            "text": "Câmara aprova criação da carteira de vacinação digital: o “Cartão Nacional de Vacinação Online” (Projeto de Lei 468/2019) permite o acesso ao histórico de vacinação por meio de aplicativos em dispositivos móveis e viabiliza a emissão do Certificado Internacional de Vacinação. O cadastro será realizado pelo Ministério da Saúde por meio do CPF. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/30/04/2021/camara-aprova-a-carteira-digital-de-vacinacao/"
+        },
+        {
+            "text": "Vendedor terá que indenizar Mercado Livre após sofrer golpe: a Justiça entendeu que ao decidir negociar a venda com o suposto comprador por fora do sistema da plataforma, o vendedor assumiu o risco de fraude. Além de não ser indenizado, o vendedor, que entrou com a ação contra o Mercado Livre, deverá pagar 12% do valor da causa à empresa por conta de honorários advocatícios. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/437945/mercado-livre-nao-e-culpado-por-golpe-em-vendedor-decide-justica/"
+        },
+        {
+            "text": "WhatsApp vai permitir a revisão de mensagens de voz: um novo botão “Review” foi incluído na versão beta do aplicativo, permitindo que se escute uma mensagem de voz antes de enviá-la. O WhatsApp também está testando um outro recurso que permite a reprodução de mensagens de voz em diferentes velocidades, facilitando a escuta de áudios longos. As informações são do site WABetaInfo.",
+            "url": "https://wabetainfo.com/whatsapp-is-developing-a-review-tool-for-voice-messages/"
+        },
+        {
+            "text": "IA vence torneio de palavras cruzadas: o “Dr. Fill”, desenvolvido pelo astrofísico Matt Ginsberg, foi treinado com textos extraídos da Wikipedia e um banco de dados com dicas para solução de palavras cruzadas. A máquina, no entanto, não pôde receber o prêmio de 3 mil dólares, entregue ao melhor humano da competição, Tyler Hinman. As informações são do site Slate.",
+            "url": "https://slate.com/technology/2021/04/american-crossword-puzzle-tournament-dr-fill-artificial-intelligence.html"
+        },
+        {
+            "text": "Vândalos destroem carregador de veículos elétricos com carne moída na Alemanha: os conectores dos carregadores precisaram ser substituídos após serem “entupidos” com carne. A companhia elétrica da cidade relata casos crescentes de vandalismo contra instalações de carregamento de veículos elétricos na área. As informações são do site Teslarati.",
+            "url": "https://www.teslarati.com/tesla-supercharger-icing-vs-germany-meat-prank-pictures/"
+        },
+        {
+            "text": "Empresa lança órtese robótica para pessoas com problemas nos joelhos: o “Ascend” da Roam Robotics é um dispositivo não-cirúrgico, preso ao joelho de pacientes, melhorando a mobilidade e aliviando dores. O sistema se ajusta automaticamente, seja para subir e descer escadas ou para se levantar e sentar. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-good-robots-for-bad-knees"
+        },
+        {
+            "text": "Conteúdo de áudio ao vivo é o novo “Stories”, afirma CEO do Spotify: Daniel Ek afirma que o recurso, popularizado pelo aplicativo Clubhouse, eventualmente será adaptado de alguma forma em todas as plataformas, assim como aconteceu com os Stories, lançado originalmente no Snapchat. Atualmente o Facebook, Instagram, Reddit, Twitter, Discord, Telegram e LinkedIn já anunciaram planos em adicionar o recurso aos seus aplicativos. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/04/29/spotify-ceo-says-live-audio-content-is-the-next-stories/"
+        }
+    ]
+}
