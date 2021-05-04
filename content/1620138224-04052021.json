@@ -1,0 +1,55 @@
+{
+    "title": "Plano multibilionário de Elon Musk / Simulação catastrófica da NASA / Carros autônomos melhores que humanos",
+    "fps": 30,
+    "timestamp": 1620138224,
+    "date": "04/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Agradecimento ao Filipe Deschamps: gostaríamos de agradecer ao Filipe Deschamps pelo reconhecimento de nosso projeto e salientar que na descrição estão os links para a newsletter criada por ele.",
+            "url": "https://links.codestack.me/newsletter-filipe"
+        },
+        {
+            "text": "Plano de compensação de Elon Musk na Tesla pode chegar a 100 bilhões de dólares: o megaempresário, famoso por não receber um salário tradicional da montadora, receberá o valor (através de ações da companhia) se a Tesla atingir determinadas metas, como um valor de mercado superior a 1 trilhão de dólares (a Tesla vale cerca de 600 bi hoje). Musk declarou que planeja utilizar esse dinheiro para financiar a construção de uma civilização em Marte. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/05/03/elon-musk-tesla-compensation-could-reach-30-billion/"
+        },
+        {
+            "text": "Cientistas não conseguem evitar impacto de asteroide na Terra durante simulação realizada pela NASA: não haveria tempo hábil para montar uma operação para desvio de trajetória, mesmo se o objeto fosse descoberto com seis meses de antecedência. Entretanto, uma missão bem sucedida com dispositivos nucleares poderia reduzir significativamente os danos do impacto dependendo do tamanho do asteroide. Na simulação, o corpo celeste atingiu a fronteira entre a Alemanha e Áustria, com a evacuação da região a única solução recomendada. As informações são do site ScienceAlert.",
+            "url": "https://www.businessinsider.com/nasa-simulated-asteroid-couldnt-stop-impact-europe-2021-5"
+        },
+        {
+            "text": "Maior joalheria do mundo decide utilizar apenas diamantes produzidos em laboratório: os diamantes utilizados nas peças da Pandora serão criados sinteticamente a partir de um processo industrial que utilizará 100% de energia renovável a partir do ano que vem. As informações são da Bloomberg.",
+            "url": "https://news.yahoo.com/world-biggest-jewelry-maker-no-054500417.html"
+        },
+        {
+            "text": "Metalúrgica brasileira quer desenvolver novo método para reciclagem de baterias de lítio: em parceria com a USP, a Tupy irá se concentrar na técnica de hidrometalurgia, processo em que a matéria-prima é dissolvida em soluções ácidas para extração do lítio. Esse método, ao contrário da pirometalurgia (no qual as baterias são incineradas), gera menos emissões de carbono e possibilita uma maior recuperação de materiais. As informações são da página de imprensa da Tupy.",
+            "url": "https://www.tupy.com.br/portugues/imprensa/noticias.php?id_idioma=3&ntc_id=1190"
+        },
+        {
+            "text": "Sony sofre nova derrota judicial e terá que desbloquear PS5 banido: o Tribunal de Justiça de São Paulo confirmou a obrigação da empresa em reativar o console de um usuário que compartilhou jogos com outras pessoas, situação considerada abusiva e contra o Código de Defesa do Consumidor. A Sony ainda precisará pagar 1,5 mil reais em honorários aos advogados do dono do console, além de arcar com os custos do processo. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/438340/sony-recorre-mas-e-obrigada-a-desbloquear-ps5-banido-em-sp/"
+        },
+        {
+            "text": "Uber vai desenvolver veículos elétricos próprios: a empresa está convidando motoristas do serviço a contribuir com o processo de design, que deverá ser finalizado até o final deste ano. A empresa firmou uma parceria com a Arrival, fabricante de veículos elétricos comerciais que pretende substituir grandes linhas de montagem em favor de microfábricas altamente automatizadas. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/03/uber-and-arrival-partner-to-create-an-ev-for-ride-hail-drivers/"
+        },
+        {
+            "text": "Novo dispositivo de computação simula o modo de aprendizagem humana: “transistores sinápticos” imitam a plasticidade do cérebro ao processar e armazenar dados simultaneamente, construindo memórias e aprender ao longo do tempo. O circuito foi condicionado a associar luz com pressão, dois estímulos físicos não relacionados, semelhante a como o famoso fisiologista Ivan Pavlov condicionou cães a associarem um sino à comida. As informações são da página de imprensa da Northwestern University.",
+            "url": "https://news.northwestern.edu/stories/2021/04/new-brain-like-computing-device-simulates-human-learning/"
+        },
+        {
+            "text": "Veículos autônomos descobrem sozinhos como dirigir com mais segurança: a equipe técnica da Cruise notou que o seu sistema de direção autônoma começou a dar mais espaço a ciclistas que se aproximavam da traseira do veículo para realizar uma ultrapassagem pela direita, comportamento que não havia sido previsto durante o processo de desenvolvimento, e que dificilmente provocaria a reação de um motorista humano. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/cars-that-think/transportation/self-driving/autonomous-cars-teach-themselves-to-drive-better-than-humans"
+        },
+        {
+            "text": "Google acusa Apple de manter navegadores no iOS artificialmente defasados: Alex Russell, engenheiro de software do Chrome, afirma que o WebKit, única engine utilizada em dispositivos móveis da Apple, atrasa consistentemente a implementação de recursos importantes, garantindo que a Web nunca seja uma alternativa confiável às ferramentas proprietárias da companhia e sua loja de aplicativos. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/05/03/ios-browsers-underpowered-apple/"
+        }
+    ]
+}
