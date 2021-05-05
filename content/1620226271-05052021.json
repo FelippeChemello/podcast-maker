@@ -1,0 +1,55 @@
+{
+    "title": "Instagram bane Signal / Tesla hackeado por drone / Trump lança blog",
+    "fps": 30,
+    "timestamp": 1620226271,
+    "date": "05/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Instagram bane conta de anúncios do Signal: o aplicativo de mensagens privadas utilizaria as informações disponíveis a anunciantes para criar campanhas mostrando como a rede social sabe de detalhes da vida de cada usuário. Uma dos anúncios banidos dizia: “Você recebeu este anúncio porque você é uma engenheira química que gosta de K-pop. Este anúncio usou sua localização para ver que está em Berlim. E você tem um novo bebê. E acabou de se mudar. E você está sofrendo com os exercícios de gravidez ultimamente”. As informações são do blog do Signal.",
+            "url": "https://signal.org/blog/the-instagram-ads-you-will-never-see/"
+        },
+        {
+            "text": "Pesquisadores utilizam drone para hackear Tesla remotamente: o ataque via Wi-Fi atinge qualquer modelo da marca, possibilita a abertura de portas, uso do sistema de entretenimento e ar condicionado, e ainda modifica os modos de direção e aceleração, tudo a uma distância de até 100 metros. A Tesla já resolveu o problema. As informações são do site SecurityWeek.",
+            "url": "https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit"
+        },
+        {
+            "text": "Facebook mantém banimento da conta de Donald Trump: o Conselho de Supervisão da rede social decidiu que Trump violou padrões da comunidade, mas discordou sobre a punição por tempo indeterminado e sem regras claras para quando a conta será restaurada. O Facebook precisará decidir sobre esses critérios nos próximos seis meses. Trump anunciou ontem o lançamento de um blog pelo qual usuários poderão curtir e compartilhar postagens do ex-presidente no Twitter e Facebook. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/technology-56985583"
+        },
+        {
+            "text": "WhatsApp Pay começa a funcionar oficialmente no Brasil: o recurso, que será lançado gradualmente no País, permitirá o envio e recebimento de valores entre pessoas físicas sem a cobrança de taxas, cadastrando-se um cartão com a função débito habilitada. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/439095/whatsapp-pay-chega-ao-brasil-para-pagamentos-via-nubank-itau-e-mais/"
+        },
+        {
+            "text": "Fibra óptica já é a internet fixa mais utilizada no Brasil: 51,5% dos contratos de banda larga contabilizados pela Anatel utilizam a modalidade FTTH (fibra até a casa), ultrapassando conexões por cabo, DSL, rádio e satélite. A Vivo é a líder no segmento, com 20,1% do mercado, seguida pela Oi (14,9%) e Brisanet (3,6%). As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/436764/oi-fibra-ultrapassa-numero-de-clientes-da-banda-larga-velox/"
+        },
+        {
+            "text": "Computadores da Nasdaq travam com preço muito alto de ação: a bolsa de valores precisou suspender a informação sobre preços da Berkshire Hathaway, do famoso investidor Warren Buffett, após cada ação da empresa atingir o valor limite que os sistemas da bolsa conseguem computar, 429.496,7295 dólares (cerca de 2,3 milhões de reais). A Nasdaq vai realizar uma atualização até o final deste mês para resolver o problema. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548"
+        },
+        {
+            "text": "Foguete fora de controle da China deve cair na Terra nos próximos dias: o foguete que lançou com sucesso o primeiro módulo da nova estação espacial chinesa está caindo da órbita terrestre de forma incontrolável. Segundo especialistas, há uma pequena chance de que partes do foguete atinjam uma área povoada. As informações são da CBC News.",
+            "url": "https://www.cbc.ca/news/science/chinese-rocket-reentry-1.6013654"
+        },
+        {
+            "text": "Parlamento belga suspende debate sobre Uigures na China após ataque DDoS: sites governamentais, acadêmicos e de serviços de TI na Bélgica ficaram fora do ar por várias horas. O momento do ataque coincidiu com uma reunião do comitê parlamentar belga sobre a possibilidade de acusar a China de genocídio em relação ao tratamento dado aos muçulmanos Uigures no país. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/05/belnet_belgium_ddos/"
+        },
+        {
+            "text": "Empresa de segurança estima que 0,5% dos aplicativos móveis expõem chaves API da AWS: a BeVigil observou que uma ampla gama de empresas, de grandes a pequenas, tem as chaves API do serviço codificadas nos pacotes dos aplicativos. A empresa identificou o problema em um app de previsão do tempo com mais de 100 milhões de instalações, da Adobe, com 10 milhões, e Hootsuite, com 5 milhões. As informações são do blog da BeVigil.",
+            "url": "https://bevigil.com/blog/mobile-apps-exposing-aws-keys-affect-100m-users-data/"
+        },
+        {
+            "text": "Firefox volta ao pódio de navegadores mais utilizados: em abril, o Firefox registrou uma fatia 3,59% do mercado, terceira posição no ranking de navegadores. O Chrome ainda domina, com 64,47% do mercado, seguido por Safari, com 18,69%. As informações são do site StatCounter.",
+            "url": "https://canaltech.com.br/navegadores/mozilla-firefox-volta-ao-podio-dos-navegadores-mais-usados-do-mundo-184132/"
+        }
+    ]
+}
