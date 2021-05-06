@@ -1,0 +1,55 @@
+{
+    "title": "StarShip realiza o primeiro pouso bem sucedido / Programação visual da Nintendo / Trojan bancário brasileiro",
+    "fps": 30,
+    "timestamp": 1620310888,
+    "date": "06/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Nintendo lança novo jogo que ensina a programar videogames visualmente: o “Game Builder Garage” promete combinar conceitos básicos de design de jogos com programação visual. O jogo possui dezenas de componentes para controlar diversos recursos do Nintendo Switch, desde joysticks e botões, até o controle da câmera infravermelha. As informações são do site da Nintendo.",
+            "url": "https://www.nintendo.com/games/detail/game-builder-garage-switch/"
+        },
+        {
+            "text": "Site de vídeos controversos LiveLeak fecha após 15 anos: foi lançado em seu lugar o “ItemFix”, site para compartilhamento e criação de conteúdos virais, com diversas regras para publicação. As informações são do site TechStartups.",
+            "url": "https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/"
+        },
+        {
+            "text": "ESET alerta sobre trojan bancário direcionado exclusivamente para o Brasil: o “Ousaban” é distribuído através de imagens (a maioria delas obscenas) e usa pop-ups de sobreposição para roubar credenciais e outras informações adicionais de instituições financeiras e serviços de e-mail populares. O malware é escrito em Delphi e mostra sinais de desenvolvimento ativo e contínuo. As informações são da WeLiveSecurity.",
+            "url": "https://www.welivesecurity.com/br/2021/05/05/ousaban-trojan-busca-roubar-dados-de-login-bancario-e-de-e-mails/"
+        },
+        {
+            "text": "Starship da SpaceX faz primeiro lançamento e pouso com sucesso: o décimo quinto protótipo do foguete totalmente reutilizável da companhia subiu a uma altura de 10 quilômetros e realizou uma manobra de reorientação, pousando suavemente na vertical. O Starship é um sistema projetado para transportar tripulação e carga para a órbita da Terra, Lua e Marte. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/05/spacex-successfully-launches-and-lands-its-starship-prototype-rocket/"
+        },
+        {
+            "text": "Google lança Woolaroo, app para preservar línguas indígenas: o aplicativo de código aberto permite que comunidades preservem sua linguagem e adicionem gravações de áudio para ajudar na pronúncia de palavras. Utilizando o Google Cloud Vision API, o app ajuda a identificar objetos junto com sua pronúncia no idioma nativo. As informações são do blog do Google.",
+            "url": "https://blog.google/outreach-initiatives/arts-culture/woolaroo-new-tool-exploring-indigenous-languages/"
+        },
+        {
+            "text": "Vulnerabilidade em chips da Qualcomm atinge 40% dos celulares mundiais: a falha, que já foi corrigida, estava presente até mesmo nos mais recentes chips 5G, permitindo que invasores capturassem mensagens de texto, histórico de chamadas e escutassem conversas em smartphones Android de fabricantes como Samsung e Xiaomi. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/"
+        },
+        {
+            "text": "Startup lança novo LiDAR: o sensor da Argo AI possui alcance de 400 metros de distância, com qualidade fotorrealística de alta resolução e capacidade de detectar objetos escuros ou com baixa refletividade. O novo sensor deverá ser utilizado em futuros veículos da Ford e VW. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/04/argos-new-lidar-sensor-could-help-ford-vw-deploy-self-driving-vehicles-at-scale/"
+        },
+        {
+            "text": "Uber e Nintendo apresentam resultados: o Uber registrou prejuízo de 108 milhões de dólares no primeiro trimestre de 2021, uma redução de 96% em comparação às perdas de 2,9 bilhões no mesmo período do ano passado. O destaque ficou com o crescimento de 166% nas receitas do Uber Eats. A Nintendo viu seus lucros operacionais subirem 81% no ano, para 6 bilhões de dólares, o maior da história da companhia, após vendas 44% mais altas do Switch. As informações são das páginas de relações com investidores das duas companhias.",
+            "url": "https://nintendoboy.com.br/2021/02/resultados-financeiros-da-nintendo-nintendo-switch-vendeu-7987-milhoes-de-unidades-no-mundo-inteiro-vendas-de-software-e-mais/"
+        },
+        {
+            "text": "IBM anuncia primeiro chip com tecnologia de 2 nanômetros: o processo consegue atingir uma densidade de 333 milhões de transistores por milímetro quadrado, melhorando o desempenho em 45% utilizando a mesma quantidade de energia de processadores de 7nm. As informações são do site AnandTech.",
+            "url": "https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip"
+        },
+        {
+            "text": "Projeto no Kickstarter quer trazer o Visual Basic de volta: o RAD Basic, do desenvolvedor Carles Royan, promete ser uma solução 100% compatível com o Visual Basic 6, descontinuado em 1998. O projeto tem a meta de levantar ao menos 60 mil euros. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/06/vb6_redux/"
+        }
+    ]
+}
