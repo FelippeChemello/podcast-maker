@@ -1,0 +1,55 @@
+{
+    "title": "STF hackeado / Reações nucleares em Chernobyl / WhatsApp volta atrás em política de privacidade",
+    "fps": 30,
+    "timestamp": 1620400001,
+    "date": "07/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "STF teria sofrido ataque hacker: duas fontes confirmaram ao site “O Bastidor” a tentativa de invasão. O site do Supremo está fora do ar desde a noite desta quinta-feira. Uma das hipóteses é um ataque por “SQL injection”, mas sua extensão ainda seria desconhecida. No entanto, segundo apurou o Valor Econômico, a assessoria da Corte apenas afirma que está sendo realizada uma manutenção para garantir a segurança do portal e das informações do Tribunal, e uma invasão hacker seria considerada uma possibilidade remota.",
+            "url": "https://obastidor.com.br/investigacao/supremo-sofre-ataque-hacker-e-sai-do-ar-837"
+        },
+        {
+            "text": "WhatsApp volta atrás e não vai mais desativar contas que não aceitarem nova política de privacidade: o mensageiro, no entanto, continuará a mostrar lembretes até a aceitação dos novos termos de uso. Segundo a empresa, a grande maioria das pessoas já aceitou a atualização das políticas de privacidade e compartilhamento de dados com o Facebook. As informações são do site TheNextWeb.",
+            "url": "https://thenextweb.com/news/whatsapp-policy-may-15-deactivate-account"
+        },
+        {
+            "text": "Reações nucleares estão sendo reativadas novamente em Chernobyl, 35 anos após acidente: um dos cientistas que monitora o local afirmou que a situação é similar a “brasas em uma churrasqueira”. Apesar dos níveis de radiação estarem crescendo lentamente, ainda existem muitas incertezas e não é possível descartar um novo acidente nos próximos anos. As informações são do site da revista Science.",
+            "url": "https://www.sciencemag.org/news/2021/05/nuclear-reactions-reawaken-chernobyl-reactor"
+        },
+        {
+            "text": "Alerta para golpe do WhatsApp voltado ao Dia das Mães: a mensagem promete um falso kit do Boticário, levando a um link malicioso que pede informações como CPF, nome e endereço da vítima, podendo ainda instalar malware no smartphone. As informações são do Olhar Digital.",
+            "url": "https://olhardigital.com.br/2021/05/07/internet-e-redes-sociais/golpe-de-dia-das-maes-no-whatsapp-criminosos-usam-kit-falso-do-boticario/"
+        },
+        {
+            "text": "Supermercado na Polônia vai testar IA para reduzir desperdício de alimentos: o sistema irá baixar automaticamente o preço de alimentos perecíveis à medida que passam mais tempo nas prateleiras da loja. Segundo a Wasteless, empresa que desenvolveu a tecnologia, o sistema reduz o desperdício de alimentos em pelo menos 40%. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/wasteless-metro-partnership-193233098.html"
+        },
+        {
+            "text": "Google vai ativar autenticação em dois fatores automaticamente para novas contas: o anúncio foi realizado no “Dia Mundial da Senha“, que ocorreu ontem, dia 6 de maio. A empresa afirma que criar uma senha complexa não é o suficiente e irá utilizar os dispositivos móveis de usuários para realizar a segunda verificação. As informações são do blog do Google.",
+            "url": "https://www.engadget.com/google-two-factor-authentication-161224608.html"
+        },
+        {
+            "text": "Starlink ameaça cortar internet de usuário após download ilegal de série de TV: o serviço de internet orbital de Elon Musk alertou que baixar materiais protegidos por direitos autorais sem uma licença pode levar à rescisão do serviço e ação judicial. As informações são do site PCMag.",
+            "url": "https://www.pcmag.com/news/dont-try-to-pirate-movies-on-spacexs-starlink"
+        },
+        {
+            "text": "Nova Iorque pode banir mineração de moedas digitais: a nova legislação criaria uma moratória de 3 anos para esse tipo de atividade e estudos seriam realizados para entender como o processo de mineração desses ativos afeta o clima e o meio ambiente local. As informações são do site Gizmodo.",
+            "url": "https://earther.gizmodo.com/new-bill-would-ban-bitcoin-mining-across-new-york-state-1846828277"
+        },
+        {
+            "text": "Software pirata leva a ataque ransomware em instituto europeu de pesquisa biomolecular: um aluno havia baixado um software de visualização de dados “crackeado” alguns dias antes do ataque. O instituto, que não foi identificado, perdeu uma semana de dados de pesquisa. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/a-student-pirating-software-led-to-a-full-blown-ryuk-ransomware-attack/"
+        },
+        {
+            "text": "Programa que conserta e doa computadores já entregou mais de 20 mil equipamentos: o “Computadores para Inclusão” reaproveita máquinas de repartições públicas que seriam descartadas para escolas e bibliotecas. Os centros de recondicionamento também capacitam jovens em situação de vulnerabilidade para executar as ações. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-05/programa-conserta-e-doa-computadores-escolas-e-bibliotecas"
+        }
+    ]
+}
