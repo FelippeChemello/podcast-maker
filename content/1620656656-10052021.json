@@ -1,0 +1,59 @@
+{
+    "title": "MPF ameaça WhatsApp / EUA decretam emergência / Drones que “fazem chover”",
+    "fps": 30,
+    "timestamp": 1620656656,
+    "date": "10/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Ministério Público Federal, SENACON, CADE e ANPD recomendam que WhatsApp adie nova política de privacidade: os órgãos também sugerem que não se restrinja o acesso às funcionalidades do aplicativo, conduta considerada irreversível e com potencial altamente danoso. O MPF ameaçou entrar com uma ação judicial para garantir o acesso de usuários caso o WhatsApp não responda ou tome providências até esta segunda-feira, dia 10 de maio. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/07/05/2021/nova-politica-do-whatsapp-pode-violar-privacidade-apontam-cade-senacon-mpf-e-anpd/"
+        },
+        {
+            "text": "EUA decretam estado de emergência após ataque ransomware ao maior oleoduto do país: o Colonial Pipeline escoa 45% de todo os combustíveis refinados como gasolina, querosene de aviação e óleo para aquecimento na costa leste dos EUA. A gangue russa DarkSide estaria por trás do ataque. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/10/colonial_pipeline_ransomware/"
+        },
+        {
+            "text": "Drones que “fazem chover” serão testados nos Emirados Árabes Unidos: os drones realizam uma descarga elétrica dentro de nuvens, fazendo gotas de água se aglomerarem e caírem como chuva. A técnica é diferente da tradicional semeadura de nuvens, na qual partículas sólidas, como sal ou iodeto de prata, são depositadas para estimular a precipitação. As informações são da página de imprensa da Universidade de Bath.",
+            "url": "https://www.bath.ac.uk/announcements/let-it-rain-boosting-showers-where-water-is-scarce/"
+        },
+        {
+            "text": "STF contém invasão aos sistemas do Tribunal: o acesso “fora do padrão” foi repelido enquanto ainda estava em andamento e apenas dados públicos e características técnicas do ambiente foram acessados, sem o comprometimento de informações sigilosas. A equipe técnica do Tribunal ainda trabalha para retomada gradual dos serviços. As informações são da página de imprensa do STF.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&UserActiveTemplate=mobile&infoid=56882&sid=18"
+        },
+        {
+            "text": "Anatel realiza maior apreensão de produtos irregulares da história: apenas no primeiro trimestre deste ano, foram apreendidos cerca de 600 mil produtos irregulares de telecomunicações, como baterias de celular, modems e outros equipamentos de radiação restrita. Os produtos, no entanto, ainda podem ser regularizados desde que aprovados em processos de certificação e não sejam piratas. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/07/05/2021/anatel-faz-a-maior-apreensao-de-produtos-irregulares-da-historia/"
+        },
+        {
+            "text": "WhatsApp esclarece o que acontecerá com quem não aceitar novos termos de uso após o dia 15 de maio: um lembrete persistente tomará conta de toda a tela do aplicativo, impedindo o acesso à lista de conversas, mas ainda permitindo o recebimento de mensagens de texto e chamadas. Depois de algumas semanas com a funcionalidade limitada, não será mais possível receber mensagens, chamadas e notificações. Apesar de efetivamente bloquear o acesso ao serviço de mensagens, o WhatsApp afirma que não excluirá a conta de quem não aceitar a atualização. As informações são da página de ajuda do WhatsApp.",
+            "url": "https://faq.whatsapp.com/general/security-and-privacy/what-happens-when-our-terms-and-privacy-policy-updates-take-effect/?lang=pt_br"
+        },
+        {
+            "text": "SpaceX vai lançar missão lunar paga apenas com moeda digital: a missão “DOGE-1 Mission to the Moon” irá lançar um satélite lunar no primeiro trimestre de 2022 e, segundo a companhia, estabelecerá a base para o comércio interplanetário com o uso de moedas digitais. As informações são do perfil de Elon Musk no Twitter e do site Cision Newswire.",
+            "url": "https://www.cnbc.com/2021/05/09/spacex-accepts-dogecoin-payment-for-doge-1-mission-to-the-moon.html"
+        },
+        {
+            "text": "Goldman Sachs desenvolve novo algoritmo quântico para negociação de ações na bolsa de valores: a nova técnica, aliada a computadores quânticos que deverão estar comercialmente disponíveis entre 5 e 10 anos, permitirão que os traders do banco realizem simulações de Monte Carlo, avaliando risco e preços, em tempo real. Atualmente, esses cálculos são executados apenas uma vez durante a noite porque consomem muitos recursos computacionais, forçando os traders a trabalhar com dados desatualizados durante o dia. As informações são da HPCwire.",
+            "url": "https://www.hpcwire.com/off-the-wire/goldman-sachs-and-qc-ware-bring-new-way-to-price-risky-assets-within-reach-of-quantum-computers/"
+        },
+        {
+            "text": "Departamento de Defesa dos EUA lança desafio a hackers éticos: todos os sistemas e aplicativos do departamento voltados ao público agora poderão ser alvos para investigação em um novo programa de recompensa. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/10/in_brief_security/"
+        },
+        {
+            "text": "Pesquisadores criam nanofitas de grafeno que poderão substituir fibra óptica um dia: as menores fitas de grafeno já criadas, com cerca de 12 nanômetros de largura, agem como minúsculas antenas que interagem com a luz, podendo ser utilizadas para modular sinais de telecomunicações em velocidades ultra rápidas. As informações são da Universidade de Wisconsin-Madison.",
+            "url": "https://news.wisc.edu/flexible-easy-to-scale-nanoribbons-move-graphene-toward-use-in-tech-applications/"
+        },
+        {
+            "text": "GitHub restaura repositório com código do jogo GTA 3 reconstruído através de engenharia reversa: os mantenedores do repositório argumentaram que o código não é idêntico ao do jogo original, contendo uma série de mudanças e melhorias, e portanto não violaria a propriedade intelectual de quem o produziu. O código está disponível no repositório do Github “/td512/re3”. As informações são do site TorrentFreak.",
+            "url": "https://torrentfreak.com/github-restores-reverse-engineered-gta-code-following-dmca-counter-notice-210507/"
+        }
+    ]
+}
