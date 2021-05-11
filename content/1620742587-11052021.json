@@ -1,0 +1,55 @@
+{
+    "title": "CEO do Peixe Urbano some / Entrega de cerveja por drone / Gangue DarkSide faz anúncio",
+    "fps": 30,
+    "timestamp": 1620742587,
+    "date": "11/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Procon procura pelo responsável do Peixe Urbano: o site de cupons de desconto foi notificado ontem pelo órgão de proteção ao consumidor após o CEO da companhia não ser mais encontrado. O Peixe Urbano saiu do ar em janeiro deste ano e o CEO da empresa teria avisado os funcionários que não teria dinheiro para pagar rescisões e estaria sem dinheiro até mesmo para pagar os servidores que hospedavam o site. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/440325/peixe-urbano-e-notificado-pelo-procon-sp-site-saiu-do-ar-e-ceo-sumiu/"
+        },
+        {
+            "text": "Ambev realiza primeira entrega de cerveja por drone: em um programa de testes, o drone percorreu 2km até um condomínio de casas em Jaguariúna, interior de São Paulo, trajeto realizado em menos de 2 minutos. O próximo teste contará com um novo drone, capaz de voar por até 20Km, levando uma carga de 8Kg. As informações são do portal Exame.",
+            "url": "https://economia.uol.com.br/noticias/redacao/2021/05/06/ambev-realiza-primeiro-teste-de-delivery-com-drones.htm"
+        },
+        {
+            "text": "Gangue de ransomware DarkSide anuncia que realizará análise preliminar antes de permitir novos ataques: a decisão veio após um de seus “parceiros” invadir e bloquear o sistema de oleodutos que fornece 45% de todo o combustível utilizado na costa leste dos EUA, obrigando o governo a decretar estado de emergência. Em um comunicado, o grupo criminoso se declarou apolítico, não possuindo ligação com nenhum governo. Seu objetivo primário seria apenas ganhar dinheiro com a cobrança de resgates e quer evitar consequências sociais de seus ataques no futuro. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/darkside-ransomware-will-now-vet-targets-after-pipeline-cyberattack/"
+        },
+        {
+            "text": "PIX Saque e PIX Troco são previstos para o segundo semestre deste ano: as modalidades têm como vantagens levar consumidores a estabelecimentos e diminuir a quantidade de dinheiro em espécie nos caixas de lojas no final do dia. O PIX Saque servirá para retiradas de dinheiro, reduzindo a necessidade de caixas eletrônicos, e o PIX Troco é condicionado a uma compra, na qual a pessoa paga um valor maior e recebe a diferença em dinheiro. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/440447/banco-central-consulta-publica-pix-saque-troco/"
+        },
+        {
+            "text": "Robô Aurora começa a ser testado em hospital de Pernambuco: desenvolvido por pesquisadores brasileiros, o Aurora detém inteligência artificial para locomoção autônoma e utiliza radiação para desinfetar ambientes e eliminar micro-organismos como vírus, fungos e bactérias. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-05/covid-19-robo-aurora-inicia-testes-de-usabilidade-em-hospital-de-pe"
+        },
+        {
+            "text": "Governo cria “Programa Constelação Catarina” para fabricação de satélites brasileiros: 13 satélites serão desenvolvidos pela Agência Espacial Brasileira e auxiliarão no monitoramento do clima, prevenindo desastres naturais e aprimorando o processo de agricultura de precisão. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-05/governo-cria-programa-para-fabricacao-de-satelites-brasileiros"
+        },
+        {
+            "text": "Harley-Davidson decide criar nova marca de motocicletas elétricas: a LiveWire será lançada como uma marca autônoma e seu primeiro modelo será apresentado em julho deste ano. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/10/harley-davidson-spins-out-livewire-into-a-standalone-electric-motorcycle-brand/"
+        },
+        {
+            "text": "IA detecta sarcasmo em redes sociais: a ambiguidade inerente em expressões sarcásticas torna sua identificação muito difícil por computadores, afirmam os cientistas da Universidade da Flórida Central. O modelo é considerado “estado da arte” e poderá ser utilizado por empresas para análise de comentários de clientes em postagens e tweets. O estudo está disponível no jornal acadêmico MDPI.",
+            "url": "https://www.mdpi.com/2079-9292/10/10/1133/pdf"
+        },
+        {
+            "text": "Radares são alternativa a câmeras para detecção precisa de movimentos humanos: os pesquisadores da Universidade Carnegie Mellon utilizaram radares doppler de ondas milimétricas para detectar diferentes tipos de atividade humana, como andar de bicicleta, bater palmas, acenar, comer ou ler um livro. O sistema seria uma alternativa ao uso de câmeras dentro de casa, sem colocar em risco a privacidade das pessoas. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/11/cmu-researchers-show-potential-of-privacy-preserving-activity-tracking-using-radar/"
+        },
+        {
+            "text": "OSIRIS-REx da NASA inicia retorno à Terra: a espaçonave acionou seus motores à potência total na tarde de ontem. A OSIRIS-REx contém rochas coletadas do asteroide Bennu e deve chegar à Terra em setembro de 2023. As informações são da página de imprensa da NASA.",
+            "url": "https://www.nasa.gov/press-release/nasa-s-osiris-rex-spacecraft-heads-for-earth-with-asteroid-sample"
+        }
+    ]
+}
