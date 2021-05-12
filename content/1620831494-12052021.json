@@ -1,0 +1,51 @@
+{
+    "title": "Mercado Livre é investigado / Falhas críticas no Wi-Fi / Fim dos crimes financeiros",
+    "fps": 30,
+    "timestamp": 1620831494,
+    "date": "12/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Mercado Livre é investigado: o processo, instaurado pela Secretaria Nacional do Consumidor (Senacom), do Ministério da Justiça, investiga a venda de livros piratas em PDF. O Mercado Livre afirma que está protegido pelo pelo Marco Civil da Internet, que isenta provedores da responsabilização por conteúdos postados por usuários, além de afirmar que vendedores assumem a responsabilidade exclusiva pelo que ofertam na plataforma. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&UserActiveTemplate=mobile&infoid=56906&sid=4"
+        },
+        {
+            "text": "Novas vulnerabilidades atingem todos os dispositivos Wi-Fi: os problemas foram descobertos e revelados no perfil do Twitter do respeitado pesquisador de segurança belga Mathy Vanhoef. As falhas, chamadas de “FragAttacks”, podem ser exploradas para roubar dados confidenciais e controlar dispositivos IoT e até mesmo alguns computadores. No entanto, as falhas são difíceis de se abusar e atualizações de segurança já foram desenvolvidas, um processo que levou 9 meses e foi supervisionado pela Wi-Fi Alliance e ICASI.",
+            "url": "https://www.wi-fi.org/security-update-fragmentation"
+        },
+        {
+            "text": "Alemanha bane coleta de dados do WhatsApp, mas Facebook afirma que irá ignorar ordem: o país alega que os novos termos de uso do WhatsApp violam o Regulamento Geral de Proteção de Dados (GPDR). O Facebook nega qualquer irregularidade, afirmando que o banimento é baseado em uma confusão sobre a nova política de privacidade do WhatsApp e continuará com implementação das novas regras, apesar da proibição. As informações são do site TechSpot.",
+            "url": "https://www.techspot.com/news/89639-facebook-ignore-emergency-data-collection-ban-issued-germany.html"
+        },
+        {
+            "text": "ViaQuatro é impedida de utilizar reconhecimento facial no metrô de SP: o sistema de telas e câmeras nas plataformas contava quantas pessoas passavam em sua frente e analisava suas expressões faciais. Anúncios eram então exibidos no modelo “pay-per-face”, cobrando anunciantes com base na quantidade de pessoas que olhavam para a tela. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/440850/justica-multa-viaquatro-em-r-100-mil-por-biometria-facial-no-metro-de-sp/"
+        },
+        {
+            "text": "Startups brasileiras já levantaram 10 bilhões de reais em 2021: o valor corresponde a um crescimento de 68% no ano. Cerca de 25% dos investimentos foram para fintechs (finanças), 10% para healthtechs (saúde) e 24% distribuídos igualmente entre edtechs (educação), retailtechs (varejo) e proptechs (imóveis). O restante dos investimentos foi distribuído entre diferentes segmentos. As informações são do site LABS News.",
+            "url": "https://labsnews.com/en/news/business/brazilian-startups-have-already-raised-brl-10-1-billion-in-2021-says-sling-hub/"
+        },
+        {
+            "text": "IA irá erradicar crimes financeiros: Manuela Veloso, chefe de pesquisas em inteligência artificial do banco JP Morgan, afirma que esse é o objetivo primário da instituição com a aplicação da tecnologia. Estima-se que crimes financeiros como lavagem de dinheiro, violações de sanções, fraudes e roubos cibernéticos custaram 1,45 trilhão de dólares à economia mundial em 2019. As informações são do site CyberScoop.",
+            "url": "https://www.cyberscoop.com/chase-artificial-intelligence-ai-research-financial-crime/"
+        },
+        {
+            "text": "TikTok estaria testando plataforma para vagas de emprego: ao invés de um currículo tradicional, as pessoas poderão postar um “currículo em vídeo” no TikTok, conectando candidatos a empresas. Várias grandes marcas já estariam participando de um programa piloto, inclusive times esportivos. As informações são do site Axios.",
+            "url": "https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html"
+        },
+        {
+            "text": "Xbox é vendido com prejuízo pela Microsoft: a revelação ocorreu durante o embate judicial entre a Apple e Epic Games. Chamada como testemunha no caso, a empresa ainda revelou que nunca conseguiu lucrar com a venda de sua linha de videogames. Segundo analistas, no entanto, a Microsoft segue o modelo tradicional de negócios para o mercado, vendendo hardware com prejuízo enquanto ganha dinheiro com a venda de jogos ou serviços de assinatura. As informações são da Eurogamer.",
+            "url": "https://www.eurogamer.net/articles/2021-05-06-microsoft-confirms-its-never-made-profit-from-sale-of-an-xbox-console"
+        },
+        {
+            "text": "YouTube cria fundo de 100 milhões de dólares para criadores de Shorts, concorrente do TikTok: o objetivo é incentivar a criação de conteúdo para a nova modalidade de vídeos curtos que ainda não é integrada a anúncios. Qualquer pessoa que postar conteúdo original no Shorts pode participar do programa, mas o YouTube dará preferência para quem criar maior engajamento e visualizações. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/5/11/22429350/youtube-shorts-fund-video-payments-tiktok-competitor"
+        }
+    ]
+}
