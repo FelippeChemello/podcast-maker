@@ -1,0 +1,55 @@
+{
+    "title": "Elon Musk derruba moedas digitais / Hacker do STF se identifica / Implante neural incrível",
+    "fps": 30,
+    "timestamp": 1620915452,
+    "date": "13/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Elon Musk suspende compra de veículos da Tesla com moedas digitais: em seu perfil no Twitter, o megaempresário afirmou estar preocupado com o uso de combustíveis fósseis, especialmente carvão, no processo de mineração desse tipo de ativo. A empresa, no entanto, não venderá nenhuma reserva que possui e está procurando por alternativas que utilizem menos energia para funcionar. A notícia derrubou de forma generalizada o mercado mundial de moedas digitais.",
+            "url": "https://twitter.com/elonmusk/status/1392602041025843203?s=20"
+        },
+        {
+            "text": "Hacker do STF se identifica: segundo o site DefCon Lab, o pesquisador “Tr4g1ck M3t4l1ck” (integrante da TDA Team) teria assumido autoria da ação que paralisou o Supremo Tribunal Federal. O hacker afirma que não divulgou nenhuma informação obtida e o ataque tinha apenas o objetivo de revelar falhas de segurança no Tribunal.",
+            "url": "https://tecnoblog.net/441312/stf-abre-inquerito-para-investigar-possivel-ataque-hacker/"
+        },
+        {
+            "text": "Homem tetraplégico consegue escrever mensagens de texto utilizando novo implante neural: o homem precisa apenas imaginar que está escrevendo em uma folha de papel utilizando uma caneta. Uma inteligência artificial, desenvolvida pela Universidade de Stanford, decodifica então os sinais cerebrais do paciente com uma velocidade de transcrição de 90 caracteres por minuto e taxa de acerto de 94%, tão precisa quanto sistemas de fala para texto atuais. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/13/brain_implant_typing/"
+        },
+        {
+            "text": "Relatório aponta que a maioria dos brasileiros está conectada à internet: o acesso digital é amplamente disseminado no País, com 87% das pessoas conectadas por Wi-Fi em casa e 95% por acesso móvel. A pesquisa do Banco Interamericano de Desenvolvimento, disponível no site da instituição, foi realizada no final do ano passado com 13.250 pessoas distribuídas em todo o território nacional.",
+            "url": "https://teletime.com.br/11/05/2021/bid-aponta-que-brasileiro-esta-mais-digitalizado-na-pandemia-mas-ainda-ha-barreiras/"
+        },
+        {
+            "text": "DeepMind quer utilizar IA para transformar jogos de futebol: a empresa de inteligência artificial do Google está trabalhando com o time inglês Liverpool para construir uma tecnologia assistiva para treinadores. A DeepMind espera combinar visão computacional, aprendizagem estatística e teoria dos jogos para identificar padrões que não seriam captados de outra forma. As informações são do site Wired.",
+            "url": "https://www.wired.co.uk/article/deepmind-football-liverpool-ai"
+        },
+        {
+            "text": "Empresa alemã cria motor “wireless” para veículos elétricos: no motor desenvolvido pela Mahle, a energia é irradiada por indução, ou seja, sem fios, com 95% de eficiência e reduzindo praticamente a zero o desgaste mecânico. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/mahles-electric-motor-says-look-ma-no-contacts"
+        },
+        {
+            "text": "Celulares da Xiaomi já detectaram com sucesso 35 terremotos na China: os dispositivos da marca possuem um sistema para alerta precoce dos desastres naturais com magnitude 4,0 e superior. As informações são do site Gizmochina.",
+            "url": "https://www.gizmochina.com/2021/05/12/xiaomi-miui-warned-about-35-earthquakes-in-china/"
+        },
+        {
+            "text": "Dicionário está leiloando “definição de NFT” como um NFT: o Merriam-Webster define um NFT como um “identificador digital único que não pode ser copiado, substituído ou subdividido, gravado em um blockchain”. O valor arrecadado será doado ao “Teach for All”, uma rede internacional para expandir o acesso à educação. As informações são do site Gizmodo.",
+            "url": "https://gizmodo.com/merriam-webster-is-selling-the-definition-of-nft-as-an-1846868666"
+        },
+        {
+            "text": "Microsoft cancela serviço de blockchain, sem explicação: clientes do Azure Blockchain terão até setembro deste ano para migrar suas aplicações. A Microsoft não forneceu nenhuma justificativa para o encerramento abrupto do serviço. As informações são da ZDNet.",
+            "url": "https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/"
+        },
+        {
+            "text": "Google vai alterar método utilizado para renderização do Docs: ao longo dos próximos meses, o Google irá migrar de uma renderização baseada em HTML para uma abordagem em canvas, melhorando o desempenho e consistência de visualização do conteúdo em diferentes plataformas. O Google alerta que a mudança provavelmente quebrará algumas extensões do Chrome. As informações são do blog do Google Workspace.",
+            "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html"
+        }
+    ]
+}
