@@ -1,0 +1,55 @@
+{
+    "title": "Novo rover em Marte hoje / Linux no Apple M1 / Downloads do Facebook despencam",
+    "fps": 30,
+    "timestamp": 1621003885,
+    "date": "14/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Downloads do app do Facebook caem 30%: de acordo com o relatório de abril da empresa de consultoria Appfigures (disponível no seu site), nos últimos 12 meses as pessoas têm instalado cada vez menos o aplicativo da rede social em seus smartphones. Uma das hipóteses para a queda é o explosivo crescimento do TikTok no último ano. Em abril, o TikTok foi o aplicativo mais baixado, tanto no Google Play como na App Store, enquanto o Facebook ficou em quarto lugar.",
+            "url": "https://9to5mac.com/2021/05/13/report-facebook-app-downloads-drop-30-amid-tiktok-growth-and-privacy-concerns/"
+        },
+        {
+            "text": "Nova bateria promete revolução em veículos elétricos: um novo processo de nanotecnologia deposita íons de alumínio em lâminas de grafeno, criando uma bateria que recarrega até 60 vezes mais rápido do que as atuais de íons de lítio, retém até três vezes mais energia, além de ser mais segura e fácil de se reciclar. A empresa australiana GMG afirma que as baterias estarão disponíveis para clientes automotivos a partir de 2024. As informações são da Forbes.",
+            "url": "https://www.forbes.com/sites/leannekemp/2021/05/12/electric-vehicle-batteries-how-to-avoid-the-next-sustainability-crisis/?sh=c10c699631c9"
+        },
+        {
+            "text": "China vai tentar pousar seu primeiro rover em Marte nesta sexta-feira: o pouso do rover “Zhurong” deve ocorrer por volta das 20h (horário de Brasília). A missão “Tianwen-1” foi lançada em 2020 e contém três espaçonaves: um orbitador, um módulo de pouso e o rover. Esta é a primeira missão da China à Marte, sendo que nenhuma agência espacial, além da NASA, conseguiu pousar na superfície do planeta desde 1973.",
+            "url": "https://olhardigital.com.br/2021/05/13/ciencia-e-espaco/sonda-tianwen-1-tentara-pousar-em-marte-com-rover-chines-na-sexta-feira-14/"
+        },
+        {
+            "text": "Novas regras do WhatsApp começam a valer a partir deste sábado: nenhuma conta será apagada e ninguém perderá acesso a partir do dia 15 de maio por causa da atualização dos termos de uso. Entretanto, a partir das próximas semanas, lembretes serão exibidos de maneira persistente (tela cheia), impedindo o acesso à lista de conversas e eventualmente ao recebimento de mensagens de texto e ligações. As informações são da página FAQ do WhatsApp.",
+            "url": "https://faq.whatsapp.com/general/security-and-privacy/what-happens-when-our-terms-and-privacy-policy-updates-take-effect/?lang=pt_br"
+        },
+        {
+            "text": "Atriz e diretor russos irão à Estação Espacial Internacional para gravar filme: a viagem está marcada para o dia 5 de outubro deste ano. Yulia Peresild e Klim Shipenko farão parte do primeiro longa-metragem a ser filmado no espaço. Tom Cruise e o diretor Doug Liman também já anunciaram que irão até a estação espacial em outubro deste ano para realização de um filme, mas a data ainda não foi confirmada. As informações são do site The Register.",
+            "url": "https://www.theregister.com/AMP/2021/05/14/iss_space_tourist/"
+        },
+        {
+            "text": "Maior oleoduto nos EUA paga resgate de 5 milhões de dólares para grupo de ransomware: assim que receberam o pagamento, os hackers do grupo DarkSide forneceram uma ferramenta para descriptografia da rede de computadores da Colonial Pipeline. O processo, entretanto, era tão lento que a empresa continuou a restaurar o sistema através de seus próprios backups. Analistas afirmam que o valor do resgate foi muito baixo para o tamanho da companhia, indicando que os hackers devem ter se assustado com o tamanho do caos que criaram na entrega de combustíveis em toda a costa leste dos EUA e a resposta intensa do governo norte-americano. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-05-14/paying-cyber-ransoms-sets-a-bad-precedent-but-happens-often"
+        },
+        {
+            "text": "Disney patenteia sistema de distribuição de filmes baseado em blockchain: a companhia espera tornar mais difícil a interceptação de filmes distribuídos aos cinemas. A técnica também rastreia a quantidade de vezes que um filme é reproduzido, evitando que um conteúdo pirateado seja exibido além do programado. As informações são do site TorrentFreak.",
+            "url": "https://torrentfreak.com/disney-patents-blockchain-based-movie-distribution-system-to-stop-pirates-210512/"
+        },
+        {
+            "text": "Chrome vai adotar suporte à cache nas ações de voltar e avançar páginas: utilizando os botões de navegação, uma página visitada anteriormente será recarregada instantaneamente. A funcionalidade, que já está disponível no Android, virá ao Windows, Linux e macOS a partir da versão 92 do Chrome. As informações são do site Windows Latest.",
+            "url": "https://www.windowslatest.com/2021/05/13/google-chrome-load-pages-faster-on-desktop-using-back-forward-cache/"
+        },
+        {
+            "text": "Criador do Python quer dobrar desempenho da linguagem a partir da versão 3.11: Guido van Rossum recebeu liberdade para trabalhar em qualquer projeto que quisesse após sua contratação pela Microsoft, decidindo “voltar às suas raízes” e contribuir novamente com o desenvolvimento do Python. No longo prazo, van Rossum espera um desempenho 5 vezes maior, mas sua equipe precisará ser “criativa” para atingir esse objetivo. A versão 3.11 provavelmente será lançada em outubro de 2022. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/13/guido_van_rossum_cpython_3_11/"
+        },
+        {
+            "text": "Projeto Asahi avança no suporte ao Linux: Hector Marcan, o idealizador do projeto, compartilhou recentemente informações sobre o andamento do projeto de tornar o Linux viável em hardware Apple M1. Segundo o desenvolvedor, os primeiros patches já foram submetidos para o kernel 5.13 e aguardam aprovação. As informações são do Blog Diolinux",
+            "url": ""
+        }
+    ]
+}
