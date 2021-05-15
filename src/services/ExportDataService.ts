@@ -21,6 +21,16 @@ export default class ExportDataService {
         this.content.height = format[videoFormat].height;
 
         log(`Exporting data to ${dataFilename}`, 'ExportDataService');
+
+        if (process.platform == 'win32') {
+            this.content.renderData?.map((coiso, index) => {
+                if (this.content.renderData?.[index]) {
+                    this.content.renderData[index].audioFilePath =
+                        coiso.audioFilePath.replace(/\\+/g, `/`);
+                }
+            });
+        }
+
         fs.writeFileSync(
             path.resolve(tmpPath, dataFilename),
             JSON.stringify(this.content),
