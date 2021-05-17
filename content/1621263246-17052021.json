@@ -1,0 +1,55 @@
+{
+    "title": "Rover chinesa pousa em Marte / “Clonagem” de voz para artistas / Internet quântica",
+    "fps": 30,
+    "timestamp": 1621263246,
+    "date": "17/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Novo golpe utiliza engenharia social sofisticada para roubar contas WhatsApp protegidas com autenticação em dois fatores: segundo a Kaspersky, primeiramente os golpistas se passam por representantes do Ministério da Saúde e conseguem obter o código do WhatsApp enviado por SMS ao celular da vítima. Entretanto, caso a verificação em duas etapas estiver ativada, os criminosos entram em contato novamente, personificando dessa vez a equipe de suporte do WhatsApp e alertando sobre atividades suspeitas na conta, orientando a vítima a acessar o seu e-mail e recadastrar a autenticação dupla novamente. O e-mail, que é enviado realmente pelo WhatsApp e serve para quem esqueceu a senha do aplicativo, foi solicitado pelos golpistas. Para a configuração da proteção em dois fatores novamente, o serviço exige primeiro que ela seja desativada. É neste momento que os golpistas conseguem configurar a conta da vítima em outro dispositivo. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/442120/golpe-engenhoso-rouba-whatsapp-de-quem-tem-conta-protegida-por-senha/"
+        },
+        {
+            "text": "Gangue de ransomware DarkSide anuncia fim das operações: os operadores do grupo tomaram a decisão após parte de sua infraestrutura ser comprometida por uma autoridade policial não especificada e perder as moedas digitais que detinham em carteiras virtuais. O grupo liberou ferramentas de decriptação para todos os alvos que já atacaram e afirmou que ainda cumprirá com os pagamentos prometidos a hackers afiliados. No entanto, para a empresa de cibersegurança Intel471, o mais provável é que o grupo esteja tentando fugir dos holofotes no momento e ressurgirá com novos nomes e variantes atualizadas de ransomware.",
+            "url": "https://www.washingtonpost.com/technology/2021/05/14/darkside-ransomware-shutting-down/"
+        },
+        {
+            "text": "Empresa lança serviço de “clonagem” de voz para artistas: a Veritone está comercializando a tecnologia “Marvel.ai” como uma forma de facilitar que celebridades monetizem suas vozes sem a necessidade de um estúdio de gravação. As informações são do site PCMag.",
+            "url": "https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it"
+        },
+        {
+            "text": "PIX Cobrança já pode ser utilizado: a modalidade é uma alternativa moderna ao boleto bancário, substituindo o código de barras por um QR Code e permitindo cobranças com datas de vencimentos futuras. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/442077/pix-cobranca-alternativa-boleto-bancario-comeca-funcionar/"
+        },
+        {
+            "text": "WhatsApp volta a crescer mais do que Telegram e Signal: entre março e abril deste ano, o aplicativo de mensagens acumulou 85 milhões de instalações, contra 65 milhões dos dois concorrentes juntos. Os dados são da empresa de consultoria Sensor Tower e contam apenas downloads únicos, sem contabilizar atualizações ou reinstalações. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/442038/whatsapp-volta-a-crescer-mais-rapido-que-telegram-e-signal-somados/"
+        },
+        {
+            "text": "Apple Music anuncia músicas em altíssima resolução, sem custo adicional: mais de 75 milhões de músicas com qualidade lossless (24-bit/192kHz) estarão disponíveis a partir de junho deste ano. Além disso, a Apple irá realizar parcerias com artistas como Ariana Grande e Maroon 5 para o lançamento inicial do Spatial Audio, músicas especialmente masterizadas em Dolby Atmos e que criam um espaço sonoro 3D envolvente. As informações são do site 9to5Mac.",
+            "url": "https://9to5mac.com/2021/05/17/apple-music-announces-it-is-bringing-lossless-audio-to-entire-catalog-at-no-extra-cost-spatial-audio-features/"
+        },
+        {
+            "text": "Ford registra patente para exibição de anúncios dentro de veículos: o sistema poderá utilizar câmeras externas para reconhecer painéis publicitários (outdoors de um restaurante local, por exemplo) e gerar um anúncio contendo o número de telefone ou link para uma página na Web no sistema de entretenimento do veículo. As informações são do site SlashGear.",
+            "url": "https://www.slashgear.com/dastardly-patent-outlines-a-method-of-serving-ads-inside-the-car-14672770/"
+        },
+        {
+            "text": "Rover chinesa pousa com sucesso em Marte: o rover “Zhurong” ainda precisa realizar uma auto-inspeção e fotografar o local de pouso para dar início à exploração da superfície do planeta. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/14/china_zhurong_mars_rover_lands/"
+        },
+        {
+            "text": "Cientistas querem utilizar lasers para controlar lixo espacial: a ideia seria utilizar um laser infravermelho de 20 quilowatts para alterar a órbita de pequenos detritos, com 1 a 10cm de diâmetro, desacelerando assim a chamada “Síndrome de Kessler”, na qual a colisão entre detritos espaciais geram ainda mais detritos, em um efeito cascata. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/laser-could-clear-space-junk-from-orbit"
+        },
+        {
+            "text": "Internet quântica mais próxima: pesquisadores suecos da KTH desenvolveram circuitos integrados que podem gerar fótons sob demanda e em temperatura ambiente, possibilitando a transmissão de informações quânticas utilizando luz em redes de fibra óptica. As informações são da página de imprensa do Instituto Real de Tecnologia.",
+            "url": "https://www.kth.se/en/aktuellt/nyheter/new-light-emitters-developed-for-quantum-circuits-1.1073114"
+        }
+    ]
+}
