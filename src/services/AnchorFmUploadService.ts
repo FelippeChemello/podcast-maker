@@ -99,7 +99,7 @@ export default class AnchorFmUploadService {
 
         await page.goto(this.urls.upload);
 
-        await page.waitForSelector('input');
+        await page.waitForSelector('#app > div > div button[type="button"]');
 
         log('Getting submit button', 'AnchorFmUploadService');
 
@@ -112,7 +112,7 @@ export default class AnchorFmUploadService {
                 console.log(
                     `[AnchorFmUploadService] [ERROR] Failed to find Save Episode button`,
                 );
-                process.exit(1);
+                return;
             }
 
             saveButton.id = 'save-episode-button';
