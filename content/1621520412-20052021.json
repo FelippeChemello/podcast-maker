@@ -1,0 +1,51 @@
+{
+    "title": "CEO do TikTok renuncia / Energia por WiFi / Dermatologista virtual do Google",
+    "fps": 30,
+    "timestamp": 1621520412,
+    "date": "20/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "CEO e co-fundador do TikTok renuncia ao cargo: Zhang Yiming afirma não possuir as habilidades necessárias de um gestor ideal. Além disso, Zhang não se considera muito sociável, preferindo atividades solitárias como navegar na web, ler e ouvir música. Outro co-fundador do TikTok, Rubo Liang, ocupará o cargo. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/business-57181225"
+        },
+        {
+            "text": "Engenheiros conseguem alimentar pequenos aparelhos eletrônicos com sinais de WiFi: a tecnologia utiliza minúsculos dispositivos inteligentes conhecidos como osciladores de torque de rotação (STOs) para converter em energia os sinais normais da banda 2,4GHz do WiFi e alimentar pequenos aparelhos eletrônicos, sem a necessidade de baterias. As informações são da Universidade Nacional de Singapura.",
+            "url": "https://www.eurekalert.org/pub_releases/2021-05/nuos-neh051821.php"
+        },
+        {
+            "text": "Google anuncia ferramenta de inteligência artificial para identificação de doenças de pele: o “Derm Assist” pode identificar 288 doenças de pele, com 97% de precisão, a partir de apenas três imagens tiradas pelo celular. Após identificar o problema, o “dermatologista virtual” do Google detalha a possível gravidade do problema, sua duração e tratamento. As informações são da CNET.",
+            "url": "https://www.cnet.com/health/personal-care/google-will-now-help-you-identify-that-suspicious-mole-or-rash/"
+        },
+        {
+            "text": "Minuta de novo Decreto do Governo quer garantir liberdade de expressão em plataformas de internet: o documento, obtido com exclusividade pelo site Teletime, mostra que provedores de serviços na web serão impedidos de remover conteúdos postados por usuários, mesmo aqueles que violem seus termos de uso. A exclusão precisará ser autorizada, exclusivamente, por decisão judicial. O texto prevê algumas exceções como a exclusão de contas automatizadas, que simulam a identidade de terceiros ou conteúdos que promovam práticas ilícitas. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/20/05/2021/minuta-de-decreto-restringe-a-decisao-judicial-a-remocao-de-conteudos-em-redes-sociais/"
+        },
+        {
+            "text": "Astrofísicos desenvolvem simulador de estrelas ultra-realista: o STARFORGE é o primeiro framework computacional a simular graficamente a formação, evolução e dinâmica de estrelas, incluindo jatos, radiação, vento e atividade de supernovas próximas. Algumas das simulações, no entanto, levam 3 meses para serem concluídas em um supercomputador. As informações são do site Phys.",
+            "url": "https://phys.org/news/2021-05-stunning-simulation-stars-born-realistic.html"
+        },
+        {
+            "text": "NASA vai testar sistema de comunicação por lasers: a tecnologia deve acelerar em até 100 vezes a transmissão de dados. Os atuais sistemas, por radiofrequência, levam cerca de 60 dias para transmitir um mapa completo de Marte de volta à Terra, mas levariam apenas nove dias através de lasers. As informações são do site da NASA.",
+            "url": "https://nypost.com/2021/05/14/nasa-to-show-off-space-lasers-enabling-faster-transfer-of-data-between-earth-and-space/"
+        },
+        {
+            "text": "Ford lança picape elétrica que pode se transformar em gerador de energia durante apagão: a F-150 Lightning é uma grande aposta da marca, já que o mesmo modelo, movido a gasolina, é o veículo mais vendido nos EUA há 38 anos. Além da possibilidade de fornecer energia a uma casa por 3 dias em caso de um apagão, a picape conta com o “Blue Cruise”, sistema de direção autônoma da montadora. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/"
+        },
+        {
+            "text": "TSMC anuncia avanço no desenvolvimento de chips de 1 nm: a descoberta utiliza bismuto semimetálico como eletrodos de contato e foi realizada em conjunto com pesquisadores do MIT e da Universidade Nacional de Taiwan. No início de maio, a IBM havia anunciado o desenvolvimento de um chip de 2 nanômetros. As informações são do site TechPowerUp.",
+            "url": "https://www.techpowerup.com/282422/tsmc-claims-breakthrough-on-1nm-chip-production"
+        },
+        {
+            "text": "Engenheiro de software derruba, sem querer, sistemas da Salesforce por cinco horas: o engenheiro havia sido encarregado de alterar configurações de DNS, mas optou por utilizar, incorretamente, um script que continha um bug, resultando em um deploy global e posterior falha na reinicialização de todos os servidores da companhia. A Salesforce agora decidiu impedir implementações globais de forma manual como a desse tipo. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/19/salesforce_root_cause/"
+        }
+    ]
+}
