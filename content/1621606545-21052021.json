@@ -1,0 +1,55 @@
+{
+    "title": "Apple acusa Microsoft / Moeda digital quer derrubar Elon Musk / Microsoft lança SimuLand",
+    "fps": 30,
+    "timestamp": 1621606545,
+    "date": "21/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Apple acusa Microsoft de ser a real interessada na batalha judicial contra a Epic Games: a Microsoft estaria utilizando a Epic porque não queria ser vista publicamente atacando a Apple até que tivesse uma noção de como a lei e a opinião pública avaliariam a loja de aplicativos dos dispositivos iOS. A Apple ainda afirma que a Microsoft não divulgou à Justiça comunicações internas que revelariam essa conexão com a Epic. A Microsoft nega que esteja por trás da briga judicial e chamou a acusação de “distração”. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-05-20/apple-accuses-microsoft-of-using-epic-as-proxy-in-legal-attack"
+        },
+        {
+            "text": "Especialistas em criptografia fazem comentários derrogativos sobre NFTs em conferência: Ron Rivest, famoso criptógrafo que co-criou a criptografia de chave pública RSA, ridicularizou os tokens não fungíveis, comparando-os a um “remédio homeopático” e à “mania das tulipas”. Ainda segundo o painel de especialistas, o termo criptografia tem sido “usurpado” pela comunidade de entusiastas em moedas digitais e blockchain. As informações são do site Mashable.",
+            "url": "https://mashable.com/article/rsa-conference-cryptographers-panel-nfts/"
+        },
+        {
+            "text": "Moeda digital é criada com intuito de tomar controle da Tesla: a última etapa no roadmap da “StopElon” é comprar uma quantidade suficiente de ações da Tesla para ganhar poder de voto significativo, assumindo o controle da companhia e então demitir Elon Musk. As informações são do site Gizmodo.",
+            "url": "https://gizmodo.com/crypto-investors-scheme-to-gain-control-of-tesla-as-bit-1846925631"
+        },
+        {
+            "text": "Teste da TIM com satélite de baixa órbita é bem sucedido: a operadora utilizou um satélite da Telesat para realizar streaming de vídeos do YouTube, videoconferência e voz sobre LTE no WhatsApp, sem interferências ou interrupções. Segundo a TIM, essa poderia ser alternativa para expansão das redes 4G e 5G a regiões remotas do Brasil, onde a fibra óptica não é economicamente viável. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/20/05/2021/tim-e-telesat-finalizam-testes-com-satelite-de-baixa-orbita-para-backhaul-em-4g/"
+        },
+        {
+            "text": "Pesquisadores alemães e finlandeses descobrem novo tipo de material de carbono atomicamente fino: o bifenileno, diferente do grafeno, tem propriedades metálicas e poderia ser utilizado como condutor em dispositivos eletrônicos e também poderia aumentar a capacidade de armazenamento de baterias de íons de lítio. As informações são do site Phys.",
+            "url": "https://phys.org/news/2021-05-graphene-atomically-thin-carbon-material.html"
+        },
+        {
+            "text": "Google anuncia lançamento de sua primeira loja física: localizada em Nova Iorque, visitantes poderão conhecer toda a linha de hardware do Google, além de obter assistência técnica para dispositivos com problemas. As informações são do blog do Google.",
+            "url": "https://blog.google/products/devices-services/google-store-nyc"
+        },
+        {
+            "text": "Snapchat apresenta editor de vídeos para smartphones: o “Story Studio” possui ferramentas avançadas de edição projetadas especificamente para vídeos verticais, além de contar com o recurso de realidade aumentada “Lentes” popularizado pelo aplicativo. Os vídeos produzidos pelo app poderão ser compartilhados em outras redes sociais e não incluirão uma marca d'água do Snapchat, evitando serem rebaixados pelos algoritmos quando publicados em outras plataformas. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/5/20/22445373/snap-ios-story-studio-app-video-edit-app-spotlight"
+        },
+        {
+            "text": "Google estuda integrar leitor similar a RSS no Chrome: usuários poderão “Seguir” um site ou blog, com o navegador coletando novos conteúdos quando forem publicados. O recurso ainda está em fase experimental e disponível apenas para dispositivos Android. As informações são do blog do Chromium.",
+            "url": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html"
+        },
+        {
+            "text": "Blockchain pode certificar e proteger dispositivos IoT: a Zigbee Alliance, associação formada por empresas como Google, Apple e Amazon, quer utilizar a tecnologia para desenvolver um padrão de segurança entre fabricantes e garantir a integridade de dispositivos inteligentes de forma distribuída. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/telecom/standards/forget-cryptocurrencies-and-nftssecuring-devices-is-the-future-of-blockchain-technology"
+        },
+        {
+            "text": "Microsoft lança SimuLand, iniciativa para pesquisadores de segurança: o sistema implementa ambientes controlados que reproduzem técnicas utilizadas em ataques cibernéticos reais, testando a eficácia de soluções como o Microsoft 365 Defender, Azure Defender e Azure Sentinel. O projeto, que é open source, pode ser acessado através do repositório do GitHub “Azure/SimuLand”. As informações são do blog Security da Microsoft.",
+            "url": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/"
+        }
+    ]
+}
