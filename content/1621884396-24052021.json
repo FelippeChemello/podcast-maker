@@ -1,0 +1,63 @@
+{
+    "title": "Resolução máxima de átomos / Papamóvel elétrico / Aplicativos stalkers no Android",
+    "fps": 30,
+    "timestamp": 1621884396,
+    "date": "5/24/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Monday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Traficante é preso no Reino Unido após postar foto segurando queijo: o criminoso havia postado a foto no serviço de mensagens criptografadas EnrcoChat, invadido pela polícia no ano passado. Especialistas analisaram a palma e impressões digitais da mão que segurava o queijo para identificar e localizar o traficante. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/uk-england-merseyside-57226165"
+        },
+        {
+            "text": "Pesquisadores atingem limite de resolução em imagem de átomos: a técnica, chamada de pticografia, cria imagens utilizando um algoritmo de reconstrução 3D, com um picômetro de precisão (um trilionésimo de um metro), sendo que o único “borrão” restante é da própria oscilação térmica dos átomos. O método será útil na criação de semicondutores para a computação quântica e na geração de imagens de sinapses cerebrais. As informações são do site Phys.",
+            "url": "https://phys.org/news/2021-05-atoms-resolution.html"
+        },
+        {
+            "text": "Primeiro Papamóvel elétrico será desenvolvido pela Fisker: a startup planeja entregar o veículo ao Vaticano, baseado no modelo Fisker Ocean SUV, no final do ano que vem. O interior do Papamóvel contará com uma variedade de materiais sustentáveis, incluindo tapetes feitos de garrafas plásticas recicladas. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/21/the-first-electric-popemobile-will-be-a-fisker-ocean-suv/"
+        },
+        {
+            "text": "Brasileiros vencem maior torneio mundial do jogo Rainbow Six Siege em Paris: o time “Ninjas in Pyjamas” foi o grande campeão da “Six Invitational 2021”, levando para casa o prêmio de 1 milhão de dólares. As informações são do site Globo Esporte.",
+            "url": "https://globoesporte.globo.com/esports/rainbow-6/noticia/six-invitational-2021-brasil-fatura-mais-de-r-10-milhoes.ghtml"
+        },
+        {
+            "text": "Aeroporto de Guarulhos é o primeiro do mundo com Wi-Fi 6: o serviço estará disponível gratuitamente para viajantes no Terminal 3 internacional. O Wi-Fi 6 oferece latência ultrabaixa e maior eficiência em ambientes com um grande número de dispositivos conectados simultaneamente. As informações são da página de notícias do aeroporto.",
+            "url": "https://www.mobiletime.com.br/noticias/18/05/2021/aeroporto-de-guarulhos-sera-primeiro-com-open-roaming-em-rede-wi-fi-6/"
+        },
+        {
+            "text": "Comitê Gestor da Internet no Brasil cobra Governo sobre possível Decreto que muda Marco Civil da Internet: o comitê ficou sabendo das intenções do Governo pela imprensa e afirma ter previsão legal para ser ouvido. A minuta do Decreto presidencial determina que conteúdos postados por usuários, mesmo que inverídicos, só poderão ser retirados das redes sociais por ordem judicial. Especialistas afirmam que a proposta é ilegal. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/21/05/2021/cgi-br-vai-cobrar-do-governo-participacao-no-decreto-que-pretende-mudar-o-marco-civil-da-internet/"
+        },
+        {
+            "text": "Elon Musk afirma que aceleração do novo modelo esportivo da Tesla não será recomendado para quem tem problemas de saúde: com o pacote opcional de propulsão por foguete da SpaceX, o Tesla Roadster poderá acelerar de 0 a 100km/h em apenas 1,1 segundo. Apesar de muito intensa, Musk afirmou em seu perfil no Twitter que a experiência será segura.",
+            "url": "https://twitter.com/elonmusk/status/1395474465794838528"
+        },
+        {
+            "text": "NASA estuda instalação de observatório em cratera no lado oculto da Lua: a escuridão e a visão sem obstrução poderiam render novas descobertas sobre o universo. Todos os componentes do projeto poderiam ser transportados em uma única missão, mas robôs e rovers seriam necessários para instalação do observatório. As informações são do site Moon Daily.",
+            "url": "https://www.moondaily.com/reports/NASA_eyes_moons_dark_side_for_astronomy_new_telescopes_999.html"
+        },
+        {
+            "text": "Centro de pesquisa em ciências médicas criado por Mark Zuckerberg registra avanço em análise de doenças fetais utilizando IA: os cientistas da “CZ Biohub” desenvolveram uma técnica com taxa de acerto de 96% para doenças cardíacas congênitas analisando ultrassons no segundo trimestre de gestação. Métodos atuais detectam problemas cardíacos em cerca de 30% das vezes. O modelo é também rápido o suficiente para ser integrado em sistemas de ultrassom em clínicas. As informações são do perfil de Mark Zuckerberg no Facebook.",
+            "url": "https://www.medrxiv.org/content/10.1101/2020.06.22.20137786v1"
+        },
+        {
+            "text": "IA ajuda cosmologistas a simular o Universo: a rede neural desenvolvida por acadêmicos da Carnegie Mellon University foi capaz de acelerar uma simulação composta de 134 bilhões de partículas virtuais para apenas 16 horas em uma única GPU, processo que levaria meses em um supercomputador. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/24/in_brief_ai/"
+        },
+        {
+            "text": "Instagram estuda enviar códigos de autenticação em dois fatores através do WhatsApp: a descoberta foi realizada pelo desenvolvedor italiano Alessandro Paluzzi, que postou imagens do recurso ainda em desenvolvimento em seu perfil no Twitter.",
+            "url": "https://twitter.com/alex193a/status/1395912134215839744"
+        },
+        {
+            "text": "Aplicativos de stalkerware se proliferam no Android: segundo uma pesquisa publicada no site da WeLiveSecurity, a instalação desse tipo de aplicativo, que rastreia a localização, conversas, imagens e histórico do navegador da vítima, cresceu cerca de 600% nos últimos anos. Para evitar serem banidos da loja Google Play, os aplicativos são promovidos como serviços de proteção a crianças, funcionários ou mulheres.",
+            "url": "https://www.welivesecurity.com/br/2021/05/18/stalkerware-para-android-uma-ameaca-cada-vez-mais-perigosa-que-expoe-os-proprios-espioes/"
+        }
+    ]
+}
