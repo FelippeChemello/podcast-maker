@@ -1,0 +1,55 @@
+{
+    "title": "“Real digital” terá smart contracts / Revolução no Windows 10 / Lançamento do Fuchsia OS",
+    "fps": 30,
+    "timestamp": 1621964849,
+    "date": "5/25/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Tuesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Banco Central divulga diretrizes para criação do “Real digital”: a instituição quer dar ênfase a três funcionalidades principais: facilitar a criação de smart contracts (contratos inteligentes auto-executáveis), dinheiro programável (planejamento de pagamentos) e IoT (uso da moeda digital por dispositivos inteligentes). O Real digital não será um criptoativo descentralizado, possuindo garantias pelo BC. A expectativa é de uma implementação do sistema em dois ou três anos. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/brasil-devera-ter-moeda-digital-emitida-pelo-banco-central"
+        },
+        {
+            "text": "Netflix estuda lançar serviço de videogames: uma das ideias é oferecer um pacote de jogos originais sem anúncios, produzidos por estúdios independentes, cobrando uma assinatura mensal. A Netflix também estuda como fazer os jogos rodarem diretamente de TVs. As informações são do site Axios.",
+            "url": "https://www.axios.com/netflix-gaming-expansion-cde0f3ae-15de-4378-b2b8-fd0aaf0e91f6.html"
+        },
+        {
+            "text": "Novo material pode criar “neurônios” e “sinapses” para computação neuromórfica: pesquisadores da Universidade de Groningen, na Holanda, utilizaram um óxido complexo para criar elementos comparáveis a neurônios e sinapses cerebrais, aproveitando-se da propriedade “spin” dos elétrons. Com a descoberta espera-se que um hardware semelhante ao cérebro humano, mais eficiente energeticamente e melhor no processo de reconhecimento de objetos, possa ser criado e conectado a circuitos padrão baseados em silício. As informações são da EurekAlert.",
+            "url": "https://www.eurekalert.org/pub_releases/2021-05/uog-nmc051821.php"
+        },
+        {
+            "text": "Anatel quer ação proativa contra a venda de produtos não homologados em marketplaces de grandes lojas: a agência enviou um ofício para o Magazine Luiza, Carrefour, Lojas Americanas e Mercado Livre, pedindo que impeçam a venda de equipamentos de telecomunicações não homologados por vendedores que utilizam seus marketplaces. Segundo a Anatel, produtos não homologados como jammers, celulares, carregadores e baterias podem causar interferência na rede, facilitar a prática de crimes e trazer risco à saúde e segurança das pessoas. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/24/05/2021/anatel-pede-que-lojas-de-marketplace-parem-de-vender-produtos-nao-homologados/"
+        },
+        {
+            "text": "Google agora permite proteção do histórico de navegação: uma senha bloqueará o acesso à “Minha Atividade”, página que mostra todas as operações realizadas nos serviços do Google, incluindo buscas, histórico do YouTube e consultas pelo Assistente. Sem essa senha, qualquer pessoa pode acessar esse histórico através de um dispositivo com uma conta do Google conectada. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history"
+        },
+        {
+            "text": "Microsoft quer “revolucionar” experiência de usuário no Windows 10: segundo o site Windows Latest, a empresa abriu novas vagas para designers e gerentes de projeto que irão criar uma nova aparência visual ao sistema operacional, concentrando-se em cantos arredondados, recursos e transições semelhantes ao do Windows 10X.",
+            "url": "https://www.windowslatest.com/2021/05/24/microsoft-says-it-will-revolutionize-windows-10-user-experience/"
+        },
+        {
+            "text": "Nintendo Switch vende mais do que PS5 e Xbox juntos: no primeiro trimestre deste ano, o console da Nintendo vendeu 5,86 milhões de unidades, contra 2,83 milhões do PlayStation 5 e 1,31 milhão do Xbox. Segundo a empresa de consultoria Ampere Analysis, o Switch continuará vendendo bem ao longo desse ano, com os consoles da Sony e Microsoft ainda sofrendo devido a dificuldades na sua produção e disponibilidade em lojas.",
+            "url": "https://www.ampereanalysis.com/insight/console-sales-q1-2021-switch-sell-through-increases-year-on-year-ps5-outsells-xbox-serie"
+        },
+        {
+            "text": "Microsoft Surface Duo recebe atualização que o transforma em um “Nintendo DS” para jogos do Xbox: o aplicativo Xbox Cloud Gaming agora inclui suporte para o dispositivo, ganhando um gamepad virtual, com controles de toque, em uma de suas telas. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen"
+        },
+        {
+            "text": "Coreia do Sul anuncia testes para adoção de criptografia quântica em grande escala: o objetivo é criar um ecossistema para a ampla adoção da tecnologia e proteção das comunicações dentro do país. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/25/south_korea_quantum_encryption/"
+        },
+        {
+            "text": "Google lança oficialmente o Fuchsia OS: o novo sistema operacional, que um dia poderá substituir o Android, inicialmente será instalado no display inteligente Nest Hub através uma atualização, efetivamente substituindo o sistema baseado em Linux que era utilizado. Nenhuma funcionalidade do dispositivo será alterada, já que o Google utilizou Flutter para construir a interface do display. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/"
+        }
+    ]
+}
