@@ -52,7 +52,7 @@ export const createYouTube = async ({
         haveEnd: true,
     });
 
-    await new UrlShortenerService(content).execute();
+    // await new UrlShortenerService(content).execute();
 
     new exportDataService(content).execute('landscape');
 
@@ -174,7 +174,7 @@ export const createPodcast = async ({
         haveEnd: false,
     });
 
-    await new UrlShortenerService(content).execute();
+    // await new UrlShortenerService(content).execute();
 
     new exportDataService(content).execute('square');
 
