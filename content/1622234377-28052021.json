@@ -1,0 +1,59 @@
+{
+    "title": "Ministro sofre invasão durante reunião / Preços de HDs disparam / Grave anomalia de voo em Marte",
+    "fps": 30,
+    "timestamp": 1622234377,
+    "date": "5/28/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Reunião virtual com ministro da Economia é invadida: por pouco mais de dois minutos, a palestra do ministro Paulo Guedes a empresários foi interrompida com vídeos obscenos, músicas e áudios em inglês e russo, impedindo a compreensão do que se estava falando. O aplicativo utilizado para transmissão era o Zoom. A apresentação do ministro também era presencial e não foi suspensa. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/hackers-invadem-palestra-do-ministro-paulo-guedes"
+        },
+        {
+            "text": "Nova moeda digital faz preços de HDs dispararem: Gene Hoffman, presidente da Chia Network, admitiu que a demanda pela moeda “destruiu” a cadeia de suprimentos de HDs, fazendo preços subirem em mais de 50%. A Chia, criada pelo inventor do BitTorrent, utiliza uma nova abordagem para manutenção da rede, dependente do espaço em discos rígidos ao invés de provas de trabalho computacionais intensas. Cerca de 12 milhões de terabytes já estão sendo utilizados para “minerar” Chia, um crescimento de 300% em apenas duas semanas. As informações são do site New Scientist.",
+            "url": "https://www.newscientist.com/article/2278696-bitcoin-rival-chia-destroyed-hard-disc-supply-chains-says-its-boss/"
+        },
+        {
+            "text": "Helicóptero Ingenuity sofre grave anomalia em Marte: uma imagem do processo de rastreamento visual foi perdida durante o sexto voo do dispositivo, alterando os timestamps de todas as imagens subsequentes, sem que o algoritmo de navegação percebesse. O mini helicóptero inclinou para frente e para trás em um padrão oscilante, mas uma série de subsistemas conseguiram pousá-lo com segurança. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly"
+        },
+        {
+            "text": "Justiça mantém decisão e Serasa segue impedida de vender dados pessoais: a Lei Geral de Proteção de Dados (LGPD) serviu de base para a decisão do Tribunal de Justiça do Distrito Federal. A Serasa Experian vendia dados de usuários pelo preço de 0,98 centavos por cadastro. Informações pessoais como nome, CPF, número de telefone e endereço eram comercializadas para empresas interessadas na captação de clientes e publicidade. Estima-se que a base da Serasa contenha dados de mais de 150 milhões de brasileiros. As informações são do site do MPDFT.",
+            "url": "https://tecnoblog.net/446027/justica-mantem-decisao-e-proibe-serasa-de-vender-dados-pessoais/"
+        },
+        {
+            "text": "Microsoft alerta para nova onda de ataques dos mesmos hackers da SolarWinds: o grupo russo Nobelium está visando agências governamentais, think tanks, consultores e organizações não governamentais de diversos países, distribuindo backdoors através de ataques phishing por e-mail. As informações são do blog da Microsoft.",
+            "url": "https://blogs.microsoft.com/on-the-issues/2021/05/27/nobelium-cyberattack-nativezone-solarwinds/"
+        },
+        {
+            "text": "Maior plataforma para hackers do mundo movimentou mais de 1,3 bilhão de dólares em 2020: a Hydra seria responsável por mais de 75% de toda a receita do mercado darknet em todo o mundo. A plataforma, de origem russa, foi lançada em 2015 e facilita a comercialização de produtos e serviços entre hackers. As informações são do site CISO Advisor.",
+            "url": "https://www.cisoadvisor.com.br/darknet-russa-movimentou-mais-de-us-13-bilhao-em-2020/"
+        },
+        {
+            "text": "Nvidia apresenta supercomputador para IA mais rápido do mundo: o “Perlmutter” utiliza 6,159 GPUs A100 Tensor Core para obter cerca de 4 exaflops de desempenho em inteligência artificial. O supercomputador irá criar o maior mapa 3D do universo e auxiliar na pesquisa de novas interações subatômicas para melhores baterias e biocombustíveis. As informações são do blog da Nvidia.",
+            "url": "https://blogs.nvidia.com/blog/2021/05/27/nersc-perlmutter-ai-supercomputer/"
+        },
+        {
+            "text": "Nova técnica usa lasers para deixar grafeno mais forte: o material pode ser reforçado em cinco ordens de magnitude, deixando-o mais estável e mais fácil de manusear. A técnica de gravação a laser chamada de “forja óptica” abre caminhos para uma infinidade de novas aplicações. O estudo “Ultrastiff graphene” pode ser lido na página da revista Nature.",
+            "url": "https://www.sciencedaily.com/releases/2021/05/210525113704.htm"
+        },
+        {
+            "text": "Site de pesquisa de contas hackeadas “Have I been Pwned” vira open source: Troy Hunt, diretor regional da Microsoft e fundador do site, explicou que está abrindo o código porque precisa de ajuda da comunidade para mantê-lo. O HIBP recebe quase 1 bilhão de requisições por mês, é escrito em .NET e roda no Azure. As informações são da ZDNet.",
+            "url": "https://www.zdnet.com/article/have-i-been-pwned-goes-open-source/"
+        },
+        {
+            "text": "Chrome 91 é até 23% mais rápido: o navegador agora utiliza o “Sparkplug”, um novo compiler de JavaScript que pode fazer diferentes compensações entre a necessidade de executar e otimizar código. O Google estima que o Sparkplug vai economizar mais de 17 anos do tempo de CPU de usuários em todo o mundo a cada dia. As informações são do blog do Chromium.",
+            "url": "https://blog.chromium.org/2021/05/chrome-is-faster-in-m91.html"
+        },
+        {
+            "text": "Firefox vai adotar nova abordagem do Chrome para extensões: o “Manifest v3” é considerada uma revisão polêmica porque quebra a funcionalidade de ad blockers, mas resolve graves problemas de segurança, segundo o Google. A Mozilla, no entanto, planeja manter a API para bloqueio do “webRequest” no Firefox, garantindo a aplicação de bloqueadores de conteúdo. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/28/mozilla_chrome_mozilla/"
+        }
+    ]
+}
