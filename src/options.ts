@@ -174,7 +174,7 @@ export const createPodcast = async ({
         haveEnd: false,
     });
 
-    // await new UrlShortenerService(content).execute();
+    await new UrlShortenerService(content).execute();
 
     new exportDataService(content).execute('square');
 
