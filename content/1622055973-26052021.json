@@ -1,0 +1,55 @@
+{
+    "title": "Novo Windows é confirmado / Nave espacial nuclear russa / Controle remoto de TV hackeado",
+    "fps": 30,
+    "timestamp": 1622055973,
+    "date": "5/26/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Wednesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Microsoft confirma que está desenvolvendo a “nova geração” do Windows: Satya Nadella, presidente da companhia, afirmou que já está pessoalmente testando a próxima versão do sistema operacional e que esta será uma das mais significativas da última década, abrindo grandes oportunidades econômicas para desenvolvedores e criadores. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/microsoft-satya-nadella-teases-next-generation-windows-191502883.html"
+        },
+        {
+            "text": "Rússia planeja nave espacial movida a energia nuclear: a primeira missão, chamada “Zeus”, está prevista para 2030, e tem como destino o planeta Júpiter. A missão pode servir como teste para uma nova estação espacial russa que usaria a mesma tecnologia. As informações são da Business Insider.",
+            "url": "https://www.businessinsider.com/russia-nuclear-powered-spacecraft-moon-venus-jupiter-2021-5"
+        },
+        {
+            "text": "Controle de TV com suporte a comandos de voz pode ser transformado em dispositivo de escuta: pesquisadores da empresa israelense Guardicore conseguiram invadir o decodificador de uma operadora de tv por assinatura norte-americana e instalar uma atualização maliciosa. Como o controle remoto consultava o decodificador por novas atualizações a cada 24 horas, sem verificar a autenticidade do firmware, o hack foi facilmente instalado. A operadora em questão já corrigiu o problema, mas outras TVs operam com o mesmo princípio e podem ter vulnerabilidades semelhantes. As informações são do blog da Kaspersky.",
+            "url": "https://www.kaspersky.com.br/blog/rsa2021-tv-remote-listening-device/17527/"
+        },
+        {
+            "text": "Recorde nos 100 metros rasos de Usain Bolt é quebrado por homem vestindo jetpack: o objetivo de Richard Browning era bater os 9,58 segundos de Bolt na modalidade, conseguindo realizar a façanha em 7,69 segundos. O tempo foi confirmado pelo Livro Guinness dos Recordes. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/usain-bolt-jetpack"
+        },
+        {
+            "text": "Amazon anuncia compra dos estúdios MGM: com o valor de 8,45 bilhões de dólares pelo negócio, a companhia terá exclusividade a filmes como os de James Bond, Rocky, Robocop, Silêncio dos Inocentes e mais de 17.000 programas e séries de TV. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/26/amazon-is-buying-mgm-studios-for-8-45b/"
+        },
+        {
+            "text": "Valve estaria criando um PC portátil parecido com o Nintendo Switch: o PC/console rodaria Linux e seria chamado “SteamPal”. O dispositivo também teria um modo “dock” para se conectar a monitores ou TVs. Espera-se que o console seja anunciado até o final deste ano pela Valve. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/"
+        },
+        {
+            "text": "Tesla não vai mais instalar radares em seus veículos: em movimento oposto ao da maioria das montadoras, que estão adaptando LiDARs em seus veículos, a companhia utilizará apenas o sistema “Tesla Vision”, a combinação de câmeras e inteligência artificial para o recurso de direção autônoma. Elon Musk afirma que o novo sistema é incrível, possibilitando um verdadeiro sistema de direção autônoma de nível 5, sem a necessidade de atenção ou até mesmo de um motorista para guiar o veículo, até o final deste ano. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/05/24/tesla-test-vehicle-spotted-lidar-starts-rumors-confuses-people/"
+        },
+        {
+            "text": "Rússia ameaça limitar velocidade de serviços do Google: o país exige que a empresa remova informações e vídeos considerados ilegais, contendo conteúdos violentos e materiais de organizações extremistas. A empresa também poderá arcar com uma multa de até 10% de sua receita anual total se não cumprir as exigências. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/idCAKCN2D61JV-OCATC"
+        },
+        {
+            "text": "Pesquisa do GitHub mostra que interrupções e reuniões derrubam produtividade de desenvolvedores: com uma média de apenas uma reunião por dia, desenvolvedores afirmaram ter 99% de chance em realizar um trabalho de alta qualidade, conseguindo tempo para se concentrar e se conectar com colegas para debater ideias. Duas reuniões por dia reduz as chances de realizarem progresso para 74% e três reuniões para apenas 14%. As informações são do blog do GitHub.",
+            "url": "https://www.theregister.com/2021/05/25/developers_interruptions_github/"
+        },
+        {
+            "text": "Microsoft apresenta sistema de criação automática de código utilizando linguagem natural: o GPT-3 da OpenAI é a tecnologia por trás da novidade, mas está disponível apenas através do serviço no-code/low-code “Power Apps”. O sistema transcreve argumentos escritos em texto para código, utilizando a linguagem de programação Power Fx. O recurso não substitui a necessidade de se entender o código que está sendo implementado, mas auxilia no aprendizado da linguagem Power Fx e torna a programação de aplicativos simples mais acessível, afirma a Microsoft. As informações são do site TechCrunch.",
+            "url": "https://news.yahoo.com/microsoft-first-gpt-3-feature-coding-business-apps-122557556.html"
+        }
+    ]
+}

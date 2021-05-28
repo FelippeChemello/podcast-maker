@@ -1,0 +1,59 @@
+{
+    "title": "Criptomoedas despencam / Novidades no Google I/O / Deepfake em dublagens",
+    "fps": 30,
+    "timestamp": 1621434183,
+    "date": "19/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Moedas digitais despencam após China anunciar banimento quase completo no país: bancos estão proibidos de realizar transações, oferecer investimentos ou armazenar esses tipos de ativos. Plataformas na web também não poderão hospedar ou anunciar serviços relacionados. O governo chinês alertou que moedas digitais são péssimos veículos de investimento, sem valor inerente e passíveis de serem manipuladas. O mercado reagiu muito mal à notícia, com os preços das principais moedas despencando na manhã desta quarta-feira. Com informações da Reuters e do site The Register.",
+            "url": "https://www.theregister.com/2021/05/19/china_cryptocurrency_crackdown/"
+        },
+        {
+            "text": "Google I/O 2021 apresenta muitas novidades: o Android 12 foi lançado com um visual totalmente novo, o “Material You”, que altera as cores e outros aspectos da interface dinamicamente, baseado na hora do dia ou clima, e novos recursos de privacidade. O LaMDA é uma nova técnica de processamento de linguagem natural que torna conversas com modelos de inteligência artificial mais resistentes a perguntas incomuns ou inesperadas. O Google também anunciou o campus “Quantum AI“, local que contará com o primeiro data center quântico, laboratórios de pesquisa e instalações próprias para fabricação de hardware e chips de processamento quânticos. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/18/everything-google-announced-at-i-o-today/"
+        },
+        {
+            "text": "Startup utiliza deepfakes para criar dublagens perfeitas em filmes: a tecnologia da Flawless se concentra apenas nas bocas, criando novos movimentos labiais que correspondem à fala dublada e preservando o desempenho original dos atores. A empresa afirma que seu sistema é altamente escalável para qualquer língua. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/5/18/22430340/deepfake-dubs-dubbing-film-tv-flawless-startup"
+        },
+        {
+            "text": "Facebook contata pesquisadores para estudar correlação entre mídias sociais e saúde mental: a empresa estaria avaliando o assunto internamente e buscando opinião de especialistas no assunto. Estudos apontam que os adolescentes são os mais afetados pelo uso de redes sociais, com dados mostrando um grande aumento nas taxas de depressão entre jovens na última década. As informações são da National Public Radio.",
+            "url": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree"
+        },
+        {
+            "text": "Pix ultrapassa a marca de 1 trilhão de reais em transações: já foram realizadas 1,55 bilhão de operações, com tíquete médio de 738 reais. Ao final de abril, 230,6 milhões de chaves já tinham sido cadastradas, uma média de 2,6 chaves por usuário. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/18/05/2021/pix-ultrapassa-r-1-trilhao-movimentado-em-seis-meses/"
+        },
+        {
+            "text": "Volvo não venderá mais veículos à combustão no Brasil: a marca somente venderá automóveis híbridos e elétricos no país. Segundo a Volvo, esse é um movimento irreversível, que se expandirá por toda a América Latina. As informações são do site Carpress.",
+            "url": "https://carpress.uol.com.br/noticias/3675-volvo-nao-vendera-mais-carros-a-combustao-no-brasil"
+        },
+        {
+            "text": "Hugo Barra, vice-presidente de realidade virtual do Facebook, está deixando a companhia: Barra, um dos brasileiros mais respeitados no setor de tecnologia (já trabalhou no Google e Xiaomi), não revelou qual será o seu próximo desafio, mas já indicou que será na área de tecnologia e saúde. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/18/facebook-vr-exec-hugo-barra-is-leaving/"
+        },
+        {
+            "text": "Chrome agora consegue redefinir senhas vazadas automaticamente no Android: o Google Assistente irá navegar até o site e passar por todo o processo de alteração de senha, clicando e preenchendo formulários por conta própria, com ou sem a supervisão do usuário. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/chrome-now-automatically-fixes-breached-passwords-on-android/"
+        },
+        {
+            "text": "Spotify vai transcrever áudio de podcasts: além de possibilitar a leitura dos episódios, também será possível navegar e clicar em qualquer parágrafo do texto transcrito para escutar a partir daquele ponto. As informações são da página de imprensa do Spotify.",
+            "url": "https://www.theverge.com/2021/5/18/22441886/spotify-podcast-transcription-accessbility-app-update"
+        },
+        {
+            "text": "Usuários de smartphones dobráveis não voltariam mais para outro tipo de telefone: segundo uma pesquisa realizada pela Samsung, cerca de 90% das pessoas comprariam um telefone dobrável novamente. O principal motivo seria a facilidade e ganho de produtividade em “transformar” o dispositivo em um tablet. As informações são da página de imprensa da Samsung.",
+            "url": "https://news.samsung.com/us/how-samsung-foldables-changing-way-use-smartphones-google/"
+        },
+        {
+            "text": "Google afirma que Flutter está crescendo rápido: mais de 200 mil aplicativos no Google Play já foram desenvolvidos utilizando o SDK, com um cada oito aplicativos novos nos últimos 30 dias criados com o Flutter. O Google aproveito o evento I/O ontem para anunciar a versão 2.2, com melhorias no desempenho. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/05/18/flutter-sdk-2-2/"
+        }
+    ]
+}

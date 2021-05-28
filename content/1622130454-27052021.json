@@ -1,0 +1,55 @@
+{
+    "title": "Criptomoeda da Apple / Exército dos UEA com visão noturna futurista / SpaceX completa 100 voos consecutivos com sucesso",
+    "fps": 30,
+    "timestamp": 1622130454,
+    "date": "5/27/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Thursday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Seguradora deixa de utilizar IA para detectar mentiras: a norte-americana Lemonade utilizava algoritmos de inteligência artificial para analisar vídeos de segurados em busca de “pistas não verbais” de que suas alegações seriam fraudulentas. A companhia, no entanto, identificou que seus algoritmos poderiam operar de forma não esperada, levando a erros na criação de apólices de seguro e pagamento de sinistros. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/05/26/ai_insurance_lemonade/"
+        },
+        {
+            "text": "Apple abre vaga para especialista em criptos e moedas digitais: a companhia está à procura de profissionais com experiência comprovada em soluções de pagamento emergentes e alternativas. A pessoa escolhida para a função se juntará à equipe do Apple Pay e Wallet. As informações são do site PYMNTS.",
+            "url": "https://www.pymnts.com/apple/2021/apple-job-posting-hints-at-move-into-crypto-payments/"
+        },
+        {
+            "text": "Japão vai enviar robô “transformer” desenvolvido por fabricante de brinquedos para a Lua: o dispositivo utilizará as tecnologias de miniaturização da TOMY (fabricante de brinquedos como Furby e Jenga) e da Universidade de Doshisha. O robô possui um formato esférico durante o lançamento, reduzindo seu volume durante o transporte, e se “transformará” para executar suas funções. Os dados coletados pela missão serão utilizados para a construção de um rover tripulado pressurizado que cruzará pela superfície lunar. As informações são da página de imprensa da JAXA.",
+            "url": "https://www.theregister.com/2021/05/27/jaxa_transforming_moon_robot/"
+        },
+        {
+            "text": "Rússia divulga que sofreu campanha massiva de ataques cibernéticos: hackers estrangeiros, financiados por um estado-nação, teriam comprometido agências federais russas no ano passado em uma campanha de espionagem digital que as autoridades descreveram como “sem precedentes” em escopo e sofisticação. As informações são da Reuters.",
+            "url": "https://www.reuters.com/world/europe/biden-putin-meet-geneva-june-16-2021-05-25/"
+        },
+        {
+            "text": "HBO Max faz recomendações de filmes e séries de TV com base nos signos astrológicos das pessoas: a plataforma de streaming oferece diversas recomendações após realizar um questionário sobre o zodíaco do assinante. Além disso, é possível selecionar um filme baseado no signo de atores. A HBO Max estará disponível no Brasil a partir do dia 29 de junho. As informações são do site CBR.",
+            "url": "https://www.cbr.com/hbo-max-tv-movies-zodiac-sign/"
+        },
+        {
+            "text": "Zoom vai utilizar IA para destacar partes mais importantes de reuniões: o algoritmo selecionará as melhores partes de um evento gravado com base nas palavras-chave utilizadas, removendo gentilezas e “conversa fiada”. As informações são do site TheNextWeb.",
+            "url": "https://thenextweb.com/news/zoom-ai-recording-meeting-bits"
+        },
+        {
+            "text": "SpaceX completa 100º voo consecutivo com sucesso utilizando foguete Falcon 9: a missão levou 60 novos satélites Starlink para órbita. A empresa já realizou 16 missões em 2021, uma média de um lançamento a cada 9 dias. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/science/2021/05/is-spacex-reliable-company-goes-for-100th-successful-flight-in-a-row-today/"
+        },
+        {
+            "text": "Novo Nintendo Switch deve ser lançado em setembro: o novo console provavelmente será mais caro do que o modelo atual e pode ser anunciado durante a conferência E3, que tem início em 12 de junho. Rumores apontam que essa nova versão do Switch contará com uma tela OLED de 7 polegadas e um chip NVIDIA Tegra que permitirá jogos em 4K. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/nintendos-rumored-oled-switch-may-arrive-in-september-084043403.html"
+        },
+        {
+            "text": "Exército dos EUA apresenta óculos de visão noturna futurista: o “Enhanced Night Vision Goggle-Binocular” combina imagens térmicas com sobreposições de realidade aumentada, entregando uma experiência similar a jogos de videogame aos soldados. A imagem fornece mais clareza e contraste, destacando o contorno de objetos e pessoas. As informações são do jornal The Washington Post.",
+            "url": "https://www.washingtonpost.com/technology/2021/05/24/army-night-vision-goggles/"
+        },
+        {
+            "text": "Empresa financiada pelo Google apresenta kit de autonomia para aviões: apesar de ainda contar com um piloto humano em solo para assumir o voo em caso de emergências, o sistema pode ser adaptado em aeronaves antigas, realizando decolagens e pousos de forma autônoma. A tecnologia da Merlin Labs também permitirá que controladores de tráfego aéreo “falem” diretamente com a aeronave, utilizando processamento de linguagem natural para entender o que foi dito e realizar os ajustes necessários. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/26/merlin-labs-emerges-from-stealth-to-bring-autonomy-to-55-king-air-fleet/"
+        }
+    ]
+}

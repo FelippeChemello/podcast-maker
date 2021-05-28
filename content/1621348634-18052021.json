@@ -1,0 +1,51 @@
+{
+    "title": "Homem desafia macaco da Neuralink / IA irá vencer humanos / Santo Graal das baterias",
+    "fps": 30,
+    "timestamp": 1621348634,
+    "date": "18/05/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Homem com implante cerebral desafia macaco da Neuralink à partida de Pong: Nathan Copeland, que ficou paralisado após um acidente de automóvel, afirma que usa seu implante regularmente para jogar videogames, incluindo clássicos da Sega como Sonic. Pager, o macaco da Neuralink, teria uma vantagem entretanto: o implante da Neuralink emprega cerca de 1.000 eletrodos, enquanto o de Copeland atua em cerca de 160 neurônios motores de cada vez. A partida poderá ser transmitida pelo Twitch, mas a Neuralink ainda não respondeu se aceita o desafio. As informações são do site MIT News.",
+            "url": "https://www.technologyreview.com/2021/05/14/1024907/musk-neuralink-man-monkey-mindpong-challenge-video-game/"
+        },
+        {
+            "text": "Prêmio Nobel de Economia afirma que IA irá “vencer” humanos: para Daniel Kahneman, a tecnologia progride de forma exponencial, ao contrário das pessoas, que se desenvolvem de forma linear. O psicólogo está certo que a inteligência artificial superará a humana no futuro e como as pessoas irão se ajustar a isso será um problema “fascinante” de se resolver. As informações são do The Guardian.",
+            "url": "https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow"
+        },
+        {
+            "text": "Engenheiros de Harvard desenvolvem o “santo graal” das baterias: a bateria de metal de lítio pode ser carregada ao menos 10.000 vezes, aumentando a vida útil de veículos elétricos para até 15 anos. Além da durabilidade, sua alta densidade de corrente permitiria carregar completamente um veículo entre 10 e 20 minutos. A bateria também é extremamente segura, em estado sólido, ao invés de utilizar líquidos orgânicos como as baterias de íons de lítio atuais, que são altamente inflamáveis. As informações são do site da Universidade de Harvard.",
+            "url": "https://www.pv-magazine.com/2021/05/14/harvard-scientists-unveil-solid-state-lithium-battery-that-can-be-charged-and-discharged-at-least-10000-times/"
+        },
+        {
+            "text": "Argentina suspende nova política de privacidade do WhatsApp por 180 dias: o governo do país vai instaurar um inquérito para apurar as novas condições impostas aos usuários e que possam configurar conduta anticompetitiva por abuso de posição dominante. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/17/05/2021/argentina-suspende-atualizacao-de-politica-de-privacidade-de-whatsapp-por-180-dias/"
+        },
+        {
+            "text": "Google I/O 2021 começa nesta terça-feira: espera-se o lançamento do Android 12, novas funcionalidades para o Assistente e talvez novo hardware das linhas Pixel e Nest. O evento terá início às 14h00 (horário de Brasília).",
+            "url": "https://events.google.com/io/?lng=pt-BR"
+        },
+        {
+            "text": "Ministro das Comunicações afirma que redes DDS não deveriam ser consideradas 5G: Fábio Faria quer que as operadoras deixem de mostrar “5G” quando celulares se conectarem a redes DSS, considerada pelo ministro como de quarta geração. Para a GSMA, associação global que reúne operadoras móveis, apesar de não possibilitar o desenvolvimento de todo o potencial da nova geração móvel, o DDS ainda apresenta maior capacidade que o 4G. As informações são do site Telesíntese.",
+            "url": "https://g1.globo.com/economia/noticia/2021/05/12/todas-as-capitais-terao-acesso-ao-5g-puro-ate-metade-de-2022-diz-ministro-das-comunicacoes.ghtml"
+        },
+        {
+            "text": "Governo cria aplicativo para realização de “prova de vida” digital: o app “SouGov.br”, disponível para Android e iOS, utiliza um sistema de reconhecimento facial para validar aposentados e pensionistas. A pessoa, entretanto, precisa ter sua biometria cadastrada no TSE ou no Denatran. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/17/05/2021/prova-de-vida-digital-pode-ser-feita-no-app-do-sougov-br/"
+        },
+        {
+            "text": "iFood libera PIX como forma de pagamento: após realizar o pedido, a pessoa tem cinco minutos para confirmar a operação na instituição financeira de sua escolha. Se o pagamento não for confirmado dentro do tempo estipulado, o pedido é automaticamente cancelado. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/442832/ifood-libera-pix-como-forma-de-pagamento-em-todo-o-brasil/"
+        },
+        {
+            "text": "Mercado Livre anuncia investimento de 4 bilhões de reais em São Paulo: a empresa pretende criar cerca de 5 mil empregos, a maioria voltados ao setor de logística e tecnologia, esperando reduzir os prazos de entrega com o aporte financeiro. O Mercado Livre se comprometeu a investir 10 bilhões de reais em todo o Brasil neste ano. As informações são do jornal O Globo.",
+            "url": "https://oglobo.globo.com/economia/mercado-livre-vai-investir-4-bilhoes-neste-ano-em-sao-paulo-40-do-total-previsto-para-pais-25021641"
+        }
+    ]
+}

@@ -8,6 +8,8 @@ import {
 } from 'remotion';
 import styled from 'styled-components';
 
+import loadFile from '../utils/loadFromTmp';
+
 const TitleDiv = styled.div`
 	position: relative;
 	overflow: hidden;
@@ -30,13 +32,6 @@ const TitleDiv = styled.div`
 	}
 `;
 
-async function loadAudio(audioFilePath: string) {
-	const pathArray = audioFilePath.split('/');
-	const audioFileName = pathArray[pathArray.length - 1];
-
-	return await require(`../../../tmp/${audioFileName}`);
-}
-
 export const Intro: React.FC<{
 	date: string;
 	audioFilePath: string;
@@ -51,7 +46,7 @@ export const Intro: React.FC<{
 	const [audioSrc, setAudioSrc] = useState<any>(null);
 
 	useEffect(() => {
-		loadAudio(audioFilePath)
+		loadFile(audioFilePath)
 			.then((audio) => {
 				setAudioSrc(audio);
 			})

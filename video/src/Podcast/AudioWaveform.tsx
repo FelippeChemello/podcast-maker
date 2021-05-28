@@ -2,12 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {interpolate, useCurrentFrame, useVideoConfig, Audio} from 'remotion';
 import {getAudioData} from '@remotion/media-utils';
 
-async function loadAudio(audioFilePath: string) {
-	const pathArray = audioFilePath.split('/');
-	const audioFileName = pathArray[pathArray.length - 1];
-
-	return await require(`../../../tmp/${audioFileName}`);
-}
+import loadFile from '../utils/loadFromTmp';
 
 export const AudioWaveform: React.FC<{
 	audioFilePath: string;
@@ -24,7 +19,7 @@ export const AudioWaveform: React.FC<{
 	const [waveforms, setWaveforms] = useState<number[] | null>(null);
 
 	useEffect(() => {
-		loadAudio(audioFilePath).then(async (audio) => {
+		loadFile(audioFilePath).then(async (audio) => {
 			setAudioSrc(audio);
 			const audioData = await getAudioData(audio);
 
