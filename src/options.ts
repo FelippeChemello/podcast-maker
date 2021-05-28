@@ -52,7 +52,7 @@ export const createYouTube = async ({
         haveEnd: true,
     });
 
-    // await new UrlShortenerService(content).execute();
+    await new UrlShortenerService(content).execute();
 
     new exportDataService(content).execute('landscape');
 
