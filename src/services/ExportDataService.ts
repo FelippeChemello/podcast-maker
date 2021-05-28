@@ -21,6 +21,7 @@ export default class ExportDataService {
         this.content.height = format[videoFormat].height;
 
         log(`Exporting data to ${dataFilename}`, 'ExportDataService');
+
         fs.writeFileSync(
             path.resolve(tmpPath, dataFilename),
             JSON.stringify(this.content),
