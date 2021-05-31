@@ -1,0 +1,55 @@
+{
+    "title": "WhatsApp desiste de polêmica / Tesla perde certificações / Fragmento atinge Estação Espacial",
+    "fps": 30,
+    "timestamp": 1622475235,
+    "date": "5/31/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Monday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "WhatsApp reverte decisão polêmica e não irá mais limitar acesso a contas que não aceitarem novas regras de privacidade: a página de suporte do serviço foi atualizada para indicar que não planeja mais exibir lembretes de maneira persistente (tela cheia), nem limitar as funcionalidades do aplicativo para quem não concordar com os termos de uso que permitem o compartilhamento de dados com o Facebook. Segundo o WhatsApp, a maioria dos usuários já aceitou a atualização.",
+            "url": "https://tecnoblog.net/446822/whatsapp-desiste-de-bloquear-app-de-quem-nao-aceitar-novas-regras/"
+        },
+        {
+            "text": "Tesla perde certificações de segurança após remover radares de veículos: a NHTSA, agência governamental de segurança dos EUA, precisará testar os veículos da marca novamente por precaução. A montadora anunciou na semana passada que passará a utilizar apenas a “Tesla Vision”, conjunto de câmeras e redes neurais para controle do seu sistema de piloto automático. As informações são do site TechXplore.",
+            "url": "https://techxplore.com/news/2021-05-safety-yanked-tesla-radar.html"
+        },
+        {
+            "text": "Fragmento de lixo espacial atinge a Estação Espacial Internacional: o detrito danificou o braço robótico que manobra objetos fora da estação, deixando um buraco em sua manta térmica. Mais de 23 mil pedaços de lixo espacial já são monitorados para evitar colisões com satélites e a estação espacial. As informações são do site Science Alert.",
+            "url": "https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station"
+        },
+        {
+            "text": "Número de usuários de TV pirata cresce e se aproxima de assinantes de TV paga no Brasil: a pesquisa da Mobile Time, de março deste ano, mostra que o País possui cerca de 33 milhões de pessoas que acessam TV por assinatura por meios ilegais, contra 45 milhões de assinantes legalizados. A Associação Brasileira de TVs por Assinatura afirma que a perda financeira com essa prática é de 15,5 bilhões de reais por ano. As informações são do Splash, do portal UOL.",
+            "url": "https://www.uol.com.br/splash/noticias/ooops/2021/05/24/n-de-usuarios-de-tv-pirata-se-aproxima-do-de-assinantes-no-brasil.htm"
+        },
+        {
+            "text": "Dinamarca é acusada de ajudar os EUA em espionagem de autoridades europeias: um dos principais alvos seria a chanceler alemã Angela Merkel. O Serviço de Inteligência de Defesa da Dinamarca teria colaborado com a Agência de Segurança Nacional (NSA) dos EUA entre os anos de 2012 e 2014 para obter dados de políticos da Alemanha, França, Suécia e Noruega. Edward Snowden acusou Joe Biden de participar dessa campanha de espionagem enquanto era vice-presidente de Barack Obama no período. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/world-europe-57302806"
+        },
+        {
+            "text": "Última atualização do Microsoft Edge usa alertas de sistema para recomendar o Bing: a mensagem é enviada através da central de notificação integrada do Windows 10 quando o navegador não é o padrão do sistema. O prompt possui dois botões, um para tornar o Edge e Bing como navegador e mecanismo de pesquisa padrão e outro para um lembrete posterior. As informações são do site Windows Latest.",
+            "url": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/"
+        },
+        {
+            "text": "Pesquisadores criam robô que reage a expressões faciais humanas: a EVA é um robô animatrônico que pode reagir e expressar emoções básicas como raiva, nojo, medo, alegria, tristeza e surpresa, imitando os movimentos de mais de 42 minúsculos músculos faciais humanos. Essas reações serão uma habilidade fundamental para construir confiança entre humanos e robôs no futuro, afirmam os pesquisadores. As informações são da página de imprensa da Universidade de Columbia.",
+            "url": "https://www.syfy.com/syfywire/columbia-university-researchers-create-robot-that-grins-back-at-you"
+        },
+        {
+            "text": "Estaleiro sueco lança hidrofólio elétrico para substituir as tradicionais balsas movidas a diesel: o “Candela P-12” utiliza propulsão elétrica e hidrofólios para levantar o casco do barco completamente para fora da água, efetivamente “voando” sobre a superfície, reduzindo o uso de energia, ruídos e ondas de deslocamento. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/05/31/candelas-p-12-electric-hydrofoil-water-taxi-unveiled-costs-85-less-than-gas-boats-to-run/s"
+        },
+        {
+            "text": "Novo sistema da Xiaomi carrega bateria inteira em apenas 8 minutos: para atingir 50%, o carregador de 200 Watts leva 3 minutos. Sistemas tradicionais levam cerca de 2 horas para carregar uma bateria a 100%. O carregador poderá estar disponível nos modelos da marca a partir do próximo ano, acredita o site Android Police.",
+            "url": "https://www.androidpolice.com/2021/05/31/xiaomi-can-fully-charge-a-phone-in-the-time-it-takes-an-iphone-to-go-from-99-to-100/"
+        },
+        {
+            "text": "Projeto com Raspberry Pi consegue emular qualquer pedal de guitarra: o “NeuralPi” pode ser treinado com redes neurais para emular amplificadores e pedais reais com precisão e latência muito baixa. O projeto é de código aberto e pode ser acesso através do repositório do GitHub “GuitarML/NeuralPi”. As informações são do site Hackaday.",
+            "url": "https://hackaday.io/project/180067-neuralpi"
+        }
+    ]
+}
