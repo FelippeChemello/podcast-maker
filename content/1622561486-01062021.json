@@ -1,0 +1,59 @@
+{
+    "title": "JBS é hackeada / Novo Firefox muda o visual / Recorde em fusão nuclear",
+    "fps": 30,
+    "timestamp": 1622561486,
+    "date": "6/1/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Tuesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "JBS, maior frigorífico do mundo, sofre ataque hacker: a brasileira JBS, dona das marcas Seara e Friboi, afirmou que a ação paralisou todas as suas operações na América do Norte e Austrália, sem afetar, no entanto, suas unidades na América do Sul. Os servidores de backup da empresa não foram afetados, mas não há previsão para o retorno das operações de processamento de carne, atividade impossível de ser realizada sem acesso normal a sistemas de TI e Internet, afirmou a companhia. As informações são do site Beef Central.",
+            "url": "https://www.beefcentral.com/news/jbs-global-meat-processing-operations-paralysed-by-cyber-attack/"
+        },
+        {
+            "text": "Firefox lança versão 89 com grande repaginação visual: o navegador possui um estilo mais consistente, com uma iconografia mais clara e uma nova paleta de cores. A barra de ferramentas do navegador e os menus foram bastante simplificados, com um design minimalista. As “abas flutuantes” agora são mais destacadas e contêm informações como indicadores visuais para controles de áudio. As informações são do site da Mozilla.",
+            "url": "https://www.mozilla.org/en-US/firefox/89.0/releasenotes/"
+        },
+        {
+            "text": "Reator de fusão nuclear na China bate novo recorde: a temperatura do plasma atingiu 160 milhões de graus Celsius por 20 segundos, mais de dez vezes a temperatura no centro do Sol. Apesar da façanha, serão necessários pelo menos mais 30 anos de pesquisa para que a tecnologia saia do laboratório, afirmaram os cientistas. As informações são do site Global Times.",
+            "url": "https://gadgets.ndtv.com/science/news/chinese-artificial-sun-fusion-reactor-experiment-2453713"
+        },
+        {
+            "text": "Cabo submarino que conecta Brasil à Europa começa a funcionar hoje: com o cabo, que possui mais de 6 mil quilômetros de extensão, as informações não precisarão mais passar pelos EUA para chegarem à Europa, reduzindo em 50% a latência da conexão. As informações são do Olhar Digital.",
+            "url": "https://olhardigital.com.br/2021/06/01/internet-e-redes-sociais/agora-e-oficial-cabo-submarino-que-liga-brasil-a-europa-e-inaugurado/"
+        },
+        {
+            "text": "Volkswagen paralisa duas fábricas no Brasil por causa da crise dos semicondutores: a produção de veículos em São José dos Pinhais (PR) e Taubaté (SP) deve ficar parada pelos próximos dez dias. A VW afirma que a escassez global de semicondutores tem causado problemas na indústria automotiva desde o final do ano passado. As informações são da Folha de São Paulo.",
+            "url": "https://www1.folha.uol.com.br/mercado/2021/05/volkswagen-suspende-producao-em-duas-fabricas-por-falta-de-insumos.shtml"
+        },
+        {
+            "text": "CEO da Intel estima que crise no setor de semicondutores pode durar mais dois anos: no discurso de abertura de 2021 da Computex, Pat Gelsinger afirmou que a demanda explosiva por chips para computação em nuvem, 5G, IA e edge computing, foi acelerada pela pandemia, causando a crise. As informações são do site TechPowerUp.",
+            "url": "https://www.techpowerup.com/282820/intel-ceo-predicts-chip-shortages-across-the-ecosystem-to-run-another-couple-of-years"
+        },
+        {
+            "text": "SpaceX já está construindo sua primeira plataforma de lançamento flutuante no oceano: uma plataforma de petróleo está sendo convertida para permitir o lançamento e pouso do seu sistema de foguete e veículo espacial reutilizável Super Heavy e Starship. A ideia de Elon Musk é ter várias dessas plataformas espalhadas pelo mundo, tornando possível uma rede global de viagens hipersônicas operadas pela SpaceX, transportando pessoas de Pequim a Nova York em apenas 30 minutos, por exemplo. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/05/31/spacexs-first-ocean-spaceport-is-being-built-and-will-host-launches-next-year/"
+        },
+        {
+            "text": "Cientistas utilizam nanotecnologia para remover e reutilizar poluentes da água: o PEARL é um substrato poroso e flexível revestido com nanoestruturas que sequestram seletivamente até 99% dos íons de fosfato da água poluída. O dispositivo pode ser ajustado para absorver ou liberar o poluente, permitindo a recuperação de fosfato e sua reutilização. As informações são do site Phys.",
+            "url": "https://olhardigital.com.br/2021/06/01/ciencia-e-espaco/cientistas-criam-dispositivo-multiuso-para-limpeza-da-poluicao-da-agua/"
+        },
+        {
+            "text": "Nova opção de privacidade do Android 12 pode pode enfraquecer o Facebook: a nova versão do sistema operacional permite que usuários neguem o acesso de aplicativos ao bluetooth, impedindo o uso de sistema para localização e personalização de anúncios. Mesmo com a localização por GPS desativada, o Facebook consegue utilizar o bluetooth hoje para rastrear a posição física de outros dispositivos móveis próximos, reconstruindo facilmente o local onde a pessoa se encontra e quem está ao seu redor. As informações são do blog The Big Tech.",
+            "url": "https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken"
+        },
+        {
+            "text": "Google garante que seus anúncios não terão tratamento especial em novo sistema rastreamento de atividades pela Internet: a companhia confirmou que utilizará as mesmas APIs disponíveis a desenvolvedores e anunciantes, garantindo que não construirá backdoors no FLoC para seus próprios anúncios e sistemas de rastreamento. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/05/31/google-says-it-wont-build-backdoors-in-floc-privacy-sandbox/"
+        },
+        {
+            "text": "Protocolo de Internet criado pelo Google vira padrão internacional: o “Quic”, que vem para substituir o TCP, melhora a velocidade e segurança na transmissão de dados entre computadores pela Internet. Em testes internos do Google, a tecnologia reduziu o tempo espera para obter resultados de pesquisas na web em até em 8% e o buffering de vídeos do YouTube em até 18%. As informações são da CNET.",
+            "url": "https://www.cnet.com/news/quic-gives-the-internets-data-transmission-foundation-a-needed-speedup/"
+        }
+    ]
+}
