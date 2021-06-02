@@ -1,0 +1,59 @@
+{
+    "title": "IA vai cursar faculdade / Trabalho remoto ou demissão / Empresa de backups hackeada",
+    "fps": 30,
+    "timestamp": 1622655256,
+    "date": "02/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "IA é matriculada em faculdade de Ciência da Computação na China: a estudante virtual “Hua Zhibing” será a primeira aluna com inteligência artificial a frequentar a Universidade Tsinghua, concentrando-se em cursos relacionados a tecnologia e dados. De acordo com o professor Tang Jie, Hua já possui algumas capacidades de raciocínio e emoção, podendo atingir o nível cognitivo de uma criança de 12 anos no próximo ano. As informações são do site Sixth Tone.",
+            "url": "https://www.sixthtone.com/news/1007654/chinas-newest-computer-science-student-is-a-computer"
+        },
+        {
+            "text": "Tesla planeja abrir restaurantes nos EUA: a montadora já possui as licenças necessárias e já registrou uma nova marca para utilizar em seus restaurantes. A ideia é expandir serviços e comodidades em torno da infraestrutura dos Superchargers, estações de carregamento dos veículos elétricos. Elon Musk indicou que os restaurantes poderão ser construídos no estilo “rock and roll” dos Anos 50. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/06/01/tesla-files-trademark-restaurant-services/"
+        },
+        {
+            "text": "Pessoas estão considerando demissão ao invés de voltar a trabalhar em escritórios: uma pesquisa da Bloomberg realizada com 1.000 funcionários nos EUA, mostra que 39% deles considerariam desistir de seus empregos caso as empresas não forem flexíveis e ofereçam a modalidade de trabalho remoto após a pandemia. Entre a Geração Y e Z esse número sobe para 49%.",
+            "url": "https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home"
+        },
+        {
+            "text": "Marco Legal das Startups entra em vigor: entre as novidades está a criação do “ambiente regulatório experimental”, no qual a empresa poderá lançar novos produtos e serviços inovadores com menos burocracia, e a previsão da figura do “investidor-anjo”, que não irá responder por qualquer obrigação da empresa, mas será remunerado pelos seus investimentos. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-06/marco-legal-das-startups-e-sancionado-e-entra-em-vigor"
+        },
+        {
+            "text": "Embraer vende 200 “drones de passageiros” para mobilidade urbana: as aeronaves elétricas de decolagem e pouso vertical (eVTOL) da “Eve”, subsidiária de mobilidade aérea urbana da Embraer, têm data de entrega prevista para 2026 e serão operadas pela Halo, empresa de viagens privadas de helicóptero nos EUA e no Reino Unido. As informações são da página de imprensa da Embraer.",
+            "url": "https://www.aeroin.net/embraer-anuncia-encomenda-de-200-aeronaves-evtol/"
+        },
+        {
+            "url": "https://9to5google.com/2021/06/01/google-human-brain-map/",
+            "text": "Mapa tridimensional de 1 milímetro cúbico do cérebro humano gera 1,4 terabyte de dados: para criar a imagem, a equipe de inteligência artificial do Google alinhou computacionalmente 225 milhões de imagens 2D individuais para produzir um único volume 3D, a maior amostra de tecido cerebral reconstruída neste nível de detalhe. As informações são do blog Google AI."
+        },
+        {
+            "text": "Nova McLaren Artura será lançada com primeiros pneus inteligentes: a Pirelli embutiu sensores diretamente na construção do pneu que medirão a pressão, temperatura e aceleração. A tecnologia também possui o potencial de atuar como uma plataforma distribuída, transmitindo dados sobre as condições da superfície das vias para outros veículos. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/cars/2021/06/heres-why-pirelli-is-putting-sensors-inside-its-new-tire-for-mclaren/"
+        },
+        {
+            "text": "Empresa que vende sistemas de backup contra ransomware paga resgate para restaurar sistemas: a ExaGrid teria pago cerca de 13 milhões de reais em moedas digitais aos criminosos, após sofrer um ataque do grupo de ransomware Conti. A empresa ainda precisou pedir aos hackers que enviassem a ferramenta de descriptografia uma segunda vez porque acabaram deletando o programa acidentalmente. As informações são do site ComputerWeekly.",
+            "url": "https://www.computerweekly.com/news/252501665/Exagrid-pays-26m-to-Conti-ransomware-attackers"
+        },
+        {
+            "text": "Novas antenas ópticas captam 100 vezes mais energia de fontes de calor: cientistas da Universidade de Colorado descobriram uma maneira de aumentar drasticamente a eficiência “rectenas” aproveitando-se um efeito chamado “poço quântico”. A técnica poderia captar energia térmica que normalmente seria desperdiçada, adicionando essas antenas a painéis solares. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/energy/renewables/optical-rectenna"
+        },
+        {
+            "text": "Estudo mostra que sistemas cloud custam o dobro de on-premise: segundo a pesquisa, seria “loucura” para uma startup não começar operações utilizando serviços em nuvem, mas seria outra “loucura” para empresas operando em escala não investir em sua própria infraestrutura. O impacto total estimado é superior a 500 bilhões de dólares no valor de mercado de empresas públicas nos EUA. As informações são do site da Andreessen Horowitz.",
+            "url": "https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/"
+        },
+        {
+            "text": "Conferência de desenvolvedores “F8” do Facebook tem início nesta quarta-feira: este será o primeiro evento do qual Mark Zuckerberg não fará a apresentação inicial. A agenda da “F8 Refresh” inclui as mais recentes ferramentas para o desenvolvimento de tecnologias disponíveis na rede social e seus produtos, bem como sessões técnicas de aprofundamento, demonstrações e painéis. O evento será transmitido ao vivo no Facebook através do perfil “FacebookforDevelopers”.",
+            "url": "https://exame.com/tecnologia/o-que-o-facebook-deve-apresentar-de-novo-na-f8/"
+        }
+    ]
+}
