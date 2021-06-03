@@ -1,0 +1,51 @@
+{
+    "title": "“Bolha” dos NFTs estoura / Stack Overflow é vendido / Novidades no WhatsApp",
+    "fps": 30,
+    "timestamp": 1622754626,
+    "date": "6/3/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "“Bolha” dos NFTs parece ter estourado: de acordo com dados analisados pelo Protos, site de notícias especializado em moedas digitais, apenas 19,4 milhões de dólares em vendas de NFTs foram processadas na semana passada, uma queda de quase 90% em comparação com o pico do mercado, no início de maio. O número de carteiras digitais ativas voltada a essa categoria também teria caído quase 70% nos últimos dias.",
+            "url": "https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/"
+        },
+        {
+            "text": "Stack Overflow é vendido por 1,8 bilhão de dólares: a compradora é a Prosus, uma das empresas de tecnologia mais valiosas da Europa, com investimentos na Udemy, Codeacademy e em uma variedade de plataformas online focadas em áreas como entrega de alimentos, classificados e fintech. O Stack Overflow atrai mais de 100 milhões de visitantes por mês, a maioria desenvolvedores. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400"
+        },
+        {
+            "text": "Zuckerberg confirma três novidades para o WhatsApp em breve: no modo de desaparecimento, qualquer mensagem enviada pelo usuário será excluída após 7 dias por padrão. Na visualização única, imagens e vídeos poderão ser vistos apenas uma vez antes de serem apagados. O suporte a vários dispositivos vai permitir até 4 instâncias do aplicativo ao mesmo tempo, permitindo a troca de mensagens através da versão Web, sem a necessidade de uma conexão ativa no celular, por exemplo. As informações foram confirmadas por Mark Zuckerberg ao site WABetaInfo.",
+            "url": "https://wabetainfo.com/will-cathcart-and-mark-zuckerberg-confirm-to-wabetainfo-3-features-to-come-on-whatsapp/"
+        },
+        {
+            "text": "Claro e Vivo são as duas campeãs em nova pesquisa: a Claro tem as melhores velocidades e menor ping, mas a Vivo possui a melhor cobertura 4G. O estudo foi realizado entre novembro de 2020 e abril de 2021, baseado em 29 milhões de medições automáticas. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/447701/4g-da-claro-e-mais-rapido-e-vivo-tem-melhor-sinal-diz-estudo/"
+        },
+        {
+            "text": "FBI confirma grupo REvil por trás de ataque ao frigorífico JBS: acredita-se que a operação de ransomware seja coordenada por hackers russos que recrutam afiliados para violar redes corporativas, ganhando de 20% a 30% de todos os pagamentos de resgate. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-revil-cybergang-behind-the-jbs-ransomware-attack/"
+        },
+        {
+            "text": "Pesquisadores descobrem manipulação em grande escala no Trending Topics do Twitter: segundo o estudo da EPFL, 20% das tendências globais são falsas e criadas do zero por bots. O algoritmo do “Trending Topics” não desconsidera posts excluídos, permitindo o lançamento de campanhas maliciosas e impedindo que contas comprometidas descubram que contribuíram com o ataque. As informações são do site TechXplore.",
+            "url": "https://actu.epfl.ch/news/mass-scale-manipulation-of-twitter-trends-discov-2/"
+        },
+        {
+            "text": "Elon Musk tuíta sobre “Baby Shark” e ações da editora disparam: em resposta a um clipe sobre memes virais da Internet lutando entre si, postado pela conta oficial da série de animação South Park no Twitter, Musk afirmou que “Baby Shark supera todos!! Mais visualizações do que humanos” (em tradução livre). As ações da Samsung Publishing subiram quase 10% após o comentário de Musk. “Baby Shark Dance” é o vídeo mais assistido na história do YouTube, com cerca de 8,7 bilhões de visualizações. As informações são do site Yahoo! Finance.",
+            "url": "https://finance.yahoo.com/news/elon-musk-baby-shark-tweet-054832665.html"
+        },
+        {
+            "text": "Antivírus da Norton vai minerar moeda digital: o novo recurso “Norton Crypto” vai permitir a mineração de moedas digitais através do próprio aplicativo antivírus, armazenando os ganhos numa carteira digital com backup na nuvem, evitando perdas em caso de falhas no disco rígido. As informações são da página de BBC.",
+            "url": "https://www.bbc.com/news/technology-57345632"
+        },
+        {
+            "text": "Criador do Python afirma que versão 4 provavelmente nunca será lançada: Guido van Rossum disse que a equipe de desenvolvimento da linguagem não gosta da ideia do Python 4 após a difícil transição e incompatibilidade entres as versões 2 e 3 ocorrida em 2008. As informações são do site TechRepublic.",
+            "url": "https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/"
+        }
+    ]
+}
