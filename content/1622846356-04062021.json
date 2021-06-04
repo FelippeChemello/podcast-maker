@@ -1,0 +1,63 @@
+{
+    "title": "TikTok vai coletar impressão facial / Ransomware como terrorismo / Tesla com parafusos soltos",
+    "fps": 30,
+    "timestamp": 1622846356,
+    "date": "6/4/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Friday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "TikTok vai coletar dados biométricos de usuários automaticamente: o aplicativo, no entanto, não indicou qual a necessidade de coletar impressões faciais e de voz de quem usa a rede social. O TikTok já identifica outras informações como objetos, cenários, áudio e texto em cada vídeo postado. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/03/tiktok-just-gave-itself-permission-to-collect-biometric-data-on-u-s-users-including-faceprints-and-voiceprints/"
+        },
+        {
+            "text": "EUA tratarão ataques de ransomware como terrorismo: uma nova força-tarefa centralizada em Washington irá rastrear todos os casos de ransomware no país com o intuito de destruir toda a infraestrutura de ataques que evolve botnets, exchanges de moedas digitais, fóruns de ferramentas de hacking e mercados de credenciais roubadas. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/tech-cyber-eua-ransomware-idBRKCN2DF27Z-OBRIN"
+        },
+        {
+            "text": "Tesla faz recall para consertar carros com parafusos potencialmente soltos: ao total, 6 mil veículos precisarão ser revisados porque os parafusos da pinça de freio dos modelos X e Y podem estar soltos, com o potencial de causar uma perda de pressão nos pneus. As informações são da Reuters.",
+            "url": "https://www.reuters.com/world/us/tesla-recalls-nearly-6000-us-vehicles-over-potentially-loose-bolts-2021-06-02/"
+        },
+        {
+            "text": "Após 10 anos, Canon fecha fábrica de câmeras na Zona Franca de Manaus: a companhia, entretanto, continuará oferecendo produtos fotográficos e assistência técnica no Brasil. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/447873/canon-fecha-fabrica-brasileira-de-cameras-na-zona-franca-de-manaus/"
+        },
+        {
+            "text": "NASA anuncia duas novas missões para estudar Vênus: as sondas DAVINCI+ e VERITAS irão analisar a atmosfera e mapear a superfície do planeta que não é visitado há mais de 30 anos. As informações são do perfil do Twitter da NASA.",
+            "url": "https://www.nasa.gov/press-release/nasa-selects-2-missions-to-study-lost-habitable-world-of-venus"
+        },
+        {
+            "text": "Companhia aérea United Airlines compra 15 jatos supersônicos: os aviões da Boom Supersonic voarão em Mach 1,7, ou seja, 70% mais rápidos do que a velocidade do som. A meta é iniciar o serviço de viagens supersônicas em 2029, reduzindo o tempo de vôo de alguns trechos pela metade, como de Nova York a Londres em apenas 3 horas e meia. As informações são da CNBC.",
+            "url": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html"
+        },
+        {
+            "text": "Toyota registra recorde de quilometragem com veículo movido a hidrogênio: o modelo Mirai rodou 1.003 quilômetros com apenas um tanque abastecido de hidrogênio verde, batendo o recorde anterior do Hyundai Nexo em mais de 100km. As informações são do site InsideEVs.",
+            "url": "https://insideevs.com/news/511082/toyota-mirai-record-1000km-hydrogen/"
+        },
+        {
+            "text": "Bicicleta inteligente prevê acidentes com veículos: a e-bike desenvolvida por engenheiros da Universidade de Minnesota utiliza sensores como LiDAR e lasers para calcular a trajetória de veículos ao seu redor e prever acidentes com até 30 metros de antecedência. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/transportation/safety/smart-bike-protects-itself-against-collisions"
+        },
+        {
+            "text": "Twitter lança serviço de assinatura com recursos avançados: o Twitter Blue, disponível inicialmente na Austrália e Canadá, custa em torno de 15 reais mensais e permite desfazer tuítes, habilita um modo leitura para threads longas e permite criar pastas para organização de conteúdos salvos. As informações são do blog do Twitter.",
+            "url": "https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue.html"
+        },
+        {
+            "text": "Fórum hacker lança concurso para roubo de moedas digitais: o prêmio de 100 mil dólares será distribuído entre quem criar novas técnicas para aquisição de chaves privadas de carteiras digitais e hackear contratos inteligentes ou NFTs. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/hacker-forum-contest-gives-100k-for-new-ways-to-steal-digital-assets/"
+        },
+        {
+            "text": "WordPress instala automaticamente atualização de segurança do Jetpack em 5 milhões de sites: uma vulnerabilidade foi encontrada no recurso “Carrossel” e sua opção de exibir comentários em imagens, mas não há evidências de que a falha tenha sido explorada por hackers. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/wordpress-force-installs-jetpack-security-update-on-5-million-sites/"
+        },
+        {
+            "text": "Nova geração do Windows já tem data de lançamento: o evento está marcado para o dia 24 de junho e a transmissão será ao vivo, a partir das 12h00 (horário de Brasília), no site da Microsoft.",
+            "url": "https://www.microsoft.com/en-us/windows/event"
+        }
+    ]
+}
