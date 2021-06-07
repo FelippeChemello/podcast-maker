@@ -1,0 +1,59 @@
+{
+    "title": "Anonymous ameaça Elon Musk / China usa IA para rastrear UFOs / Nova usina nuclear nos EUA",
+    "fps": 30,
+    "timestamp": 1623084544,
+    "date": "07/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Anonymous ameaça Elon Musk: um indivíduo que afirma representar o coletivo de hackers publicou um vídeo acusando o mega empresário de “destruir vidas” com seus tuítes sobre moedas digitais. O indivíduo fez apenas uma ameaça velada, dizendo que Musk “agora encontrou alguém à sua altura”. As informações são da Forbes.",
+            "url": "https://www.forbes.com/sites/daveywinder/2021/06/06/did-anonymous-really-just-threaten-elon-musk-over-viral-bitcoin-tweets/"
+        },
+        {
+            "text": "Criminosos estão utilizando biometria facial para financiar veículos em nome das vítimas: a pessoa recebe em casa a visita de um suposto motoboy com um brinde (um kit de perfumaria por exemplo), mas precisa realizar o reconhecimento facial no celular do golpista para confirmar o recebimento da encomenda não solicitada. Com a confirmação facial e outros documentos falsos, os criminosos conseguem a aprovação do financiamento e retiram os veículos das concessionárias. As informações são do portal UOL Carros.",
+            "url": "https://www.uol.com.br/carros/noticias/redacao/2021/06/04/golpe-do-reconhecimento-facial-faz-vitima-financiar-carro-de-luxo-sem-saber.htm"
+        },
+        {
+            "text": "China está utilizando IA para rastrear UFOs: o sistema atribui um “índice de ameaça” a cada objeto com base em seu comportamento, frequência de ocorrência, design aerodinâmico, radioatividade e possíveis materiais construtivos. Pesquisadores chineses afirmam que relatos de avistamentos, conhecidos no país como “condições aéreas não-identificadas”, estão aumentando na China e são tratados como dispositivos militares de outros países para reunir inteligência. As informações são da South China Morning Post.",
+            "url": "https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos"
+        },
+        {
+            "text": "YouTube lança Shorts oficialmente no Brasil: a ferramenta permite a criação de vídeos curtos e criativos na plataforma, um recurso para competir diretamente com o TikTok. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/internet/218622-youtube-shorts-chega-brasil-segunda-feira-07.htm"
+        },
+        {
+            "text": "Evento para desenvolvedores da Apple começa nesta segunda-feira: a WWDC 2021 terá um evento especial de abertura a partir das 14h00 (horário de Brasília). Além do já esperado lançamento do iOS 15, a Apple poderá revelar novos modelos do MacBook Pro com chips variantes do M1. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/07/live-from-apples-wwdc-2021-keynote/"
+        },
+        {
+            "text": "Militares norte-americanos querem utilizar foguetes reutilizáveis para enviar suprimentos ao redor do mundo: a tecnologia em desenvolvimento por empresas como SpaceX e Blue Origin poderia entregar cargas de até 100 toneladas em qualquer lugar do planeta em apenas 90 minutos. No entanto, para serem viáveis, os foguetes precisariam pousar em qualquer tipo de terreno e não apenas em plataformas de lançamento. As informações são do site Ars Technica.",
+            "url": "https://taskandpurpose.com/military-tech/air-force-starship-rocket-spacex/"
+        },
+        {
+            "text": "Bill Gates anuncia construção de usina nuclear nos EUA: o “Natrium” é um reator de quarta geração que utiliza sódio fundido para refrigeração, prometendo ser mais seguro, ecológico e barato do que reatores nucleares tradicionais. A usina será construída no local de uma usina a carvão desativada no estado de Wyoming. As informações são da Associated Press.",
+            "url": "https://apnews.com/article/bill-gates-wyoming-technology-environment-and-nature-government-and-politics-c647adc5f4a447eaef1c4ec28464e153"
+        },
+        {
+            "text": "Microsoft anuncia primeira parceria em urnas eletrônicas: uma das maiores fabricantes de sistemas de votação digital nos EUA vai utilizar o “ElectionGuard”, sistema open source criado pela Microsoft que utiliza encriptação homomórfica para validação e auditoria de votos, e foi projetado para ser incorporado em qualquer urna eletrônica. As informações são do site Wired.",
+            "url": "https://www.wired.com/story/microsoft-hart-electionguard-vote-tracking-software-partnership"
+        },
+        {
+            "text": "El Salvador será o primeiro país no mundo a adotar moeda digital como “curso forçado”: uma moeda de curso forçado é aquela aceita por força de lei. El Salvador também pretende modernizar a infraestrutura financeira do país utilizando a tecnologia blockchain. As informações são da CBNC.",
+            "url": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html"
+        },
+        {
+            "text": "Pesquisadora da Microsoft afirma que sistemas comuns de inteligência artificial atuais não são “nem inteligentes, nem artificiais”: Kate Crawford argumenta que grandes empresa utilizam mão de obra mal paga para executar tarefas que fazem esses sistemas parecerem completamente autônomos, como o trabalho de categorização de dados. As informações são do The Guardian.",
+            "url": "https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent"
+        },
+        {
+            "text": "Google, Mozilla, Microsoft e Apple formam grupo para padronizar extensões em navegadores: o WebExtensions Community Group (WECG) quer facilitar a criação e segurança de extensões, especificando um modelo consistente e um núcleo comum de funcionalidades, APIs e permissões. As informações são da página do World Wide Web Consortium (W3C).",
+            "url": "https://www.cnet.com/news/chrome-safari-firefox-and-edge-join-forces-to-improve-browser-extensions/"
+        }
+    ]
+}
