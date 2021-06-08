@@ -1,0 +1,55 @@
+{
+    "title": "Golpe de SEO no Google / PF busca hackers do STF / CDN cai e derruba parte da Internet",
+    "fps": 30,
+    "timestamp": 1623186327,
+    "date": "08/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedor acusa editores de HTML melhores ranqueados no Google de serem um golpe de SEO: Caspar von Wrede, explica em seu blog, que diversas ferramentas para edição ou “limpeza” de HTML online como “HTML-Online”, “HTMLG”, “HTML-Cleaner” e “HTML5-Editor”, aparentemente todas desenvolvidas pela mesma pessoa ou organização, injetam links secretamente nos outputs gerados para melhor o ranking de si próprias ou de sites afiliados no Google. Até mesmo um posto no blog da empresa de segurança Kaspersky já caiu no esquema, possuindo um backlink para uma das páginas do grupo. Segundo von Wrede, o método tem sido muito bem-sucedido e parece não ter sido detectado até agora.",
+            "url": "https://casparwre.de/blog/seo-scam/"
+        },
+        {
+            "text": "PF faz operação para prender hackers do STF: a Operação “LEET”, deflagrada na manhã desta terça-feira, ocorre simultaneamente nos estados de Goiás, São Paulo e Pernambuco, onde estão sendo cumpridos cinco mandados de busca e apreensão e três mandados de prisão temporária. No dia 03 de maio deste ano, o STF identificou uma série de condutas suspeitas e tentativa de ataque ao seu site. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-06/pf-cumpre-mandados-de-prisao-contra-hackers-suspeitos-de-atacar-stf"
+        },
+        {
+            "text": "Provedor de CDN cai e derruba grande parte da Internet: uma falha nos sistemas da Fastly na manhã desta terça-feira derrubou inúmeros sites populares, redes sociais e páginas de notícias como Spotify, Twitch, Stack Overflow, GitHub, CNN, The New York Times, BBC e Financial Times. Segundo a página de status da Fastly, por volta das 11h00 (UTC) o problema foi identificado e uma correção foi aplicada. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/"
+        },
+        {
+            "text": "Apple apresenta iOS 15, novidades para desenvolvedores e recurso exclusivo para o Brasil: a atualização traz melhorias de áudio e vídeo para o FaceTime, um sistema de notificações e modo “Não Perturbe” aprimorados, tecnologia de reconhecimento de texto e objetos em fotos, e extensões para o Safari. A Apple também investiu em privacidade e vai criptografar e anonimizar o IP de todas as conexões realizadas pelo Safari, funcionando de forma similar ao Projeto Tor (mas centralizado). Exclusivo para o Brasil é a filtragem de SMS, classificando mensagens de texto automaticamente como “Promoções, “Transações” e “Lixo”. A companhia também apresentou uma ferramenta de CI/CD integrada ao ambiente de produção de aplicativos, com suporte à nuvem, chamada de “Xcode Cloud”. Com informações da Apple, The Register e Tecnoblog.",
+            "url": "https://tecnoblog.net/449084/ios-15-macos-monterey-icloud-e-todas-as-novidades-da-apple-na-wwdc-2021/"
+        },
+        {
+            "text": "Empresa do famoso investidor Warren Buffett aposta no Nubank: a startup levantou 750 milhões de dólares em uma nova rodada de investimentos, sendo 500 milhões apenas da Berkshire Hathaway, de Buffett. O aporte levou o valuation do Nubank para 30 bilhões de dólares. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/08/fintech-all-star-nubank-raises-a-750m-mega-round/"
+        },
+        {
+            "text": "Fotógrafa processa Capcom por uso indevido de imagens em jogos da série Resident Evil: Judy Juracek afirma que a produtora utilizou cerca de 80 imagens de sua autoria (publicadas em um CD-ROM em 1996) como texturas em diversas partes dos jogos da franquia. Juracek está pedindo uma indenização de 12 milhões de dólares. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/08/capcom_copyright/"
+        },
+        {
+            "text": "Grafeno pode criar HDs com 10 vezes mais capacidade de armazenamento: além de permitir uma densidade de dados superior a 10 terabytes por polegada quadrada, o material oferece melhor proteção à corrosão e desgaste do que as soluções atuais. As informações são do site Phys.",
+            "url": "https://phys.org/news/2021-06-ultra-high-density-hard-graphene-ten.html"
+        },
+        {
+            "text": "MIT está construindo um robô humanoide dinâmico e acrobático: o robô, do tamanho de uma criança, foi projetado para fazer “parkour” em terrenos desafiadores, utilizando atuadores com maior potência e torque, permitindo simular as ações suaves e dinâmicas que acontecem naturalmente em humanos durante corridas e caminhadas. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/automaton/robotics/humanoids/mit-dynamic-acrobatic-humanoid-robot"
+        },
+        {
+            "text": "Aplicativo de mensagens criado pelo FBI derruba máfia australiana: durante três anos, os criminosos utilizaram o “AN0M”, aplicativo supostamente criptografado, mas desenvolvido pela agência norte-americana, permitindo a leitura de mais de 25 milhões de mensagens em tempo real. A operação “Ironside”, deflagrada ontem, prendeu 224 pessoas em 33 países. As informações são da ABC Australia.",
+            "url": "https://www.abc.net.au/news/2021-06-08/how-afp-fbi-used-an0m-to-infiltrate-organised-crime-gangs/100199278"
+        },
+        {
+            "text": "Aplicativo do Google para aprender a programar agora tem suporte ao português do Brasil: o Grasshopper tem como objetivo ensinar programação para iniciantes através de jogos e lições interativas em JavaScript, trazendo conceitos como funções, loops e variáveis. As informações são do blog do Google Brasil.",
+            "url": "https://brasil.googleblog.com/2021/06/aprenda-programar-com-o-grasshopper.html"
+        }
+    ]
+}
