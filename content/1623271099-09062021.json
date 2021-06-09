@@ -1,0 +1,47 @@
+{
+    "title": "Maior vazamento de senhas da história / Drone localiza humanos por gritos / Foguete por impressão 3D",
+    "fps": 30,
+    "timestamp": 1623271099,
+    "date": "09/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Maior vazamento de senhas da história contém 8,4 bilhões de registros únicos: o arquivo com 100GB, em formato TXT, está disponível em um fórum especializado para hackers. Não se sabe a origem dessas senhas, mas acredita-se que são uma compilação de vazamentos anteriores. As informações são do site CyberNews.",
+            "url": "https://canaltech.com.br/seguranca/rockyou2021-84-bilhoes-de-senhas-sao-reveladas-no-maior-vazamento-da-historia-186656/"
+        },
+        {
+            "text": "Pesquisadores criam drones que localizam humanos através de gritos: a tecnologia desenvolvida pelo instituto alemão Fraunhofer FKIE utiliza uma variedade de microfones e técnicas de processamento avançadas para localizar sobreviventes em desastres como terremotos e edifícios desmoronados, e não se destina à máquinas de guerra autônomas. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/09/crows_nest_array_drone/"
+        },
+        {
+            "text": "Empresa aeroespacial vai utilizar impressão 3D para construir foguetes: os estágios do “Terran-R” da Relativity Space serão impressos a partir de uma liga de alumínio e um material resistente ao calor para suportar as temperaturas de reentrada. A companhia afirma que seu foguete será o primeiro a ser completamente reutilizável, com todos os estágios voltando à Terra. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/science/2021/06/relativity-has-a-bold-plan-to-take-on-spacex-and-investors-are-buying-it/"
+        },
+        {
+            "text": "Fastly explica falha que derrubou grande parte da Internet na manhã de ontem: em maio deste ano, uma atualização introduziu um bug que poderia ser acionado por uma alteração de configuração apenas por um cliente específico e que não foi revelado. Na manhã de ontem (dia 08/junho), esse cliente realizou a alteração, desencadeando a falha e derrubando 85% da rede CDN. Após 49 minutos, entretanto, 95% da rede já voltava a operar normalmente. Agora a Fastly quer entender por que não detectou o bug durante os processos de QA. As informações são do blog da Fastly.",
+            "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/fastly-why-internet-down-explained-b1862340.html"
+        },
+        {
+            "text": "Instagram começa a testar recurso nativo de links afiliados: criadores de conteúdo poderão compartilhar produtos com seus seguidores e receber comissões pelas vendas que incentivarem. A ferramenta será lançada inicialmente nos EUA, mas se expandirá para mais países a partir dos próximos meses. As informações são do blog do Instagram.",
+            "url": "https://variety.com/2021/digital/news/instagram-shopping-monetization-tools-zuckerberg-1234991560/"
+        },
+        {
+            "text": "Estudo mostra que fazer pausas curtas pode ajudar cérebro a aprender novas habilidades: durante o repouso, os cérebros dos voluntários repetiam continuamente um “replay” das ações que haviam praticado anteriormente, mas de forma acelerada, cerca de 20 vezes mais rápido. A descoberta também pode auxiliar na criação de técnicas para recuperação de habilidades perdidas após lesões neurológicas, como um acidente vascular cerebral. As informações são da página do Instituto Nacional de Saúde dos EUA.",
+            "url": "https://www.sciencetimes.com/articles/31620/20210609/recent-neurological-study-suggests-short-breaks-replay-memories-helps-learn.htm"
+        },
+        {
+            "text": "Preço de baterias cai 97% em 30 anos: o custo das células de bateria de íons de lítio caiu em média 19% para cada duplicação da capacidade e esse ritmo de redução não tem desacelerando nos últimos anos. Novas tecnologias e aumento da capacidade instalada contribuíram para a queda nos preços. As informações são do site Our World in Data.",
+            "url": "https://ourworldindata.org/battery-price-decline"
+        },
+        {
+            "text": "Google anuncia maior cabo submarino de fibra óptica do mundo conectando as Américas do Norte e Sul: o cabo “Firmina”, em homenagem a Maria Firmina dos Reis, considerada a primeira romancista brasileira, conectará a costa leste dos EUA à Argentina, com passagens pelo Brasil e Uruguai, fornecendo acesso de baixa latência aos serviços nuvem do Google, Busca, Gmail e YouTube. As informações são do blog Google Cloud.",
+            "url": "https://cloud.google.com/blog/products/infrastructure/announcing-the-firmina-subsea-cable"
+        }
+    ]
+}
