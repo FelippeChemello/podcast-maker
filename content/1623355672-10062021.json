@@ -1,0 +1,47 @@
+{
+    "title": "Xbox integrado em TVs / IA desenvolve chip de IA / Facebook muda de ideia sobre trabalho remoto",
+    "fps": 30,
+    "timestamp": 1623355672,
+    "date": "10/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Microsoft anuncia planos de integrar o Xbox diretamente em TVs: a companhia já está trabalhando com diversos fabricantes para que nenhum hardware extra seja necessário, exceto um controle, para o streaming de jogos do Xbox. A Microsoft também está desenvolvendo um dispositivo próprio para jogos em nuvem em qualquer monitor ou TVs que não são smart, eliminando a necessidade de um console. As informações são da página Xbox Wire.",
+            "url": "https://www.videogameschronicle.com/news/xbox-confirms-game-pass-streaming-is-coming-to-tvs-and-standalone-devices/"
+        },
+        {
+            "text": "Google usa IA para projetar processador de IA: uma inteligência artificial levou menos de seis horas para projetar a arquitetura base da nova geração da Tensor Processing Unit (TPU), chip utilizado especificamente para a criação de redes neurais e aprendizado de máquina. Engenheiros especialistas em design de chips normalmente levariam meses de iteração para realizar a mesma tarefa. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/semiconductors/design/google-invents-ai-that-learns-a-key-part-of-chip-design"
+        },
+        {
+            "text": "Facebook muda de ideia e decide continuar com trabalho remoto: qualquer pessoa poderá trabalhar de casa em tempo integral, desde que suas tarefas possam ser realizadas remotamente. Mark Zuckerberg afirma que está otimista com a modalidade, especialmente após melhorias em tecnologias como realidade virtual e presença remota por vídeo. As informações são da CNBC.",
+            "url": "https://www.cnbc.com/2021/06/09/facebook-says-all-employees-can-request-permanent-remote-work.html"
+        },
+        {
+            "text": "Brasil possui a terceira internet móvel mais rápida da América Latina: o México está em primeiro lugar (23Mbps em download), a Argentina em segundo (20,7Mbps) e o Brasil em terceiro (19,1 Mbps de download). A Claro é o operadora mais rápida no Brasil (27,5Mbps em download), seguida pela Vivo (19,5 Mbps) e TIM (14,8Mbps). O estudo está disponível no blog da Speedtest,",
+            "url": "https://www.speedtest.net/insights/blog/brasil-q1-2021/"
+        },
+        {
+            "text": "Cientistas brasileiros desenvolvem programa para criação de circuitos baseados em DNA: Renan Marks, professor adjunto da Faculdade de Computação da Universidade Federal de Mato Grosso do Sul afirma que o software “DNAr-Logic” pode auxiliar outros cientistas a projetar e simular circuitos biológicos sem conhecimento prévio em química. A tecnologia tem o potencial de acelerar o diagnóstico de doenças e criar tratamentos de saúde mais eficazes. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/tech-talk/computing/hardware/dna-based-circuits-future-of-medicine-this-software-program-gets-us-there-faster"
+        },
+        {
+            "text": "JBS paga 11 milhões de dólares em resgate de ransomware: o valor é a metade do inicialmente exigido pelo grupo REvil. A empresa decidiu pagar o resgate para facilitar o processo de recuperação de seus sistemas e evitar o vazamento de dados. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/jbs-paid-11-million-to-revil-ransomware-225m-first-demanded/"
+        },
+        {
+            "text": "Estratégia da gangue de ransomware Nefilim está dando certo, afirma Trend Micro: os hackers do grupo focam em empresas que possuem mais de 1 bilhão de dólares em receita anual e, em média, recebem os valores mais altos em suas campanhas de extorsão comparados a outros grupos criminosos. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/09/trend_micro_nefilim_ransomware_research/"
+        },
+        {
+            "text": "DeepMind afirma que aprendizagem por reforço é suficiente para alcançar inteligência artificial geral: o laboratório de pesquisa do Google acredita que a maximização de recompensas e experiências de tentativa e erro são suficientes para desenvolver uma IA com habilidades associadas à inteligência generalizada, como a de humanos. As informações são do site VentureBeat.",
+            "url": "https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/"
+        }
+    ]
+}
