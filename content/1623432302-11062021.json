@@ -1,0 +1,51 @@
+{
+    "title": "Vulcões minerando bitcoin / EA hackeada / Tesla lança carro mais rápido do mundo",
+    "fps": 30,
+    "timestamp": 1623432302,
+    "date": "11/06/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "El Salvador vai utilizar vulcões para minerar moeda digital: o país é o primeiro do mundo a adotar uma moeda digital como “curso forçado” (aceita por força de lei). A empresa estatal de energia geotérmica do país irá utilizar a energia derivada de vulcões, muito barata e renovável, para a mineração dos ativos digitais. As informações são da rede NPR.",
+            "url": "https://www.npr.org/2021/06/11/1005231250/el-salvador-plans-to-use-electricity-generated-from-volcanoes-to-mine-bitcoin"
+        },
+        {
+            "text": "Hackers invadem Electronic Arts e vendem dados por 28 milhões de dólares: dentre os 750GB de dados roubados estão chaves API, SDKs e o código-fonte dos jogos FIFA 21, FIFA 22 (ainda não lançado) e da engine Frostbite. O ataque não foi do tipo ransomware e a empresa acredita que informações de usuários não foram comprometidas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-gaming-giant-electronic-arts-steal-game-source-code/"
+        },
+        {
+            "text": "Tesla apresenta veículo de produção mais rápido do mundo: o Model S Plaid é um sedã elétrico de quatro portas que vai de 0 a 100 km/h em 1,99 segundo, possui 1.020 cavalos de força, tem uma velocidade máxima de 321 km/h e autonomia de 627 quilômetros, levando apenas 15 minutos para atingir cerca de 50% de capacidade da bateria. Segundo Elon Musk, o modelo deixa claro que carros elétricos podem ser “os mais rápidos e incríveis em todos os sentidos”. O Tesla Model S Plaid custa a partir de 130 mil dólares. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/10/elon-musk-reveals-the-tesla-model-s-plaid/"
+        },
+        {
+            "text": "Falhas em aplicativos pré-instalados em celulares da Samsung podem ser utilizados para espionar usuários: segundo o pesquisador de segurança Sergey Toshin algumas das 17 vulnerabilidades descobertas não requerem nenhuma ação para serem exploradas maliciosamente, lendo ou gravando dados arbitrários nos dispositivos da marca. Três falhas ainda não foram resolvidas, mas a Samsung já está desenvolvendo patches para todas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-can-exploit-bugs-in-samsung-pre-installed-apps-to-spy-on-users/"
+        },
+        {
+            "text": "Troy Hunt afirma que “vazamento” de 8,4 bilhões de senhas não é real: o criador da famosa ferramenta “Have I Been Pwned?” afirmou em seu perfil no Twitter que o arquivo de 100GB disponibilizado em um fórum para hackers é uma agregação de várias outras listas, contendo ainda todas as palavras da base de dados da Wikipedia e, ao contrário de violações passadas, não contém senhas reais comprometidas.",
+            "url": "https://www.cnnbrasil.com.br/business/2021/06/11/vazamento-historico-de-8-4-bilhoes-de-senhas-pode-nao-ser-tao-grave-entenda"
+        },
+        {
+            "text": "Insurtech brasileira Pier cria IA que libera pagamento de seguro em poucos segundos: o algoritmo “Pier Bolt” analisa 45 mil pontos de dados como geolocalização, tempo como cliente e modo de uso do aplicativo. O sistema aprova sinistros envolvendo celulares e futuramente poderá ser utilizado no seguro de automóveis. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/10/06/2021/insurtech-pier-desenvolve-ia-capaz-de-liberar-valor-do-sinistro-em-segundos/"
+        },
+        {
+            "text": "Cientistas do MIT descobrem novo mecanismo para gerar eletricidade utilizando nanotubos de carbono: a tecnologia, considerada “intrigante” pelos pesquisadores, poderá ser utilizada no futuro para alimentar robôs em micro ou nanoescala. As informações são do site MIT News.",
+            "url": "https://www.extremetech.com/extreme/323556-mit-develops-new-method-of-generating-power-with-carbon-nanotubes"
+        },
+        {
+            "text": "Mozilla aponta vários problemas de privacidade no FLoC: segundo a fundação, o sistema proposto pelo Google para substituição dos cookies em navegadores possui vários problemas se fosse amplamente implementado em sua forma atual, podendo ser utilizado para rastreamento de atividades na Web utilizando técnicas como browser fingerprinting. As informações são do blog da Mozilla.",
+            "url": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/"
+        },
+        {
+            "text": "Alarme falso de incêndio em data center da AWS impediu que equipe técnica acessasse o local: com o sistema é ativado, o data center em Frankfurt, na Alemanha, foi evacuado e lacrado, com um produto químico dispersado no ar para remover o oxigênio e extinguir as supostas chamas. As instalações precisaram ser reoxigenadas antes que fosse seguro restaurar os equipamentos de rede e servidores afetados. As informações são do site HackerNews.",
+            "url": "https://news.ycombinator.com/item?id=27466678"
+        }
+    ]
+}
