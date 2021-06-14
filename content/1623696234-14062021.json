@@ -1,0 +1,51 @@
+{
+    "title": "Síndico investe R$ 1 milhão em moedas digitais / Anúncios em sonhos / McDonald's é hackeado",
+    "fps": 30,
+    "timestamp": 1623696234,
+    "date": "6/14/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Monday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Síndico utilizou reservas do condomínio para investir em moedas digitais: o homem, considerado pelos moradores como um “síndico perfeito”, teria se apropriado de 1 milhão de reais e falsificado o extrato bancário de um condomínio no estado do Paraná para aplicar em moedas virtuais. O ex-síndico, entretanto, afirma que o investimento seria em benefício do condomínio. No entanto, o gestor usado para negociar e armazenar as moedas acabou fugindo e está desaparecido. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/mercado/219186-sindico-aplica-r-1-milhao-condominio-bitcoins-vira-caso-policia.htm"
+        },
+        {
+            "text": "Empresas estão estudando como rodar anúncios em sonhos: marcas como Xbox e Burger King estão estudando o processo de “incubação de sonhos”, no qual imagens, sons ou outros estímulos sensoriais são utilizados para moldar as imagens noturnas. As informações são da revista Science.",
+            "url": "https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams"
+        },
+        {
+            "text": "McDonald's é hackeado: os dados acessados incluem e-mails, números de telefone e endereços de entrega de clientes, além de informações sobre funcionários, franqueados e informações técnicas sobre restaurantes. Os cibercriminosos se infiltraram em sistemas da companhia nos EUA, Coréia do Sul e Taiwan. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800"
+        },
+        {
+            "text": "Tesla voltará a aceitar moeda digital apenas se utilizar energia limpa: Elon Musk afirmou em seu perfil no Twitter que a Tesla voltará a permitir a compra de veículos com moedas digitais quando houver a confirmação de uma tendência de alta no uso de energia limpa por aproximadamente 50% dos mineradores.",
+            "url": "https://olhardigital.com.br/2021/06/13/pro/elon-musk-explica-condicoes-para-tesla-voltar-a-aceitar-bitcoin/"
+        },
+        {
+            "text": "Microsoft marca data para o fim do Windows 10: o suporte ao sistema operacional será encerrado em 14 de outubro de 2025, 10 anos após o seu lançamento. A Microsoft já marcou um evento para o dia 24 de junho deste ano no qual irá apresentar a nova geração do Windows. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/14/microsoft_windows_10_end_support_date/"
+        },
+        {
+            "text": "EUA estão preparando leis duras contra gigantes de tecnologia: se as medidas forem aprovadas, elas atingirão empresas como Amazon, Apple, Facebook e Google, facilitando o fatiamento dessas empresas dominantes, bloqueando aquisições preventivas para eliminação da concorrência e impedindo regras de negócio com conflitos de interesse. As informações são da CNET.",
+            "url": "https://www.cnet.com/news/amazon-apple-google-facebook-targeted-by-new-pack-of-antitrust-bills/"
+        },
+        {
+            "text": "American Airlines anuncia compra de 250 táxis-aéreos elétricos: o modelo “VA-X4”, da Vertical Aerospace, decola e pousa verticalmente como helicópteros, comporta quatro passageiros e um piloto, voando a uma velocidades de até 320 km/h, com alcance de 160 quilômetros. A aeronave irá transportar clientes da companhia aérea em cidades congestionadas durante a chegada e saída de aeroportos. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/american-airlines-invests-in-electric-flying-taxis-11623364589"
+        },
+        {
+            "text": "NASA usa recurso de limpeza contra intuitivo na sonda InSight em Marte: o braço robótico da sonda escavou um pouco da areia do solo marciano e a derrubou em cima dos seus painéis solares durante uma rajada de vento, levando consigo partículas de poeira que haviam se acumulado. A técnica foi um sucesso, aumentando a quantidade de energia capturada pelos painéis da InSight. As informações são do site da NASA.",
+            "url": "https://olhardigital.com.br/en/2021/06/11/science-and-space/insight-workaround-solar-panels/"
+        },
+        {
+            "text": "Mais um operador de ransomware encerra operações: o grupo Avaddon liberou 2,9 mil chaves para decriptação de cada uma de suas vítimas. Os hackers cobravam cerca de 3 milhões de reais por resgate e a decisão de fechar as operações provavelmente foi causada pelo aumento da pressão por parte de governos em todo o mundo após ataques recentes contra infraestruturas críticas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/avaddon-ransomware-shuts-down-and-releases-decryption-keys/"
+        }
+    ]
+}
