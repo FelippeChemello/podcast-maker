@@ -1,0 +1,51 @@
+{
+    "title": "Ameaça radiológica iminente na China / QR Code brasileiro / “Meme coins” banidas",
+    "fps": 30,
+    "timestamp": 1623785154,
+    "date": "6/15/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Tuesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Relatório vazado aponta “ameaça radiológica iminente” em usina nuclear chinesa: gases como xenônio e criptônio estariam vazando após o revestimento de algumas barras de combustível nuclear terem se deteriorado na usina Taishan. Esses gases, no entanto, teriam sido tratados antes de serem lançados na atmosfera “de acordo com normas regulatórias“. A empresa francesa EDF, que detém uma participação na usina, afirma que este não é um cenário de “derretimento do núcleo” do reator. Com informações da CNN e BBC.",
+            "url": "https://www.cnnbrasil.com.br/internacional/2021/06/15/niveis-de-radiacao-estao-normais-na-usina-nuclear-de-taishan-diz-china"
+        },
+        {
+            "text": "Brasileiros criam código bidimensional capaz de armazenar até 2,1 GB: o “DRIC Code”, uma espécie de QR Code colorido com 5,3 cm2 de área, no qual um bitstream é representado visualmente através de um código bidimensional no padrão de cores RGB, apresentando várias sequências de células unitárias organizadas em escala e dimensões. A invenção recebeu um aporte de 3,5 milhões de dólares de um fundo estrangeiro para expansão da tecnologia em meios de pagamentos, entretenimento e educação. Com informações da Mobile Time e DRIC Inc.",
+            "url": "https://www.mobiletime.com.br/noticias/14/06/2021/brasileiros-criam-codigo-bidimensional-capaz-de-armazenar-ate-21-gb/"
+        },
+        {
+            "text": "Tailândia bane “meme coins” e NFTs: o país não irá mais permitir a negociação de moedas digitais que não possuam um propósito claro ou valor subjacente e cujos preços dependam de tendências e comentários em redes sociais. As informações são do site The Register.",
+            "url": "https://www.thenationalnews.com/business/thailand-bans-trading-of-meme-based-coins-and-nfts-on-digital-exchanges-1.1239566"
+        },
+        {
+            "text": "Twitter realiza “limpeza” de contas: a rede social confirmou que alguns usuários deverão notar flutuações no seu número de seguidores. A limpeza é realizada regularmente para ajudar a prevenir spam ao solicitar a confirmação de senha ou número de telefone de algumas contas. As informações são do perfil Twitter Support no Twitter.",
+            "url": "https://twitter.com/TwitterSupport/status/1404592716068134913"
+        },
+        {
+            "text": "Amazon inaugura primeiro supermercado completo e sem caixas nos EUA: o local agora conta com uma gama completa de produtos, incluindo “hortifrutigranjeiros”, carnes, frutos do mar e confeitaria. A loja utiliza uma combinação de visão computacional, sensores e aprendizado de máquina para identificar tudo o que é retirado das prateleiras e colocado no carrinho. O valor total das compras é calculado automaticamente assim que o cliente sai da loja. As informações são do site Amazon News.",
+            "url": "https://www.techspot.com/community/topics/amazon-is-about-to-open-the-first-supermarket-with-just-walk-out-technology.269718/"
+        },
+        {
+            "text": "NASA está planejando sua primeira visita ao lado escuro da Lua: a agência especial irá enviar sismógrafos, uma perfuratriz pneumática e uma sonda como parte do programa Artemis que irá estabelecer uma base de longo prazo para astronautas na Lua. As informações são do site da NASA.",
+            "url": "https://scitechdaily.com/nasa-lunar-payloads-new-science-investigations-for-the-dark-side-of-the-moon/"
+        },
+        {
+            "text": "Toshiba demonstra rede de Internet quântica de longa distância: a companhia desenvolveu uma nova técnica de estabilização em duas bandas, permitindo a transmissão de dados quânticos a uma distância de 600 km por fibra óptica. Transmitir qubits (quantum bits) por longas distâncias é muito difícil porque pequenas mudanças nas condições ambientais, como flutuações de temperatura, embaralham as informações. As informações são do site Phys.",
+            "url": "https://asiatimes.com/2021/06/toshiba-sets-new-quantum-network-record/"
+        },
+        {
+            "text": "Aplicativo de streaming pirata consegue burlar regras da App Store: o “Zoshy+” se disfarçava como um jogo de Sudoku e realizou uma mudança no lado do servidor para ativar o comportamento alternativo, apresentando séries e filmes piratas da Netflix, Disney+ e da própria Apple TV+. As informações são do site 9to5Mac.",
+            "url": "https://9to5mac.com/2021/06/14/pirate-movies-tv-shows-app-charts/"
+        },
+        {
+            "text": "Google oferece mentoria na criação de jogos para o Google Play: o “Indie Games Accelerator” é um programa de três meses que contará com uma mistura de masterclasses e networking com especialistas do setor. O Brasil é um dos países contemplados e as inscrições estão abertas até o início de julho, diretamente na página do evento.",
+            "url": "https://events.withgoogle.com/indie-games-accelerator-2021/mentors/"
+        }
+    ]
+}
