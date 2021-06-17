@@ -1,0 +1,51 @@
+{
+    "title": "Windows 11 vaza na Web / Bebê com nome “HTML” / Satélite de madeira",
+    "fps": 30,
+    "timestamp": 1623875419,
+    "date": "6/16/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Wednesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Windows 11 vaza mostrando nova interface: o destaque fica com a nova barra de tarefas, o menu “Iniciar” centralizado e janelas com cantos arredondados e maior transparência. A Microsoft marcou um evento para o dia 24 de junho para apresentar a nova geração do Windows. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/6/15/22535123/microsoft-windows-11-leak-screenshots-start-menu"
+        },
+        {
+            "text": "Bebê é registrado com o nome “HTML”: o nome de batismo do menino filipino “HyperText Markup Language R. Pascual”, carinhosamente apelidado de “HTML”, foi uma homenagem ao pai que é desenvolvedor Web. A família Pascual possui um histórico de nomes singulares como “Spaghetti”, “Design” e “Parmesan Cheese” (queijo parmesão em português). As informações são do site Inquirer.",
+            "url": "https://newsinfo.inquirer.net/1444925/photo-of-a-newborn-baby-boy-named-html-goes-viral"
+        },
+        {
+            "text": "Primeiro satélite de madeira já tem data de lançamento marcada: o nanosatélite de 10 cm3 usará um tipo especial de compensado revestido para seus painéis. O objetivo da missão é testar o comportamento e durabilidade da madeira compensada em condições extremas do espaço. O “WISA WOODSAT” será lançado no final de 2021. As informações são do site Space.",
+            "url": "https://www.space.com/first-wooden-satellite-will-launch-in-2021"
+        },
+        {
+            "text": "Paquistão vai bloquear sinal de celular de quem não se vacinar: o governo do país afirma que a medida é necessária para lidar com o profundo ceticismo da população em relação à campanha de inoculação. As informações são do The New York Times.",
+            "url": "https://www.nytimes.com/2021/06/15/world/pakistan-vaccine-cellphones.html"
+        },
+        {
+            "text": "Cientistas criam transmissor de energia utilizando o corpo humano como meio: a tecnologia permite que um único dispositivo, como um celular ou relógio inteligente, energize outros dispositivos vestíveis da pessoa, utilizando o seu corpo como meio de transmissão de energia. A pesquisa pode abrir o caminho para dispositivos vestíveis menores e sem a necessidade de baterias, como aparelhos auditivos ou outros dispositivos médicos. As informações são da página da Universidade Nacional de Singapura.",
+            "url": "https://www.tecmundo.com.br/produto/219298-cientistas-usam-corpo-humano-carregar-aparelhos-eletronicos.htm"
+        },
+        {
+            "text": "Banco do Brasil vai lançar aplicativo para gerenciamento de contas de outros bancos: o serviço será possível com a chegada da segunda fase do Open Banking no Brasil, permitindo o compartilhamento de dados entre diferentes instituições financeiras. Com o sistema, o BB também poderá avaliar melhor o fluxo de caixa de clientes e oferecer melhores condições de crédito. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/15/06/2021/bb-prepara-servico-de-gestao-financeira-de-contas-de-multiplos-bancos/"
+        },
+        {
+            "text": "Nissan e Instituto de Pesquisas Energéticas e Nucleares renovam estudo sobre veículos elétricos movidos a células de combustível de etanol: os veículos poderão ser reabastecidos em qualquer posto de combustível do Brasil e serão considerados neutros na emissão de carbono, já que a lavoura de cana-de-açúcar irá capturar o CO2. As informações são da IstoÉ Dinheiro.",
+            "url": "https://www.istoedinheiro.com.br/com-gasolina-e-etanol-a-precos-recordes-nissan-vai-lancar-tecnologia-de-celula-de-combustivel/"
+        },
+        {
+            "text": "Gastos com jogos em smartphones sobem para 1,7 bilhão de dólares por semana no primeiro trimestre de 2021: o valor representa um aumento de 40% sobre os níveis pré-pandemia. O setor já acumula 120 bilhões de dólares em receitas neste ano, superando com folga a soma de jogos para computador e consoles (84 bilhões de dólares). As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/15/mobile-game-spending-hits-record-1-7b-per-week-in-q1-2021-up-40-from-pre-pandemic-levels/"
+        },
+        {
+            "text": "Inventor da World Wide Web vai lançar NFT: a peça central do colecionável digital serão 9.555 linhas do código-fonte escrito por Tim Berners-Lee em Objective-C entre outubro de 1990 e agosto de 1991. O valor arrecadado beneficiará iniciativas apoiadas por Berners-Lee. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/tech-policy/2021/06/tim-berners-lee-makes-an-nft-from-world-wide-webs-objective-c/"
+        }
+    ]
+}
