@@ -1,0 +1,55 @@
+{
+    "title": "WhatsApp Web não serve como prova / Tecnologia de invisibilidade / Supercomputador da Petrobras",
+    "fps": 30,
+    "timestamp": 1623943587,
+    "date": "6/17/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Thursday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Justiça confirma que “prints” do WhatsApp Web não servem como prova: o STJ analisou que eventuais exclusões de mensagens na plataforma não deixa vestígios, tanto no aplicativo, como no computador, não podendo serem recuperadas para efeitos de prova em processo penal. As informações são do site Migalhas.",
+            "url": "https://www.migalhas.com.br/quentes/347099/stj-e-ilicita-prova-obtida-por-meio-de-prints-do-whatsapp-web"
+        },
+        {
+            "text": "Toyota estuda como tornar pilares automotivos “transparentes”: a tecnologia de invisibilidade poderá utilizar metamateriais, camuflagem baseada em óptica geométrica utilizando espelhos e uma combinação de câmeras e telas digitais. Apesar dos desafios, a equipe de pesquisa afirma que a invisibilidade óptica se tornou um fato nos últimos ano e não apenas uma ideia de ficção científica. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/17/toyota_paper_invisibility/"
+        },
+        {
+            "text": "Petrobras liga supercomputador “Dragão”: a máquina, que custou 100 milhões de reais, pesa 20 toneladas, possui 200TB de memória RAM e é a mais potente da América Latina. O supercomputador atuará no processamento de dados geofísicos em programas estratégicos e exploratórios da Petrobras. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=mobile&infoid=57269&sid=3"
+        },
+        {
+            "text": "China lança com sucesso três taikonautas à sua estação espacial: o principal objetivo da missão é completar a instalação de equipamentos para o pleno funcionamento da nova estação Tiangong (“Palácio Celestial” em chinês). Com informações do site Space e Wikipedia.",
+            "url": "https://www.bbc.com/news/science-environment-57504052"
+        },
+        {
+            "text": "Síria desliga Internet do país inteiro nesta quinta-feira por causa de exames escolares: a medida serve para evitar que os estudantes trapaceiem durante as provas. A Internet do país é interrompida por cerca de 4 horas e meia, antes do início e após o término dos exames. As informações são do blog da Cloudfare.",
+            "url": "https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/"
+        },
+        {
+            "text": "Hubble trava após falha em módulo de memórias: o computador interno do telescópio entrou automaticamente em modo de segurança após uma falha de comunicação entre os sistemas que controlam seus instrumentos. Os cientistas da NASA afirmam que o Hubble possui outros três módulos de memória sobressalentes e já iniciou o processo de substituição. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/16/nasa_hubble_outage/"
+        },
+        {
+            "text": "Projeto de Lei prevê que processos judiciais eletrônicos utilizem QR Code: o objetivo é disponibilizar a maior parte possível de informações dos autos com rapidez e de forma interativa. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/16/06/2021/camara-analisa-proposta-que-preve-uso-de-qr-code-em-processos-judiciais/"
+        },
+        {
+            "text": "Facebook descobre como detectar deepfakes com precisão de 99%: o sistema de inteligência artificial também consegue indicar qual a arquitetura neural utilizada para criar as imagens, o que pode ser útil para identificar campanhas de desinformação. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/17/facebook_deepfake_identification/"
+        },
+        {
+            "text": "SpaceX vai lançar “Arte Espacial” através de NFTs financiados por Dogecoin: a arte será instalada nos painéis dos satélites da missão “DOGE-1” que serão lançados até a Lua no primeiro trimestre de 2022. Segundo a canadense Geometric Energy Corporation, empresa parceira do projeto, a missão a abre a possibilidade de que a arte possa ser programável, mutável ou mesmo transmitida de volta para a Terra. As informações são do site Hypebeast.",
+            "url": "https://hypebeast.com/2021/6/spacex-elon-musk-dogecoin-doge-1-mission-space-art-geometric-energy-corporation-gec"
+        },
+        {
+            "text": "Facebook vai colocar anúncios em sistema de realidade virtual Oculus: a companhia, no entanto, garante que não irá utilizar as câmeras, microfones e sensores de movimento dos dispositivos para anúncios direcionados. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/16/facebook-will-begin-beaming-advertisements-into-virtual-reality/"
+        }
+    ]
+}
