@@ -1,0 +1,55 @@
+{
+    "title": "Novo tipo de roubo de celular / Estagiário é culpado por teste / IA exige sorriso em escritório",
+    "fps": 30,
+    "timestamp": 1624049866,
+    "date": "6/18/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Friday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Quadrilhas especializadas estão roubando celulares apenas para acessar aplicativos bancários: os criminosos estariam dando preferência a aparelhos que estão desbloqueados no momento do assalto, como por exemplo, quando o Waze estaria sendo utilizado. No entanto, de acordo com a polícia, as quadrilhas têm conseguido burlar qualquer sistema de bloqueio ou biometria, tanto do Android como iOS, e ainda descobrir as senhas para acesso das contas bancárias. Segundo a polícia, as instituições financeiras têm dificultado o ressarcimento de valores quando é utilizada a senha pessoal para transferências, mas o Procon afirma que isso tem sido realizado por meio de um “exército de hackers”. As informações são da Folha de São Paulo.",
+            "url": "https://www1.folha.uol.com.br/cotidiano/2021/06/criminosos-de-sp-agora-roubam-celulares-para-limpar-contas-bancarias-das-vitimas.shtml"
+        },
+        {
+            "text": "HBO Max culpa estagiário por envio de email de teste para base de usuários: o email, que aparentemente deveria ser apenas um teste de integração, continha apenas o assunto “Integration Test Email #1” e corpo “This template is used by integration tests only”. As redes sociais se divertiram com a gafe técnica, mas algumas pessoas demonstraram preocupação com desenvolvedores conduzindo testes em ambiente de produção. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/technology/hbo-max-blames-mistaken-integration-test-email-on-an-intern/"
+        },
+        {
+            "text": "IA exige sorriso para liberar entrada de funcionários em escritório: a Canon implementou em sua subsidiária na China um sistema de inteligência artificial para liberar o acesso a escritórios ou salas de reunião apenas se reconhecer um sorriso no rosto de funcionários. O caso revela uma crescente tendência de vigilância entre empresas chinesas, que monitoram o uso de computadores para medição da produtividade de funcionários e utilizam câmeras para cronometrar o tempo de pausas para almoço. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/6/17/22538160/ai-camera-smile-recognition-office-workers-china-canon"
+        },
+        {
+            "text": "Banco Mundial nega assistência a El Salvador com implementação de moeda digital: o maior banco de desenvolvimento no mundo afirmou que o ativo escolhido como curso forçado pelo país traz consigo problemas ambientais e de transparência, reflexo da demanda de energia para sua mineração e uso em esquemas ilegais e lavagem de dinheiro. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/el-salvador-imf-bitcoin-idUSL2N2NY3H1"
+        },
+        {
+            "text": "Lucro da ByteDance, dona do TikTok, dispara: a companhia registrou lucro anual de 19 bilhões de dólares (cerca de 96 bilhões de reais), crescimento de 93% na comparação anual. A companhia conta com 1,9 bilhão de usuários ativos mensais em todas as suas plataformas. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/business-57522368"
+        },
+        {
+            "text": "Navio autônomo da IBM dá início a viagem de 5.630 km pelo oceano Atlântico: o “Mayflower Autonomous Ship” vai seguir a mesma rota que transportou os chamados peregrinos da Inglaterra para o Novo Mundo em 1620, atualmente os EUA. O navio é movido a energia solar e é guiado por um sistema de inteligência artificial que recebe informações de seis câmeras e 50 sensores. As informações são da BBC.",
+            "url": "https://www.bbc.com/news/uk-england-devon-57499662"
+        },
+        {
+            "text": "IA ajuda a reduzir sobrecarga do sistema de saúde em três municípios brasileiros: um estudo da FGV mostrou que implementação de plataformas de telessaúde com base em inteligência artificial, através de conversas estruturadas por chatbots, nas cidades de Curitiba, São Bernardo do Campo e Catanduva, aumentou o acesso de pacientes a atendimentos de saúde de maneira segura, especialmente durante a pandemia. As informações são da Agência Bori.",
+            "url": "https://www.terra.com.br/noticias/tecnologia/ia-esta-reduzindo-sobrecarga-no-sistema-de-saude-em-cidades-brasileiras,a44a4c9bbbc106427882907f39d77814zpf2qu0t.html"
+        },
+        {
+            "text": "Pesquisador de segurança recebe bounty de 150 mil reais ao descobrir vulnerabilidade grave no Instagram: a falha permitia a visualização de postagens privadas ou arquivadas, Stories, Reels e IGTV sem seguir a pessoa na rede social. Ainda era possível acessar diversos detalhes como curtidas, comentários, entre outros dados. As informações são do blog do próprio pesquisador, Mayur Fartade, no Medium.",
+            "url": "https://fartademayur.medium.com/this-is-how-i-was-able-to-see-private-archived-posts-stories-of-users-on-instagram-without-de70ca39165c"
+        },
+        {
+            "text": "Google estaria criando ferramenta para ensino de idiomas: o recurso utilizará as recentes inovações em processamento de linguagem natural apresentadas pela companhia para ensinar línguas estrangeiras por meio do sistema de Busca. O projeto, chamado “Tivoli” internamente, provavelmente será lançado até o final deste ano. As informações são do site The Information.",
+            "url": "https://www.theinformation.com/articles/googles-next-ai-move-teaching-foreign-languages"
+        },
+        {
+            "text": "Linux Mint divulga beta aberto de suas principais versões: foi divulgado hoje no blog do projeto a disponibilização das imagens beta do Linux Mint 20.2 “Uma” - trazendo as versões mais recentes das versões Mate, Cinnamon e Xfce do sistema operacional. O lançamento traz diversas correções de bugs, além das atualizações das interfaces gráficas e principais apps do projeto. Fonte Blog Linux Mint",
+            "url": "https://blog.linuxmint.com/?p=4079"
+        }
+    ]
+}
