@@ -1,0 +1,51 @@
+{
+    "title": "Exército quer lançar videogame / Tesla revela supercomputador / Maior ímã do mundo",
+    "fps": 30,
+    "timestamp": 1624298686,
+    "date": "6/21/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Monday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Exército brasileiro planeja lançar jogo de videogame “vibrante emocionalmente”: o “Missão Verde Oliva” adotará o formato de tiro em primeira pessoa (FPS) para criar “impressões positivas” em jogadores entre 16 a 24 anos. O jogo deverá conter missões humanitárias e de combate urbano, com características do território brasileiro, mas nunca em comunidades em situação de “fragilidade social”, e sem “sangue em demasia”. O objetivo do Exército é atingir até 3 milhões de usuários online em dois anos. As informações são da Folha de São Paulo.",
+            "url": "https://www1.folha.uol.com.br/poder/2021/06/com-orcamento-apertado-exercito-quer-gastar-r-4-milhoes-com-game.shtml"
+        },
+        {
+            "text": "Tesla revela novo supercomputador próprio: o sistema é considerado o quinto mais poderoso do mundo e será utilizado para treinar as redes neurais que coordenam a direção autônoma dos veículos da marca. O sistema é uma prévia do “Dojo”, um supercomputador com 1 exaFLOP de capacidade para treinamento não-supervisionado. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/06/21/tesla-unveils-new-supercomputer-train-self-driving-ai/"
+        },
+        {
+            "text": "Maior ímã do mundo será instalado em reator de fusão nuclear: o solenóide central do reator ITER pesa cerca de 1.000 toneladas e vai gerar um campo magnético 280 mil vezes mais forte do que o da Terra. A estrutura na qual o solenóide será montado terá que suportar forças superiores ao dobro do empuxo durante o lançamento de um ônibus espacial. As informações são do site New Scientist.",
+            "url": "https://www.newscientist.com/article/2280763-worlds-most-powerful-magnet-being-shipped-to-iter-fusion-reactor/"
+        },
+        {
+            "text": "Tentativa de recuperação do Hubble falha pela segunda vez: o telescópio já está há uma semana em modo de segurança após uma nova tentativa de inicialização dos módulos de memória falhar. O computador utilizado pelo Hubble é um sistema “NASA Standard Spacecraft Computer-1”, construído na década de 1980, e é necessário para controlar os instrumentos científicos do telescópio. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/21/hubble_memory_fail/"
+        },
+        {
+            "text": "Navio autônomo da IBM quebra após o terceiro dia de viagem pelo oceano Atlântico: uma equipe de resgate precisou recuperar a embarcação à deriva após um problema mecânico ainda não identificado. O “Mayflower Autonomous Ship” era guiado por um sistema de inteligência artificial e movido à energia solar. As informações são do site The Register.",
+            "url": "https://news2sea.com/ibm-sponsored-autonomous-research-vessel-mayflower-sets-on-a-transatlantic-voyage-mayflower-400/"
+        },
+        {
+            "text": "Instituto de pesquisa nuclear da Coreia do Sul é invadido por hackers da Coreia do Norte: o grupo “Kimsuky” costuma usar ataques de phishing para instalar backdoors e malware em dispositivos Android e Windows para coletar informações. O mesmo grupo já teve como alvo pesquisas sobre vacinas e reatores nucleares sul-coreanos. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/21/south_koreas_nuclear_think_tank/"
+        },
+        {
+            "text": "80% das empresas que pagaram por resgate são vítimas novamente em ataque ransomware: na metade das vezes, o segundo ataque era conduzido pelo mesmo grupo hacker da invasão original. As informações são do site VentureBeat.",
+            "url": "https://venturebeat.com/2021/06/16/cybereason-80-of-orgs-that-paid-the-ransom-were-hit-again/"
+        },
+        {
+            "text": "Xiaomi patenteia sistema de carregamento por som: a tecnologia promete carregar smartphones e outros dispositivos eletrônicos sem a necessidade de eletricidade, convertendo vibrações mecânicas ambientais em energia. As informações são do site Gizchina.",
+            "url": "https://tittlepress.com/tech/866938/"
+        },
+        {
+            "text": "Japão estuda semana de trabalho com quatro dias: o objetivo seria melhorar o equilíbrio entre trabalho e vida pessoal, ou ainda, estimular o uso do dia extra livre para aquisição de novas habilidades. Em 2019, a Microsoft realizou um teste com seus 2.300 funcionários no Japão e verificou um ganho de 40% na produtividade, mesmo com a redução de 20% do tempo trabalhado na semana. Com informações do jornal The Mainichi e Forbes.",
+            "url": "https://www.forbes.com/sites/maurathomas/2021/06/15/no-one-wants-to-work-too-much-so-why-do-we-do-it-anyway/"
+        }
+    ]
+}
