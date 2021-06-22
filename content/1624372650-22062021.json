@@ -1,0 +1,55 @@
+{
+    "title": "Novo golpe do Pix Agendado / Ransomware “amador” / Unhas inteligentes",
+    "fps": 30,
+    "timestamp": 1624372650,
+    "date": "6/22/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Tuesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Novo golpe utiliza modalidade do Pix Agendado para confundir vítimas: golpistas estão agendando transferências pelo Pix, modalidade ainda pouca conhecida, e tentam convencer a vítima de que a transferência foi feita por engano, solicitando a devolução do valor imediatamente. O que acaba confundindo a vítima é a notificação de que um Pix foi recebido, mas na modalidade de agendamento, ou seja, com o valor apenas transferido em uma data futura. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/mercado/219524-mensagem-whatsapp-alerta-novo-golpe-pix-confira.htm"
+        },
+        {
+            "text": "Ransomware “amador” escondia chave de encriptação no próprio código: segundo análise da Kaspersky, o “Black Kingdom” foi escrito em Python por “desenvolvedores amadores”, contendo uma implementação de criptografia com vários erros, permitindo a recuperação de arquivos utilizando uma chave “hardcoded” no próprio código do aplicativo malicioso. O Black Kingdom também não verifica se os arquivos já estão criptografados ou não, permitindo uma encriptação duplicada e impedindo uma recuperação mesmo com uma chave de criptografia válida. As informações são do site Securelist.",
+            "url": "https://securelist.com/black-kingdom-ransomware/102873/"
+        },
+        {
+            "text": "Salão de beleza em Dubai oferece serviço de “unhas inteligentes”: pequenos chips NFC são aplicados em conjunto com o esmalte nas unhas, contendo informações embutidas como nome, número de celular, contas de mídia social e website das pessoas. O salão pretende adicionar a funcionalidade de pagamento sem contato às unhas inteligentes também. As informações são da CNN.",
+            "url": "https://www.cnn.com/2021/06/18/middleeast/nail-microchip-dubai-spc-intl/index.html"
+        },
+        {
+            "text": "Empresa de vigilância nos EUA contrata trabalhadores remotos para “berrar” contra assaltantes: o sistema de câmeras da “Live Eye Surveillance” garante um operador constante, 24 horas por dia, monitorando e intervindo sempre que notar algo suspeito. No entanto, consultores alertam que o sistema pode ser muito perigoso em casos de roubos à mão armada, com o operador remoto “assustando” o assaltante. As informações são do site Vice.",
+            "url": "https://www.vice.com/en/article/4avnnn/a-cctv-company-is-paying-remote-workers-in-india-to-yell-at-armed-robbers"
+        },
+        {
+            "text": "Maior fabricante de chips do mundo decide dar prioridade de produção para Apple e fabricantes de veículos: após atendidas essas ordens, a taiwanesa TSMC vai produzir circuitos integrados para fabricantes de PCs, servidores e dispositivos de rede. As informações são do site DigiTimes.",
+            "url": "https://www.digitimes.com/news/a20210621PD212.html"
+        },
+        {
+            "text": "Ministério Público de SP defende suspensão da política de privacidade do WhatsApp: o parecer do MP ainda pede uma multa diária de 100 mil caso as novas regras não sejam suspensas enquanto se discute o caso na Justiça. As informações são do site TeleSíntese.",
+            "url": "https://www.telesintese.com.br/mp-sp-defende-suspensao-da-politica-de-privacidade-do-whatsapp/"
+        },
+        {
+            "text": "Comissão Europeia abre investigação antitruste contra o Google: a investigação examinará, principalmente, se o Google está distorcendo a concorrência ao restringir o acesso de terceiros a dados de usuários para fins publicitários em sites e aplicativos, ao mesmo tempo que reserva esses dados para seu próprio uso. As informações são da página de imprensa da Comissão Europeia.",
+            "url": "https://valor.globo.com/empresas/noticia/2021/06/22/uniao-europeia-abre-investigacao-antitruste-sobre-anuncios-do-google.ghtml#:~:text=A%20Uni%C3%A3o%20Europeia%20abriu%20uma,o%20Google%20por%20pr%C3%A1ticas%20antitruste.&text=Um%20porta%2Dvoz%20do%20Google,Europeia%20para%20responder%20suas%20quest%C3%B5es."
+        },
+        {
+            "text": "Jogo de realidade virtual desiste de parceria com anúncios do Facebook: o estúdio “Resolution Games” afirma ter recebido muitas críticas de seus jogadores. “Blaston” seria o primeiro jogo a testar o sistema de anúncios do Facebook no dispositivo Oculus de realidade virtual. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/21/facebooks-entry-into-vr-advertising-isnt-going-too-well/"
+        },
+        {
+            "text": "Google financia desenvolvedor em tempo integral para tornar o kernel do Linux memory-safe utilizando Rust: Miguel Ojeda irá trabalhar durante um ano totalmente focado em esforços de segurança. A contratação faz parte do projeto “Prossimo” do Internet Security Research Group (ISRG), que visa coordenar esforços para migrar grande parte da infraestrutura de software crítica da Internet para linguagens com memory-safety. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/06/lets-encrypt-parent-org-sponsors-rust-for-linux-kernel-development/"
+        },
+        {
+            "text": "Pacotes PyPI maliciosos mineram moedas digitais: um total de seis pacotes se infiltraram no Python Package Index contendo nomes com erros ortográficos, acumulando quase 5 mil downloads desde abril. Os pacotes em questão são: “maratlib”, “maratlib1”, “matplatlib-plus”, “mllearnlib”, “mplatlib” e “learninglib”. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-hijack-dev-devices-to-mine-cryptocurrency/"
+        }
+    ]
+}
