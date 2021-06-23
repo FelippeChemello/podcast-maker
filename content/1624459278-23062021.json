@@ -1,0 +1,59 @@
+{
+    "title": "Brasileira ganha desafio da Apple / Hubble pode ter morrido / “Golpe do Pix Agendado” é boato",
+    "fps": 30,
+    "timestamp": 1624459278,
+    "date": "6/23/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Wednesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Brasileira é campeã pela quinta vez consecutiva de desafio mundial da Apple voltado a estudantes: Karina Tronkos, que faz Ciência da Computação na PUC-Rio, ganhou o “Swift Student Challenge 2021” com um projeto voltado à biomimética, área de estudo que se inspira na natureza para desenvolver produtos e serviços mais eficientes e de forma sustentável. As informações são do jornal O Globo.",
+            "url": "https://oglobo.globo.com/rio/bairros/carioca-de-24-anos-pentacampea-em-desafio-mundial-da-apple-25067792"
+        },
+        {
+            "text": "Hubble pode ter morrido de vez: após a terceira tentativa de reinicialização dos módulos de memória ter falhado, a NASA estuda acionar um computador de backup do telescópio. Não há mais como realizar manutenções físicas no Hubble porque a NASA não conta mais com um ônibus espacial para executar a missão. Caso o Hubble não tenha de fato conserto, ele será incinerado durante um movimento de reentrada na atmosfera terrestre. As informações são do site Futurism.",
+            "url": "https://olhardigital.com.br/en/2021/06/22/science-and-space/hubble-telescope-apparently-died-for-good/"
+        },
+        {
+            "text": "Banco Central afirma que “golpe do Pix agendado” é boato: segundo um post no perfil do BC no LinkedIn, o banco que vai receber a transferência não tem como saber que existe um Pix agendado e a informação também não fica visível para quem vai receber o valor até que a transação seja confirmada. A informação de agendamento também não aparece no extrato do cliente ou em qualquer outro lugar.",
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6812809115920855041/"
+        },
+        {
+            "text": "“Fugaku”, supercomputador mais rápido do mundo, busca solução para pandemia: o sistema, instalado no Japão, está tentando identificar compostos que possam ser usados como drogas potenciais para tratamentos da infecção viral que assola o mundo,com base no comportamento dinâmico de proteínas virais, prevendo ainda as propriedades de futuras mutações. O supercomputador utiliza arquitetura ARM e possui capacidade de executar 1,42 exaFLOPs. Com informações da ZDNet e Wikipedia.",
+            "url": "https://www.zdnet.com/article/fujitsu-rcast-tokyo-university-to-use-fugaku-to-find-covid-19-drug-treatments/"
+        },
+        {
+            "text": "Vazamento de dados não gera indenização se dano não for provado: uma consumidora perdeu uma ação judicial contra a Eletropaulo após o vazamento de seu nome, CPF, telefones fixo e celular, email, endereço e consumo de energia. No processo, ela alegou que passou a receber mensagens eletrônicas indesejadas e ligações de telemarketing. No entanto, o juiz do caso entendeu que inexiste pessoa que já não tenha recebido ligação de telemarketing ou spam com oferecimento de produtos e serviços. As informações são do site Migalhas.",
+            "url": "https://www.migalhas.com.br/quentes/347444/lgpd-vazamento-de-dados-nao-gera-indenizacao-se-dano-nao-for-provado"
+        },
+        {
+            "text": "Mark Zuckerberg anuncia novidades no WhatsApp e Instagram: será possível acessar um catálogo de produtos e trocar mensagens com comerciantes antes de se efetuar uma compra, diretamente pelo app de mensagens, através de um novo botão disponível para contas business. No Instagram, um novo recurso permitirá a pesquisa visual de itens que a pessoa tem a intenção de comprar. O sistema utilizará inteligência artificial para encontrar lojas que vendam o produto pesquisado ou similares. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/22/facebook-whatsapp-e-commerce-features/"
+        },
+        {
+            "text": "Corinthians lança fan token: o ativo digital “SCCP” poderá ser utilizado por torcedores para votar em pesquisas internas do time, participar de fóruns, competições e promoções, visualizar conteúdos exclusivos, ganhar brindes e receber recompensas. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/453970/corinthians-anuncia-fan-token-sccp-para-interagir-com-torcedores/"
+        },
+        {
+            "text": "Fleury sofre ataque ransomware: a empresa, uma das maiores em medicina diagnóstica do país, está com seus sistemas bloqueados desde a tarde desta última terça-feira. Não há informações sobre o vazamento de dados de pacientes. As informações são do site CISO Advisor.",
+            "url": "https://www.cisoadvisor.com.br/grupo-fleury-e-nova-vitima-de-ciberataque-de-ransomware/"
+        },
+        {
+            "text": "Microsoft supera 2 trilhões de dólares em valor de mercado: a capitalização da companhia dobrou nos últimos dois anos. Os negócios da Microsoft tem sido impulsionados pela pandemia, com a demanda crescente por software e serviços de computação em nuvem. As informações são da CNET.",
+            "url": "https://www.cnet.com/news/microsoft-names-new-chairman-ceo-satya-nadella/"
+        },
+        {
+            "text": "Brave lança beta do seu mecanismo de busca: o “Brave Search” utiliza como base um índice completamente independente, não possuindo nenhum tipo de rastreamento de usuários, e deverá contar em breve com uma opção paga para quem não quiser propagandas durante as buscas. As informações são do site do navegador Brave.",
+            "url": "https://brave.com/brave-search-beta/"
+        },
+        {
+            "text": "Vercel vira unicórnio, avaliada em 1,1 bilhão de dólares: a companhia levantou 102 milhões de dólares na última rodada de investimentos. A Vercel registrou um forte crescimento nos últimos meses, com o tráfego para todos os sites e aplicativos em sua rede dobrando desde outubro de 2020. Cerca de metade dos 10 mil maiores sites do mundo já adotaram o Next.js, como Github, IBM, McDonald’s e Uber. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/06/23/vercel-raises-102m-series-c-for-its-next-js-based-front-end-development-platform/"
+        }
+    ]
+}
