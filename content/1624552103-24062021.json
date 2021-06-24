@@ -1,0 +1,57 @@
+{
+    "title": "John McAfee é encontrado morto / Novo Windows/ Nubank deve anunciar novo cartão",
+    "fps": 30,
+    "timestamp": 1624552103,
+    "date": "6/24/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Thursday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "John McAfee, pioneiro dos softwares antivírus, morre aos 75 anos: o empresário foi encontrado morto em sua cela em Barcelona, na Espanha, horas após ter sua extradição confirmada para os EUA, onde era acusado de evasão fiscal. Seu advogado confirmou a morte por suicídio. McAfee iniciou a carreira como programador da NASA, Xerox e Lockheed Martin. Em 1987 fundou a McAfee, que hoje é uma das maiores empresas de segurança cibernética do mundo, mas nos últimos anos tornou-se uma figura controversa, acusado pelo assassinato de um vizinho em 2012 e candidatando-se à presidência dos EUA em 2016. Com informações da Reuters.",
+            "url": "https://www.reuters.com/legal/government/john-mcafee-found-dead-prison-after-spanish-court-allows-extradition-2021-06-23/"
+        },
+        {
+            "text": "Microsoft revela hoje novo Windows 11: o evento poderá ser acompanhado no site da companhia, a partir das 12h00 (horário de Brasília). Além de apresentar a nova geração do Windows, a Microsoft fará um evento especial para desenvolvedores da plataforma nesta tarde, a partir das 16h00.",
+            "url": "https://www.tecmundo.com.br/software/219779-lancamento-windows-11-saiba-onde-assistir-evento-microsoft.htm"
+        },
+        {
+            "text": "Nubank marca evento para semana que vem e deve anunciar novo cartão: na próxima terça-feira, dia 29, a fintech poderá apresentar um cartão chamado “Ultravioleta”, com novo design, benefícios e funcionalidades. Suporte ao Apple Pay também é esperado, além da funcionalidade de transferências internacionais de dinheiro. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/454313/nubank-marca-evento-e-deve-anunciar-suporte-a-apple-pay-novo-cartao-e-mais/"
+        },
+        {
+            "text": "Dois irmãos desaparecem com bilhões de dólares em moedas digitais: a polícia sul africana está procurando os irmãos Cajee após desaparecerem com cerca de 69.000 BTC (2,3 bilhões de dólares na cotação de hoje). Os primeiros sinais de problemas surgiram em abril deste ano, quando os clientes da firma de gestão de ativos digitais criada pelos dois alegou ter sido vítima de um hack e pediu aos clientes que não relatassem o incidente à polícia, pois isso retardaria o processo de recuperação dos valores perdidos. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin"
+        },
+        {
+            "text": "Procon-SP vai criar central de informações sobre roubo de celular: vítimas serão orientadas com um passo a passo para cada caso específico, baseado em qual tipo de smartphone foi roubado (iOS ou Android), qual operadora de telefonia é utilizada e em quais bancos possuem contas. A ideia é evoluir o sistema para que no futuro a central consiga realizar todos esses bloqueios de forma automática através de um único contato com o Procon. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=57331&sid=8"
+        },
+        {
+            "text": "Leitor da Newsletter afirma que comunicado do BC não tem implicação com a existência do “Golpe do Pix Agendado”: Segundo o leitor Daniel Dupont, mesmo que a vítima não receba qualquer tipo de notificação após o agendamento de um Pix, os golpistas podem confundi-la ao compartilhar o comprovante de agendamento por um aplicativo de mensagens, como o WhatsApp. Dessa forma, mesmo sem ver transação alguma no aplicativo do banco, a pessoa pode cair no golpe por pura desinformação ou por ter pouca familiaridade com tecnologia."
+        },
+        {
+            "text": "Brasil é alvo preferido dos hackers na América Latina: o país sofreu 3,2 bilhões das 7 bilhões de tentativas de ataques cibernéticos na região durante o primeiro trimestre de 2021. México, Peru e Colômbia aparecem empatados em segundo lugar com 1 bilhão de ataques cada. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=mobile&infoid=57318&sid=18#:~:text=O%20Brasil%20sofreu%20mais%20de,de%20tentativas%20durante%20o%20per%C3%ADodo."
+        },
+        {
+            "text": "Instagram está realizando teste controverso: a rede social irá embutir posts sugeridos e dar prioridade a esses conteúdos, que são escolhidos por algoritmos, no feed de usuários. Novos controles permitirão a adição de tópicos de interesse, bem como a capacidade de ocultar recomendações por 30 dias. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/6/23/22547045/instagram-suggested-posts-test-algorithm"
+        },
+        {
+            "text": "Cientistas criam material de isolamento acústico mais leve já fabricado: o aerogel baseado em grafeno pesa apenas 2,1 kg por metro cúbico e pode reduzir o ruído de um motor de avião no momento da decolagem em até 16 decibéis, ficando tão baixo quanto o de um secador de cabelos. O material deverá ser aplicado comercialmente nos próximos 18 meses. As informações são da Universidade de Bath.",
+            "url": "https://www.bath.ac.uk/announcements/meringue-like-material-could-make-aircraft-as-quiet-as-a-hairdryer/"
+        },
+        {
+            "text": "Pesquisadores de Stanford desenvolvem nova técnica de produção de eletrônicos flexíveis ultrafinos: toda a estrutura dos circuitos tem apenas 5 mícrons de espessura, cerca de dez vezes mais fino do que um cabelo humano, permitindo ainda uma grande densidade de semicondutores, alto desempenho e baixo consumo de energia. A eletrônica flexível promete circuitos de computador modeláveis que poderão ser usados ou implantados no corpo humano para realizar inúmeras tarefas relacionadas à saúde. As informações são da página de imprensa de Stanford."
+        },
+        {
+            "text": "Novo “GitHub Issues” é lançado com recursos avançados para o planejamento de projetos: o sistema, ainda em fase beta, permite a criação de issues complexas, dividindo-as em tarefas, campos personalizados e conversas. É possível visualizar grandes projetos como planilhas ou boards e automatizar tudo com código (API GraphQL e GitHub Actions).",
+            "url": "https://github.com/features/issues"
+        }
+    ]
+}
