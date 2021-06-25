@@ -1,0 +1,59 @@
+{
+    "title": "Lançamento do Windows 11 / Base da China em Marte / TV Box mineradora",
+    "fps": 30,
+    "timestamp": 1624633847,
+    "date": "6/25/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Friday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Microsoft lança o Windows 11: além de uma modernização gráfica, o novo sistema operacional conta com diversos recursos de produtividade embutidos como organização de janelas e várias áreas de trabalho. A novidade mais interessante é a possibilidade de rodar aplicativos Android nativamente. No entanto, segundo reportagem do Tecnoblog, o Windows 11 não será compatível com processadores Intel e AMD lançados antes de 2017. A recomendação da Microsoft, nesses casos, é comprar um computador novo. Com informações do blog do Windows e Tecnoblog.",
+            "url": "https://tecnoblog.net/454445/windows-11-e-anunciado-oficialmente-eis-o-que-ha-de-novo/"
+        },
+        {
+            "text": "China decide construir base permanente em Marte nos próximos 25 anos: o plano ainda envolve instalar um elevador construído com nanotubos de carbono para transportar suprimentos entre a superfície do planeta e espaçonaves em órbita. A primeira missão está programada para ocorrer em 2033 utilizando naves espaciais com propulsão nuclear. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/25/china_mars_plans/"
+        },
+        {
+            "text": "Anatel investiga se TVs Box piratas estão minerando moedas digitais: a agência criou um grupo de estudo para realizar engenharia reversa dos modelos mais vendidos no Brasil, com a suspeita de que estejam coletando dados de usuários e se aproveitando da energia de consumidores para minerar ativos digitais. As informações são do site TeleSíntese.",
+            "url": "https://www.telesintese.com.br/anatel-vai-investigar-o-funcionamento-de-tv-box-pirata/"
+        },
+        {
+            "text": "Google se confunde e usa imagem de desenvolvedor para identificar serial killer: o desenvolvedor suíço Hristo Georgiev publicou em seu blog que o “Knowledge Graph” do Google, aquele painel de informações condensadas à direita das buscas, estava vinculando sua imagem a um artigo na Wikipedia sobre um assassino em série da Bulgária com o mesmo nome. A situação já foi resolvida, mas Georgiev afirma que o fato é aterrorizante, já que um pequeno erro no algoritmo utilizado por bilhões de pessoas tem o potencial de dizimar carreiras e a reputação das pessoas.",
+            "url": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer"
+        },
+        {
+            "text": "Mobile banking já realiza 51% das transferências no Brasil: juntos, internet banking e mobile banking concentram 67% de todas as transações e são responsáveis por 8 em cada 10 pagamentos de contas. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=57356&sid=5"
+        },
+        {
+            "text": "Polícia no Reino Unido cria primeiro banco de dados de DNA de animais domésticos do mundo: o programa é uma alternativa aos microchips e servirá para reprimir o roubo de animais de estimação, situação que cresceu bastante durante a pandemia. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/24/doggy_dna_database_adopted_by/"
+        },
+        {
+            "text": "FBI pede para empresas não pagarem resgates em ataques ransomware: segundo a agência, o pagamento apenas encoraja os hackers a continuar com novas campanhas mais sofisticadas de ataques, sem qualquer garantia de que os dados criptografados sejam recuperados. As informações são da Reuters.",
+            "url": "https://www.reuters.com/technology/fbi-director-wray-urges-companies-stop-paying-ransoms-hackers-2021-06-23/"
+        },
+        {
+            "text": "HDs externos da Western Union estão sendo formatados por hackers remotamente: os ataques atingem a série “My Book Live” de HDs externos conectados na internet. Acredita-se que hackers tenham realizado uma varredura em massa na internet em busca de dispositivos vulneráveis e estejam aplicando um reset de fábrica nos dispositivos, sem nenhum interação de usuários. A Western Digital está pedindo que esses HDs sejam desconectados imediatamente da internet enquanto investiga o caso. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/"
+        },
+        {
+            "text": "Google adia lançamento do FLoC para 2023: a empresa afirma que a indústria como um todo precisa de mais tempo para desenvolver um plano para substituição do sistema de cookies de terceiros. O FLoC não foi bem recebido pela maioria dos navegadores e grandes páginas da internet, com União Europeia ainda lançando uma investigação antitruste sobre o sistema. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/06/google-delays-floc-rollout-until-2023/"
+        },
+        {
+            "text": "Falha permitia que hackers sequestrassem qualquer conta Atlassian: um link Atlassian modificado conseguia executar uma carga maliciosa e roubar uma sessão de usuário, que então podia ser utilizada para realizar o login na conta da vítima e acessar informações confidenciais. A vulnerabilidade já foi consertada e foi apenas divulgada agora pela Check Point Research em seu blog.",
+            "url": "https://research.checkpoint.com/2021/a-supply-chain-breach-taking-over-an-atlassian-account/"
+        },
+        {
+            "text": "Apps Linux com interface gráfica no Windows via WSLg: A integração do Windows com o Linux parece cada vez mais profunda. Recentemente a Microsoft anunciou quando estará disponível o recurso para executar aplicativos Linux com interface gráfica em seu subsistema, a novidade deve estrear no build 21370 e também recebeu destaque na apresentação do Windows 11 na conferência da Microsoft. Fonte Blog Diolinux",
+            "url": "https://diolinux.com.br/sistemas-operacionais/windows/wslg-windows-10.html"
+        }
+    ]
+}
