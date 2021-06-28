@@ -1,0 +1,51 @@
+{
+    "title": "Caixas eletrônicos hackeados / IA restaura quadro famoso / BB testa visão computacional",
+    "fps": 30,
+    "timestamp": 1624894123,
+    "date": "6/28/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Monday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Pesquisador consegue hackear caixas eletrônicos de bancos utilizando apenas um smartphone: Josep Rodriguez utilizou um aplicativo malicioso e vulnerabilidades em leitores NFC para forçar um caixa eletrônico a entregar todo o dinheiro (a marca e modelo não foram revelados). Os falhas também estão presentes em terminais de ponto de venda, permitindo alterar o valor pago por compras e fazendo o display dos dispositivos mostrarem o preço original. Rodriguez não irá divulgar essas falhas publicamente porque a maioria desses dispositivos provavelmente permanecerão vulneráveis já que não recebem atualizações de software regularmente. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/information-technology/2021/06/nfc-flaws-let-researchers-hack-an-atm-by-waving-a-phone/"
+        },
+        {
+            "text": "IA restaura quadro famoso de Rembrandt: em 1715 o quadro “A Ronda Noturna” havia sido aparado para encaixar entre duas portas na prefeitura de Amsterdã. O resultado criado pela Inteligência artificial, com perspectiva adequada e uso do mesmo tipo de tinta da pintura original, ficou melhor do que uma reprodução realizada por um artista no século XVII, afirmam especialistas. As informações são do site ZMEScience.",
+            "url": "https://www.zmescience.com/other/art-other/ai-algorithm-rembrandt-painting-24062021/"
+        },
+        {
+            "text": "Banco do Brasil vai utilizar rede 5G em teste de visão computacional: um sistema de câmeras irá verificar o uso de máscaras e distanciamento social entre funcionários de um escritório administrativo do banco em Brasília. As imagens serão transmitidas em tempo real por 5G e analisadas por um modelo de deep learning desenvolvido pela equipe de TI da instituição. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/25/06/2021/banco-do-brasil-vai-testar-visao-computacional-com-5g/"
+        },
+        {
+            "text": "Panasonic vende toda sua participação na Tesla: a companhia japonesa fabrica as baterias dos veículos da marca e afirma que pretende continuar a parceria. A venda resultou num ganho de 3,6 bilhões de dólares para a Panasonic, multiplicando seu investimento original na Tesla, realizado em 2010, em mais de 100 vezes. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/panasonic-sold-tesla-shares-to-raise-cash-for-acquisition-103525121.html"
+        },
+        {
+            "text": "Busca do Google não mostrará resultados para tópicos ou assuntos muito recentes: o mecanismo reproduzirá a mensagem “Parece que esses resultados estão mudando rapidamente” e aconselhará as pessoas a verificar novamente mais tarde, priorizando a precisão ao invés de mostrar informações a qualquer custo. Segundo o Google, se um tópico for emergente, como notícias de última hora, o sistema pode levar algum tempo para adicionar resultados de fontes confiáveis. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/06/25/google-search-changing-quickly-notice/"
+        },
+        {
+            "text": "Pesquisadores recriam canto de um pássaro lendo apenas sua atividade cerebral: o modelo consegue reproduzir as complexas vocalizações de um pássaro canoro (sabiás, canários) no tom, volume e timbre original. O estudo pode ser o primeiro passo para o desenvolvimento de próteses vocais para humanos que perderam a fala. As informações são da revista científica Cell.",
+            "url": "https://www.sciencedaily.com/releases/2021/06/210618091721.htm"
+        },
+        {
+            "text": "Cientistas do MIT criam nanomaterial mais resistente do que kevlar ou aço: feito de “tetrakaidecaedros” de carbono interconectados, o material ultraleve é altamente resistente a impactos, o que poderia abrir o caminho para a criação de armaduras leves, revestimentos de proteção e escudos resistentes a explosões para eletrônicos sensíveis. As informações são da revista Nature.",
+            "url": "https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=materiais-ultraleves-suportam-impactos-supersonicos&id=010170210625"
+        },
+        {
+            "text": "Pesquisa mostra que maioria das bibliotecas de projetos open source nunca é atualizada: 79% dos desenvolvedores nunca atualizam bibliotecas de terceiros. No entanto, quando alertado sobre vulnerabilidades, desenvolvedores agem rapidamente, com quase 17% das falhas corrigidas dentro de uma hora e 25% corrigidas em até sete dias. O relatório “State of Software Security” está disponível no site da Veracode e inclui a análise de mais de 86 mil repositórios, contendo mais de 301 mil bibliotecas.",
+            "url": "https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition"
+        },
+        {
+            "text": "AWS anuncia competição de caça a bugs: o “AWS BugBust” é a primeira competição global para desenvolvedores Java e Python com o objetivo de corrigir coletivamente 1 milhão de bugs. Desenvolvedores de todo o mundo podem participar do evento e concorrer a prêmios. As informações são do blog da AWS.",
+            "url": "https://aws.amazon.com/pt/bugbust/"
+        }
+    ]
+}
