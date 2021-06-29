@@ -1,0 +1,47 @@
+{
+    "title": "Nubank surpreende e adia evento / Kindle com tela dobrável / Brasileiros muito preocupados com fake news",
+    "fps": 30,
+    "timestamp": 1624979249,
+    "date": "6/29/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Tuesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Nubank adia evento de lançamento desta terça-feira: rumores apontavam que a empresa iria lançar o novo cartão “Ultravioleta” com novas funcionalidades, além de habilitar o recurso Apple Pay. Devido à alta expectativa gerada para o evento, o Nubank afirma que precisará refinar sua estrutura de transmissão. O evento foi remarcado para a próxima terça-feira, dia 6 de julho. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/455840/nubank-adia-evento-fintech-deve-lancar-cartao-de-metal-com-cashback/"
+        },
+        {
+            "text": "Amazon estuda lançar Kindle com tela dobrável: a ideia do projeto veio após o sucesso da linha de smartphones dobráveis da Samsung. O laboratório da varejista também estaria desenvolvendo óculos com realidade aumentada. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/newsletters/2021-06-27/big-ipads-apple-car-changes-amazon-ar-glasses-inside-big-tech-labs"
+        },
+        {
+            "text": "Brasileiros estão usando menos redes sociais para ler notícias: apesar da pesquisa “Reuters Digital News Report 2021” mostrar que as redes sociais ainda são o meio mais utilizado para se atualizar, os brasileiros estão perdendo o interesse nessas ferramentas. O Twitter foi a rede social que sofreu o maior impacto, com uma queda de 29% na preferência dos leitores nacionais, seguida pelo YouTube (-13%), Facebook (-11%) e WhatsApp (-10%). Outro dado interessante é o Brasil ser o líder mundial em preocupação com fake news, com 82% atentos a conteúdos falsos. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/455482/brasileiros-estao-usando-menos-facebook-e-whatsapp-para-ver-noticias-diz-pesquisa/"
+        },
+        {
+            "text": "Facebook entra para o grupo do 1 trilhão de dólares em valor de mercado: a companhia é a mais jovem no mundo a atingir a marca, sendo fundada em 2004. As ações da companhia registraram alta ontem após a FTC, agência de proteção ao consumidor e competição dos EUA, sofrer um revés na ação judicial que acusava o Facebook de ser um monopólio e pedia a revisão das aquisições do WhatsApp Instagram. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/6/28/22554502/facebook-1-trillion-dollar-market-cap-company-business"
+        },
+        {
+            "text": "E-commerce brasileiro, Elo7, é vendido por 1 bilhão de reais: o comércio eletrônico, especializado em produtos artesanais, foi adquirido pela norte-americana Etsy por 217 milhões de dólares. O Elo7 possui 56 mil vendedores ativos e cerca de 8 milhões de itens à venda. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/455679/etsy-compra-brasileira-elo7-comercio-eletronico/"
+        },
+        {
+            "text": "Metade da população mundial já possui smartphone: de acordo com uma pesquisa da Strategy Analytics, o smartphone é “o computador mais bem sucedido de todos os tempos”. Em junho deste ano, estima-se que 3,95 bilhões de pessoas possuam algum modelo de smartphone. O primeiro conceito de smartphone moderno, o “IBM Simon”, foi lançado nos EUA em 1994. As informações são da Business Wire.",
+            "url": "https://www.businesswire.com/news/home/20210624005926/en/Strategy-Analytics-Half-the-World-Owns-a-Smartphone"
+        },
+        {
+            "text": "NASA aciona computador de backup, mas Hubble continua com problemas: apesar de tentar várias combinações, entre os computadores principal e de backup, os engenheiros da agência espacial se deparam sempre com o mesmo erro: falha nos comandos para gravar ou ler da memória. A equipe agora está avaliando se a unidade de comando de dados científicos ou o regulador de energia estão com problemas. Ambos possuem backups. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/28/hubble_backup_borked/"
+        },
+        {
+            "text": "Primeiro build do Windows 11 já está disponível para baixar oficialmente da Microsoft: o download do sistema operacional está disponível para quem tiver acesso ao “Dev Channel” do programa Windows Insider. Essa release, entretanto, não contém ainda o suporte para aplicativos Android e a integração com o Microsoft Teams.",
+            "url": "https://tecnoblog.net/455513/windows-11-e-liberado-para-download-em-previa-veja-como-instalar/"
+        }
+    ]
+}
