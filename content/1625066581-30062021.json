@@ -1,0 +1,47 @@
+{
+    "title": "GitHub Copilot lança nova IA incrível / Inpe vai desligar supercomputador / Pelé conversa com Mark Zuckerberg ",
+    "fps": 30,
+    "timestamp": 1625066581,
+    "date": "6/30/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta Wednesday. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "GitHub apresenta nova ferramenta de IA que faz sugestões de código: o “GitHub Copilot” pode sugerir até mesmo funções inteiras. Para realizar as sugestões, uma Inteligência artificial chamada “Codex”, criada em parceria com a OpenAI, analisa comentários, nome de funções e linhas de código escritas recentemente. O Copilot pretende eliminar muitas consultas no Stack Overflow e substituir a necessidade de ler documentações completas, pois a ferramenta conhece todas as funções e recursos específicos do framework com o qual se está trabalhando. O Copilot é integrado diretamente no Visual Studio Code e pode ser instalado como uma extensão. O sistema funciona especialmente bem para Python, JavaScript, TypeScript, Ruby e Go, mas aceita dezenas de outras linguagens. Com informações do site TechCrunch e da página Copilot no GitHub.",
+            "url": "https://techcrunch.com/2021/06/29/github-previews-new-ai-tool-that-makes-coding-suggestions/"
+        },
+        {
+            "text": "Inpe vai desligar supercomputador Tupã por falta de verba: o instituto não possui recursos para pagar a conta de energia do supercomputador, que chega a 5 milhões de reais por ano. O Inpe comprou uma outra máquina, mais eficiente, para substituir o Tupã, mas ela não é da mesma categoria e não será capaz de realizar projeções associadas às mudanças no clima de longo prazo (próximos anos e décadas). As informações são do portal G1.",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2021/06/14/inpe-admite-possibilidade-de-desligar-supercomputador-por-falta-de-verba-federal.ghtml"
+        },
+        {
+            "text": "Pelé é o novo “garoto-propaganda” do WhatsApp Pay: em uma postagem no Instagram, o rei do futebol conversa com Mark Zuckerberg, chamando-o de “rei do ZapZap”. Pelé está promovendo o lançamento do sistema de pagamentos a toda a base do WhatsApp. As informações são do portal O Globo.",
+            "url": "https://revistapegn.globo.com/Banco-de-ideias/Mundo-digital/noticia/2021/06/whatsapp-lanca-ferramenta-de-pagamentos-com-pele-e-mark-zuckerberg-king-zapzap.html"
+        },
+        {
+            "text": "Pesquisadores alertam que redes sociais podem ser um risco à humanidade: em um novo artigo publicado na revista científica PNAS, dezessete pesquisadores especializados em campos amplamente diferentes, de climatologia à filosofia, argumentam que a nossa falta de compreensão sobre os efeitos comportamentais coletivos das novas tecnologias é um perigo para a democracia e o progresso científico. As informações são do site Recode.",
+            "url": "https://www.vox.com/recode/2021/6/26/22550981/carl-bergstrom-joe-bak-coleman-biologists-ecologists-social-media-risk-humanity-research-academics"
+        },
+        {
+            "text": "Cirurgias com robôs não demonstram vantagens: um estudo realizada com cirurgias abdominopélvicas assistidas por robôs mostra que não há nenhuma vantagem clara entre as plataformas robóticas existentes e laparoscopias ou cirurgias abertas, sendo ainda mais são caras e aumentando a duração da operação. O estudo conclui que é necessário maior refinamento, competição e redução de custos, para versões futuras melhorarem os resultados clínicos. O estudo completo está disponível no site da revista científica ACP Journals.",
+            "url": "https://www.acpjournals.org/doi/10.7326/M20-7006"
+        },
+        {
+            "text": "Elon Musk afirma que rede de internet orbital Starlink terá cobertura global até agosto deste ano: o sistema opera atualmente com cerca de 1.800 satélites, mas o número deve chegar a 12.000 em órbita LEO (Órbita Terrestre Baixa na sigla em inglês) nos próximos anos. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/456084/elon-musk-diz-que-internet-starlink-tera-cobertura-global-ate-agosto/"
+        },
+        {
+            "text": "LinkedIn afirma que 700 milhões de contas colocadas à venda por hacker não foram obtidas por vazamento: o LinkedIn afirma que, embora ainda esteja investigando o caso, uma análise inicial indica que os dados à venda, que incluem nomes completos, e-mail e números de telefone, foram obtidos através de web scraping. Em abril deste ano, cerca de 500 milhões de perfis da rede já haviam sido colocados à venda em um fórum para hackers. As informações são do site PrivacySharks.",
+            "url": "https://www.privacysharks.com/exclusive-700-million-linkedin-records-for-sale-on-hacker-forum-june-22nd-2021/"
+        },
+        {
+            "text": "Santander lança “Consórcio Gamer”: a carta de crédito, com valores a partir de 5 mil reais, pode ser quitada em até 48 vezes, e utilizada para a compra de PCs, notebooks, consoles, e kits gamer como cadeiras, headsets e outros periféricos. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/mercado/220162-santander-lanca-consorcio-gamer-quer-banco-esports.htm"
+        }
+    ]
+}
