@@ -1,0 +1,47 @@
+{
+    "title": "Falha gravíssima no Edge / Novo recurso no Slack / Pix Offline",
+    "fps": 30,
+    "timestamp": 1625152610,
+    "date": "01/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores de segurança russos descobrem vulnerabilidade gravíssima no Microsoft Edge: a falha de uXSS (Universal Cross Site Scripting), descoberta por Vansh Devgan e Shivam Kumar Singh, permitia utilizar o recurso interno de tradução automática do navegador para realizar ataques em qualquer site. O vetor utilizado era uma tag de imagem mal formatada, contendo o callback “onerror”, e dentro dele um código JavaScript malicioso. Como esse tipo de código não é um HTML válido e não é sanitizado, no momento em que a página era traduzida, a parte do código JavaScript era executada e o ataque acontecia. Os pesquisadores realizaram simulações dentro do Facebook, Google, YouTube e Windows Store Application, mas o ataque poderia ser aplicado em qualquer site. Os pesquisadores receberam 20 mil dólares da Microsoft como bounty e a falha já foi consertada nas versões mais recentes do Edge. As informações são do site CyberXplore.",
+            "url": "https://portswigger.net/daily-swig/microsoft-edge-translator-contained-uxss-flaw-exploitable-on-any-web-page"
+        },
+        {
+            "text": "Slack lança “Huddles”, recurso de áudio para recriar discussões informais no escritório: uma conversa pode ser iniciada através de qualquer canal ou DM e são particularmente úteis quando se deseja discutir um tópico complexo em tempo real. O recurso permite o compartilhamento de tela, mas não da câmera. O Slack também lançou um sistema para gravações de tela, voz e vídeo que podem ser distribuídas de forma assíncrona e assistidas a qualquer momento, eliminando a necessidade de reuniões com hora marcada. As informações são do blog do Slack.",
+            "url": "https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like"
+        },
+        {
+            "text": "Banco Central está desenvolvendo “Pix Offline”: a tecnologia permitirá o pagamento de compras ou a transferência de valores mesmo quando não houver conexão com a Internet. Segundo o BC, há três alternativas em estudo: a mais segura até o momento seria a utilização de um cartão por aproximação que poderá ser carregado com valores previamente. As informações são da Agência Brasil.",
+            "url": "https://br.investing.com/news/economy/pixtera-funcionalidade-offline-em-breve-diz-presidente-do-bc-887499"
+        },
+        {
+            "text": "Startup criada por Sam Altman quer escanear íris de todas as pessoas do mundo em troca de moedas digitais: a Worldcoin desenvolveu um dispositivo esférico, do tamanho de uma bola de basquete, para escanear a íris de uma pessoa e construir um identificador pessoal único para então distribuir suas moedas digitais. O objetivo da startup é criar um sistema que poderia distribuir dinheiro para a população mundial, uma espécie de renda básica de cidadania (universal basic income), utilizando a íris das pessoas como sistema anti-fraude. Sam Altman é o atual CEO da OpenAI e ex-presidente da Y Combinator. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-06-29/sam-altman-s-worldcoin-will-give-free-crypto-for-eyeball-scans"
+        },
+        {
+            "text": "Inventor da “World Wide Web” leiloa NFT por 27 milhões de reais: a peça central do colecionável digital são 9.555 linhas do código-fonte escritas por Tim Berners-Lee e que criaram as primeiras implementações de HTML, HTTP e URI no mundo. Um comprador anônimo pagou 5,43 milhões de dólares pelo NFT e o valor arrecadado beneficiará iniciativas apoiadas por Berners-Lee. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/01/world_wide_web_nft_auction/"
+        },
+        {
+            "text": "Cientistas criam novo algoritmo de digitalização corporal muito mais mais preciso: o código, denominado Gryphon, é uma ferramenta simples e gratuita de processamento de dados que identifica erros em medições, aumentando a precisão em qualquer máquina de escaneamento corporal em 4.500%. O algoritmo poderá ser utilizado no design de roupas esportivas de alto desempenho e avaliação morfométrica 3D, ergonômica e antropométrica. As informações são da página de imprensa da Loughborough University.",
+            "url": "https://www.lboro.ac.uk/media-centre/press-releases/2021/june/3d-scanning-results-are-4500-percent-more-precise/"
+        },
+        {
+            "text": "Windows 11 é instalado em Raspberry Pi e até mesmo em um smartphone: a versão de prévia do sistema operacional, disponível oficialmente através do programa Windows Insider, facilita a instalação e não impõe qualquer regra de hardware. O estudante de engenharia francês Gustave Monce demonstrou que é possível até mesmo fazer ligações através do Windows 11 instalado em um antigo Lumia 950 XL. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/06/30/windows_11_pi/"
+        },
+        {
+            "text": "Google não vai mais aceitar APKs na Play Store: desenvolvedores deverão utilizar o “Android App Bundle” (AAB) para aplicativos a partir de agosto de 2021. A ideia do App Bundle é otimizar a distribuição: quando um aplicativo for baixado da loja, o dispositivo receberá um APK otimizado, ao invés de um APK universal preparado pelo desenvolvedor. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/01/android_app_bundle/"
+        }
+    ]
+}
