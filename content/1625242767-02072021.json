@@ -1,0 +1,39 @@
+{
+    "title": "Instagram anuncia mudança estratégica / Novo unicórnio brasileiro / Selfies banidas na Índia",
+    "fps": 30,
+    "timestamp": 1625242767,
+    "date": "02/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Instagram quer pivotar rede social para vídeos e competir com TikTok: Adam Mosseri, CEO da companhia, reconheceu que o Instagram não é mais apenas um aplicativo para compartilhamento de fotos. Em um vídeo postado no seu perfil do Instagram, Mossari afirma que a maioria das pessoas acessa a rede social para se divertir e o TikTok é um dos seus maiores concorrentes. O Instagram vai investir em quatro áreas estratégicas a partir de agora: vídeos, que serão o principal foco principal, compras, mensagens e criadores de conteúdo.",
+            "url": "https://pressfrom.info/us/news/science-and-technology/-770134-instagram-is-pivoting-to-video.html"
+        },
+        {
+            "text": "“Mercado Bitcoin” vira unicórnio com captação de 200 milhões de dólares: a corretora brasileira de ativos digitais é avaliada em 2,1 bilhões de dólares, colocando-a entre as dez startups mais valiosas da América Latina. A empresa, fundada pelos irmãos Gustavo e Maurício Chamati em 2013, já possui 2,8 milhões de clientes, cerca de 70% de toda a base de investidores individuais na bolsa de valores do Brasil. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/01/mercado-bitcoin-raises-200m/"
+        },
+        {
+            "text": "Distrito na Índia bane “selfies” para evitar acidentes: quem for flagrado violando a ordem, estará cometendo um crime e será autuado de acordo com o código penal indiano. A medida foi tomada como precaução após o início das monções na região de Dang gerarem um grande fluxo de turistas ao distrito. Segundo o governo local, tirar selfies pode levar a acidentes fatais em locais turísticos da região. As informações são do jornal The Times of India.",
+            "url": "https://timesofindia.indiatimes.com/travel/travel-news/travellers-cannot-click-selfies-in-gujarats-dang/as83945933.cms"
+        },
+        {
+            "text": "Pix já supera quantidade de operações realizadas com cheques, boletos, TEDs e DOCs: ainda segundo Roberto Campos Neto, presidente do Banco Central, aproximadamente 73 milhões de brasileiros já utilizaram o meio de pagamento, cerca de 46% da população adulta do Brasil. As informações são do portal O Globo.",
+            "url": "https://valorinveste.globo.com/produtos/servicos-financeiros/noticia/2021/07/01/pix-superou-teds-docs-cheques-e-boletos-nos-ultimos-meses-diz-campos.ghtml"
+        },
+        {
+            "text": "“Troll” do Twitter é condenado a pagar indenização no Reino Unido: uma pessoa que usou contas anônimas na rede social para fazer comentários difamatórios e alegações falsas sobre o radialista irlandês Stephen Nolan se desculpou e precisará pagar uma indenização de centenas de milhares de dólares (o valor específico não foi revelado). Nolan disse que essa é uma mensagem muito forte aos trolls da Internet, que terão um preço alto a pagar se forem descobertos. As informações são da BBC.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-57684497"
+        },
+        {
+            "text": "Agência espacial europeia quer implementar IAs em satélites: segundo a ESA, o uso de redes neurais poderia reduzir a quantidade de informação que precisa ser transmitida de volta à Terra. A pré-seleção e processamento de imagens a bordo dos satélites aumentaria em mais de 400% a quantidade de dados úteis enviados. No entanto, para atingir o desempenho necessário, com uma fração do consumo de energia de uma GPU, e resistência ao ambiente espacial, será necessário desenvolver chips específicos para a tarefa. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/01/vectorenhanced_riscv_chips_could_give/"
+        }
+    ]
+}
