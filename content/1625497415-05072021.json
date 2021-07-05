@@ -1,0 +1,47 @@
+{
+    "title": "GitHub Copilot “rouba” códigos / Serviço fictício da AWS viraliza / REvil infecta 1 milhão de sistemas",
+    "fps": 30,
+    "timestamp": 1625497415,
+    "date": "05/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "GitHub Copilot regurgita código e recebe diversas críticas de desenvolvedores: o novo recurso é acusado de “roubar” códigos com direitos autorais ou que demandam citação, sem citá-los. Um caso foi a função “Fast Inverse Square Root” implementada originalmente no código fonte do jogo “Quake 1” e que foi transcrita por completo pelo Copilot, incluindo um palavrão nos comentários, criando um risco para desenvolvedores, pois o código original possui uma licença GPL que pode conflitar com a licença do software que está sendo projetado. Neste final de semana, um engenheiro da SendGrid reportou que o Copilot também está “gerando” chaves API do serviço válidas e funcionais. No entanto, a culpa não seria do recurso, mas sim dos repositórios que mantém essas chaves disponíveis publicamente. A comunidade ainda está avaliando o Copilot, mas alguns desenvolvedores estão com receio de utilizar a ferramenta e serem processados por utilizar códigos roubados ou estão movendo seus repositório e abandonando o GitHub em forma de protesto. As informações são do site HackerNews.",
+            "url": "https://news.ycombinator.com/item?id=27687450"
+        },
+        {
+            "text": "Desenvolvedor cria serviço fictício da AWS e viraliza: Joe Nash queria testar se era possível a um grupo de desenvolvedores criar demandas no mercado de trabalho apenas comentando no Twitter sobre um serviço completamente fictício da AWS, o “Infinidash”. Apenas três dias depois, o serviço falso acabou virando requisito para uma vaga real de emprego: o aplicativo de mensagens Signal abriu vagas para engenheiros com experiência em Infinidash. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/05/infinidash/"
+        },
+        {
+            "text": "REvil afirma que infectou 1 milhão de sistemas com ataque à Kaseya: o grupo de ransomware está pedindo 70 milhões de dólares em regaste, prometendo que todas as vítimas conseguirão recuperar seus arquivos encriptados em menos de uma hora. A Kaseya foi vítima de um “supply chain attack”, com seus produtos para gerenciamento de redes e backups transformados em um mecanismo de entrega para o ataque ransomware. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/03/in_brief_security/"
+        },
+        {
+            "text": "Hackers roubam 185 mil de prefeitura em apenas dois minutos utilizando Pix: segundo um post na própria página da prefeitura de Sulina, os invasores conseguiram cadastrar uma chave Pix e realizar três transferências antes que a agência bancária conseguisse identificar o ataque e acionar seu sistema de segurança. A prefeitura afirma que o Banco do Brasil vai devolver o valor roubado.",
+            "url": "https://canaltech.com.br/seguranca/invasores-atacam-conta-de-prefeitura-e-roubam-r-185-mil-via-pix-em-2-minutos-188901/"
+        },
+        {
+            "text": "Novo CEO da Qualcomm, o brasileiro Cristiano Amon, quer superar novos processadores M1 da Apple: a empresa irá criar sozinha um novo SoC (System-on-a-Chip) para notebooks, sem depender de designs da ARM. Em março deste ano, a Qualcomm comprou a startup Nuvia, fundada por ex-funcionários da Apple que trabalharam no chip M1, por 1,4 bilhão de dólares. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/07/qualcomm-ceo-we-can-beat-apple-because-we-poached-talent-from-them/"
+        },
+        {
+            "text": "Rede social “GETTR” é hackeada no dia do lançamento: a plataforma foi invadida por um hacker que conseguiu alterar o perfil de vários usuários com a mensagem “JubaBaghdad esteve aqui, siga-me no Twitter :)”. A GETTR é uma rede social no estilo Twitter criada por Jason Miller, conselheiro sênior do ex-presidente Donald Trump, e foi lançada neste domingo, dia 4 de julho. As informações são da Reuters.",
+            "url": "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/"
+        },
+        {
+            "text": "Fabricante chinesa registra patente para smartphone com drone embutido: o pequeno módulo sai da parte de baixo do dispositivo criado pela Vivo, possuindo quatro hélices e um sistema de câmeras com sensores infravermelhos que poderiam ser usados para seguir e tirar fotos das pessoas. As informações são da Gizmochina.",
+            "url": "https://www.gizmochina.com/2021/07/02/vivo-could-be-working-on-a-smartphone-with-a-detachable-flying-camera/"
+        },
+        {
+            "text": "Cientistas alemães constroem microscópio de alta resolução com peças de Lego e lentes de smartphones: as ampliações e resolução obtidas são suficientes para objetos do tamanho de micrômetros. O projeto possui um apelo educacional, com a construção dos microscópios e a realização de vários experimentos em casa para aprimorar a compreensão de vários princípios biofísicos. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/science/2021/07/german-scientists-built-a-high-resolution-microscope-out-of-lego-bricks/"
+        }
+    ]
+}
