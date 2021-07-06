@@ -1,0 +1,47 @@
+{
+    "title": "Nubank lança cartão de metal / Audacity acusado de spyware / Réu é citado por WhatsApp",
+    "fps": 30,
+    "timestamp": 1625582599,
+    "date": "06/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Nubank apresenta seu novo cartão, o “Ultravioleta”: feito de metal, sob uma luz ultravioleta, o cartão traz uma mensagem secreta para cada usuário. O Ultravioleta virá com bandeira Mastercard Black, cashback instantâneo de 1% e compatibilidade com Apple Pay. As informações são do Estadão.",
+            "url": "https://link.estadao.com.br/noticias/inovacao,nubank-revela-cartao-ultravioleta-com-apple-pay-veja-novidades,70003770036"
+        },
+        {
+            "text": "Popular aplicativo de áudio Audacity é acusado de ser “spyware”: uma recente atualização na sua política de privacidade permite que dados de usuários sejam coletados para “aplicação da lei”, compartilhando essas informações com autoridades policiais e governamentais. Em abril deste ano, o aplicativo foi vendido para o Muse Group, com sede na Rússia. Como o projeto é de código aberto, a comunidade já criou um “fork”, sem nenhum recurso de rastreamento, disponível no repositório “temporary-audacity/audacity”. Com informações dos sites Engadget e HackerNews.",
+            "url": "https://news.ycombinator.com/item?id=27736151"
+        },
+        {
+            "text": "Juiz de SP permite a citação de réu por WhatsApp: a medida foi autorizada porque o réu não possui endereço ou trabalho fixos, mas há provas de uso ativo do aplicativo de mensagens, evitando assim o desperdício de recursos públicos com a citação. As informações são do site Conjur.",
+            "url": "https://www.conjur.com.br/2021-jul-05/reu-endereco-fixo-citado-whatsapp"
+        },
+        {
+            "text": "Câmara aprova direito a vídeo chamadas para pacientes internados em UTIs: as ligações poderão ser feitas uma vez por dia para familiares e amigos de pacientes, evitando visitas presenciais. Pacientes inconscientes também terão direito a receber as chamadas. Cada ligação, no entanto, precisará ser autorizada pela equipe médica, que utilizará um dispositivo compartilhado e determinará o horário em que será realizada. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/457998/direito-a-chamada-de-video-diaria-para-pacientes-em-uti-e-aprovado-na-camara/"
+        },
+        {
+            "text": "Elon Musk admite que direção autônoma é mais difícil do que pensava: Musk afirmou que “não esperava que fosse tão difícil” criar uma rede neural capaz de guiar o veículo sem motorista, atrasando mais uma vez o lançamento do recurso aos veículos da marca. A próxima versão do sistema de direção autônoma deve incorporar o “Tesla Vision”, uma tecnologia de visão computacional que depende apenas de câmeras, sem leituras de radar. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/07/05/elon-musk-admits-self-driving-harder-than-he-thought-tesla-troll-missed-deadlines/"
+        },
+        {
+            "text": "Fabricante de veículos elétricos Rimac assume controle da Bugatti: a Rimac desenvolve e produz carros esportivos elétricos, motores e sistemas de bateria, e foi fundada em 2009 por Mate Rimac, quando tinha apenas 21 anos. A Rimac lançou recentemente o “Nevera”, o carro esporte mais rápido do mundo, posição anteriormente ocupada pelo Bugatti “Chiron”. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/05/vw-offloads-bugatti-to-rimac-to-form-new-ev-company-bugatti-rimac/"
+        },
+        {
+            "text": "TIM lança aplicativo que troca publicidade por Internet 4G: o “TIM Fun” é um programa de recompensas, no qual pontos são acumulados ao se interagir com publicidade, podendo ser trocados por pacotes de Internet, ligações ou SMS. O “TIM Fun” está disponível apenas para Android, já que a Apple proíbe aplicativos que ofereçam incentivos financeiros para o rastreamento de usuários vinculado à publicidade. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/458149/tim-lanca-app-que-da-internet-4g-gratis-em-troca-de-publicidade/"
+        },
+        {
+            "text": "Nintendo lança “Switch OLED”: o console é uma versão atualizada do popular Switch, com uma tela OLED de 7 polegadas, 64GB de armazenamento interno, sistema de áudio aprimorado e novo dock com rede Ethernet. Não há detalhes sobre o processador neste novo modelo, mas ele não terá suporte a resolução 4K no modo “dock”. O Nintendo Switch OLED estará à venda a partir de outubro deste ano por 350 dólares. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/7/6/22456337/nintendo-switch-oled-model-specs-date-price"
+        }
+    ]
+}
