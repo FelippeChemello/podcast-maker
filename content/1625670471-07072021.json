@@ -1,0 +1,47 @@
+{
+    "title": "IA identifica políticos no celular / Brasileiro mais rico / Implante cerebral elimina dor",
+    "fps": 30,
+    "timestamp": 1625670471,
+    "date": "07/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "IA identifica por quanto tempo políticos belgas estão utilizando o celular: o sistema monitora as transmissões ao vivo de reuniões do governo no YouTube para avaliar por quanto tempo um representante está olhando para o telefone em comparação com a reunião em andamento. Quando a IA detecta um parlamentar distraído, ela o “denuncia” através de postagens no Instagram e Twitter. O projeto surgiu após o ministro-presidente belga Jan Jambon causar indignação pública ao jogar o jogo “Angry Birds” durante uma discussão política. As informações são do site Mashable.",
+            "url": "https://mashable.com/article/flemish-politicians-ai-phone-use"
+        },
+        {
+            "text": "Eduardo Saverin é o brasileiro mais rico do mundo: Saverin, de 39 anos, estudou em Harvard junto com Mark Zuckerberg e, em 2004, fundaram juntos o Facebook. De acordo com o ranking de bilionários da Forbes, a fortuna de Saverin é estimada em 19,5 bilhões de dólares.",
+            "url": "https://g1.globo.com/economia/noticia/2021/07/07/39-anos-e-us-194-bilhoes-quem-e-o-novo-brasileiro-mais-rico-do-mundo.ghtml"
+        },
+        {
+            "text": "Interface cérebro-computador detecta e elimina dor em tempo real: assim que o sistema detecta um sinal elétrico que sugere dor, um feixe de luz é automaticamente acionado por um implante, ativando neurônios que podem anular esses sinais. O sistema só é ativado quando há dor, sendo específico e eficiente. O dispositivo apenas foi testado em ratos, mas a equipe de pesquisa da Universidade Nova York pretende adaptar o mesmo sistema para humanos. As informações são do site SingularityHub.",
+            "url": "https://singularityhub.com/2021/06/29/a-new-brain-implant-automatically-detects-and-kills-pain-in-real-time/"
+        },
+        {
+            "text": "Câmara aprova regime de urgência para Marco Legal da Inteligência Artificial: o Projeto de Lei 21/20, estabelece princípios, direitos e deveres para a utilização de inteligências artificiais no Brasil. O objetivo é criar uma legislação que estimule a criação de IAs e proteja os cidadãos do mau uso delas. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=57466&sid=11"
+        },
+        {
+            "text": "Usina utilizada para minerar moedas digitais está transformando lago glacial em “banheira de hidromassagem”: a acusação é feita por moradores do interior do estado de Nova Iorque, nos EUA. A usina Greenidge, movida a gás natural, está despejando dezenas de milhões de litros de água quente no lago glacial Seneca após a instalação de milhares de sistemas de mineração. A estação ainda tem planos de instalar outros milhares de mineradores, utilizando 85 MW da sua capacidade total. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/tech-policy/2021/07/bitcoin-power-plant-is-turning-a-12000-year-old-glacial-lake-into-a-hot-tub/"
+        },
+        {
+            "text": "Empresa utiliza reconhecimento facial para detectar crianças jogando online à noite: a iniciativa do estúdio Tencent Games na China, chamada de “Patrulha da Meia-Noite”, pretende reduzir o tempo que crianças e adolescentes passam jogando online. O carro-chefe da Tencent é o “Honor of Kings”, jogo para smartphone mais popular na China e com maior receita mundial no ano de 2020 em todo o mundo. As informações são do site Sixth Tone.",
+            "url": "https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night"
+        },
+        {
+            "text": "IA que recomenda vídeos do TikTok está à venda: a ByteDance, dona do TikTok, está oferecendo o algoritmo de recomendação a clientes externos, com a possibilidade de personalização. Segundo a empresa, o sistema analisa dezenas de dados de usuários, seus dispositivos e a interação com o aplicativo para determinar quais vídeos serão apresentados em seguida. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/7/4/22562962/tiktok-parent-bytedance-video-app-ai-byteplus-china"
+        },
+        {
+            "text": "Dono do Audacity decide alterar política de privacidade após polêmica: Daniel Ray, chefe de estratégia da Muse, afirma que a equipe jurídica irá revisar a política de privacidade do aplicativo para comunicar mais claramente os pontos sobre a coleção e compartilhamento de dados de usuários. Ainda segundo Ray, a política de privacidade não entrará em vigor até a próxima versão do Audacity (3.0.3). As informações são do repositório “audacity” no GitHub.",
+            "url": "https://github.com/audacity/audacity/discussions/1225"
+        }
+    ]
+}
