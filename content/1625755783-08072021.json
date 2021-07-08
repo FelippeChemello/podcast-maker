@@ -1,0 +1,47 @@
+{
+    "title": "Desbloqueio de iPhones / GitHub Copilot ignora licenças de software / PF investe em biometria",
+    "fps": 30,
+    "timestamp": 1625755783,
+    "date": "08/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Criminosos estão conseguindo desbloquear qualquer modelo de iPhone para roubar contas bancárias: a técnica consiste em retirar o chip SIM do aparelho furtado e o colocar em um outro aparelho desbloqueado. Na sequência, são realizadas pesquisas nas redes sociais para saber qual conta está vinculada ao número de telefone e então descobrir qual email a vítima utiliza para fazer o backup do conteúdo do aparelho (geralmente o mesmo utilizado nas redes sociais). Ao baixar as informações da nuvem no novo aparelho, o bandido procura por informações ligadas a palavra “senha” guardadas no celular da vítima (provavelmente no aplicativo Notas). A técnica funcionaria em qualquer modelo de iPhone, do 5 até 11. Um técnico em informática preso pela polícia afirma que ao menos outras três pessoas dão aulas para criminosos interessados em aplicar golpes com celulares na cidade de São Paulo. As informações são da Folha de São Paulo.",
+            "url": "https://www1.folha.uol.com.br/cotidiano/2021/07/consigo-desbloquear-todos-os-modelos-de-iphone-diz-criminoso-que-invade-contas-bancarias.shtml"
+        },
+        {
+            "text": "GitHub confirma uso de qualquer código público para o novo recurso Copilot, indiferente de licenças: a inteligência artificial Codex, que é a base do Copilot, foi treinada em todos os repositórios públicos disponíveis no GitHub, sem distiguir o tipo de licença. Segundo a desenvolvedora Nora Tindall, que obteve a informação e a publicou em seu perfil no Twitter, não há precedentes para a violação de conteúdos protegidos por direitos autorais no treinamento de uma IA e este seria um momento decisivo para o futuro do software livre em geral.",
+            "url": "https://twitter.com/efa_oz/status/1412920867303038977"
+        },
+        {
+            "text": "Polícia Federal investe em novo sistema unificado de biometria: a “Abis” (Solução Automatizada de Identificação Biométrica) oferece exatidão no cruzamento de dados, consultas de impressões digitais e reconhecimento facial. A capacidade inicial do sistema é de 50 milhões de cadastros únicos, mas pode ser expandida para identificar os dados de até 200 milhões de brasileiros. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/novo-sistema-da-policia-federal-armazenara-dados-biometricos"
+        },
+        {
+            "text": "Argentina estuda projeto de lei para pagamento de salários em moedas digitais: os trabalhadores teriam a escolha de receber seus salários em moedas virtuais e seria uma alternativa ao estrito controle de câmbio no país. As informações são do site Infobae.",
+            "url": "https://www.infobae.com/economia/2021/05/31/furor-por-el-bitcoin-las-tarifas-subsidiadas-en-la-argentina-son-un-incentivo-para-el-minado/"
+        },
+        {
+            "text": "Sete brasileiras estão no Top 10 de unicórnios da América Latina: o Nubank lidera com folga a lista, avaliado em 30 bilhões de dólares, seguido pela também brasileira QuintoAndar ($ 4 bilhões) e a mexicana de carros usados Kavak ($ 4 bilhões). A lista segue com a colombiana Rappi, o estúdio de jogos brasileiro Wild Life, a imobiliária Loft, a mexicana Bitso, o C6 Bank, Mercado Bitcoin e a startup de empréstimos online brasileira Creditas. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/startup/sete-startups-brasileiras-estao-em-top-10-de-unicornios-latinos-nubank-lidera-189209/"
+        },
+        {
+            "text": "Procon notifica Drogasil pelo uso de biometria em descontos: a rede de farmácias precisará explicar por quais motivos coleta e armazena impressões digitais de clientes, vinculando esses dados a descontos e promoções. O grupo afirma que já suspendeu o uso de biometria e garantiu que não comercializa informações pessoais de clientes a terceiros. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/458944/exclusivo-procon-sp-notifica-drogasil-para-explicar-uso-de-biometria-para-descontos/"
+        },
+        {
+            "text": "iFood começa a comprar créditos de carbono para tornar-se neutra em poluição do ar: a meta é tornar 100% dos pedidos atendidos pela plataforma neutros em emissão de gás carbônico nos próximos anos. A empresa fez uma parceria com a startup de moedas digitais MOSS: cada token MCO2 gera um crédito de carbono de um projeto ambiental certificado, equivalente a 1 tonelada de compensação de carbono. As informações são do Canaltech e MOSS.",
+            "url": "https://esportes.yahoo.com/noticias/ifood-vai-utilizar-criptomoeda-para-144929256.html"
+        },
+        {
+            "text": "Polícias de nove estados fazem operação de combate à pirataria digital: a terceira fase da “Operação 404” foi deflagrada nesta quinta-feira. Os policiais cumprem 11 mandados de busca e apreensão, além do bloqueio e suspensão de sites e aplicativos de streaming ilegal, desindexação de conteúdo em mecanismos de busca e remoção de perfis e páginas em redes sociais. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/policia-de-9-estados-participam-de-operacao-contra-pirataria-digital"
+        }
+    ]
+}
