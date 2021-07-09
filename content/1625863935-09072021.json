@@ -1,0 +1,47 @@
+{
+    "title": "Matéria “sensacionalista” do iPhone / Garoto gênio imortal / Grafeno brasileiro",
+    "fps": 30,
+    "timestamp": 1625863935,
+    "date": "09/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Site especializado afirma que notícia sobre roubo de iPhones é “sensacionalista” e “leviana”: vários leitores entraram em contato, alertando que a matéria sobre o roubo de iPhones da Folha de São Paulo que reproduzimos na Newsletter de ontem possuía diversas inconsistências. O site especializado “Blog do iPhone” afirma que o jornal “apelou” com uma “manchete sensacionalista” apenas para atrair mais leituras. O site destaca que os criminosos não possuem nenhuma forma especial de desbloquear iPhones, mas estão aplicando apenas engenharia social, investigando redes sociais e entrando em contato por SMS para induzir as vítimas a fornecer os dados necessários para desbloqueio dos aparelhos. Nós ficamos sabendo do caso através do site norte-americano 9to5Mac, também especializado em assuntos Apple, e que utilizou como base a matéria da Folha. Editorialmente, decidimos utilizar a fonte original também. Gostaríamos de agradecer a todas as pessoas que nos alertaram dos problemas.",
+            "url": "https://blogdoiphone.com/opiniao/folha-sensacionalista-iphone/"
+        },
+        {
+            "text": "Garoto gênio de apenas 11 anos afirma que imortalidade é seu maior objetivo: Laurent Simons é a segunda pessoa mais jovem da história a obter um diploma de bacharel em física pela Universidade de Antuérpia. Simons afirma que já traçou um plano para ser imortal, substituindo o máximo possível de partes de seu corpo por peças mecânicas, e espera concluir em breve seu mestrado, no qual estuda uma combinação de biotecnologia, medicina e engenharia de bioprocessos. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/08/prodigy_uni_graduate/"
+        },
+        {
+            "text": "Maior fábrica de grafeno da América Latina é inaugurada no Brasil: a UCSGRAPHENE tem capacidade instalada de produção de 500 kg de grafeno por ano, com possibilidade de ampliação para até 5 mil kg/ano, e apta a abastecer os mercados nacional e internacional. A fábrica foi criada a partir da Universidade de Caxias do Sul após 15 anos de pesquisa avançada em nanomateriais. As informações são da página de imprensa do MCTI e da UCSGRAPHENE.",
+            "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/07/primeira-feira-brasileira-do-grafeno-tera-inicio-nesta-sexta-feira-com-apoio-do-governo-federal"
+        },
+        {
+            "text": "Hospital Oswaldo Cruz usa IA para identificar pacientes com infecções pulmonares: a combinação de tomografia computadorizada com inteligência artificial tem acelerado a triagem de pacientes e na otimização de recursos, especialmente durante a pandemia. A técnica também é capaz de apontar se a infecção é causada vírus ou bactérias, medindo a evolução do grau de acometimento pulmonar. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Cloud-Computing/Inteligencia-Arficial-brasileira-salva-vidas-no-combate-a-Covid-19-57484.html"
+        },
+        {
+            "text": "Executivo do Google causa controvérsia ao opor trabalho remoto, mas decidir trabalhar remotamente: Urs Hölzle, vice-presidente sênior de infraestrutura técnica do Google, decidiu se mudar para a Nova Zelândia por um ano e trabalhar de lá, remotamente. A decisão teria causado um “alvoroço” dentro da companhia, após sua forte oposição ao trabalho remoto para funcionários sem um certo nível de senioridade. As informações são da Business Insider.",
+            "url": "https://www.businessinsider.com/google-exec-reportedly-working-remote-after-opposing-it-for-staff-2021-7"
+        },
+        {
+            "text": "Satélites podem ser utilizados como escudos contra asteróides: um estudo realizado pela Airbus mostra que os satélites para transmissão de TV podem ser facilmente reaproveitados como defletores de asteróides. Esses satélites geralmente são muito grandes, como um pequeno ônibus, pesando entre 4 a 6 toneladas, e o efeito combinado de colisão desses aparelhos poderia mudar a trajetória de rochas espaciais, prevenindo um desastre. As informações são do site Space.",
+            "url": "https://www.space.com/asteroid-deflection-with-telecommunication-satellites"
+        },
+        {
+            "text": "Enel começa a utilizar drones para inspecionar rede de distribuição subterrânea em São Paulo: a concessionária afirma que é a primeira a utilizar a tecnologia no setor elétrico brasileiro, permitindo maior agilidade, precisão e segurança para os eletricistas que precisam realizar a manutenção dessas instalações. As informações são da página de imprensa da Enel.",
+            "url": "https://www.enel.com.br/pt/midia/press/d202107-inedito-a-enel-inicia-a-inspecao-na-rede-subterranea-com-drones.html"
+        },
+        {
+            "text": "BNDES abre inscrições para aceleração de startups: o programa “BNDES Garagem” pretende selecionar 135 pequenas e médias empresas cujos modelos de negócios atuem nas áreas de saúde, educação, cidades sustentáveis e de auxílio a governos. As empresas selecionadas terão acesso a workshops, conteúdos, acompanhamento, mentoria, eventos de conexão e acesso à rede de parceiros. As inscrições vão até 5 de agosto deste ano. As informações são do Valor Econômico.",
+            "url": "https://valor.globo.com/financas/noticia/2021/07/06/bndes-garagem-vai-acelerar-135-startups-com-impacto-socioambiental.ghtml"
+        }
+    ]
+}
