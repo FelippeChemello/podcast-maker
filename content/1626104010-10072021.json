@@ -1,0 +1,47 @@
+{
+    "title": "Alerta do FBI para roubo de Criptomoedas / Zuckerberg é “CEO de guerra” / Controvérsia em turismo espacial",
+    "fps": 30,
+    "timestamp": 1626104010,
+    "date": "12/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "FBI emite alerta a exchanges e detentores de moedas digitais sobre ataques em andamento: a agência norte-americana identificou uma campanha ativa utilizando-se de várias táticas para roubar ativos virtuais, incluindo fraude de suporte técnico, troca de SIM e obtenção de credenciais de contas em exchanges por meio do roubo de identidades. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-cryptocurrency-owners-exchanges-of-ongoing-attacks/"
+        },
+        {
+            "text": "Novo livro afirma que Mark Zuckerberg virou “CEO de guerra”: em julho de 2018, o fundador do Facebook teria surpreendido um conselho de altos executivos da companhia ao declarar que vinha sendo um “líder em tempos de paz” e que “isso iria mudar”. Zuckerberg disse que assumiria o papel de “CEO em tempos de guerra”, com controle direto sobre todos os aspectos da companhia. Ele teria sido influenciado pelo argumento de que as empresas de tecnologia exigem líderes em tempos de guerra quando há ameaças existenciais ao seu modelo de negócio. O relato aparece no livro “An Ugly Truth: Inside Facebook’s Battle for Domination” que será lançado nesta terça-feira nos EUA. As informações são do site Axios.",
+            "url": "https://www.axios.com/ugly-truth-facebook-mark-zuckerbeg-sandberg-5db3e2e9-2c9b-4ce9-a9c1-118b1daa33f5.html"
+        },
+        {
+            "text": "Virgin Galactic inaugura turismo espacial, mas Blue Origin não reconhece: a nave “VSS Unity” levou o bilionário Richard Branson, fundador da empresa, e mais outros três passageiros a um apogeu de 85 km de altitude. A empresa afirma que Elon Musk, que é amigo de Branson, já teria comprado seu bilhete, que custa 250 mil dólares. A Blue Origin, empresa de turismo espacial fundada por Jeff Bezos, da Amazon, e com voo inaugural marcado para o dia 20 deste mês, no entanto, afirma que a nave da concorrente não voa alto o suficiente para ser considerada uma viagem espacial. O foguete New Shepard, da Blue Origin, voa acima dos 100 km de altitude, ultrapassando a “Linha de Kármán”, internacionalmente reconhecida como a fronteira do espaço. As informações são do jornal O Globo.",
+            "url": "https://oglobo.globo.com/economia/nave-de-branson-lancada-ao-espaco-conheca-os-detalhes-do-voo-da-virgin-galactic-siga-transmissao-ao-vivo-25100786"
+        },
+        {
+            "text": "Apple é condenada a indenizar cliente em 5 mil reais após perder conversas do WhatsApp: a empresa ainda precisará restaurar as mensagens que foram perdidas em razão de um erro durante a restauração de seu iPhone. A Apple, entretanto, afirma que não consegue recuperar as informações e que não há provas de que o cliente teria realizado o backup dessas mensagens no iCloud antes de iniciar o processo de restauração. As informações são do site Conjur.",
+            "url": "https://www.conjur.com.br/2021-jul-08/apple-entregar-conversas-whatsapp-armazenadas-nuvem#:~:text=O%20ju%C3%ADzo%20de%20primeiro%20grau,valor%20de%20R%24%205%20mil."
+        },
+        {
+            "text": "Aguiar, município do sertão da Paraíba, é escolhido para instalação do radiotelescópio “Bingo”: o “Baryon Acoustic Oscillations from Integrated Neutral Gas Observations”, Bingo na sigla em inglês, é um projeto internacional liderado pelo Brasil. O objetivo do telescópio é ajudar a esclarecer dois fenômenos que ainda intrigam astrofísicos e cosmologistas: a energia escura e as rajadas rápidas de rádio. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/municipio-do-sertao-da-paraiba-recebe-radiotelescopio-bingo"
+        },
+        {
+            "text": "CEO do Google acredita que IA é a tecnologia “mais profunda” que a humanidade irá desenvolver: para Sundar Pichai, inteligências artificiais terão impacto maior do que fogo, eletricidade e a internet. Pichai também acredita que nos próximos 25 anos a computação quântica irá revolucionar o mundo, abrindo uma nova gama de soluções computacionais. As informações são da BBC.",
+            "url": "https://www.telegraph.co.uk/news/2021/07/11/artificial-intelligence-will-change-world-profoundly-fire/amp/"
+        },
+        {
+            "text": "Cartucho de “Super Mario 64” bate recorde é vendido pelo maior valor da história dos video games: uma cópia lacrada do jogo, lançado há 25 anos para o console Nintendo 64, foi vendida neste final de semana por 1,56 milhão de dólares (cerca de 8 milhões de reais). O valor bateu o recorde obtido apenas alguns dias antes por um cartucho do “The Legend of Zelda” para o NES, de 1987, por 870 mil dólares (4,4 milhões de reais). As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gaming/2021/07/world-record-for-most-expensive-video-game-auction-is-now-870000/"
+        },
+        {
+            "text": "Pesquisadores obtêm avanço significativo em miniaturização de semicondutores: a nova tecnologia propõe uma forma de armazenar informações elétricas em apenas duas camadas de boro e nitrogênio com um átomo de espessura cada (os semicondutores mais avançados atualmente possuem cerca de cem átomos de espessura). Além de permitir novas formas de controle de informações em dispositivos eletrônicos futuros, a tecnologia poderá contribuir com o armazenamento e conversão de energia. As informações são da página de imprensa da Universidade de Tel Aviv.",
+            "url": "https://californianewstimes.com/worlds-thinnest-electronic-device-is-2-atoms-thick/428192/"
+        }
+    ]
+}
