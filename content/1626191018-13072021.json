@@ -1,0 +1,47 @@
+{
+    "title": "Alerta de “golpe” no Android / Novo “JPEG” / Usina nuclear em Marte",
+    "fps": 30,
+    "timestamp": 1626191018,
+    "date": "13/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Apps para Android estão enganando usuários com mineração de ativos digitais: mais de 170 aplicativos Android estão oferecendo, sem nunca entregar, serviços de mineração de moedas em nuvem. Estima-se que mais de 90 mil pessoas já tenham caído no golpe. Apesar de supostamente representarem operações de mineração diferentes, todos os aplicativos compartilham código e design muito semelhantes, utilizando um framework que não requer experiência com programação. O Google já removeu 25 aplicativos, mas centenas de outros ainda estão disponíveis em outras lojas. Alguns dos aplicativos maliciosos são “Moon BAT”, “BITO HASH”, “Mining Machine”, “Cloud Mining” e “Black Crypto”. As informações são do blog da Lookout Threat Lab.",
+            "url": "https://blog.lookout.com/lookout-unearths-android-crypto-mining-scams"
+        },
+        {
+            "text": "Novo formato de imagem quer substituir o “JPEG”, reduzindo em até 30% tráfego de dados na web: o “JPEG XL” possui a extensão de arquivo “.jxl”, oferecendo qualidade de imagem e taxa de compressão significativamente melhores, sem precisar ser convertido para ser lido como um JPEG tradicional. O formato é livre de royalties e está sendo proposto pelo “JPEG Committee”. Com informações de TecMundo e PetaPixel.",
+            "url": "https://www.tecmundo.com.br/software/220916-jpeg-xl-reduzir-trafego-global-internet-30.htm"
+        },
+        {
+            "text": "Rússia planeja colocar uma usina nuclear em Marte: o reator seria levado a bordo do “Zeus”, um sistema interplanetário movido à propulsão nuclear, com o estágio de descida até a superfície do planeta realizada por paraquedas. A usina poderá fornecer energia a uma futura base marciana da Rússia. As informações são do site Sputnik News.",
+            "url": "https://olhardigital.com.br/en/2021/07/12/ciencia-e-espaco/russia-quer-levar-usina-nuclear-para-marte/"
+        },
+        {
+            "text": "Microsoft está indo de casa em casa no Brasil para trocar roteadores com Trickbot: o malware infecta roteadores e outros dispositivos de IoT para roubar dados das vítimas. A companhia realizou parcerias com operadoras de internet no País e a substituição de dispositivos também tem sido feita em outros países da América Latina. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/460760/microsoft-visita-casas-no-brasil-para-trocar-roteadores-com-malware-trickbot/"
+        },
+        {
+            "text": "Cientistas criam camisa que baixa temperatura do corpo em até 5º C: o tecido utiliza uma fibra sintética com nanopartículas de dióxido de titânio. Apesar de aparentar ser uma camisa normal, o material é opticamente um espelho. A infusão do nanomaterial deve adicionar apenas cerca de 10% ao custo de fabricação de roupas típicas, facilitando a produção em massa. As informações são da revista Science.",
+            "url": "https://wonderfulengineering.com/this-new-mirroring-t-shirt-can-cool-wearer-by-5c/"
+        },
+        {
+            "text": "IA classifica dezenas de milhares de galáxias em poucos segundos: o sistema, desenvolvido por astrofísicos da Austrália, consegue classificar 14 mil galáxias em menos de 3 segundos utilizando uma GPU padrão, tarefa que levaria meses para ser realizada manualmente por humanos. A rede neural deve auxiliar os astrônomos a classificar mais de 100 milhões de galáxias, um passo importante na compreensão da evolução do Universo. As informações são do site Space Daily.",
+            "url": "https://www.spacedaily.com/reports/Thousands_of_galaxies_classified_in_a_blink_of_an_eye_999.html"
+        },
+        {
+            "text": "Serviço secreto da Ucrânia fecha fazenda de moedas digitais com 3,8 mil PS4 Pro's: a operação roubava a energia de uma usina localizada ao lado do armazém que continha os milhares consoles utilizados no processo de mineração, gerando um prejuízo de aproximadamente 250 mil dólares. Há suspeitas de envolvimento de funcionários da própria usina elétrica. As informações são do site Kotaku.",
+            "url": "https://kotaku.com/thousands-of-ps4-pros-discovered-in-warehouse-raid-1847272415"
+        },
+        {
+            "text": "Microsoft compra empresa de cibersegurança: a RiskIQ vasculha a web, mapeando detalhes sobre sites, redes, certificados e outras informações de empresas, auxiliando-as a bloquear dispositivos e serviços que podem ser acessados remotamente e limitando a superfície de ataques. O valor do negócio é estimado em 500 milhões de dólares. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/12/microsoft-to-acquire-riskiq/"
+        }
+    ]
+}
