@@ -1,0 +1,47 @@
+{
+    "title": "Burnout é grave entre Devs / PF atrás de hacker / IAs podem sofrer revés no Brasil",
+    "fps": 30,
+    "timestamp": 1626277056,
+    "date": "14/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Novo estudo aponta que 83% dos desenvolvedores sofrem de burnout: os principais motivos citados para o esgotamento incluem alta carga de trabalho, processos ineficientes e metas ou objetivos pouco claros. O estudo também constatou que a situação piorou durante a pandemia, com 81% dos desenvolvedores reportando um aumento na carga de trabalho. Kathryn Koehler, Diretora de Produtividade da Netflix, afirma que o resultado do estudo mostra como é importante não só medir a produtividade, mas também o bem-estar das equipes. As informações são do blog da Haystack Analytics.",
+            "url": "https://www.usehaystack.io/blog/83-of-developers-suffer-from-burnout-haystack-analytics-study-finds"
+        },
+        {
+            "text": "Polícia Federal procura por hacker que alterou decisões judiciais para se auto-favorecer: o hacker conseguiu acessar os sistemas da Justiça Federal em seis processos no qual é réu, alterando pareceres que pediam por sua absolvição ao invés de condenação, além de embolsar 825 mil reais adulterando contas bancárias de outras decisões judiciais. O criminoso encontra-se foragido. As informações são do site Conjur.",
+            "url": "https://tecnoblog.net/461540/hacker-que-invadiu-tribunal-e-tentou-desviar-r-800-mil-e-denunciado-em-sp/"
+        },
+        {
+            "text": "Entidades reagem ao regime de urgência do Marco Legal da Inteligência Artificial: Paulo José Curado, do CPqD, entende que a lei vai acelerar a saída de talentos brasileiros para o exterior, com a tentativa de “legislar para punir quem faz a tecnologia”. Bianca Kremer, da Coalizão Direitos na Rede, afirma que a tentativa de punir desenvolvedores de IAs seria “ferir de morte o fomento à inovação”. Já Gustavo Ramos Rodrigues, do IRIS, acredita que é necessário regular o uso da tecnologia dado o “abismo entre as promessas éticas e a realidade” nesse setor. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Inovacao/Entidades-de-TI-divergem-sobre-Marco-Legal-de-Inteligencia-Artificial-57492.html"
+        },
+        {
+            "text": "Partido Pirata do Brasil se opõe ao bloqueio de sites após a “Operação 404” da Polícia Federal: o movimento afirma que bloquear sites como o “The Pirate Bay” é um ataque à neutralidade da rede e ao acesso à cultura, conhecimento e informação. As operadoras Claro, Oi, TIM e Vivo fizeram um bloqueio ao domínio do site em seus próprios serviços de DNS, mas quem utiliza DNS de terceiros ainda pode acessar o Pirate Bay normalmente. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/461579/claro-oi-tim-e-vivo-bloqueiam-the-pirate-bay-no-brasil-apos-operacao-404/"
+        },
+        {
+            "text": "Nova decisão na Justiça abre caminho para indenizações em caso de queda na velocidade da internet: cada consumidor agora poderá pedir na Justiça a devolução proporcional do valor do serviço cobrado e não prestado na fatura do mês subsequente. A Oi, Telefônica Brasil, Claro e Tim e a Anatel ainda precisarão publicar a decisão judicial em jornais de grande circulação, em contratos e em seus sites, dado o interesse público. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Telecom/Justica-Federal-abre-caminho-para-indenizacoes-por-velocidade-da-internet-57519.html?UserActiveTemplate=mobile"
+        },
+        {
+            "text": "Volkswagen escolhe o Brasil como centro de pesquisas para novas tecnologias em biocombustíveis: o novo laboratório será destinado a criar soluções de energia limpa para veículos à combustão como estratégias complementares a elétricos e híbridos. A VW acredita que a transição para a mobilidade totalmente elétrica deverá demorar mais em mercados emergentes como o Brasil, devido a indisponibilidade de uma infraestrutura de carregamento, uso de energias renováveis e níveis de renda. As informações são do site InsideEVs.",
+            "url": "https://insideevs.uol.com.br/news/519653/volkswagen-brasil-pesquisa-bicombustiveis-etanol/"
+        },
+        {
+            "text": "Sites da gangue REvil saem do ar misteriosamente: toda a infraestrutura utilizada pela operação de ransomware está fora do ar desde o final da noite de ontem. Rumores apontam que os criminosos teriam fugido após ficarem sabendo de uma possível ação do governo russo. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/revil-ransomware-gangs-web-sites-mysteriously-shut-down/"
+        },
+        {
+            "text": "Tesla anuncia novidades em sistema de direção autônoma que utiliza apenas visão computacional: o sistema irá em breve identificar pisca-alertas de outros veículos, gestos das mãos de pedestres e luzes de ambulâncias e da polícia para reagir adequadamente a esses veículos de emergência quando necessário. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/07/12/elon-musk-tesla-vision-detect-turn-signals-hazards-police-lights-hand-gestures/"
+        }
+    ]
+}
