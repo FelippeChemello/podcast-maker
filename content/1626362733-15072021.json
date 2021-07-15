@@ -1,0 +1,47 @@
+{
+    "title": "Anunciantes em “pânico” / Supremacia quântica / Magalu compra a Kabum",
+    "fps": 30,
+    "timestamp": 1626362733,
+    "date": "15/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Anunciantes que utilizam a plataforma do Facebook estariam em “pânico” com novo sistema anti-rastreamento da Apple: segundo uma recente pesquisa, 75% das pessoas têm escolhido não permitir o rastreamento de suas atividades pela internet com a implementação do framework “App Tracking Transparency” no iOS 14. Anunciantes afirmam não conseguir mais avaliar com segurança a viabilidade de campanhas no Facebook, sem os dados personalizados de usuários da Apple. Analistas afirmam que o impacto tem sido “devastador” para a maioria dos anunciantes e estimam uma queda de até 13% na receita global do Facebook com anúncios. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-07-14/facebook-fb-advertisers-impacted-by-apple-aapl-privacy-ios-14-changes"
+        },
+        {
+            "text": "China quebra recorde e atinge novo marco em supremacia quântica: o “Zuchongzhi”, um supercomputador quântico com 66 qubit (bits quânticos), concluiu um conjunto de cálculos complexos de referência em cerca de 70 minutos, tarefa que um supercomputador clássico levaria oito anos para concluir. O Zuchongzhi utiliza circuitos ópticos e fótons para gerenciar e processar seus qubits. As informações são do site ScienceAlert.",
+            "url": "https://www.sciencealert.com/china-s-latest-56-qubit-computer-marks-another-quantum-milestone"
+        },
+        {
+            "text": "Magazine Luiza compra Kabum! por 3,5 bilhões de reais: o e-commerce é considerado a maior plataforma de tecnologia e games do País e será incorporado ao ecossistema Magalu, operando em cooperação com as recentes aquisições do Jovem Nerd e Canaltech. As informações são do portal Exame.",
+            "url": "https://exame.com/negocios/magazine-luiza-compra-kabum-por-bilhoes-de-reais/"
+        },
+        {
+            "text": "Comitê Gestor da Internet no Brasil está preocupado com a lei das Fake News: o PL 2.630/202 pode gerar obstáculos ao desenvolvimento da inovação e inclusão digital no País, colocando em risco direitos fundamentais dos usuários de internet, com a possibilidade do rastreamento em aplicativos de mensagens, exigência da apresentação conjunta do documento de identidade e CPF no cadastro de celulares, e dar ainda mais poder às plataformas e redes sociais no controle do fluxo de informações. As informações são do site do CGI.",
+            "url": "https://www.cgi.br/esclarecimento/nota-publica-do-cgi-br-em-razao-do-projeto-de-lei-n-2-630-de-2020-em-discussao-no-congresso-nacional/"
+        },
+        {
+            "text": "Lixão proíbe nova operação de resgate de HD com 1,2 bilhão de reais em moedas digitais: o britânico James Howells tenta desde 2013 recuperar o dispositivo contendo 7.500 BTC, jogado fora, por engano, durante uma limpeza de seu escritório. Howells propôs utilizar raio-x e inteligência artificial em conjunto com uma equipe de engenheiros, ambientalistas e especialistas em recuperação de dados para realizar a busca num lixão de Newport, no País de Gales, onde vive. As autoridades locais alegaram grandes riscos ambientais para barrar a operação. As informações são do portal Exame.",
+            "url": "https://exame.com/future-of-money/criptoativos/britanico-que-perdeu-hd-com-r-1-bilhao-em-bitcoin-tem-novo-plano-de-busca/"
+        },
+        {
+            "text": "Netflix contrata ex-executivo da EA e Facebook para novo serviço de streaming de jogos: Mike Verdu trabalhou no sistema de realidade virtual Oculus do Facebook e em franquias de jogos populares como The Sims, Plants vs. Zombies e Star Wars na Electronic Arts. A ideia da Netflix seria oferecer videogames como conteúdo extra, sem cobranças adicionais na mensalidade. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2021-07-14/netflix-plans-to-offer-video-games-in-expansion-beyond-films-tv"
+        },
+        {
+            "text": "Microsoft lança “Windows 365”, serviço de streaming “PC na Nuvem”: a plataforma, disponível exclusivamente para empresas, apresenta uma área de trabalho virtual do Windows em qualquer dispositivo Linux, Android, Mac ou iPad, sem envolver a configuração de um ambiente completo no Azure. A Microsoft considera o Windows 365 uma nova categoria de computação pessoal híbrida, mais segura, com todos os dados armazenados em nuvem e todo o tráfego até os dispositivos criptografados. As informações são do blog da Microsoft.",
+            "url": "https://www.microsoft.com/pt-br/windows-365?rtc=1"
+        },
+        {
+            "text": "Facebook desenvolve nova tecnologia para manter criptografia de conversas do WhatsApp em mais de um dispositivo: a equipe de engenharia do WhatsApp detalhou em um whitepaper como a arquitetura do aplicativo foi redesenhada para permitir vários dispositivos autônomos e ainda manter a criptografia de ponta a ponta. O sistema multi-dispositivo encontra-se em beta para um pequeno grupo de usuários, permitindo conversas sincronizadas sem a necessidade de um smartphone em quatros dispositivos separados. As informações são do blog Facebook Engineering.",
+            "url": "https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/"
+        }
+    ]
+}
