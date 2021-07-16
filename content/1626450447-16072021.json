@@ -1,0 +1,47 @@
+{
+    "title": "Pesquisa gigante com Devs / Videogame nuclear / Hubble “ressuscita”",
+    "fps": 30,
+    "timestamp": 1626450447,
+    "date": "16/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "JavaScript, GitHub e AWS são os grandes vencedores em pesquisa gigante realizada pela JetBrains: o JavaScript liderou no quesito popularidade de linguagens, com 69% de preferência. O GitHub é o sistema de controle de versões mais popular, escolhido por 91% dos desenvolvedores. A AWS é o serviço cloud mais utilizado, com 64% de preferência. A “DevEcosystem 2021” é a maior pesquisa já realizada pela JetBrains, contando com respostas de 31.743 desenvolvedores em 183 países. As informações são do site The Register.",
+            "url": "https://www.theregister.com/AMP/2021/07/16/jetbrains_developer_survey_2021/"
+        },
+        {
+            "text": "Engenheiro cria videogame portátil movido a energia nuclear: Ian Charnas publicou em seu canal no YouTube como conseguiu capturar a energia emitida pela decadência natural do trítio (um isótopo raro e radioativo de hidrogênio) utilizando mini painéis solares. Charnas fará um leilão do portátil e doará o valor arrecadado para uma instituição que apoia crianças que vivem próximas à zona afetada pelo desastre nuclear de Chernobyl. As informações são do site GameSpot.",
+            "url": "https://www.gamespot.com/articles/youtuber-converts-a-knock-off-game-boy-to-run-on-nuclear-power/1100-6493948/"
+        },
+        {
+            "text": "Hubble “ressuscita” após acionamento de sistemas de backup: a NASA conseguiu restabelecer comunicações com todos os instrumentos do telescópio na manhã desta sexta-feira. Após mais de um mês parado, o Hubble deve reiniciar suas observações científicas já neste fim de semana. As informações são da revista Science.",
+            "url": "https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix"
+        },
+        {
+            "text": "Aplicativo criado por brasileiro vira sucesso entre músicos: o “Moises”, criado por Geraldo Ramos, já possui 3 milhões de usuários, entre músicos e produtores de bandas como “One Direction” e “Sepultura”, ao conseguir isolar vocais e instrumentos em gravações. Ramos, que é programador e baterista, usou como ponto de partida uma inteligência artificial de código aberto criada pela Deezer (repositório no GitHub “deezer/spleeter”). As informações são do site Mobile Time.",
+            "url": "https://twitter.com/moises_ai"
+        },
+        {
+            "text": "Brasil terá carência de 408 mil profissionais de TI até 2022: os dados são de uma recente pesquisa realizada pela Softex, organização social voltada ao fomento da área. O Brasil é o 10º maior mercado do mundo no setor de TI, sendo líder na América Latina. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/carreira/pesquisa-preve-carencia-de-408-mil-profissionais-de-ti-ate-2022-189998/"
+        },
+        {
+            "text": "Facebook abandona headset para leitura da mente, mesmo após pesquisa bem sucedida: a interface cérebro-computador demonstrou pela primeira vez a decodificação de palavras completas a partir da atividade cerebral de um paciente paralisado há mais de 16 anos. O Facebook, no entanto, não vê potencial comercial para a tecnologia no curto prazo, preferindo se concentrar em abordagens diferentes, criando uma interface neural através do pulso de uma pessoa e dispositivos alimentados por eletromiografia. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/15/facebook_dumps_mindreading_neural_interface/"
+        },
+        {
+            "text": "Steam lança “Deck”, console/PC portátil para competir com o Nintendo Switch: o dispositivo conta com uma APU (CPU/GPU) desenvolvida em parceria com a AMD, 16 GB de RAM, uma tela touchscreen de 7 polegadas, e uma bateria que garante de 2 a 8 horas de jogo. O Steam Deck pode ser utilizado em “modo dock”, conectado a um monitor, e roda uma nova versão do SteamOS, baseada em Linux, com compatibilidade para jogos Windows. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gaming/2021/07/steam-deck-is-valves-switch-like-portable-pc-starting-at-399-this-december/"
+        },
+        {
+            "text": "Cloudflare repara vulnerabilidade de execução de código remota que atingia 12,7% de todos os sites no mundo: a vulnerabilidade encontrava-se no servidor de atualização de bibliotecas do “CDNJS”, permitindo ao invasor comprometer completamente o serviço ao executar comandos arbitrários. O CDNJS é um serviço de CDN gratuito da Cloudflare, contendo milhares de bibliotecas JavaScript e CSS. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-cdn-code-execution-bug-affecting-127-percent-of-all-sites/"
+        }
+    ]
+}
