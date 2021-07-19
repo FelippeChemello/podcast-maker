@@ -1,0 +1,47 @@
+{
+    "title": "Nova “Lei de Moore” / Recorde em internet rápida / Vigilância de políticos e jornalistas",
+    "fps": 30,
+    "timestamp": 1626704295,
+    "date": "19/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "AMD afirma que “Desempenho por Watt” é a nova “Lei de Moore”: segundo a companhia, a necessidade de descarbonizar a computação para o bem do planeta significa que não é mais possível priorizar poder de processamento a qualquer custo energético. É preciso extrair mais desempenho das tecnologias atuais, avaliando a quantidade de energia consumida ao longo do tempo. A Lei de Moore foi uma projeção do co-fundador da Intel, Gordon Moore, em 1965, que previa a duplicação no número de transistores em processadores a cada 18 meses. Com informações do blog da AMD e Wikipedia.",
+            "url": "https://www.arm.com/blogs/blueprint/performance-per-watt"
+        },
+        {
+            "text": "Pesquisadores japoneses batem recorde de velocidade na internet: os dados foram transmitidos a uma taxa de 319 Tbps por 3 mil km, 79% mais rápida do que o recorde obtido em agosto do ano passado. A técnica utilizada permite o envio de vários comprimentos de onda simultaneamente, mantendo compatibilidade com a infraestrutura existente de fibra óptica. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/19/319_terabits_internet_speed/"
+        },
+        {
+            "text": "Spyware estaria sendo utilizado para vigilância de ativistas, políticos e jornalistas: o “Pegasus”, desenvolvido pelo NSO Group, é um malware que infecta iPhones e dispositivos Android, permitindo a extração de mensagens, chamadas, fotos e e-mails. Nos próximos dias, vários veículos de imprensa irão revelar a identidade de diversos alvos, que incluem também executivos de negócios, figuras religiosas, acadêmicos, funcionários de ONGs, dirigentes sindicais e funcionários governamentais. As informações são do The Guardian.",
+            "url": "https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus"
+        },
+        {
+            "text": "Polícia prende quadrilha especializada em desbloqueio de iPhones em São Paulo: os criminosos conseguiam explorar falhas de segurança nos smartphones da Apple, evitando até mesmo o Face ID, Touch ID e senhas alfanuméricas, por meio de softwares especializados. Segundo o delegado Roberto Monteiro, os dados obtidos dos dispositivos das vítimas eram utilizados para a aplicação de golpes, na maioria bancários. No dia 09 de julho, um leitor aqui da Newsletter relatou que criminosos conseguiram roubar dinheiro de sua conta bancária, mesmo após resetar o seu iPhone remotamente pelo iCloud. Ele afirma também que não houve engenharia social no seu caso, já que não havia como contatá-lo sem o telefone. As informações são do site 9to5Mac.",
+            "url": "https://universodamaca.com.br/policia-brasileira-prende-quadrilha-especializada-em-desbloquear-iphones/"
+        },
+        {
+            "text": "Brasil é o país que mais passa tempo na frente do celular: segundo a empresa consultoria App Annie, os brasileiros gastam 5,4 horas por dia ao celular, seguidos pelos indonésios (5,3 horas) e indianos (4,9 horas). No terceiro trimestre de 2021, o mercado global de aplicativos quebrou novamente o recorde histórico, com 34 bilhões de dólares em gastos, crescimento de 26% em um ano. As informações são da Forbes.",
+            "url": "https://olhardigital.com.br/2021/07/17/internet-e-redes-sociais/brasil-e-o-pais-que-passa-mais-tempo-em-aplicativos/"
+        },
+        {
+            "text": "Redes de restaurantes criam empresa de delivery para competir com iFood: a “Quiq”, criada por empresas como Giraffas, Pizza Hut e Rei do Mate, irá permitir aos restaurantes organizar em uma só base todos os pedidos de delivery, reduzindo custos e permitindo ainda o acesso completo aos dados de clientes, que hoje ficam retidos em aplicativos como iFood, Rappi e Uber Eats. A nova plataforma de delivery de alimentos deverá começar a operar no final de 2021. As informações são do portal Exame.",
+            "url": "https://tecnoblog.net/462582/outback-pizza-hut-e-mais-empresas-unem-delivery-para-competir-com-ifood/"
+        },
+        {
+            "text": "OpenAI decide encerrar desenvolvimento em robôs: a falta de dados de treinamento estava impedindo o avanço das pesquisas. A empresa agora vai utilizar sua equipe para se concentrar em áreas mais promissoras, como o desenvolvimento de um inteligência artificial geral. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/18/in_brief_ai/"
+        },
+        {
+            "text": "Hacker que compilou dados de 700 milhões de usuários do LinkedIn afirma que fez isso “por diversão”: “Tom Liner” teria obtido os dados através de web scraping e já teria vendido múltiplas cópias dos dados por 5 mil dólares para outros hackers. Ele acredita que os dados provavelmente serão utilizados em campanhas cibernéticas maliciosas. As informações são da BBC.",
+            "url": "https://www.bbc.com/portuguese/geral-57853224"
+        }
+    ]
+}
