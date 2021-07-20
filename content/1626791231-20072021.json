@@ -1,0 +1,47 @@
+{
+    "title": "Alerta às Olimpíadas / Carros voadores da Tesla / Maglev mais rápido do mundo",
+    "fps": 30,
+    "timestamp": 1626791231,
+    "date": "20/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "FBI alerta para ataques cibernéticos aos Jogos Olímpicos de Tóquio: a agência norte-americana afirma que ataques coordenados por hackers individuais ou financiados por estados-nação poderão interromper ou até mesmo bloquear as transmissões ao vivo do evento, furtar dados confidenciais, invadir e criptografar sistemas de TI, e impactar a infraestrutura digital de suporte às Olimpíadas, que terão início nesta sexta-feira. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/fbi-threat-actors-may-be-targeting-the-2020-tokyo-summer-olympics/"
+        },
+        {
+            "text": "Tesla deve entrar no mercado de carros voadores elétricos: segundo Adam Jonas, da Morgan Stanley, a potencial transferência de tecnologias entre veículos da marca e aeronaves elétricas para mobilidade urbana é muito grande. Elon Musk já disse no passado que a Tesla possui um design para uma aeronave VTOL (decolagem e pouso vertical na sigla em inglês). No entanto, Musk já argumentou que adicionar muitos objetos voadores em um ambiente urbano será um risco à segurança, aumentando ainda a poluição sonora. As informações são do site Electrek.",
+            "url": "https://electrek.co/2021/07/15/tesla-involved-electric-aircraft-space-top-analyst/"
+        },
+        {
+            "text": "China revela trem Maglev mais rápido do mundo: o veículo, desenvolvido e construído inteiramente na China, utiliza forças eletromagnéticas para fazer o trem “levitar” e viajar a uma velocidade de até 600 km/h sem contato entre a carroceria e os trilhos. O trajeto de Pequim a Xangai, com mais de 1.000 km de distância, levaria cerca de 2,5 horas, meia hora mais rápido do que uma viagem de avião. As informações são da Reuters.",
+            "url": "https://www.reuters.com/world/china/china-unveils-600-kph-maglev-train-state-media-2021-07-20/"
+        },
+        {
+            "text": "Jeff Bezos, fundador da Amazon, realiza viagem bem sucedida ao espaço: a cápsula New Shepard, da Blue Origin, empresa aeroespacial fundada por Bezos, subiu a uma altura de 100 km acima da superfície da Terra, levando além dele, seu irmão Mark Bezos, Mary Wallace Funk de 82 anos e Oliver Daemen de 18 anos, respectivamente a pessoa mais velha e mais jovem a viajar ao espaço. Os quatro astronautas experimentaram cerca de quatro minutos de ausência de peso, antes de retornarem à Terra. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/20/blue-origins-new-shepard-carries-jeff-bezos-and-three-crew-members-to-space-and-back/"
+        },
+        {
+            "text": "Abrangência geral da LGPD pode gerar 50 mil novas vagas para advogados orientados a TI: a partir de agosto, as multas e sanções previstas na Lei Geral de Proteção de Dados (LGPD) passam a valer para todas as empresas brasileiras, independente do tamanho. Advogados têm se destacado nesse mercado por sua facilidade na interpretação e implementação da lei. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?infoid=57559&sid=46"
+        },
+        {
+            "text": "Sistemas de reconhecimento facial é a nova onda entre supermercados no mundo: os sistemas podem escanear e armazenar imagens faciais de clientes e funcionários para evitar furtos e fraudes, rastrear o tráfego de pessoas e oferecer pagamentos sem contato. Algumas lojas também estão experimentando outras tecnologias biométricas mais avançadas, que podem até mesmo interpretar expressões faciais, detectar o suor ou identificar a frequência cardíaca de uma pessoa. As informações são do site Axios.",
+            "url": "https://www.axios.com/facial-recognition-retail-surge-c13fff8d-72c6-400f-b680-6ae2679955d4.html"
+        },
+        {
+            "text": "Edward Snowden faz alerta e pede pela proibição do comércio internacional de spywares: se governos não banirem a venda de spywares por empresas, nenhum telefone celular no mundo estará mais protegido contra hackers patrocinados por estados-nação, alerta Snowden. O ex-consultor de inteligência também disse que as recentes descobertas em relação ao spyware Pegasus, criado pela NSO Group Technologies, ilustram como malwares comerciais facilitam a vigilância de pessoas em regimes repressivos. As informações são do The Guardian.",
+            "url": "https://www.theguardian.com/world/commentisfree/2021/jul/19/spyware-can-make-your-phone-your-enemy-journalism-is-your-defence"
+        },
+        {
+            "text": "Armazém na Ucrânia com 3,8 mil PS4s era, na verdade, uma “bot farm” do jogo FIFA Ultimate Team: ao invés da mineração de moedas digitais, conforme informações preliminares do serviço secreto do país, a operação tinha como real objetivo a criação e venda no mercado paralelo de contas carregadas com as moedas utilizadas internamente no jogo. A EA, produtora do FIFA Ultimate Team, faturou 1,62 bilhão de dólares com o jogo em 2020. As informações são do site Engadget.",
+            "url": "https://www.engadget.com/ps4-farm-fifa-ultimate-team-accounts-cryptocurrency-182654013.html"
+        }
+    ]
+}
