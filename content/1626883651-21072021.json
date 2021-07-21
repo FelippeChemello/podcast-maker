@@ -1,0 +1,47 @@
+{
+    "title": "UE restringe moedas digitais / ML em ataques DDoS / Correios lançam RFID",
+    "fps": 30,
+    "timestamp": 1626883651,
+    "date": "21/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "União Europeia vai banir transações anônimas com moedas digitais: quatro novas propostas legislativas prevêm o rastreamento de todas as transações com essa classe de ativos com o intuito de combater a lavagem de dinheiro e o financiamento do terrorismo. As novas leis exigirão a identificação completa de remetentes e destinatários, incluindo nomes, endereços e datas de nascimento, com aplicação a qualquer moeda ou serviços para ativos criptográficos, como carteiras digitais. As informações são da Business Insider.",
+            "url": "https://markets.businessinsider.com/currencies/news/european-union-ban-anonymous-cryptocurrency-counter-money-laundering-terrorism-financing-2021-7"
+        },
+        {
+            "text": "Google lança ferramenta de machine learning para impedir ataques DDoS: o “Adaptive Protection” analisa e detecta sinais de tráfego anormal e ataques em camada de aplicação (Layer 7), como web requests geradas automaticamente a partir de dispositivos hackeados e que geram tráfego em volumes que a maioria dos sites não consegue suportar. Ainda em fase de testes, o serviço está disponível gratuitamente a clientes do Google Cloud. As informações são da ZDNet.",
+            "url": "https://www.zdnet.com/article/google-is-using-machine-learning-to-stop-ddos-attacks/"
+        },
+        {
+            "text": "Correios implementam sistema para rastreamento em tempo real de encomendas: o sistema por Identificador de Rádio Frequência (RFID) irá fornecer um controle maior e mais preciso de pacotes, sem a necessidade de leituras visuais em etiquetas e captura de dados realizada automaticamente na entrada e saída das unidades. As informações são da página “RFID” dos Correios.",
+            "url": "https://www.correios.com.br/rfid"
+        },
+        {
+            "text": "Internet fixa no Brasil supera a média de 100 Mbps pela primeira vez: o País ficou na 46ª posição do ranking global de velocidade e um pouco abaixo da média mundial de 106 Mbps. No pódio ficaram Mônaco (260 Mbps), Singapura (252 Mpbs) e Hong Kong (248 Mbps). Com informações do Canaltech e blog da Speedtest.",
+            "url": "https://www.speedtest.net/insights/blog/global-index-market-analyses-q2-2021/"
+        },
+        {
+            "text": "YouTube lança novo recurso de monetização chamado “Valeu Demais”: com a novidade, usuários poderão apoiar criadores de conteúdo na plataforma com comentários destacados em qualquer vídeo. O recurso ainda está restrito, mas estará disponível a todos os canais até o final deste ano. As informações são do blog do YouTube.",
+            "url": "https://support.google.com/youtube/answer/10878910?hl=pt-BR"
+        },
+        {
+            "text": "Netflix confirma lançamento de videogames na plataforma: o foco inicial será em jogos para dispositivos móveis, sem custo adicional, com o intuito de atrair mais assinantes. No último trimestre, a Netflix adicionou 1,5 milhão de assinantes à plataforma, uma queda de 85% na comparação anual, mostrando certa saturação no mercado de streaming. Com informações de LA Times e Engadget.",
+            "url": "https://www.engadget.com/netflix-q2-2021-earnings-204531144.html"
+        },
+        {
+            "text": "Tesla vai liberar rede de carregadores para veículos de qualquer marca: a rede Supercharger, com 25 mil pontos de carregamento de alta velocidade, será aberta até o final deste ano. Elon Musk menciona há anos a possibilidade de compartilhar a tecnologia por trás dos Superchargers com outros fabricantes, incentivando a construção de um padrão para a indústria automotiva. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/20/elon-musk-tesla-to-open-up-global-charging-network-to-other-evs-later-this-year/"
+        },
+        {
+            "text": "Chrome 92 já está disponível e vem com medidas de segurança: a nova versão do navegador detecta e bloqueia tentativas de phishing em websites 50 vezes mais rápido, possui um novo painel para controle das permissões de câmera, microfone e localização, e vem com uma tecnologia para isolamento de sites, particionando processos de computação em zonas separadas e tornando mais difícil ataques da classe Spectre. As informações são da CNET.",
+            "url": "https://www.cnet.com/tech/computing/chrome-92-blocks-phishing-attacks-faster-and-gets-3-other-security-protections/"
+        }
+    ]
+}
