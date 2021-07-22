@@ -1,0 +1,47 @@
+{
+    "title": "Pacote npm rouba senhas do Chrome / Hackers perigosos / Marco histórico em fusão nuclear",
+    "fps": 30,
+    "timestamp": 1626966312,
+    "date": "22/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Pacote distribuído via npm rouba senhas do Chrome no Windows: o “nodejs_net_server” estava no registro npm desde 2018, com mais de 1,3 mil downloads, contendo um malware que instala a ferramenta de recuperação de senhas “ChromePass” e extrai as credenciais do navegador Chrome em máquinas Windows. Além disso, o malware permite ao invasor executar de comandos remotamente e acesso à tela, câmera e arquivos de usuários. A npm já removeu o pacote do GitHub. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/npm-package-steals-chrome-passwords-on-windows-via-recovery-tool/"
+        },
+        {
+            "text": "Hackers irão ferir humanos deliberadamente até 2025: segundo a Gartner, tentativas de machucar ou até mesmo matar humanos são o próximo passo lógico de ataques cibernéticos, que evoluirão da interrupção de processos, como o desligamento de uma fábrica, para comprometimento da integridade de ambientes industriais com a intenção de criar danos físicos. As informações são do site The Register.",
+            "url": "https://nationalcybersecuritynews.today/hijacked-rampaging-infrastructure-will-kill-humans-by-2025-gartner-the-register-firefox-chrome-microsoftedge/"
+        },
+        {
+            "text": "Reator de fusão nuclear atinge marco histórico: a Helion Energy anunciou que seu o protótipo “Trenta” ultrapassou os 100 milhões de graus Celsius, temperatura em que um reator comercial operaria. A empresa afirma que seus principais desafios agora são de engenharia e não mais da ciência por trás da fusão nuclear. As informações são do site Electronic Engineering Times.",
+            "url": "https://www.eetimes.com/helion-energy-achieves-key-fusion-milestone/"
+        },
+        {
+            "text": "Pavel Durov, criador do Telegram, foi alvo do spyware Pegasus: em seu canal no Telegram, Durov afirma não estar preocupado já que, desde 2011, supõe que todos os seus dispositivos estejam comprometidos por ferramentas de vigilância. Quem obtiver acesso aos seus dados privados verá apenas milhares de mensagens relacionadas ao processo de desenvolvimento do Telegram.",
+            "url": "https://tecnologia.ig.com.br/colunas/tecnoblog/2021-07-22/telegram-pavel-durov-pegasus.html"
+        },
+        {
+            "text": "Samsung apresenta torre de energia eólica compacta e flutuante: 200 torres “Tri-Star Float” serão utilizadas em um parque eólico marítimo e flutuante de 6 GW na Coreia do Sul que deverá produzir 84 mil toneladas de hidrogênio limpo por ano. As informações são do site InceptiveMind.",
+            "url": "https://www.inceptivemind.com/samsung-heavy-tri-star-float-offshore-wind-floater/20184/"
+        },
+        {
+            "text": "Arm desenvolve microprocessador flexível: o “PlasticArm” é um microprocessador com apenas 128 bytes de RAM e 456 bytes de ROM, mas é doze vezes mais complexo do que eletrônicos flexíveis de última geração. A Arm acredita que esses microprocessadores ultrafinos possuem um potencial incrível como sensores em objetos do dia a dia, especialmente na área de saúde, como sistemas de monitoramento inteligentes que podem ser aplicados diretamente na pele. As informações são do blog da Arm.",
+            "url": "https://www.anandtech.com/show/16837/plasticarm-get-your-next-cpu-without-silicon"
+        },
+        {
+            "text": "Campus Party Digital Edition começa nesta quinta: em sua segunda edição virtual, o evento contará com seis palcos divididos em diversos temas como mercado de trabalho e economia, energia limpa e meio ambiente, saúde e ciência, entretenimento e cultura digital, educação e gov tech. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/segunda-edicao-da-campus-party-digital-comeca-nesta-quinta"
+        },
+        {
+            "text": "Cloudflare instala novos servidores de CDN em 32 cidades brasileiras: a empresa estima melhorias significativas no acesso à internet, com uma redução média da latência em mais de 50%, para menos de 10 ms. Os servidores foram instalados nas regiões Norte, Nordeste, Sudeste, Centro-Oeste e Sul, e foi uma das maiores expansões já realizadas pela empresa em um único país. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/464158/servidores-da-cloudflare-deixarao-internet-mais-rapida-em-32-cidades-do-brasil/"
+        }
+    ]
+}
