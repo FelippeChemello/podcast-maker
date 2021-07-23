@@ -1,0 +1,47 @@
+{
+    "title": "Salários de TI disparam / Akamai nega ataque / Armas de energia dirigida",
+    "fps": 30,
+    "timestamp": 1627050527,
+    "date": "23/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Salários no setor de TI disparam em 6 meses: segundo uma pesquisa da startup de recrutamento Revelo, a média salarial para profissionais sênior nas capitais São Paulo, Rio de Janeiro e Belo Horizonte subiu de 6.020 reais em setembro de 2020 para 8.353 reais em março deste ano, uma valorização de quase 40% no período. A remuneração dos profissionais de tecnologia é quase 8 vezes maior do que o salário mínimo no Brasil e a maioria das posições não requer formação superior, com cursos de capacitação técnica sendo suficientes para posicionar candidatos, afirma Juliana Carneiro, diretora da Revelo. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Carreira/Salario-de-TI-teve-alta-de-55%25-em-Sao-Paulo%2C-Rio-e-BH-57618.html?UserActiveTemplate=site"
+        },
+        {
+            "text": "Akamai nega ataque cibernético após problema em serviço de DNS: por cerca de uma hora na tarde de ontem, diversos sites e serviços como a PlayStation Network, Steam, Amazon e Google sofreram interrupções generalizadas após a queda do serviço “Edge DNS” da Akamai. A empresa ainda está investigando o que ocasionou o problema, mas garante que não foi resultado de um ataque à sua plataforma. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/22/akamai_edge_dns_takes_unscheduled/"
+        },
+        {
+            "text": "CIA dobra força-tarefa que investiga misteriosa “Síndrome de Havana”: o conjunto de sintomas, que incluem enxaquecas, tonturas e perda de memória, já afligiu mais de 200 funcionários em embaixadas dos EUA ao redor do mundo. O problema foi relatado pela primeira vez por diplomatas norte-americanos em Havana, capital de Cuba, em 2016. Estudos apontam que a explicação “mais plausível” para os sintomas seria a radiação de microondas através de “armas de energia dirigida” (DEWs na sigla em inglês), tecnologia em desenvolvimento pelos exércitos da Rússia, China e EUA. Com informações da rede NPR e Wikipedia.",
+            "url": "https://www.npr.org/2021/07/22/1013402176/cia-director-says-he-is-escalating-efforts-to-solve-havana-syndrome-mystery"
+        },
+        {
+            "text": "Netflix aumenta preços no Brasil: os reajustes são de aproximadamente 20%. O plano básico (com apenas 1 tela) passa a custar 25,90 reais e plano Premium (4 telas, qualidade de vídeo em Ultra HD) custará 55,90 reais. Os novos valores se aplicam para antigos e novos assinantes. Nas redes sociais, os serviços de streaming HBO Max e Prime Vídeo aproveitaram a oportunidade para convidar novos assinantes e encorajar o compartilhamento de senhas. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/mercado/221616-netflix-preco-assinatura-aumenta-brasil-confira-valores.htm"
+        },
+        {
+            "text": "Pix é atualizado e poderá ser utilizado em aplicativos de mensagens e compras online: será possível movimentar contas bancárias a partir de diferentes plataformas e não apenas por aplicativos ou sites de bancos. A nova modalidade deve começar a funcionar a partir do dia 30 de agosto. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-07/bc-regulamenta-servico-de-iniciacao-de-pagamento-no-pix"
+        },
+        {
+            "text": "DeepMind disponibiliza, gratuitamente, estruturas em 3D de praticamente todas as proteínas do corpo humano: Demis Hassabis, fundador e CEO da DeepMind, acredita que esta é maior contribuição já feita por uma inteligência artificial para a ciência, sendo um ótimo exemplo do tipo de benefícios que esse tipo de tecnologia pode trazer para a sociedade. As estruturas foram determinadas computacionalmente pela IA “AlphaFold”, sistema de enovelamento de proteínas, e podem constituir a base de uma nova era na biologia e medicina. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/22/deepmind-puts-the-entire-human-proteome-online-as-folded-by-alphafold/"
+        },
+        {
+            "text": "Cientistas alertam para futuro “sombrio” com interfaces cérebro-computador: seres-humanos ciborgues, equipados com essas interfaces, poderão ser segregados ou então terão seus pensamentos íntimos lidos para exploração comercial. Os pesquisadores também notaram que alguns pacientes de estudos recentes têm se recusado a remover esses dispositivos no final de ensaios clínicos, demonstrando que neurotecnologias têm o potencial de moldar profundamente a experiência humana e senso de identidade. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/22/brain_computer_interface/"
+        },
+        {
+            "text": "Cientistas criam ímã mais fino do mundo: o ímã, com apenas um átomo de espessura e estável em temperatura ambiente, pode levar a novas aplicações em computação e eletrônica, criando dispositivos de armazenamento de dados com altíssima densidade. A descoberta também possibilita novas oportunidades para o estado da física quântica. As informações são do site do Laboratório Nacional Lawrence Berkeley.",
+            "url": "https://newscenter.lbl.gov/2021/07/20/worlds-thinnest-magnet/"
+        }
+    ]
+}
