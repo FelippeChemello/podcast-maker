@@ -1,0 +1,47 @@
+{
+    "title": "Facebook será “metaverso” / Campo de força nos EUA / Malware em IA",
+    "fps": 30,
+    "timestamp": 1627324517,
+    "date": "26/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Mark Zuckerberg vai transformar o Facebook em um “metaverso”: o metaverso é um tipo de mundo virtual que tenta replicar a realidade através de dispositivos digitais. Em entrevista ao site “The Verge”, Zuckerberg vislumbra o mundo virtual do Facebook como uma “internet corporificada”, um híbrido entre as plataformas sociais atuais e um ambiente onde as pessoas estarão totalmente incorporadas, interagindo de forma mais natural, eliminando a necessidade de interação com smartphones, algo que ele chama de “pequenos retângulos brilhantes”. Zuckerberg disse ainda que tem essas ideias desde a época em que estava na escola e apenas começando a programar.",
+            "url": "https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview"
+        },
+        {
+            "text": "Força Aérea dos EUA estuda criar “campo de força” ao redor do país até 2060: o sistema poderá utilizar armas de energia dirigida criando um “campo de força localizado” através de uma frota ou constelação orbitando em alta altitude. O “guarda-chuva” energético seria utilizado contra possíveis ataques nucleares com mísseis intercontinentais. As informações são do site The Drive.",
+            "url": "https://www.thedrive.com/the-war-zone/41624/air-force-directed-energy-report-argues-defensive-force-fields-may-be-just-on-the-horizon"
+        },
+        {
+            "text": "Malware pode ser escondido dentro de modelos de IA: além de não alterar significativamente a função da própria rede neural, o malware não consegue ser detectado por ferramentas antivírus. A técnica, no entanto, é apenas uma forma de ocultar códigos maliciosos, não de executá-los. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/07/researches-demonstrate-that-malware-can-be-hidden-inside-ai-models/"
+        },
+        {
+            "text": "Mais de 70% dos serviços públicos brasileiros já são digitais: dos quase 4,5 mil serviços oferecidos pela administração pública, o mais acessado até o momento é a Carteira Digital de Trânsito, utilizada por 22,4 milhões de brasileiros, seguida pela Carteira de Trabalho Digital (17,8 milhões) e INSS (11 milhões). As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/mais-de-70-dos-servicos-publicos-brasileiros-ja-sao-digitais"
+        },
+        {
+            "text": "Claro tem a melhor internet móvel entre operadoras no Brasil: a Claro oferece a maior velocidade média de download e upload (24,8 e 7,3 Mbps), seguida pela Vivo (18 e 5,9 Mbps), TIM (13,9 e 5,2 Mbps) e Oi (9,5 e 3,7 Mbps). A pesquisa foi realizada pela nPerf, com 404 mil medições nos primeiros seis meses deste ano. De forma geral, as velocidades médias de conexão aumentaram 44% na comparação com o mesmo período de 2020. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/internet/qual-internet-movel-e-a-mais-rapida-do-brasil-190714/"
+        },
+        {
+            "text": "Google aplica tecnologia de reconhecimento de voz em implantes cocleares: a pesquisa demonstra que um processador de reconhecimento de voz pode ser utilizado em conjunto com o implante para melhorar significativamente o conforto auditivo e a inteligibilidade da fala em ambientes ruidosos. O Google pretende aplicar essa tecnologia em outras modalidades de acessibilidade auditiva, incluindo aparelhos auditivos comuns. As informações são do blog Google AI.",
+            "url": "http://ai.googleblog.com/2021/07/applying-advanced-speech-enhancement-in.html"
+        },
+        {
+            "text": "“X”, laboratório de pesquisas avançadas do Google, lança “Intrinsic”: o objetivo da nova companhia é dar a robôs industriais a capacidade de sentir, aprender e fazer ajustes automaticamente à medida que completam tarefas, utilizando técnicas como percepção automatizada, deep learning, aprendizado por reforço, planejamento de movimento, simulação e controle de força. A Intrinsic quer atuar nas indústrias automotiva, eletrônica e de saúde. As informações são do blog da X Development.",
+            "url": "https://x.company/projects/intrinsic/"
+        },
+        {
+            "text": "“No More Ransom” faz aniversário de 5 anos nesta segunda: o projeto já auxiliou mais de seis milhões de vítimas de ransomware a recuperarem seus arquivos e economizar mais de 1 bilhão de dólares em pagamentos de resgate. Para obter uma ferramenta de decriptação, é necessário fazer o upload de dois arquivos criptografados e a nota de ransomware ao site do projeto, que tentará compará-los com uma lista de ferramentas obtidas de outros ataques. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/no-more-ransom-saves-almost-1-billion-in-ransomware-payments-in-5-years/"
+        }
+    ]
+}
