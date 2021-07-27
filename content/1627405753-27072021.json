@@ -1,0 +1,47 @@
+{
+    "title": "Indústria eletrônica aumenta preços / Cobrança por notícias / Novo método de levitação",
+    "fps": 30,
+    "timestamp": 1627405753,
+    "date": "27/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Falta de componentes afeta indústria nacional: fabricantes de eletrônicos, equipamentos médicos e automóveis estão revendo cronogramas de lançamentos e adaptando a produção. Com a dificuldade na obtenção de matérias-primas, a alta nos custos começa a ser repassada aos consumidores: apenas neste ano, TVs e videogames já subiram 14,4% e 11,6%, respectivamente. As informações são do jornal O Globo.",
+            "url": "https://economia.ig.com.br/2021-07-26/falta-de-pecas-industria.html#:~:text=Ag%C3%AAncia%20O%20Globo&text=Problemas%20no%20fornecimento%20de%20mat%C3%A9rias,enfrentar%20um%20desafio%20em%20comum."
+        },
+        {
+            "text": "Lei quer impedir cobranças para leitura de notícias na Internet: o Projeto de Lei 2029/2021 visa garantir acesso a informações essenciais ao exercício da cidadania, princípio previsto no Marco Civil da Internet. A proposta avalia que a cobrança de valores poderá ocorrer desde que o conteúdo não contenha informações de utilidade pública. As informações são da Agência Câmara de Notícias.",
+            "url": "https://www.camara.leg.br/noticias/777776-projeto-proibe-cobranca-por-acesso-a-noticias-de-carater-publico-na-internet/"
+        },
+        {
+            "text": "Físicos desenvolvem novo método para levitar objetos utilizando apenas ondas sonoras: uma matriz acústica hemisférica consegue fazer levitar, sem contato inicial, uma bola de poliestireno de 3 milímetros, algo que nunca havia sido feito antes. A tecnologia tem potencial para ser utilizada em engenharia biomédica, nanotecnologia e desenvolvimento de produtos farmacêuticos. As informações são do site ScienceAlert.",
+            "url": "https://www.sciencealert.com/scientists-have-developed-a-new-way-to-levitate-objects-with-sound"
+        },
+        {
+            "text": "Nubank lança serviço de transferências internacionais: as transações serão realizadas através de uma parceria com a Remessa Online. O Nubank afirma que a modalidade estará disponível a todos os clientes nas próximas semanas, garantindo uma menor burocracia e taxas mais baixas para o envio de valores. As informações são do blog do Nubank",
+            "url": "https://blog.nubank.com.br/nubank-remessa-online-transferencias-internacionais/"
+        },
+        {
+            "text": "Japão promove conceito de “Sociedade 5.0” para fomentar inovações tecnológicas: o plano visa expandir ciência, tecnologia e inovação a todas as atividades socioeconômicas do país. Vários programas de grande escala irão incentivar empresas de todos os setores a investir não apenas em aplicações práticas, mas também em pesquisas puras. As informações são do jornal Nikkei Asia.",
+            "url": "https://asia.nikkei.com/Business/Science/Japan-pitches-Society-5.0-to-keep-its-edge-in-tech-and-science"
+        },
+        {
+            "text": "Lucasfilm contrata famoso YouTuber criador de deepfakes: os vídeos em que “Shamook” faz deepfakes com personagens da série “Star Wars” já foram vistos milhões de vezes. Nos últimos anos, a Lucasfilm tem investido pesado em machine learning e inteligência artificial para a criação de efeitos especiais. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/7/26/22595227/star-wars-lucasfilm-mandalorian-rogue-one-hire-deepfake-shamook"
+        },
+        {
+            "text": "Tesla lucra mais de 1 bilhão de dólares pela primeira vez: o valor é resultado do crescimento nas vendas e redução de custos. Este é o oitavo trimestre consecutivo de lucratividade para a Tesla, mesmo enfrentando os recentes desafios na cadeia de suprimentos e perdas com investimentos em moedas digitais. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/07/26/teslas-quarterly-profit-surpasses-1-billion/"
+        },
+        {
+            "text": "Amazon nega rumores de que irá aceitar moedas digitais como forma de pagamento: a empresa afirma que possui interesse no segmento, mas não há nenhum plano concreto em andamento. As especulações fizeram os preços de moedas virtuais dispararem, com o BTC subindo cerca de 15% em poucas horas ontem. As informações são da Reuters.",
+            "url": "https://www.reuters.com/article/us-amazon-cryptocurrency-idUSKBN2EW2HT"
+        }
+    ]
+}
