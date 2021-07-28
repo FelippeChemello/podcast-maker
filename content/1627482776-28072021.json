@@ -1,0 +1,47 @@
+{
+    "title": "Cadeira desliga usina nuclear / “Guerra real” nos EUA / Bateria ferro-ar",
+    "fps": 30,
+    "timestamp": 1627482776,
+    "date": "28/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Cadeira desliga, sem querer, usina nuclear em Taiwan: durante uma limpeza da sala de controle, uma cadeira acabou batendo na tampa protetora de acrílico do interruptor que desarmava uma turbina, desencadeando um desligamento automático do reator. O incidente, que ocorreu ontem, não apresentou risco radioativo. A Usina Nuclear de Guosheng está programada para ser desativada em 2023. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/28/taiwan_nuclear_plant_shutdown/"
+        },
+        {
+            "text": "Presidente dos EUA alerta para “guerra real” como resposta a ataques cibernéticos: Joe Biden afirma que uma guerra com outra grande potência seria o resultado mais provável de ataque cibernético de “grandes consequências”. Biden quer posicionar os EUA um passo à frente de ameaças, colocando pressão na comunidade de inteligência do país. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/07/22/tokyo_olympics_data_leak/"
+        },
+        {
+            "text": "Startup financiada por Bill Gates e Jeff Bezos afirma ter alcançado avanço significativo em baterias ferro-ar: utilizando um dos minerais mais abundantes no planeta, o ferro, as baterias da “Form Energy” prometem armazenar grandes quantidades de energia, custando menos de 10% de baterias de íons de lítio. As baterias têm como objetivo manter a estabilidade energética em parques eólicos e solares. As informações são do The Wall Street Journal.",
+            "url": "https://www.wsj.com/articles/startup-claims-breakthrough-in-long-duration-batteries-11626946330"
+        },
+        {
+            "text": "CNPq inicia reparos da Plataforma Lattes: o sistema, que reúne currículos de pesquisadores e trabalhos acadêmicos, está fora do ar desde sábado (dia 24). O CNPq afirma que havia iniciado uma migração dos dados para “novos equipamentos de TI” antes do problema, possui backup dos conteúdos e garante que não haverá perda de dados. As informações são do site do CNPq.",
+            "url": "https://www.gov.br/cnpq/pt-br/informe-cnpq-indisponibilidade-dos-sistemas"
+        },
+        {
+            "text": "Resultados do Google, Apple e Microsoft disparam no último trimestre: o Google lucrou 18,5 bilhões de dólares (+166%) com maiores receitas com anúncios e cloud. A Apple registrou ganhos de 21 bi (+90%) com crescimento nas vendas de iPhones. A Microsoft lucrou 16,5 bi (+47%) com maiores receitas em serviços cloud. As informações são das páginas de relação com investidores de cada empresa.",
+            "url": "https://conteudos.xpi.com.br/internacional/relatorios/apple-google-e-microsoft-batem-estimativas-radar-global/#:~:text=Apple%2C%20crescimento%20expressivo%3A%20A%20Big,de%20US%24%201%2C30."
+        },
+        {
+            "text": "Cibercriminosos estão escolhendo linguagens de programação “incomuns” para evitar detecção: Nim, D, Go e Rust estão ficando mais populares no desenvolvimento de malwares, dificultando também análises por equipes de segurança. Pesquisadores afirmam que será preciso criar novas ferramentas de detecção para esses programas. As informações são do site TechRadar.",
+            "url": "https://www.techradar.com/news/hackers-are-using-exotic-programming-languages-to-sidestep-security-filters"
+        },
+        {
+            "text": "Intel promete “Era Angstrom” a partir de 2024: a nova arquitetura de semicondutores avançará para além de processos de fabricação em escalas com nanômetros. O processo “Intel 20A” promete aumentar a densidade de chips com o “empilhamento” vertical de transistores. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/07/intels-foundry-roadmap-lays-out-the-post-nanometer-angstrom-era/"
+        },
+        {
+            "text": "Google lança projeto para “gamificar” procura por bugs: o “Bug Hunters” contará com “leaderboards”, troféus e badges, permitindo a coleta de recompensas em dinheiro na identificação de vulnerabilidades nas plataformas do Google. O sistema substituirá o “Vulnerability Rewards Program”, que já pagou 29,3 milhões de dólares por 11.055 bugs nos últimos 10 anos. As informações são do blog Google Security.",
+            "url": "https://www.zdnet.com/article/google-announces-new-bug-bounty-platform/"
+        }
+    ]
+}
