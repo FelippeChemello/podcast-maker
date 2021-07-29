@@ -1,0 +1,47 @@
+{
+    "title": "Vazamento novo com fotos / IA obtém patente / Exoesqueleto robótico",
+    "fps": 30,
+    "timestamp": 1627583101,
+    "date": "29/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Novo vazamento expõe fotos provavelmente utilizadas para autenticação em aplicativos bancários: 13 mil fotos de pessoas segurando RGs, CPFs e CNHs estão à venda em um fórum especializado em crimes cibernéticos. Não se sabe ainda a origem do vazamento, com o criminoso apenas afirmando que os dados foram obtidos de um “site brasileiro”. A base está à venda por 300 dólares (cerca de 1.500 reais). As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/seguranca/222019-exclusivo-vazam-13-mil-documentos-dados-227-milhoes-brasileiros.htm"
+        },
+        {
+            "text": "Primeira patente é emitida em nome de uma inteligência artificial: o sistema neural “Dabus” foi registrado como o “inventor” de um recipiente para alimentos com melhor aderência e transferência de calor. A patente foi garantida por Ryan Abbott, professor da Universidade de Surrey, proprietário da IA. As informações são do portal The Global Legal Post.",
+            "url": "https://www.globallegalpost.com/news/south-africa-issues-worlds-first-patent-listing-ai-as-inventor-161068982"
+        },
+        {
+            "text": "Engenheiro constrói exoesqueleto robótico para que seu filho possa andar: Jean-Louis Constanza tomou como desafio a construção do dispositivo quando seu filho Oscar o perguntou se conseguiria construir um robô para ajudá-lo a andar. O sistema é totalmente controlado por voz e concede mobilidade extra para pessoas em cadeiras de rodas, auxiliando-as a levantar e andar por conta própria. As informações são do site Futurism.",
+            "url": "https://futurism.com/neoscope/voice-controlled-exoskeleton-walk"
+        },
+        {
+            "text": "Governo prevê 100% dos serviços federais em formato digital até o final de 2022: o portal GovBr, que já reúne cerca de 3 mil serviços, completa dois anos de atividade nesta quinta-feira. O sistema recebe 164 milhões de acessos mensais, sendo a maioria (62,9%) através de celulares. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-07/mais-de-70-dos-servicos-publicos-brasileiros-ja-sao-digitais"
+        },
+        {
+            "text": "Custo de produção do Cybertruck pode ultrapassar 1 milhão de dólares por unidade: a Tesla tem encontrado muitas dificuldades na linha de montagem, especialmente com as baterias de última geração que equiparão o veículo. Elon Musk, no entanto, afirma que o Cybertruck é o melhor veículo já desenvolvido pela Tesla e parece ter sido criado por “alienígenas do futuro”, acrescentou. As informações são do site Futurism.",
+            "url": "https://futurism.com/elon-musk-cybertruck-million-dollars"
+        },
+        {
+            "text": "Astrônomos propõem ferramenta centralizada para contrapor satélites da Starlink: o “SatHub” irá desenvolver abordagens técnicas para mitigar a passagem das megaconstelações de satélites em observações astronômicas, prevendo passagens e correção de imagens marcadas por rastros desses objetos em baixa órbita terrestre. As informações são do site SpaceNews.",
+            "url": "https://www.space.com/sathub-idea-threat-satellite-megaconstellations-astonomy"
+        },
+        {
+            "text": "Lucro do Facebook dobra: a companhia registrou lucro líquido de 10,4 bilhões de dólares no último trimestre, alta de 101% na comparação anual, com aumentos agressivos nos preços de anúncios. No relatório direcionado a analistas, Mark Zuckerberg afirma estar animado para a construção de uma nova plataforma de computação com o Facebook, transformando-o em um “metaverso”. As informações são da página de relações com investidores do Facebook.",
+            "url": "https://www.cnnbrasil.com.br/business/2021/07/28/lucro-do-facebook-dobra-e-vai-a-us-10-3-bilhoes-no-2-trimestre#:~:text=O%20Facebook%20registrou%20lucro%20l%C3%ADquido,dos%20analistas%20consultados%20pelo%20FactSet."
+        },
+        {
+            "text": "Grupo criminoso REvil possivelmente agora se chama “BlackMatter”: várias evidências apontam que a nova gangue de ransomware é comandada pelos mesmos operadores. No dia 13 de julho, o grupo REvil fechou abruptamente suas atividades após a grande publicidade ao redor do ataque contra o provedor de tecnologia Kaseya. As informações são da empresa de consultoria de segurança Flashpoint.",
+            "url": "https://www.flashpoint-intel.com/blog/chatter-indicates-blackmatter-as-revil-successor/"
+        }
+    ]
+}
