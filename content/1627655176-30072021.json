@@ -1,0 +1,47 @@
+{
+    "title": "Pacotes PyPI maliciosos / Vagas de TI só crescem / Ray-Ban do Facebook",
+    "fps": 30,
+    "timestamp": 1627655176,
+    "date": "30/07/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores Python são alvo de pacotes maliciosos no repositório PyPI: oito pacotes, que acumularam cerca de 30 mil downloads até serem removidos, roubavam tokens de autenticação do Discord, dados de cartões de crédito ou permitiam a execução de código remota. Os pacotes em questão são “noblesse”, “noblesse2”, “noblessev2”, “genesisbot”, “are”, “suffer”, “pytagora” e “pytagora2”. As informações são do blog da JFrog.",
+            "url": "https://jfrog.com/blog/malicious-pypi-packages-stealing-credit-cards-injecting-code/"
+        },
+        {
+            "text": "Vagas de TI já cresceram 17,9% nos últimos seis meses em todo o País: profissionais em programação e analistas são os mais procurados, seguidos por especialistas em sistemas, tecnologia da informação e designers. Uma parte das vagas em aberto no setor também são para estágio, trainee e aprendiz. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Carreira/Procuram-se-analistas-de-sistemas%2C-programadores-e-desenvolvedores-57671.html"
+        },
+        {
+            "text": "Mark Zuckerberg confirma óculos de realidade aumentada em parceria com a Ray-Ban: o dispositivo terá o “design icônico” da Ray-Ban e rumores apontam que poderá substituir completamente um smartphone. Esses óculos inteligentes integrarão o “metaverso” do Facebook, permitindo que usuários se “teletransportem” entre diferentes experiências sociais utilizando realidades aumentadas e virtuais, explicou Zuckerberg. As informações são do site TechCrunch.",
+            "url": "https://finance.yahoo.com/finance/news/facebooks-next-product-long-awaited-152111042.html"
+        },
+        {
+            "text": "Procon quer proibir pagamento de delivery na entrega: o órgão estuda medidas para estabelecer exclusivamente o pagamento online em pedidos realizados por aplicativos, proibindo cobranças no ato da entrega. Nos últimos seis meses, foi registrado um aumento de mais de 136% nos golpes aplicados por entregadores de apps de comida. As informações são do site do Procon-SP.",
+            "url": "https://www.procon.sp.gov.br/procon-sp-quer-proibir-pagamento-de-delivery-na-entrega/"
+        },
+        {
+            "text": "Free Software Foundation quer estudar questões filosóficas e jurídicas em torno do “GitHub Copilot”: a organização quer avaliar a possível violação de direitos autorais no treinamento da nova ferramenta em repositórios públicos, como desenvolvedores cumprirão licenças de software livre ao utilizar esse recurso e se a rede neural do Copilot é protegida por direitos autorais e quem os deteria. As informações são do blog da FSF.",
+            "url": "https://visualstudiomagazine.com/articles/2021/07/29/fsf-github-copilot.aspx"
+        },
+        {
+            "text": "Primeira operação robótica para tratamento do diabetes do mundo é realizada no Brasil: durante o procedimento, realizado no Paraná, o robô deu ao cirurgião uma visão tridimensional e possibilitou movimentos mais precisos e menos invasivos. A cirurgia, que estimula o pâncreas a produzir insulina, é indicada para o tratamento do Diabetes Tipo 2 em pacientes com falha no tratamento clínico. As informações são do site Jornale.",
+            "url": "https://olhardigital.com.br/es/2021/07/30/medicina-e-saude/primeira-cirurgia-para-diabetes-com-uso-de-robos-no-mundo-e-feita-no-parana/"
+        },
+        {
+            "text": "Huawei inaugura centro de inovação em São Paulo: com investimento de 35 milhões de reais, o “Ecosystem Innovation Technology Center” foi idealizado para clientes e parceiros interessados em 5G, nuvem e inteligência artificial. As informações são da página de imprensa da Huawei.",
+            "url": "https://www.huawei.com/br/news/br/2021/huawei-inaugura-eitc-sao-paulo"
+        },
+        {
+            "text": "Controladores de voo da NASA e Roscosmos evitaram desastre na Estação Espacial Internacional nesta quinta-feira: ao se atracar, o módulo russo “Nauka” começou a disparar “inadvertidamente” seus propulsores. O controle de atitude foi totalmente perdido e os motores do módulo de serviço da estação espacial e do veículo “Russian Progress”, também acoplado à estação, tiveram que ser acionados. O “cabo de guerra” durou cerca de uma hora e só acabou após o término do combustível do módulo Nauka. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/science/2021/07/russian-module-suddenly-fires-thrusters-after-docking-with-space-station/"
+        }
+    ]
+}
