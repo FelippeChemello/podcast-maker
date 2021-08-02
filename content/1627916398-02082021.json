@@ -1,0 +1,47 @@
+{
+    "title": "Elon Musk nega cargo na Apple / Primeiro “cristal do tempo” / IA auxilia pacientes",
+    "fps": 30,
+    "timestamp": 1627916398,
+    "date": "02/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Elon Musk nega conversa com Tim Cook para assumir comando da Apple: Tim Higgins, repórter do Wall Street Journal, afirma que os dois teriam conversado sobre uma possível aquisição da Tesla pela Apple, com a condição de que Musk assumisse o cargo de Cook. Musk, assim como Cook, afirma que nunca conversaram ou se comunicaram de qualquer forma. As informações são do site 9to5Mac.",
+            "url": "https://9to5mac.com/2021/07/30/elon-musk-wanted-to-be-apple-ceo-but-tim-cook-dropped-an-f-bomb-on-that-idea/"
+        },
+        {
+            "text": "Computador quântico do Google demonstra primeiro “cristal do tempo”: similar a um “moto-contínuo”, um cristal do tempo oscila continuamente entre duas fases de matéria, sem perder ou consumir energia. Para Roderich Moessner, diretor do Instituto Max Planck em Dresden, a consequência do experimento é “incrível” ao “evadir” a segunda lei da termodinâmica, ou seja, a entropia. O cristal do tempo marca uma das primeiras demonstrações práticas no uso de computadores quânticos. As informações são da Quanta Magazine.",
+            "url": "https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/"
+        },
+        {
+            "text": "IA está ajudando a desafogar sistema de saúde brasileiro durante a pandemia: a partir da descrição dos sintomas, o robô “Laura Care” detecta a gravidade da doença em pacientes e funciona como uma ferramenta de triagem, realizando o encaminhamento a profissionais de saúde. O sistema está sendo testado nos municípios de Curitiba (PR), São Bernardo do Campo (SP) e Catanduva (SP), mas o objetivo é que a tecnologia seja aplicada em todos os contextos médicos de urgência e emergência em escala nacional. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-07/inteligencia-artificial-desafoga-sistema-na-pandemia"
+        },
+        {
+            "text": "USP inicia nesta segunda curso gratuito contra “fake news” para idosos: o curso “Fake News: reconhecimento e atitudes para fazermos a diferença” aceita apenas pessoas com mais de 60 anos, com aulas mostrando como é fácil criar notícias falsas e como identificá-las. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/ciencia/221641-usp-ministra-curso-gratuito-idosos-identificarem-fake-news.htm"
+        },
+        {
+            "text": "Lei inclui perfis em redes sociais como herança: o Projeto de Lei 1689/21 fixa regras para provedores de aplicações de internet tratarem perfis, páginas, contas, publicações e dados pessoais de uma pessoa falecida, dando ao sucessor legal o direito de manter ou editar essas informações. O projeto também determina a exclusão de dados quando não existirem herdeiros. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Internet/Novo-projeto-de-lei-inclui-perfis-em-redes-sociais-como-heranca-57686.html"
+        },
+        {
+            "text": "Satélite Amazonia-1 é declarado operacional: também já é possível acessar imagens de todo o País produzidas pelo equipamento. O Amazonia-1, lançado em janeiro deste ano, é o primeiro satélite completamente projetado e operado pelo Brasil. As informações e o manual para uso da ferramenta de pesquisa estão disponíveis no site do INPE/MCTI.",
+            "url": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/07/imagens-do-satelite-amazonia-1-estao-disponiveis-para-o-publico"
+        },
+        {
+            "text": "Cientistas querem copiar rede neural de libélulas para sistema antimísseis: um laboratório de segurança nacional dos EUA está criando uma inteligência artificial inspirada no inseto que poderia tornar sistemas de defesa antimísseis muito mais ágeis e simples, consumindo apenas uma fração da energia de sistemas computacionais convencionais. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/fast-efficient-neural-networks-copy-dragonfly-brains"
+        },
+        {
+            "text": "Chamadas de vídeo do Telegram agora comportam até mil pessoas: 30 pessoas poderão transmitir imagens de suas câmeras ou telas, enquanto as outras 970 poderão assistir à transmissão. O Telegram afirma que continuará aumentando o limite de conexões ao mesmo tempo até que “todos os humanos na Terra” possam se juntar a uma única chamada em grupo. As informações são do blog do Telegram.",
+            "url": "https://telegram.org/blog/video-1000"
+        }
+    ]
+}
