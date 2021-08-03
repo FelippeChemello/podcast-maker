@@ -1,0 +1,47 @@
+{
+    "title": "“Carros Voadores” da Azul / Novo Google Pixel / TST vai usar blockchain ",
+    "fps": 30,
+    "timestamp": 1628009701,
+    "date": "03/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Azul compra 220 “carros voadores” para tornar-se o “Uber dos céus”: a companhia aérea vai investir 1 bilhão de dólares na compra das aeronaves elétricas VTOL (Decolagem e Pouso Vertical na sigla em inglês) da alemã Lilium, com autonomia de 240 quilômetros e espaço para seis passageiros. A ideia é conectar, a partir de 2025, regiões metropolitanas, cidades turísticas, condomínios residenciais e aeroportos. As informações são do Valor Econômico.",
+            "url": "https://valor.globo.com/empresas/noticia/2021/08/02/azul-investe-us-1-bi-em-carro-voador-para-trajetos-curtos.ghtml"
+        },
+        {
+            "text": "Google apresenta seu novo smartphone, o Pixel 6: o grande destaque fica com o novo processador “Tensor”, completamente desenvolvido pela empresa e focado no processamento de inteligência artificial. O smartphone virá em dois modelos, que se diferenciam em tamanho de tela e módulo de câmeras (6,4 e 6,7 polegadas, e câmera com zoom no modelo Pro). Ambos virão com leitores de impressões digitais embaixo da tela e bateria que dura “um dia”. O Google não informou quando os modelos estarão disponíveis para compra. As informações são do site 9to5Google.",
+            "url": "https://9to5google.com/2021/08/02/google-pixel-6-pro/"
+        },
+        {
+            "text": "Tribunal Superior do Trabalho vai utilizar blockchain para consultar CPFs e CNPJs: as ferramentas “b-CPF” e “b-CNPJ” foram desenvolvidas pela Receita Federal em conjunto com a Dataprev, que irá implementar a tecnologia para o tribunal ao custo de 200 mil reais pelos próximos cinco anos. As informações são do site Livecoins.",
+            "url": "https://livecoins.com.br/tst-blockchain-cpf-cnpj/"
+        },
+        {
+            "text": "Novo material converte calor em energia economicamente: o material termoelétrico feito de grãos de seleneto de estanho policristalino é barato de se fabricar e pode abrir caminho para uma nova geração de motores, fornos industriais e outros dispositivos de geração de energia mais ecológicos, transformando calor residual em eletricidade, sem produzir emissões de gases de efeito estufa. Estima-se que 65% da energia produzida globalmente é perdida como calor residual. As informações são da revista Science.",
+            "url": "https://www.tecmundo.com.br/ciencia/222261-cientistas-criam-material-termoeletrico-eficiente-mundo.htm"
+        },
+        {
+            "text": "CNPq adia restabelecimento de sistemas: a Plataforma Lattes, que está fora do ar desde o dia 24 de julho, estava prevista para voltar ao ar nesta última segunda-feira (02/ago). A entidade identificou novas instabilidades e continua realizando testes com os equipamentos que apresentaram problemas, mas reforça que não houve perda de dados. As informações são do site do CNPq.",
+            "url": "https://tecnoblog.net/470703/cnpq-adia-restabelecimento-de-sistemas-e-nao-da-novo-prazo/"
+        },
+        {
+            "text": "IA desenvolvida no Brasil identifica vagas de estacionamento livres: a rede neural, em desenvolvimento no Instituto Federal de São Paulo, utiliza visão computacional para identificar vagas livres em tempo real a partir de imagens obtidas por câmeras, dispensando o uso de sensores. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/02/08/2021/solucao-brasileira-com-ia-identifica-vagas-de-estacionamento-livres/"
+        },
+        {
+            "text": "Pacote npm vazio “-” acumula mais de 700 mil downloads: segundo o pesquisador de segurança Ax Sharma, é plausível que o pacote esteja sendo baixado após erros tipográficos em comandos npm no terminal (por exemplo: “npm i - algumaFlag nomeDoPacote”, note o espaço entre “-” e “algumaFlag”). O npm poderia proibir componentes que compartilham nomes com seus comandos, além de listar e nomear, ao invés de apenas mencionar, a quantidade de pacotes instalados e auditados, afirma o desenvolvedor Matt Freeland. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/"
+        },
+        {
+            "text": "“Vue” é escolhido como futuro framework JavaScript da Wikimedia Foundation: além de aspectos técnicos, a fundação que comanda a Wikipedia também incluiu a preferência de desenvolvedores na tomada de decisão sobre a nova arquitetura front-end. O React foi descartado como alternativa, avaliando a dependência do Facebook como ponto único de falha. Com informações da Wikimedia e HackerNews.",
+            "url": "https://news.ycombinator.com/item?id=28042766"
+        }
+    ]
+}
