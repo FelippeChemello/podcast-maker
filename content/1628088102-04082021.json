@@ -1,0 +1,47 @@
+{
+    "title": "Nova pesquisa com Devs / IA cria “faces mestras” / Facebook quer dados criptografados",
+    "fps": 30,
+    "timestamp": 1628088102,
+    "date": "04/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Alguns destaques da pesquisa Stack Overflow com desenvolvedores em 2021: JavaScript continua sendo a linguagem de programação mais utilizada com 65%, Python subiu para 48,2% e Java caiu para 35,35% (as porcentagens somam mais de 100% por causa do uso de mais de uma linguagem por cada desenvolvedor). Em relação a IDEs, 71,06% dos desenvolvedores utilizam o VS Code, 33,03% o Visual Studio e 29,1% o Notepad++. Em frameworks web, React.js subiu em uso para 40,14%, o ASP.NET Core caiu para 18,1% e ASP.NET clássico caiu para 15,74%. O Windows continua o sistema mais utilizado, por 45,33%, com o Linux superando o uso do macOS (25,32% e 25,19% respectivamente). A pesquisa foi realizada com 83.439 desenvolvedores de 181 países. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/08/03/stackoverflow_developer_survey/"
+        },
+        {
+            "text": "IA cria “faces mestras” capazes de burlar até 64% dos sistemas de autenticação facial: a rede neural infere características generalizadas de pessoas e usa-as para criar faces que abrangem um grande número de identidades. Utilizando um conjunto de apenas 9 rostos sintetizados, a rede neural conseguiu desbloquear até 64% dos testes de autenticação facial. Segundo os pesquisadores que desenvolveram a IA, sistemas de autenticação facial são extremamente vulneráveis, mesmo sem informações sobre a identidade do alvo. As informações são do site UniteAI.",
+            "url": "https://www.unite.ai/master-faces-that-can-bypass-over-40-of-facial-id-authentication-systems/"
+        },
+        {
+            "text": "Facebook quer analisar dados criptografados do WhatsApp para gerar anúncios personalizados: a empresa montou um time especializado em inteligência artificial para estudar formas de analisar a tecnologia de criptografia homomórfica, permitindo que informações pessoais, incluindo registros médicos e dados financeiros, possam ser analisados, sem descriptografá-los. As informações são do site The Information.",
+            "url": "https://www.engadget.com/facebook-analyze-encrypted-messages-ad-targeting-175739715.html"
+        },
+        {
+            "text": "Maioria dos desenvolvedores brasileiros gostariam de continuar trabalhando remotamente: 86,58% preferem manter o sistema de trabalho remoto, 6,88% optariam por um modelo híbrido e 6,54% gostariam de retornar aos escritórios. A pesquisa foi realizada com 30 mil desenvolvedores de todo o País pela Vulpi. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/empregos/desenvolvedores-brasileiros-preferem-continuar-no-trabalho-remoto-diz-pesquisa-191656/"
+        },
+        {
+            "text": "Exército dos EUA vai utilizar IAs para vislumbrar o futuro: o objetivo é antecipar a movimentação de adversários antes que eles os façam, com dias de antecedência. A análise é realizada através de dados coletados por uma rede de sensores em todo o mundo, incluindo informações disponíveis comercialmente de parceiros não identificados. As informações são do site The Drive.",
+            "url": "https://www.thedrive.com/the-war-zone/41771/the-pentagon-is-experimenting-with-using-artificial-intelligence-to-see-days-in-advance"
+        },
+        {
+            "text": "Mídia estatal chinesa critica videogames e alerta sobre dependência infantil: comparando videogames a “ópio”, o artigo pede por mais restrições à indústria, a fim de prevenir o vício e outros impactos negativos sobre crianças. No passado, a China já havia argumentado que videogames são uma espécie de “heroína digital”. A notícia derrubou as ações da chinesa Tencent, uma das maiores empresas de jogos do mundo. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/chinese-media-video-games-addictive-kids"
+        },
+        {
+            "text": "Sistema de entrega por drones da Amazon perde mais de 100 funcionários e estaria entrando em “colapso”: um ex-funcionário afirma que a empresa fez muitas promessas que não podem ser cumpridas em relação à tecnologia. Um dos problemas relatados seria a necessidade pousar os drones para entregas de pacotes, o que requer um sistema de navegação muito preciso. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/8/3/22607267/amazon-drone-delivery-program-uk-operations-failure-oversell"
+        },
+        {
+            "text": "WhatsApp lança “Visualização Única”: o recurso permite que fotos e vídeos desapareçam da conversa após o destinatário abrir o arquivo de mídia uma vez. Em sua central de ajuda, o WhatsApp alerta, no entanto, que ainda será possível realizar capturas de tela antes que as imagens desapareçam, sem que o remetente receba uma notificação sobre isso.",
+            "url": "https://www.techtudo.com.br/noticias/2021/08/whatsapp-deixa-enviar-fotos-temporarias-com-visualizacao-unica.ghtml"
+        }
+    ]
+}
