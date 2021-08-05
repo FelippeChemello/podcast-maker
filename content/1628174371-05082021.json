@@ -1,0 +1,47 @@
+{
+    "title": "Novo golpe com boletos / CEO do WhatsApp / IA da Microsoft na Amazônia",
+    "fps": 30,
+    "timestamp": 1628174371,
+    "date": "05/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Novo golpe envolvendo boletos bancários: segundo a empresa de segurança Axur, o “Golpe da Renegociação” se aproveita dos recentes mega vazamentos de dados no País. Os criminosos estão utilizando bots para gerar segundas vias de boletos em plataformas financeiras que oferecem empréstimos e requerem apenas o número do CPF para confirmar a emissão. Com posse de informações do valor de cada parcela da dívida, os criminosos abordam as vítimas, geralmente pelo WhatsApp, oferecendo um desconto promocional, enviando um novo boleto falso com o valor renegociado. As informações são do site IPNews.",
+            "url": "https://ipnews.com.br/axur-identifica-novo-golpe-com-boletos-bancarios-nas-redes-sociais/"
+        },
+        {
+            "text": "CEO do WhatsApp nega que aplicativo utilizará nova tecnologia de encriptação estudada pelo Facebook: em seu perfil no Twitter, Will Cathcart negou que o WhatsApp estuda implementar a encriptação homomórfica e demonstrou ceticismo em relação a afirmações técnicas de que seria possível ler mensagens criptografadas em casos “benéficos”, ou seja, para obter informações pessoais apenas com a intenção de direcionar anúncios. Na Newsletter de ontem, nós noticiamos que o Facebook montou um time especializado em inteligência artificial para estudar formas de analisar mensagens criptografadas, sem descriptografá-las.",
+            "url": "https://canaltech.com.br/apps/whatsapp-rejeita-usar-tecnologia-do-facebook-para-ler-mensagens-criptografadas-191732/"
+        },
+        {
+            "text": "Microsoft lança IA para ajudar na prevenção do desmatamento da Amazônia: aberta ao público, a plataforma “PrevisIA” analisa dados como topografia, cobertura do solo, infraestrutura urbana, estradas oficiais e não oficiais, e dados socioeconômicos para identificar possíveis tendências e regiões com maior risco de desmatamento e incêndio. As informações são da página de imprensa da Microsoft.",
+            "url": "https://news.microsoft.com/pt-br/features/conheca-o-previsia-inteligencia-artificial-na-prevencao-dos-desmatamentos-na-amazonia/"
+        },
+        {
+            "text": "Elon Musk é o CEO mais bem pago da história: apenas em 2020, o empresário recebeu 6,6 bilhões de dólares. Musk é o executivo mais bem pago dos EUA por três anos consecutivos e já recebeu 33 bi em compensações no comando da Tesla. As informações são da Bloomberg.",
+            "url": "https://www.bloomberg.com/news/videos/2021-08-04/elon-musk-is-the-highest-paid-u-s-ceo-in-2020-video"
+        },
+        {
+            "text": "TikTok foi baixado 3 vezes mais do que o YouTube em 2020: a plataforma de vídeos curtos foi a mais popular do mundo no ano passado, acumulando 660,1 milhões de downloads. O YouTube foi baixado 222,7 milhões de vezes. Os downloads do TikTok, no entanto, poderiam ter sido muito maiores se não fosse o banimento do app em alguns países, como na Índia, um dos maiores mercados de produção digital em todo o mundo. As informações são do site Finbold.",
+            "url": "https://finbold.com/tiktok-downloads-2020/"
+        },
+        {
+            "text": "MIT cria IA para prever quais tecnologias serão mais importantes no futuro: um novo algoritmo baseado em probabilidade, aprendizado de máquina e processamento de linguagem natural analisa o sistema de patentes dos EUA, avaliando 1.757 domínios de tecnologia diferentes. Segundo o MIT, a rapidez com que uma tecnologia avança pode ser um indicador de sua importância no futuro e é crucial para investidores, empresários e formuladores de políticas públicas. As informações são do site MIT News.",
+            "url": "https://br.financas.yahoo.com/noticias/cientistas-criam-ia-para-prever-210146206.html"
+        },
+        {
+            "text": "Cientistas utilizam IA para criar visualizações tridimensionais de radiografias: o sistema pode trazer benefícios abrangentes para áreas de estudo que dependem de uma grande quantidade de dados 3D, como astronomia e imagens em nanoescala. As informações são do blog Nvidia Developer.",
+            "url": "https://developer.nvidia.com/blog/creating-3d-visualizations-from-x-ray-data-with-deep-learning/"
+        },
+        {
+            "text": "Firefox perdeu quase 46 milhões de usuários em menos de três anos: a base encolheu quase 20%, para 198 milhões de usuários ativos mensais. A maioria tem migrado para navegadores baseados no Chromium, como o Google Chrome, padrão no Android, e o Microsoft Edge, no Windows. As informações são do site It's FOSS.",
+            "url": "https://news.itsfoss.com/firefox-decline/"
+        }
+    ]
+}
