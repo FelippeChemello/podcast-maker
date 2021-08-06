@@ -1,0 +1,51 @@
+{
+    "title": "Grande polêmica com Apple / Xiaomi é No. 1 global / Cybertruck no Brasil",
+    "fps": 30,
+    "timestamp": 1628265326,
+    "date": "06/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Apple sofre de intensa repercussão negativa com anúncio de nova tecnologia para proteção de abuso infantil: a companhia anunciou ontem à noite que passará a monitorar continuamente todas as fotos armazenadas ou compartilhadas em iPhones, iPads ou Macs e notificará as autoridades se detectar imagens questionáveis nesses dispositivos. Entidades, especialistas em segurança, pesquisadores, juristas e consumidores soaram um alerta e argumentam que o sistema cria efetivamente um “backdoor” nos dispositivos da marca, minando proteções de privacidade fundamentais e abrindo um precedente para “expansão irracional” do escopo de vigilância por governos. Com informações de Electronic Frontier Foundation, Ars Technica e Apple Privacy Letter.",
+            "url": "https://www.apple.com/child-safety/"
+        },
+        {
+            "text": "Xiaomi supera Samsung e torna-se a maior fabricante global de smartphones: a posição, no entanto, pode ser temporária, uma vez que a produção da Samsung foi suspensa no Vietnã no mês de junho por causa da pandemia. Cumulativamente, a Xiaomi já vendeu cerca de 800 milhões de dispositivos desde sua fundação, em 2011. As informações são da Counterpoint Research.",
+            "url": "https://www.cnbc.com/2021/08/06/china-xiaomi-overtook-samsung-apple-in-june-smartphones-sales-counterpoint.html"
+        },
+        {
+            "text": "Primeiro Tesla Cybertruck é vendido no Brasil por 950 mil reais: o veículo também está disponível por meio de assinatura, com valor mensal de 19.800 reais na Osten. Nos EUA, o mesmo modelo (Tri-Motor) é vendido por cerca de 360 mil reais. O Cyberturck vai de 0 a 100 km/h em 3,1 segundos e tem autonomia de 800 km. As informações são do site Notícias Automotivas.",
+            "url": "https://www.noticiasautomotivas.com.br/tesla-cybertruck-no-brasil-por-r-950-000/"
+        },
+        {
+            "text": "Novo portal de compras do Governo será integrado com robô “Alice”: implementada pela Controladoria Geral da União, a Alice (acrônimo de Analisador de Licitações, Contratos e Editais) é um algoritmo autônomo que busca, diariamente, por irregularidades em compras governamentais. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Governo/Compras-governamentais/Comprasnet-vai-integrar-robo-da-CGU-que-varre-licitacoes-57736.html"
+        },
+        {
+            "text": "Fibra capaz de detectar campos magnéticos extremamente fracos é desenvolvida por cientistas brasileiros: a fibra magneto-óptica, desenvolvida no Laboratório de Vidros Especiais da Unesp, poderá ser utilizada em sensores de atividade cerebral, com uma sensibilidade superior a detectores atuais, na previsão de atividade vulcânica, com base no monitoramento de flutuações magnéticas no magma, e na detecção de submarinos. As informações são da Agência FAPESP.",
+            "url": "https://agencia.fapesp.br/fibra-capaz-de-detectar-campos-magneticos-extremamente-fracos-e-produzida-na-unesp/36509/"
+        },
+        {
+            "text": "IBM e fundação do ator Michael J. Fox criam IA para prever progressão da doença de Parkinson: o modelo agrupa os padrões de sintomas típicos, prevendo a progressão da doença em termos de tempo e gravidade. Michael J. Fox, o ator que interpretou Marty McFly no filme “De Volta para o Futuro”, foi diagnosticado com Parkinson aos 29 anos de idade. As informações são da página de imprensa da IBM.",
+            "url": "https://tiinside.com.br/05/08/2021/ibm-e-fundacao-do-ator-michael-j-fox-usam-ia-para-prever-a-progressao-da-doenca-de-parkinson/"
+        },
+        {
+            "text": "Cientistas estão desenvolvendo IA para digitalizar e transcrever manuscritos medievais: o sistema combina métodos tradicionais de aprendizado de máquina com psicofísica visual, informando a rede neural sobre as dificuldades que seres humanos possuem na percepção de caracteres em caligrafias antigas. Segundo os pesquisadores, a técnica permitirá o acesso a milhares de textos que nunca foram lidos antes. As informações são da Universidade de Notre Dame.",
+            "url": "https://mcutimes.com/scientists-use-ai-to-unlock-the-secrets-of-ancient-texts-news-notre-dame-news/"
+        },
+        {
+            "text": "Novo chip combina hardware e software para criptografia pós-quântica: além de utilizar 8 vezes menos energia em comparação a sistemas baseados apenas em software, o chip é cerca de 10 vezes mais rápido ao utilizar o algoritmo Kyber, um dos candidatos mais promissores para a criptografia pós-quântica. As informações são do site TechXplore.",
+            "url": "https://techxplore.com/news/2021-08-chip-encryption-hackers.html"
+        },
+        {
+            "text": "Aumente a segurança do seu e-mail: Nossos dados são solicitados o tempo todo para liberar acesso a serviços e informações. Para melhorar sua segurança online, o Firefox Relay é um serviço gratuito que permite associar endereços temporários seguros ao e-mail, filtrando as mensagens recebidas e diminuindo as chances dos seus dados serem expostos. Fonte Blog Diolinux",
+            "url": "https://diolinux.com.br/softwares/firefox-relay.html"
+        }
+    ]
+}
