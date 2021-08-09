@@ -1,0 +1,47 @@
+{
+    "title": "CEO do WhatsApp preocupado / Falha em rover marciano / Avanço em painéis solares",
+    "fps": 30,
+    "timestamp": 1628521567,
+    "date": "09/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "CEO do WhatsApp afirma estar “preocupado” com novo “sistema de vigilância” anunciado pela Apple: em seu perfil no Twitter, Will Cathcart afirma que a tecnologia poderá ser facilmente utilizada para escanear conteúdo privado em busca de qualquer coisa que um governo decida controlar. Para o executivo, a abordagem adotada pela Apple é errada e um revés para a privacidade das pessoas em todo o mundo, confirmando que o WhatsApp não pretende adotar a mesma tecnologia.",
+            "url": "https://twitter.com/wcathcart/status/1423701479613894657"
+        },
+        {
+            "text": "Perseverance falha em coletar primeira amostra de solo em Marte: o processo de amostragem, que nunca falhou em testes realizados na Terra, é completamente autônomo e realizado por um braço robótico acoplado ao rover. Os engenheiros da NASA notam que a perfuração no solo foi bem-sucedida, mas nenhuma amostra foi coletada e depositada dentro de tubos especiais, que serão transportados de volta para a Terra em uma missão futura. As informações são do site da NASA.",
+            "url": "https://www.space.com/perseverance-rover-mars-sample-attempt-fails"
+        },
+        {
+            "text": "Arranjo atômico em cristais aumenta efeito fotovoltaico de células solares em mil vezes: pesquisadores alemães descobriram que camadas ultrafinas de diferentes materiais (titanatos de bário, estrôncio e cálcio) permitem que elétrons fluam com muito mais facilidade após serem excitados por fótons. A tecnologia também poderá tornar painéis solares mais fáceis de se produzir. As informações são da PV Magazine.",
+            "url": "https://www.industriaeambiente.pt/noticias/estudo-paineis-solares-podem-produzir-mil-vezes-mais-energia/"
+        },
+        {
+            "text": "Atleta olímpica utiliza “Google Tradutor” para pedir ajuda à polícia japonesa: a velocista bielorrussa Krystsina Tsimanouskaya pediu proteção às autoridades japonesas dentro do aeroporto de Tóquio após ser expulsa das Olimpíadas por sua equipe técnica ao se recusar a participar de um evento para o qual não havia treinado. Tsimanouskaya foi alertada por sua família após reportagens em seu país natal afirmarem que ela poderia ser presa ao voltar. As informações são do jornal New York Post.",
+            "url": "https://nypost.com/2021/08/06/belarus-sprinter-used-google-translate-to-get-help-from-cops/"
+        },
+        {
+            "text": "SpaceX monta Starship e Super Heavy pela primeira vez, formando foguete mais alto do mundo: a estrutura total do sistema de lançamento tem cerca de 120 metros de altura, mais alto do que a Grande Pirâmide de Gizé e maior do que foguete lunar “Saturn V” da NASA. O Starship foi projetado para transportar passageiros e carga para a Lua e Marte. As informações são dos sites Space e TechCrunch.",
+            "url": "https://techcrunch.com/2021/08/06/spacex-stacks-the-full-starship-launch-system-for-the-first-time-standing-nearly-400-feet-tall/"
+        },
+        {
+            "text": "Cartucho do jogo “Super Mario Bros” para o NES quebra novo recorde e é vendido por 2 milhões de dólares: o jogo foi vendido pela Rally, empresa especializada na compra de colecionáveis, permitindo que pessoas invistam em frações de itens individuais, como fariam com ações na bolsa de valores. A empresa comprou o jogo por 140 mil dólares em abril de 2020. As informações são do The New York Times.",
+            "url": "https://www.nytimes.com/2021/08/06/business/super-mario-bros-sale-record.html"
+        },
+        {
+            "text": "WhatsApp é a principal ferramenta de comunicação utilizada no trabalho por brasileiros: 84% das pessoas escolhem o WhatsApp para essa finalidade. E-mails aparecem em segundo lugar (52%), seguidos por Instagram (45%), Facebook Messenger (44%), ligações telefônicas (40%) e Telegram (29%). As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/09/08/2021/whatsapp-e-usado-como-ferramenta-de-trabalho-por-84-dos-brasileiros/"
+        },
+        {
+            "text": "Alunos brasileiros criam aplicativo para melhorar experiência sensorial de deficientes auditivos: o aplicativo “Feel the Music” (“sinta a música”, em tradução livre), criado por Rafael Zinni Lopes, Ricardo Teruaki Fujikawa e Victor Dias de Oliveira, da Escola de Inovadores, utiliza inteligência artificial para captar os sons e fazer o smartphone vibrar no mesmo ritmo, em tempo real. A ideia nasceu durante um hackathon que tinha a proposta de encontrar ideias inovadoras para o mercado da música. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-08/alunos-criam-aplicativo-para-melhorar-experiencia-sensorial-de-surdos"
+        }
+    ]
+}
