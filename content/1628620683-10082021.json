@@ -1,0 +1,47 @@
+{
+    "title": "Evento misterioso da OpenAI / 5G “falso” da TIM / TikTok supera Facebook",
+    "fps": 30,
+    "timestamp": 1628620683,
+    "date": "10/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "OpenAI promove evento misterioso nesta terça-feira: sabe-se apenas que o assunto principal será o “Codex”, sistema de inteligência artificial que traduz linguagem natural para códigos, utilizado pela primeira vez no “GitHub Copilot”. O evento terá início a partir das 14h00 (horário de Brasília) e será transmitido ao vivo pela Twitch.",
+            "url": "https://openai.com/blog/openai-codex/"
+        },
+        {
+            "text": "Senacom apura propaganda enganosa da TIM sobre 5G: a companhia concorda e considera inapropriado o uso do termo “5G” em publicidade, mas manteve a menção diante da continuidade das outras operadoras em utilizar a expressão. Segundo a TIM, o serviço que está sendo oferecido é o “5G DSS”, tecnologia que utiliza as redes 4G para possibilitar maiores velocidades, mas ainda muito distante de todos os recursos que a quinta geração poderá oferecer. A Senacom também está investigando as operadoras Vivo, Oi e Claro. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-08/ministerio-da-justica-apura-propaganda-enganosa-da-tim-sobre-5g"
+        },
+        {
+            "text": "TikTok supera Facebook como aplicativo mais baixado do mundo: o tempo total de visualização no aplicativo já ultrapassou o do YouTube nos EUA e Reino Unido. Em termos de conteúdo, música e comédia são os mais populares. TikTok, Facebook, WhatsApp, Instagram e Facebook Messenger compõem o Top 5 de aplicativos globais. As informações são da Nikkei Asia.",
+            "url": "https://epocanegocios.globo.com/Tecnologia/noticia/2021/08/tiktok-supera-facebook-e-se-torna-o-aplicativo-mais-baixado-do-mundo.html"
+        },
+        {
+            "text": "Empresa de call center quer instalar câmeras de monitoramento em casas de funcionários: a Teleperformance, uma das maiores empresas do setor no mundo, quer utilizar câmeras equipadas com sistemas de inteligência artificial para observar e registrar o local de trabalho de seus funcionários dentro de suas residências. A empresa, que trabalha para Amazon, Apple e Uber, afirma que busca constantemente maneiras de “aprimorar a experiência” de seus serviços tanto para funcionários como clientes. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/tech-policy/2021/08/uber-asked-contractor-to-allow-video-surveillance-in-employee-homes-bedrooms/"
+        },
+        {
+            "text": "99 reduz violência contra motoristas utilizando IA: durante o primeiro semestre deste ano, as ocorrências de segurança contra motoristas do aplicativo caíram 20% em todo o País. O sistema avalia diversos fatores, verificando comportamentos de risco, validando dados de passageiros e bloqueando corridas em áreas com altos índices de violência. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/seguranca/99-reduz-20-nas-ocorrencias-de-seguranca-contra-motoristas-com-ajuda-da-ia-192172/"
+        },
+        {
+            "text": "Novo ataque “Glowworm” recupera áudio através de LEDs em dispositivos: pequenas flutuações na intensidade dos LEDs em uma ampla gama de dispositivos, como caixas de som e hubs USB, podem ser convertidas em áudio. Os sinais são fortes o suficiente para serem captados por um fotodiodo acoplado a um telescópio óptico simples a 35 metros de distância. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/08/new-glowworm-attack-recovers-audio-from-devices-power-leds/"
+        },
+        {
+            "text": "Cientistas revelam diagrama de conexões cerebrais com meio bilhão de conexões: o projeto, intitulado MICrONS (Machine Intelligence from Cortical Networks), levou cinco anos para ser concluído, envolvendo neurocientistas e cientistas da computação com o objetivo de extrair informações das conexões cerebrais para melhorar processos de machine learning. O diagrama e a função de dezenas de milhares de neurônios criaram o exame mais detalhado dos circuitos cerebrais de mamíferos até o momento. As informações são da página de imprensa da Universidade de Princeton.",
+            "url": "https://www.princeton.edu/news/2021/08/06/scientists-unveil-brain-wiring-diagram-200000-cells-and-half-billion-connections"
+        },
+        {
+            "text": "Hackers obtêm dados pessoais de alto escalão da Bielorrússia: embora não informem a extensão exata do ataque, os hackers afirmam ter obtido registros confidenciais do serviço secreto bielorrusso, incluindo oficiais de inteligência que operam na União Europeia. Se confirmado, o ataque seria classificado como o mais importante a um sistema governamental desde 2015, quando hackers chineses roubaram os registros de milhões de funcionários federais dos EUA. As informações são do site Current Time.",
+            "url": "https://news.ycombinator.com/item?id=28122799"
+        }
+    ]
+}
