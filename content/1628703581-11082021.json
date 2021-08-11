@@ -1,0 +1,47 @@
+{
+    "title": "IA incrível da OpenAI / Ataque histórico em moedas digitais / Comunidade eSports se manifesta",
+    "fps": 30,
+    "timestamp": 1628703581,
+    "date": "11/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "OpenAI apresenta nova versão incrível do Codex, IA que traduz linguagem natural para códigos: o sistema agora consegue interpretar comandos em linguagem natural, tornando possível a qualquer pessoa, com conhecimentos em programação ao não, construir aplicações apenas descrevendo-as. Em um dos exemplos, o Codex construiu um jogo simples, gerando código em tempo real, utilizando apenas as instruções fornecidas por um usuário. A OpenAI descreve o Codex como um modelo de programação de propósito geral, podendo ser aplicado a essencialmente qualquer tarefa ou outras aplicações. O sistema já está disponível em beta privado por meio de uma API gratuita. As informações são do blog da OpenAI.",
+            "url": "https://openai.com/blog/openai-codex/"
+        },
+        {
+            "text": "Projeto de finanças decentralizadas sofre maior ataque da história: o projeto DeFi “Poly Network”, protocolo cross-chain decentralizado, anunciou que “hackers” levaram 611 milhões de dólares (3,1 bilhões de reais) de suas carteiras. Após o ataque, várias transações foram enviadas às carteiras dos criminosos com solicitações de moedas gratuitas e dicas sobre como “lavar” as moedas roubadas. As informações são do site Bleeping Computer.",
+            "url": "https://www.bleepingcomputer.com/news/security/over-600-million-reportedly-stolen-in-cryptocurrency-hack/"
+        },
+        {
+            "text": "Atletas de eSports se manifestam contra regulamentação no Brasil: a comunidade afirma estar sendo excluída do debate e está fazendo uma campanha de oposição aos projetos de lei estaduais que buscam regular a prática do esporte eletrônico no País. As informações são do Canaltech.",
+            "url": "https://canaltech.com.br/esports/mercado-de-esports-se-manifesta-contra-regulamentacao-do-cenario-no-brasil-192262/"
+        },
+        {
+            "text": "Elon Musk afirma que pode desenvolver trajes espaciais lunares após NASA anunciar atraso: com dificuldades na confecção do equipamento de proteção, um pouso na Lua no final de 2024, conforme a NASA planeja atualmente, não é mais viável. Em seu perfil no Twitter, após saber da notícia, Musk afirmou que a SpaceX poderia produzir os trajes, se for necessário. A SpaceX já projetou trajes que foram usados em várias missões espaciais, mas que não serviriam para caminhadas na superfície da Lua. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/elon-musk-make-spacesuits-for-nasa"
+        },
+        {
+            "text": "Xiaomi lança robô quadrúpede “CyberDog”: o pequeno robô, similar ao “Spot” da Boston Dynamics, é totalmente open source e pode navegar por conta própria em qualquer ambiente, utilizando tecnologias de imagem dos smartphones da marca. Mil unidades (ao custo de aprox. 8 mil reais) serão vendias incialmente para fãs, engenheiros e entusiastas em robótica. As informações são do blog da Xiaomi.",
+            "url": "https://tecnoblog.net/477896/xiaomi-lanca-cao-robo-cyberdog-com-supercomputador-e-navegacao-inteligente/"
+        },
+        {
+            "text": "Google anuncia novas políticas de segurança online para crianças e adolescentes: dentre as novidades, qualquer pessoa com menos de 18 anos, seus pais ou responsáveis, poderá solicitar a remoção de suas imagens dos resultados de buscas no Google. As informações são do blog do Google.",
+            "url": "https://brasil.googleblog.com/2021/08/novas-politicas-criancas-adolescentes.html?m=1"
+        },
+        {
+            "text": "Signal agora permite mensagens temporárias por padrão: anteriormente, o recurso precisava ser habilitado em cada conversa. É também possível personalizar a duração de cada mensagem, desde poucos segundos até várias semanas. As informações são do blog do Signal.",
+            "url": "https://today.in-24.com/technology/223712.html"
+        },
+        {
+            "text": "Samsung lança nova linha de smartphones dobráveis nesta quarta-feira: a companhia deve apresentar novas versões do Galaxy Z Fold e Flip durante o evento “Galaxy Unpacked”. A Samsung já confirmou que não irá lançar novos dispositivos Note em 2021, trazendo, ao invés disso, os recursos de produtividade da linha, incluindo a S Pen, ao ecossistema Galaxy. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/08/11/heres-everything-samsung-announced-this-morning/"
+        }
+    ]
+}
