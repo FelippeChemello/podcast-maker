@@ -1,0 +1,47 @@
+{
+    "title": "Hacker devolve dinheiro / GitHub migra para Codespaces / Impostos em jogos",
+    "fps": 30,
+    "timestamp": 1628778866,
+    "date": "12/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Hacker do recente roubo de moedas digitais afirma não estar “interessado no dinheiro”: parte da quantia subtraída do projeto DeFi “Poly Network” já foi devolvida, cerca de 260 milhões de dólares dos 600 milhões roubados. A pessoa afirma estar “hackeando para o bem” e está pedindo doações após sua decisão de devolver os ativos roubados. Com informações dos sites Forbes e The Register.",
+            "url": "https://www.theregister.com/2021/08/11/poly_network_funds_returned/"
+        },
+        {
+            "text": "Equipe de engenharia do GitHub migra para Codespaces: a companhia afirma que ambientes de desenvolvimento locais são frágeis e fora de compasso com o mundo instantâneo e descentralizado atual. A mudança traz vantagens como ambientes provisionados sob demanda para cada tarefa e a possibilidade de atualização das especificações das máquinas de toda a organização com uma única linha de configuração (VMs com até 32 núcleos e 64 GB de RAM). As informações são do blog do GitHub.",
+            "url": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/"
+        },
+        {
+            "text": "Governo reduz impostos para jogos eletrônicos: para consoles, o IPI caiu de 30% para 20%. Acessórios terão uma redução de 22% para 12%. Máquinas de jogos de vídeo com tela incorporada, portáteis ou não, tiveram o imposto zerado. A medida tem o objetivo de incentivar o desenvolvimento do segmento no País. As informações são da Agência Brasil.",
+            "url": "https://economia.ig.com.br/2021-08-12/imposto-jogos-bolsonaro.html"
+        },
+        {
+            "text": "Dedalus e Intel lançam “Centro de Excelência” em computação em nuvem no Brasil: o local servirá como polo de inovação para especialistas na área, onde poderão experimentar produtos e serviços antes de serem implementados em empresas. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Cloud-Computing/Brasil-ganha-Centro-de-Excelencia-em-computacao-em-nuvem-57805.html"
+        },
+        {
+            "text": "Mercado Livre descarta compra dos Correios: a companhia prefere apostar na expansão de sua própria malha logística. Ao todo, o Mercado Livre irá investir 10 bilhões de reais no País neste ano e já possui oito grandes centros de distribuição, 18 centros de cross-docking, mais de 100 centros de última milha e 3 mil agências em parceria com pequenos estabelecimentos comerciais. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/11/08/2021/mercado-livre-descarta-compra-dos-correios/"
+        },
+        {
+            "text": "Xiaomi decide premiar compradores do seu primeiro modelo de celular: a companhia irá reembolsar todos os compradores do “Mi 1”, lançado há 10 anos. Ao total, o modelo vendeu 184.600 unidades, ao custo de aproximadamente 300 dólares. As informações são do site Android Authority.",
+            "url": "https://www.androidauthority.com/xiaomi-mi-1-refund-first-phone-2732724/"
+        },
+        {
+            "text": "Sony patenteia novo sensor de imagem que pode revolucionar câmeras de celular: o sensor, ao invés de plano, possui uma estrutura curva similar ao do olho humano, possibilitando um conjunto de lentes mais simples, aberturas maiores (maior entrada de luz) e uniformidade em toda a foto. As informações são do site Digital Camera World",
+            "url": "https://news.ycombinator.com/item?id=28137361"
+        },
+        {
+            "text": "Centenas de engenheiros estão trabalhando em novo sistema de anúncios do Facebook: a companhia está examinando diversas técnicas para fornecer anúncios personalizados, sem obter dados específicos das pessoas. Uma das tecnologias em teste roda algoritmos de personalização de anúncios localmente nos dispositivos, ao invés de enviar dados para os servidores do Facebook. As informações são do site The Verge.",
+            "url": "https://www.theverge.com/2021/8/6/22613525/facebook-nyu-research-ban-cambridge-analytica-platformer"
+        }
+    ]
+}
