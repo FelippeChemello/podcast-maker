@@ -144,7 +144,7 @@ export default class InstagramUploadService {
 
         await submitButton.click();
 
-        await page.waitFor(60000);
+        await page.waitFor(300000);
 
         await browser.close();
 

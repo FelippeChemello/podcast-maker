@@ -1,0 +1,47 @@
+{
+    "title": "Código-fonte das urnas / CEO gerado por computador / Open banking começa hoje",
+    "fps": 30,
+    "timestamp": 1628883188,
+    "date": "13/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "TSE antecipa abertura do código-fonte das urnas eletrônicas: partidos e técnicos poderão acompanhar o desenvolvimento do software que permite a votação e a totalização dos votos a partir de outubro deste ano, seis meses antes do prazo legal, ou seja, um ano antes das Eleições de 2022. As informações são da página de imprensa do TSE.",
+            "url": "https://www.tse.jus.br/eleicoes/urna-eletronica/seguranca-da-urna/apresentacao-dos-codigos-fonte"
+        },
+        {
+            "text": "Nvidia revela CEO gerado por computador em último evento da companhia: após Jensen Huang ter seu rosto, corpo e roupas escaneados, sua réplica virtual foi treinada utilizando uma inteligência artificial desenvolvida pela companhia para imitar seus gestos e expressões. O cenário atrás de Huang, uma cozinha, também foi totalmente reconstruído em 3D, com detalhamento preciso de cada objeto, até mesmo de parafusos. O CEO virtual apareceu por apenas 14 segundos durante a apresentação, mas não havia sido notado até agora. Com informações do site Vice e blog da Nvidia.",
+            "url": "https://canaltech.com.br/inovacao/nvidia-trocou-ceo-por-uma-copia-digital-do-executivo-e-quase-ninguem-percebeu-192609/"
+        },
+        {
+            "text": "Compartilhamento de dados do open banking começa nesta sexta-feira: o sistema permite o compartilhamento de dados pessoais e financeiros entre instituições financeiras. O objetivo é facilitar o acesso a produtos e serviços bancários, como empréstimos e cartões de crédito, em instituições nas quais o consumidor não possui relação comercial ainda. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/compartilhamento-de-dados-do-open-banking-comeca-hoje"
+        },
+        {
+            "text": "Anfavea estima que elétricos corresponderão entre 32% e 62% das novas vendas de veículos no Brasil em 2035: no entanto, carros com motores flex e diesel ainda serão maioria na frota no País. A associação de montadoras de veículos também acredita que apenas veículos “mais limpos” não reduzirão radicalmente as emissões de CO2, indicando a necessidade de políticas de inspeção veicular e renovação de frota mandatória. As informações são do site da Anfavea.",
+            "url": "https://olhardigital.com.br/2021/08/12/carros-e-tecnologia/carros-eletricos-brasil-2035-pesquisa/"
+        },
+        {
+            "text": "Operadoras concordam em adiar leilão do 5G se não houver aumento de preços: a área técnica do Tribunal de Contas da União tem criticado os termos propostos pela Anatel. As operadoras de telefonia querem que se mantenha a promessa de um leilão não arrecadatório, permitindo maiores investimentos e expansão mais rápida da nova tecnologia. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Telecom/Teles-admitem-adiar-o-5G-se-nao-houver-aumento-nos-precos-do-leilao-57816.html"
+        },
+        {
+            "text": "Nova IA consegue identificar primeiros sinais de demência com mais velocidade: o sistema, desenvolvido pelo Instituto Alan Turing, observa exames de ressonância magnética dos cérebros de pacientes e testes de memória, apresentando o resultado no mesmo dia, eliminando procedimentos invasivos, reduzindo o tempo necessário para um diagnóstico completo em meses e permitindo o início do tratamento o mais rápido possível. As informações são do site Cambridge Network.",
+            "url": "https://www.cambridgenetwork.co.uk/news/ai-speed-dementia-diagnosis"
+        },
+        {
+            "text": "Google lança novo codec de áudio neural de ponta a ponta: o “SoundStream” é o primeiro codec a funcionar com diferentes tipos de som, incluindo fala limpa, fala ruidosa e reverberante, música e sons ambientais ao mesmo tempo, podendo ser executado em tempo real em um smartphone, superando outros codecs de última geração, como Opus e EVS. As informações são do blog Google AI.",
+            "url": "http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html"
+        },
+        {
+            "text": "GitHub impede uso de senhas para autenticação em operações Git a partir desta sexta-feira: a partir das 16:00 UTC, a autenticação baseada em tokens será obrigatória para todas as operações Git (acesso pessoal, OAuth, chave SSH ou token de instalação do aplicativo GitHub). As informações são do blog do GitHub.",
+            "url": "https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/"
+        }
+    ]
+}
