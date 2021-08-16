@@ -1,0 +1,47 @@
+{
+    "title": "Tesouro Nacional é invadido / Real Digital / Lei contra celulares roubados",
+    "fps": 30,
+    "timestamp": 1629124326,
+    "date": "16/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Tesouro Nacional sofre ataque ransomware: segundo o Ministério da Economia, medidas de contenção precisaram ser tomadas após identificar uma invasão na noite de sexta-feira. A ação não gerou danos a sistemas estruturantes e medidas saneadoras já estão sendo tomadas. A Polícia Federal foi acionada. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-08/governo-investiga-ataque-hacker-rede-do-tesouro-nacional"
+        },
+        {
+            "text": "Real Digital reduzirá ainda mais o uso de dinheiro em papel, afirma Banco Central: o objetivo não é eliminar o papel-moeda, mas a tendência é que seu uso caia naturalmente, à medida que a população se torne mais confortável com meios de pagamentos digitais. Ainda sem previsão para lançamento, os estudos sobre o Real Digital devem durar mais dois ou três anos. As informações são da Agência Brasil.",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/real-digital-reduzira-ainda-mais-uso-de-dinheiro-em-papel"
+        },
+        {
+            "text": "Nova lei quer estabelecer regras para comércio de peças e de telefones celulares usados: pelo Projeto de Lei 417/2020, a compra e venda de aparelhos e peças de celulares usados apenas poderá ser realizada mediante registro prévio junto à administração pública. Plataformas de e-commerce também deverão exigir identificação e declaração de procedência lícita do celular vendido. O objetivo da lei é coibir o roubo e furto de celulares. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/13/08/2021/pl-estabelece-regras-para-comercio-de-pecas-e-de-telefones-celulares-usados/"
+        },
+        {
+            "text": "Embraer apresenta detalhes de novo avião turboélice movido à hidrogênio: o modelo, com capacidade para 90 passageiros, possui os motores montados na cauda, reduzindo o ruído dentro da cabine e facilitando a adição de tanques de combustível de hidrogênio. O avião é uma das grandes apostas da companhia para voos regionais. As informações são do site AERO Magazine.",
+            "url": "https://olhardigital.com.br/en/2021/08/14/carros-e-tecnologia/confira-primeiras-imagens-e-detalhes-sobre-aviao-a-hidrogenio-da-embraer/"
+        },
+        {
+            "text": "Robôs que pedem desculpas recuperam a confiança de humanos com mais facilidade: além disso, quando o robô é antropomórfico (com características humanas), é ainda mais fácil restaurar a confiança das pessoas. Segundo pesquisadores, robôs são definitivamente uma tecnologia, mas suas interações com humanos são sociais. As informações são da Universidade de Michigan.",
+            "url": "https://news.umich.edu/robots-who-goof-can-we-trust-them-again/"
+        },
+        {
+            "text": "Tesla consegue reciclar 92% das matérias-primas contidas em baterias: em 2020, 1.300 toneladas de níquel, 400 toneladas de cobre e 80 toneladas de cobalto foram extraídos de baterias recicladas. Ainda segundo a Tesla, suas baterias são projetadas para durar mais que os próprios veículos, com poucas baterias, retornando para reciclagem até o momento. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/tesla-recycle-batteries#:~:text=In%20its%202020%20Impact%20Report,have%20already%20begun%20to%20implement."
+        },
+        {
+            "text": "Amazon quer monitorar teclado e mouse de funcionários remotos: a ideia é autenticar pessoas pela forma como interagem digitalmente com dispositivos e aplicativos, avaliando movimentos do mouse e ritmo de digitação. A medida visa impedir que funcionários remotos, seus familiares e amigos, ou até mesmo hackers acessem dados de clientes. As informações são do site Vice.",
+            "url": "https://www.vice.com/en/article/dyvejq/amazon-monitor-employees-keyboard-mouse"
+        },
+        {
+            "text": "Samsung utiliza IA para desenhar processadores Exynos: o “DSOai”, sistema desenvolvido pela Synopsys, permite a exploração de opções e automação de decisões “menos consequentes”, amplificando significativamente o rendimento do processo de engenharia e design de chips. As informações são do site Ars Technica.",
+            "url": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
+        }
+    ]
+}
