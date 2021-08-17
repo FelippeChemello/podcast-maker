@@ -1,0 +1,47 @@
+{
+    "title": "Microsoft e Ethereum / GPUs da Intel / Energia solar orbital",
+    "fps": 30,
+    "timestamp": 1629234616,
+    "date": "17/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Microsoft quer utilizar blockchain Ethereum para combater pirataria: com o sistema “Argus”, a companhia acredita que campanhas antipirataria poderão ser realmente eficazes, fornecendo um mecanismo de incentivo totalmente transparente. Além disso, o sistema otimiza várias operações criptográficas para que o custo da identificação de conteúdos piratas seja reduzido a apenas 14 transações ETH, que de outra forma corresponderia a milhares de transações. As informações são do site Microsoft Research.",
+            "url": "https://canaltech.com.br/software/microsoft-planeja-usar-blockchain-da-ethereum-no-combate-a-pirataria-192851/"
+        },
+        {
+            "text": "Intel apresenta nova marca de GPUs de alto desempenho voltada a gamers e criadores de conteúdo: a primeira geração das placas de vídeo “Arc” será lançada no começo de 2022 com ray tracing baseado em hardware e supersampling orientado por inteligência artificial. As informações são da página de imprensa da Intel.",
+            "url": "https://www.theverge.com/2021/8/16/22626912/intel-arc-gpu-brand-alchemist-codename-release-date"
+        },
+        {
+            "text": "China vai iniciar testes com tecnologia para captação de energia solar através de painéis orbitais: a estação de Bishan já utilizou balões posicionados a 300m de altitude para realizar a transmissão de energia por microondas a uma base terrestre. A ideia final é coletar energia solar de painéis solares em órbita. Até 2050, a China planeja instalar uma estação de energia solar comercial em escala de gigawatts de potência utilizando a tecnologia. As informações são do site The Register.",
+            "url": "https://www.theregister.com/2021/08/12/nasa_bennu_collision/"
+        },
+        {
+            "text": "Cada Starship poderá viajar a Marte “uma dúzia de vezes”, afirma Elon Musk: a nave espacial terá uma vida útil de aproximadamente 30 anos e também será extremamente econômica para missões em órbita terrestre ou lunares. Musk já havia dito no passado que cada missão com a Starship custaria apenas 1,3% de cada lançamento atual da NASA. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/starship-travel-mars-dozen"
+        },
+        {
+            "text": "Cientistas ingleses lançam software para auxiliar criadores de abelhas: o “BEE-STEWARD” simula a taxa de sobrevivência de uma colônia de abelhas em um determinado local, permitindo a pesquisadores e fazendeiros testarem diferentes técnicas de gerenciamento de terras e descobrir quais lugares podem ser mais benéficos para as abelhas. As informações são da página de imprensa da Universidade de Exeter.",
+            "url": "https://www.exeter.ac.uk/news/research/title_872443_en.html"
+        },
+        {
+            "text": "Empresa anuncia bateria de estado sólido impressa em 3D que rivaliza tecnologias atuais de íons de lítio: a Sakuú afirma que conseguiu aumentar a capacidade de energia de suas baterias em 100 vezes no último ano, com eficiência energética volumétrica 12 vezes maior. A nova bateria é adequada para várias aplicações, sejam de consumo, aeroespacial ou mobilidade com vantagens em segurança e densidade de energia. As informações são da IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/3d-printing-solid-state-battery-lithium-ion"
+        },
+        {
+            "text": "Código “0303” pode ser criado para identificar ligações de telemarketing: através do código, o consumidor poderá identificar rapidamente ligações com ofertas de produtos e serviços. A última atualização do ranking do Procon com as empresas que mais perturbam com ligações indesejadas colocou em primeiro lugar a Vivo, com 3.743 ligações, seguida pela rede de assistência médica “Dr de Todos” (3.077 ligações) e Claro (2.524). Com informações da Agência Brasil e Procon-SP.",
+            "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-08/codigo-0303-pode-ser-criado-para-identificar-ligacoes-de-telemarketing"
+        },
+        {
+            "text": "Detran de São Paulo tem vazamento de 2 milhões de dados: os dados estariam à venda por 200 dólares em um fórum para cibercriminosos contendo informações como nome completo, número do documento e placa do veículo. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/seguranca/223168-detran-sp-tem-vazamento-2-milhoes-dados.htm"
+        }
+    ]
+}
