@@ -1,0 +1,47 @@
+{
+    "title": "Deepfakes em empresas / WhatsApp e Talibã / Fusão nuclear por ignição",
+    "fps": 30,
+    "timestamp": 1629297202,
+    "date": "18/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Empresas adotam deepfakes para conseguir maior engajamento entre funcionários e clientes: a empresa de publicidade WPP tem criado mensagens corporativas internas em diferentes idiomas, sem a necessidade de filmar várias vezes seus executivos. Na firma de consultoria EY, a tecnologia tem sido usada em comunicações com clientes, através de lembretes de reunião em vídeos gerados automaticamente ou em apresentações em outras línguas. As informações são do site Wired.",
+            "url": "https://www.wired.com/story/deepfakes-making-business-pitches/"
+        },
+        {
+            "text": "WhatsApp não consegue banir o Talibã porque não pode ler suas mensagens: o grupo tem utilizado o aplicativo para se comunicar com cidadãos durante o processo de tomada de poder no Afeganistão. No entanto, conteúdos relacionados ao Talibã serão banidos do Facebook e Instagram. As informações são dos sites Fast Company e Vice.",
+            "url": "https://theintercept.com/2021/08/17/taliban-spokesman-accuses-facebook-stifling-free-speech-banning-group/"
+        },
+        {
+            "text": "Fusão por ignição é atingida pela primeira vez: o reator do Laboratório Nacional Lawrence Livermore utiliza um sistema de lasers para aquecer deutério e trítio, produzindo plasma. Além disso, o experimento pode permitir o estudo de novos estados da matéria em laboratório, incluindo aqueles encontrados em estrelas e supernovas. As informações são do site Phys.",
+            "url": "https://phys.org/news/2021-08-major-nuclear-fusion-milestone-ignition.html"
+        },
+        {
+            "text": "Ceará aprova primeiro projeto para a regulamentação de IAs no Brasil, mas texto é criticado: segundo a Associação Brasileira das Empresas de Software, a lei impõe supervisão humana a todos os sistemas de inteligência artificial, sem critério ou distinção de aplicação, trazendo insegurança jurídica e inibindo a inovação no setor. Para Rodolfo Fücher, presidente da associação, uma interpretação equivocada da lei poderia inviabilizar desde aplicativos de delivery, até soluções críticas como de segurança e saúde. As informações são do site Mobile Time.",
+            "url": "https://www.mobiletime.com.br/noticias/13/08/2021/especialista-defende-regulacao-setorial-para-uso-de-ia-no-brasil/"
+        },
+        {
+            "text": "Natura inicia testes técnicos com drones: a tecnologia poderá ser utilizada para entregas de produtos para consultoras e representantes da marca. O projeto também tem o potencial de contribuir com a meta do grupo de atingir zero emissões de carbono até 2030. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/mercado/223262-natura-avon-iniciam-testes-entregas-drones.htm"
+        },
+        {
+            "text": "Brasil possui 250,6 mil empresas de TI: no primeiro semestre deste ano, já foram criadas 16 mil novas empresas, crescimento de 64% em comparação com todo o ano de 2020. São Paulo, Rio de Janeiro e Minas Gerais são os líderes nacionais do setor. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Negocios/Brasil-criou-16-mil-empresas-de-TI-no-1%BA-semestre.-Outras-cinco-mil%2C-porem%2C-foram-desativadas-57871.html"
+        },
+        {
+            "text": "EUA oferecem até 10 milhões de dólares para hackers “White Hat”: o programa procura por informações que levem à identificação ou localização de qualquer pessoa agindo sob a direção de um governo estrangeiro em atividades cibernéticas maliciosas contra infraestruturas críticas do país. As informações deverão ser enviadas por meio de um portal seguro na dark web e o valor poderá ser pago em moedas digitais. As informações são do site Proactive Investors.",
+            "url": "https://www.proactiveinvestors.co.uk/companies/news/957887/white-hat-hackers-offered-millions-in-crypto-by-us-state-department-to-track-down-cyber-threats-957887.html"
+        },
+        {
+            "text": "Projeto DeFi oferece cargo e recompensa a hacker que roubou 610 milhões de dólares: a Poly Network está convidando o autointitulado “Mr. White Hat” para o cargo de conselheiro chefe de segurança e está oferecendo-lhe um bounty de 500 mil dólares. A maior parte do valor roubado já foi recuperado, mas o hacker ainda não entregou a sua chave da carteira multisig que a Poly Network configurou para a devolução. As informações são do site Coin Telegraph.",
+            "url": "https://cointelegraph.com/news/poly-network-hack-exposes-defi-flaws-but-community-comes-to-the-rescue"
+        }
+    ]
+}
