@@ -1,0 +1,47 @@
+{
+    "title": "Streamers anunciam greve / TVs contra redes sociais / Novo golpe com SMS e Pix",
+    "fps": 30,
+    "timestamp": 1629383704,
+    "date": "19/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Streamers brasileiros da Twitch lançam sindicato e anunciam greve: uma paralisação de 24 horas na produção de conteúdo foi marcada para a próxima segunda-feira (23/ago). Os streamers estão insatisfeitos com a recente redução de 65% no preço da “sub” padrão no Brasil, para 7,90 reais. As informações são do TecMundo.",
+            "url": "https://www.tecmundo.com.br/voxel/223337-twitch-grupos-streamers-lancam-sindicato-greve.htm"
+        },
+        {
+            "text": "Emissoras de TV defendem responsabilização de plataformas e redes sociais por propagação de fake news: Marcelo Bechara, diretor de relações institucionais do grupo Globo, acredita que provedores de conteúdo na internet devem ser considerados corresponsáveis, já que recebem dinheiro para viralizar esse tipo de informaçao. No entanto, Francisco Brito Cruz, diretor da InternetLab, caso as plataformas sejam responsabilizadas pelas postagens de usuários, elas serão incentivadas a emitir juízo de valor sobre os conteúdos, coibindo a liberdade de expressão de conteúdo muitas vezes legítimo. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Internet/TVs-querem-responsabilizar-plataformas-e-redes-sociais-por-fake-news-57866.html"
+        },
+        {
+            "text": "Novo golpe envolve SMS e Pix: a Kaspersky alerta que criminosos estão enviando mensagens de texto oferecendo descontos para o pagamento de faturas de cartão de crédito e celular através de um Pix para uma chave falsa. A campanha está sendo realizada por meio de short-codes, números de telefone curtos que deveriam ser utilizados exclusivamente pelas operadoras e grandes empresas, trazendo maior credibilidade ao golpe. Os criminosos estão. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/481647/pix-e-usado-como-isca-em-novos-golpes-via-sms-para-roubar-dinheiro/"
+        },
+        {
+            "text": "Talibã apreende dispositivos biométricos militares dos EUA: os dispositivos poderão identificar afegãos que ajudaram as forças da coalizão no país. A USAID, braço humanitário dos EUA, está pedindo que parceiros removam fotos com afegãos das redes sociais, com receio que essas imagens possam comprometer a segurança daqueles que ficaram no país. As informações são dos sites The Intercept e Wired.",
+            "url": "https://theintercept.com/2021/08/17/afghanistan-taliban-military-biometrics/"
+        },
+        {
+            "text": "NASA celebra 100 anos do criador da série Star Trek nesta quinta-feira: a agência irá transmitir uma gravação de 1976 com observações de Gene Roddenberry sobre diversidade e inclusão por meio da Deep Space Network, rede de antenas internacionais com a função de realizar comunicações com naves espaciais. Roddenberry faria 100 anos hoje. As informações são da página de imprensa da NASA.",
+            "url": "https://www.nasa.gov/press-release/nasa-helps-celebrate-star-trek-creator-gene-roddenberrys-centennial"
+        },
+        {
+            "text": "Implante robótico pode operar estação de medicamentos contínua dentro do corpo humano: o sistema seria reabastecido periodicamente através da ingestão de cápsulas que se atracam mecanicamente ao dispositivo. A técnica seria muito útil na reposição de hormônios como a insulina e em tratamentos quimioterápicos. As informações são do site IEEE Spectrum.",
+            "url": "https://spectrum.ieee.org/how-robots-became-essential-workers-in-the-covid19-response"
+        },
+        {
+            "text": "Primeiro “Relatório de Conteúdo Amplamente Visualizado” do Facebook é amplamente criticado: a companhia não teria compartilhado dados de engajamento na rede social, trazendo apenas informações sobre posts que foram incluídos nos feeds de usuários. Segundo o relatório, a maioria dos posts são de amigos e familiares (57%), Grupos (19,3%) e Páginas (14,3%). Apenas 9,5% de todas as visualizações de conteúdo do Feed vieram de conteúdo não compartilhado (como notícias). As informações são da página Transparency Center do Facebook, TechCrunch e Wired.",
+            "url": "https://transparency.fb.com/data/widely-viewed-content-report/"
+        },
+        {
+            "text": "“Novi”, carteira digital do Facebook, está pronta para lançamento: a companhia está apenas aguardando autorizações regulatórias. A Novi é vinculada ao Diem, sistema de pagamento baseado em blockchain do Facebook, e permitirá a transferência de valores, nacional e internacionalmente. As informações são do site Business Insider.",
+            "url": "https://www.businessinsider.com/facebook-novi-digital-wallet-diem-crypto-payments-blockchain-david-marcus-2021-8"
+        }
+    ]
+}
