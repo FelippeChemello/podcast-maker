@@ -1,0 +1,47 @@
+{
+    "title": "Robô da Tesla / Renner atacada / Notícia da Twitch “imprecisa”",
+    "fps": 30,
+    "timestamp": 1629487062,
+    "date": "20/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Elon Musk apresenta planos para o robô humanoide “Tesla Bot”: durante o evento “Tesla AI Day”, que ocorreu nesta última quinta-feira, Elon Musk afirmou imaginar um mundo no qual tarefas cotidianas, das quais as pessoas “menos gostam de fazer”, poderão ser realizadas por robôs como o Tesla Bot. O robô tem cerca de 1,72m de altura, pesa 56 kg, pode levantar pesos de 68 kg, caminha a 8 km/h e tem uma tela no lugar do rosto que exibe “informações importantes”. O Tesla Bot utilizará todo o conhecimento da empresa em redes neurais e seu novo supercomputador chamado “Dojo”. Um protótipo do Tesla Bot é esperado para 2022. As informações são do site TechCrunch.",
+            "url": "https://techcrunch.com/2021/08/19/musk-the-tesla-bot-is-coming/"
+        },
+        {
+            "text": "Lojas Renner sofre ataque ransomware: de acordo com o site TecMundo, imagens divulgadas em redes sociais mostram que a empresa estaria sendo extorquida em 1 bilhão de dólares. Apesar da principal página da empresa estar fora do ar, a empresa afirma que seus bancos de dados estão preservados e que as lojas físicas estão abertas e operando. Em uma das imagens supostamente vazadas, os criminosos afirmam que “são apenas negócios” e estão “unicamente interessados em dinheiro”. As informações são do site TecMundo e Convergência Digital.",
+            "url": "https://www.tecmundo.com.br/seguranca/223412-lojas-renner-sai-ar-infeccao-ransomware.htm"
+        },
+        {
+            "text": "Leitores da Newsletter apontam imprecisões na notícia de greve dos streamers brasileiros na Twitch: segundo a leitora Andressa, os criadores de conteúdo da plataforma estariam “bravos” com a alteração do preço do sub “Tier 1” (referência de valor para repasses do sub “Prime”), passando a receber cerca de 5 reais por pessoa inscrita, 30% do valor pago anteriormente e “dificultando a vida” de streamers com públicos menores. Para o leitor Eduardo, que é streamer na Twitch, não foi a redução no preço do sub que causou sua “indignação”, mas a não regionalização dos valores do repasse, além de precisar pagar 30% de imposto para o governo dos EUA. Entretanto, Eduardo afirma que a redução no valor da assinatura é “ótima” por ser mais acessível, permitindo que mais pessoas ajudem os criadores de conteúdo.",
+            "url": "https://filipedeschamps.com.br/newsletter"
+        },
+        {
+            "text": "Estudo afirma que jogar videogame queima tantas calorias quanto fazer abdominais: partidas de duas horas seguidas dos jogos FIFA e CoD gastariam cerca de 450 calorias, a mesma quantidade de energia gasta em mil abdominais. O estudo foi realizado por uma plataforma de eSports, a Stakester. As informações são do jornal New York Post.",
+            "url": "https://nypost.com/2021/08/16/gamers-may-burn-over-200-calories-in-one-hour-of-play-study/"
+        },
+        {
+            "text": "Criminoso é exposto ao tentar convencer “funcionário” a instalar ransomware na própria empresa: a ideia seria compartilhar parte do valor proposto para o resgate, de 1 milhão de dólares. No entanto, a pessoa não sabia que estava falando com Crane Hassold, diretor de inteligência de ameaças da Abnormal Security. O valor do resgate seria usado no financiamento de uma nova rede social que ele estava desenvolvendo, chamada “Sociogram”. Após a publicação da tentativa de extorsão digital, o criminoso suplicou para que a reputação da Sociogram não fosse prejudicada. As informações são do site Krebs on Security.",
+            "url": "https://krebsonsecurity.com/2021/08/wanted-disgruntled-employees-to-deploy-ransomware/"
+        },
+        {
+            "text": "91 grupos de direitos civis, humanos e digitais de todo o mundo assinam carta aberta condenando novo sistema de vigilância da Apple: essas entidades, que incluem as brasileiras IBIDEM, IRIS, ILD, Instituto Nupef, IPrec e ISOC Brazil, pedem que a Apple abandone os planos de escanear dispositivos em busca de material de abuso infantil, sistema que poderá levar à censura, vigilância e perseguição em uma base global. As informações são do site The Register.",
+            "url": "https://www.reuters.com/technology/exclusive-policy-groups-ask-apple-drop-plans-inspect-imessages-scan-abuse-images-2021-08-19/"
+        },
+        {
+            "text": "Agência espacial japonesa testa com sucesso primeiro motor de detonação rotativo no espaço: a propulsão é gerada através de uma série de explosões controladas que giram em torno de um canal circular, resultando em uma grande quantidade de empuxo e utilizando significativamente menos combustível. O motor tem o potencial de virar o jogo na exploração do espaço profundo, de acordo com JAXA. As informações são do site Futurism.",
+            "url": "https://futurism.com/the-byte/japan-tests-exploding-rocket-engine-first-time-space"
+        },
+        {
+            "text": "Programa de aceleração de startups do Google no Brasil completa 5 anos: desde 2016, mais de 250 startups participaram do “Google for Startups”, levantando mais de 35 bilhões de reais em investimento e gerando mais de 15 mil empregos. Cinco delas tornaram-se unicórnios (Creditas, Loft, Loggi, Nubank e QuintoAndar). As informações são do blog do Google Brasil.",
+            "url": "https://brasil.googleblog.com/2021/08/cinco-anos-de-google-for-startups-no.html"
+        }
+    ]
+}
