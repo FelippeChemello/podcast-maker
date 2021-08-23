@@ -1,0 +1,47 @@
+{
+    "title": "Maior ataque DDoS da história / Roblox “explora” jovens / Sistema “perigoso” da Apple",
+    "fps": 30,
+    "timestamp": 1629730361,
+    "date": "23/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta segunda-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Cloudflare impede maior ataque DDoS da história: o pico de 17,2 milhões de solicitações por segundo (rps) é quase três vezes maior que o recorde anterior, atingindo 68% da taxa média de tráfego HTTP legítimo servido pela empresa no segundo trimestre deste ano. O ataque visava uma empresa setor financeiro, com o tráfego originando-se de mais de 20 mil botnets em 125 países, indicando muitos dispositivos infectados por malware ao redor do mundo. As informações são do blog da Cloudflare.",
+            "url": "https://blog.cloudflare.com/cloudflare-thwarts-17-2m-rps-ddos-attack-the-largest-ever-reported/"
+        },
+        {
+            "text": "YouTuber acusa Roblox de “explorar” jovens desenvolvedores de jogos: Quintin Smith, do canal “People Make Games”, afirma que o sistema de troca da moeda virtual “Robux” dificulta a forma como desenvolvedores ganham dinheiro com a plataforma e mostra como a Roblox incentiva jovens desenvolvedores de jogos com “expectativas absurdas” de sucesso. As informações são do site Eurogamer.",
+            "url": "https://www.eurogamer.net/articles/2021-08-20-roblox-exploiting-young-game-developers-new-investigation-reports"
+        },
+        {
+            "text": "Pesquisadores da Universidade de Princeton afirmam que novo sistema contra abuso infantil da Apple é “perigoso”: acadêmicos da instituição já haviam criado um sistema utilizando uma abordagem similar e alertam contra problemas em sua arquitetura. O sistema pode ser facilmente reaproveitado para vigilância e censura governamental, e o processo de correspondência de conteúdo pode resultar em falsos positivos, possibilitando que usuários mal-intencionados manipulem o sistema para prejudicar pessoas inocentes. As informações são do jornal The Washington Post.",
+            "url": "https://www.washingtonpost.com/opinions/2021/08/19/apple-csam-abuse-encryption-security-privacy-dangerous/"
+        },
+        {
+            "text": "Mercado Livre, Polícia Civil e Procon irão colaborar para coibir venda de itens ilegais: com o acordo, não será mais necessária uma ordem judicial para a retirada de anúncios e ofertas de produtos ilegais da plataforma. Segundo a empresa, cerca de 90% dos anúncios irregulares são identificados automaticamente pelo próprio sistema da empresa. As informações são do Tecnoblog.",
+            "url": "https://tecnoblog.net/483004/mercado-livre-e-procon-sp-vao-colaborar-para-barrar-venda-de-itens-ilegais/"
+        },
+        {
+            "text": "WhatsApp se compromete a realizar ajustes em nova política de privacidade no Brasil: o aplicativo vai se submeter às recomendações da ação conjunta promovida pela ANPD, Cade, Ministério Público Federal e Senacon para refletir práticas de transparência nos moldes em que já realiza para usuários da União Europeia. As informações são do site Convergência Digital.",
+            "url": "https://www.convergenciadigital.com.br/Internet/WhatsApp-cede-a-pressao-e-deixa-de-exigir-adesao-a-nova-politica-de-privacidade-57916.html"
+        },
+        {
+            "text": "Justiça condena Vivo e Facebook a indenizar cliente após clonagem do WhatsApp: na ação, a consumidora culpa a operadora pelo acesso de terceiros a sua linha telefônica. As empresas precisarão pagar 3.344 reais por danos materiais à vítima (valor que foi transferido pela irmã da vítima aos criminosos durante o golpe), além de 3 mil por danos morais. A juíza do caso também cobrou das empresas providências para evitar esse tipo de crime. As informações são do site Minha Operadora.",
+            "url": "https://www.migalhas.com.br/quentes/350384/vitima-de-clonagem-do-whatsapp-sera-indenizada-por-operadora"
+        },
+        {
+            "text": "IA identifica câncer de pulmão em exames de sangue com precisão de 90%: a ferramenta de diagnóstico analisa fragmentos de ácido nucleico que podem indicar a presença de células tumorais na corrente sanguínea. A tecnologia permite que casos da doença sejam identificados mais cedo, melhorando as chances de tratamentos bem sucedidos. As informações são do site Futurism.",
+            "url": "https://futurism.com/neoscope/ai-blood-test-lung-cancer"
+        },
+        {
+            "text": "Coinbase será primeira empresa de capital aberto a investir em ativos digitais diversificados: a companhia irá converter 500 milhões de dólares que possui caixa em um portfólio variado de moedas digitais. Além disso, 10% do lucro líquido de cada trimestre será alocado para novas compras. A Coinbase acredita que no futuro mais empresas manterão ativos criptográficos em seus balanços. As informações são do blog da Coinbase.",
+            "url": "https://www.barrons.com/articles/coinbase-stock-price-digital-assets-balance-sheet-51629463010"
+        }
+    ]
+}
