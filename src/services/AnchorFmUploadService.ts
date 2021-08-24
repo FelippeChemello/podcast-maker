@@ -159,6 +159,7 @@ export default class AnchorFmUploadService {
             `Setting description to: \n${description}`,
             'AnchorFmUploadService',
         );
+        await page.waitForSelector('textarea')
         await page.type('textarea', description);
 
         log('Uploading Thumbnail', 'AnchorFmUploadService');

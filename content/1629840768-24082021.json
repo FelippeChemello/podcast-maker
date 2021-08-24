@@ -1,0 +1,47 @@
+{
+    "title": "Golpe “Rei do Pix” / Tecnologias “hype” / Espionagem no MP",
+    "fps": 30,
+    "timestamp": 1629840768,
+    "date": "24/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Golpe “Rei do Pix” vem ganhando popularidade nas redes sociais: em troca de transferências Pix legítimas, criminosos estão oferecendo valores múltiplos de volta. O valor recebido, entretanto, vem de contas comprometidas ou cartões clonados. O golpe também é vendido como uma oportunidade de negócio e, nesse caso, as vítimas não podem ser responsabilizadas criminalmente. As informações são do Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Gartner apresenta o “Hype Cycle for Emerging Technologies” de 2021: o relatório destaca as 25 tecnologias que terão efeito mais significativo sobre os negócios e a sociedade nos próximos anos. NFTs (tokens não-fungíveis), humanos digitais (representações digitais de pessoas) e IA informada pela física (ou PIAI, inteligência artificial mais flexível e adaptável) são algumas das tecnologias com amplo impacto potencial. Além disso, o relatório aponta que inteligências artificiais para geração de código ainda levarão de 5 a 10 anos para repercutir no mercado. Com informações da Gartner e ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Conselho quer rastrear todas as compras de equipamentos e softwares de espionagem do Ministério Público: as aquisições, generalizadas entre promotores e procuradores, estariam sendo camufladas através de nomes genéricos nas prestações de contas como “equipamento tecnológico” e “software para comunicação interativa”. O CNMP agora quer ter conhecimento de todos os meios de investigação eventualmente utilizados pelo Ministério Público brasileiro e que possam atingir direitos e garantias individuais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lojas Renner nega ter pago 100 milhões de reais em regaste para restabelecer sistemas: em comunicado oficial nesta terça-feira, a companhia afirma que não fez nenhum contato com os autores do ataque ransomware, nem realizou o pagamento de resgate. Todos os sistemas da empresa já foram restabelecidos, com bancos de dados preservados e sem perdas de informação relevantes. As informações são Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Geração Z brasileira acredita em futuro com moedas digitais: segundo uma recente pesquisa da Yubo, 35% dos jovens entre 13 e 24 anos já investiram nesse tipo de ativo e 75% acredita que as moedas digitais serão o futuro da economia. As informações são do Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Centro de Tecnologia da Informação em Campinas utiliza tecnologia de foguetes em próteses: além da liga de titânio, alumínio e vanádio, muito empregada na parte estrutural tanto de foguetes quanto de aeronaves de combate, o centro utiliza tecnologia aeroespacial na digitalização, simulação computacional e impressão 3D de órteses e próteses. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Fundo Monetário Internacional propõe o uso do histórico de navegação para pontuação de crédito individual: segundo o FMI, fontes de dados alternativas como o histórico de navegação e comportamento de compras online, aliadas a algoritmos de inteligência artificial são frequentemente superiores aos métodos tradicionais de avaliação de crédito. As informações são do site ExtremeTech.",
+            "url": ""
+        },
+        {
+            "text": "Novo recorde em transmissão de dados 6G: o teste, realizado pela LG, demonstra pela primeira vez a aplicação bem-sucedida de um novo amplificador de potência e uma tecnologia de formação de feixes adaptativa que poderia tornar viável o espectro de comunicação de rádio terahertz da próxima geração 6G. As frequências terahertz atualmente têm um alcance muito limitado e perdem muita energia ao passar por antenas. As informações são do site Interesting Engineering.",
+            "url": ""
+        }
+    ]
+}
