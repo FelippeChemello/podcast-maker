@@ -1,0 +1,47 @@
+{
+    "title": "Nave espacial “quilométrica” da China / IA supera humanos / Samsung “bricka” TVs",
+    "fps": 30,
+    "timestamp": 1629926286,
+    "date": "25/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quarta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "China quer construir nave espacial gigante, com quilômetros de extensão: a nave seria modular e precisaria ser montada no espaço porque seria muito pesada para ser lançada de uma única vez. O equipamento seria estratégico na exploração de recursos espaciais, estudo do universo e permanência em órbita de longo prazo. As informações são do site SCMP.",
+            "url": ""
+        },
+        {
+            "text": "IA do Alibaba supera os humanos na compreensão de imagens pela primeira vez: o modelo “AliceMind” ganhou o primeiro lugar na competição global “Visual Question Answering Challenge” de 2021. O algoritmo registrou uma taxa de precisão de 81,26%, comparado a 80,83% dos humanos. As informações são do site SCMP.",
+            "url": ""
+        },
+        {
+            "text": "Samsung consegue “brickar” smart TVs da marca remotamente: um aplicativo chamado “Block TV”, instalado de fábrica em cada aparelho, se conecta aos servidores da Samsung quando identifica uma conexão com a Internet. O dispositivo relata seu número de série e, se corresponder a uma lista de TVs roubadas, todas as suas funções são travadas remotamente. A Samsung revelou o sistema recentemente após o roubo de TVs em um de seus armazéns na África do Sul.",
+            "url": ""
+        },
+        {
+            "text": "Sistema autônomo da Tesla “na verdade, não é muito bom”, diz Elon Musk: a equipe de inteligência artificial da companhia, no entanto, está se esforçando para melhorar o sistema o mais rápido possível, continuou Musk em seu perfil no Twitter. O desafio seria montar uma stack única para rodovias e cidades, requerendo um grande treinamento da rede neural.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Federal lança operação “Script Kiddie” e prende três suspeitos de invadir site do TSE: o ataque, um defacement da página inicial do tribunal, ocorreu em junho deste ano. Em nota, o TSE afirma não ter identificado elementos que possam ter prejudicado a segurança do sistema eleitoral. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Governo promove hackathon com prêmios de 30 mil reais: o desafio é construir soluções digitais para melhorias na “Plataforma +Brasil”, ferramenta responsável pelas várias modalidades de transferências de recursos da União. O evento “Rede +Brasil” ocorre entre os dias 8 a 15 de setembro e será online. As informações são do site do Serpro.",
+            "url": ""
+        },
+        {
+            "text": "Estudo revela problemas graves com GitHub Copilot: acadêmicos de engenharia da Universidade de Nova York criaram 89 projetos, resultando em 1.692 programas, com cerca de 40% deles contendo falhas ou vulnerabilidades que poderiam ser exploradas por um invasor. Para os pesquisadores, “não há dúvida” de que essas ferramentas de próxima geração aumentarão a produtividade de desenvolvedores, mas é preciso permanecer vigilante. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Linux faz aniversário de 30 anos nesta quarta-feira: em 25 de agosto de 1991, Linus Torvalds, com 21 anos e estudante da Universidade de Helsinque, na Finlândia, comunicava ao mundo que estava desenvolvendo um sistema operacional, semelhante ao Unix, apenas como hobby. Hoje o Linux roda na grande maioria dos servidores voltados para a web e domina o mundo dos supercomputadores, com 100% do mercado. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
