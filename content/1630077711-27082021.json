@@ -1,0 +1,47 @@
+{
+    "title": "Garoto fatura milhões com NFTs / Mudanças no Pix / Novas regras em testes de urnas",
+    "fps": 30,
+    "timestamp": 1630077711,
+    "date": "27/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta sexta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Garoto de 12 anos fatura 2 milhões de reais com NFTs de baleias que ele mesmo programou: Benyamin Ahmed criou a “Weird Whales”, uma série de obras de arte pixeladas. O pai de Benyamin, um desenvolvedor de software, o incentivou a começar a programar desde os cinco anos de idade, praticando 30 minutos por dia. Benyamin já está trabalhando na sua próxima coleção de arte digital com o tema de super-heróis. Seu trabalho está no repositório “benyaminahmed” no GitHub. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Banco quer mudanças em regras do Pix: as instituições querem que o Banco Central flexibilize as regras para alteração dos limites de transferência, diferenciados por plataforma (celular, computador ou caixa eletrônico) e por horário. O motivo seria a popularidade do uso do Pix em golpes e crimes. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "TSE divulga novas regras para teste de segurança das urnas eletrônicas: o hardware dos equipamentos agora poderá ser analisado por até 15 especialistas, instituições acadêmicas ou órgão públicos (cada equipe de até cinco pessoas). Novos programas foram disponibilizados para investigação, incluindo sistemas de apoio à auditoria de funcionamento e o código-fonte da própria urna. O tempo permitido para o processo de inspeção também foi ampliado para duas semanas. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "China quer regular algoritmos de recomendação em serviços de internet: a nova legislação pode proibir algoritmos que encorajem vícios, consumo exagerado, ponham em risco a segurança nacional ou perturbem a ordem pública. Usuários também poderão desligar facilmente as recomendações de algoritmos. Empresas que tiverem o poder de influenciar a opinião pública ou mobilizar a população precisarão obter uma autorização especial do governo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "McAfee descobre vulnerabilidades em bombas de infusão utilizadas em hospitais de todo o mundo: um invasor com acesso à rede de uma unidade de saúde poderia modificar a configuração dessas bombas, resultando em doses inesperadas de medicamentos, tudo sem nenhuma autenticação. As falhas foram reportadas ao fabricante das bombas, que já adotou soluções de segurança. As informações são do blog da McAfee.",
+            "url": ""
+        },
+        {
+            "text": "Snapchat atualiza recurso de busca visual: o “Scan” consegue identificar tipos de roupas, vinhos, raças de cães, plantas, modelos de carros e informações nutricionais de alimentos. A ferramenta também pode fazer recomendações, como artigos de roupas similares ou receitas baseadas nos ingredientes fotografados. A empresa vê um grande potencial para o Scan na nova versão que está desenvolvendo do Spectacles, óculos de realidade aumentada. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Dona do TikTok teria comprado empresa de óculos de realidade virtual: há rumores de que a Bytedance teria adquirido a chinesa Pico por 771 milhões de dólares. O TikTok lançou nesta semana o Effect Studio, plataforma que permite a desenvolvedores construir filtros com efeitos de realidade aumentada. As informações são do site Pandaily.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores japoneses transformam qualquer superfície plana em tela de toque: o sistema requer apenas uma câmera e projetor sincronizados para produzir a interface, eliminando a necessidade de sensores de profundidade ou fontes de luz adicionais. A pesquisa pode levar à criação de projetores portáteis que podem criar grandes monitores interativos em qualquer lugar. As informações são do Instituto de Ciência e Tecnologia de Nara.",
+            "url": ""
+        }
+    ]
+}
