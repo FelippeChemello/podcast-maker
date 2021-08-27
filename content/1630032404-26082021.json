@@ -1,0 +1,47 @@
+{
+    "title": "Governo decreta limite em Data Centers / Python supera JavaScript / Real digital avança",
+    "fps": 30,
+    "timestamp": 1630032404,
+    "date": "26/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Governo limita resfriamento em data centers públicos: o Decreto 10.779 estabelece que órgãos e entidades precisarão reduzir o consumo de energia elétrica em 20% até abril de 2022, por conta da seca prolongada e risco de um racionamento de energia no País. Em específico, data centers deverão ser resfriados até o tecnicamente necessário, prevendo o limite de 24 graus para esses ambientes. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Python é a linguagem de programação mais popular sugere nova pesquisa: a IEEE Spectrum utiliza uma metodologia que combina 11 métricas de fontes como o GitHub, Stack Overflow Google, e Twitter para montar o seu ranking. Ainda de acordo com a pesquisa, o Python domina como plataforma para o desenvolvimento de novas tecnologias. Java continua bem ranqueado, em segundo lugar, seguido por C e C++. JavaScript ocupa a quinta posição do ranking, linguagem que vinha ganhando as pesquisas de popularidade mais recentes. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Real digital está avançando “bastante rápido”, afirma presidente do Banco Central: a instituição já estuda a tecnologia que será utilizada para a moeda digital, uma extensão do Real, voltada para uso no varejo. As informações são do site Poder360.",
+            "url": ""
+        },
+        {
+            "text": "Google teria pago 15 bilhões de dólares à Apple para continuar como buscador padrão de iPhones em 2021: o valor deve chegar a 20 bilhões em 2022 garantindo que a Microsoft fique de fora da disputa com o Bing, afirmam analistas de negócios da Bernstein. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Hyperloop da Virgin promete viagens em velocidade de cruzeiro de aviões: cada “Pod” utilizará um sistema de levitação magnética e de propulsão, 10 vezes mais eficiente do que os trens maglev de última geração, para viajar até 1080 km/h. No entanto, o engenheiro ferroviário Gareth Dennis, crítico do Hyperloop, afirma que o sistema não passa de uma “fantasia”. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX adiciona terminais laser em satélites da constelação Starlink: o sistema permite que os satélites transfiram informações entre si. A tecnologia também aumenta a cobertura do serviço de internet a áreas onde estações terrestres não possam ser construídas. As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "Toshiba atinge novo marco em criptografia quântica: pela primeira vez, dados do genoma humano foram enviados e armazenados utilizando fótons. A criptografia quântica, técnica considerada “impossível de se hackear”, tem chamando a atenção do setor financeiro, que precisa lidar com grandes volumes de dados confidenciais. As informações são da NHK.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor recria interface do Windows 11 utilizando React: o projeto inclui diversos recursos do novo sistema operacional, como o menu Iniciar e gerenciamento de janelas. A façanha pode ser conferida no site do programador Blue Edge.",
+            "url": ""
+        }
+    ]
+}
