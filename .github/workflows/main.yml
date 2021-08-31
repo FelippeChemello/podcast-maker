@@ -19,6 +19,7 @@ env:
     INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
     ANCHORFM_EMAIL: ${{ secrets.ANCHORFM_EMAIL }}
     ANCHORFM_PASSWORD: ${{ secrets.ANCHORFM_PASSWORD }}
+    YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
 
 jobs:
     CacheDependencies:
