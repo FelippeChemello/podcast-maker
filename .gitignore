@@ -11,3 +11,5 @@ coverage
 .env.dev
 access_token.json
 google-youtube.json
+google-refresh.ts
+token.json

@@ -38,30 +38,30 @@ export default class YoutubeUploadService {
     constructor(content: InterfaceJsonContent) {
         this.content = content;
 
-        if (!process.env.YOUTUBE_CLIENT_ID) {
-            error('Youtube Client ID is not defined', 'YoutubeUploadService');
+        if (!process.env.GOOGLE_CLIENT_ID) {
+            error('Google Client ID is not defined', 'YoutubeUploadService');
             process.exit(1);
         }
 
-        if (!process.env.YOUTUBE_CLIENT_SECRET) {
+        if (!process.env.GOOGLE_CLIENT_SECRET) {
             error(
-                'Youtube Client Secret is not defined',
+                'Google Client Secret is not defined',
                 'YoutubeUploadService',
             );
             process.exit(1);
         }
 
-        if (!process.env.YOUTUBE_REFRESH_TOKEN) {
+        if (!process.env.GOOGLE_REFRESH_TOKEN) {
             error(
-                'Youtube Refresh Token is not defined',
+                'Google Refresh Token is not defined',
                 'YoutubeUploadService',
             );
             process.exit(1);
         }
 
-        this.clientId = process.env.YOUTUBE_CLIENT_ID;
-        this.clientSecret = process.env.YOUTUBE_CLIENT_SECRET;
-        this.refreshToken = process.env.YOUTUBE_REFRESH_TOKEN;
+        this.clientId = process.env.GOOGLE_CLIENT_ID;
+        this.clientSecret = process.env.GOOGLE_CLIENT_SECRET;
+        this.refreshToken = process.env.GOOGLE_REFRESH_TOKEN;
     }
 
     public async execute(
@@ -98,7 +98,7 @@ export default class YoutubeUploadService {
                 if (err || !token) {
                     error(
                         'Failed at refreshing youtube token \n' +
-                            JSON.stringify(error),
+                            JSON.stringify(err),
                         'YoutubeUploadService',
                     );
                     return;

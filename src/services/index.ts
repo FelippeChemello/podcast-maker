@@ -13,6 +13,7 @@ import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
 import CreatePodcastAudioFile from './CreatePodcastAudioFile';
 import AnchorFmUploadService from './AnchorFmUploadService';
+import MailToJsonService from './MailToJsonService';
 
 export {
     GetContentService,
@@ -30,4 +31,5 @@ export {
     ValidatesContentService,
     CreatePodcastAudioFile,
     AnchorFmUploadService,
+    MailToJsonService,
 };
