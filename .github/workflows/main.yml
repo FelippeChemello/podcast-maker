@@ -20,6 +20,8 @@ env:
     ANCHORFM_EMAIL: ${{ secrets.ANCHORFM_EMAIL }}
     ANCHORFM_PASSWORD: ${{ secrets.ANCHORFM_PASSWORD }}
     YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+    ACTIONS_RUNNER_DEBUG: true
+    ACTIONS_STEP_DEBUG: true
 
 jobs:
     CacheDependencies:
