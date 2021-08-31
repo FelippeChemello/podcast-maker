@@ -1,0 +1,47 @@
+{
+    "title": "“Whats” vazado gera indenização / 485 mil GPUs recuperadas / Nova IA do Google",
+    "fps": 30,
+    "timestamp": 1630419371,
+    "date": "31/08/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Divulgar conversas do WhatsApp sem autorização gera indenização: segundo uma recente decisão da Justiça brasileira, mensagens eletrônicas são resguardadas pelo princípio da inviolabilidade do sigilo das comunicações, exigindo consentimento ou autorização judicial para tornarem-se públicas. A exceção à regra seria quando a exposição das mensagens tiver o propósito de garantir um direito próprio do receptor. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Empresa chinesa consegue recuperar 485 mil GPUs utilizadas em mineração de moedas digitais: a Genesis Mining havia perdido acesso aos equipamentos durante uma disputa comercial. O poder de hashing teórico dessas GPUs pode totalizar 14 TH/s no algoritmo Ethash, gerando quase 1 milhão de dólares por dia em ETH. As informações são do site The Block.",
+            "url": ""
+        },
+        {
+            "text": "China limita jogos online para menores de 18 anos a apenas três horas por semana: a partir de setembro, o acesso aos jogos será restrito das 20h às 21h na sexta, sábado e domingo, proibindo o acesso durante a semana escolar. De acordo com autoridades chinesas, jogos online têm impacto na saúde física e mental dos menores. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Novo modelo de inteligência artificial do Google recria vozes para pessoas com deficiência de fala: o projeto “Euphonia” tem como objetivo ajudar essas pessoas a se comunicar melhor com sistemas de reconhecimento de fala (assistentes virtuais) e na tecnologia de texto para fala personalizada, utilizando suas próprias vozes. O sistema utiliza um novo modelo com qualidade e fluência significativamente melhores do que tecnologias anteriores, melhorando a naturalidade da fala sintetizada. As informações são do blog Google AI.",
+            "url": ""
+        },
+        {
+            "text": "Comunicação por satélites da próxima geração do iPhone será recurso restrito: o sistema permitirá que pessoas possam se comunicar apenas em situações de emergência, mesmo quando não houver sinal de celular. Outra função seria um mecanismo de sinalização para grandes emergências, utilizado para localizar acidentes de avião e navios naufragados em áreas remotas. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Coreia do Sul aprova nova lei que ameaça hegemonia das lojas de aplicativos do Google e Apple: as duas empresas precisarão permitir sistemas de pagamento alternativos, ameaçando o sistema que garantia comissões em cada venda digital. A lei também proíbe atrasos na aprovação ou exclusões injustificadas de aplicativos nessas lojas. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Telegram atinge 1 bilhão de downloads: o mensageiro é o décimo quinto aplicativo em todo o mundo a ser baixado 1 bilhão de vezes ou mais, de acordo com a Sensor Tower. A Índia é o maior mercado do aplicativo (22% das instalações), seguida pela Rússia (10%) e Indonésia (8%). As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nubank libera suporte ao Apple Pay para todos os clientes: o recurso permite realizar pagamentos em estabelecimentos físicos, lojas online e em aplicativos utilizando um iPhone, Apple Watch, iPad ou Mac. Segundo a fintech, todo estabelecimento que aceita pagamentos por aproximação (mais de 80% das maquininhas no Brasil já possuem essa tecnologia) também aceita o sistema de pagamentos da Apple. As informações são do blog do Nubank.",
+            "url": ""
+        }
+    ]
+}
