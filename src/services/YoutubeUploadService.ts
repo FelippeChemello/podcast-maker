@@ -51,9 +51,9 @@ export default class YoutubeUploadService {
             process.exit(1);
         }
 
-        if (!process.env.GOOGLE_REFRESH_TOKEN) {
+        if (!process.env.YOUTUBE_REFRESH_TOKEN) {
             error(
-                'Google Refresh Token is not defined',
+                'Youtube Refresh Token is not defined',
                 'YoutubeUploadService',
             );
             process.exit(1);
@@ -61,7 +61,7 @@ export default class YoutubeUploadService {
 
         this.clientId = process.env.GOOGLE_CLIENT_ID;
         this.clientSecret = process.env.GOOGLE_CLIENT_SECRET;
-        this.refreshToken = process.env.GOOGLE_REFRESH_TOKEN;
+        this.refreshToken = process.env.YOUTUBE_REFRESH_TOKEN;
     }
 
     public async execute(
@@ -145,23 +145,25 @@ export default class YoutubeUploadService {
         const charactersLimitPerNews =
             this.descriptionCharactersLimit / descriptionArray.length;
 
-        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray = descriptionArray.filter(
-            newsDescription =>
-                newsDescription.title.length +
-                    newsDescription.details.length +
-                    newsDescription.url.length <
-                charactersLimitPerNews,
-        );
-
-        const characterRemain = newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
-            .map(
+        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray =
+            descriptionArray.filter(
                 newsDescription =>
-                    charactersLimitPerNews -
-                    (newsDescription.title.length +
+                    newsDescription.title.length +
                         newsDescription.details.length +
-                        newsDescription.url.length),
-            )
-            .reduce((acc, detailsLength) => acc + detailsLength);
+                        newsDescription.url.length <
+                    charactersLimitPerNews,
+            );
+
+        const characterRemain =
+            newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
+                .map(
+                    newsDescription =>
+                        charactersLimitPerNews -
+                        (newsDescription.title.length +
+                            newsDescription.details.length +
+                            newsDescription.url.length),
+                )
+                .reduce((acc, detailsLength) => acc + detailsLength);
 
         const quantityOfNewsWithMoreThanLimitPerNews =
             descriptionArray.length -
@@ -230,8 +232,7 @@ export default class YoutubeUploadService {
         const uploadProgressBar = new Bar({
             total: videoSize,
             initValue: 0,
-            text:
-                '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
+            text: '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
         });
 
         let title = `[CodeStack News] ${this.content.title}`;
