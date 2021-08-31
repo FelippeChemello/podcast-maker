@@ -10,7 +10,10 @@ export default class CreateContentTemplateService {
 
     constructor() {}
 
-    public execute(description: string): void {
+    public execute(
+        description: string,
+        content?: { news: string[]; title: string },
+    ): void {
         const timestamp = Math.round(Date.now() / 1000);
 
         const newsTemplate = new Array(10).fill({
@@ -19,7 +22,7 @@ export default class CreateContentTemplateService {
         });
 
         const template: InterfaceJsonContent = {
-            title: '',
+            title: content?.title ?? '',
             fps: 30,
             timestamp,
             date: new Date().toLocaleDateString('pt-BR'),
@@ -30,11 +33,12 @@ export default class CreateContentTemplateService {
                 )}. Na descrição vocês encontram os links para saber mais sobre cada noticia. `,
             },
             end: {
-                text:
-                    'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
+                text: 'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
                 url: 'https://links.codestack.me/newsletter-filipe',
             },
-            news: newsTemplate,
+            news: content?.news
+                ? content?.news.map(text => ({ text, url: '' }))
+                : newsTemplate,
         };
 
         const contentFileName = path.resolve(

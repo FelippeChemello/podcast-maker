@@ -15,6 +15,7 @@ import {
     createPodcast,
     uploadAnchor,
     createAndUploadAnchor,
+    mailToContent,
 } from './options';
 import { error, log } from './utils/log';
 
@@ -42,6 +43,10 @@ program
     )
     .option('-tts, --tts', 'Need to create TTS', false)
     .option(
+        '-m, --mailToContent',
+        "Get today's newsletter mail and create JSON content file",
+    )
+    .option(
         '-c, --create <description>',
         'Create new content file with default labels',
     )
@@ -67,6 +72,10 @@ if (Object.keys(options).length <= 0) {
 
     if (options.validate) {
         validateLatestContent();
+    }
+
+    if (options.mailToContent) {
+        await mailToContent();
     }
 
     if (options.build) {
