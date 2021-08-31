@@ -18,6 +18,7 @@
         "video:full:anchor": "ts-node src/main.ts --build --config anchor --tts",
         "tmp:clean": "ts-node src/main.ts --clean",
         "content:create": "ts-node src/main.ts --create",
+        "content:mail": "ts-node src/main.ts --mailToContent",
         "content:validate": "ts-node src/main.ts --validate",
         "remotion:upgrade": "remotion upgrade"
     },
@@ -41,6 +42,7 @@
         "http": "^0.0.1-security",
         "microsoft-cognitiveservices-speech-sdk": "^1.15.1",
         "mp3-duration": "^1.1.0",
+        "node-html-parser": "^4.1.4",
         "pre-commit": "^1.2.2",
         "puppeteer": "^8.0.0",
         "react": "^17.0.2",
@@ -49,7 +51,8 @@
         "remotion": "^2.0.2",
         "rss-parser": "^3.12.0",
         "string-width": "^4.2.2",
-        "ts-node": "^9.1.1"
+        "ts-node": "^9.1.1",
+        "ts-node-dev": "^1.1.8"
     },
     "devDependencies": {
         "@babel/cli": "^7.12.10",

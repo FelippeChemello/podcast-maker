@@ -15,6 +15,7 @@ import {
     TextToSpeechService,
     CreatePodcastAudioFile,
     AnchorFmUploadService,
+    MailToJsonService,
 } from './services';
 import { tmpPath } from './config/defaultPaths';
 
@@ -212,6 +213,10 @@ export const createAndUploadAnchor = async ({
 
 export const createNewContent = (name: string) => {
     new CreateContentTemplateService().execute(name);
+};
+
+export const mailToContent = async () => {
+    await new MailToJsonService().execute();
 };
 
 export const validateLatestContent = () => {
