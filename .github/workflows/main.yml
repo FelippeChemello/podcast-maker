@@ -10,8 +10,8 @@ env:
     AZURE_TTS_KEY: ${{ secrets.AZURE_TTS_KEY }}
     AZURE_TTS_REGION: ${{ secrets.AZURE_TTS_REGION }}
     GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
-    GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_ID }}
-    GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_CLIENT_ID }}
+    GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+    GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
     REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
     JAUS_EMAIL: ${{ secrets.JAUS_EMAIL }}
     JAUS_PASSWORD: ${{ secrets.JAUS_PASSWORD }}
@@ -20,34 +20,11 @@ env:
     ANCHORFM_EMAIL: ${{ secrets.ANCHORFM_EMAIL }}
     ANCHORFM_PASSWORD: ${{ secrets.ANCHORFM_PASSWORD }}
     YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
-    # ACTIONS_RUNNER_DEBUG: true
-    # ACTIONS_STEP_DEBUG: true
+    #  ACTIONS_RUNNER_DEBUG: true
+    #  ACTIONS_STEP_DEBUG: true
 
 jobs:
-    # CacheDependencies:
-    #     runs-on: ubuntu-latest
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
-
-    #         - name: Setup Node.JS environment
-    #           uses: actions/setup-node@v2.1.4
-    #           with:
-    #               node-version: 14.x
-
-    #         - name: Cache node_modules
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
-
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
-
-    TextToSpeech:
-        # needs: [CacheDependencies]
+    CacheDependencies:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
@@ -58,12 +35,35 @@ jobs:
               with:
                   node-version: 14.x
 
-            # - name: Get node_modules from cache
-            # id: dependencies
-            # uses: actions/cache@v2
-            # with:
-            # path: node_modules
-            # key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Cache node_modules
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+    TextToSpeech:
+        needs: [CacheDependencies]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Setup Node.JS environment
+              uses: actions/setup-node@v2.1.4
+              with:
+                  node-version: 14.x
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
             - name: Install project dependencies
               if: steps.dependencies.outputs.cache-hit != 'true'
@@ -95,12 +95,12 @@ jobs:
                   name: audio-files
                   path: tmp/
 
-            # - name: Get node_modules from cache
-            #   id: dependencies
-            #   uses: actions/cache@v2
-            #   with:
-            #       path: node_modules
-            #       key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
             - name: Install project dependencies
               if: steps.dependencies.outputs.cache-hit != 'true'
@@ -133,12 +133,12 @@ jobs:
                   name: youtube-video-assets
                   path: tmp/
 
-            # - name: Get node_modules from cache
-            #   id: dependencies
-            #   uses: actions/cache@v2
-            #   with:
-            #       path: node_modules
-            #       key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
             - name: Install project dependencies
               if: steps.dependencies.outputs.cache-hit != 'true'
@@ -147,165 +147,165 @@ jobs:
             - name: Upload Youtube video
               run: yarn video:upload:youtube
 
-            - name: SSH debug
-              if: ${{ failure() }}
-              uses: mxschmitt/action-tmate@v3
+            # - name: SSH debug
+            #   if: ${{ failure() }}
+            #   uses: mxschmitt/action-tmate@v3
+            #   with:
+            #     limit-access-to-actor: true
+
+    Instagram-CreateVideo:
+        needs: [TextToSpeech]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install FFMPEG
+              uses: FedericoCarboni/setup-ffmpeg@v1
+
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
               with:
-                limit-access-to-actor: true
+                  name: audio-files
+                  path: tmp/
 
-    # Instagram-CreateVideo:
-    #     needs: [TextToSpeech]
-    #     runs-on: ubuntu-latest
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-    #         - name: Install FFMPEG
-    #           uses: FedericoCarboni/setup-ffmpeg@v1
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
-    #         - name: Download TTS files
-    #           uses: actions/download-artifact@v2
-    #           with:
-    #               name: audio-files
-    #               path: tmp/
+            - name: Create Instagram video
+              run: yarn video:make:instagram
 
-    #         - name: Get node_modules from cache
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Save video in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: instagram-video-assets
+                  path: |
+                      tmp/*.mp4
+                      tmp/*.jpeg
+                      tmp/*.json
+                      !tmp/example.json
+                  retention-days: 2
 
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
+    Instagram-UploadVideo:
+        needs: [Instagram-CreateVideo]
+        runs-on: ubuntu-latest
+        timeout-minutes: 15
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-    #         - name: Create Instagram video
-    #           run: yarn video:make:instagram
+            - name: Install virtual display
+              run: sudo apt-get update && sudo apt-get install -yq --no-install-recommends xvfb xauth ffmpeg libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 libnss3
 
-    #         - name: Save video in Artifacts
-    #           uses: actions/upload-artifact@v2
-    #           with:
-    #               name: instagram-video-assets
-    #               path: |
-    #                   tmp/*.mp4
-    #                   tmp/*.jpeg
-    #                   tmp/*.json
-    #                   !tmp/example.json
-    #               retention-days: 2
+            - name: Install full Google Chrome
+              run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
-    # Instagram-UploadVideo:
-    #     needs: [Instagram-CreateVideo]
-    #     runs-on: ubuntu-latest
-    #     timeout-minutes: 15
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
+            - name: Exports chrome bin path to ENV
+              run: export CHROME_BIN=$(which google-chrome)
 
-    #         - name: Install virtual display
-    #           run: sudo apt-get update && sudo apt-get install -yq --no-install-recommends xvfb xauth ffmpeg libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 libnss3
+            - name: Download Instagram assets
+              uses: actions/download-artifact@v2
+              with:
+                  name: instagram-video-assets
+                  path: tmp/
 
-    #         - name: Install full Google Chrome
-    #           run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb -y
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-    #         - name: Exports chrome bin path to ENV
-    #           run: export CHROME_BIN=$(which google-chrome)
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
-    #         - name: Download Instagram assets
-    #           uses: actions/download-artifact@v2
-    #           with:
-    #               name: instagram-video-assets
-    #               path: tmp/
+            - name: Uplaod Instagram video
+              run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:instagram
 
-    #         - name: Get node_modules from cache
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+    Podcast-CreateAudio:
+        needs: [TextToSpeech]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
+            - name: Install FFMPEG
+              uses: FedericoCarboni/setup-ffmpeg@v1
 
-    #         - name: Uplaod Instagram video
-    #           run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:instagram
+            - name: Download TTS files
+              uses: actions/download-artifact@v2
+              with:
+                  name: audio-files
+                  path: tmp/
 
-    # Podcast-CreateAudio:
-    #     needs: [TextToSpeech]
-    #     runs-on: ubuntu-latest
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-    #         - name: Install FFMPEG
-    #           uses: FedericoCarboni/setup-ffmpeg@v1
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
-    #         - name: Download TTS files
-    #           uses: actions/download-artifact@v2
-    #           with:
-    #               name: audio-files
-    #               path: tmp/
+            - name: Create Podcast audio
+              run: yarn video:make:podcast
 
-    #         - name: Get node_modules from cache
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Save audio and thumbnail in Artifacts
+              uses: actions/upload-artifact@v2
+              with:
+                  name: podcast-assets
+                  path: |
+                      tmp/*.jpeg
+                      tmp/*.json
+                      tmp/*.mp3
+                      !tmp/output-*.mp3
+                      !tmp/example.json
+                  retention-days: 2
 
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
+    AnchorFM-UploadPodcast:
+        needs: [Podcast-CreateAudio]
+        runs-on: ubuntu-latest
+        timeout-minutes: 15
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-    #         - name: Create Podcast audio
-    #           run: yarn video:make:podcast
+            - name: Install virtual display
+              run: sudo apt-get update && sudo apt-get install -yq --no-install-recommends xvfb xauth ffmpeg libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 libnss3
 
-    #         - name: Save audio and thumbnail in Artifacts
-    #           uses: actions/upload-artifact@v2
-    #           with:
-    #               name: podcast-assets
-    #               path: |
-    #                   tmp/*.jpeg
-    #                   tmp/*.json
-    #                   tmp/*.mp3
-    #                   !tmp/output-*.mp3
-    #                   !tmp/example.json
-    #               retention-days: 2
+            - name: Install full Google Chrome
+              run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
-    # AnchorFM-UploadPodcast:
-    #     needs: [Podcast-CreateAudio]
-    #     runs-on: ubuntu-latest
-    #     timeout-minutes: 15
-    #     steps:
-    #         - name: Checkout code
-    #           uses: actions/checkout@v2
+            - name: Exports chrome bin path to ENV
+              run: export CHROME_BIN=$(which google-chrome)
 
-    #         - name: Install virtual display
-    #           run: sudo apt-get update && sudo apt-get install -yq --no-install-recommends xvfb xauth ffmpeg libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 libnss3
+            - name: Download Podcast assets
+              uses: actions/download-artifact@v2
+              with:
+                  name: podcast-assets
+                  path: tmp/
 
-    #         - name: Install full Google Chrome
-    #           run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo apt install ./google-chrome-stable_current_amd64.deb -y
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
 
-    #         - name: Exports chrome bin path to ENV
-    #           run: export CHROME_BIN=$(which google-chrome)
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
 
-    #         - name: Download Podcast assets
-    #           uses: actions/download-artifact@v2
-    #           with:
-    #               name: podcast-assets
-    #               path: tmp/
-
-    #         - name: Get node_modules from cache
-    #           id: dependencies
-    #           uses: actions/cache@v2
-    #           with:
-    #               path: node_modules
-    #               key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
-
-    #         - name: Install project dependencies
-    #           if: steps.dependencies.outputs.cache-hit != 'true'
-    #           run: yarn
-
-    #         - name: Uplaod Podcast to Anchor.FM
-    #           run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:anchor
+            - name: Uplaod Podcast to Anchor.FM
+              run: xvfb-run --server-args="-screen 0, 1920x1920x24" yarn video:upload:anchor
