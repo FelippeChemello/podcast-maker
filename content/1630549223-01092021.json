@@ -1,0 +1,47 @@
+{
+    "title": "“Canal de TV” no Telegram / Docker anuncia assinatura / Amazon lança plano massivo",
+    "fps": 30,
+    "timestamp": 1630549223,
+    "date": "01/09/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta quinta-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "Nova atualização do Telegram permite audiência ilimitada em transmissões ao vivo: segundo o post no blog do aplicativo, com a novidade será possível criar um “próprio canal de TV”, com transmissões ilimitadas. A nova versão 8 também traz personalizações em mensagens encaminhadas, um painel de stickers melhorado, novos emojis animados e mais.",
+            "url": ""
+        },
+        {
+            "text": "Docker Desktop não é mais gratuito para grandes empresas: o novo plano de assinatura busca um modelo de negócios mais sustentável, mas o utilitário permanecerá gratuito para indivíduos ou pequenas empresas. Organizações com mais de 250 funcionários, ou mais de 10 milhões de dólares em receita anual, precisarão utilizar o plano pago de 21 dólares por mês, com novos recursos como gerenciamento centralizado, logon único e segurança aprimorada. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia plano de contratações global massivo: Andy Jassy, novo CEO da companhia, quer contratar 55 mil pessoas para funções corporativas e de tecnologia como engenharia, pesquisa e robótica. O número equivale a mais de um terço do quadro de funcionários do Google e perto de todos os funcionários do Facebook. Segundo Jassy, a pandemia alterou o cenário de trabalho, com muitas pessoas decidindo procurar por novas áreas e oportunidades de trabalho. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "NASA cancela lançamento de satélite devido à escassez de oxigênio líquido causada pela pandemia: a indústria espacial utiliza o material como oxidante no combustível de foguetes. A demanda por oxigênio tem aumentado com as novas variantes do vírus. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Câmara aprova inclusão da proteção de dados como garantia fundamental: a PEC 17/19 torna a proteção de dados pessoais, inclusive nos meios digitais, um direito fundamental, garantido pela Constituição. O texto ainda precisa ser aprovado no Senado. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "GSI exige criptografia por hardware e dados armazenados no País em plataformas do Governo: o Gabinete de Segurança Institucional determinou novos requisitos de segurança em órgãos públicos que adotam soluções de computação em nuvem. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Chrome 93 é lançado: além de melhorias no desempenho e pequenas mudanças visuais, o destaque fica com PWAs (Progressive Web Apps) cada vez mais nativos no Windows, macOS e Linux. O Chrome 93 é o último do ciclo de atualizações a cada seis semanas. A partir do Chrome 94, novas versões serão lançadas mais rapidamente, a cada quatro semanas. As informações são do site Android Police.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare decide utilizar processadores AMD em nova geração de servidores: apesar da última geração de processadores Xeon da Intel fosse capaz de competir com os AMD Epyc em termos de desempenho bruto, o consumo de energia era várias centenas de Watts maior por servidor. Com outros refinamentos em memória, armazenamento e rede, a nova geração do “Edge Server” consegue lidar com aproximadamente 29% mais requests do que a anterior, sem aumento no consumo de energia. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
