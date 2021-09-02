@@ -2,7 +2,7 @@ name: Create content file
 
 on:
     schedule:
-        - cron: '35 01 * * *'
+        - cron: '07 02 * * *'
     workflow_dispatch:
 
 env:
@@ -69,15 +69,26 @@ jobs:
               if: steps.dependencies.outputs.cache-hit != 'true'
               run: yarn
 
+            - name: Get current date
+              id: date
+              run: |
+                  echo "::set-output name=formattedDate::$(date +%d/%m/%Y)"
+                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
+
             - name: Create Content File
               run: yarn content:mail
 
-            - name: Add and commit Content file
-              run: |
-                git config user.name 'Felippe Chemello - Automação'
-                git config user.email 'felippe-chemello@users.noreply.github.com'
-                git add .
-                git commit -m "Conteudo "`date +%d/%m/%Y`
+            # - name: Add and commit Content file
+            #   run: |
+            #       git config user.name '${{ github.actor }} - Automação'
+            #       git config user.email 'felippechemello@gmail.com'
+            #       git add .
+            #       git commit -m "Conteúdo ${{ steps.date.outputs.formattedDate }}"
 
             - name: Create PR to master with Content File
               uses: peter-evans/create-pull-request@v3
+              with:
+                  title: Conteúdo ${{ steps.date.outputs.formattedDate }}
+                  body: Automação - Conteúdo ${{ steps.date.outputs.formattedDate }}
+                  branch: ${{ steps.date.outputs.formattedDate }}
+                  commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}

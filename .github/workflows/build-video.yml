@@ -2,7 +2,7 @@ name: Create video
 
 on:
     push:
-        branches: [master]
+        # branches: [master]
     workflow_dispatch:
 
 env:
