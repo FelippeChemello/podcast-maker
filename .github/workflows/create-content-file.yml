@@ -1,0 +1,83 @@
+name: Create video
+
+on:
+    schedule:
+        - cron: '35 01 * * *'
+    workflow_dispatch:
+
+env:
+    DEBUG: 1
+    AZURE_TTS_KEY: ${{ secrets.AZURE_TTS_KEY }}
+    AZURE_TTS_REGION: ${{ secrets.AZURE_TTS_REGION }}
+    GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+    GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+    GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+    REBRANDLY_API_KEY: ${{ secrets.REBRANDLY_API_KEY }}
+    JAUS_EMAIL: ${{ secrets.JAUS_EMAIL }}
+    JAUS_PASSWORD: ${{ secrets.JAUS_PASSWORD }}
+    INSTAGRAM_EMAIL: ${{ secrets.INSTAGRAM_EMAIL }}
+    INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
+    ANCHORFM_EMAIL: ${{ secrets.ANCHORFM_EMAIL }}
+    ANCHORFM_PASSWORD: ${{ secrets.ANCHORFM_PASSWORD }}
+    YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+    #  ACTIONS_RUNNER_DEBUG: true
+    #  ACTIONS_STEP_DEBUG: true
+
+jobs:
+    CacheDependencies:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Setup Node.JS environment
+              uses: actions/setup-node@v2.1.4
+              with:
+                  node-version: 14.x
+
+            - name: Cache node_modules
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+    CreateContentFile:
+        needs: [CacheDependencies]
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Setup Node.JS environment
+              uses: actions/setup-node@v2.1.4
+              with:
+                  node-version: 14.x
+
+            - name: Get node_modules from cache
+              id: dependencies
+              uses: actions/cache@v2
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+
+            - name: Install project dependencies
+              if: steps.dependencies.outputs.cache-hit != 'true'
+              run: yarn
+
+            - name: Create Content File
+              run: yarn content:mail
+
+            - name: Add and commit Content file
+              run: |
+                git config user.name 'Felippe Chemello - Automação'
+                git config user.email 'felippe-chemello@users.noreply.github.com'
+                git add .
+                git commit -m "Conteudo "`date +%d/%m/%Y`
+
+            - name: Create PR to master with Content File
+              uses: peter-evans/create-pull-request@v3
