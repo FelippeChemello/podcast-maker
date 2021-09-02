@@ -2,7 +2,7 @@ name: Create content file
 
 on:
     schedule:
-        - cron: '07 02 * * *'
+        - cron: '30 02 * * *'
     workflow_dispatch:
 
 env:
