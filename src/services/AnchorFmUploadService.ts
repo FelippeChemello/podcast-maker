@@ -99,13 +99,15 @@ export default class AnchorFmUploadService {
 
         await page.goto(this.urls.upload);
 
-        await page.waitForSelector('#app > div > div button[type="button"]');
+        await page.waitForSelector(
+            '#app-content > div > div > div > div > div > button',
+        );
 
         log('Getting submit button', 'AnchorFmUploadService');
 
         await page.evaluate(() => {
             const saveButton = document.querySelector(
-                '#app > div > div button[type="button"]',
+                '#app-content > div > div > div > div > div > button',
             );
 
             if (!saveButton) {
@@ -136,30 +138,39 @@ export default class AnchorFmUploadService {
 
         log('Upload completed', 'AnchorFmUploadService');
 
+        log('Adding sponsor label', 'AnchorFmUploadService');
+        await page.evaluate(() => {
+            Object.values(
+                document.querySelectorAll('button[type=button]'),
+            ).filter((value: any) =>
+                value.innerText.includes('sponsor'),
+            )[0].id = 'sponsor';
+        });
+        await page.click('#sponsor');
+        await page.waitForTimeout(1000);
+
         await page.click('#save-episode-button');
 
         await page.waitForNavigation();
         await page.waitForSelector('input[type="text"]');
-
-        const [_, publishButton] = await page.$$(
-            '#app > div > div button[type="submit"]',
+        await page.waitForSelector(
+            '#app-content > div > div > form > div > div > label > div > div > button',
         );
-
-        if (!publishButton) {
-            error('Failed to find publish button', 'AnchorFmUploadService');
-        }
-
-        log(`Setting title to: ${title}`, 'AnchorFmUploadService');
-        await page.type('input[type="text"]', title);
+        await page.waitForTimeout(5000);
 
         log('Changing descrition to HTML mode', 'AnchorFmUploadService');
-        await page.click('#app > div > div button[type="button"]');
+        await page.click(
+            '#app-content > div > div > form > div > div > label > div > div > button',
+        );
+
+        log(`Setting title to: ${title}`, 'AnchorFmUploadService');
+        await page.type('#title', title, { delay: 70 });
 
         log(
             `Setting description to: \n${description}`,
             'AnchorFmUploadService',
         );
-        await page.waitForSelector('textarea')
+        await page.waitForSelector('textarea');
         await page.type('textarea', description);
 
         log('Uploading Thumbnail', 'AnchorFmUploadService');
@@ -176,9 +187,18 @@ export default class AnchorFmUploadService {
             'div.modal-dialog button[type="button"]:not(.close)',
         );
         await page.click('div.modal-dialog button[type="button"]:not(.close)');
-        await page.waitForTimeout(1000);
+        await page.waitForTimeout(5000);
 
-        await publishButton.click();
+        log('Submiting', 'AnchorFmUploadService');
+        await page.evaluate(() => {
+            Object.values(
+                document.querySelectorAll('button[type=button]'),
+            ).filter((value: any) =>
+                value.innerText.includes('Publish now'),
+            )[0].id = 'publish-button';
+        });
+        await page.waitForTimeout(5000);
+        await page.click('#publish-button');
 
         await page.waitForNavigation();
 
@@ -214,6 +234,20 @@ export default class AnchorFmUploadService {
     }
 
     private getTitle() {
-        return `[CodeStack News] ${this.content.title} \n\n`;
+        let title = `[CodeStack News] ${this.content.title} \n\n`;
+
+        if (title.length >= 150) {
+            const titleArray = title.split('/');
+            titleArray.pop();
+            title = titleArray.join('/');
+        }
+
+        if (title.length >= 150) {
+            const titleArray = title.split('/');
+            titleArray.pop();
+            title = titleArray.join('/');
+        }
+
+        return title;
     }
 }
