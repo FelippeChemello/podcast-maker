@@ -31,7 +31,7 @@ export default class InstagramUploadService {
         this.content = content;
 
         if (!process.env.CHROME_BIN) {
-            error('Chrome bin path is not defined', 'InstagramUploadService');
+            error('Chrome bin path is not defined', 'InstagramUploadService'); // NEEDED FOR INSTAGRAM, BECAUSE WITH CHROMIUM DOESN'T WORK
             process.exit(1);
         }
 
@@ -57,9 +57,7 @@ export default class InstagramUploadService {
         videoPath: string,
         thumbnailPath: string,
     ): Promise<void> {
-        const title = this.getTitle();
-
-        const description = this.getDescription();
+        const details = this.getDetails();
 
         const browser = await puppeteer.launch({
             executablePath: this.chromeExecutablePath,
@@ -100,19 +98,6 @@ export default class InstagramUploadService {
 
         await page.goto(this.urls.igtvUpload);
 
-        log(`Setting title to: ${title}`, 'InstagramUploadService');
-        await page.type('input[type="text"]', title);
-
-        try {
-            log(
-                `Setting description to: \n${description}`,
-                'InstagramUploadService',
-            );
-            await page.type('textarea', description);
-        } catch (e) {
-            log('Failed to set description', 'InstagramUploadService');
-        }
-
         log('Uploading video', 'InstagramUploadService');
 
         const [videoInput, thumbnailInput] = await page.$$(
@@ -136,6 +121,13 @@ export default class InstagramUploadService {
         log('Upload completed', 'InstagramUploadService');
         thumbnailInput.uploadFile(thumbnailPath);
 
+        try {
+            log(`Setting details to: \n${details}`, 'InstagramUploadService');
+            await page.type('textarea', details);
+        } catch (e) {
+            log('Failed to set description', 'InstagramUploadService');
+        }
+
         const submitButton = await page.$('button');
         if (!submitButton) {
             error('Failed to find submit button', 'InstagramUploadService');
@@ -144,52 +136,34 @@ export default class InstagramUploadService {
 
         await submitButton.click();
 
-        await page.waitFor(300000);
+        await page.waitForSelector('button img');
 
         await browser.close();
 
         log(`Video published on Instagram`, 'InstagramUploadService');
     }
 
-    private getDescription() {
-        let description = '';
+    private getDetails() {
+        let details = `[CodeStack News] ${this.content.title} \n\n`;
 
         this.content.news.forEach(news => {
             const [title, _] = news.text.split(': ');
-            description += `• ${title} \n`;
+            details += `• ${title} \n`;
         });
 
         if (
             this.content.end?.text &&
             (this.content.end.shortLink || this.content.end.url)
         ) {
-            description += `\n\n${this.content.end.text} \n${
+            details += `\n\n${this.content.end.text} \n${
                 this.content.end.shortLink || this.content.end.url
             } \n\n`;
         }
 
         this.defaultHashtags.forEach(hashtag => {
-            description += `#${hashtag} `;
+            details += `#${hashtag} `;
         });
 
-        return description;
-    }
-
-    private getTitle() {
-        let title = `[CodeStack News] ${this.content.title} \n\n`;
-
-        if (title.length >= 75) {
-            const titleArray = title.split('/');
-            titleArray.pop();
-            title = titleArray.join('/');
-        }
-
-        if (title.length >= 75) {
-            const titleArray = title.split('/');
-            titleArray.pop();
-            title = titleArray.join('/');
-        }
-
-        return title;
+        return details;
     }
 }
