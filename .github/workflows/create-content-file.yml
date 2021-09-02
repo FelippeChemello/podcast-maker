@@ -1,4 +1,4 @@
-name: Create video
+name: Create content file
 
 on:
     schedule:
