@@ -1,0 +1,47 @@
+{
+    "title": "Nova urna eletrônica / Novo ataque hacker / Elon Musk eleito “Pessoa do Ano”",
+    "fps": 30,
+    "timestamp": 1639493541,
+    "date": "14/12/2021",
+    "intro": {
+        "text": "Olá pessoal, A seguir vocês acompanharão as notícias desta terça-feira. Na descrição vocês encontram os links para saber mais sobre cada noticia. "
+    },
+    "end": {
+        "text": "Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.",
+        "url": "https://links.codestack.me/newsletter-filipe"
+    },
+    "news": [
+        {
+            "text": "TSE apresenta novo modelo de urna eletrônica para eleições de 2022: além do modelo “UE2020” possuir um processador mais rápido, o terminal do mesário possui uma tela com comandos sensíveis ao toque. Essa funcionalidade em particular permitirá mais rapidez na identificação de eleitores, diminuindo o tempo de espera em filas. As informações são da Agência Brasil e do TSE.",
+            "url": ""
+        },
+        {
+            "text": "Hackers do Ministério da Saúde afirmam que sites de notícias estariam “mentindo” sobre escopo do ataque: além de ter conseguido mais acessos a sistemas na AWS do Governo, excluindo diversos backups, o grupo criminoso também teria obtido acesso ao outro banco de dados, excluindo máquinas virtuais e mais 100 TB de dados. O ataque, segundo os hackers, não teria sido apenas um “DNS Hijacking”. O Gabinete de Segurança Institucional divulgou uma nota na noite desta segunda-feira (13) confirmando novos ataques contra órgãos do Governo. O Ministério da Saúde, no entanto, afirma que o processo de recuperação dos registros de vacinas já foi finalizado, sem perda de dados. As informações são dos sites Convergência Digital e Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk é eleito “Pessoa do Ano” pela revista Time: ao trabalhar em veículos elétricos, foguetes, implantes neurais e acumular a maior fortuna individual no mundo, nenhum outro indivíduo teria moldado narrativas tão distintas ao redor do planeta nos últimos doze meses como Musk, justifica a revista.",
+            "url": ""
+        },
+        {
+            "text": "STF decide ISS como único imposto sobre licenciamento de softwares: a decisão estabelece que não deve haver distinção na tributação de softwares, sejam personalizados ou de prateleira, sem estarem mais sujeitos à cobrança do ICMS. A Associação Brasileira das Empresas de Software afirma que a decisão é positiva para o setor, dado que a alíquota do ISS varia de 2% a 5%, enquanto o ICMS pode chegar a 25%. As informações são do site Mobile Time.",
+            "url": ""
+        },
+        {
+            "text": "40% das redes corporativas em todo o mundo já sofreram tentativas de ataque por vulnerabilidade na biblioteca “Log4j”: a empresa de segurança Check Point tem registrado cerca de 100 tentativas de invasão a cada minuto. No momento, a maioria dos ataques tem se concentrado na instalação de mineradores de moedas digitais em servidores comprometidos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Tratamentos baseados em computadores e smartphones são eficazes na redução de sintomas depressivos: de acordo com uma pesquisa publicada pela Associação Americana de Psicologia, intervenções digitais possuem um papel valioso na oferta de tratamentos, especialmente quando acompanhadas por algum tipo de orientação humana. Embora não sejam tão eficazes quanto a psicoterapia face a face, essas ferramentas oferecem uma alternativa à crescente demanda por soluções de problemas relacionados à saúde mental durante a pandemia. As informações são do site ScienceDaily.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla espera faturar 500 milhões de dólares neste ano e ficar menos dependente do Google: a receita com novos serviços independentes, como VPN e Pocket, deve crescer 150% e representar pelo menos 14% da receita da companhia em 2021. Ainda assim, em 2020, 86% da receita da Mozilla veio do acordo que mantém o Google como serviço de busca padrão no navegador Firefox. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Deno ingressa no TC39, grupo de trabalho responsável pela padronização do JavaScript: a equipe do Deno quer garantir que evoluções futuras da linguagem continuem a beneficiar o runtime, especialmente em aspectos server-side, como bibliotecas padrões mais extensas para iteração async. As informações são do blog do Deno.",
+            "url": ""
+        }
+    ]
+}
