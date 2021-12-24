@@ -1,0 +1,22 @@
+name: Auto Merge Pull Requests
+
+# To disable automerge, simply remove this label from secrets
+
+on:
+    pull_request:
+        types:
+            - labeled
+            - opened
+    workflow_dispatch:
+
+jobs:
+    automerge:
+        runs-on: ubuntu-latest
+        steps:
+            - name: merge
+              uses: pascalgn/automerge-action@v0.14.3
+              env:
+                  GITHUB_TOKEN: '${{ secrets.TOKEN_GITHUB }}'
+                  MERGE_LABELS: 'automerge'
+                  MERGE_METHOD: 'squash'
+                  MERGE_FILTER_AUTHOR: 'github-actions[bot]'
