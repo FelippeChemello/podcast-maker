@@ -32,9 +32,11 @@
         "prettier/prettier": "error",
         "class-methods-use-this": "off",
         "@typescript-eslint/no-unused-vars": [
-            "error",
+            "warn",
             {
-                "argsIgnorePattern": "_"
+                "varsIgnorePattern": "^_",
+                "argsIgnorePattern": "^_",
+                "ignoreRestSiblings": true
             }
         ],
         "@typescript-eslint/naming-convention": [
@@ -44,7 +46,13 @@
                 "prefix": ["Interface"],
                 "format": ["PascalCase"]
             }
-        ]
+        ],
+        "no-await-in-loop": "off",
+        "lines-between-class-members": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "no-console": "off",
+        "no-plusplus": "off",
+        "no-continue": "off"
     },
     "settings": {
         "import/resolver": {

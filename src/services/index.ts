@@ -1,7 +1,7 @@
 import GetContentService from './GetContentService';
 import TextToSpeechService from './TextToSpeechService';
 import RetrieveAudioDuration from './RetrieveAudioDataService';
-import exportDataService from './ExportDataService';
+import ExportDataService from './ExportDataService';
 import RenderVideoService from './RenderVideoService';
 import YoutubeUploadService from './YoutubeUploadService';
 import CreateThumnailService from './CreateThumnailService';
@@ -20,7 +20,7 @@ export {
     TextToSpeechService,
     RenderVideoService,
     RetrieveAudioDuration,
-    exportDataService,
+    ExportDataService,
     YoutubeUploadService,
     CreateContentTemplateService,
     CreateThumnailService,

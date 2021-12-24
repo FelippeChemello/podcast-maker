@@ -1,12 +1,14 @@
 const debug = process.env.DEBUG || 1;
 
-export function log(message: any, prefix?: string) {
+// eslint-disable-next-line
+export function log(message: any, prefix?: string, _?: any): void {
     if (debug) {
         console.log(`${prefix ? `[${prefix}]` : null} ${message}`);
     }
 }
 
-export function error(message: any, prefix?: string) {
+// eslint-disable-next-line
+export function error(message: any, prefix?: string, _?: any): void {
     console.log(`[ERROR] ${prefix ? `[${prefix}]` : null} ${message}`);
     process.exit(1);
 }

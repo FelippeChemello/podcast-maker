@@ -8,15 +8,15 @@ export default class Terminal {
         this.isTTY = process.stdout.isTTY;
     }
 
-    cursorSave() {
+    cursorSave(): void {
         process.stdout.write('\x1B7');
     }
 
-    cursorRestore() {
+    cursorRestore(): void {
         process.stdout.write('\x1B8');
     }
 
-    resetCursor() {
+    resetCursor(): void {
         if (!this.isTTY) {
             return;
         }
@@ -24,7 +24,7 @@ export default class Terminal {
         readline.cursorTo(process.stdout, 0);
     }
 
-    clearRight() {
+    clearRight(): void {
         if (!this.isTTY) {
             return;
         }
@@ -32,15 +32,15 @@ export default class Terminal {
         readline.clearLine(process.stdout, 1);
     }
 
-    newline() {
+    newline(): void {
         process.stdout.write('\n');
     }
 
-    write(s: string) {
+    write(s: string): void {
         process.stdout.write(s);
     }
 
-    getWidth() {
+    getWidth(): number {
         return process.stdout.columns || (process.stdout.isTTY ? 80 : 200);
     }
 }

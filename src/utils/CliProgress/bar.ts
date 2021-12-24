@@ -10,7 +10,7 @@ export default class GenericBar {
     private startTime: number;
     private eta: Eta;
     private formatter: typeof defaultFormatter;
-    private text: string =
+    private text =
         'progress [{bar}] {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}';
     private timer: NodeJS.Timeout;
     private isActive: boolean;
@@ -52,7 +52,7 @@ export default class GenericBar {
         );
     }
 
-    render() {
+    render(): void {
         if (this.timer) {
             clearTimeout(this.timer);
         }
@@ -83,7 +83,7 @@ export default class GenericBar {
         );
 
         const params = {
-            progress: progress,
+            progress,
             eta: this.eta.calculate().eta,
             rate: this.eta.calculate().ratePerSecond,
             startTime: this.startTime,
@@ -98,7 +98,7 @@ export default class GenericBar {
 
         this.terminal.write(text);
 
-        if (this.lastDrawnString != text && !this.terminal.isTTY) {
+        if (this.lastDrawnString !== text && !this.terminal.isTTY) {
             this.terminal.newline();
         }
 
@@ -112,11 +112,11 @@ export default class GenericBar {
         );
     }
 
-    stop() {
+    stop(): void {
         this.isActive = false;
     }
 
-    update(value: number) {
+    update(value: number): void {
         this.value = value;
 
         this.eta.update(value);

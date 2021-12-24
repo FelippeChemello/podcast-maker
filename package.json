@@ -39,6 +39,7 @@
         "dotenv": "^8.2.0",
         "google-auth-library": "^7.0.3",
         "googleapis": "^68.0.0",
+        "googleapis-common": "^5.0.5",
         "http": "^0.0.1-security",
         "microsoft-cognitiveservices-speech-sdk": "^1.15.1",
         "mp3-duration": "^1.1.0",

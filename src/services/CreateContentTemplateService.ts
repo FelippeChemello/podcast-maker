@@ -8,8 +8,6 @@ import InterfaceJsonContent from '../models/InterfaceJsonContent';
 export default class CreateContentTemplateService {
     private fileType = 'json';
 
-    constructor() {}
-
     public execute(
         description: string,
         content?: { news: string[]; title: string },
@@ -33,7 +31,8 @@ export default class CreateContentTemplateService {
                 )}. Na descrição vocês encontram os links para saber mais sobre cada noticia. `,
             },
             end: {
-                text: 'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
+                text:
+                    'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
                 url: 'https://links.codestack.me/newsletter-filipe',
             },
             news: content?.news

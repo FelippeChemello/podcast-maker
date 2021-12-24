@@ -52,10 +52,10 @@ class RenderVideoService {
         const { assetsInfo, frameCount } = await renderFrames({
             config: video,
             webpackBundle: bundle,
-            onStart: ({ frameCount }) => {
+            onStart: ({ frameCount: total }) => {
                 renderProgressBar = new Bar({
                     initValue: 0,
-                    total: frameCount,
+                    total,
                     text:
                         '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
                 });

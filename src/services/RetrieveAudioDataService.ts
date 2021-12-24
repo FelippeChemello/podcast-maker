@@ -117,12 +117,12 @@ export default class RetrieveAudioDataService {
         }
     }
 
-    private async getDuration(path: string): Promise<number> {
+    private async getDuration(filePath: string): Promise<number> {
         return new Promise(resolve => {
-            mp3Duration(path, (err, duration: number) => {
+            mp3Duration(filePath, (err, duration: number) => {
                 if (err) {
                     error(
-                        `Failed at getting duration of ${path}`,
+                        `Failed at getting duration of ${filePath}`,
                         `TextToSpeechService`,
                     );
                 }
@@ -149,9 +149,9 @@ export default class RetrieveAudioDataService {
                         currentValue.duration +
                         this.transitionDurationInSeconds
                     );
-                } else {
-                    return accumulator + currentValue.duration;
                 }
+
+                return accumulator + currentValue.duration;
             },
             0,
         );

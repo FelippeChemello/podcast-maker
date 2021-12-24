@@ -8,7 +8,7 @@ import {
     CreateThumnailService,
     CreateContentTemplateService,
     YoutubeUploadService,
-    exportDataService,
+    ExportDataService,
     GetContentService,
     RenderVideoService,
     RetrieveAudioDuration,
@@ -23,7 +23,7 @@ export const createTTS = async ({
     contentFileName,
 }: {
     contentFileName?: string;
-}) => {
+}): Promise<void> => {
     const content = new GetContentService().execute(contentFileName);
 
     await new TextToSpeechService(content).execute({
@@ -38,7 +38,7 @@ export const createYouTube = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     const content = new GetContentService().execute(contentFileName);
 
     if (needTTS) {
@@ -55,7 +55,7 @@ export const createYouTube = async ({
 
     await new UrlShortenerService(content).execute();
 
-    new exportDataService(content).execute('landscape');
+    new ExportDataService(content).execute('landscape');
 
     const bundle = await new BundleVideoService().execute();
 
@@ -69,7 +69,7 @@ export const createYouTube = async ({
     await new CreateThumnailService(content).execute(bundle);
 };
 
-export const uploadYouTube = async () => {
+export const uploadYouTube = async (): Promise<void> => {
     const videoPath = getLastestFileCreated('mp4', tmpPath);
     const thumbnailPath = getLastestFileCreated('jpeg', tmpPath);
     const content = JSON.parse(
@@ -85,7 +85,7 @@ export const createAndUploadYouTube = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     await createYouTube({
         contentFileName,
         needTTS,
@@ -100,7 +100,7 @@ export const createInstagram = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     const content = new GetContentService().execute(contentFileName);
 
     if (needTTS) {
@@ -115,7 +115,7 @@ export const createInstagram = async ({
         haveEnd: false,
     });
 
-    new exportDataService(content).execute('portrait');
+    new ExportDataService(content).execute('portrait');
 
     const bundle = await new BundleVideoService().execute();
 
@@ -129,7 +129,7 @@ export const createInstagram = async ({
     await new CreateThumnailService(content).execute(bundle);
 };
 
-export const uploadInstagram = async () => {
+export const uploadInstagram = async (): Promise<void> => {
     const videoPath = getLastestFileCreated('mp4', tmpPath);
     const thumbnailPath = getLastestFileCreated('jpeg', tmpPath);
     const content = JSON.parse(
@@ -145,7 +145,7 @@ export const createAndUploadInstagram = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     await createInstagram({
         contentFileName,
         needTTS,
@@ -160,7 +160,7 @@ export const createPodcast = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     const content = new GetContentService().execute(contentFileName);
 
     if (needTTS) {
@@ -177,7 +177,7 @@ export const createPodcast = async ({
 
     await new UrlShortenerService(content).execute();
 
-    new exportDataService(content).execute('square');
+    new ExportDataService(content).execute('square');
 
     const bundle = await new BundleVideoService().execute();
 
@@ -186,7 +186,7 @@ export const createPodcast = async ({
     await new CreatePodcastAudioFile(content).execute();
 };
 
-export const uploadAnchor = async () => {
+export const uploadAnchor = async (): Promise<void> => {
     const audioPath = getLastestFileCreated('mp3', tmpPath);
     const thumbnailPath = getLastestFileCreated('jpeg', tmpPath);
     const content = JSON.parse(
@@ -202,7 +202,7 @@ export const createAndUploadAnchor = async ({
 }: {
     contentFileName?: string;
     needTTS?: boolean;
-}) => {
+}): Promise<void> => {
     await createPodcast({
         contentFileName,
         needTTS,
@@ -211,18 +211,18 @@ export const createAndUploadAnchor = async ({
     await uploadAnchor();
 };
 
-export const createNewContent = (name: string) => {
+export const createNewContent = (name: string): void => {
     new CreateContentTemplateService().execute(name);
 };
 
-export const mailToContent = async () => {
+export const mailToContent = async (): Promise<void> => {
     await new MailToJsonService().execute();
 };
 
-export const validateLatestContent = () => {
+export const validateLatestContent = (): void => {
     new ValidatesContentService().execute();
 };
 
-export const cleanTmp = () => {
+export const cleanTmp = (): void => {
     new CleanTmpService().execute();
 };

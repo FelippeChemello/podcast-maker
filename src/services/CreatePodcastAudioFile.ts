@@ -44,12 +44,14 @@ class CreatePodcastAudioFile {
                     log(
                         'Starting audios concatenation',
                         'CreatePodcastAudioFile',
+                        command,
                     );
                 })
                 .on('error', (err: string, stdout: string, stderr: string) => {
                     error(
                         'Failed at concatenating audio',
                         'CreatePodcastAudioFile',
+                        JSON.stringify({ err, stdout, stderr }),
                     );
                 })
                 .on('end', (files: string) => {

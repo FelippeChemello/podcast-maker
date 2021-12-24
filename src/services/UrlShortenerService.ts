@@ -31,7 +31,7 @@ export default class UrlShortenerService {
             password: this.password,
         });
 
-        const token = auth.data.token;
+        const { token } = auth.data;
 
         for (let i = 0; i < this.content.news.length; i++) {
             if (!this.content.news[i].url) {

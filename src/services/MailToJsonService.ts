@@ -3,10 +3,10 @@ import { parse as parseToHtml } from 'node-html-parser';
 import { OAuth2Client } from 'googleapis-common';
 
 import { error, log } from '../utils/log';
-import { CreateContentTemplateService } from './';
+import { CreateContentTemplateService } from '.';
 
 export default class MailToJsonService {
-    private senderMail: string = 'newsletter@filipedeschamps.com.br';
+    private senderMail = 'newsletter@filipedeschamps.com.br';
     private redirectUrl = 'http://localhost:3000/oauth2callback';
     private clientId: string;
     private clientSecret: string;
@@ -43,8 +43,9 @@ export default class MailToJsonService {
             await this.createContentFile(news, title);
         } catch (err) {
             error(
-                'Failed at creating JSON file from mail \n' +
-                    JSON.stringify(err),
+                `Failed at creating JSON file from mail \n${JSON.stringify(
+                    err,
+                )}`,
                 'MailToJsonService',
             );
         }
@@ -54,7 +55,7 @@ export default class MailToJsonService {
         log('Getting access token', 'MailToJsonService');
 
         return new Promise(resolve => {
-            const OAuth2 = google.auth.OAuth2;
+            const { OAuth2 } = google.auth;
 
             const oauth2client = new OAuth2(
                 this.clientId,
@@ -69,8 +70,9 @@ export default class MailToJsonService {
             oauth2client.refreshAccessToken(async (err, token: any) => {
                 if (err || !token) {
                     error(
-                        'Failed at refreshing Google token \n' +
-                            JSON.stringify(err),
+                        `Failed at refreshing Google token \n${JSON.stringify(
+                            err,
+                        )}`,
                         'MailToJsonService',
                     );
                     return;
@@ -172,8 +174,8 @@ export default class MailToJsonService {
             return p.innerText
                 .replace(/\r|\n|\t/g, '')
                 .replace('      ', '')
-                .replace(/\"\w/g, '“')
-                .replace(/\w\"/g, '”');
+                .replace(/"\w/g, '“')
+                .replace(/\w"/g, '”');
         });
 
         return { news: sanitizedText, title };
@@ -184,10 +186,10 @@ export default class MailToJsonService {
 
         const today = new Date();
 
-        const description =
+        const description = `${
             `${today.getDate()}`.padStart(2, '0') +
-            `${today.getMonth() + 1}`.padStart(2, '0') +
-            `${today.getFullYear()}`;
+            `${today.getMonth() + 1}`.padStart(2, '0')
+        }${today.getFullYear()}`;
 
         createContentTemplateService.execute(description, {
             news,

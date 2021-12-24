@@ -2,8 +2,6 @@ import { error, log } from '../utils/log';
 import GetContentService from './GetContentService';
 
 export default class ValidatesContentService {
-    constructor() {}
-
     public execute(): void {
         const content = new GetContentService().execute();
 

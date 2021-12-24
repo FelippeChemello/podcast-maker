@@ -129,7 +129,9 @@ class TextToSpeechService {
 
     private getVoice() {
         if (!this.voice) {
-            this.voice = this.voices[1];
+            const [voice] = this.voices;
+
+            this.voice = voice;
         } else {
             const voiceIndex = this.voices.findIndex(
                 voice => this.voice === voice,
@@ -167,7 +169,7 @@ class TextToSpeechService {
             );
             synthesizer.speakSsmlAsync(
                 ssml,
-                result => {
+                _ => {
                     synthesizer.close();
                     resolve(outputFilePath);
                 },

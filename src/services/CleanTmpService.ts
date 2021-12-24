@@ -6,7 +6,6 @@ import { tmpPath } from '../config/defaultPaths';
 
 export default class CleanTmpService {
     private except = ['.gitkeep', 'example.json'];
-    constructor() {}
 
     public execute(): void {
         log(`Cleaning tmp`, 'CleanTmpService');

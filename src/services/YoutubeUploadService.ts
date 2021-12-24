@@ -76,7 +76,7 @@ export default class YoutubeUploadService {
             await this.uploadThumbnail(auth, thumnailPath, videoid);
         } catch (err) {
             error(
-                'Failed at uploading video \n' + JSON.stringify(err),
+                `Failed at uploading video \n${JSON.stringify(err)}`,
                 'YoutubeUploadService',
             );
         }
@@ -84,7 +84,7 @@ export default class YoutubeUploadService {
 
     private async getAccessToken(): Promise<OAuth2Client> {
         return new Promise(resolve => {
-            const OAuth2 = google.auth.OAuth2;
+            const { OAuth2 } = google.auth;
 
             const oauth2client = new OAuth2(
                 this.clientId,
@@ -97,8 +97,9 @@ export default class YoutubeUploadService {
             oauth2client.refreshAccessToken((err, token: any) => {
                 if (err || !token) {
                     error(
-                        'Failed at refreshing youtube token \n' +
-                            JSON.stringify(err),
+                        `Failed at refreshing youtube token \n${JSON.stringify(
+                            err,
+                        )}`,
                         'YoutubeUploadService',
                     );
                     return;
@@ -118,7 +119,7 @@ export default class YoutubeUploadService {
             url: string;
         }[] = [];
 
-        this.content.news.forEach((news, i) => {
+        this.content.news.forEach(news => {
             const [title, details] = news.text.split(': ');
 
             descriptionArray.push({
@@ -145,25 +146,23 @@ export default class YoutubeUploadService {
         const charactersLimitPerNews =
             this.descriptionCharactersLimit / descriptionArray.length;
 
-        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray =
-            descriptionArray.filter(
-                newsDescription =>
-                    newsDescription.title.length +
-                        newsDescription.details.length +
-                        newsDescription.url.length <
-                    charactersLimitPerNews,
-            );
+        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray = descriptionArray.filter(
+            newsDescription =>
+                newsDescription.title.length +
+                    newsDescription.details.length +
+                    newsDescription.url.length <
+                charactersLimitPerNews,
+        );
 
-        const characterRemain =
-            newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
-                .map(
-                    newsDescription =>
-                        charactersLimitPerNews -
-                        (newsDescription.title.length +
-                            newsDescription.details.length +
-                            newsDescription.url.length),
-                )
-                .reduce((acc, detailsLength) => acc + detailsLength);
+        const characterRemain = newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
+            .map(
+                newsDescription =>
+                    charactersLimitPerNews -
+                    (newsDescription.title.length +
+                        newsDescription.details.length +
+                        newsDescription.url.length),
+            )
+            .reduce((acc, detailsLength) => acc + detailsLength);
 
         const quantityOfNewsWithMoreThanLimitPerNews =
             descriptionArray.length -
@@ -177,7 +176,7 @@ export default class YoutubeUploadService {
 
         let description = '';
 
-        descriptionArray.forEach((newsDescriptions, i) => {
+        descriptionArray.forEach(newsDescriptions => {
             description += `${newsDescriptions.title} \n`;
 
             if (newsDescriptions.details) {
@@ -232,7 +231,8 @@ export default class YoutubeUploadService {
         const uploadProgressBar = new Bar({
             total: videoSize,
             initValue: 0,
-            text: '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
+            text:
+                '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
         });
 
         let title = `[CodeStack News] ${this.content.title}`;

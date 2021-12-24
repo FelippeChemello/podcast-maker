@@ -1,5 +1,5 @@
-require('dotenv').config();
 import { Command } from 'commander';
+import dotenv from 'dotenv';
 
 import {
     cleanTmp,
@@ -17,7 +17,10 @@ import {
     createAndUploadAnchor,
     mailToContent,
 } from './options';
+
 import { error, log } from './utils/log';
+
+dotenv.config();
 
 const program = new Command();
 program

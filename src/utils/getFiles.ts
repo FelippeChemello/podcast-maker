@@ -3,7 +3,10 @@ import path from 'path';
 
 import { error } from './log';
 
-export const getLastestFileCreated = (fileExt: string, dirPath: string) => {
+export const getLastestFileCreated = (
+    fileExt: string,
+    dirPath: string,
+): string => {
     const files = fs.readdirSync(dirPath);
 
     const fileTimestamp = files
@@ -25,7 +28,7 @@ export const getLastestFileCreated = (fileExt: string, dirPath: string) => {
     return path.resolve(dirPath, fullFileName);
 };
 
-export const getContentFromFile = (filePath: string) => {
+export const getContentFromFile = (filePath: string): any => {
     const data = fs.readFileSync(filePath, { encoding: 'utf-8' });
 
     if (!data) {

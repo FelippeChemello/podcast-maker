@@ -7,8 +7,7 @@ import { contentPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class GetContentService {
-    constructor() {}
-
+    // eslint-disable-next-line
     public execute(filename?: string): InterfaceJsonContent {
         const contentFilePath = filename
             ? path.resolve(contentPath, filename)

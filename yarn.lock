@@ -4073,6 +4073,18 @@ googleapis-common@^5.0.1:
     url-template "^2.0.8"
     uuid "^8.0.0"
 
+googleapis-common@^5.0.5:
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/googleapis-common/-/googleapis-common-5.0.5.tgz#4c7160be1ed7e4cc8cdbcdb6eac8a4b3a61dd782"
+  integrity sha512-o2dgoW4x4fLIAN+IVAOccz3mEH8Lj1LP9c9BSSvkNJEn+U7UZh0WSr4fdH08x5VH7+sstIpd1lOYFZD0g7j4pw==
+  dependencies:
+    extend "^3.0.2"
+    gaxios "^4.0.0"
+    google-auth-library "^7.0.2"
+    qs "^6.7.0"
+    url-template "^2.0.8"
+    uuid "^8.0.0"
+
 googleapis@^68.0.0:
   version "68.0.0"
   resolved "https://registry.yarnpkg.com/googleapis/-/googleapis-68.0.0.tgz#39ed4f189307863ba3f58f31760f4a384a72cc08"
