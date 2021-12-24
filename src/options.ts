@@ -3,7 +3,6 @@ import {
     CleanTmpService,
     ValidatesContentService,
     InstagramUploadService,
-    UrlShortenerService,
     BundleVideoService,
     CreateThumnailService,
     CreateContentTemplateService,
@@ -52,8 +51,6 @@ export const createYouTube = async ({
         haveIntro: true,
         haveEnd: true,
     });
-
-    await new UrlShortenerService(content).execute();
 
     new ExportDataService(content).execute('landscape');
 
@@ -174,8 +171,6 @@ export const createPodcast = async ({
         haveIntro: false,
         haveEnd: false,
     });
-
-    await new UrlShortenerService(content).execute();
 
     new ExportDataService(content).execute('square');
 

@@ -7,7 +7,6 @@ import YoutubeUploadService from './YoutubeUploadService';
 import CreateThumnailService from './CreateThumnailService';
 import BundleVideoService from './BundleVideoService';
 import CreateContentTemplateService from './CreateContentTemplateService';
-import UrlShortenerService from './UrlShortenerService';
 import CleanTmpService from './CleanTmpService';
 import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
@@ -25,7 +24,6 @@ export {
     CreateContentTemplateService,
     CreateThumnailService,
     BundleVideoService,
-    UrlShortenerService,
     CleanTmpService,
     InstagramUploadService,
     ValidatesContentService,

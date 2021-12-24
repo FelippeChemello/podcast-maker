@@ -19,7 +19,7 @@ export default class RetrieveAudioDataService {
         options: { haveIntro?: boolean; haveEnd?: boolean },
     ): Promise<void> {
         if (!audioDataIsInContent) {
-            this.retrieveAudioData(
+            await this.retrieveAudioData(
                 options.haveIntro || false,
                 options.haveEnd || false,
             );
@@ -49,7 +49,10 @@ export default class RetrieveAudioDataService {
     }
 
     private async retrieveAudioData(haveIntro: boolean, haveEnd: boolean) {
-        log('Getting data from audio files in tmp/', 'RetrieveAudioData');
+        log(
+            'Getting data from audio files in tmp/',
+            'RetrieveAudioDataService',
+        );
 
         const files = fs.readdirSync(tmpPath);
         const introFilePath = 'output-intro.mp3';
@@ -62,8 +65,7 @@ export default class RetrieveAudioDataService {
                     path.extname(file) === '.mp3' &&
                     !file.match(introAndEndFilesRegExp),
             )
-            .map(file => file.split('-')[1])
-            .map(file => Number(file.split('.')[0]))
+            .map(file => Number(file.split('-')[1].split('.')[0]))
             .sort((a, b) => a - b)
             .map(fileNumber => {
                 const fileRegExp = new RegExp(`-${fileNumber}.mp3`);
@@ -115,6 +117,8 @@ export default class RetrieveAudioDataService {
                 audioFilePath: path.resolve(tmpPath, endFilePath),
             });
         }
+
+        console.log(this.content);
     }
 
     private async getDuration(filePath: string): Promise<number> {
