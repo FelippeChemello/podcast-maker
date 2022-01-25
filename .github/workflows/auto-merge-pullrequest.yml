@@ -19,9 +19,9 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: merge
-              uses: pascalgn/automerge-action@v0.14.3
+              uses: ridedott/merge-me-action@v2
               env:
                   GITHUB_TOKEN: '${{ secrets.TOKEN_GITHUB }}'
-                  MERGE_LABELS: 'automerge'
-                  MERGE_METHOD: 'squash'
-                  MERGE_FILTER_AUTHOR: 'github-actions[bot]'
+                  MERGE_METHOD: SQUASH
+                  GITHUB_LOGIN: 'github-actions[bot]'
+                  MAXIMUM_RETRIES: 3
