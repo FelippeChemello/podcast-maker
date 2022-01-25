@@ -3,6 +3,11 @@ name: Auto Merge Pull Requests
 # To disable automerge, simply remove this label from secrets
 
 on:
+    workflow_run:
+        types:
+            - completed
+        workflows:
+          - "Create content file"
     pull_request:
         types:
             - labeled
