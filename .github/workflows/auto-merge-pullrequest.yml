@@ -7,11 +7,7 @@ on:
         types:
             - completed
         workflows:
-          - "Create content file"
-    pull_request:
-        types:
-            - labeled
-            - opened
+            - 'Create content file'
     workflow_dispatch:
 
 jobs:
@@ -19,9 +15,11 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: merge
-              uses: pascalgn/automerge-action@v0.14.3
-              env:
-                  GITHUB_TOKEN: '${{ secrets.TOKEN_GITHUB }}'
-                  MERGE_LABELS: 'automerge'
-                  MERGE_METHOD: 'squash'
-                  MERGE_FILTER_AUTHOR: 'github-actions[bot]'
+              uses: FelippeChemello/merge-bot@v0.4.6
+              with:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                reviewers: false
+                labels: ready, merge
+                blocking_labels: do not merge
+                method: squash
+                delete_source_branch: false
