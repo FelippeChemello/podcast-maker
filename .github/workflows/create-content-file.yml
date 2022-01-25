@@ -76,3 +76,4 @@ jobs:
                   branch: ${{ steps.date.outputs.formattedDate }}
                   commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}
                   labels: ${{ secrets.COMMIT_LABELS }}
+                    
