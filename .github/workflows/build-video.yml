@@ -2,8 +2,20 @@ name: Create video
 
 on:
     push:
-        branches: [master]
+        branches: 
+            - master
         paths:
+            - 'content/**'
+            - 'content/*.json'
+            - '**.json'
+    pull_request:
+        branches: 
+            - master
+        types: 
+            - closed
+        paths: 
+            - 'content/**'
+            - 'content/*.json'
             - '**.json'
     workflow_dispatch:
 
