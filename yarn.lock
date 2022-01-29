@@ -6200,10 +6200,15 @@ regjsparser@^0.6.4:
   dependencies:
     jsesc "~0.5.0"
 
-remotion@^2.0.2, remotion@^2.0.4, remotion@^2.0.5:
+remotion@^2.0.4, remotion@^2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/remotion/-/remotion-2.0.5.tgz#a2023c8e0d6532cd47738c987dd2e4980cd3d622"
   integrity sha512-IrMxkMQs6V2zuzFJhjAMJnUAPcQXSOvkmR4QHjsfIxskZBol308xplFX8pqMCdVij9OemlU+d2z2lrYSq3vCXQ==
+
+remotion@^2.6.1:
+  version "2.6.6"
+  resolved "https://registry.yarnpkg.com/remotion/-/remotion-2.6.6.tgz#b041757db7323bc44ec27cd158f41e123609d01e"
+  integrity sha512-mYamuF0s38H+6RcPTEBBoAR9solKmh7PcaQ5pOfI3WwR2iMwy8vos7TGAMS9teCkqdlKm6P+k8V/V06/KX2rAw==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
