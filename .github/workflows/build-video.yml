@@ -3,8 +3,8 @@ name: Create video
 on:
     push:
         branches: [master]
-        paths: 
-            - 'content/**'
+        paths:
+            - 'content/*.json'
     workflow_dispatch:
 
 env:
