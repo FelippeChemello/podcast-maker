@@ -26,7 +26,7 @@
         "content:validate"
     ],
     "dependencies": {
-        "@remotion/bundler": "^2.0.2",
+        "@remotion/bundler": "^2.6.1",
         "@remotion/cli": "^2.0.2",
         "@remotion/eslint-config": "^2.0.2",
         "@remotion/media-utils": "^2.0.4",
