@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 import { log } from '../utils/log';
-import { tmpPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 import format from '../config/format';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
@@ -14,7 +14,7 @@ export default class ExportDataService {
         this.content = content;
     }
 
-    public execute(videoFormat: 'portrait' | 'landscape' | 'square'): void {
+    public async execute(videoFormat: 'portrait' | 'landscape' | 'square') {
         const dataFilename = `${this.content.timestamp}.${this.fileType}`;
 
         this.content.width = format[videoFormat].width;
@@ -23,7 +23,7 @@ export default class ExportDataService {
         log(`Exporting data to ${dataFilename}`, 'ExportDataService');
 
         fs.writeFileSync(
-            path.resolve(tmpPath, dataFilename),
+            path.resolve(await getPath('tmp'), dataFilename),
             JSON.stringify(this.content),
         );
     }

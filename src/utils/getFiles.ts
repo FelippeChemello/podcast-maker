@@ -2,39 +2,33 @@ import fs from 'fs';
 import path from 'path';
 
 import { error } from './log';
+import { getPath } from '../config/defaultPaths';
 
-export const getLastestFileCreated = (
+export const getLatestFileCreated = async (
     fileExt: string,
-    dirPath: string,
-): string => {
+    dirPath?: string,
+) => {
+    if (!dirPath) {
+        dirPath = await getPath('tmp');
+    }
+
     const files = fs.readdirSync(dirPath);
 
-    const fileTimestamp = files
+    const mostRecentlyCreatedFile = files
         .filter(file => path.extname(file) === `.${fileExt}`)
-        .map(file => file.split('.')[0])
-        .map(file => Number(file.split('-')[0]))
-        .filter(file => !Number.isNaN(file))
-        .sort((a, b) => a - b)
-        .pop();
+        .map(file => ({
+            file,
+            creationTime: fs
+                .statSync(path.join(dirPath as string, file))
+                .ctime.getTime(),
+        }))
+        .sort((a, b) => b.creationTime - a.creationTime)
+        .pop()?.file;
 
-    const fileRegExp = new RegExp(`${fileTimestamp}.*.${fileExt}`, 'ig');
-
-    const fullFileName = files.find(file => file.match(fileRegExp));
-    if (!fullFileName) {
-        error(`Could not find ${fileExt} file in ${dirPath}`, 'getFiles');
+    if (!mostRecentlyCreatedFile) {
+        error(`No ${fileExt} file in ${dirPath}`);
         process.exit(1);
     }
 
-    return path.resolve(dirPath, fullFileName);
-};
-
-export const getContentFromFile = (filePath: string): any => {
-    const data = fs.readFileSync(filePath, { encoding: 'utf-8' });
-
-    if (!data) {
-        error(`Could not find file ${filePath}`, 'getFiles');
-        process.exit(1);
-    }
-
-    return data;
+    return path.resolve(dirPath, mostRecentlyCreatedFile);
 };

@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'ProductSans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(ProductSans-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'ProductSans';
+    font-style: normal;
+    font-weight: 200;
+    src: url(ProductSans-Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'ProductSans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(ProductSans-Black.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 200;
+    src: url(Nunito-ExtraLight.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Nunito-Light.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Nunito-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    src: url(Nunito-SemiBold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Nunito-Bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Courier Prime';
+    font-style: normal;
+    font-weight: 400;
+    src: url(CourierPrime-Regular.woff) format('woff');
+}

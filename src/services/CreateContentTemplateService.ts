@@ -2,16 +2,16 @@ import fs from 'fs';
 import path from 'path';
 
 import { log } from '../utils/log';
-import { contentPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class CreateContentTemplateService {
     private fileType = 'json';
 
-    public execute(
+    public async execute(
         description: string,
         content?: { news: string[]; title: string },
-    ): void {
+    ) {
         const timestamp = Math.round(Date.now() / 1000);
 
         const newsTemplate = new Array(10).fill({
@@ -41,7 +41,7 @@ export default class CreateContentTemplateService {
         };
 
         const contentFileName = path.resolve(
-            contentPath,
+            await getPath('content'),
             `${timestamp}-${description}.${this.fileType}`,
         );
 

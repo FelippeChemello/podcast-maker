@@ -8,7 +8,7 @@ import {
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
-import { tmpPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 import format from '../config/format';
 import Bar from '../utils/CliProgress/bar';
 
@@ -27,8 +27,13 @@ class RenderVideoService {
         destination?: 'youtube' | 'instagram',
     ): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
+        const tmpPath = await getPath('tmp');
+
         const compositions = await getCompositions(bundle, {
-            inputProps: { filename: this.content.timestamp },
+            inputProps: {
+                filename: `${this.content.timestamp}.json`,
+                tmpPath,
+            },
         });
         const video = compositions.find(c => c.id === this.compositionId);
         if (!video) {
@@ -66,9 +71,10 @@ class RenderVideoService {
             parallelism: null,
             outputDir: framesDir,
             inputProps: {
-                filename: this.content.timestamp,
+                filename: `${this.content.timestamp}.json`,
                 withoutIntro: !withIntro,
                 destination,
+                tmpPath,
             },
             compositionId: this.compositionId,
             imageFormat: 'jpeg',

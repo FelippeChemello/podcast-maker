@@ -1,19 +1,24 @@
 {
     "compilerOptions": {
-        "target": "es6",
+        "target": "es2019",
         "module": "commonjs",
-        "outDir": "./dist",
-        "rootDir": "./src",
+        "outDir": "dist",
+        "jsx": "react-jsx",
+        "rootDir": ".",
         "strict": true,
         "noImplicitAny": false,
         "strictPropertyInitialization": false,
         "baseUrl": "./src",
         "allowJs": true,
-        "types": ["node", "@types/jest"],
+        "types": ["node"],
         "esModuleInterop": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true
-    }
+        "forceConsistentCasingInFileNames": true,
+        "declaration": true,
+        "importHelpers": true,
+        "lib": ["es2015", "DOM"]
+    },
+    "include": ["src/**/*", "video/**/*", "assets/**/*"]
 }

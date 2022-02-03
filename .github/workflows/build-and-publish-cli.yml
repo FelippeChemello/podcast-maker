@@ -1,4 +1,4 @@
-name: Create video
+name: Build and Publish CLI
 
 on:
     push:

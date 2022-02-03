@@ -2,8 +2,8 @@ import { error, log } from '../utils/log';
 import GetContentService from './GetContentService';
 
 export default class ValidatesContentService {
-    public execute(): void {
-        const content = new GetContentService().execute();
+    public async execute() {
+        const content = await new GetContentService().execute();
 
         const errors: string[] = [];
 
