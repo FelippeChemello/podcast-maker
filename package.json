@@ -66,7 +66,7 @@
         "@babel/plugin-proposal-decorators": "^7.12.12",
         "@babel/preset-env": "^7.12.11",
         "@babel/preset-typescript": "^7.12.7",
-        "@types/node": "^14.6.1",
+        "@types/node": "^14.18.10",
         "@types/react": "^17.0.3",
         "@types/shelljs": "^0.8.11",
         "@types/styled-components": "^5.1.9",
