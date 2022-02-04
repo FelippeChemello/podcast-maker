@@ -2,7 +2,7 @@
   <img src="assets/LogoPodcast.png">
 </div>
 
-[![Author](https://img.shields.io/badge/Author-FelippeChemello-%237895B0)](https://github.com/FelippeChemello)
+<br/>
 
 <p align="center">
     <a href="https://github.com/FelippeChemello">
@@ -17,6 +17,10 @@
     </a>
     <a href="https://github.com/FelippeChemello/sync.video/actions">
         <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/felippechemello/podcast-maker/Create%20video?style=for-the-badge&label=Render%20and%20publish%20videos">
+    </a>
+    <br/>
+    <a href="https://www.npmjs.com/package/podcast-maker">
+        <img alt="GitHub Workflow Status" src="https://img.shields.io/npm/v/podcast-maker/latest?label=CLI&style=for-the-badge">
     </a>
 </p>
 
@@ -35,55 +39,69 @@ This project was developed using:
 
 ## Examples
 
-[YouTube](https://www.youtube.com/channel/UCEQb3ajJgTK_Xr33OE0jeoQ) 
-[Instagram](https://www.instagram.com/codestackme/)
+-   [YouTube](https://www.youtube.com/channel/UCEQb3ajJgTK_Xr33OE0jeoQ)
+-   [Instagram](https://www.instagram.com/codestackme/)
+
+## ⚙️ Requirements
+
+-   You need to install both NodeJS, Yarn, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/build-video.yml#L215-L223))
+-   Access to YouTube API and/or Account on Instagram
 
 ## 💻 Getting started
-
-**Requirements**
-
--   You need to install both NodeJS, Yarn, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/main.yml))
--   Access to YouTube API and/or Account on Instagram
 
 ### Install and Usage
 
 ```sh-session
 $ npm install -g podcast-maker
+
 $ podcast-maker COMMAND
 running command...
-$ podcast-maker --version
-podcast-maker/2.0.0
+
 $ podcast-maker --help [COMMAND]
 USAGE
   $ podcast-maker COMMAND
-...
+
+```
+
+**Before start using, configure it**
+At this step, you will be asked for environment variables for services, like Text-to-Speech, YouTube API, Instagram Login...
+
+```sh-session
+$ podcast-maker configure
 ```
 
 ### Contribute
 
 **Clone the project and access the folder**
 
-```bash
+```sh-session
 $ git clone https://github.com/FelippeChemello/podcast-maker.git && cd podcast-maker
 ```
 
 **Install dependencies**
 
-```bash
+```sh-session
 $ yarn
 ```
 
-**Copy .env.local to .env and edit environment variables**
+**Copy .env.local to .env and edit environment variables or configure using CLI**
 
-```bash
+```sh-session
 $ cp .env.local .env
 $ vim .env
 ```
 
+or
+
+```sh-session
+$ yarn build
+$ ./bin/run configure
+```
+
 **Use it**
 
-```bash
-$ podcast-maker -h
+```sh-session
+$ ./bin/run --help
 ```
 
 ## 📝 License
@@ -93,11 +111,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with 💜 by Felippe Chemello 👋 [Check out my LinkedIn](https://www.linkedin.com/in/felippechemello/)
-
-
-
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
-[![CircleCI](https://circleci.com/gh/oclif/hello-world/tree/main.svg?style=shield)](https://circleci.com/gh/oclif/hello-world/tree/main)
-[![Downloads/week](https://img.shields.io/npm/dw/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
-[![License](https://img.shields.io/npm/l/oclif-hello-world.svg)](https://github.com/oclif/hello-world/blob/main/package.json)

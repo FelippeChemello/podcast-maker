@@ -1,0 +1,65 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "airbnb-base",
+        "plugin:@typescript-eslint/recommended",
+        "prettier/@typescript-eslint",
+        "plugin:prettier/recommended",
+        "oclif",
+        "oclif-typescript",
+        "@remotion"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": ["@typescript-eslint", "prettier"],
+    "rules": {
+        "import/extensions": [
+            "error",
+            "ignorePackages",
+            {
+                "ts": "never"
+            }
+        ],
+        "@typescript-eslint/camelcase": "off",
+        "no-underscore-dangle": "off",
+        "prettier/prettier": "error",
+        "class-methods-use-this": "off",
+        "@typescript-eslint/no-unused-vars": [
+            "warn",
+            {
+                "varsIgnorePattern": "^_",
+                "argsIgnorePattern": "^_",
+                "ignoreRestSiblings": true
+            }
+        ],
+        "@typescript-eslint/naming-convention": [
+            "error",
+            {
+                "selector": "interface",
+                "prefix": ["Interface"],
+                "format": ["PascalCase"]
+            }
+        ],
+        "no-await-in-loop": "off",
+        "lines-between-class-members": "off",
+        "@typescript-eslint/no-explicit-any": "off",
+        "no-console": "off",
+        "no-plusplus": "off",
+        "no-continue": "off"
+    },
+    "settings": {
+        "import/resolver": {
+            "typescript": {}
+        }
+    }
+}

@@ -1,6 +1,6 @@
 {
     "name": "podcast-maker",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Podcast Maker CLI",
     "author": "Felippe Chemello @FelippeChemello",
     "bin": {
@@ -14,11 +14,11 @@
         "/bin",
         "/dist",
         "/npm-shrinkwrap.json",
-        "/oclif.manifest.json"
+        "/oclif.manifest.json",
+        "README.md"
     ],
     "scripts": {
         "build": "shx rm -rf dist && tsc -b",
-        "lint": "eslint . --ext .ts --config .eslintrc",
         "postpack": "shx rm -f oclif.manifest.json",
         "prepack": "yarn build && oclif manifest && oclif readme",
         "version": "oclif readme && git add README.md",
