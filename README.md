@@ -2,88 +2,106 @@
   <img src="assets/LogoPodcast.png">
 </div>
 
-[![Author](https://img.shields.io/badge/Author-FelippeChemello-%237895B0)](https://github.com/FelippeChemello)
+<br/>
 
-<h4 align="center">
-   A fully automated news Podcast maker <br>
-   Um criador de podcasts de notícias totalmente automatizado
-</h4>
+<p align="center">
+    <a href="https://github.com/FelippeChemello">
+        <img alt="Author" src="https://img.shields.io/badge/Author-FelippeChemello-blue?style=for-the-badge&logo=appveyor">
+    </a> 
+    <br/>
+    <a href="https://github.com/FelippeChemello/sync.video/actions">
+        <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/felippechemello/podcast-maker/Create%20content%20file?label=generate%20content%20file%20from%20email&style=for-the-badge">
+    </a>
+    <a href="https://github.com/FelippeChemello/sync.video/actions">
+        <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/felippechemello/podcast-maker/Auto%20Merge%20Pull%20Requests?style=for-the-badge&label=Auto%20Merge%20content%20files">
+    </a>
+    <a href="https://github.com/FelippeChemello/sync.video/actions">
+        <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/felippechemello/podcast-maker/Create%20video?style=for-the-badge&label=Render%20and%20publish%20videos">
+    </a>
+    <br/>
+    <a href="https://www.npmjs.com/package/podcast-maker">
+        <img alt="GitHub Workflow Status" src="https://img.shields.io/npm/v/podcast-maker/latest?label=CLI&style=for-the-badge">
+    </a>
+</p>
 
-## Tecnologies | Tecnologias
+## Tecnologies
 
 <div align="center">
   <img src="assets/TechLogos.png" style="height='128px'">
 </div>
 
 This project was developed using:
-Este projeto foi desenvolvido utilizando:
 
 -   [Typescript](https://www.typescriptlang.org/)
 -   [NodeJS](https://nodejs.dev/)
 -   [ReactJS](https://reactjs.org/)
 -   [Remotion](https://www.remotion.dev/)
 
-## Examples | Exemplos
+## Examples
 
-| [YouTube](https://www.youtube.com/channel/UCEQb3ajJgTK_Xr33OE0jeoQ) | [Instagram](https://www.instagram.com/codestackme/) | [Podcast](https://anchor.fm/codestack) |
-| --- | --- | --- |
-| [<img src="https://img.youtube.com/vi/ePc9ljAkIjc/maxresdefault.jpg" width="320"/>](https://www.youtube.com/watch?v=ePc9ljAkIjc) | [<img src="https://links.codestack.me/0mp" width="250"/>](https://instagram.com/tv/CN2jdC4Aelc) |  [<img src="https://links.codestack.me/0i9" width="250"/>](https://anchor.fm/codestack/episodes/CodeStack-News-Stalkers-utilizam-status-do-WhatsApp-ilegalmente--Primeiro-voo-em-Marte--Apple-anuncia-impacto-de-carregadores-ev86fi) |
+-   [YouTube](https://www.youtube.com/channel/UCEQb3ajJgTK_Xr33OE0jeoQ)
+-   [Instagram](https://www.instagram.com/codestackme/)
 
-## 💻 Getting started | Iniciando
+## ⚙️ Requirements
 
-### Requirements | Requisitos
+-   You need to install both NodeJS, Yarn, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/build-video.yml#L215-L223))
+-   Access to YouTube API and/or Account on Instagram
 
-#### English
--   You need to install both NodeJS, Yarn, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/main.yml))
--   Access to YouTube API, Account on Instagram or on AnchorFM
+## 💻 Getting started
 
-#### Portuguese
--   Você precisa instalar NodeJS, Yarn, FFMPEG e Google Chrome Completo (Para executar com servidor, verifique o workflow do Github Actions [aqui](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/main.yml)).
--   Acesso a API do YouTube, conta do Instagram ou no AnchorFM
+### Install and Usage
 
-**Clone the project and access the folder | Clone o projeto e acesse o diretório**
+```sh-session
+$ npm install -g podcast-maker
 
-```bash
+$ podcast-maker COMMAND
+running command...
+
+$ podcast-maker --help [COMMAND]
+USAGE
+  $ podcast-maker COMMAND
+
+```
+
+**Before start using, configure it**
+At this step, you will be asked for environment variables for services, like Text-to-Speech, YouTube API, Instagram Login...
+
+```sh-session
+$ podcast-maker configure
+```
+
+### Contribute
+
+**Clone the project and access the folder**
+
+```sh-session
 $ git clone https://github.com/FelippeChemello/podcast-maker.git && cd podcast-maker
 ```
 
-**Install dependencies | Instale as dependencias**
+**Install dependencies**
 
-```bash
+```sh-session
 $ yarn
 ```
 
-**Copy .env.local to .env and edit environment variables | Copie .env.local para .env e edite as variáveis de ambiente**
+**Copy .env.local to .env and edit environment variables or configure using CLI**
 
-```bash
+```sh-session
 $ cp .env.local .env
 $ vim .env
 ```
 
-**Create content file and edit it | Crie arquivo de conteúdo e edite-o**
+or
 
-```bash
-$ yarn content:create <description>
-$ vim json/*-<description>.json
+```sh-session
+$ yarn build
+$ ./bin/run configure
 ```
 
-**Create video to your favorite platform | Crie o video para a plataforma desejada**
+**Use it**
 
-```bash
-
-yarn video:make:tts # Only TTS text from content
-yarn video:make:youtube # Only create YouTube video from content (expects TTS has already been created)
-yarn video:make:instagram # Only create Instagram video from content (expects TTS has already been created)
-yarn video:make:podcast # Only create PodCast audio from content (expects TTS has already been created)
-yarn video:upload:youtube # Only upload video to YouTube (expects video has been created)
-yarn video:upload:instagram # Only upload video to instagram (expects video has been created)
-yarn video:upload:anchor # Only audio video to AnchorFM (expects podcast audio has been created)
-yarn video:full:youtube # TTS, Create video and upload to YouTube
-yarn video:full:instagram # TTS, create video and upload to IGTV
-yarn video:full:anchor # TTS, create audio and upload to AnchorFM
-yarn tmp:clean # Clean tmp/ except example files
-yarn content:create # Create content JSON file - You should edit it adding your data and news
-yarn content:validate # Pre-commit command, validates if content file has been filled correctly
+```sh-session
+$ ./bin/run --help
 ```
 
 ## 📝 License

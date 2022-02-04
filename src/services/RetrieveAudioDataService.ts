@@ -3,7 +3,7 @@ import path from 'path';
 import mp3Duration from 'mp3-duration';
 
 import { log, error } from '../utils/log';
-import { tmpPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class RetrieveAudioDataService {
@@ -53,6 +53,8 @@ export default class RetrieveAudioDataService {
             'Getting data from audio files in tmp/',
             'RetrieveAudioDataService',
         );
+
+        const tmpPath = await getPath('tmp');
 
         const files = fs.readdirSync(tmpPath);
         const introFilePath = 'output-intro.mp3';
@@ -127,7 +129,7 @@ export default class RetrieveAudioDataService {
                 if (err) {
                     error(
                         `Failed at getting duration of ${filePath}`,
-                        `TextToSpeechService`,
+                        `RetrieveAudioDataService`,
                     );
                 }
 
@@ -138,7 +140,7 @@ export default class RetrieveAudioDataService {
 
     private setFullDuration() {
         if (!this.content.renderData) {
-            error('RenderData is undefined', 'ExportDataService');
+            error('RenderData is undefined', 'RetrieveAudioDataService');
             return;
         }
 

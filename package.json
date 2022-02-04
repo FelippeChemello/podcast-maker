@@ -1,37 +1,38 @@
 {
     "name": "podcast-maker",
-    "version": "1.0.0",
-    "main": "dist/server.js",
-    "license": "MIT",
-    "scripts": {
-        "video:preview": "remotion preview video/src/index.tsx --props='{\"filename\": \"example\", \"destination\": \"youtube\"}'",
-        "video:remotion-debug": "remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example\"}'",
-        "video:make:tts": "ts-node src/main.ts --build --config tts",
-        "video:make:youtube": "ts-node src/main.ts --build --config youtubeCreate ",
-        "video:make:instagram": "ts-node src/main.ts --build --config instagramCreate ",
-        "video:make:podcast": "ts-node src/main.ts --build --config podcastCreate ",
-        "video:upload:youtube": "ts-node src/main.ts --build --config youtubeUpload",
-        "video:upload:instagram": "ts-node src/main.ts --build --config instagramUpload",
-        "video:upload:anchor": "ts-node src/main.ts --build --config anchorUpload",
-        "video:full:youtube": "ts-node src/main.ts --build --config youtube --tts",
-        "video:full:instagram": "ts-node src/main.ts --build --config instagram --tts",
-        "video:full:anchor": "ts-node src/main.ts --build --config anchor --tts",
-        "tmp:clean": "ts-node src/main.ts --clean",
-        "content:create": "ts-node src/main.ts --create",
-        "content:mail": "ts-node src/main.ts --mailToContent",
-        "content:validate": "ts-node src/main.ts --validate",
-        "remotion:upgrade": "remotion upgrade"
+    "version": "2.0.1",
+    "description": "Podcast Maker CLI",
+    "author": "Felippe Chemello @FelippeChemello",
+    "bin": {
+        "podcast-maker": "./bin/run"
     },
-    "pre-commit": [
-        "content:validate"
+    "homepage": "https://github.com/FelippeChemello/podcast-maker",
+    "license": "MIT",
+    "main": "dist/src/index.js",
+    "repository": "FelippeChemello/podcast-maker",
+    "files": [
+        "/bin",
+        "/dist",
+        "/npm-shrinkwrap.json",
+        "/oclif.manifest.json",
+        "README.md"
     ],
+    "scripts": {
+        "build": "shx rm -rf dist && tsc -b",
+        "postpack": "shx rm -f oclif.manifest.json",
+        "prepack": "yarn build && oclif manifest && oclif readme",
+        "version": "oclif readme && git add README.md",
+        "postbuild": "copyfiles -u 1 assets/**/* dist/assets"
+    },
     "dependencies": {
-        "@remotion/bundler": "^2.0.2",
-        "@remotion/cli": "^2.0.2",
-        "@remotion/eslint-config": "^2.0.2",
-        "@remotion/media-utils": "^2.0.4",
-        "@remotion/renderer": "^2.0.2",
-        "@types/node": "^14.6.1",
+        "@oclif/core": "^1",
+        "@oclif/plugin-help": "^5",
+        "@oclif/plugin-plugins": "^2.0.1",
+        "@remotion/bundler": "^2.6.6",
+        "@remotion/cli": "^2.6.6",
+        "@remotion/eslint-config": "^2.6.6",
+        "@remotion/media-utils": "^2.6.6",
+        "@remotion/renderer": "^2.6.6",
         "audioconcat": "^0.1.4",
         "axios": "^0.21.1",
         "commander": "^7.2.0",
@@ -44,16 +45,18 @@
         "microsoft-cognitiveservices-speech-sdk": "^1.15.1",
         "mp3-duration": "^1.1.0",
         "node-html-parser": "^4.1.4",
-        "pre-commit": "^1.2.2",
         "puppeteer": "^8.0.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-icons": "^4.2.0",
-        "remotion": "^2.0.2",
+        "remotion": "^2.6.6",
         "rss-parser": "^3.12.0",
+        "shelljs": "^0.8.5",
         "string-width": "^4.2.2",
+        "styled-components": "^5.3.3",
         "ts-node": "^9.1.1",
-        "ts-node-dev": "^1.1.8"
+        "ts-node-dev": "^1.1.8",
+        "util": "^0.12.4"
     },
     "devDependencies": {
         "@babel/cli": "^7.12.10",
@@ -63,19 +66,56 @@
         "@babel/plugin-proposal-decorators": "^7.12.12",
         "@babel/preset-env": "^7.12.11",
         "@babel/preset-typescript": "^7.12.7",
+        "@types/node": "^14.6.1",
         "@types/react": "^17.0.3",
+        "@types/shelljs": "^0.8.11",
         "@types/styled-components": "^5.1.9",
         "@typescript-eslint/eslint-plugin": "^3.9.0",
         "@typescript-eslint/parser": "^3.9.0",
         "babel-plugin-module-resolver": "^4.1.0",
         "babel-plugin-transform-typescript-metadata": "^0.3.1",
+        "copyfiles": "^2.4.1",
         "eslint": "^7.15.0",
         "eslint-config-airbnb-base": "^14.2.0",
+        "eslint-config-oclif": "^4",
+        "eslint-config-oclif-typescript": "^1.0.2",
         "eslint-config-prettier": "^6.11.0",
         "eslint-import-resolver-typescript": "^2.2.1",
         "eslint-plugin-import": "^2.21.2",
         "eslint-plugin-prettier": "^3.1.4",
+        "oclif": "^2.4.3",
         "prettier": "^2.2.1",
+        "shx": "^0.3.3",
+        "tslib": "^2.3.1",
         "typescript": "^4.1.3"
-    }
+    },
+    "oclif": {
+        "bin": "podcast-maker",
+        "dirname": "podcast-maker",
+        "commands": "./dist/src/commands",
+        "plugins": [
+            "@oclif/plugin-help",
+            "@oclif/plugin-plugins"
+        ],
+        "hooks": {
+            "init": [
+                "./dist/src/hooks/init/loadSecrets.js",
+                "./dist/src/hooks/init/createTmpSymLink.js"
+            ]
+        }
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "bugs": "https://github.com/FelippeChemello/podcast-maker/issues",
+    "keywords": [
+        "podcast",
+        "video-maker",
+        "video maker",
+        "video creator",
+        "video editor",
+        "clip maker",
+        "cli"
+    ],
+    "types": "src/types.d.ts"
 }

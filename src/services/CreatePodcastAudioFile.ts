@@ -3,11 +3,10 @@ import audioConcat from 'audioconcat';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
-import { assetsPath, tmpPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 
 class CreatePodcastAudioFile {
     private content: InterfaceJsonContent;
-    private transitionAudioPath = path.resolve(assetsPath, 'transition.mp3');
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
@@ -23,13 +22,18 @@ class CreatePodcastAudioFile {
             process.exit(1);
         }
 
+        const transitionAudioPath = path.resolve(
+            await getPath('assets'),
+            'transition.mp3',
+        );
+
         const audioFilesWithTransitions = audioFiles
             .map((file, index) => {
                 if (index === audioFiles.length - 1) {
                     return [file];
                 }
 
-                return [file, this.transitionAudioPath];
+                return [file, transitionAudioPath];
             })
             .reduce((acc, array) => acc.concat(array), []);
 
@@ -37,9 +41,11 @@ class CreatePodcastAudioFile {
     }
 
     private concatAudioFiles(audioFilesPath: string[]): Promise<string> {
-        return new Promise(resolve => {
+        return new Promise(async resolve => {
+            
+
             audioConcat(audioFilesPath)
-                .concat(path.resolve(tmpPath, `${this.content.timestamp}.mp3`))
+                .concat(path.resolve(await getPath('tmp'), `${this.content.timestamp}.mp3`))
                 .on('start', (command: string) => {
                     log(
                         'Starting audios concatenation',

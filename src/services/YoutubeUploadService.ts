@@ -66,14 +66,14 @@ export default class YoutubeUploadService {
 
     public async execute(
         videoPath: string,
-        thumnailPath: string,
+        thumbnailPath: string,
     ): Promise<void> {
         try {
             const auth = await this.getAccessToken();
 
-            const videoid = await this.uploadVideo(auth, videoPath);
+            const videoId = await this.uploadVideo(auth, videoPath);
 
-            await this.uploadThumbnail(auth, thumnailPath, videoid);
+            await this.uploadThumbnail(auth, thumbnailPath, videoId);
         } catch (err) {
             error(
                 `Failed at uploading video \n${JSON.stringify(err)}`,

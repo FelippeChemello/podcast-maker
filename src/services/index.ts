@@ -11,7 +11,6 @@ import CleanTmpService from './CleanTmpService';
 import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
 import CreatePodcastAudioFile from './CreatePodcastAudioFile';
-import AnchorFmUploadService from './AnchorFmUploadService';
 import MailToJsonService from './MailToJsonService';
 
 export {
@@ -28,6 +27,5 @@ export {
     InstagramUploadService,
     ValidatesContentService,
     CreatePodcastAudioFile,
-    AnchorFmUploadService,
     MailToJsonService,
 };

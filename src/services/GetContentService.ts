@@ -2,16 +2,18 @@ import fs from 'fs';
 import path from 'path';
 
 import { error, log } from '../utils/log';
-import { getLastestFileCreated } from '../utils/getFiles';
-import { contentPath } from '../config/defaultPaths';
+import { getLatestFileCreated } from '../utils/getFiles';
+import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class GetContentService {
     // eslint-disable-next-line
-    public execute(filename?: string): InterfaceJsonContent {
+    public async execute(filename?: string): Promise<InterfaceJsonContent> {
+        const contentPath = await getPath('content');
+        
         const contentFilePath = filename
             ? path.resolve(contentPath, filename)
-            : getLastestFileCreated('json', contentPath);
+            : await getLatestFileCreated('json', contentPath);
 
         log(`Getting content from ${contentFilePath}`, 'GetContentService');
 

@@ -191,7 +191,7 @@ export default class MailToJsonService {
             `${today.getMonth() + 1}`.padStart(2, '0')
         }${today.getFullYear()}`;
 
-        createContentTemplateService.execute(description, {
+        await createContentTemplateService.execute(description, {
             news,
             title,
         });

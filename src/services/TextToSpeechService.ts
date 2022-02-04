@@ -7,7 +7,7 @@ import {
 import path from 'path';
 
 import { error, log } from '../utils/log';
-import { tmpPath } from '../config/defaultPaths';
+import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 class TextToSpeechService {
@@ -144,6 +144,8 @@ class TextToSpeechService {
     }
 
     private async synthesize(text: string, sufix: string): Promise<string> {
+        const tmpPath = await getPath('tmp');
+
         return new Promise(resolve => {
             const outputFilePath = path.resolve(tmpPath, `output-${sufix}.mp3`);
 
