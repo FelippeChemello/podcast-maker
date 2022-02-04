@@ -42,7 +42,7 @@
         "googleapis": "^68.0.0",
         "googleapis-common": "^5.0.5",
         "http": "^0.0.1-security",
-        "microsoft-cognitiveservices-speech-sdk": "^1.15.1",
+        "microsoft-cognitiveservices-speech-sdk": "^1.20.0",
         "mp3-duration": "^1.1.0",
         "node-html-parser": "^4.1.4",
         "puppeteer": "^8.0.0",
