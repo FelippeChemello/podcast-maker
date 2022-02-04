@@ -44,6 +44,7 @@ jobs:
               uses: actions/setup-node@v2.1.4
               with:
                   node-version: 14.x
+                  always-auth: true
 
             - name: Get node_modules from cache
               id: dependencies
@@ -56,7 +57,7 @@ jobs:
               if: steps.dependencies.outputs.cache-hit != 'true'
               run: yarn
 
-            - name: Publish
-              run: yarn publish
-              env:
-                  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+            - uses: JS-DevTools/npm-publish@v1
+              with:
+                  token: ${{ secrets.NPM_TOKEN }}
+                  check-version: false

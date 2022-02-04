@@ -24,6 +24,10 @@
         "version": "oclif readme && git add README.md",
         "postbuild": "copyfiles -u 1 assets/**/* dist/assets"
     },
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/"
+    },
     "dependencies": {
         "@oclif/core": "^1",
         "@oclif/plugin-help": "^5",
