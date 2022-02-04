@@ -80,7 +80,7 @@
         "eslint-config-oclif": "^4",
         "eslint-config-oclif-typescript": "^1.0.2",
         "eslint-config-prettier": "^6.11.0",
-        "eslint-import-resolver-typescript": "^2.2.1",
+        "eslint-import-resolver-typescript": "^2.5.0",
         "eslint-plugin-import": "^2.21.2",
         "eslint-plugin-prettier": "^3.1.4",
         "oclif": "^2.4.3",
