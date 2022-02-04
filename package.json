@@ -34,7 +34,7 @@
         "@remotion/media-utils": "^2.6.6",
         "@remotion/renderer": "^2.6.6",
         "audioconcat": "^0.1.4",
-        "axios": "^0.21.1",
+        "axios": "^0.25.0",
         "commander": "^7.2.0",
         "date-fns": "^2.21.1",
         "dotenv": "^8.2.0",
