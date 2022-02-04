@@ -75,7 +75,7 @@
         "babel-plugin-module-resolver": "^4.1.0",
         "babel-plugin-transform-typescript-metadata": "^0.3.1",
         "copyfiles": "^2.4.1",
-        "eslint": "^7.15.0",
+        "eslint": "^7.32.0",
         "eslint-config-airbnb-base": "^14.2.0",
         "eslint-config-oclif": "^4",
         "eslint-config-oclif-typescript": "^1.0.2",
