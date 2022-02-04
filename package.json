@@ -70,7 +70,7 @@
         "@types/react": "^17.0.3",
         "@types/shelljs": "^0.8.11",
         "@types/styled-components": "^5.1.9",
-        "@typescript-eslint/eslint-plugin": "^3.9.0",
+        "@typescript-eslint/eslint-plugin": "^3.10.1",
         "@typescript-eslint/parser": "^3.9.0",
         "babel-plugin-module-resolver": "^4.1.0",
         "babel-plugin-transform-typescript-metadata": "^0.3.1",
