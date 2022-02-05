@@ -41,11 +41,11 @@ jobs:
                   node-version: 14.x
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.0
+              uses: FelippeChemello/action-npm-global@latest
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
-                  
+
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
                   DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
@@ -83,7 +83,7 @@ jobs:
               uses: FedericoCarboni/setup-ffmpeg@v1
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.0
+              uses: FelippeChemello/action-npm-global@latest
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
@@ -151,7 +151,7 @@ jobs:
               run: export CHROME_BIN=$(which google-chrome)
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.0
+              uses: FelippeChemello/action-npm-global@latest
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker

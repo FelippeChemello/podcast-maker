@@ -21,23 +21,22 @@ jobs:
               uses: actions/checkout@v2
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.0
-              with: 
-                package-manager: 'yarn'
-                package-name: podcast-maker
+              uses: FelippeChemello/action-npm-global@latest
+              with:
+                  package-manager: 'yarn'
+                  package-name: podcast-maker
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
-                DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
-                ContentPath=$(podcast-maker info content --dir)
-                if [ -d "$ContentPath" ]; then 
-                    ls $ContentPath;
-                    echo "ContentPath exists, deleting it"; 
-                    rm -rf $ContentPath; 
-                fi; 
-                echo "Creating SymLink from $(pwd)/content to $DataPath"; 
-                ln -s $(pwd)/content $DataPath                                   
-
+                  DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
+                  ContentPath=$(podcast-maker info content --dir)
+                  if [ -d "$ContentPath" ]; then 
+                      ls $ContentPath;
+                      echo "ContentPath exists, deleting it"; 
+                      rm -rf $ContentPath; 
+                  fi; 
+                  echo "Creating SymLink from $(pwd)/content to $DataPath"; 
+                  ln -s $(pwd)/content $DataPath
 
             - name: Get current date
               id: date
@@ -56,4 +55,3 @@ jobs:
                   branch: ${{ steps.date.outputs.formattedDate }}
                   commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}
                   labels: ${{ secrets.COMMIT_LABELS }}
-                    
