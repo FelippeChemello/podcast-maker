@@ -41,7 +41,7 @@ jobs:
                   node-version: 14.x
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@latest
+              uses: FelippeChemello/action-npm-global@1.0.1
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
@@ -83,7 +83,7 @@ jobs:
               uses: FedericoCarboni/setup-ffmpeg@v1
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@latest
+              uses: FelippeChemello/action-npm-global@1.0.1
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
@@ -151,7 +151,7 @@ jobs:
               run: export CHROME_BIN=$(which google-chrome)
 
             - name: Install CLI
-              uses: FelippeChemello/action-npm-global@latest
+              uses: FelippeChemello/action-npm-global@1.0.1
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
