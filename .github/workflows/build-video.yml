@@ -45,6 +45,18 @@ jobs:
               with:
                   package-manager: 'yarn'
                   package-name: podcast-maker
+                  
+            - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
+              run: |
+                  DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
+                  ContentPath=$(podcast-maker info content --dir)
+                  if [ -d "$ContentPath" ]; then 
+                      ls $ContentPath;
+                      echo "ContentPath exists, deleting it"; 
+                      rm -rf $ContentPath; 
+                  fi; 
+                  echo "Creating SymLink from $(pwd)/content to $DataPath"; 
+                  ln -s $(pwd)/content $DataPath
 
             - name: Create TTS
               run: podcast-maker create tts
