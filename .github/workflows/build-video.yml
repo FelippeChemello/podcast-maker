@@ -30,7 +30,6 @@ env:
 
 jobs:
     TextToSpeech:
-        needs: [CacheDependencies]
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
