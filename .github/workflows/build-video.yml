@@ -72,6 +72,12 @@ jobs:
                   path: ${{ steps.tmp.outputs.tmpPath }}/*.mp3
                   retention-days: 3
 
+            - name: SSH debug
+              if: ${{ failure() }}
+              uses: mxschmitt/action-tmate@v3
+              with:
+                  limit-access-to-actor: true
+
     YouTube:
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
@@ -125,11 +131,11 @@ jobs:
                       !${{ steps.tmp.outputs.tmpPath }}/example.json
                   retention-days: 2
 
-            # - name: SSH debug
-            #   if: ${{ failure() }}
-            #   uses: mxschmitt/action-tmate@v3
-            #   with:
-            #     limit-access-to-actor: true
+            - name: SSH debug
+              if: ${{ failure() }}
+              uses: mxschmitt/action-tmate@v3
+              with:
+                  limit-access-to-actor: true
 
     Instagram:
         needs: [TextToSpeech]
