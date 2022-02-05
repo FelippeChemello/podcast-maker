@@ -18,11 +18,10 @@ export const getLatestFileCreated = async (
         .filter(file => path.extname(file) === `.${fileExt}`)
         .map(file => ({
             file,
-            creationTime: fs
-                .statSync(path.join(dirPath as string, file))
-                .ctime.getTime(),
+            creationTime: Number(file.split('.')[0].split('-')[0]),
         }))
-        .sort((a, b) => b.creationTime - a.creationTime)
+        .filter(file => !Number.isNaN(file.creationTime))
+        .sort((a, b) => a.creationTime - b.creationTime)
         .pop()?.file;
 
     if (!mostRecentlyCreatedFile) {
