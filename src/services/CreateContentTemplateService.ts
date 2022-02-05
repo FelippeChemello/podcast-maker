@@ -28,7 +28,7 @@ export default class CreateContentTemplateService {
                 text: `Olá pessoal, A seguir vocês acompanharão as notícias desta ${new Date().toLocaleDateString(
                     'pt-BR',
                     { weekday: 'long' },
-                )}. Na descrição vocês encontram os links para saber mais sobre cada noticia. `,
+                )}.`,
             },
             end: {
                 text:

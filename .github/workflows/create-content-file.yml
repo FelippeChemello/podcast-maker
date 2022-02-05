@@ -14,28 +14,6 @@ env:
     #  ACTIONS_STEP_DEBUG: true
 
 jobs:
-    CacheDependencies:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v2
-
-            - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
-              with:
-                  node-version: 14.x
-
-            - name: Cache node_modules
-              id: dependencies
-              uses: actions/cache@v2
-              with:
-                  path: node_modules
-                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
-
-            - name: Install project dependencies
-              if: steps.dependencies.outputs.cache-hit != 'true'
-              run: yarn
-
     CreateContentFile:
         needs: [CacheDependencies]
         runs-on: ubuntu-latest
@@ -43,21 +21,24 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
-              with:
-                  node-version: 14.x
+            - name: Install CLI
+              uses: FelippeChemello/action-npm-global@1.0.0
+              with: 
+                package-manager: 'yarn'
+                package-name: podcast-maker
 
-            - name: Get node_modules from cache
-              id: dependencies
-              uses: actions/cache@v2
-              with:
-                  path: node_modules
-                  key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
+            - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
+              run: |
+                DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
+                ContentPath=$(podcast-maker info content --dir)
+                if [ -d "$ContentPath" ]; then 
+                    ls $ContentPath;
+                    echo "ContentPath exists, deleting it"; 
+                    rm -rf $ContentPath; 
+                fi; 
+                echo "Creating SymLink from $(pwd)/content to $DataPath"; 
+                ln -s $(pwd)/content $DataPath                                   
 
-            - name: Install project dependencies
-              if: steps.dependencies.outputs.cache-hit != 'true'
-              run: yarn
 
             - name: Get current date
               id: date
@@ -66,7 +47,7 @@ jobs:
                   echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
 
             - name: Create Content File
-              run: yarn content:mail
+              run: podcast-maker content mail
 
             - name: Create PR to master with Content File
               uses: peter-evans/create-pull-request@v3
