@@ -8,6 +8,10 @@ on:
             - completed
         workflows:
             - 'Create content file'
+    pull_request:
+        types:
+            - opened
+            - labeled
     workflow_dispatch:
 
 jobs:
@@ -15,11 +19,11 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: merge
-              uses: FelippeChemello/merge-bot@v0.4.7
+              uses: FelippeChemello/merge-bot@v0.4.8
               with:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                reviewers: false
-                labels: automerge
-                blocking_labels: do not merge
-                method: squash
-                delete_source_branch: false
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  reviewers: false
+                  blocking_labels: do not merge
+                  method: squash
+                  delete_source_branch: false
+                  authors: github-actions[bot],dependabot[bot]

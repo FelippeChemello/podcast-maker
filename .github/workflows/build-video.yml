@@ -40,10 +40,22 @@ jobs:
               with:
                   node-version: 14.x
 
-            - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.1
+            - name: Get yarn global path
+              id: yarn-global
+              run: echo "::set-output name=path::$(yarn global dir)"
+
+            - name: podcast-maker CLI cache
+              uses: actions/cache@v2
+              id: podcast-maker-cache
               with:
-                  package-manager: 'yarn'
+                  path: ${{ steps.yarn-global.outputs.path }}
+                  key: ${{ runner.os }}-yarn-podcast-maker
+
+            - name: Install CLI
+              if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
+              uses: FelippeChemello/action-npm-global@1.1.0
+              with:
+                  package-manager: yarn
                   package-name: podcast-maker
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
@@ -72,11 +84,11 @@ jobs:
                   path: ${{ steps.tmp.outputs.tmpPath }}/*.mp3
                   retention-days: 3
 
-            - name: SSH debug
-              if: ${{ failure() }}
-              uses: mxschmitt/action-tmate@v3
-              with:
-                  limit-access-to-actor: true
+            # - name: SSH debug
+            #   if: ${{ failure() }}
+            #   uses: mxschmitt/action-tmate@v3
+            #   with:
+            #       limit-access-to-actor: true
 
     YouTube:
         needs: [TextToSpeech]
@@ -88,10 +100,22 @@ jobs:
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
 
-            - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.1
+            - name: Get yarn global path
+              id: yarn-global
+              run: echo "::set-output name=path::$(yarn global dir)"
+
+            - name: podcast-maker CLI cache
+              uses: actions/cache@v2
+              id: podcast-maker-cache
               with:
-                  package-manager: 'yarn'
+                  path: ${{ steps.yarn-global.outputs.path }}
+                  key: ${{ runner.os }}-yarn-podcast-maker
+
+            - name: Install CLI
+              if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
+              uses: FelippeChemello/action-npm-global@1.1.0
+              with:
+                  package-manager: yarn
                   package-name: podcast-maker
 
             - name: Get tmp path
@@ -131,12 +155,6 @@ jobs:
                       !${{ steps.tmp.outputs.tmpPath }}/example.json
                   retention-days: 2
 
-            - name: SSH debug
-              if: ${{ failure() }}
-              uses: mxschmitt/action-tmate@v3
-              with:
-                  limit-access-to-actor: true
-
     Instagram:
         needs: [TextToSpeech]
         runs-on: ubuntu-latest
@@ -156,10 +174,22 @@ jobs:
             - name: Exports chrome bin path to ENV
               run: export CHROME_BIN=$(which google-chrome)
 
-            - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.1
+            - name: Get yarn global path
+              id: yarn-global
+              run: echo "::set-output name=path::$(yarn global dir)"
+
+            - name: podcast-maker CLI cache
+              uses: actions/cache@v2
+              id: podcast-maker-cache
               with:
-                  package-manager: 'yarn'
+                  path: ${{ steps.yarn-global.outputs.path }}
+                  key: ${{ runner.os }}-yarn-podcast-maker
+
+            - name: Install CLI
+              if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
+              uses: FelippeChemello/action-npm-global@1.1.0
+              with:
+                  package-manager: yarn
                   package-name: podcast-maker
 
             - name: Get tmp path
