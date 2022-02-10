@@ -28,4 +28,4 @@ jobs:
                   blocking_labels: do not merge
                   method: squash
                   delete_source_branch: false
-                  authors: codestack.me[bot],dependabot[bot]
+                  authors: codestack-me[bot],dependabot[bot]
