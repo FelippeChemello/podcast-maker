@@ -20,19 +20,33 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Get yarn global path
+            - name: Setup Node.JS environment
+              uses: actions/setup-node@v2.1.4
+              with:
+                  node-version: 14.x
+
+            - name: Global output and Yarn Config
               id: global
               run: |
-                  echo "::set-output name=yarnPath::$(yarn global dir)"
                   echo "::set-output name=formattedDate::$(date +%d/%m/%Y)"
                   echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
+                  echo "::set-output name=yarnPath::$(yarn cache dir)"
+                  yarn config set prefix $(yarn cache dir)
+                  echo $(yarn global bin) >> $GITHUB_PATH
+                  yarn config set global-folder $(yarn cache dir)
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v2
               id: podcast-maker-cache
               with:
-                  path: ${{ steps.global.outputs.yarnPath }}
-                  key: ${{ runner.os }}-yarn-podcast-maker-${{ steps.global.outputs.bashDate }}
+                  path: |
+                      ${{ steps.global.outputs.yarnPath }}
+                      **/node_modules
+                  key: ${{ runner.os }}-yarn-${{ env.cache-version }}-${{ hashFiles('**/yarn.lock') }}
+                  restore-keys: |
+                      ${{ runner.os }}-yarn-${{ env.cache-version }}-
+                      ${{ runner.os }}-yarn-
+                      ${{ runner.os }}-
 
             - name: Install CLI
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'

@@ -21,11 +21,11 @@ jobs:
                   private_key: ${{ secrets.PRIVATE_KEY_GITHUB_APP }}
 
             - name: Merge
-              uses: FelippeChemello/merge-bot@v0.4.9
+              uses: FelippeChemello/merge-bot@v0.4.10
               with:
                   GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
                   reviewers: false
                   blocking_labels: do not merge
                   method: squash
                   delete_source_branch: false
-                  authors: codestack.me[bot],dependabot[bot]
+                  authors: codestack-me[bot],dependabot[bot]
