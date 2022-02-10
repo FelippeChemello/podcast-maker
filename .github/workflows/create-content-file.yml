@@ -20,11 +20,23 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Install CLI
-              uses: FelippeChemello/action-npm-global@1.0.1
+            - name: Get yarn global path
+              id: global
+              run: |
+                  echo "::set-output name=yarnPath::$(yarn global dir)"
+                  echo "::set-output name=formattedDate::$(date +%d/%m/%Y)"
+                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
+
+            - name: podcast-maker CLI cache
+              uses: actions/cache@v2
+              id: podcast-maker-cache
               with:
-                  package-manager: 'yarn'
-                  package-name: podcast-maker
+                  path: ${{ steps.global.outputs.yarnPath }}
+                  key: ${{ runner.os }}-yarn-podcast-maker-${{ steps.global.outputs.bashDate }}
+
+            - name: Install CLI
+              if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
+              run: yarn global add podcast-maker
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
@@ -47,6 +59,13 @@ jobs:
             - name: Create Content File
               run: podcast-maker content mail
 
+            - name: Generate GitHub Token
+              uses: tibdex/github-app-token@v1.5.0
+              id: generate-token
+              with:
+                  app_id: ${{ secrets.ID_GITHUB_APP }}
+                  private_key: ${{ secrets.PRIVATE_KEY_GITHUB_APP }}
+
             - name: Create PR to master with Content File
               uses: peter-evans/create-pull-request@v3
               with:
@@ -54,4 +73,4 @@ jobs:
                   body: Automação - Conteúdo ${{ steps.date.outputs.formattedDate }}
                   branch: ${{ steps.date.outputs.formattedDate }}
                   commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}
-                  labels: ${{ secrets.COMMIT_LABELS }}
+                  token: ${{ steps.generate-token.outputs.token }}

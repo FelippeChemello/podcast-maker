@@ -3,11 +3,6 @@ name: Auto Merge Pull Requests
 # To disable automerge, simply remove this label from secrets
 
 on:
-    workflow_run:
-        types:
-            - completed
-        workflows:
-            - 'Create content file'
     pull_request:
         types:
             - opened
@@ -18,12 +13,19 @@ jobs:
     automerge:
         runs-on: ubuntu-latest
         steps:
-            - name: merge
-              uses: FelippeChemello/merge-bot@v0.4.8
+            - name: Generate GitHub Token
+              uses: tibdex/github-app-token@v1
+              id: generate-token
               with:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  app_id: ${{ secrets.ID_GITHUB_APP }}
+                  private_key: ${{ secrets.PRIVATE_KEY_GITHUB_APP }}
+
+            - name: Merge
+              uses: FelippeChemello/merge-bot@v0.4.9
+              with:
+                  GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
                   reviewers: false
                   blocking_labels: do not merge
                   method: squash
                   delete_source_branch: false
-                  authors: github-actions[bot],dependabot[bot]
+                  authors: codestack.me[bot],dependabot[bot]
