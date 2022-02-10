@@ -8,11 +8,6 @@ on:
             - 'content/**'
             - 'content/*.json'
             - '**.json'
-    workflow_run:
-        types:
-            - completed
-        workflows:
-            - 'Auto Merge Pull Requests'
     workflow_dispatch:
 
 env:
@@ -41,22 +36,21 @@ jobs:
                   node-version: 14.x
 
             - name: Get yarn global path
-              id: yarn-global
-              run: echo "::set-output name=path::$(yarn global dir)"
+              id: global
+              run: |
+                  echo "::set-output name=yarnPath::$(yarn global dir)"
+                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v2
               id: podcast-maker-cache
               with:
-                  path: ${{ steps.yarn-global.outputs.path }}
-                  key: ${{ runner.os }}-yarn-podcast-maker
+                  path: ${{ steps.global.outputs.yarnPath }}
+                  key: ${{ runner.os }}-yarn-podcast-maker-${{ steps.global.outputs.bashDate }}
 
             - name: Install CLI
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              uses: FelippeChemello/action-npm-global@1.1.0
-              with:
-                  package-manager: yarn
-                  package-name: podcast-maker
+              run: yarn global add podcast-maker
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
@@ -101,22 +95,21 @@ jobs:
               uses: FedericoCarboni/setup-ffmpeg@v1
 
             - name: Get yarn global path
-              id: yarn-global
-              run: echo "::set-output name=path::$(yarn global dir)"
+              id: global
+              run: |
+                  echo "::set-output name=yarnPath::$(yarn global dir)"
+                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v2
               id: podcast-maker-cache
               with:
-                  path: ${{ steps.yarn-global.outputs.path }}
-                  key: ${{ runner.os }}-yarn-podcast-maker
+                  path: ${{ steps.global.outputs.yarnPath }}
+                  key: ${{ runner.os }}-yarn-podcast-maker-${{ steps.global.outputs.bashDate }}
 
             - name: Install CLI
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              uses: FelippeChemello/action-npm-global@1.1.0
-              with:
-                  package-manager: yarn
-                  package-name: podcast-maker
+              run: yarn global add podcast-maker
 
             - name: Get tmp path
               id: tmp
@@ -175,22 +168,21 @@ jobs:
               run: export CHROME_BIN=$(which google-chrome)
 
             - name: Get yarn global path
-              id: yarn-global
-              run: echo "::set-output name=path::$(yarn global dir)"
+              id: global
+              run: |
+                  echo "::set-output name=yarnPath::$(yarn global dir)"
+                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v2
               id: podcast-maker-cache
               with:
-                  path: ${{ steps.yarn-global.outputs.path }}
-                  key: ${{ runner.os }}-yarn-podcast-maker
+                  path: ${{ steps.global.outputs.yarnPath }}
+                  key: ${{ runner.os }}-yarn-podcast-maker-${{ steps.global.outputs.bashDate }}
 
             - name: Install CLI
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              uses: FelippeChemello/action-npm-global@1.1.0
-              with:
-                  package-manager: yarn
-                  package-name: podcast-maker
+              run: yarn global add podcast-maker
 
             - name: Get tmp path
               id: tmp
