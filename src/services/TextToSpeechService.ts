@@ -11,7 +11,23 @@ import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 class TextToSpeechService {
-    private voices = ['pt-BR-FranciscaNeural', 'pt-BR-AntonioNeural'];
+    private voices = [
+        { chance: 3, name: 'pt-BR-FranciscaNeural' },
+        { chance: 3, name: 'pt-BR-AntonioNeural' },
+        { chance: 1, name: 'pt-BR-BrendaNeural' },
+        { chance: 1, name: 'pt-BR-DonatoNeural' },
+        { chance: 1, name: 'pt-BR-ElzaNeural' },
+        { chance: 1, name: 'pt-BR-FabioNeural' },
+        { chance: 3, name: 'pt-BR-GiovannaNeural' },
+        { chance: 3, name: 'pt-BR-HumbertoNeural' },
+        { chance: 1, name: 'pt-BR-JulioNeural' },
+        { chance: 3, name: 'pt-BR-LeilaNeural' },
+        { chance: 0, name: 'pt-BR-LeticiaNeural' },
+        { chance: 0, name: 'pt-BR-ManuelaNeural' },
+        { chance: 1, name: 'pt-BR-NicolauNeural' },
+        { chance: 1, name: 'pt-BR-ValerioNeural' },
+        { chance: 1, name: 'pt-BR-YaraNeural' },
+    ];
     private azureKey: string;
     private azureRegion: string;
     private voice: string;
@@ -128,16 +144,30 @@ class TextToSpeechService {
     }
 
     private getVoice() {
+        const voicesExtended = this.voices.reduce(
+            (acc, voice) => [...acc, ...Array(voice.chance).fill(voice.name)],
+            [] as string[],
+        );
+
         if (!this.voice) {
-            const [voice] = this.voices;
-
-            this.voice = voice;
+            this.voice =
+                voicesExtended[
+                    Math.floor(Math.random() * voicesExtended.length)
+                ];
         } else {
-            const voiceIndex = this.voices.findIndex(
-                voice => this.voice === voice,
-            );
+            let newVoice =
+                voicesExtended[
+                    Math.floor(Math.random() * voicesExtended.length)
+                ];
 
-            this.voice = this.voices[voiceIndex === 0 ? 1 : 0];
+            while (newVoice === this.voice) {
+                newVoice =
+                    voicesExtended[
+                        Math.floor(Math.random() * voicesExtended.length)
+                    ];
+            }
+
+            this.voice = newVoice;
         }
 
         return this.voice;
