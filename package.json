@@ -1,6 +1,6 @@
 {
     "name": "podcast-maker",
-    "version": "2.1.3",
+    "version": "2.2.0",
     "description": "Podcast Maker CLI",
     "author": "Felippe Chemello @FelippeChemello",
     "bin": {
