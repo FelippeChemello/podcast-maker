@@ -15,16 +15,16 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
+              uses: actions/setup-node@v3
               with:
-                  node-version: 14.x
+                  node-version: 16
 
             - name: Cache node_modules
               id: dependencies
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               with:
                   path: node_modules
                   key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}
@@ -38,17 +38,17 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
+              uses: actions/setup-node@v3
               with:
-                  node-version: 14.x
+                  node-version: 16
                   always-auth: true
 
             - name: Get node_modules from cache
               id: dependencies
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               with:
                   path: node_modules
                   key: ${{ runner.os }}-node_modules-${{ hashFiles('yarn.lock') }}

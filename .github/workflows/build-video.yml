@@ -28,23 +28,23 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
+              uses: actions/setup-node@v3
               with:
-                  node-version: 14.x
+                  node-version: 16
 
             - name: Global Yarn Config
               id: global
               run: |
-                  echo "::set-output name=yarnPath::$(yarn cache dir)"
+                  echo "yarnPath=$(yarn cache dir)" >> $GITHUB_OUTPUT
                   yarn config set prefix $(yarn cache dir)
                   echo $(yarn global bin) >> $GITHUB_PATH
                   yarn config set global-folder $(yarn cache dir)
 
             - name: podcast-maker CLI cache
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
@@ -77,10 +77,10 @@ jobs:
 
             - name: Get tmp path
               id: tmp
-              run: echo "::set-output name=tmpPath::$(podcast-maker info tmp --dir)"
+              run: echo "tmpPath=$(podcast-maker info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Save TTS files in Artifacts
-              uses: actions/upload-artifact@v2
+              uses: actions/upload-artifact@v3
               with:
                   name: audio-files
                   path: ${{ steps.tmp.outputs.tmpPath }}/*.mp3
@@ -97,12 +97,12 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
+              uses: actions/setup-node@v3
               with:
-                  node-version: 14.x
+                  node-version: 16
 
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
@@ -110,13 +110,13 @@ jobs:
             - name: Global Yarn Config
               id: global
               run: |
-                  echo "::set-output name=yarnPath::$(yarn cache dir)"
+                  echo "yarnPath=$(yarn cache dir)" >> $GITHUB_OUTPUT
                   yarn config set prefix $(yarn cache dir)
                   echo $(yarn global bin) >> $GITHUB_PATH
                   yarn config set global-folder $(yarn cache dir)
 
             - name: podcast-maker CLI cache
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
@@ -134,7 +134,7 @@ jobs:
 
             - name: Get tmp path
               id: tmp
-              run: echo "::set-output name=tmpPath::$(podcast-maker info tmp --dir)"
+              run: echo "tmpPath=$(podcast-maker info tmp --dir)"
 
             - name: Download TTS files
               uses: actions/download-artifact@v2
@@ -159,12 +159,21 @@ jobs:
 
             - name: Save video in Artifacts
               if: ${{ failure() }}
-              uses: actions/upload-artifact@v2
+              uses: actions/upload-artifact@v3
               with:
                   name: youtube-video-assets
                   path: |
                       ${{ steps.tmp.outputs.tmpPath }}/*.mp4
                       ${{ steps.tmp.outputs.tmpPath }}/*.jpeg
+                      ${{ steps.tmp.outputs.tmpPath }}/*.json
+                      !${{ steps.tmp.outputs.tmpPath }}/example.json
+                  retention-days: 2
+
+            - name: Save content in Artifacts
+              uses: actions/upload-artifact@v3
+              with:
+                  name: content-file
+                  path: |
                       ${{ steps.tmp.outputs.tmpPath }}/*.json
                       !${{ steps.tmp.outputs.tmpPath }}/example.json
                   retention-days: 2

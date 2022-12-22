@@ -18,25 +18,25 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Setup Node.JS environment
-              uses: actions/setup-node@v2.1.4
+              uses: actions/setup-node@v3
               with:
-                  node-version: 14.x
+                  node-version: 16
 
             - name: Global output and Yarn Config
               id: global
               run: |
-                  echo "::set-output name=formattedDate::$(date +%d/%m/%Y)"
-                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
-                  echo "::set-output name=yarnPath::$(yarn cache dir)"
+                  echo "formattedDate=$(date +%d/%m/%Y)"
+                  echo "bashDate=$(date +%d-%m-%Y)"
+                  echo "yarnPath=$(yarn cache dir)"
                   yarn config set prefix $(yarn cache dir)
                   echo $(yarn global bin) >> $GITHUB_PATH
                   yarn config set global-folder $(yarn cache dir)
 
             - name: podcast-maker CLI cache
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
@@ -67,8 +67,8 @@ jobs:
             - name: Get current date
               id: date
               run: |
-                  echo "::set-output name=formattedDate::$(date +%d/%m/%Y)"
-                  echo "::set-output name=bashDate::$(date +%d-%m-%Y)"
+                  echo "formattedDate=$(date +%d/%m/%Y)"
+                  echo "bashDate=$(date +%d-%m-%Y)"
 
             - name: Create Content File
               run: podcast-maker content mail
