@@ -5,6 +5,7 @@ import { getCompositions, renderFrames } from '@remotion/renderer';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
 import { getPath } from '../config/defaultPaths';
+import format from '../config/format';
 
 export default class CreateThumnailService {
     private content: InterfaceJsonContent;
@@ -14,7 +15,7 @@ export default class CreateThumnailService {
         this.content = content;
     }
 
-    public async execute(bundle: string): Promise<string> {
+    public async execute(bundle: string, videoFormat: 'portrait' | 'landscape' | 'square' = 'portrait'): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'CreateThumnailService');
         const tmpPath = await getPath('tmp');
 
@@ -43,7 +44,13 @@ export default class CreateThumnailService {
             parallelism: null,
             outputDir: tmpPath,
             inputProps: { filename: `${this.content.timestamp}.json` },
-            compositionId: this.compositionId,
+            composition: {
+                id: this.compositionId,
+                durationInFrames: 1,
+                fps: this.content.fps,
+                height: format[videoFormat].height,
+                width: format[videoFormat].width,
+            },
             imageFormat: 'jpeg',
         });
 

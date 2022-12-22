@@ -76,7 +76,13 @@ class RenderVideoService {
                 destination,
                 tmpPath,
             },
-            compositionId: this.compositionId,
+            composition: {
+                id: this.compositionId,
+                durationInFrames: (this.content.fullDuration || 1) * this.content.fps,
+                fps: this.content.fps,
+                width: format[videoFormat].width,
+                height: format[videoFormat].height,
+            },
             imageFormat: 'jpeg',
         });
 
@@ -98,7 +104,6 @@ class RenderVideoService {
             height: format[videoFormat].height,
             outputLocation: outputVideoPath,
             force: true,
-            imageFormat: 'jpeg',
             assetsInfo,
             onProgress: frame => {
                 stitchingProgressBar.update(frame);

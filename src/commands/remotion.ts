@@ -28,12 +28,12 @@ export default class Remotion extends Command {
                 break;
             case 'preview':
                 shell.exec(
-                    `yarn remotion preview video/src/index.tsx --props='{\"filename\": \"example\", \"destination\": \"youtube\"}'`,
+                    `yarn remotion preview video/src/index.tsx --props='{\"filename\": \"example.json\", \"destination\": \"youtube\"}'`,
                 );
                 break;
             case 'renderExample':
                 shell.exec(
-                    `yarn remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example\"}'`,
+                    `yarn remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example.json\", \"destination\": \"youtube\"}'`,
                 );
                 break;
         }

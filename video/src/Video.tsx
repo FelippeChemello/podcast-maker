@@ -29,6 +29,7 @@ export const RemotionVideo: React.FC = () => {
         fullDuration: number;
         date: string;
         title: string;
+        fps: number;
         renderData: { duration: number; text: string; audioFilePath: string }[];
     }>();
 
@@ -52,8 +53,8 @@ export const RemotionVideo: React.FC = () => {
             <Composition
                 id="Main"
                 component={Main}
-                durationInFrames={Math.floor(data.fullDuration * 30)}
-                fps={30}
+                durationInFrames={Math.floor(data.fullDuration * data.fps)}
+                fps={data.fps}
                 width={data.width}
                 height={data.height}
                 defaultProps={{
@@ -66,7 +67,7 @@ export const RemotionVideo: React.FC = () => {
                 id="Thumbnail"
                 component={Thumbnail}
                 durationInFrames={1}
-                fps={30}
+                fps={data.fps}
                 width={data.width}
                 height={data.height}
                 defaultProps={{
