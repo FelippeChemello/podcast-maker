@@ -3,6 +3,7 @@ import path from 'path';
 import {
     getCompositions,
     renderFrames,
+    renderMedia,
     stitchFramesToVideo,
 } from '@remotion/renderer';
 
@@ -41,10 +42,6 @@ class RenderVideoService {
             return '';
         }
 
-        const framesDir = await fs.promises.mkdtemp(
-            path.join(tmpPath, 'frames-'),
-        );
-
         const outputVideoPath = path.resolve(
             tmpPath,
             `${this.content.timestamp}.mp4`,
@@ -54,8 +51,7 @@ class RenderVideoService {
 
         let renderProgressBar = {} as Bar;
 
-        const { assetsInfo, frameCount } = await renderFrames({
-            config: video,
+        await renderMedia({
             webpackBundle: bundle,
             onStart: ({ frameCount: total }) => {
                 renderProgressBar = new Bar({
@@ -65,11 +61,11 @@ class RenderVideoService {
                         '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
                 });
             },
-            onFrameUpdate: frame => {
-                renderProgressBar.update(frame);
+            onProgress: ({ renderedFrames }) => {
+                renderProgressBar.update(renderedFrames);
             },
             parallelism: null,
-            outputDir: framesDir,
+            outputLocation: outputVideoPath,
             inputProps: {
                 filename: `${this.content.timestamp}.json`,
                 withoutIntro: !withIntro,
@@ -84,35 +80,10 @@ class RenderVideoService {
                 height: format[videoFormat].height,
             },
             imageFormat: 'jpeg',
+            codec: 'h264',
         });
 
         renderProgressBar.stop();
-
-        log(`Stitching frames`, 'RenderVideoService');
-
-        const stitchingProgressBar = new Bar({
-            initValue: 0,
-            total: frameCount,
-            text:
-                '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
-        });
-
-        await stitchFramesToVideo({
-            dir: framesDir,
-            fps: this.content.fps,
-            width: format[videoFormat].width,
-            height: format[videoFormat].height,
-            outputLocation: outputVideoPath,
-            force: true,
-            assetsInfo,
-            onProgress: frame => {
-                stitchingProgressBar.update(frame);
-            },
-        });
-
-        fs.rmdirSync(framesDir, { recursive: true });
-
-        stitchingProgressBar.stop();
 
         return outputVideoPath;
     }
