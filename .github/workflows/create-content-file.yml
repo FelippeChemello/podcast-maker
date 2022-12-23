@@ -23,7 +23,7 @@ jobs:
             - name: Setup Node.JS environment
               uses: actions/setup-node@v3
               with:
-                  node-version: 16
+                  node-version: 14
 
             - name: Global output and Yarn Config
               id: global

@@ -148,6 +148,7 @@ export const Thumbnail: React.FC<{
                         margin: 0,
                         right: orientation === 'landscape' ? 0 : 350,
                         transform: 'translateX(-20%)',
+                        // @ts-ignore
                         writingMode: `${
                             orientation === 'landscape'
                                 ? 'vertical-rl'
