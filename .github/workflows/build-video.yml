@@ -134,7 +134,7 @@ jobs:
 
             - name: Get tmp path
               id: tmp
-              run: echo "tmpPath=$(podcast-maker info tmp --dir)"
+              run: echo "tmpPath=$(podcast-maker info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Download TTS files
               uses: actions/download-artifact@v2

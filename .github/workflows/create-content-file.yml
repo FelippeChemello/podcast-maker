@@ -67,8 +67,8 @@ jobs:
             - name: Get current date
               id: date
               run: |
-                  echo "formattedDate=$(date +%d/%m/%Y)"
-                  echo "bashDate=$(date +%d-%m-%Y)"
+                  echo "formattedDate=$(date +%d/%m/%Y)" >> $GITHUB_OUTPUT
+                  echo "bashDate=$(date +%d-%m-%Y)" >> $GITHUB_OUTPUT
 
             - name: Create Content File
               run: podcast-maker content mail
@@ -81,7 +81,7 @@ jobs:
                   private_key: ${{ secrets.PRIVATE_KEY_GITHUB_APP }}
 
             - name: Create PR to master with Content File
-              uses: peter-evans/create-pull-request@v3
+              uses: peter-evans/create-pull-request@v4
               with:
                   title: Conteúdo ${{ steps.date.outputs.formattedDate }}
                   body: Automação - Conteúdo ${{ steps.date.outputs.formattedDate }}
