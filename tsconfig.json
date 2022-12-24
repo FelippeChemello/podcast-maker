@@ -20,5 +20,5 @@
         "importHelpers": true,
         "lib": ["es2015", "DOM"]
     },
-    "include": ["src/**/*", "video/**/*", "assets/**/*"]
+    "include": ["src/**/*", "video/**/*", "assets/**/*", "remotion.config.ts"]
 }

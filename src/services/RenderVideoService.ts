@@ -1,10 +1,8 @@
-import fs from 'fs';
+import os from 'os'
 import path from 'path';
 import {
     getCompositions,
-    renderFrames,
     renderMedia,
-    stitchFramesToVideo,
 } from '@remotion/renderer';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
@@ -47,7 +45,7 @@ class RenderVideoService {
             `${this.content.timestamp}.mp4`,
         );
 
-        log(`Rendering frames`, 'RenderVideoService');
+        log(`Rendering frames with concurrency of ${os.cpus().length} frames`, 'RenderVideoService');
 
         let renderProgressBar = {} as Bar;
 
@@ -81,6 +79,7 @@ class RenderVideoService {
             },
             imageFormat: 'jpeg',
             codec: 'h264',
+            verbose: true,
         });
 
         renderProgressBar.stop();
