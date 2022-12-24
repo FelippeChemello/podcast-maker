@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { getCompositions, renderFrames } from '@remotion/renderer';
+import { getCompositions, renderStill } from '@remotion/renderer';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
@@ -15,18 +15,9 @@ export default class CreateThumnailService {
         this.content = content;
     }
 
-    public async execute(bundle: string, videoFormat: 'portrait' | 'landscape' | 'square' = 'portrait'): Promise<string> {
+    public async execute(bundle: string, videoFormat: 'portrait' | 'landscape' | 'square' = 'landscape'): Promise<string> {
         log(`Getting compositions from ${bundle}`, 'CreateThumnailService');
         const tmpPath = await getPath('tmp');
-
-        const compositions = await getCompositions(bundle, {
-            inputProps: { filename: `${this.content.timestamp}.json`, tmpPath },
-        });
-        const video = compositions.find(c => c.id === this.compositionId);
-        if (!video) {
-            error(`Video not found`, 'RenderVideoService');
-            return '';
-        }
 
         const thumbnailPath = path.resolve(
             tmpPath,
@@ -35,14 +26,9 @@ export default class CreateThumnailService {
 
         log(`Starting render process`, 'CreateThumnailService');
 
-        await renderFrames({
-            config: video,
-            webpackBundle: bundle,
-            onStart: () => log(`Starting rendering`, 'CreateThumnailService'),
-            onFrameUpdate: frame =>
-                log(`Rendered frame ${frame}`, 'CreateThumnailService'),
-            parallelism: null,
-            outputDir: tmpPath,
+        await renderStill({
+            serveUrl: bundle,
+            output: thumbnailPath,
             inputProps: { filename: `${this.content.timestamp}.json` },
             composition: {
                 id: this.compositionId,
@@ -53,8 +39,6 @@ export default class CreateThumnailService {
             },
             imageFormat: 'jpeg',
         });
-
-        fs.renameSync(path.resolve(tmpPath, 'element-0.jpeg'), thumbnailPath);
 
         return thumbnailPath;
     }

@@ -15,17 +15,20 @@ export default class GenericBar {
     private timer: NodeJS.Timeout;
     private isActive: boolean;
     private customParams: Record<string, unknown>;
+    private autoStop: boolean;
 
     constructor({
         total,
         initValue,
         text,
         bufferLength,
+        autoStop = true,
     }: {
         total?: number;
         initValue: number;
         text?: string;
         bufferLength?: number;
+        autoStop?: boolean;
     }) {
         this.terminal = new Terminal();
 
@@ -46,6 +49,10 @@ export default class GenericBar {
         }
 
         this.isActive = true;
+
+        this.customParams = {};
+
+        this.autoStop = autoStop;
 
         this.timer = setTimeout(
             () => this.render(),
@@ -121,12 +128,14 @@ export default class GenericBar {
 
         this.eta.update(value);
 
-        if (this.total && this.value >= this.total) {
+        if (this.autoStop && this.total && this.value >= this.total) {
             this.stop();
         }
     }
 
     setTotal(total: number): void {
         this.total = total;
+
+        this.eta.setTotal(total);
     }
 }

@@ -14,6 +14,10 @@ export default class ETA {
         this.total = total;
     }
 
+    setTotal(total: number): void {
+        this.total = total;
+    }
+
     update(value: number): void {
         this.valueBuffer.push(value);
         this.timeBuffer.push(Date.now());

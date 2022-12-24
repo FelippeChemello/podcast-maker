@@ -1,9 +1,5 @@
-import os from 'os'
 import path from 'path';
-import {
-    getCompositions,
-    renderMedia,
-} from '@remotion/renderer';
+import { renderMedia } from '@remotion/renderer';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 import { log, error } from '../utils/log';
@@ -28,24 +24,10 @@ class RenderVideoService {
         log(`Getting compositions from ${bundle}`, 'RenderVideoService');
         const tmpPath = await getPath('tmp');
 
-        const compositions = await getCompositions(bundle, {
-            inputProps: {
-                filename: `${this.content.timestamp}.json`,
-                tmpPath,
-            },
-        });
-        const video = compositions.find(c => c.id === this.compositionId);
-        if (!video) {
-            error(`Video not found`, 'RenderVideoService');
-            return '';
-        }
-
         const outputVideoPath = path.resolve(
             tmpPath,
             `${this.content.timestamp}.mp4`,
         );
-
-        log(`Rendering frames with concurrency of ${os.cpus().length} frames`, 'RenderVideoService');
 
         const renderProgressBar = new Bar({
             initValue: 0,
@@ -53,7 +35,7 @@ class RenderVideoService {
         });
 
         await renderMedia({
-            webpackBundle: bundle,
+            serveUrl: bundle,
             onStart: ({ frameCount: total }) => {
                 renderProgressBar.setTotal(total);
             },
