@@ -46,7 +46,9 @@ jobs:
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn build
+              run: |
+                yarn
+                yarn build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
