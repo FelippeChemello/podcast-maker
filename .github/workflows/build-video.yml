@@ -35,26 +35,21 @@ jobs:
               with:
                   node-version: 16
 
-            - name: Global Yarn Config
-              id: global
-              run: |
-                  echo "yarnPath=$(yarn cache dir)" >> $GITHUB_OUTPUT
-                  yarn config set prefix $(yarn cache dir)
-                  echo $(yarn global bin) >> $GITHUB_PATH
-                  yarn config set global-folder $(yarn cache dir)
-
             - name: podcast-maker CLI cache
               uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
-                      ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
+                      dist
+                      bin
                   key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn build
+              run: |
+                  yarn
+                  yarn build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
@@ -103,30 +98,30 @@ jobs:
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
 
-            - name: Global Yarn Config
-              id: global
-              run: |
-                  echo "yarnPath=$(yarn cache dir)" >> $GITHUB_OUTPUT
-                  yarn config set prefix $(yarn cache dir)
-                  echo $(yarn global bin) >> $GITHUB_PATH
-                  yarn config set global-folder $(yarn cache dir)
-
             - name: podcast-maker CLI cache
               uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
-                      ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
+                      dist
+                      bin
                   key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn build
+              run: |
+                  yarn
+                  yarn build
 
             - name: Get tmp path
               id: tmp
               run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
+
+            - name: test
+              run: |
+                  echo ${{ steps.tmp.outputs.tmpPath }}
+                  ls ${{ steps.tmp.outputs.tmpPath }}
 
             - name: Download TTS files
               uses: actions/download-artifact@v2

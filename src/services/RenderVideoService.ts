@@ -74,7 +74,7 @@ class RenderVideoService {
             },
             composition: {
                 id: this.compositionId,
-                durationInFrames: (this.content.fullDuration || 1) * this.content.fps,
+                durationInFrames: Math.floor((this.content.fullDuration || 1) * this.content.fps),
                 fps: this.content.fps,
                 width: format[videoFormat].width,
                 height: format[videoFormat].height,
