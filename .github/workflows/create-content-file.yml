@@ -42,20 +42,16 @@ jobs:
                   path: |
                       ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
-                  key: ${{ runner.os }}-yarn-${{ env.cache-version }}-${{ hashFiles('**/yarn.lock') }}
-                  restore-keys: |
-                      ${{ runner.os }}-yarn-${{ env.cache-version }}-
-                      ${{ runner.os }}-yarn-
-                      ${{ runner.os }}-
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
-            - name: Install CLI
+            - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn global add podcast-maker
+              run: yarn build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
-                  DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
-                  ContentPath=$(podcast-maker info content --dir)
+                  DataPath=$(./bin/run info content --dir | sed -e "s/\/[^\/]*$//")
+                  ContentPath=$(./bin/run info content --dir)
                   if [ -d "$ContentPath" ]; then 
                       ls $ContentPath;
                       echo "ContentPath exists, deleting it"; 
@@ -71,7 +67,7 @@ jobs:
                   echo "bashDate=$(date +%d-%m-%Y)" >> $GITHUB_OUTPUT
 
             - name: Create Content File
-              run: podcast-maker content mail
+              run: ./bin/run content mail
 
             - name: Generate GitHub Token
               uses: tibdex/github-app-token@v1.5.0

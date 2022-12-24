@@ -50,20 +50,16 @@ jobs:
                   path: |
                       ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
-                  key: ${{ runner.os }}-yarn-${{ env.cache-version }}-${{ hashFiles('**/yarn.lock') }}
-                  restore-keys: |
-                      ${{ runner.os }}-yarn-${{ env.cache-version }}-
-                      ${{ runner.os }}-yarn-
-                      ${{ runner.os }}-
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
-            - name: Install CLI
+            - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn global add podcast-maker
+              run: yarn build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
-                  DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
-                  ContentPath=$(podcast-maker info content --dir)
+                  DataPath=$(./bin/run info content --dir | sed -e "s/\/[^\/]*$//")
+                  ContentPath=$(./bin/run info content --dir)
                   if [ -d "$ContentPath" ]; then 
                       ls $ContentPath;
                       echo "ContentPath exists, deleting it"; 
@@ -73,11 +69,11 @@ jobs:
                   ln -s $(pwd)/content $DataPath
 
             - name: Create TTS
-              run: podcast-maker create tts
+              run: ./bin/run create tts
 
             - name: Get tmp path
               id: tmp
-              run: echo "tmpPath=$(podcast-maker info tmp --dir)" >> $GITHUB_OUTPUT
+              run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Save TTS files in Artifacts
               uses: actions/upload-artifact@v3
@@ -122,19 +118,15 @@ jobs:
                   path: |
                       ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
-                  key: ${{ runner.os }}-yarn-${{ env.cache-version }}-${{ hashFiles('**/yarn.lock') }}
-                  restore-keys: |
-                      ${{ runner.os }}-yarn-${{ env.cache-version }}-
-                      ${{ runner.os }}-yarn-
-                      ${{ runner.os }}-
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
-            - name: Install CLI
+            - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn global add podcast-maker
+              run: yarn build
 
             - name: Get tmp path
               id: tmp
-              run: echo "tmpPath=$(podcast-maker info tmp --dir)" >> $GITHUB_OUTPUT
+              run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Download TTS files
               uses: actions/download-artifact@v2
@@ -144,8 +136,8 @@ jobs:
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
-                  DataPath=$(podcast-maker info content --dir | sed -e "s/\/[^\/]*$//")
-                  ContentPath=$(podcast-maker info content --dir)
+                  DataPath=$(./bin/run info content --dir | sed -e "s/\/[^\/]*$//")
+                  ContentPath=$(./bin/run info content --dir)
                   if [ -d "$ContentPath" ]; then 
                       ls $ContentPath;
                       echo "ContentPath exists, deleting it"; 
@@ -155,7 +147,7 @@ jobs:
                   ln -s $(pwd)/content $DataPath
 
             - name: Create Youtube video
-              run: podcast-maker create youtube --upload
+              run: ./bin/run create youtube --upload
 
             - name: Save video in Artifacts
               if: ${{ failure() }}

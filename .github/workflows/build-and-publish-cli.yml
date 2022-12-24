@@ -57,7 +57,14 @@ jobs:
               if: steps.dependencies.outputs.cache-hit != 'true'
               run: yarn
 
-            - uses: JS-DevTools/npm-publish@v1
+            - name: Build CLI
+              run: yarn build
+
+            - name: Cache Dist and Bin
+              uses: actions/cache@v3
               with:
-                  token: ${{ secrets.NPM_TOKEN }}
-                  check-version: false
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
+                  path: |
+                      dist
+                      bin
+                      node_modules
