@@ -87,7 +87,7 @@ export default class MailToJsonService {
 
     private async getNewsFromEmail(
         auth: OAuth2Client,
-    ): Promise<{ news: string[]; title: string, receivedAt: string }> {
+    ): Promise<{ news: string[]; title: string, receivedAtTimestamp: number }> {
         log('Getting mail content', 'MailToJsonService');
 
         const gmail = google.gmail({ version: 'v1', auth });
@@ -98,11 +98,6 @@ export default class MailToJsonService {
 
         tomorrow.setDate(tomorrow.getDate() + 1);
         yesterday.setDate(yesterday.getDate() - 1);
-
-        const yesterdayFormatted = `${yesterday.getFullYear()}/${yesterday.getMonth() + 1
-            }/${yesterday.getDate()}`;
-        const tomorrowFormatted = `${tomorrow.getFullYear()}/${tomorrow.getMonth() + 1
-            }/${tomorrow.getDate()}`;
 
         const mailList = await gmail.users.messages.list({
             userId: 'me',
@@ -176,13 +171,14 @@ export default class MailToJsonService {
                 .replace(/\w"/g, '”');
         });
 
-        return { news: sanitizedText, title, receivedAt: mail.data.internalDate || String(new Date().getTime()) };
+        return { news: sanitizedText, title, receivedAtTimestamp: Number(mail.data.internalDate) || new Date().getTime() };
     }
 
-    private async createContentFile(news: string[], title: string, date: string) {
+    private async createContentFile(news: string[], title: string, date: number) {
         const createContentTemplateService = new CreateContentTemplateService();
 
         const newsDate = new Date(date);
+
 
         const description = `${`${newsDate.getDate()}`.padStart(2, '0') +
             `${newsDate.getMonth() + 1}`.padStart(2, '0')
