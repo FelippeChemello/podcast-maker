@@ -51,23 +51,23 @@ This project was developed using:
 
 ### Install and Usage
 
+**Clone repository**
+
 ```sh-session
-$ npm install -g podcast-maker
-
-$ podcast-maker COMMAND
-running command...
-
-$ podcast-maker --help [COMMAND]
-USAGE
-  $ podcast-maker COMMAND
-
+$ git clone https://github.com/FelippeChemello/podcast-maker.git
 ```
 
-**Before start using, configure it**
-At this step, you will be asked for environment variables for services, like Text-to-Speech, YouTube API, Instagram Login...
+**Install dependencies**
 
 ```sh-session
-$ podcast-maker configure
+$ yarn
+```
+
+**Build and configure**
+
+```sh-session
+$ yarn build
+$ ./bin/run configure
 ```
 
 ### Contribute
@@ -101,7 +101,7 @@ $ ./bin/run configure
 **Use it**
 
 ```sh-session
-$ ./bin/run --help
+$ ./bin/dev --help
 ```
 
 ## 📝 License

@@ -38,9 +38,9 @@ export default class MailToJsonService {
             log('Executing MailToJsonService', 'MailToJsonService');
             const auth = await this.getAccessToken();
 
-            const { news, title } = await this.getNewsFromEmail(auth);
+            const { news, title, receivedAt } = await this.getNewsFromEmail(auth);
 
-            await this.createContentFile(news, title);
+            await this.createContentFile(news, title, receivedAt);
         } catch (err) {
             error(
                 `Failed at creating JSON file from mail \n${JSON.stringify(
@@ -87,7 +87,7 @@ export default class MailToJsonService {
 
     private async getNewsFromEmail(
         auth: OAuth2Client,
-    ): Promise<{ news: string[]; title: string }> {
+    ): Promise<{ news: string[]; title: string, receivedAt: string }> {
         log('Getting mail content', 'MailToJsonService');
 
         const gmail = google.gmail({ version: 'v1', auth });
@@ -99,16 +99,14 @@ export default class MailToJsonService {
         tomorrow.setDate(tomorrow.getDate() + 1);
         yesterday.setDate(yesterday.getDate() - 1);
 
-        const yesterdayFormatted = `${yesterday.getFullYear()}/${
-            yesterday.getMonth() + 1
-        }/${yesterday.getDate()}`;
-        const tomorrowFormatted = `${tomorrow.getFullYear()}/${
-            tomorrow.getMonth() + 1
-        }/${tomorrow.getDate()}`;
+        const yesterdayFormatted = `${yesterday.getFullYear()}/${yesterday.getMonth() + 1
+            }/${yesterday.getDate()}`;
+        const tomorrowFormatted = `${tomorrow.getFullYear()}/${tomorrow.getMonth() + 1
+            }/${tomorrow.getDate()}`;
 
         const mailList = await gmail.users.messages.list({
             userId: 'me',
-            q: `from:(${this.senderMail}) after:${yesterdayFormatted} before:${tomorrowFormatted}`,
+            q: `from:(${this.senderMail})`,
             maxResults: 1,
         });
 
@@ -178,18 +176,17 @@ export default class MailToJsonService {
                 .replace(/\w"/g, '”');
         });
 
-        return { news: sanitizedText, title };
+        return { news: sanitizedText, title, receivedAt: mail.data.internalDate || String(new Date().getTime()) };
     }
 
-    private async createContentFile(news: string[], title: string) {
+    private async createContentFile(news: string[], title: string, date: string) {
         const createContentTemplateService = new CreateContentTemplateService();
 
-        const today = new Date();
+        const newsDate = new Date(date);
 
-        const description = `${
-            `${today.getDate()}`.padStart(2, '0') +
-            `${today.getMonth() + 1}`.padStart(2, '0')
-        }${today.getFullYear()}`;
+        const description = `${`${newsDate.getDate()}`.padStart(2, '0') +
+            `${newsDate.getMonth() + 1}`.padStart(2, '0')
+            }${newsDate.getFullYear()}`;
 
         await createContentTemplateService.execute(description, {
             news,

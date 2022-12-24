@@ -25,14 +25,14 @@ export default class CreateContentTemplateService {
             timestamp,
             date: new Date().toLocaleDateString('pt-BR'),
             intro: {
-                text: `Olá pessoal, A seguir vocês acompanharão as notícias desta ${new Date().toLocaleDateString(
+                text: `Olá pessoal, sigam agora com as notícias desta ${new Date().toLocaleDateString(
                     'pt-BR',
                     { weekday: 'long' },
                 )}.`,
             },
             end: {
                 text:
-                    'Estas notícias foram extraídas da newsletter de Filipe Deschamps. Para acompanhar estas notícias em formato de texto, inscreva-se no link na descrição.',
+                    'Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.',
                 url: 'https://links.codestack.me/newsletter-filipe',
             },
             news: content?.news
