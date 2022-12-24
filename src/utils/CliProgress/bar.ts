@@ -5,7 +5,7 @@ import { defaultFormatter } from './formatter';
 export default class GenericBar {
     private terminal: Terminal;
     private value: number;
-    private total: number;
+    private total: number | undefined;
     private lastDrawnString: string;
     private startTime: number;
     private eta: Eta;
@@ -14,6 +14,7 @@ export default class GenericBar {
         'progress [{bar}] {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}';
     private timer: NodeJS.Timeout;
     private isActive: boolean;
+    private customParams: Record<string, unknown>;
 
     constructor({
         total,
@@ -21,7 +22,7 @@ export default class GenericBar {
         text,
         bufferLength,
     }: {
-        total: number;
+        total?: number;
         initValue: number;
         text?: string;
         bufferLength?: number;
@@ -34,7 +35,7 @@ export default class GenericBar {
 
         this.total = total;
 
-        this.eta = new Eta(initValue, total, bufferLength);
+        this.eta = new Eta(initValue, total || Infinity, bufferLength);
 
         this.lastDrawnString = '';
 
@@ -60,11 +61,9 @@ export default class GenericBar {
         if (!this.isActive) {
             const { ratePerSecond } = this.eta.calculate();
 
-            const text = `Process finished in ${
-                (Date.now() - this.startTime) / 1000
-            }s - Processed ${this.value} of ${
-                this.total
-            } with a rate of ${ratePerSecond} per second.`;
+            const text = `Process finished in ${(Date.now() - this.startTime) / 1000
+                }s - Processed ${this.value} of ${this.total
+                } with a rate of ${ratePerSecond} per second.`;
 
             this.terminal.resetCursor();
 
@@ -78,7 +77,7 @@ export default class GenericBar {
         }
 
         const progress = Math.min(
-            Math.max(this.value / this.total || 0, 0.0),
+            Math.max(this.value / (this.total || Infinity), 0.0),
             1.0,
         );
 
@@ -87,12 +86,12 @@ export default class GenericBar {
             eta: this.eta.calculate().eta,
             rate: this.eta.calculate().ratePerSecond,
             startTime: this.startTime,
-            total: this.total,
+            total: this.total || Infinity,
             value: this.value,
             maxWidth: this.terminal.getWidth(),
         };
 
-        const text = this.formatter(this.text, params);
+        const text = this.formatter(this.text, params, this.customParams);
 
         this.terminal.resetCursor();
 
@@ -116,13 +115,18 @@ export default class GenericBar {
         this.isActive = false;
     }
 
-    update(value: number): void {
+    update(value: number, custom?: Record<string, unknown>): void {
         this.value = value;
+        this.customParams = custom || {};
 
         this.eta.update(value);
 
-        if (this.value >= this.total) {
+        if (this.total && this.value >= this.total) {
             this.stop();
         }
+    }
+
+    setTotal(total: number): void {
+        this.total = total;
     }
 }

@@ -47,20 +47,18 @@ class RenderVideoService {
 
         log(`Rendering frames with concurrency of ${os.cpus().length} frames`, 'RenderVideoService');
 
-        let renderProgressBar = {} as Bar;
+        const renderProgressBar = new Bar({
+            initValue: 0,
+            text: '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate} | Stage: {stage}',
+        });
 
         await renderMedia({
             webpackBundle: bundle,
             onStart: ({ frameCount: total }) => {
-                renderProgressBar = new Bar({
-                    initValue: 0,
-                    total,
-                    text:
-                        '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate}',
-                });
+                renderProgressBar.setTotal(total);
             },
-            onProgress: ({ renderedFrames }) => {
-                renderProgressBar.update(renderedFrames);
+            onProgress: ({ renderedFrames, encodedFrames, stitchStage, renderedDoneIn }) => {
+                renderProgressBar.update(renderedDoneIn ? encodedFrames : renderedFrames, { stage: !renderedDoneIn ? 'rendering' : stitchStage })
             },
             parallelism: null,
             outputLocation: outputVideoPath,

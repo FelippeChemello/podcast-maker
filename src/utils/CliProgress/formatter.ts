@@ -64,6 +64,7 @@ export const defaultFormatter = (
         value: number;
         maxWidth: number;
     },
+    customParams: Record<string, unknown>,
 ): string => {
     const percentage = `${Math.floor(params.progress * 100)}`;
 
@@ -77,6 +78,7 @@ export const defaultFormatter = (
         eta: params.eta,
         rate: params.rate,
         duration: elapsedTime,
+        ...customParams
     };
 
     const textParsed = text.replace(/\{(\w+)\}/g, (match, key) => {
