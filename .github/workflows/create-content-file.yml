@@ -30,23 +30,22 @@ jobs:
               run: |
                   echo "formattedDate=$(date +%d/%m/%Y)"
                   echo "bashDate=$(date +%d-%m-%Y)"
-                  echo "yarnPath=$(yarn cache dir)"
-                  yarn config set prefix $(yarn cache dir)
-                  echo $(yarn global bin) >> $GITHUB_PATH
-                  yarn config set global-folder $(yarn cache dir)
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v3
               id: podcast-maker-cache
               with:
                   path: |
-                      ${{ steps.global.outputs.yarnPath }}
                       **/node_modules
+                      dist
+                      bin
                   key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: yarn build
+              run: |
+                  yarn
+                  yarn build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
@@ -84,3 +83,9 @@ jobs:
                   branch: ${{ steps.date.outputs.formattedDate }}
                   commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}
                   token: ${{ steps.generate-token.outputs.token }}
+
+            - name: SSH debug
+              if: ${{ failure() }}
+              uses: mxschmitt/action-tmate@v3
+              with:
+                  limit-access-to-actor: true
