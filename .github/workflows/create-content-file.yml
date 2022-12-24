@@ -84,8 +84,8 @@ jobs:
                   commit-message: Conteúdo ${{ steps.date.outputs.formattedDate }}
                   token: ${{ steps.generate-token.outputs.token }}
 
-            - name: SSH debug
-              if: ${{ failure() }}
-              uses: mxschmitt/action-tmate@v3
-              with:
-                  limit-access-to-actor: true
+            # - name: SSH debug
+            #   if: ${{ failure() }}
+            #   uses: mxschmitt/action-tmate@v3
+            #   with:
+            #       limit-access-to-actor: true
