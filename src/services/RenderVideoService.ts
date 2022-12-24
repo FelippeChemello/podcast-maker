@@ -80,6 +80,7 @@ class RenderVideoService {
             imageFormat: 'jpeg',
             codec: 'h264',
             verbose: true,
+            disallowParallelEncoding: true,
         });
 
         renderProgressBar.stop();
