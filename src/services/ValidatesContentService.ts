@@ -3,7 +3,7 @@ import GetContentService from './GetContentService';
 
 export default class ValidatesContentService {
     public async execute() {
-        const content = await new GetContentService().execute();
+        const { content } = await new GetContentService().execute();
 
         const errors: string[] = [];
 
