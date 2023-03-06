@@ -104,6 +104,9 @@
             "init": [
                 "./dist/src/hooks/init/loadSecrets.js",
                 "./dist/src/hooks/init/createTmpSymLink.js"
+            ],
+            "prerun": [
+                "./dist/src/hooks/prerun/copyLastContentToPublic.js"
             ]
         }
     },

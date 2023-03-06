@@ -2,9 +2,9 @@ node_modules
 dist
 .vercel
 yarn-error.log
-tmp/*
-!tmp/.gitkeep
-!tmp/example*
+public/*
+!public/.gitkeep
+!public/example*
 coverage
 .env
 .env.prod
