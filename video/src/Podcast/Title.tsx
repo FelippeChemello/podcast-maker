@@ -1,20 +1,16 @@
-import {spring, useCurrentFrame, useVideoConfig} from 'remotion';
+import Segment from 'models/Segments';
+import { useCallback, useMemo } from 'react';
+import {Easing, interpolate, Sequence, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
 export const Title: React.FC<{
-	titleText: string;
-	finishContentEarlierInFrames: number;
-}> = ({titleText, finishContentEarlierInFrames}) => {
+	
+    segments: Segment[]
+}> = ({segments }) => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
-	const text = titleText.split(' ').map((t) => ` ${t} `);
-	const framesPerChar =
-		(videoConfig.durationInFrames - finishContentEarlierInFrames) /
-		titleText.length;
 
-	const orientation =
-		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
-
-	const indexOfEndOfTitle = text.findIndex((word) => word.match(/.*:.*/));
+	const orientation = videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
+    const indexOfEndOfTitle = segments.findIndex(segment => segment.word.includes(':'))
 
 	const opacity = spring({
 		fps: videoConfig.fps,
@@ -23,6 +19,57 @@ export const Title: React.FC<{
 		frame,
 		config: {mass: 1, damping: 1000},
 	});
+
+    const buildSegments = segments.map(({word, start, end}, index) => {
+        const startInFrames = start / (1000 / videoConfig.fps)
+        const endInFrames = end / (1000 / videoConfig.fps)
+        const wordShouldAppear = frame >= startInFrames && frame <= endInFrames
+        const isTitle = index <= indexOfEndOfTitle
+
+        let animation = 0
+        if (wordShouldAppear) {
+            const duration = endInFrames - startInFrames
+            let animationInFrames = 1
+            while (duration < animationInFrames * 2) {
+                animationInFrames -= 0.1
+            }
+
+            const secondStep = startInFrames + animationInFrames
+            const thirdStep = endInFrames - animationInFrames + 0.001
+
+            animation = interpolate(
+                frame,
+                [startInFrames, secondStep, thirdStep, endInFrames],
+                [0, 1, 1, 0],
+                {
+                    easing: Easing.bezier(0, 0.3, 1, 0.7),
+                }
+            )
+
+            console.log(animation)
+        }
+
+        return (
+            <>
+                <span 
+                    key={word}
+                    style={{
+                        display: 'inline-block',
+                        fontSize: isTitle ? 65 : 45,
+                        fontWeight: isTitle ? 700 : 300,
+                        background: `rgba(250, 250, 250, ${animation})`,
+                        color: wordShouldAppear ? "#2b2b2b" : "#fafafa",
+                        borderRadius: 16,
+                        padding: `0px 4px`,
+                    }}>
+                    {word} 
+                    
+                </span>
+                {isTitle && index === indexOfEndOfTitle ? <br /> : <> </>}
+            </>
+
+        )
+    })
 
 	return (
 		<div style={{padding: orientation === 'landscape' ? 50 : 100}}>
@@ -34,19 +81,12 @@ export const Title: React.FC<{
 					margin: 0,
 				}}
 			>
-				{text.map((t, i, arr) => {
-					const wordShouldAppear =
-						frame -
-							(arr
-								.slice(0, i)
-								.reduce(
-									(acc, element) => acc + element.length,
-									0
-								) -
-								i) *
-								framesPerChar >
-						0;
-					// Se o frame atual - frame da palavra (todas as letras e espaços da palavra atual e anteriores * framesPerChar) > 0 -> mostra a palavra
+                {buildSegments}
+				{/* {text.map((t, i, arr) => {
+					const frameTime = frame / videoConfig.fps;
+                    const wordShouldAppear = segments[t]
+
+                    console.log(wordShouldAppear)
 
 					if (i <= indexOfEndOfTitle) {
 						return (
@@ -88,7 +128,7 @@ export const Title: React.FC<{
 							{t}
 						</span>
 					);
-				})}
+				})} */}
 			</h1>
 		</div>
 	);

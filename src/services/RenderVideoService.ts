@@ -9,6 +9,7 @@ import Bar from '../utils/CliProgress/bar';
 
 class RenderVideoService {
     private content: InterfaceJsonContent;
+    private transitionDurationInSeconds = 2.9;
     private compositionId = 'Main';
 
     constructor(content: InterfaceJsonContent) {
@@ -34,6 +35,8 @@ class RenderVideoService {
             text: '[RenderVideoService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} | Rate: {rate} | Stage: {stage}',
         });
 
+        const durationInFrames = Math.floor(this.getFullDuration() * this.content.fps)
+
         await renderMedia({
             serveUrl: bundle,
             onStart: ({ frameCount: total }) => {
@@ -45,14 +48,15 @@ class RenderVideoService {
             parallelism: null,
             outputLocation: outputVideoPath,
             inputProps: {
-                filename: `${this.content.timestamp}.json`,
+                content: this.content,
+                durationInFrames: durationInFrames,
                 withoutIntro: !withIntro,
                 destination,
                 tmpPath,
             },
             composition: {
                 id: this.compositionId,
-                durationInFrames: Math.floor((this.content.fullDuration || 1) * this.content.fps),
+                durationInFrames,
                 fps: this.content.fps,
                 width: format[videoFormat].width,
                 height: format[videoFormat].height,
@@ -66,6 +70,31 @@ class RenderVideoService {
         renderProgressBar.stop();
 
         return outputVideoPath;
+    }
+
+    private getFullDuration(): number {
+        if (!this.content.renderData) {
+            error('RenderData is undefined', 'RetrieveAudioDataService');
+            process.exit(1);
+        }
+
+        return this.content.renderData.reduce(
+            (accumulator, currentValue, index) => {
+                if (
+                    !this.content.renderData ||
+                    index !== this.content.renderData.length - 1
+                ) {
+                    return (
+                        accumulator +
+                        currentValue.duration +
+                        this.transitionDurationInSeconds
+                    );
+                }
+
+                return accumulator + currentValue.duration;
+            },
+            0,
+        );
     }
 }
 

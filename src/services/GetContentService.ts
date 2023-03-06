@@ -5,12 +5,13 @@ import { error, log } from '../utils/log';
 import { getLatestFileCreated } from '../utils/getFiles';
 import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
+import format from '../config/format';
 
 export default class GetContentService {
     // eslint-disable-next-line
-    public async execute(filename?: string): Promise<InterfaceJsonContent> {
+    public async execute(filename?: string, videoFormat?: 'portrait' | 'landscape' | 'square'): Promise<{ content: InterfaceJsonContent, file: string }> {
         const contentPath = await getPath('content');
-        
+
         const contentFilePath = filename
             ? path.resolve(contentPath, filename)
             : await getLatestFileCreated('json', contentPath);
@@ -24,7 +25,12 @@ export default class GetContentService {
 
             const jsonContent = JSON.parse(content) as InterfaceJsonContent;
 
-            return jsonContent;
+            if (videoFormat) {
+                jsonContent.width = format[videoFormat].width;
+                jsonContent.height = format[videoFormat].height;
+            }
+
+            return { content: jsonContent, file: contentFilePath };
         } catch {
             error(`${contentFilePath} not found`, 'GetContentService');
             process.exit(1);

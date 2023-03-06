@@ -9,43 +9,21 @@ import { Main } from './Main';
 import { Thumbnail } from './Thumbnail';
 
 import '../../assets/fonts.css';
+import InterfaceJsonContent from 'models/InterfaceJsonContent';
 
-const handle = delayRender();
-
-const { filename } = getInputProps();
-
-import loadFromTmp from './utils/loadFromTmp';
-
-async function loadData() {
-    if (filename) {
-        return await loadFromTmp(filename);
-    }
-}
+const { 
+    content, 
+    durationInFrames
+ }: { 
+    content: InterfaceJsonContent,
+    durationInFrames: number
+ } = getInputProps()
 
 export const RemotionVideo: React.FC = () => {
-    const [data, setData] = useState<{
-        width: number;
-        height: number;
-        fullDuration: number;
-        date: string;
-        title: string;
-        fps: number;
-        renderData: { duration: number; text: string; audioFilePath: string }[];
-    }>();
-
-    const fetchData = async () => {
-        const json = await loadData();
-        setData(json);
-
-        continueRender(handle);
-    };
-
-    useEffect(() => {
-        fetchData();
-    }, []);
-
-    if (!data) {
-        return null;
+    console.log(content)
+    
+    if (!content || !content.renderData || !durationInFrames) {
+        throw new Error(`Missing information. Content: ${!!content}, renderData: ${!!content.renderData}, durationInFrames: ${!!durationInFrames}`);
     }
 
     return (
@@ -53,26 +31,24 @@ export const RemotionVideo: React.FC = () => {
             <Composition
                 id="Main"
                 component={Main}
-                durationInFrames={Math.floor(data.fullDuration * data.fps)}
-                fps={data.fps}
-                width={data.width}
-                height={data.height}
+                durationInFrames={durationInFrames}
+                fps={content.fps}
+                width={content.width}
+                height={content.height}
                 defaultProps={{
-                    textProps: data.renderData,
-                    title: data.title,
-                    date: data.date,
+                    content
                 }}
             />
             <Composition
                 id="Thumbnail"
                 component={Thumbnail}
                 durationInFrames={1}
-                fps={data.fps}
-                width={data.width}
-                height={data.height}
+                fps={content.fps}
+                width={content.width}
+                height={content.height}
                 defaultProps={{
-                    title: data.title,
-                    date: data.date,
+                    title: content.title,
+                    date: content.date,
                 }}
             />
         </>

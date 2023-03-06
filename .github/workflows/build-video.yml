@@ -74,7 +74,10 @@ jobs:
               uses: actions/upload-artifact@v3
               with:
                   name: audio-files
-                  path: ${{ steps.tmp.outputs.tmpPath }}/*.mp3
+                  path: |
+                    ${{ steps.tmp.outputs.tmpPath }}/*.mp3
+                    ${{ steps.tmp.outputs.tmpPath }}/*.json
+                    !${{ steps.tmp.outputs.tmpPath }}/example.json
                   retention-days: 3
 
     YouTube:

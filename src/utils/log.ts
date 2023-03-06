@@ -10,5 +10,5 @@ export function log(message: any, prefix?: string, _?: any): void {
 // eslint-disable-next-line
 export function error(message: any, prefix?: string, _?: any): void {
     console.log(`[ERROR] ${prefix ? `[${prefix}]` : null} ${message}`);
-    process.exit(1);
+    throw new Error(message);
 }

@@ -1,3 +1,4 @@
+import Segments from 'models/Segments';
 import { AbsoluteFill, useVideoConfig } from 'remotion';
 
 import avatar from '../../assets/Avatar.png';

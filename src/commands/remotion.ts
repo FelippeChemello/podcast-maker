@@ -1,4 +1,5 @@
 import { Command, Flags } from '@oclif/core';
+import { GetContentService } from '../services';
 import shell from 'shelljs';
 
 export default class Remotion extends Command {
@@ -11,6 +12,13 @@ export default class Remotion extends Command {
         '<%= config.bin %> <%= command.id %> render-thumb-example',
     ];
 
+    static flags = {
+        filename: Flags.string({
+            char: 'f',
+            description: 'filename with content',
+        }),
+    }
+
     static args = [
         {
             name: 'command',
@@ -21,28 +29,61 @@ export default class Remotion extends Command {
     ];
 
     public async run(): Promise<void> {
-        const { args } = await this.parse(Remotion);
+        const { args, flags } = await this.parse(Remotion);
+
+        const { content } = await new GetContentService().execute(flags.filename)
+        if (!content || !content.renderData) {
+            throw new Error('Content not found');
+        }
+        const durationInFrames = Math.round(this.getFullDuration(content.renderData) * content.fps)
+
+
+        const props = {
+            content,
+            destination: 'youtube',
+            durationInFrames,
+        }
+        let command = '';
 
         switch (args.command) {
             case 'upgrade':
-                shell.exec('yarn remotion upgrade');
+                command = 'yarn remotion upgrade';
                 break;
             case 'preview':
-                shell.exec(
-                    `yarn remotion preview video/src/index.tsx --props='{\"filename\": \"example.json\", \"destination\": \"youtube\"}'`,
-                );
+                command = `yarn remotion preview video/src/index.tsx --props='${JSON.stringify(props)}'`;
                 break;
             case 'renderExample':
-                shell.exec(
-                    `yarn remotion render video/src/index.tsx Main out.mp4 --props='{\"filename\": \"example.json\", \"destination\": \"youtube\"}'`,
-                );
+                command = `yarn remotion render video/src/index.tsx Main out.mp4 --props='${JSON.stringify(props)}'`;
                 break;
-
             case 'renderThumbExample':
-                shell.exec(
-                    `yarn remotion still video/src/index.tsx Thumbnail thumb.png --props='{\"filename\": \"example.json\", \"destination\": \"youtube\"}'`,
-                );
+                command = `yarn remotion render video/src/index.tsx Thumbnail thumb.png --props='${JSON.stringify(props)}'`;
                 break;
         }
+
+        shell.exec(command);
+    }
+
+    private getFullDuration(renderData: {
+        duration: number;
+    }[]): number {
+        const transitionDurationInSeconds = 2.9;
+
+        return renderData.reduce(
+            (accumulator, currentValue, index) => {
+                if (
+                    !renderData ||
+                    index !== renderData.length - 1
+                ) {
+                    return (
+                        accumulator +
+                        currentValue.duration +
+                        transitionDurationInSeconds
+                    );
+                }
+
+                return accumulator + currentValue.duration;
+            },
+            0,
+        );
     }
 }

@@ -23,6 +23,8 @@ export default class CreateContentTemplateService {
             title: content?.title ?? '',
             fps: 30,
             timestamp,
+            width: 0,
+            height: 0,
             date: new Date().toLocaleDateString('pt-BR'),
             intro: {
                 text: `Olá pessoal, sigam agora com as notícias desta ${new Date().toLocaleDateString(
@@ -33,7 +35,7 @@ export default class CreateContentTemplateService {
             end: {
                 text:
                     'Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.',
-                url: 'https://links.codestack.me/newsletter-filipe',
+                url: 'https://bit.ly/newsletter-filipe-deschamps',
             },
             news: content?.news
                 ? content?.news.map(text => ({ text, url: '' }))
@@ -45,7 +47,7 @@ export default class CreateContentTemplateService {
             `${timestamp}-${description}.${this.fileType}`,
         );
 
-        fs.writeFileSync(contentFileName, JSON.stringify(template), {
+        fs.writeFileSync(contentFileName, JSON.stringify(template, null, 4), {
             encoding: 'utf-8',
         });
 

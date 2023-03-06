@@ -4,13 +4,12 @@ import { CreateConfig } from '../types';
 
 import {
     BundleVideoService,
-    CreatePodcastAudioFile,
     CreateThumnailService,
     ExportDataService,
     GetContentService,
+    GetYoutubeinfoService,
     InstagramUploadService,
     RenderVideoService,
-    RetrieveAudioDuration,
     TextToSpeechService,
     YoutubeUploadService,
 } from '../services';
@@ -47,7 +46,7 @@ export default class Create extends Command {
             name: 'option',
             required: true,
             description: 'Format to create content',
-            options: ['youtube', 'instagram', 'tts', 'podcast'],
+            options: ['youtube', 'instagram', 'tts'],
         },
     ];
 
@@ -66,20 +65,19 @@ export default class Create extends Command {
             case 'instagram':
                 await instagram({ filename, needTTS, upload, onlyUpload });
                 break;
-            case 'podcast':
-                await podcast({ filename, needTTS });
-                break;
         }
     }
 }
 
 const tts = async ({ filename }: CreateConfig) => {
-    const content = await new GetContentService().execute(filename);
+    const { content, file } = await new GetContentService().execute(filename);
 
-    await new TextToSpeechService(content).execute({
+    const contentWithAudio = await new TextToSpeechService(content).execute({
         synthesizeIntro: true,
         synthesizeEnd: true,
     });
+
+    await new ExportDataService(contentWithAudio).execute(file);
 };
 
 const youtube = async ({
@@ -88,23 +86,18 @@ const youtube = async ({
     onlyUpload,
     upload,
 }: CreateConfig) => {
-    const content = await new GetContentService().execute(filename);
+    let { content, file } = await new GetContentService().execute(filename, 'landscape');
 
     if (!onlyUpload) {
         if (needTTS) {
-            await new TextToSpeechService(content).execute({
+            content = await new TextToSpeechService(content).execute({
                 synthesizeIntro: true,
                 synthesizeEnd: true,
             });
         }
 
-        await new RetrieveAudioDuration(content).execute(needTTS || false, {
-            haveIntro: true,
-            haveEnd: true,
-        });
-
-        await new ExportDataService(content).execute('landscape');
-
+        content = await new GetYoutubeinfoService(content).execute();
+        
         const bundle = await new BundleVideoService().execute();
 
         await new RenderVideoService(content).execute(
@@ -126,6 +119,8 @@ const youtube = async ({
             thumbnailPath,
         );
     }
+
+    await new ExportDataService(content).execute(file);
 };
 
 const instagram = async ({
@@ -134,22 +129,15 @@ const instagram = async ({
     onlyUpload,
     upload,
 }: CreateConfig) => {
-    const content = await new GetContentService().execute(filename);
+    let { content, file } = await new GetContentService().execute(filename, 'portrait');
 
     if (!onlyUpload) {
         if (needTTS) {
-            await new TextToSpeechService(content).execute({
+            content = await new TextToSpeechService(content).execute({
                 synthesizeIntro: false,
                 synthesizeEnd: false,
             });
         }
-
-        await new RetrieveAudioDuration(content).execute(needTTS || false, {
-            haveIntro: false,
-            haveEnd: false,
-        });
-
-        await new ExportDataService(content).execute('portrait');
 
         const bundle = await new BundleVideoService().execute();
 
@@ -172,28 +160,6 @@ const instagram = async ({
             thumbnailPath,
         );
     }
-};
 
-const podcast = async ({ filename, needTTS }: CreateConfig) => {
-    const content = await new GetContentService().execute(filename);
-
-    if (needTTS) {
-        await new TextToSpeechService(content).execute({
-            synthesizeIntro: false,
-            synthesizeEnd: false,
-        });
-    }
-
-    await new RetrieveAudioDuration(content).execute(needTTS || false, {
-        haveIntro: false,
-        haveEnd: false,
-    });
-
-    await new ExportDataService(content).execute('square');
-
-    const bundle = await new BundleVideoService().execute();
-
-    await new CreateThumnailService(content).execute(bundle);
-
-    await new CreatePodcastAudioFile(content).execute();
+    await new ExportDataService(content).execute(file);
 };

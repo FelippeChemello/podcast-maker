@@ -3,12 +3,14 @@ import {
     SpeechConfig,
     AudioConfig,
     SpeechSynthesizer,
+    SpeechSynthesisBoundaryType,
 } from 'microsoft-cognitiveservices-speech-sdk';
 import path from 'path';
 
 import { error, log } from '../utils/log';
 import { getPath } from '../config/defaultPaths';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
+import Segment from '../models/Segments';
 
 class TextToSpeechService {
     private voices = [
@@ -57,66 +59,72 @@ class TextToSpeechService {
     }: {
         synthesizeIntro?: boolean;
         synthesizeEnd?: boolean;
-    }): Promise<void> {
+    }): Promise<InterfaceJsonContent> {
+        const synthesizePromises: Promise<void>[] = [];
+
         if (synthesizeIntro) {
-            await this.synthesizeIntro();
+            synthesizePromises.push(this.synthesizeIntro());
         }
 
-        await this.synthesizeNews();
+        synthesizePromises.push(this.synthesizeNews());
+
+        await Promise.all(synthesizePromises);
 
         if (synthesizeEnd) {
-            await this.synthesizeEnd();
+            await this.synthesizeEnd()
         }
+
+        return this.content;
     }
 
-    private async synthesizeIntro(): Promise<boolean> {
+    private async synthesizeIntro(): Promise<void> {
         if (!this.content.intro?.text) {
             log('Intro text is not defined, skipping...', 'TextToSeechService');
-            return false;
+            return;
         }
 
         if (typeof this.content.renderData !== 'object') {
             error('Render data is not defined', 'TextToSeechService');
-            process.exit(1);
+            throw new Error('Render data is not defined');
         }
 
-        log(`Synthetizing Intro`, 'TextToSpeechService');
-        const audioFilePath = await this.synthesize(
+        log(`Synthesizing Intro`, 'TextToSpeechService');
+        const { audioFilePath, segments, duration } = await this.synthesize(
             this.content.intro.text,
             'intro',
         );
 
-        this.content.renderData.push({
+        this.content.renderData[0] = {
             text: this.content.intro.text,
-            duration: 0,
+            duration,
             audioFilePath,
-        });
-
-        return true;
+            segments,
+        }
     }
 
-    private async synthesizeNews(): Promise<number> {
-        if (typeof this.content.renderData !== 'object') {
-            error('Render data is not defined', 'TextToSeechService');
-            process.exit(1);
-        }
+    private async synthesizeNews(): Promise<void> {
+        const synthesizePromises = this.content.news.map(async (news, index) => {
+            log(`Synthesizing news ${index}`, 'TextToSpeechService');
 
-        let i: number;
-        for (i = 0; i < this.content.news.length; i++) {
-            log(`Synthetizing news ${i}`, 'TextToSpeechService');
-            const audioFilePath = await this.synthesize(
-                this.content.news[i].text,
-                i.toString(),
+            const { audioFilePath, segments, duration } = await this.synthesize(
+                news.text,
+                index.toString(),
             );
 
-            this.content.renderData.push({
-                text: this.content.news[i].text,
-                duration: 0,
-                audioFilePath,
-            });
-        }
+            if (typeof this.content.renderData !== 'object') {
+                error('Render data is not defined', 'TextToSeechService');
+                throw new Error('Render data is not defined');
+            }
 
-        return i;
+            this.content.renderData[index + 1] = {
+                text: news.text,
+                duration,
+                audioFilePath,
+                segments,
+            }
+        });
+
+        await Promise.all(synthesizePromises);
     }
 
     private async synthesizeEnd(): Promise<void> {
@@ -127,19 +135,20 @@ class TextToSpeechService {
 
         if (typeof this.content.renderData !== 'object') {
             error('Render data is not defined', 'TextToSeechService');
-            process.exit(1);
+            throw new Error('Render data is not defined');
         }
 
-        log('Synthetizing end', 'TextToSpeechService');
-        const audioFilePath = await this.synthesize(
+        log('Synthesizing end', 'TextToSpeechService');
+        const { audioFilePath, segments, duration } = await this.synthesize(
             this.content.end.text,
             'end',
         );
 
         this.content.renderData.push({
             text: this.content.end.text,
-            duration: 0,
+            duration,
             audioFilePath,
+            segments
         });
     }
 
@@ -151,20 +160,12 @@ class TextToSpeechService {
 
         if (!this.voice) {
             this.voice =
-                voicesExtended[
-                    Math.floor(Math.random() * voicesExtended.length)
-                ];
+                voicesExtended[Math.floor(Math.random() * voicesExtended.length)];
         } else {
-            let newVoice =
-                voicesExtended[
-                    Math.floor(Math.random() * voicesExtended.length)
-                ];
+            let newVoice = voicesExtended[Math.floor(Math.random() * voicesExtended.length)];
 
             while (newVoice === this.voice) {
-                newVoice =
-                    voicesExtended[
-                        Math.floor(Math.random() * voicesExtended.length)
-                    ];
+                newVoice = voicesExtended[Math.floor(Math.random() * voicesExtended.length)];
             }
 
             this.voice = newVoice;
@@ -173,11 +174,12 @@ class TextToSpeechService {
         return this.voice;
     }
 
-    private async synthesize(text: string, sufix: string): Promise<string> {
-        const tmpPath = await getPath('tmp');
+    private async synthesize(text: string, sufix: string): Promise<{ audioFilePath: string, duration: number, segments: Segment[] }> {
+        const tmpPath = await getPath('public');
+        const segments: Segment[] = []
 
         return new Promise(resolve => {
-            const outputFilePath = path.resolve(tmpPath, `output-${sufix}.mp3`);
+            const audioFilePath = path.resolve(tmpPath, `output-${sufix}.mp3`);
 
             const speechConfig = SpeechConfig.fromSubscription(
                 this.azureKey,
@@ -185,8 +187,8 @@ class TextToSpeechService {
             );
 
             speechConfig.speechSynthesisOutputFormat =
-                SpeechSynthesisOutputFormat.Audio24Khz160KBitRateMonoMp3;
-            const audioConfig = AudioConfig.fromAudioFileOutput(outputFilePath);
+                SpeechSynthesisOutputFormat.Audio48Khz192KBitRateMonoMp3;
+            const audioConfig = AudioConfig.fromAudioFileOutput(audioFilePath);
 
             const ssml = `
                 <speak version="1.0" xml:lang="pt-BR">
@@ -199,11 +201,34 @@ class TextToSpeechService {
                 speechConfig,
                 audioConfig,
             );
+
+            synthesizer.wordBoundary = (s, e) => {
+                switch (e.boundaryType) {
+                    case SpeechSynthesisBoundaryType.Word:
+                        segments.push({
+                            start: e.audioOffset / 10000,
+                            end: (e.audioOffset + e.duration) / 10000,
+                            word: e.text
+                        })
+                        break;
+                    case SpeechSynthesisBoundaryType.Punctuation:
+                        const lastIndex = segments.length - 1
+
+                        segments[lastIndex].end = (e.audioOffset + e.duration) / 10000;
+                        segments[lastIndex].word += e.text;
+                        break;
+                }
+            }
+
             synthesizer.speakSsmlAsync(
                 ssml,
-                _ => {
+                result => {
                     synthesizer.close();
-                    resolve(outputFilePath);
+                    resolve({
+                        audioFilePath,
+                        duration: result.audioDuration / 10000000, // 100 nanoseconds for each audio duration unit -> to seconds
+                        segments
+                    });
                 },
                 err => {
                     synthesizer.close();

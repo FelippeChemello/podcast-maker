@@ -12,25 +12,23 @@ import { Transition } from './Podcast/Transition';
 import { Logo } from './Podcast/Logo';
 import { Intro } from './Podcast/Intro';
 import { Wrapper } from './Wrappers/index';
+import InterfaceJsonContent from '../../src/models/InterfaceJsonContent';
 
 const { withoutIntro } = getInputProps();
 
 export const Main: React.FC<{
-    textProps: {
-        duration: number;
-        text: string;
-        audioFilePath: string;
-    }[];
-    date: string;
-    title: string;
-}> = ({ textProps, date, title }) => {
+    content: InterfaceJsonContent
+}> = ({ content: { renderData, date, title, youtube } }) => {
+    if (!renderData) {
+        throw new Error('Missing renderData');
+    }
+
     const frame = useCurrentFrame();
     const { fps, durationInFrames } = useVideoConfig();
-    const finishContentEarlierInFrames = 50;
     const transitionDurationInFrames = 2.9 * fps;
     const showWrapperOnIndex =
-        textProps.length > 2
-            ? Math.floor(random(title) * (textProps.length - 2 - 2) + 2) //Valor randomico entre 2 e (quantidade de noticias - final - ultima noticia)
+        renderData.length > 2
+            ? Math.floor(random(title) * (renderData.length - 2 - 2) + 2) //Valor randomico entre 2 e (quantidade de noticias - final - ultima noticia)
             : -1; //If have less then 2 news will not show wrapper
 
     const opacity = interpolate(
@@ -54,7 +52,7 @@ export const Main: React.FC<{
             }}
         >
             <div style={{ opacity }}>
-                {textProps.map((prop, index) => {
+                {renderData.map((prop, index) => {
                     const textDuration = Math.round(prop.duration * fps);
 
                     initialFrame = nextInitialFrame;
@@ -62,8 +60,6 @@ export const Main: React.FC<{
                         initialFrame +
                         transitionDurationInFrames +
                         textDuration;
-
-                    console.log(textDuration);
 
                     if (index === 0 && !withoutIntro) {
                         return (
@@ -77,10 +73,11 @@ export const Main: React.FC<{
                                         date={date}
                                         audioFilePath={prop.audioFilePath}
                                         title={title}
+                                        details={{subscribers: youtube?.subscriberCount }}
                                     />
                                     <Logo />
                                 </Sequence>
-                                {index < textProps.length - 1 ? (
+                                {index < renderData.length - 1 ? (
                                     <Sequence
                                         key={`${initialFrame}-Transition`}
                                         from={initialFrame + textDuration}
@@ -108,18 +105,13 @@ export const Main: React.FC<{
                                 >
                                     <Logo />
 
-                                    <Title
-                                        titleText={prop.text}
-                                        finishContentEarlierInFrames={
-                                            finishContentEarlierInFrames
-                                        }
-                                    />
+                                    <Title segments={prop.segments} />
                                     <AudioWaveform
                                         audioFilePath={prop.audioFilePath}
                                     />
                                 </Wrapper>
                             </Sequence>
-                            {index < textProps.length - 1 ? (
+                            {index < renderData.length - 1 ? (
                                 <Sequence
                                     key={`${initialFrame}-Transition`}
                                     from={initialFrame + textDuration}

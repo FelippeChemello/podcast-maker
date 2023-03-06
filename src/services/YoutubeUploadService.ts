@@ -113,109 +113,39 @@ export default class YoutubeUploadService {
     }
 
     private getDescription() {
-        const descriptionArray: {
-            title: string;
-            details: string;
-            url: string;
-        }[] = [];
-
-        this.content.news.forEach(news => {
-            const [title, details] = news.text.split(': ');
-
-            descriptionArray.push({
-                title: details ? title.toUpperCase() : title,
-                details: details
-                    ? details.charAt(0).toUpperCase() + details.slice(1)
-                    : '',
-                url: news.shortLink ?? news.url ?? '',
-            });
-        });
-
-        if (this.content.end) {
-            const [title, details] = this.content.end.text.split(': ');
-
-            descriptionArray.push({
-                title: details ? title.toUpperCase() : title,
-                details: details
-                    ? details.charAt(0).toUpperCase() + details.slice(1)
-                    : '',
-                url: this.content.end.shortLink ?? this.content.end.url ?? '',
-            });
+        if (!this.content.renderData) {
+            return '';
         }
 
-        const charactersLimitPerNews =
-            this.descriptionCharactersLimit / descriptionArray.length;
+        let description = '📰 Acompanhe as notícias do mundo da tecnologia e da programação. 📰\n\n';
+        let timestamp = 0;
+        this.content.renderData.forEach((item, index, array) => {
+            description += `${this.formatTime(timestamp)} ${item.text.split(':')[0]} \n`;
 
-        const newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray = descriptionArray.filter(
-            newsDescription =>
-                newsDescription.title.length +
-                    newsDescription.details.length +
-                    newsDescription.url.length <
-                charactersLimitPerNews,
-        );
+            timestamp += item.duration;
+        })
 
-        const characterRemain = newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray
-            .map(
-                newsDescription =>
-                    charactersLimitPerNews -
-                    (newsDescription.title.length +
-                        newsDescription.details.length +
-                        newsDescription.url.length),
-            )
-            .reduce((acc, detailsLength) => acc + detailsLength);
+        if (this.content.end?.url || this.content.news.some(news => news.url)) {
+            description += `\n\n🌐 Links: \n`;
+            this.content.end?.url && (description += `${this.content.end.url} \n`);
+            this.content.news.filter(news => news.url).forEach(news => {
+                description += `${news.url} \n`;
+            })
+        }
 
-        const quantityOfNewsWithMoreThanLimitPerNews =
-            descriptionArray.length -
-            newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray.length;
-
-        const increaseEachDetailLimitWith =
-            characterRemain / quantityOfNewsWithMoreThanLimitPerNews;
-
-        const newCharactersLimitPerNews =
-            charactersLimitPerNews + increaseEachDetailLimitWith;
-
-        let description = '';
-
-        descriptionArray.forEach(newsDescriptions => {
-            description += `${newsDescriptions.title} \n`;
-
-            if (newsDescriptions.details) {
-                if (
-                    newsDescriptionWithDetailsLengthLessThanLimitPerNewsArray.includes(
-                        newsDescriptions,
-                    )
-                ) {
-                    description += `${newsDescriptions.details} \n`;
-                } else {
-                    const newsDetailsCharacterLimit =
-                        newCharactersLimitPerNews -
-                        newsDescriptions.title.length -
-                        newsDescriptions.url.length;
-
-                    const trimmedDetails = newsDescriptions.details.substr(
-                        0,
-                        newsDetailsCharacterLimit,
-                    );
-
-                    description += `${trimmedDetails.substr(
-                        0,
-                        Math.min(
-                            trimmedDetails.length,
-                            trimmedDetails.lastIndexOf(' '),
-                        ),
-                    )}... \n`;
-                }
-            }
-
-            if (newsDescriptions.url) {
-                description += `${newsDescriptions.url} \n`;
-            }
-
-            description += '\n';
-        });
+        description += `\n\n📢 Inscreva-se no canal: https://www.youtube.com/@CodeStackMe?sub_confirmation=1 \n`;
+        description += `💻 Me siga no GitHub: https://github.com/FelippeChemello \n`;
 
         return description;
     }
+
+    private formatTime(seconds: number) {
+        const minutes = Math.floor(seconds / 60);
+        const remainingSeconds = Math.floor(seconds % 60);
+        const paddedSeconds = remainingSeconds < 10 ? `0${remainingSeconds}` : remainingSeconds;
+        return `${minutes}:${paddedSeconds}`;
+    }
+
 
     private async uploadVideo(
         auth: OAuth2Client,
@@ -235,7 +165,7 @@ export default class YoutubeUploadService {
                 '[YoutubeUploadService] Progress {bar} {percentage}% | ETA: {eta}s | {value}/{total} Mb',
         });
 
-        let title = `[CodeStack News] ${this.content.title}`;
+        let title = this.content.title
 
         if (title.length >= 100) {
             const titleArray = title.split('/');

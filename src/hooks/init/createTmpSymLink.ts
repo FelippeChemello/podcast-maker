@@ -15,8 +15,7 @@ const hook: Hook<'init'> = async function (opts) {
         '..',
         '..',
         '..',
-        'video',
-        'tmp',
+        'public'
     );
 
     if (!fs.existsSync(tmpSymlinkPath)) {

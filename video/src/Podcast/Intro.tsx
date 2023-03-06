@@ -1,14 +1,13 @@
-import {useEffect, useState} from 'react';
 import {
 	spring,
 	useCurrentFrame,
 	useVideoConfig,
 	AbsoluteFill,
 	Audio,
+    staticFile,
 } from 'remotion';
 import styled from 'styled-components';
 
-import loadFile from '../utils/loadFromTmp';
 
 const TitleDiv = styled.div`
 	position: relative;
@@ -36,24 +35,21 @@ export const Intro: React.FC<{
 	date: string;
 	audioFilePath: string;
 	title: string;
-}> = ({date, audioFilePath, title}) => {
+    details?: {
+        subscribers?: string | number;
+    }
+}> = ({ date, audioFilePath, title, details }) => {
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
+
+    console.log(details)
+
+    const text = `Booting up... ${details?.subscribers ? `\nSubscribers: ${details.subscribers}` : ''}\n${date}`
 
 	const orientation =
 		videoConfig.width > videoConfig.height ? 'landscape' : 'portrait';
 
-	const [audioSrc, setAudioSrc] = useState<any>(null);
-
-	useEffect(() => {
-		loadFile(audioFilePath)
-			.then((audio) => {
-				setAudioSrc(audio);
-			})
-			.catch((err) => {
-				console.log(err);
-			});
-	}, [audioFilePath]);
+	const audioSrc = staticFile(audioFilePath.substring(audioFilePath.lastIndexOf('/') + 1))
 
 	const lampEntry = spring({
 		fps: videoConfig.fps,
@@ -64,6 +60,7 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 10,
 		},
+        durationInFrames: 30
 	});
 	const tableEntry = spring({
 		fps: videoConfig.fps,
@@ -74,6 +71,7 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 10,
 		},
+        durationInFrames: 30
 	});
 	const coffeeEntry = spring({
 		fps: videoConfig.fps,
@@ -84,6 +82,7 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 5,
 		},
+        durationInFrames: 30
 	});
 	const computerEntry = spring({
 		fps: videoConfig.fps,
@@ -94,6 +93,7 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 10,
 		},
+        durationInFrames: 30
 	});
 	const keyboardEntry = spring({
 		fps: videoConfig.fps,
@@ -104,6 +104,7 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 10,
 		},
+        durationInFrames: 30
 	});
 	const mouseEntry = spring({
 		fps: videoConfig.fps,
@@ -114,38 +115,98 @@ export const Intro: React.FC<{
 			damping: 100,
 			mass: 10,
 		},
+        durationInFrames: 30
 	});
 
-	const startTypingAtFrame = 90;
-	const maxTypingDurationInFrames = 45;
-	const cicleWaitingTypeDuration = 15;
-	const typingDuration =
-		videoConfig.durationInFrames - startTypingAtFrame >
-		maxTypingDurationInFrames
-			? maxTypingDurationInFrames
-			: videoConfig.durationInFrames - startTypingAtFrame;
-	const endOfTypingAnimation = startTypingAtFrame + typingDuration;
+	const startTypingAtFrame = 30;
+	const typingDuration = videoConfig.durationInFrames - 90;
+	const cycleWaitingTypeDuration = 5;
+    const lineDelayDefault = 10;
+    const typingDelayPerChar = typingDuration / text.length
+	const endOfTypingAnimation = startTypingAtFrame + typingDuration + lineDelayDefault * text.split('\n').length;
 	const waitingTypeCicles = Math.ceil(
-		(videoConfig.durationInFrames - endOfTypingAnimation) %
-			cicleWaitingTypeDuration
+		(videoConfig.durationInFrames - endOfTypingAnimation) /
+			cycleWaitingTypeDuration
 	);
 	const arrayWithFramesThatWaitingTypeShouldAppears = new Array(
 		waitingTypeCicles
 	)
 		.fill(undefined)
 		.map((_, i) =>
-			new Array(cicleWaitingTypeDuration)
+			new Array(cycleWaitingTypeDuration)
 				.fill(undefined)
 				.map(
 					(_, index) =>
 						index +
-						i * (cicleWaitingTypeDuration * 2) +
+						i * (cycleWaitingTypeDuration * 2) +
 						endOfTypingAnimation
 				)
 		)
 		.reduce((acc, val) => acc.concat(val), []);
+    console.log(videoConfig.durationInFrames - endOfTypingAnimation, cycleWaitingTypeDuration, waitingTypeCicles)
 
-	const text = ' Hello World';
+    let lineDelay = 0;
+    const textElements = text.split('\n').map((sentence, lineIndex, lines) => {
+        if (lineIndex > 0) {
+            lineDelay += lines[lineIndex - 1].length * typingDelayPerChar + lineDelayDefault
+        }
+
+        return (
+            <>
+                <text
+                    x={430}
+                    y={320 + 39 * lineIndex}
+                    style={{
+                        fontFamily: 'Courier Prime',
+                        fontSize: 32,
+                        display:
+                            frame - startTypingAtFrame - lineDelay >= 0 // show character after delay
+                            ? 'block'
+                            : 'none',
+                    }}
+                >
+                    {'>'}
+                </text>
+                {sentence.split('').map((letter, index) => {
+                    const delay = index * typingDelayPerChar; // calculate delay based on index
+                    const letterDelay = frame - startTypingAtFrame - delay - lineDelay
+                    return (
+                        <>
+                        <text
+                            x={455 + 18 * index}
+                            y={320 + 39 * lineIndex}
+                            style={{
+                                fontFamily: 'Courier Prime',
+                                fontSize: 32,
+                                display:
+                                    letterDelay > 0 // show character after delay
+                                    ? 'block'
+                                    : 'none',
+                                // textDecoration: letterDelay > 0 && letterDelay < 2 ? 'underline' : ''
+                            }}
+                        >
+                            {letter}
+                        </text>
+                        <text
+                            x={455 + 18 * index + 18}
+                            y={320 + 39 * lineIndex}
+                            style={{
+                                fontFamily: 'Courier Prime',
+                                fontSize: 32,
+                                display:
+                                    letterDelay > 0 && letterDelay < 1 // show character after delay
+                                    ? 'block'
+                                    : 'none',
+                            }}
+                        >
+                            _
+                        </text>
+                        </>
+                    );
+                })}
+            </>
+        )
+    })
 
 	if (!audioSrc) {
 		return null;
@@ -273,57 +334,19 @@ export const Intro: React.FC<{
 							clipRule="evenodd"
 							fill="#434445"
 						/>
-						<text
-							x={430}
-							y="315"
-							style={{
-								fontFamily: 'Courier Prime',
-								fontSize: 20,
-							}}
-						>
-							{'>'}
-						</text>
-						{text.split('').map((letter, index) => (
-							<text
-								x={443 + 13 * index}
-								y="315"
-								style={{
-									fontFamily: 'Courier Prime',
-									fontSize: 20,
-									display:
-										frame -
-											startTypingAtFrame -
-											index *
-												(typingDuration /
-													text.split('').length) >
-										0
-											? 'block'
-											: 'none',
-								}}
-							>
-								{letter}
-							</text>
-						))}
+                        {textElements}
 						{arrayWithFramesThatWaitingTypeShouldAppears.includes(
 							frame
 						) ? (
-							<rect
-								x="605"
-								y="314"
-								width="13px"
-								height="1.5px"
-							></rect>
+							<text 
+                                x="635" 
+                                y="398" 
+                                style={{
+                                    fontFamily: 'Courier Prime',
+                                    fontSize: 32,
+                                    display: 'block'
+                                }}>_</text>
 						) : null}
-						<text
-							x="531"
-							y="485"
-							style={{
-								fontFamily: 'ProductSans',
-								fontSize: 25,
-							}}
-						>
-							{date}
-						</text>
 					</g>
 					{/* Teclado */}
 					<g style={{transform: `translateY(${keyboardEntry}px)`}}>

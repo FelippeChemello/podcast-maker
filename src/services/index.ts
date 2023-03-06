@@ -1,6 +1,5 @@
 import GetContentService from './GetContentService';
 import TextToSpeechService from './TextToSpeechService';
-import RetrieveAudioDuration from './RetrieveAudioDataService';
 import ExportDataService from './ExportDataService';
 import RenderVideoService from './RenderVideoService';
 import YoutubeUploadService from './YoutubeUploadService';
@@ -10,14 +9,13 @@ import CreateContentTemplateService from './CreateContentTemplateService';
 import CleanTmpService from './CleanTmpService';
 import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
-import CreatePodcastAudioFile from './CreatePodcastAudioFile';
 import MailToJsonService from './MailToJsonService';
+import GetYoutubeinfoService from './GetYoutubeInfoService';
 
 export {
     GetContentService,
     TextToSpeechService,
     RenderVideoService,
-    RetrieveAudioDuration,
     ExportDataService,
     YoutubeUploadService,
     CreateContentTemplateService,
@@ -26,6 +24,6 @@ export {
     CleanTmpService,
     InstagramUploadService,
     ValidatesContentService,
-    CreatePodcastAudioFile,
     MailToJsonService,
+    GetYoutubeinfoService,
 };

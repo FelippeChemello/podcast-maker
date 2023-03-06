@@ -1,0 +1,8 @@
+numpy
+transformers
+torchaudio
+torch
+ffmpeg-python
+json
+tqmd
+wave
