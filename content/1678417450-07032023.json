@@ -1,0 +1,45 @@
+{
+    "title": "Único Dev derruba Twitter / Futuro do trabalho / Real Digital inicia testes",
+    "fps": 30,
+    "timestamp": 1678417450,
+    "width": 0,
+    "height": 0,
+    "date": "7/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha generalizada no Twitter ocorrida na manhã de ontem foi provocada por um único desenvolvedor: atualmente, apenas uma pessoa está encarregada de gerenciar todo o acesso às APIs da plataforma. Uma “udança de configuração” teria provocado um efeito cascata. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft marca evento especial para apresentar o “futuro do trabalho com IA”: um sistema semelhante ao ChatGPT deverá ser integrado aos aplicativos do Office, como Teams, Word e Outlook. O evento será transmitido ao vivo no site da Microsoft no dia 16, a partir das 13h (horário de Brasília). As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central inicia simulações do Real Digital e adota VM Ethereum como plataforma para testes: por meio de uma rede permissionada Hyperledger Besu, serão realizadas transações de títulos públicos entre instituições financeiras para avaliar o funcionamento, custos e segurança – esta fase vai até o final de 2024. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Dois projetos de estudantes do Curso de Engenharia de Computação da PUC Minas são selecionados para a final da Imagine Cup 2023: a competição de tecnologia promovida pela Microsoft irá avaliar o Hearing Loss Glasses, óculos que convertem falas e legendas, e o Blindl-e, uma plataforma que converte texto em braile. As equipes serão julgadas pelo uso de tecnologias, acessibilidade e viabilidade, concorrendo a prêmios de até 100 mil dólares. As informações são do site da PUC Minas.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft introduz novo canal para testes de versões experimentais e menos estáveis do Windows: os builds disponíveis por meio do Canary possuem pouca validação e documentação, incluindo grandes mudanças no kernel e novas APIs, sendo indicados apenas para usuários altamente técnicos. O canal Dev continuará existindo, mas servirá como um degrau entre Dev e Beta. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta reduz preço do Quest Pro em 33%, menos de cinco meses após seu lançamento: o dispositivo agora está disponível por mil dólares. O Quest 2 recebeu um desconto menor, de 14%. Para 2024, é aguardado um headset de codinome Ventura, com o preço “mais atrativo no mercado VR”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Edge adiciona novo recurso de upscaling de vídeos: por meio da flag edge-video-super-resolution, o navegador consegue remover artefatos de compressão e melhorar a clareza do texto para vídeos em plataformas como o YouTube. O recurso suporta GPUs Nvidia e AMD, mas está disponível apenas para quem participa do programa Windows Insider. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}

@@ -119,7 +119,8 @@ export default class YoutubeUploadService {
 
         let description = '📰 Acompanhe as notícias do mundo da tecnologia e da programação. 📰\n\n';
         let timestamp = 0;
-        this.content.renderData.forEach((item, index, array) => {
+        const news = this.content.renderData.slice(1, -1)
+        news.forEach((item, index, array) => {
             description += `${this.formatTime(timestamp)} ${item.text.split(':')[0]} \n`;
 
             timestamp += item.duration;
