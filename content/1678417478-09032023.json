@@ -1,0 +1,49 @@
+{
+    "title": "Salários de 40 mil / Startup misteriosa / Supercondutor revolucionário",
+    "fps": 30,
+    "timestamp": 1678417478,
+    "width": 0,
+    "height": 0,
+    "date": "09/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Salários de diretores de cibersegurança chegam a 40 mil reais ao mês: e apesar de São Paulo continuar a ser um polo importante, cidades como Fortaleza, Rio de Janeiro e Florianópolis também têm se destacado pela alta demanda desses profissionais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Startup misteriosa, fundada por ex-funcionários da Apple, levanta mais 100 milhões de dólares para construir um novo tipo de dispositivo: o trabalho da Humane tem se mantido em segredo há 5 anos, mas patentes e contratações recentes indicam o possível desenvolvimento de óculos de realidade aumentada com funções como recordar memórias, guia pessoal e monitoramento de idosos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas teriam desenvolvido novo material supercondutor à temperatura e pressão ambientes: o cristal de tom azul seria “completamente revolucionário”, permitindo a fabricação de chips de computador ultraeficientes, bem como ímãs que poderiam conter o plasma em usinas de fusão nuclear. Os cientistas da Universidade de Rochester, no entanto, fizeram uma alegação similar em 2020 e que depois foi retratada. As informações são da revista Science.",
+            "url": ""
+        },
+        {
+            "text": "Justiça obriga Mercado Bitcoin a indenizar cliente que teve 76 mil reais em cripto ativos roubados da plataforma: a fraude faria parte do “risco da atividade” da empresa, que é responsável por oferecer “serviços seguros e eficientes”, devendo arcar com qualquer dano. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google Tradutor agora traduz texto contido em imagens mesmo na versão web: a ferramenta, já disponível como uma nova guia na parte superior do site, utiliza a mesma tecnologia do Google Lens. É possível copiar o texto ou até mesmo baixar uma nova versão da imagem traduzida. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "DuckDuckGo incorpora IA e gera resumos na página de buscas: o DuckAssist combina tecnologias da Anthropic e OpenAI, gerando resumos para perguntas que podem ser respondidas com informações da Wikipedia, indicando também os links das fontes utilizadas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Preenchimento automático do Bitwarden pode permitir roubo de senhas por meio de iframes maliciosos incorporados em sites confiáveis: o gerenciador de credenciais está ciente do problema desde 2018, mantendo o recurso desativado por padrão e optando apenas por alertar os usuários do risco. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "[Errata] Conferência anual de desenvolvedores do Google: diferente do que informamos na edição de ontem, a I/O 2023 acontecerá no dia 10 de maio e não nesta sexta-feira. Agradecemos ao leitor Leonardo pelo alerta.",
+            "url": ""
+        }
+    ]
+}
