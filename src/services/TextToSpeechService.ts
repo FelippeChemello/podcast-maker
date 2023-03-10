@@ -212,10 +212,11 @@ class TextToSpeechService {
                         })
                         break;
                     case SpeechSynthesisBoundaryType.Punctuation:
-                        const lastIndex = segments.length - 1
-
-                        segments[lastIndex].end = (e.audioOffset + e.duration) / 10000;
-                        segments[lastIndex].word += e.text;
+                        segments.push({
+                            start: e.audioOffset / 10000,
+                            end: (e.audioOffset + e.duration) / 10000,
+                            word: e.text
+                        })
                         break;
                 }
             }

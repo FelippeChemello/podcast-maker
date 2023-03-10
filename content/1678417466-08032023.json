@@ -1,0 +1,45 @@
+{
+    "title": "Slack integra ChatGPT / Desliga e liga no espaço / Maior VLM já criado",
+    "fps": 30,
+    "timestamp": 1678417466,
+    "width": 0,
+    "height": 0,
+    "date": "08/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Slack integra ChatGPT para resumir o que está sendo discutido em canais e gerar rascunhos de respostas para colegas: para testar a ferramenta, é preciso entrar em uma lista de espera, disponível no site da OpenAI. O recurso faz parte dos planos mais amplos da Salesforce, dona do Slack, de criar o Einstein GPT, um sistema de CRM completo, baseado no ChatGPT. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "NASA “desliga e liga” sonda solar e restaura funcionamento completo: a reinicialização foi realizada manualmente pelo controle de missão em terra. O Interstellar Boundary Explorer, em operação há 15 anos, havia sido colocado em modo de contingência em fevereiro, após não responder mais a comandos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta maior modelo de linguagem visual (VLM) já desenvolvido: com 562 bilhões de parâmetros, a principal aplicação do PaLM-E é em robótica – ao receber um comando, como “raga-me os chips que estão na gaveta”, o sistema gera um plano de ação completo para um robô, que pode executá-lo por conta própria, sem a necessidade de anotações ou pré-treinamento humano. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Vaza modelo de linguagem lançado recentemente pela Meta: instruções sobre como fazer o download dos 220 GB do LLaMA, modelo similar ao ChatGPT, foram publicadas no GitHub. Por temer o uso indevido, a empresa havia compartilhado o sistema apenas para fins de pesquisa. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "WEG irá construir nova fábrica de baterias para veículos elétricos em Santa Catarina: a instalação de 6 mil m2 irá focar em veículos de grande porte, como ônibus e caminhões. O objetivo é fornecer mais de 1 GWh em packs de baterias ao ano. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Estudantes da UFSC desenvolvem protótipo de veículo totalmente autônomo: o TCC da engenheira mecânica Laíza Parizotto foi o pontapé inicial do projeto – o ERA-222 pôde ser visto andando sozinho pelo campus universitário, em Florianópolis, nesta semana. Um detalhe interessante foi usar câmeras em vez de sensores LiDAR para calcular a posição de objetos, assim como os atuais veículos da Tesla. As informações são do site da UFSC.",
+            "url": ""
+        },
+        {
+            "text": "Google marca conferência anual de desenvolvedores para esta sexta-feira (dia 10): a I/O será transmitida ao vivo e focará em palestras sobre IA e atualizações importantes em sistemas operacionais da empresa, como Android e Wear OS. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
