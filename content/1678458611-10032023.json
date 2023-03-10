@@ -1,0 +1,45 @@
+{
+    "title": "GPT-4: CTO revela data / Investidores receosos / Meta e Mastodon",
+    "fps": 30,
+    "timestamp": 1678458611,
+    "width": 0,
+    "height": 0,
+    "date": "10/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GPT-4 chegará na próxima semana, diz CTO da Microsoft Alemanha: segundo Andreas Braun, um dos destaques será o modelo multimodal, trazendo novas possibilidades, como transformar texto em música ou vídeo. Ainda segundo o CTO, os três casos de uso mais comuns da tecnologia nessa fase inicial será a integração com a knowledge base de empresas, processamento de documentos e automação em call centers. As informações são do site Heise Online.",
+            "url": ""
+        },
+        {
+            "text": "Investidores estão receosos sobre a possibilidade de IAs gerarem retornos no longo prazo: apesar de tecnicamente impressionantes, há uma mistura de empolgação e cautela diante da enorme quantidade de capital e computação necessários para construir os chamados “modelos fundacionais”, como o GPT por trás do ChatGPT. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Meta confirma que está trabalhando em uma nova rede social descentralizada, similar ao Mastodon: de codinome P92, a plataforma também irá oferecer suporte ao ActivityPub. O projeto está sendo supervisionado pelo chefe do Instagram, Adam Mosseri. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bing ultrapassa pela primeira vez 100 milhões de usuários ativos diários após integração com ChatGPT: o número representa um crescimento de seis vezes – um terço desses usuários são novos na plataforma. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Prefeitura de São Paulo lança aplicativo similar ao Uber que paga 89% do valor das corridas aos motoristas: outro diferencial do MobizapSP é a ausência de tarifa dinâmica em horários de pico. O app já está disponível para Android e iOS, mas só entrará em funcionamento após atingir a meta de motoristas cadastrados. As informações são do site TecMundo",
+            "url": ""
+        },
+        {
+            "text": "IBGE faz ajustes em pesquisas e passará a medir uso de nuvem, aplicativos, robôs industriais e streaming: as atualizações são relacionadas a mudanças nos hábitos de consumo e produção industrial. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "GitHub tornará autenticação de dois fatores obrigatória a partir desta segunda-feira (13/março): a exigência será feita gradualmente, buscando minimizar interrupções e bloqueios de contas – o objetivo é alcançar a base toda da plataforma até o final deste ano. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
