@@ -123,15 +123,14 @@ jobs:
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |
-                  DataPath=$(./bin/run info content --dir | sed -e "s/\/[^\/]*$//")
                   ContentPath=$(./bin/run info content --dir)
                   if [ -d "$ContentPath" ]; then 
                       ls $ContentPath;
                       echo "ContentPath exists, deleting it"; 
                       rm -rf $ContentPath; 
                   fi; 
-                  echo "Creating SymLink from $(pwd)/content to $DataPath"; 
-                  ln -s $(pwd)/content $DataPath
+                  echo "Creating SymLink from $(pwd)/content to $ContentPath"; 
+                  ln -s $(pwd)/content $ContentPath
 
             - name: Create Youtube video
               run: ./bin/run create youtube --upload
