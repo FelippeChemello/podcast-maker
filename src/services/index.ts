@@ -3,7 +3,7 @@ import TextToSpeechService from './TextToSpeechService';
 import ExportDataService from './ExportDataService';
 import RenderVideoService from './RenderVideoService';
 import YoutubeUploadService from './YoutubeUploadService';
-import CreateThumnailService from './CreateThumnailService';
+import CreateThumbnailService from './CreateThumnailService';
 import BundleVideoService from './BundleVideoService';
 import CreateContentTemplateService from './CreateContentTemplateService';
 import CleanTmpService from './CleanTmpService';
@@ -19,7 +19,7 @@ export {
     ExportDataService,
     YoutubeUploadService,
     CreateContentTemplateService,
-    CreateThumnailService,
+    CreateThumbnailService as CreateThumnailService,
     BundleVideoService,
     CleanTmpService,
     InstagramUploadService,

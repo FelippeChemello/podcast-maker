@@ -1,0 +1,45 @@
+{
+    "title": "Demissão por violar LGPD / Recompensa por novo GitHub / IA captura imagens da mente",
+    "fps": 30,
+    "timestamp": 1678417416,
+    "width": 0,
+    "height": 0,
+    "date": "06/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Funcionário viola LGPD para obter provas em processo trabalhista e é punido com demissão por justa causa: para provar o descumprimento de obrigações por parte da empresa, um enfermeiro copiou informações de um sistema de internação de pacientes, cometendo “falta gravíssima ao apropriar-se indevidamente de documentos confidenciais”. As informações são do site da Justiça do Trabalho.",
+            "url": ""
+        },
+        {
+            "text": "Fundador do Twitter aumenta para 10 BTC recompensa para quem criar alternativa descentralizada ao GitHub: para Jack Dorsey, esse novo sistema para controle de versões seria idealmente baseado no Nostr, protocolo criado pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil de Dorsey na rede Nostr.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores japoneses usam Stable Diffusion para reconstruir imagens captadas da atividade cerebral humana: o estudo da Universidade de Osaka decodificou representações de texto a partir de sinais de ressonância magnética do córtex visual. As imagens, apesar de não serem precisas pixel por pixel, mostravam o que estava sendo visualizado – um avião ou um urso de pelúcia, por exemplo – com muita similaridade. As informações são do site Vice.",
+            "url": ""
+        },
+        {
+            "text": "Criminosos estão usando IA para imitar vozes de familiares e aplicar golpes: ferramentas como o Prime Voice AI, da ElevenLabs, estão cada vez mais acessíveis e fáceis de usar, permitindo criar vozes a partir de uma única amostra de áudio. As informações são do The Washington Post.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI lança plug-in oficial do Stable Diffusion para aplicativo 3D Blender: o Stability for Blender permite criar imagens, texturas e até mesmo animações a partir de texto ou de renderizações existentes. O plug-in é totalmente gratuito e não requer GPU dedicada. Instruções de instalação estão disponíveis na página de integrações da Stability AI.",
+            "url": ""
+        },
+        {
+            "text": "84% do segmento de TI no Brasil é formado por microempresas com faturamento de até 81 mil reais ao ano: em 2022, o setor registrou um saldo de 25.477 novos CNPJs. TI ocupa o 13º lugar dentre os 16 setores econômicos do Brasil, somando 237 mil empresas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Irã descobre uma das maiores jazidas de lítio do mundo: o mineral, ultimamente chamado de “ouro branco”, viu sua demanda explodir nos últimos anos dado seu uso na produção de baterias para veículos e dispositivos eletrônicos. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}

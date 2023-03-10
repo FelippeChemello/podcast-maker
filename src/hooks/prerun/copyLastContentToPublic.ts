@@ -10,8 +10,6 @@ const hook: Hook<'prerun'> = async function (opts) {
         return;
     }
 
-    console.log("@@@")
-
     const lastContentFile = await getLatestFileCreated('json', path.resolve(__dirname, '..', '..', '..', 'content'))
     const contentFileDestination = path.resolve(await getPath('content'), path.basename(lastContentFile))
 

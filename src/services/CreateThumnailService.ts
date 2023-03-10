@@ -1,13 +1,13 @@
 import fs from 'fs';
 import path from 'path';
-import { getCompositions, renderStill } from '@remotion/renderer';
+import { renderStill } from '@remotion/renderer';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
-import { log, error } from '../utils/log';
+import { log } from '../utils/log';
 import { getPath } from '../config/defaultPaths';
 import format from '../config/format';
 
-export default class CreateThumnailService {
+export default class CreateThumbnailService {
     private content: InterfaceJsonContent;
     private compositionId = 'Thumbnail';
 
@@ -29,7 +29,11 @@ export default class CreateThumnailService {
         await renderStill({
             serveUrl: bundle,
             output: thumbnailPath,
-            inputProps: { filename: `${this.content.timestamp}.json` },
+            inputProps: {
+                content: this.content,
+                destination: 'youtube',
+                durationInFrames: 1,
+            },
             composition: {
                 id: this.compositionId,
                 durationInFrames: 1,

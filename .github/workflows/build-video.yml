@@ -51,16 +51,12 @@ jobs:
                   yarn
                   yarn build
 
-            - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
+            - name: Move content file to be processed
               run: |
-                  ContentPath=$(./bin/run info content --dir)
-                  if [ -d "$ContentPath" ]; then 
-                      ls $ContentPath;
-                      echo "ContentPath exists, deleting it"; 
-                      rm -rf $ContentPath; 
-                  fi; 
-                  echo "Creating SymLink from $(pwd)/content to $ContentPath"; 
-                  ln -s $(pwd)/content $ContentPath
+                File=$(ls content/*.json | sort -n -t '-' -k 1 | tail -n 1)
+                Destination=$(./bin/dev info content --dir)
+                echo "Coping from $File to $Destination"
+                cp $File $Destination
 
             - name: Get tmp path
               id: tmp
@@ -126,16 +122,11 @@ jobs:
                   name: audio-files
                   path: ${{ steps.tmp.outputs.tmpPath }}/
 
-            - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
+            - name: Link public folder to tmp
               run: |
-                  ContentPath=$(./bin/run info content --dir)
-                  if [ -d "$ContentPath" ]; then 
-                      ls $ContentPath;
-                      echo "ContentPath exists, deleting it"; 
-                      rm -rf $ContentPath; 
-                  fi; 
-                  echo "Creating SymLink from $(pwd)/content to $ContentPath"; 
-                  ln -s $(pwd)/content $ContentPath
+                Tmp=$(./bin/run info tmp --dir)
+                echo "Linking $Tmp to public"
+                ln -sf $Tmp public
 
             - name: Create Youtube video
               run: ./bin/run create youtube --upload

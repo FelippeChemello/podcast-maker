@@ -1,4 +1,5 @@
 import path from 'path';
+import fs from 'fs'
 import { renderMedia } from '@remotion/renderer';
 
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
@@ -6,6 +7,7 @@ import { log, error } from '../utils/log';
 import { getPath } from '../config/defaultPaths';
 import format from '../config/format';
 import Bar from '../utils/CliProgress/bar';
+import { ln } from 'shelljs';
 
 class RenderVideoService {
     private content: InterfaceJsonContent;

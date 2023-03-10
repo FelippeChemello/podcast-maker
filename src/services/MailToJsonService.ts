@@ -92,17 +92,11 @@ export default class MailToJsonService {
 
         const gmail = google.gmail({ version: 'v1', auth });
 
-        const today = new Date();
-        const yesterday = new Date(today);
-        const tomorrow = new Date(today);
-
-        tomorrow.setDate(tomorrow.getDate() + 1);
-        yesterday.setDate(yesterday.getDate() - 1);
-
         const mailList = await gmail.users.messages.list({
             userId: 'me',
             q: `from:(${this.senderMail})`,
             maxResults: 1,
+
         });
 
         if (!mailList.data.messages?.length || !mailList.data.messages[0].id) {

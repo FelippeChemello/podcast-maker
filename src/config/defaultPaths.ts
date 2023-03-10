@@ -4,7 +4,7 @@ import { Config } from '@oclif/core';
 
 const assetsPath = path.resolve(__dirname, '..', '..', 'assets');
 const remotionPath = path.resolve(__dirname, '..', '..', 'video');
-const publicPath = path.resolve(__dirname, '..', '..', 'public');
+const publicPath = path.resolve(__dirname, __dirname.includes('dist') ? '..' : '', '..', '..', 'public');
 
 export const getPath = async (
     pathname: 'content' | 'assets' | 'tmp' | 'remotion' | 'public',

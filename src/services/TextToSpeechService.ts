@@ -175,7 +175,7 @@ class TextToSpeechService {
     }
 
     private async synthesize(text: string, sufix: string): Promise<{ audioFilePath: string, duration: number, segments: Segment[] }> {
-        const tmpPath = await getPath('public');
+        const tmpPath = await getPath('tmp');
         const segments: Segment[] = []
 
         return new Promise(resolve => {
