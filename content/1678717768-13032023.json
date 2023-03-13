@@ -1,0 +1,45 @@
+{
+    "title": "Banco das startups quebra / Dispositivo controverso / Samsung: trapaça em fotos da Lua",
+    "fps": 30,
+    "timestamp": 1678717768,
+    "width": 0,
+    "height": 0,
+    "date": "13/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Banco central dos EUA vai garantir 100% dos depósitos de clientes após quebra do Silicon Valley Bank: o famoso banco fomentador de startups do Vale do Silício, com mais de 40 anos de história, sofreu o que é chamado de “corrida aos bancos” na semana passada, com clientes em pânico sacando todo o dinheiro depositado, após o anúncio de perdas com a negociação de títulos públicos. Sem a intervenção da autoridade monetária, centenas de startups estavam em risco de quebrar nos próximos dias. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anatel apreende entregas do Flipper Zero devido ao possível uso em atividades criminosas: o dispositivo versátil, comumente utilizado para testes de intrusão, tem ganhado popularidade entre criminosos por permitir destravar carros, abrir portas de garagem e até mesmo dar partida em veículos com chaves digitais. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Samsung estaria “trapaceando” em fotos da Lua tiradas com smartphones Galaxy: o recurso Space Zoom reconhece quando alguém está tirando uma foto do corpo celeste e sobrepõe a imagem com uma textura genérica. Um teste com uma foto da Lua propositalmente embaçada – a foto de uma foto – mostra como detalhes não captados pela câmera são aplicados artificialmente. As informações são do site AppleInsider.",
+            "url": ""
+        },
+        {
+            "text": "Vendas de discos de vinil superam CDs pela primeira vez desde 1987: não se trata apenas de receitas – que já superavam as de CDs nos últimos anos – mas de unidades vendidas (41 milhões vs 33 milhões). O retorno de mídias físicas refletem uma tendência retrô-tecnológica, presente até mesmo nas gerações mais novas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores consideram open source a tecnologia com o impacto mais positivo na indústria: tecnologias sustentáveis, machine learning, computação em nuvem, impressão 3D e robótica também foram bem avaliadas. Blockchain e low code/no code receberam as piores pontuações. As informações são do blog do Stack Overflow.",
+            "url": ""
+        },
+        {
+            "text": "Go volta a entrar no top 10 do índice Tiobe após uma ausência de quase seis anos: o pódio de março mostra a linguagem na 10ª posição, desbancando Assembly. A popularidade com desenvolvedores pode ser atribuída ao desempenho, recursos e apoio do Google. As informações são do site da Tiobe.",
+            "url": ""
+        },
+        {
+            "text": "Novo tipo de ataque consegue roubar dados de computadores isolados da rede por meio dos seus mini alto-falantes internos: o CASPER, apresentado por pesquisadores da Universidade da Coreia, utiliza áudio de alta frequência – imperceptível ao ouvido humano – para transmitir dados em código binário ou Morse, a uma taxa de 20 bits/s, para um smartphone a até 1,5 m de distância. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
