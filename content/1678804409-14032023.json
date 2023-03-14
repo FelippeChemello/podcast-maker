@@ -1,0 +1,45 @@
+{
+    "title": "Docs e Gmail ganham “ChatGPT” / Roubaram a internet / Momento Stable Diffusion",
+    "fps": 30,
+    "timestamp": 1678804409,
+    "width": 0,
+    "height": 0,
+    "date": "14/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia sua versão do “ChatGPT” integrado ao Docs e Gmail: dentro de um documento ou email, basta digitar um tópico sobre o qual gostaria de escrever e um rascunho será gerado instantaneamente. O sistema é baseado no PaLM e será liberado lentamente e para poucos usuários nas próximas semanas. As informações são do blog do Google Cloud.",
+            "url": ""
+        },
+        {
+            "text": "Nubank, C6, Inter, Agibank, Original, PagBank e Neon negam qualquer tipo de exposição à quebra do Silicon Valley Bank nos EUA: no mundo todo, instituições financeiras foram impactadas pelo ocorrido. No Brasil, a situação está sendo monitorada pelo Ministério da Fazenda e Banco Central. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador dos navegadores Vivaldi e Opera acredita que anunciantes “roubaram a internet” das pessoas: para Jon Stephenson von Tetzchner, o rastreamento generalizado e a forma como esses dados podem ser utilizados para influenciar as pessoas seria “simplesmente errado”. As informações são do site XDA Developers.",
+            "url": ""
+        },
+        {
+            "text": "IA da Meta que vazou já está rodando em notebooks, smartphones e até mesmo no Raspberry Pi: o pesquisador Simon Willison afirma que o LLaMA está passando por seu “momento Stable Diffusion”. O acesso irrestrito à tecnologia, similar ao ChatGPT, traz consigo implicações imprevisíveis. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Gangue de ransomware Lockbit ameaça vazar 3 mil desenhos técnicos da SpaceX: o grupo alega ter invadido a Maximum Industries, que fabrica peças para a empresa. Em uma mensagem, os hackers ameaçam vender as informações para que outras empresas construam uma nave espacial mais rápido, permitindo que Elon Musk possa “voar para longe”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta encerra suporte para NFTs no Instagram e Facebook: a empresa pretende testar alternativas com criadores de conteúdo, como a monetização de Reels. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Automattic, empresa proprietária do WordPress, adquire plug-in ActivityPub para integrar blogs ao Fediverse: o desenvolvedor por trás do plug-in trabalhará na empresa e já está implementando outros protocolos, como Nostr e AT. Leitores agora podem visualizar postagens e fazer comentários em plataformas como Mastodon. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
