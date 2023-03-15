@@ -1,0 +1,45 @@
+{
+    "title": "Código com palavrão é melhor / Presencial vs remoto / OpenAI lança GPT-4",
+    "fps": 30,
+    "timestamp": 1678890522,
+    "width": 0,
+    "height": 0,
+    "date": "15/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Códigos comentados com palavrões têm qualidade significativamente superior: a conclusão saiu do TCC do universitário alemão Jan Strehmel, do Instituto de Tecnologia de Karlsruhe, após extrair do GitHub mais de 11 mil exemplos de código escrito em C. Uma hipótese levantada é que xingar pode ser um indicativo de envolvimento emocional, o que poderia levar a produções com mais qualidade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg afirma que engenheiros de software trabalhando presencialmente têm melhor desempenho comparado aos remotos: além disso, profissionais em início de carreira também se saem melhor quando trabalham presencialmente ao lado de colegas pelo menos três dias por semana. As percepções de Zuckerberg vieram acompanhadas de uma nova leva de 10 mil demissões na empresa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-4, agora uma IA multimodal capaz de compreender imagens e texto: quem é assinante do ChatGPT Plus já pode testar o novo modelo, também compartilhado com o Bing Chat. A Microsoft desenvolveu um supercomputador especial no Azure para treinamento do modelo. Em seu perfil no Twitter, Sualeh Asif, CEO da startup que está construindo o novo editor de código Control, foi beta tester do GPT-4 e afirma que o sistema “é fenomenal” em programação, auxiliando-os a escrever protótipos 100% funcionais ou então traduzindo funções de uma linguagem para outra sem erros. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas do MIT desenvolvem compilador Python que oferece velocidades semelhantes às de C ou C++: o Codon transforma Python em código de máquina nativo, permitindo uma linguagem de alto nível com velocidade de baixo nível. Ele já está sendo usado comercialmente em áreas como finanças quantitativas, bioinformática e até aprendizado profundo. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Samsung anuncia a construção da maior rede de fabricação de semicondutores do mundo na Coreia do Sul: serão investidos 230 bilhões de dólares até 2042 para a construção de fábricas, indústrias de suporte, produção de materiais e organizações de pesquisa. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Advogado robô da DoNotPay está sendo processado por não ser formado em direito e estar exercendo advocacia sem licença: a legaltech está sendo processada na Califórnia por produzir documentos legais “abaixo do padrão”. O DoNotPay é um chatbot de serviços jurídicos, originalmente criado para contestar multas de estacionamento. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Instalar painéis solares sobre represas poderia gerar mais de 40% das necessidades mundiais de energia: mesmo com uma cobertura parcial, essas instalações poderiam produzir 10.000 TeraWatt-hora ao ano, além de evitar a evaporação de 100 km cúbicos de água, o que atenderia o consumo de 300 milhões de pessoas. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
