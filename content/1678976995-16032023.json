@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI se fecha / Sucessor do Atom / Governo prepara PL",
+    "fps": 30,
+    "timestamp": 1678976995,
+    "width": 0,
+    "height": 0,
+    "date": "16/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI decide não revelar informações técnicas do GPT-4, incluindo tamanho de parâmetros e dados de treinamento: a justificativa seria o cenário competitivo e implicações de segurança. Para Ilya Sutskever, cientista-chefe da OpenAI, em poucos anos será “completamente óbvio” como IAs de código aberto serão consideradas “uma má ideia”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nathan Sobo, criador do Atom, lança beta do seu novo editor de código: o Zed é extremamente responsivo, combinando Rust com um novo framework para acelerar a UI por meio da GPU. Além disso, o editor possui recursos para desenvolvimento colaborativo e em tempo real. As informações são do blog do Zed.",
+            "url": ""
+        },
+        {
+            "text": "Governo já tem projeto de lei para a regulação de redes sociais e de comunicação pela internet: a proposta trata da responsabilização dessas plataformas, abordando com transparência as decisões de exclusão de conteúdo e identificação proativa de materiais ilegais. Está em discussão também a criação de um novo órgão regulador para fiscalização das plataformas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Brasil reduz investimentos em tecnologia e cai para 12º em ranking mundial: em 2022, os investimentos representaram 1,65% do total global (2,79 trilhões de dólares) e 36% de toda a América Latina. Desse montante, 26% foi para o mercado de software, 19,5% para o de serviços e 54,6% para o de hardware. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Startup de ex-funcionários da OpenAI lança rival do ChatGPT: o Claude, da Anthropic, tem como objetivo ser um sistema mais “honesto e inofensivo”. O modelo já é utilizado na ferramenta DuckAssist do DuckDuckGo e no back-end técnico do Notion AI. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google libera pela primeira vez acesso ao modelo de linguagem PaLM por meio de APIs: desenvolvedores podem realizar ajustes e adicionar seus próprios conjuntos de dados para a criação de aplicativos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "PyTorch chega à versão 2.0 com desempenho mais rápido: é 100% compatível com versões anteriores – mesmo trazendo mudanças fundamentais em como o framework opera ao nível do compilador – e adiciona recursos de otimização de desempenho e treinamento em GPUs e CPUs. As informações são do blog do PyTorch.",
+            "url": ""
+        }
+    ]
+}
