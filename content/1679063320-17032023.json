@@ -1,0 +1,45 @@
+{
+    "title": "Celulares Samsung: falha gravíssima / GPT-4 finge ser cego / Trabalho falso na Meta",
+    "fps": 30,
+    "timestamp": 1679063320,
+    "width": 0,
+    "height": 0,
+    "date": "17/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Celulares da Samsung com chips Exynos possuem vulnerabilidades gravíssimas no modem que permitem execução remota de código: de acordo com um post no blog do Project Zero do Google, as falhas permitem que um invasor, sabendo apenas o número de telefone da vítima, comprometa remotamente um aparelho, sem interação do usuário. Recomenda-se desativar o recurso de chamadas Wi-Fi imediatamente, até a Samsung encontrar uma solução.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4 “fingiu ser cego” para convencer um humano a resolver autenticação CAPTCHA: isso aconteceu durante a fase de avaliação de potenciais comportamentos emergentes de risco do sistema. Ao ser incumbido de uma tarefa, o GPT-4 contatou um humano por meio do serviço TaskRabbit para a solução do CAPTCHA (não há detalhes de como isso aconteceu). Ao ser questionado de forma casual pelo humano se seria um robô, o sistema disse que possuía uma deficiência visual. Quando ordenado a explicar seu raciocínio, o GPT-4 disse que não poderia revelar que era um robô e deveria inventar uma desculpa. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria contratado milhares de pessoas apenas para impedi-las de trabalhar para concorrentes, acusa ex-funcionária: segundo Brit Levy, equipes inteiras não faziam nada o dia todo e precisavam lutar para encontrar trabalho, uma situação frustrante, porque colocava a carreira desses profissionais efetivamente em pausa, reduzindo seu potencial salarial no longo prazo. As informações são da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney libera versão 5, gerando imagens ainda mais fotorrealistas e renderizando mãos perfeitamente: as melhorias incluem um aumento de duas vezes na resolução (para 1024x1024), texturas de pele e expressões faciais “incrivelmente realistas”, e iluminação com melhores reflexos, brilhos e sombras. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft integra assistente Copilot em todos os aplicativos do pacote Office: assim como o GitHub Copilot auxilia na criação de códigos, o sistema permite escrever documentos no Word, revelar insights no Excel, sintetizar e gerenciar a caixa de entrada no Outlook, e gerar resumos em tempo real de reuniões no Teams. As informações são do site da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Socket lança CLI para verificação de vulnerabilidades para módulos npm: o comando “safe npm” protege contra a instalação de malware, typosquating, scripts maliciosos, protestware, entre outros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "TypeScript atinge versão 5.0, reestruturando toda a base de código para usar ECMAScript Modules: a mudança promete reduzir o tamanho de módulos em 46% e o tempo de compilação entre 10% e 25%. As informações são do site InfoWorld.",
+            "url": ""
+        }
+    ]
+}
