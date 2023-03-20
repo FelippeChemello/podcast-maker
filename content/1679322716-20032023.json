@@ -1,0 +1,45 @@
+{
+    "title": "Criador do Unix critica Apple / Twitter abrirá algoritmo / Navegador da Amazon",
+    "fps": 30,
+    "timestamp": 1679322716,
+    "width": 0,
+    "height": 0,
+    "date": "20/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Criador do Unix migra para Linux após utilizar Mac durante a maior parte de sua vida: Ken Thompson – também criador das linguagens B e Go – disse estar “deprimido” com a Apple nos últimos anos. Ele está usando Raspbian nos últimos meses. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Twitter abrirá algoritmo de recomendação no dia 31 de março: o algoritmo é “excessivamente complexo e não totalmente compreendido internamente”, disse Elon Musk em seu perfil na plataforma. A ideia seria tornar o código aberto e transparente para que todos possam apontar problemas.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria desenvolvendo um novo navegador para desktops: em uma pesquisa enviada a alguns usuários, a empresa questionou quais recursos os convenceriam a experimentar o navegador, como opções baseadas em IA. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "LGPD não se aplica a informações de pessoas já falecidas, esclarece Autoridade Nacional de Proteção de Dados: entretanto, a ANPD afirma que existem pelo menos sete projetos de lei que tratam do direito à “herança digital” – a transmissão de contas e arquivos a herdeiros. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mastodon ultrapassa a marca de 10 milhões de usuários:  quase 50 mil novas contas são criadas na plataforma por dia. É improvável que esses novos usuários sejam bots devido às ferramentas utilizadas para filtrar tráfego automatizado. As informações são do site IT World Canada.",
+            "url": ""
+        },
+        {
+            "text": "Rolls-Royce irá desenvolver microrreator nuclear para bases na Lua: um modelo de demonstração estará pronto até 2029, servindo como fonte de energia alternativa ao Sol e permitindo a presença humana contínua na Lua. As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "cURL atinge versão 8.0.0 nesta segunda, comemorando aniversário de 25 anos: não há nenhuma grande mudança ou quebra de API nesta versão, mas seis vulnerabilidades de baixa severidade foram resolvidas. As informações são do blog de Daniel Stenberg.",
+            "url": ""
+        }
+    ]
+}
