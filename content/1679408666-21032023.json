@@ -1,0 +1,45 @@
+{
+    "title": "Python mais importante / CEO da OpenAI assustado / HDs novos duram menos",
+    "fps": 30,
+    "timestamp": 1679408666,
+    "width": 0,
+    "height": 0,
+    "date": "21/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Programar em Python é considerada a habilidade mais importante para engenheiros de software no momento: essa foi a resposta de 64% dos 1.300 entrevistados na pesquisa de uma recrutadora de desenvolvedores. JavaScript veio em segundo lugar (49%), seguido por SQL (44%). R e C foram as linguagens menos bem avaliadas (3% e 7%, respectivamente). As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI admite estar “um pouco assustado” com os riscos que o GPT-4 representa para a sociedade: entretanto, para Sam Altman, se não for a OpenAI, outras empresas irão desenvolver a mesma tecnologia, sem os limites de segurança adequados, dando brechas para ser utilizada por indivíduos, grupos ou governos autoritários em campanhas de desinformação e ataques cibernéticos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "HDs fabricados antes de 2015 são mais duráveis, sugere estudo: o tempo médio de vida útil dos 2.007 discos rígidos analisados foi 2 anos e 10 meses, abaixo da média esperada de três anos. A maior densidade de armazenamento, limitação no tamanho físico de componentes, além da técnica SMR para gravação magnética de dados são possíveis razões. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros passam mais tempo conectados à internet do que fora dela: em média, as pessoas se conectam às 8h33 e saem às 22h13. Das 91 horas semanais – representando 197 dias no ano – 19 horas são gastas trabalhando, 13h em streaming, 12h no YouTube e 11h em redes sociais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Startup anuncia novo modelo de geração de vídeo por meio de texto: o Gen-2 da Runway consegue gerar vídeos de alguns segundos, ampliando a capacidade da versão anterior lançada no início do mês passado, que só fazia edições. A empresa, que também ajudou a desenvolver o Stable Diffusion, espera fornecer amplo acesso ao sistema nas próximas semanas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Falha nos dispositivos Google Pixel permite desfazer edições em todas as capturas de tela tiradas nos últimos quatro anos: a vulnerabilidade (CVE-2023-21036, apelidada de Acropalypse) está presente no editor de captura de tela integrado do Android desde a versão Pie (9.0). Apesar do problema ter sido corrigido, todas as imagens que passaram pelo editor ainda contêm, de forma embutida no arquivo, todas as informações originais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Netflix possui 70 jogos em desenvolvimento e planeja lançar 40 títulos neste ano: além disso, a empresa está trabalhando com vários estúdios externos e também está desenvolvendo sua própria tecnologia de streaming de jogos em nuvem. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
