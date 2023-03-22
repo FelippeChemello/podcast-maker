@@ -1,0 +1,45 @@
+{
+    "title": "Bill Gates: era da IA começou / Bard pior que ChatGPT / Acropalypse no Windows também",
+    "fps": 30,
+    "timestamp": 1679495270,
+    "width": 0,
+    "height": 0,
+    "date": "22/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bill Gates declara que “a era da IA começou”: sistemas como o ChatGPT são o avanço mais importante na tecnologia desde a interface gráfica em computadores e tão revolucionários como a internet e o smartphone. Para Gates, em breve, o período pré-IA parecerá tão distante quanto os dias em que usar um computador significava “digitar em um prompt C:&gt;”. As informações são do site The Gates Notes.",
+            "url": ""
+        },
+        {
+            "text": "Google lança prévia restrita do Bard, sua resposta ao ChatGPT: o sistema está disponível apenas por meio de uma lista de espera a usuários dos EUA e Reino Unido. Em testes iniciais, o Bard mostra-se mais limitado e perigoso do que o ChatGPT – quando requisitado, escreveu o template para um email de phishing, sem nenhum questionamento ético. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Capturas de tela realizadas pela ferramenta padrão do Windows 11 também podem conter informações que foram cortadas na edição: a vulnerabilidade é bastante semelhante à Acropalypse presente nos dispositivos Google Pixel, relatada na edição da Newsletter de ontem, e pode ser explorada usando praticamente o mesmo código, permitindo desfazer alterações e descobrir informações que foram ocultadas pelo usuário. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Adobe lança Firefly, seu próprio sistema gerador de imagens por IA: o modelo foi treinado em cima da Adobe Stock – biblioteca de mídia e isenta de royalties da empresa – e conteúdo de domínio público ou licenciado abertamente. No futuro, usuários poderão treinar o Firefly usando suas próprias criações. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Um dos maiores fóruns de hackers do mundo é fechado após FBI prender principal administrador em Nova Iorque: o novo administrador do site decidiu encerrar as operações após constatar a violação dos servidores, mas confirmou que pretende construir uma nova comunidade para os hackers. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bob Metcalfe ganha Prêmio Turing pela invenção da rede Ethernet: o prêmio também é conhecido como o “Nobel da Computação” e inclui uma recompensa de 1 milhão de dólares, fornecida pelo Google. As informações são do site do MIT.",
+            "url": ""
+        },
+        {
+            "text": "Oracle anuncia disponibilidade do Java 20: a versão inclui melhorias de desempenho, estabilidade e segurança, apresentando sete propostas de aprimoramento para o Java Development Kit que visam aumentar a produtividade de desenvolvedores. As informações são do site SiliconANGLE.",
+            "url": ""
+        }
+    ]
+}
