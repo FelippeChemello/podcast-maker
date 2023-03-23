@@ -1,0 +1,45 @@
+{
+    "title": "GitHub lança Copilot X / Drive USB explosivo / AGI emerge no GPT-4",
+    "fps": 30,
+    "timestamp": 1679581738,
+    "width": 0,
+    "height": 0,
+    "date": "23/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub lança Copilot X, introduzindo modo de bate-papo centrado em código: a ferramenta também possui integração com o terminal, auxiliando na composição de comandos, e cria automaticamente descrições em pull requests. Além disso, agora também é possível consultar a documentação de frameworks e linguagens (inicialmente React, Azure e MDN da Mozilla). Todos esses novos recursos utilizam o GPT-4 – por motivos de latência, a geração de código permanece no modelo Codex, derivado do GPT-3. Um preview já está disponível no VS Code e Visual Studio, com suporte para outros IDEs vindo depois. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cinco jornalistas equatorianos recebem drives USB armados com explosivos – um deles sofre ferimentos leves: um dos drives não explodiu porque o adaptador usado para conectá-lo ao computador não provia energia suficiente para ativá-lo. Os ataques possuem motivações políticas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4 apresenta “centelhas” de uma inteligência artificial geral (AGI), avaliam pesquisadores da Microsoft: o sistema consegue executar tarefas novas e difíceis – desde matemática até psicologia – sem precisar de nenhuma orientação especial e com desempenho próximo ao humano, superando amplamente modelos anteriores, como o ChatGPT. O estudo completo está disponível no arXiv.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla lança nova startup focada em construir IAs “de código aberto e confiáveis”: o projeto inicial da Mozilla AI será um grande modelo de linguagem, similar ao GPT-4, mas a intenção final é criar uma stack completa e independente de modelos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Petrobras dá início à operação do supercomputador Tatu, projetado especialmente para rodar aplicações baseadas em IA: a máquina de 2,4 petaflops, 64 terabytes de memória RAM e 224 GPUs será incorporada às atividades de Exploração e Produção, além de pesquisa aplicada à área de Geociências. As informações são do site da Petrobras.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança Loop, ferramenta para organização de tarefas e projetos semelhante ao Notion: a plataforma, disponível em preview público, também conta com espaços de trabalho colaborativos e sincronização com aplicativos do Office. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GNOME 44 é lançado oficialmente com novos recursos e melhorias: foi introduzido um port GTK4 do navegador web Epihaphy, maior granularidade de ajustes na Central de Controle, e um novo recurso para monitoramento de aplicativos rodando em segundo plano. O GNOME 44 será o ambiente de desktop padrão do Fedora Linux 38 e Ubuntu 23.04. As informações são do site 9to5Linux.",
+            "url": ""
+        }
+    ]
+}
