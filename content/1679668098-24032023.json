@@ -1,0 +1,45 @@
+{
+    "title": "Devs: Governo aumenta salários / “Loja” no ChatGPT / Facebook condenado",
+    "fps": 30,
+    "timestamp": 1679668098,
+    "width": 0,
+    "height": 0,
+    "date": "24/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Governo atualiza salários de referência para desenvolvedores – valores podem chegar a 18 mil reais ao mês: o destaque fica para Desenvolvedor Júnior, com um reajuste de 34%, para 7,5 mil reais mensais. O maior valor fica com Arquiteto de Software Sênior (18 mil, +14%). A lista completa pode ser conferida no site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança “loja” de plugins para estender funcionalidades do ChatGPT: agora o sistema também tem acesso à API do Bing, podendo navegar pela web para elaborar respostas – anteriormente, o ChatGPT era limitado a dados de treinamento até setembro de 2021. Também é possível executar código Python – em sandbox – com suporte a upload e download de arquivos pelo usuário. Outras empresas já lançaram seus plugins também, como Slack, Wolfram e Zapier. O acesso às funcionalidades está restrito por meio de uma lista de espera. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Facebook é condenado a pagar 500 reais para cada brasileiro diretamente afetado por vazamento de dados ocorrido em 2021: no total, mais de 8 milhões de pessoas podem receber a indenização no país. O Facebook, no entanto, pode recorrer da decisão. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bard, IA conversacional do Google, afirma que empresa é um monopólio e espera que o governo possa quebrá-lo: respondendo a uma pesquisadora, a IA afirmou estar do lado do Departamento de Justiça dos EUA no recente processo movido contra a empresa, acrescentando que as ações do Google “prejudicaram os consumidores e sufocaram a inovação no mercado de publicidade digital”. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Twitter irá destituir contas com selos de verificação “legados” a partir do dia 1º de abril: apenas assinantes do Twitter Blue e contas individuais afiliadas a uma organização verificada receberão o selo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Remoção de radares nos veículos da Tesla teria comprometido planos de direção totalmente autônoma: a decisão, tomada unilateralmente por Elon Musk em 2021, tinha como objetivo conter custos de fabricação e focar apenas em visão computacional para guiar os veículos, contrariando as recomendações de engenheiros e resultando em um aumento substancial no número de colisões e outros incidentes. As informações são do The Washington Post.",
+            "url": ""
+        },
+        {
+            "text": "Novo emulador para Adobe Flash Player, open source e escrito em Rust, está disponível: o Ruffle oferece uma implementação segura do plugin em Linux, macOS e Windows e também pode rodar em navegadores via WebAssembly. O código está disponível no repositório “ruffle-rs”, no GitHub. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
