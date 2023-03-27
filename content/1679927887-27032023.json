@@ -1,0 +1,45 @@
+{
+    "title": "SP é hub internacional para Devs / CTO da Nvidia: cripto é inútil / ChatGPT para DOS",
+    "fps": 30,
+    "timestamp": 1679927887,
+    "width": 0,
+    "height": 0,
+    "date": "27/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "São Paulo é um dos principais destinos do mundo para profissionais de tecnologia: em 30º lugar, a capital é a única da América do Sul a fazer parte da lista de “grandes ecossistemas”, que também inclui Londres, Seattle, Xangai e Berlim. Dentre os motivos para se mudar para a cidade, os entrevistados citaram salários e estilo de vida melhores. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Para CTO da Nvidia, moedas digitais “não acrescentam nada de útil à sociedade”: apesar de vender milhares de GPUs para o setor, Michael Kagan acredita que os componentes deveriam ser direcionados ao desenvolvimento de IAs, como o ChatGPT. As informações são do The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria cliente do ChatGPT para MS-DOS: em seu blog, Yeo Kheng Meng, disse que o maior desafio foi encontrar uma API de rede para DOS. O ChatGPT-for-DOS também foi escrito sem ajuda do ChatGPT, porque o sistema fazia sugestões impossíveis de serem implementadas no sistema operacional.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk tentou assumir direção da OpenAI em 2018: ele estava desapontado com os avanços da tecnologia. A proposta não teria sido bem recebida por Sam Altman, um dos fundadores e atual CEO, fazendo Musk abandonar o projeto. Sem apoio financeiro, Altman decidiu abrir a entidade – na época sem fins lucrativos – a investidores com interesses corporativos, fechando também o desenvolvimento da tecnologia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Agência de defesa e tecnologia russa conseguiria identificar usuários anônimos do Telegram: a ferramenta Okhotnik – traduzida como “caçador” – usaria 700 pontos de dados, extraídos de redes sociais, blogs e serviços governamentais, para fazer associações e correlações. A suspeita surgiu após diversos administradores de canais críticos ao governo na plataforma de mensagens serem presos. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia desenvolve técnica de litografia inversa capaz de acelerar fabricação de chips em 40 vezes: a tecnologia, chamada de cuLitho, além de permitir uma maior produção e menor consumo de energia, estabelece as bases para processos de fabricação de 2 nanômetros e escalas ainda menores. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Project Zero do Google divulga vulnerabilidades no kernel do CentOS após Red Hat falhar em corrigi-las dentro do prazo estipulado: as falhas – CVE-2023-0590, CVE-2023-1252 e CVE-2023-1249 – variam de gravidade baixa a moderada, permitindo a um invasor escalar privilégios ou travar o sistema. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
