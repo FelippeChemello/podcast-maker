@@ -1,0 +1,45 @@
+{
+    "title": "Segredos no ChatGPT / 27 novos 0-days / OAB é atacada",
+    "fps": 30,
+    "timestamp": 1680013758,
+    "width": 0,
+    "height": 0,
+    "date": "28/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Funcionários estão fornecendo dados confidenciais a IAs conversacionais, aumentando o risco dessas informações serem incorporadas aos modelos: o serviço de segurança Cyberhaven tem bloqueado esse tipo de incidente para seus clientes – em um dos casos, um executivo usou o ChatGPT para criar um PowerPoint com dados estratégicos da empresa e um médico inseriu o nome e condições de um paciente para solicitar um reembolso à seguradora de saúde. As informações são do site Dark Reading.",
+            "url": ""
+        },
+        {
+            "text": "Hackers ganham mais de 1 milhão de dólares por 27 zero-days explorados no Pwn2Own Vancouver: os participantes escalaram privilégios para rodar código não autorizado em sistemas como Windows 11, macOS, Ubuntu e aplicativos como Microsoft Teams, VMware Workstation e Oracle VirtualBox. Até mesmo um Tesla Model 3 foi hackeado, virando um dos prêmios da competição. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "OAB é alvo de ataque hacker e retira site e sistemas do ar: não há indícios de vazamento de dados pessoais, mas não ficou claro qual tipo de ataque a entidade sofreu. Prazos relativos a processos eletrônicos em tramitação foram suspensos e devem voltar à normalidade na quarta-feira. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bing registra crescimento de 16% em acessos, enquanto Google cai 1%: as instalações do app em smartphones aumentaram oito vezes – as do Google caíram 2%. A integração do ChatGPT ao Bing deve fazer sua participação no mercado crescer nos próximos meses, especialmente com a demora no lançamento do Bard pelo Google. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft confirma refatoração completa do Teams, prometendo desempenho em dobro, usando metade da memória: Edge WebView 2 e React substituem Electron e AngularJS como engine de renderização e construção da UI. A nova versão já está disponível como preview pública. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GitHub derruba repositório que continha parte do código-fonte do Twitter: a remoção foi feita a pedido da rede social, que também exigiu a identificação do usuário “FreeSpeechEnthusiast”, responsável pelo vazamento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Novo estudo contesta alegações do Google sobre uso de aprendizado de máquina para gerar layouts de chips melhores e mais rapidamente que humanos: pesquisadores da Universidade da Califórnia fizeram a engenharia reversa do sistema proposto e observaram um desempenho pior do que humanos usando métodos tradicionais, descobrindo ainda que o Google havia utilizado um software comercial para criar o arranjo inicial dos chips. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
