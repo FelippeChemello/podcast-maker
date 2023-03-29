@@ -1,0 +1,45 @@
+{
+    "title": "Grandes nomes pedem pausa em IAs / Papa se manifesta / Regulação no Brasil",
+    "fps": 30,
+    "timestamp": 1680102356,
+    "width": 0,
+    "height": 0,
+    "date": "29/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cientistas e nomes notáveis da tecnologia assinam carta aberta solicitando pausa no treinamento de IAs similares ao GPT-4 por pelo menos 6 meses: com mais de mil signatários – incluindo Elon Musk, Emad Mostaque (do Stable Diffusion), Steve Wozniak (co-fundador da Apple), além de engenheiros da Meta e Google – a carta argumenta que empresas estão “presas em uma corrida fora de controle para desenvolver e implantar mentes digitais cada vez mais poderosas que ninguém – nem mesmo seus criadores – pode entender, prever ou controlar”. Até o fechamento desta edição, ninguém da OpenAI teria assinado a carta. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Papa Francisco pede uso ético de IAs após imagens vestindo casaco estiloso viralizarem: ele aplaudiu os benefícios da tecnologia, mas fez um alerta sobre seu impacto social e cultural. As imagens foram geradas pelo Midjourney V5, modelo focado em fotorrealismo, lançado há duas semanas. As informações são dos sites Vatican News e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Meta e Google são contra proposta para regulação de redes sociais no Brasil: em audiência pública realizada no STF, as empresas negaram omissão no combate à desinformação, afirmando também que a alteração do artigo 19 do Marco Civil pode aumentar a exclusão inadvertida de conteúdos importantes para debates democráticos. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "BNDES aprova financiamento de 99 milhões de reais para ampliar produção de fábrica de semicondutores no Rio Grande do Sul: a HT Micron irá adquirir máquinas e equipamentos necessários para o desenvolvimento da linha de chips uMCPs (Universal Flash Storage Multi Chips), adequados para atender às novas demandas do 5G. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google e Replit anunciam parceria para competir com o GitHub Copilot: a Replit ganhará acesso a recursos computacionais e modelos de IA do Google para aprimorar o Ghostwriter, seu gerador de código, enquanto usuários do Google Workspace terão acesso à plataforma colaborativa de código da Replit. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta Security Copilot, ferramenta de IA focada em prevenir e remediar ciberataques: o sistema, baseado no GPT-4 e aliado a um modelo de segurança que coleta 65 trilhões de sinais de ameaças por dia, permite análises detalhadas, formulando planos de ação mais rápidos por meio de perguntas em linguagem natural, algo muito importante em meio à escassez de profissionais na área. As informações são do blog Source da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Próxima versão do Windows pode trazer grandes mudanças em sua arquitetura: com o codinome “CorePC”, há novidades como variantes modulares e customizáveis do sistema operacional, uma versão específica para rodar em outras arquiteturas de CPUs – como ARM – adicionando uma layer de compatibilidade chamada Neon, para rodar aplicativos legados. As informações são do site Windows Central.",
+            "url": ""
+        }
+    ]
+}
