@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: carreira em games / Telefones “burros” / Desligando IAs",
+    "fps": 30,
+    "timestamp": 1680186494,
+    "width": 0,
+    "height": 0,
+    "date": "30/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Quase 60% dos gamers brasileiros acreditam que o setor oferece boas oportunidades de carreira, mostra nova pesquisa: as áreas mais mencionadas como opções de emprego são criação de conteúdo de jogos, publicação ou marketing, programação e efeitos visuais. Títulos brasileiros de sucesso como Horizon Chase Turbo e Dandara são exemplos de inspiração. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Vendas de celulares básicos estão crescendo conforme Geração Z tenta limitar o tempo de tela: especialistas preveem um aumento nas vendas nos próximos cinco anos, em meio a preocupações sobre como smartphones afetam a saúde mental dos usuários. Punkt, Light e Nokia são os principais fabricantes desses dispositivos. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Pausar desenvolvimento de IAs “não é o suficiente”, alerta pioneiro da área: para Eliezer Yudkowsky, é preciso parar tudo, mundialmente e sem exceções, desligando clusters de GPUs e limitando o poder de computação para o treinamento desses sistemas. Uma IA com capacidade sobre-humana não se limitaria ao confinamento em computadores e seria como uma espécie alienígena avançada. As informações são da revista Time.",
+            "url": ""
+        },
+        {
+            "text": "Apple marca evento especial para o dia 5 junho: no primeiro dia da conferência WWDC, a empresa deverá apresentar as versões mais recentes dos sistemas iOS e macOS, com analistas especulando também sobre a introdução de um óculos de realidade mista. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft adiciona anúncios às respostas do Bing Chat: as respostas patrocinadas são rotuladas, mas mescladas aos resultados das conversas. Analistas ainda estão avaliando como esse novo modelo pode mudar toda a economia de adtech no segmento de buscas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Lockheed Martin demonstra plano para construir rede de comunicações via satélite até a Lua: até 2025, o projeto Parsec montará uma constelação de pequenos satélites para fornecer conexão ininterrupta com a Terra, funcionando também como um GPS lunar. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Mais da metade dos novos módulos enviados ao npm são spam de SEO: a maioria é composta apenas por um arquivo README com vários links maliciosos, promovendo golpes, ebooks gratuitos e até V-Bucks (moeda do jogo Fortnite), induzindo a vítima a apenas interagir com anúncios. As informações são do blog da Sandworm.",
+            "url": ""
+        }
+    ]
+}
