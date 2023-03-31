@@ -1,0 +1,45 @@
+{
+    "title": "Itália bane ChatGPT / Ex-Eng.º acusa Google / Isenção para painéis solares",
+    "fps": 30,
+    "timestamp": 1680272862,
+    "width": 0,
+    "height": 0,
+    "date": "31/03/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Itália bane uso do ChatGPT no país: a determinação tem efeito imediato e impede o processamento de dados de cidadãos italianos pela OpenAI. Uma investigação irá avaliar violações à lei de proteção de dados europeia e a falta de qualquer sistema para impedir o uso da tecnologia por menores de idade. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google nega ter usado ChatGPT para calibrar respostas de sua IA conversacional Bard: a acusação foi feita por um ex-engenheiro da empresa que agora trabalha na OpenAI. A ação violaria os termos de uso do ChatGPT e poderia fazer com que o Bard gerasse respostas muito semelhantes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo estabelece isenção fiscal para painéis solares até 2026: placas fotovoltaicas foram incluídas no programa que zera quatro tributos sobre a produção de semicondutores, incentivando a fabricação desses dispositivos no país. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney interrompe testes gratuitos devido ao aumento repentino de novos usuários: a empresa nega que a decisão esteja relacionada às recentes imagens virais controversas – como a do Papa vestindo uma jaqueta estilosa – ressaltando que usuários gratuitos nunca tiveram acesso à versão 5 do sistema, capaz de gerar imagens mais realistas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Feira de jogos E3 2023 é oficialmente cancelada: o evento seria a primeira edição presencial desde 2019, mas as maiores empresas do setor, como Nintendo, Sony, Microsoft e Ubisoft, não demonstraram interesse em participar. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de ética tecnológica entra com injunção para interromper lançamento de atualizações do ChatGPT nos EUA: o CAIDP salienta as ameaças associadas a esses sistemas, requisitando uma supervisão governamental mais rígida e a criação de uma ferramenta de denúncia acessível ao público, buscando responsabilizar a OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cerebras, startup de chips específicos para IAs, lança modelos de código aberto para uso sem restrições: o Cerebras-GPT é uma família de sete IAs generativas que variam de 111 milhões a 13 bilhões de parâmetros, treinadas no Andromeda, supercomputador que utiliza os chips CS-2 desenvolvidos pela empresa – um único  chip oferece o desempenho de computação de centenas de GPUs. As informações são do blog da Cerebras.",
+            "url": ""
+        }
+    ]
+}
