@@ -1,0 +1,45 @@
+{
+    "title": "Mullvad + Tor = navegador / Computação magnônica / Imortalidade até 2045",
+    "fps": 30,
+    "timestamp": 1680532047,
+    "width": 0,
+    "height": 0,
+    "date": "03/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Serviço de VPN Mullvad e Projeto Tor lançam navegador web com foco em privacidade: o aplicativo, de código aberto, é desenvolvido pelos engenheiros do Tor, mas utiliza a rede VPN da Mullvad em vez da onion. Já está disponível para Windows, MacOS e Linux. As informações são do blog da Mullvad.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas alemães fazem descoberta com grande potencial para computação magnônica: a tecnologia – um campo emergente no estudo do magnetismo – poderia mudar o atual paradigma da arquitetura de computação, eliminando o gargalo de Von Neumann e permitindo enormes ganhos de eficiência energética com o processamento no mesmo local onde se armazena a memória – crucial para atender às demandas de big data e IAs. O estudo completo pode ser encontrado no site da revista Nature.",
+            "url": ""
+        },
+        {
+            "text": "Famoso futurista Ray Kurzweil prevê imortalidade para humanos até 2045: a justificativa seria o crescimento exponencial nos campos da genética, nanotecnologia e robótica, tornando possível mapear o cérebro humano com uma resolução tão alta que seria possível imitá-lo com exatidão em IAs. As informações são do The Jerusalem Post.",
+            "url": ""
+        },
+        {
+            "text": "Twitter publica parte de seu código-fonte no GitHub, incluindo algoritmo de recomendação: para Elon Musk, a ideia é tornar o desenvolvimento da rede social similar ao do Linux, permitindo transparência e descoberta de problemas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google decide mudar modelo por trás da IA conversacional Bard: com 540 bilhões de parâmetros, o PaLM supera consideravelmente o atual LaMDA (137 bi), dando ao Bard capacidade para respostas mais diversas, mas utilizando um poder de processamento muito maior. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Sem qualquer aviso, Google Drive impõe limite de 5 milhões de arquivos, inclusive para planos pagos: a decisão tem como objetivo evitar usos indevidos e riscos à estabilidade do sistema. O número de usuários afetados, no entanto, seria “extremamente pequeno”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google adia mais uma vez a transição de extensões do Chrome para o Manifest V3: a nova API irá mudar a forma como bloqueadores de anúncios e filtros de conteúdo funcionam, mas permanece em estado incompleto, com mais de 2.600 bugs rastreados. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
