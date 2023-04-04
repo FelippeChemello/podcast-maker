@@ -1,0 +1,45 @@
+{
+    "title": "IR: cripto e malha fina / Wikipedia quer IAs / Europa vs ChatGPT",
+    "fps": 30,
+    "timestamp": 1680618464,
+    "width": 0,
+    "height": 0,
+    "date": "04/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha na declaração de criptoativos no Imposto de Renda fará contribuinte cair na malha fina, alerta Receita: a regra vale para os seguintes tipos de operações – compra e venda, permuta, doação, transferência para ou retirada de exchange, cessão temporária, dação em pagamento e emissão de ativos. Há limites de isenção, mas dada a complexidade, recomendamos consultar um contador especializado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Fundador da Wikipedia estuda incorporar IAs generativas na criação de artigos no site: segundo Jimmy Wales, o uso de IAs poderia triplicar o número de entradas da Wikipedia, sem aumentar custos operacionais. Seria possível também automatizar a identificação de contradições entre conteúdos já publicados. As informações são do Evening Standard.",
+            "url": ""
+        },
+        {
+            "text": "Após banimento do ChatGPT na Itália, Alemanha, França e Irlanda também avaliam suspensão: o receio das autoridades de cada país é com a coleta ilegal de dados e menores de idade com acesso à ferramenta. As investigações também poderão ser expandidas ao Google Bard e Bing Chat da Microsoft. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Discussões entre Globo, Meta e Google estão travando nova regulamentação da internet: o problema está centrado na remuneração pela distribuição de conteúdos jornalísticos por meio das plataformas online – a Globo argumenta que a Meta e Google lucram indevidamente e devem pagar por isso. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "GitHub abre espaço especial para mantenedores de código aberto: membros da Maintainer Community terão acesso antecipado a betas e previews, eventos e workshops – o primeiro deles tratará sobre cuidado pessoal e como evitar burnout (nesta quarta-feira, às 10h). As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Meta não oferece mais vagas remotas e incentiva retorno aos escritórios: a suspensão de benefícios para profissionais remotos também mostra que a empresa está mudando sua abordagem em relação ao tema. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Novo ataque consegue ativar assistentes de voz, como Siri e Alexa, de forma remota e silenciosa: o NUIT (Near-Ultrasound Inaudible Trojan) funciona modulando comandos de voz em sinais de ultrassom quase inaudíveis – incorporados a vídeos no YouTube, por exemplo – para controlar esses dispositivos e forçá-los a destrancar portas, fazer ligações ou desativar sistemas de alarme. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
