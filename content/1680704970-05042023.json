@@ -1,0 +1,45 @@
+{
+    "title": "Bill Gates é contra pausa em IAs / Google corta benefícios / VR não anima jovens",
+    "fps": 30,
+    "timestamp": 1680704970,
+    "width": 0,
+    "height": 0,
+    "date": "05/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bill Gates é contra pausa no desenvolvimento de IAs: em manifestação à carta aberta, agora assinada por mais de 9 mil pesquisadores, Gates não entende como seria possível coordenar uma moratória mundial de forma eficaz, argumentando que é melhor focar nos benefícios da tecnologia e identificar suas “áreas complicadas”. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google inicia corte brutal de custos, limitando até mesmo acesso a itens como grampeadores e fita adesiva: além disso, funcionários que não estiverem em funções de engenharia receberão Chromebooks em vez de MacBooks, como era padrão anteriormente. A empresa também reduzirá a frequência na troca de computadores por modelos novos e reduzirá outros benefícios, como aulas de ginástica, massagens e comida gratuita. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Apenas 4% dos adolescentes americanos que possuem óculos de realidade virtual os utilizam diariamente: 29% já possuem um dispositivo VR e apenas 7% planejam adquirir um no futuro. Adolescentes costumam ser pioneiros na adoção de novas tecnologias e suas preferências podem fornecer prévias para tendências. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google lança novo aplicativo para Windows que facilita a transferência de arquivos entre dispositivos Android: com funcionamento similar ao AirDrop da Apple, o “Nearby Share Beta for Windows” permite compartilhar arquivos e links, mesmo quando a tela do computador ou do smartphone estiver desligada. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Startup fundada por ex-CTO da Tesla faz parceria com Volkswagen para reciclar baterias de veículos elétricos, notebooks e celulares: a Redwood Materials instalará lixeiras especiais em concessionárias da montadora nos EUA, com a intenção de montar uma cadeia de suprimentos circular em baterias íon-lítio. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "“english2bits” é um novo IDE de código aberto baseado em IA: a ideia é apenas escrever a documentação ou especificação técnica do que se deseja em inglês, liberando diversos agentes de IA para escrever o código, manipular arquivos, executar comandos e instalar dependências, tudo dentro de um ambiente seguro em sandbox. Mais informações estão no repositório “e2b-dev” no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de hardware de código aberto Pine64 lança seu primeiro computador de placa única com processador RISC-V: o Star64 possui uma CPU Quad-core 64-bit, rodando em 1,5 GHz e 4 GB de RAM, com o preço acessível de 70 dólares. O lançamento tem como objetivo popularizar a arquitetura aberta da plataforma RISC-V. As informações são do site OMG Linux.",
+            "url": ""
+        }
+    ]
+}
