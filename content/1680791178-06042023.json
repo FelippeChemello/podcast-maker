@@ -1,0 +1,45 @@
+{
+    "title": "Hacker “Robin Hood” é preso / Chrome lança WebGPU / Samsung e ChatGPT",
+    "fps": 30,
+    "timestamp": 1680791178,
+    "width": 0,
+    "height": 0,
+    "date": "06/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Um dos maiores hackers da Espanha, apelidado de “Robin Hood”, é preso em Madri: o jovem de 19 anos ganhou fama quando, aos 15 anos, atacou os quiosques de autoatendimento da rede Burger King para distribuir comida de graça. Ele agora está sendo investigado pela invasão da agência tributária do país. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Chrome apresenta API para renderização de gráficos 3D de alto desempenho no navegador: a WebGPU – disponível a partir da versão 113 – permite acesso direto à GPU do sistema, semelhante ao Direct3D, Metal e Vulkan. O desenvolvimento foi realizado em conjunto com Apple, Microsoft, Intel e Mozilla. Os navegadores Firefox e Safari também devem implementar a API. As informações são do blog Chrome Developers.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários da Samsung são limitados a fazer perguntas ao ChatGPT com no máximo 1024 bytes de dados: o objetivo é conter o vazamento de informações confidenciais após o uso indiscriminado da ferramenta dentro da empresa – em um dos casos, o projeto completo de um semicondutor em desenvolvimento teria sido enviado ao ChatGPT. A OpenAI alerta que tem acesso e pode revisar todas as conversas do sistema. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Substack lança feed para compartilhamento de postagens curtas semelhante ao Twitter: o Notes exibe contagem de curtidas e comentários, além da opção de “restack”, ação similar a retuitar. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "China planeja proibir exportações de tecnologias para fabricação de ímãs de terras raras: o país quer assumir controle da cadeia de suprimentos desses componentes cruciais para motores elétricos. A China tem uma participação de 84% no mercado global de ímãs de neodímio e de mais de 90% em ímãs de samário – cobalto. As informações são do The Japan News.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta modelo de visão computacional avançado, capaz de isolar e criar máscaras de objetos em imagens e vídeos: o SAM tem aplicações em realidade aumentada, edição de imagens e estudos científicos. O modelo está disponível no repositório “facebookresearch/segment-anything” no GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google revela mais informações sobre novo acelerador de machine learning, mais rápido e eficiente em energia do que o Nvidia A100: a quarta geração da Tensor Processing Unit é até 1,7x mais rápida e usa até 1,9x menos energia – 4.096 unidades podem ser combinadas para computação em exaescala, com uso prático no ranking do seu mecanismo de buscas. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
