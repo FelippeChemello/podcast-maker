@@ -1,0 +1,33 @@
+{
+    "title": "ANPD faz esclarecimento / Ransomware super rápido / Voando a Mach 9",
+    "fps": 30,
+    "timestamp": 1680877550,
+    "width": 0,
+    "height": 0,
+    "date": "07/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Função de Encarregado de Dados não necessita de registro profissional, esclarece ANPD: a entidade afirma que ainda não foram estabelecidas normas sobre as atribuições do cargo, salientando também que não credencia entidades para a emissão de selos de adequação à LGPD ou para a homologação de softwares e aplicativos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novo ransomware Rorschach é o criptografador mais rápido já descoberto: em testes, o malware criptografou 229 mil arquivos em 4,5 minutos – o LockBit v3.0, a variedade mais rápida até então, levaria 7 minutos. O Rorschach é inicializado apenas se uma máquina estiver configurada com um idioma fora da Comunidade dos Estados Independentes (região que envolve 11 repúblicas da extinta União Soviética). As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Startup quer construir aeronave hipersônica capaz de transportar passageiros a Mach 9: a aeronave Stargazer, da Venus Aerospace, pretende voar a mais de 11 mil km/h – para comparação, o avião supersônico Concorde viajava a Mach 2 (2.100 km/h). Como pitch para a companhia, a cofundadora Sarah Duggleby, questiona como o mundo mudaria se fosse possível chegar a qualquer lugar do planeta em apenas uma hora. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Startup fundada por ex-funcionários da OpenAI planeja levantar 5 bilhões de dólares para construir nova geração de IA: o modelo “Claude-Next”, da Anthropic, promete ser dez vezes mais poderoso que qualquer IA no mercado, mas exigirá cerca de 10^25 FLOPs de computação para seu treinamento – ordens de magnitude maior que os modelos atuais. A startup conta com investidores de peso como Google, que possui 10% de participação na empresa. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
