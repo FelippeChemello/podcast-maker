@@ -1,0 +1,45 @@
+{
+    "title": "Iniciativa “CERN para IAs” / Escondendo hacks / Zig entra no Top 50",
+    "fps": 30,
+    "timestamp": 1681136759,
+    "width": 0,
+    "height": 0,
+    "date": "10/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Petição pede pela criação do “CERN para IAs”: assim como o maior laboratório de física de partículas do mundo, a ideia seria criar uma instalação internacional com pelo menos 100 mil aceleradores de IA (GPUs ou ASICs), operada por especialistas e supervisionada por instituições eleitas pelas nações participantes. O projeto argumenta que, em vez de desacelerar o desenvolvimento da tecnologia, é preciso promover um ambiente colaborativo, transparente e seguro. As informações são do site openPetition.",
+            "url": ""
+        },
+        {
+            "text": "42% dos profissionais de TI são orientados a manter violações de segurança em sigilo: a motivação seria a tentativa de preservar a reputação das empresas e evitar perdas financeiras, mesmo sob o risco de punição por órgãos de proteção de dados. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Zig entra para o top 50 do índice TIOBE: a linguagem vem ganhando destaque – o runtime JavaScript Bun é escrito em Zig, por exemplo – e promete ser uma alternativa moderna ao C/C++. Para comparação, o Carbon, em desenvolvimento pelo Google e com uma proposta similar, está em 168º lugar. As informações são do site da TIOBE.",
+            "url": ""
+        },
+        {
+            "text": "Apple tem queda de 40% nas vendas de computadores – a mais acentuada dentre os principais fabricantes: no primeiro trimestre, remessas de todas as empresas caíram 29%, para 56,9 milhões de unidades. Lenovo, Dell e Asus registraram quedas superiores a 30%, enquanto a HP, em torno de 24%. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros produzem primeiros eletrônicos impressos totalmente recicláveis do mundo, substituindo produtos químicos por água no processo de produção: a técnica ainda precisa de refinamento, mas pode contribuir para a fabricação de diversos tipos de componentes eletrônicos, com menor impacto ambiental e riscos à saúde humana. As informações são do site da Duke University.",
+            "url": ""
+        },
+        {
+            "text": "AWS, Microsoft e Google limitam disponibilidade de servidores à medida que carga de trabalho para treinar e rodar IAs aumenta: alguns clientes relatam tempos de espera de meses para conseguir acesso ao hardware necessário, tornando-se um obstáculo para desenvolvedores e empresas que estão criando suas próprias ferramentas de IA. As informações são do site The Information.",
+            "url": ""
+        },
+        {
+            "text": "Indústria de videogames será uma das primeiras a demonstrar impacto positivo da nova leva de IAs generativas : a produção de jogos deve tornar-se similar à criação de vídeos no YouTube ou músicas no Spotify, onde a maior parte do conteúdo é gerada pelos próprios usuários. Um executivo do setor também prevê que os pequenos produtores serão mais rápidos em descobrir novos gêneros de jogos possibilitados por IAs. As informações são do site Yahoo Finance.",
+            "url": ""
+        }
+    ]
+}
