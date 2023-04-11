@@ -1,0 +1,45 @@
+{
+    "title": "FBI faz alerta sobre USB / TV aberta vai mudar / Cidade virtual com ChatGPT",
+    "fps": 30,
+    "timestamp": 1681223243,
+    "width": 0,
+    "height": 0,
+    "date": "11/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "FBI alerta para uso de estações de carregamento via cabo USB em locais públicos, como shoppings e aeroportos: o objetivo é prevenir ataques do tipo “juice jacking”, infectando dispositivos com malware. A recomendação é utilizar apenas tomadas elétricas convencionais, com cabos USB e adaptadores de energia próprios. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Governo inicia regulamentação da TV 3.0, prometendo experiências imersivas na TV aberta: a “TV do futuro” trará imagens em até 8K, contraste aprimorado (HDR), anúncios e conteúdos personalizados, e interface baseada em apps. As informações são dos sites GovBR e Tele.Síntese.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de Stanford e Google povoam cidade virtual com IAs para simular comportamento humano: os 25 agentes virtuais – instâncias do ChatGPT – receberam informações iniciais de entrada e agiram como pessoas comuns, escovando os dentes, indo para o trabalho e conversando cordialmente uns com os outros. O experimento tem implicações na simulação de interações humanas e na criação de experiências envolventes em videogames. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Universidade Cornell criam IA que visa ganhar confiança de profissionais médicos: o sistema fornece conselhos citando resultados de ensaios clínicos e artigos científicos, tentando recriar o mesmo tipo de comunicação observada entre médicos na vida real. O sistema foi testado em neurologia, psiquiatria e cuidados paliativos, mas a amostra com apenas doze especialistas limita a generalização do estudo. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Publicidade digital cresce 7% no Brasil em 2022, atingindo 32,4 bilhões de reais: comércio, serviços e financeiro foram responsáveis por 54% do investimento total. Beleza (+27%), automotivo (+25%) e vestuário (+22%) registraram o maior aumento no número de anunciantes. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Hackers cobram até 20 mil dólares para ajudar criminosos a infectar dispositivos por meio da loja oficial do Google Play: um payload malicioso chamado “loader” é escondido em um aplicativo de aparência legítima, sem alertar o sistema de defesa do Google. Uma atualização futura do aplicativo então exige permissões extras no dispositivo da vítima ou o download de arquivos, recusando-se a funcionar sem que essas etapas sejam cumpridas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Físicos dobram vida útil de um qubit utilizando algoritmos de aprendizado de máquina: o tempo de 1,8 milissegundo introduz espaço para redundância e remoção de erros, demonstrando que a técnica de correção quântica é uma ferramenta prática real. As informações são do site ScienceAlert.",
+            "url": ""
+        }
+    ]
+}
