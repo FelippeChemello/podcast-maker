@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp rivaliza iFood / Projeto sigiloso no Twitter / Código Python “regenerativo”",
+    "fps": 30,
+    "timestamp": 1681309660,
+    "width": 0,
+    "height": 0,
+    "date": "12/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp agora permite realizar pagamentos a pequenas empresas por meio do aplicativo: o recurso, disponível inicialmente apenas no Brasil e anunciado pelo próprio Mark Zuckerberg, facilita a compra de alimentos, remédios e roupas, sem que as lojas precisem pagar taxas cobradas por apps como o iFood. Empresas interessadas devem vincular suas contas do WhatsApp Business a um parceiro de pagamento compatível. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Twitter compra 10 mil GPUs para projeto sigiloso em IA generativa: a intenção seria treinar um Modelo de Linguagem Grande (LLM, na sigla em inglês) com dados da própria rede social – no mês passado, dois engenheiros da DeepMind foram contratados pela empresa. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria sistema capaz de autocorrigir bugs em aplicativos escritos em Python: o programa Wolverine utiliza GPT-4 para identificar todas as falhas e sugerir alterações em tempo real, explicando o que estava errado. O código está disponível no repositório “biobootloader/wolverine” no GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta lançará IA para criação de anúncios ainda este ano, diz CTO: segundo Andrew Bosworth, a ferramenta incluirá um gerador de texto e imagem que poderá escrever anúncios personalizados para cada segmento da audiência do anunciante automaticamente. A tecnologia estará disponível para Facebook e Instagram até dezembro deste ano. As informações são do site Nikkei Asia.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft pretende alterar função do botão Print Screen para abrir nova ferramenta de capturas de tela no Windows 11: apesar de controversa, a mudança no botão PrtSc – presente em teclados há 18 anos – poderá ser revertida nos ajustes do sistema. A nova Ferramenta de Recorte adiciona mais recursos como capturas cronometradas e um gravador de tela. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança programa de bug bounty com recompensas de até 20 mil dólares: as falhas podem ser relatadas por meio da plataforma de segurança Bugcrowd. Jailbreaks no ChatGPT – fazer o sistema burlar filtros de segurança, comportando-se fora do esperado – não estão inclusos no escopo do programa. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Proposta de lei sobre cibersegurança na Europa pode prejudicar desenvolvedores Python: sem isenções claras a repositórios de código aberto, desenvolvedores por trás de componentes escritos na linguagem poderão ser responsabilizados criminal e financeiramente por falhas de segurança, mesmo quando utilizados em softwares comerciais de terceiros. A Python Software Foundation alerta sobre a impossibilidade de continuar a oferecer a linguagem e o repositório PyPI na Europa caso a lei passe. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
