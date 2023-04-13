@@ -1,0 +1,45 @@
+{
+    "title": "Portaria emergencial do Governo / Astrônoma brasileira usa IA / Copilot da Amazon",
+    "fps": 30,
+    "timestamp": 1681396051,
+    "width": 0,
+    "height": 0,
+    "date": "13/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Governo estabelece portaria emergencial obrigando redes sociais a removerem conteúdos nocivos relacionados aos recentes ataques a escolas: o prazo para remoção será de duas horas, sob o risco de multa ou suspensão das atividades. As plataformas deverão fornecer dados dos usuários infratores e bloquear a criação de novos perfis a partir do mesmo endereço de IP. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Astrônoma brasileira Lia Medeiros revela imagem de buraco negro retocada por inteligência artificial: a nova versão da imagem do Messier 87, revelada em 2017, foi feita a partir de uma técnica chamada PRIMO, utilizando um sistema treinado com mais de 30 mil imagens simuladas de buracos negros. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Amazon disponibiliza CodeWhisperer, concorrente do GitHub Copilot, de forma geral e gratuita para uso individual: um plugin está disponível para vários IDEs, como Visual Studio Code, IntelliJ IDEA e PyCharm. O sistema vem com suporte para Python, Java, JavaScript, TypeScript e C#, Go, Rust, PHP, Ruby, Kotlin, C, C++, Shell, SQL e Scala. As informações são do blog AWS News.",
+            "url": ""
+        },
+        {
+            "text": "Ataques DDoS “hipervolumétricos” estão migrando de dispositivos IoT para VPS, tornando-se milhares de vezes mais poderosos: uma nova geração de botnets requer uma fração da quantidade de dispositivos, utilizando credenciais de API vazadas ou vulnerabilidades conhecidas para se aproveitar de servidores vulneráveis ou mal configurados. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI publica estudo delineando novo modelo para geração de imagens : enquanto modelos de difusão – como os utilizados  no DALL-E e Stable Diffusion – são treinados para subtrair ruídos em milhares de etapas até chegar a um resultado satisfatório, o “modelo de consistência” faz isso em uma única etapa, tornando-se ordens de magnitude mais rápido e eficiente, possibilitando sua execução em dispositivos como smartphones. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Intel irá produzir chips da Arm em suas fábricas : o acordo busca aumentar a competitividade da Intel em relação à TSMC e Samsung, que atualmente dominam o mercado de chips para dispositivos móveis. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google lança ferramenta de segurança “Assured OSS” gratuitamente, com suporte para mais de mil módulos Java e Python: o serviço ajuda desenvolvedores a se proteger de ataques do tipo supply chain, corrigindo vulnerabilidades regularmente em libraries populares. Interessados podem se inscrever no site Developers do Google e fazer a integração. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
