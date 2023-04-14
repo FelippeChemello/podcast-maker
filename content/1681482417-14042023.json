@@ -1,0 +1,45 @@
+{
+    "title": "Chrome mais rápido / AWS: marketplace para IAs / Anatel barra senhas genéricas",
+    "fps": 30,
+    "timestamp": 1681482417,
+    "width": 0,
+    "height": 0,
+    "date": "14/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Chrome fica 10% mais rápido no Mac e 30% no Android com melhorias técnicas: a maioria das otimizações envolve funções JavaScript – pelo menos uma delas (innerHTML, uma maneira comum de atualizar o DOM) será adicionada à engine WebKit também. As informações são do blog Chromium.",
+            "url": ""
+        },
+        {
+            "text": "Amazon Bedrock é o novo marketplace para IAs generativas da AWS: desenvolvedores terão acesso a diversos modelos, como o Claude da Anthropic, Stable Diffusion da Stability AI e Titan da própria Amazon – Andy Jassy, CEO da Amazon, estima que o treinamento de uma IA muita boa custa “bilhões de dólares”, criando uma barreira para quem deseja investir em seus próprios modelos. As informações são do site Business Insider e CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Anatel publica requisitos mínimos de segurança cibernética para produtos eletrônicos de consumo no Brasil: a partir de março de 2024, equipamentos que não atenderem às exigências não serão homologados. O Ato nº 2.436 trata de vulnerabilidades comuns, como senhas padrão e portas/serviços de comunicação habilitados desnecessariamente em roteadores, por exemplo. As informações são do site GovBR.",
+            "url": ""
+        },
+        {
+            "text": "John Carmack faz novas críticas à tecnologia de realidade virtual da Meta: no podcast de Andrew Bosworth, atual CTO da empresa, ele afirma que os dispositivos são irritantes de usar e muito propensos a falhas – para substituir outros dispositivos, como TVs, notebooks e smartphones, óculos VR precisam ser práticos, leves, baratos e com funcionalidade instantânea. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Universal Music quer ajuda das plataformas de streaming para impedir o treinamento de IAs musicais com as obras de seus artistas: o maior projeto na área é o MusicLM do Google, treinado em 280 mil horas de música – a empresa já avisou que não pretende disponibilizar o sistema publicamente devido a riscos associados a direitos autorais. As informações são da Variety.",
+            "url": ""
+        },
+        {
+            "text": "Brasil adere formalmente à Convenção de Budapeste, tratado internacional sobre crimes cibernéticos: o tratado aborda normas para investigação e produção de provas eletrônicas, criminalização de condutas, meios de cooperação entre países e tipificação de crimes. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor de jogos cria assistente pessoal baseado no GPT-4, capaz de atingir qualquer objetivo de forma autônoma : o Auto-GPT, experimento do programador escocês Toran Bruce Richards, tenta resolver sozinho tarefas como pedir uma pizza, planejar viagens, reservar voos e postar em redes sociais. Andrej Karpathy, da OpenAI, declarou o Auto-GPT como a “próxima fronteira na engenharia de prompt”. O código está disponível no repositório “Torantulino/Auto-GPT” no GitHub. As informações são do site AI Business.",
+            "url": ""
+        }
+    ]
+}
