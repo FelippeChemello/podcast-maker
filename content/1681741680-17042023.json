@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI pausa GPT-5 / IA engana concurso / Vislumbres de autoconsciência",
+    "fps": 30,
+    "timestamp": 1681741680,
+    "width": 0,
+    "height": 0,
+    "date": "17/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI decide não treinar GPT-5 “por algum tempo”, revela CEO: no momento, a empresa está trabalhando em recursos de segurança e adicionando novas funcionalidades ao GPT-4, esclareceu Sam Altman. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Imagem gerada por IA inadvertidamente vence uma das competições de fotografia mais prestigiadas do mundo: Boris Eldagsen, que já recusou o prêmio, diz que sua participação no Sony World Photography Awards foi um experimento para provar que o mundo da arte não está preparado para essa nova tecnologia, sugerindo a necessidade de criar concursos específicos para imagens geradas por IA. As informações são do site PetaPixel.",
+            "url": ""
+        },
+        {
+            "text": "Nick Bostrom, um dos principais filósofos em IA do mundo, afirma que chatbots podem exibir “vislumbres de autoconsciência”:  mais do que apenas regurgitar textos, esses sistemas têm demonstrado sinais de criatividade, compreensão e raciocínio. É possível que, em breve, modelos de linguagem possam desenvolver uma concepção de si mesmos, persistente ao longo do tempo. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk funda X.AI, nova empresa com foco em IA: a informação vem após a compra de milhares de GPUs para um suposto projeto de IA generativa no Twitter. O capital inicial para a formação da empresa teria vindo de investidores da Tesla e SpaceX. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google estaria considerando “mudança radical” no mecanismo de busca, com lançamento previsto para maio: o sistema, de codinome Magi, implementará ferramentas baseadas em IA, como o chatbot Bard – de início, os novos recursos estarão disponíveis exclusivamente nos EUA. A liderança tecnológica do Google estaria tão ameaçada que a Samsung vem considerando utilizar o Bing como buscador padrão em seus dispositivos móveis. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "VCUB1, primeiro satélite de Observação da Terra e Coleta de Dados projetado no Brasil, é lançado: o objetivo da missão é validar arquitetura e software embarcado para uso em satélites de maior porte. O equipamento, desenvolvido pela Visiona – joint-venture entre Embraer e Telebras – configura um marco histórico para a indústria aeroespacial brasileira, com o domínio de todo o processo de desenvolvimento de satélites. As informações são do site Poder Aéreo.",
+            "url": ""
+        },
+        {
+            "text": "Google lança atualização de emergência para corrigir vulnerabilidade zero-day de alta gravidade no Chrome: a falha CVE-2023-2033, presente em versões do navegador para desktop anteriores a 112.0.5615.121, permite executar código arbitrário por meio de páginas web maliciosas, sequestrando dispositivos. Recomenda-se atualizar imediatamente. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
