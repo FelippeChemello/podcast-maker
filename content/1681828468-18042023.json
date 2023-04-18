@@ -1,0 +1,45 @@
+{
+    "title": "Elon Musk revela TruthGPT / Fim do código de barras / Decisão do Governo questionada",
+    "fps": 30,
+    "timestamp": 1681828468,
+    "width": 0,
+    "height": 0,
+    "date": "18/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk revela estar trabalhando no “TruthGPT”, uma IA que se importa em “entender a natureza do universo”: a missão do sistema seria maximizar a “busca da verdade”. Essa abordagem alternativa criaria uma IA que provavelmente não “aniquilará os humanos porque somos uma parte interessante do universo”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Setor de varejo global decide aposentar código de barras tradicional de 12 dígitos, usado há 50 anos: uma versão muito semelhante ao QR Code irá conter informações tanto para varejistas como para consumidores. A transição deve ocorrer até 2027 em todo o mundo. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 50 organizações acadêmicas e entidades de direitos digitais divulgam nota pública questionando portaria emergencial do Governo para remover conteúdos relacionados aos recentes ataques a escolas: para a Coalizão Direitos na Rede, a medida inverteria o regime de responsabilidades das redes sociais previsto no Marco Civil da Internet, além de violar a LGPD, sugerindo envolver o Judiciário nas decisões evitaria abrir precedentes perigosos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Música com clone de vozes dos artistas famosos Drake e The Weeknd viraliza no TikTok e Spotify: @ghostwriter, misterioso criador da faixa “Heart On My Sleeve”, afirma que “isto é apenas o começo”. Mesmo sem o consentimento dos dois artistas, a música não infringiria direitos autorais por ser uma composição inteiramente original. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Para CEO da OpenAI, “era dos modelos de IA gigantes” chegou ao fim: Sam Altman cita benefícios cada vez menores com mais dados e limitações físicas em relação à capacidade de computação necessária para treiná-los. Especialistas especulam que um maior progresso virá de novas arquiteturas e ajustes adicionais com feedback humano. As informações são da revista Wired.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta nova IA geradora de vídeos que bloqueia a geração de humanos: de codinome “Phenaki”, o sistema inclui a medida de segurança para evitar a geração de deep fakes. Por causa do seu possível impacto negativo na sociedade, Sundar Pichai, CEO do Google, espera que o governo regulamente esse tipo de tecnologia antes de sua popularização. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Free Software Foundation protesta remoção do suporte ao formato JPEG XL do Chrome, enfatizando o risco da hegemonia do navegador na web: a remoção e promoção do formato AVIF – patenteado pela empresa – seria um esforço para controlar mais uma faceta da web, sem relação com os interesses legítimos dos usuários. As informações são do blog da FSF.",
+            "url": ""
+        }
+    ]
+}
