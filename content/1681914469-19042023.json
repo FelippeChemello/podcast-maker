@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT no mercado de ações / Intel abandona cripto / Firefox vs cookies",
+    "fps": 30,
+    "timestamp": 1681914469,
+    "width": 0,
+    "height": 0,
+    "date": "19/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo destaca potencial do ChatGPT como ferramenta para previsão do mercado de ações: pesquisadores da Universidade da Flórida fizeram o sistema avaliar o sentimento – positivo, negativo ou neutro – de manchetes de notícias e o desempenho histórico das ações estudadas, descobrindo correlações estatisticamente significativas. O ChatGPT foi o único modelo que apresentou resultados positivos, o que pode ser atribuído à sua capacidade de compreender nuances e sutilezas nas notícias. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Intel descontinua linha de chips para mineração de moedas digitais apenas um ano após seu lançamento: a série de ASICs Blockscale havia sido projetada para permitir o processamento de hash de blockchain com maior eficiência energética. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla Firefox está trabalhando em novo recurso para rejeitar banners de cookies automaticamente: o Cookie Banner Reduction, disponível na versão de testes Nightly, automatiza o gerenciamento de cookies quando possível. As informações são do site Ghacks.",
+            "url": ""
+        },
+        {
+            "text": "Modo de Bloqueio da Apple impede instalação de spyware desenvolvido pela empresa de vigilância NSO: dois ativistas de direitos humanos foram alertados por seus iPhones sobre a tentativa de invasão, sendo o primeiro caso de bloqueio bem-sucedido de um ataque direcionado. A NSO tentou se aproveitar de três exploits zero-click, que não exigem interação do alvo, até então desconhecidos pela Apple. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Novo equipamento de ressonância magnética capta imagens cerebrais 64 milhões de vezes mais nítidas: a máquina possui ímãs 6 vezes mais fortes e cada voxel da imagem gerada mede apenas 5 micrômetros. A tecnologia tem aplicações no estudo do envelhecimento, nutrição e doenças neurodegenerativas. As informações são do site da Duke University.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria desenvolvendo seus próprios chips de IA para evitar dependência da Nvidia e reduzir custos: a empresa vem trabalhando secretamente no projeto Athena desde 2019 e planeja disponibilizar seus chips para a OpenAI em 2024. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vercel lança nova plataforma para testar lado a lado vários LLMs ao mesmo tempo: o AI Playground facilita a geração de textos com vários modelos – diversas versões do GPT da OpenAI estão disponíveis, assim como do Claude da Anthropic, e outros da Replicate, Cohere e HuggingFace. A intenção é adicionar mais modelos no futuro. As informações são do site da Vercel.",
+            "url": ""
+        }
+    ]
+}
