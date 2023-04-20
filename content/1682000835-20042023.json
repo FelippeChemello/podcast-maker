@@ -1,0 +1,45 @@
+{
+    "title": "Google ignora alertas / Exames orais / Stability AI lança LLM",
+    "fps": 30,
+    "timestamp": 1682000835,
+    "width": 0,
+    "height": 0,
+    "date": "20/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Funcionários do Google rotulam chatbot Bard como “pior que inútil”: a empresa, no entanto, tem ignorado alertas internos, priorizando o lançamento do sistema, enquanto seu monopólio de buscas é ameaçado pelo Bing. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Universidades deveriam voltar a adotar exames orais na era das IAs, defende professor: para Stephen Dobson, professor e reitor da CQUniversity, na Austrália, esse tipo de teste dará mais autenticidade na avaliação de alunos, evitando plágios e trapaças. As informações são do site The Conversation.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI, startup criadora do Stable Diffusion, lança modelo de linguagem open source para competir com o GPT-4 da OpenAI: o StableLM – em versão alfa com 3 e 7 bilhões de parâmetros – consegue gerar código e texto, demonstrando como “modelos pequenos podem oferecer alto desempenho com o treinamento adequado”. Um modelo com 65 bi de parâmetros virá em seguida. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft modifica nomenclatura de grupos criminosos digitais, adotando tema de fenômenos climáticos: a nova taxonomia incluirá cinco grupos principais – estados-nação (cada país com seu codinome – Blizzard para Rússia, Typhoon para China, por exemplo), hackers motivados financeiramente (Tempest), ofensivos ao setor privado (Tsunami), operações de influência (Flood) e grupos ainda em desenvolvimento (Storm). O Lapsus$, grupo que ficou famoso no Brasil após ataques ao Ministério da Saúde e Americanas, agora será referenciado como Strawberry Tempest (Tempestade de Morango). As informações são do blog Microsoft Build.",
+            "url": ""
+        },
+        {
+            "text": "Usuários reclamam de “anúncios” no menu Iniciar do Windows 11: o recurso, lançado de forma limitada no canal Dev, está exibindo um alerta com os benefícios de uma conta Microsoft. Ciente da controvérsia, a empresa afirma ser “normal experimentar diferentes conceitos” para obter feedback dos usuários. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI tem até o final do mês para cumprir leis europeias de proteção de dados, sob o risco de multa e banimento em todo o continente: a startup terá que provar como dados pessoais, coletados durante o treinamento do ChatGPT, recaem sob o argumento de “interesse legítimo” ou solicitar consentimento e permitir que as pessoas possam excluir suas informações do sistema. As informações são do site MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "NodeJS 20 já está disponível com recurso inspirado no Deno: o novo Permission Model – em fase experimental – permite configurar e restringir acesso ao sistema de arquivos. Outras novidades incluem atualizações da engine V8 (11.3), Ada (2.0), e melhorias de performance. As informações são do blog do NodeJS.",
+            "url": ""
+        }
+    ]
+}
