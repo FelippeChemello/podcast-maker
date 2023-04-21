@@ -1,0 +1,33 @@
+{
+    "title": "Epic compra estúdio brasileiro / Stack Overflow quer compensação / Custo diário do ChatGPT",
+    "fps": 30,
+    "timestamp": 1682087196,
+    "width": 0,
+    "height": 0,
+    "date": "21/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Epic Games adquire estúdio de jogos brasileiro Aquiris, criadora das franquias Wonderbox e Horizon Chase: fundada em 2007 e baseada em Porto Alegre (RS), a empresa passará a se chamar Epic Games Brasil. O principal objetivo da equipe agora – com cerca de 100 funcionários – será criar conteúdo para o jogo Fortnite. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Stack Overflow junta-se ao Reddit, Twitter e Shutterstock e passará a cobrar acesso de APIs por desenvolvedores de IAs: para o CEO Prashanth Chandrasekar, essas plataformas devem ser compensadas pelo scraping das contribuições de seus usuários, argumentando que isso também ajudará no treinamento contínuo dos modelos de linguagem à medida que novos conhecimentos sejam gerados ao longo do tempo. As informações são da revista Wired.",
+            "url": ""
+        },
+        {
+            "text": "Analista estima em 700 mil dólares por dia o custo para rodar servidores do ChatGPT: o valor é baseado no GPT-3 e deve ser ainda maior com o GPT-4. A cada semana, o custo operacional para executar o sistema seria maior que o valor investido no treinamento do modelo. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Maior fabricante de baterias do mundo anuncia grande avanço em densidade de energia: com 500 Wh/kg, a tecnologia da CATL viabiliza veículos elétricos marítimos, terrestres e, até mesmo, aéreos totalmente eletrificados. Para comparação, a bateria tem quase o dobro da capacidade das recém-lançadas células 4680 da Tesla, considerada muito alta. O componente entrará em produção em massa ainda este ano. As informações são do site The Driven.",
+            "url": ""
+        }
+    ]
+}
