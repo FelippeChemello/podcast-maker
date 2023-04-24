@@ -1,0 +1,45 @@
+{
+    "title": "DuckDuckGo remove recurso básico / Gamers mais velhos / Pioneiro quer supercondutores",
+    "fps": 30,
+    "timestamp": 1682346464,
+    "width": 0,
+    "height": 0,
+    "date": "24/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "DuckDuckGo não permite mais filtrar resultados de buscas: aspas (\" \") para pesquisas de termos exatos e os sinais de - ou + para remoção ou adição de termos específicos não são mais possíveis. Especula-se que o recente aumento no preço da API do Bing, do qual extrai a maioria dos resultados, seja a razão para o corte da funcionalidade. As informações são do site Ghacks e Hackernews.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de gamers com mais de 50 anos mostra enorme potencial, revela estudo: a atividade os ajudam a divertir-se, relaxar e ficar mentalmente afiados. 84% têm o smartphone como dispositivo preferido. Em 2023, esse mercado pode gerar 5 bilhões de dólares em receitas. As informações são do site AARP.",
+            "url": ""
+        },
+        {
+            "text": "Pioneiro na indústria de semicondutores promove tecnologia alternativa para chips mais rápidos: Ivan Sutherland – idealizador da técnica CMOS, que revolucionou a fabricação de semicondutores – acredita que circuitos digitais supercondutores podem contornar o limite na dissipação de energia, a maior barreira atual para máquinas mais rápidas. As informações são do The New York Times.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança gerenciador de senhas com criptografia de ponta a ponta:  um diferencial do Proton Pass é que todos os dados armazenados – emails, URLs e notas – também são protegidos, impedindo a criação de um perfil do usuário no caso de vazamento de dados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google Bard ganha atualização para gerar e debugar código: o chatbot agora oferece suporte a mais de 20 linguagens, incluindo C++, Go, Java, JavaScript, Python e TypeScript, com habilidades de transpilação entre linguagens e escrita de funções para o Google Sheets por meio de linguagem natural. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Roteadores de redes corporativas usados, disponíveis no mercado secundário, são possível vetor de ataque: muitos desses dispositivos não são propriamente resetados conforme especificações dos fabricantes durante o processo de descomissionamento, ainda armazenando arquivos de configuração e até mesmo credenciais para se conectar às suas redes antigas. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de segurança agora podem relatar vulnerabilidades a projetos open source de forma privada no GitHub: o recurso está disponível de forma geral e abrange todos os repositórios de uma organização, reduzindo o risco de vazamentos acidentais. A funcionalidade precisa ser ativada na aba “Segurança e análise de código”, clicando em “Ativar tudo” ao lado da opção “Relatório de vulnerabilidade privada”. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
