@@ -1,0 +1,45 @@
+{
+    "title": "Hackers jovens são maior ameaça / Marca “GPT” / Carros autônomos: “impossível”",
+    "fps": 30,
+    "timestamp": 1682432853,
+    "width": 0,
+    "height": 0,
+    "date": "25/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Adolescentes e jovens adultos são a maior ameaça cibernética atualmente, alerta CTO da Mandiant: segundo Charles Carmakal, cibercriminosos dessa faixa etária são engenheiros sociais incrivelmente eficazes. convincentes e difíceis de se defender – um dos grupos mais famosos liderado por adolescentes foi o Lapsus$, responsável por diversos ataques notórios no Brasil. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI inicia processo para registrar marca “GPT”: será preciso provar que o termo “GPT” – sigla para Generative Pre-trained Transformer, modelo desenvolvido pela OpenAI em 2018 – é percebido pelo público como proprietário. A empresa tentou acelerar o processo, citando diversos pedidos de registro para marcas com o termo no nome, como ThreatGPT e MedicalGPT. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Maior fabricante de veículos elétricos da China acredita que direção totalmente autônoma é “basicamente impossível”: para a BYD, além de a tecnologia totalmente independente de humanos estar muito longe, há implicações éticas, psicológicas e regulamentares ainda sem resposta – a montadora chinesa estuda uma nova fábrica ou aquisição das instalações da Ford na Bahia. As informações são da CNBC e Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Singapura aconselha população a usar bloqueadores de anúncios para evitar fraudes: esse tipo de ferramenta também traria benefícios extras como carregamento mais rápido das páginas e menor uso de dados – no fim do ano passado, o FBI havia emitido um alerta semelhante para cidadãos americanos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Maior banco de dados de imagens para treinamento de IAs é gerenciado por professor de ensino médio na Alemanha: preocupado com a centralização da tecnologia em poucas empresas, Christoph Schuhmann criou o LAION, conjunto gratuito de 5 bilhões de imagens, usado pelo Stable Diffusion e Imagen do Google. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Slack lança de forma geral nova plataforma para desenvolvimento de integrações e automações: as APIs incluem uma arquitetura modular, tudo baseado em Typescript e Deno, além de uma nova versão da ferramenta Slack CLI. A documentação completa está disponível no site Slack API.",
+            "url": ""
+        },
+        {
+            "text": "Google Authenticator agora permite sincronizar códigos OTPs na nuvem: os códigos ficam armazenados na conta do usuário, aumentando a conveniência, principalmente no caso de troca, perda ou roubo de um dispositivo. As informações são do blog Google Security.",
+            "url": ""
+        }
+    ]
+}
