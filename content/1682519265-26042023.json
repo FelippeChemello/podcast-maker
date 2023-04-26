@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT: advogado multado / IAs “poluindo” a web / Riscos à criptografia",
+    "fps": 30,
+    "timestamp": 1682519265,
+    "width": 0,
+    "height": 0,
+    "date": "26/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Advogado usa ChatGPT para criar petição e é multado pelo TSE: o profissional terá de pagar multa de 2,4 mil reais por agir de má-fé e apresentar ao tribunal o que foi julgado como uma “fábula, resultante de uma conversa com uma IA”. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Frase “como um modelo de linguagem”, cada vez mais presente em buscas na web, é um dos primeiros sinais de como IAs geradoras de texto podem “poluir” a internet: o uso da expressão – resultado de bots mal configurados – vem crescendo em plataformas como Twitter, LinkedIn e avaliações na Amazon, revelando como esses tipos de ferramenta estão sendo usados para criação de spam automatizado e avaliações de produtos ou serviços falsos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Inventor do algoritmo RSA minimiza risco da quebra de sistemas criptografados por computadores quânticos: para Adi Shamir, mesmo que a tecnologia seja promissora nas próximas décadas, a relação sinal-ruído de mensagens criptografadas – 99% delas sendo conversas banais entre pessoas comuns – tornaria o uso dessas máquinas uma maneira ineficiente de encontrar segredos relevantes. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Empresa japonesa ispace perde comunicação com seu módulo segundos antes de pousar na Lua: há uma possibilidade, no entanto, de o Hakuto-R estar intacto na superfície lunar – ispace esperava ser a primeira empresa totalmente privada a pousar com sucesso um módulo comercial na Lua. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Baterias em estado sólido serão o fim de veículos à gasolina e diesel, prevê um dos engenheiros automotivos mais respeitados da área: para Sandy Munro, os próximos dez a quinze anos “serão os mais empolgantes” na história do setor de transportes. A tecnologia permitirá a ampla adoção de elétricos, devido ao carregamento mais rápido e maior densidade de energia. As informações são do blog da SAE.",
+            "url": ""
+        },
+        {
+            "text": "Google e Microsoft divulgam resultados trimestrais: o Google lucrou 15 bi de dólares (queda de 8% na comparação anual). O negócio de anúncios cresceu menos, mas o Google Cloud registrou o primeiro resultado positivo desde o lançamento do serviço. A Microsoft lucrou 18,3 bi (alta de 9%). A queda nas vendas do Windows e Xbox foi compensada por receitas maiores no Azure e Office. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Navegador Edge está vazando quase todas as URLs visitadas para o site de APIs do Bing: suspeita-se de um recurso mal implementado – a Microsoft está avaliando o caso. Até o problema ser resolvido, recomenda-se desativar a funcionalidade “Mostrar sugestões para seguir criadores” nas configurações do navegador. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
