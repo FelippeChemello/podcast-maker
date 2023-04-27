@@ -1,0 +1,49 @@
+{
+    "title": "Correção: advogado e ChatGPT / Telegram suspenso / WhatsApp: transcrição de áudio",
+    "fps": 30,
+    "timestamp": 1682605593,
+    "width": 0,
+    "height": 0,
+    "date": "27/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Correção sobre a notícia que saiu na edição da Newsletter de quarta-feira (26 de abril), tratando do ChatGPT e advogado multado pelo TSE: ao contrário do que havíamos compreendido em relação à matéria publicada no Canaltech – replicada também em outros portais de notícias no Brasil – a multa que o TSE aplicou ao advogado não possui nenhuma relação com o uso de tecnologias geradoras de texto ou com o ChatGPT em si, mas somente a aspectos jurídicos e específicos do caso. Agradecemos a todos os leitores que nos alertaram da falha.",
+            "url": ""
+        },
+        {
+            "text": "Justiça Federal determina suspensão do Telegram em todo o país: a plataforma não teria entregue todos os dados de perfis e administradores de grupos relacionados ao recente ataque a uma escola do Espírito Santo. Também foi imposta uma multa de um milhão de reais por dia até o Telegram cooperar com a investigação. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp começa a disponibilizar gradualmente recurso de transcrição de mensagens de áudio: as legendas aparecem automaticamente abaixo dos arquivos sonoros. O recurso está disponível em português, mas não funciona caso não reconheça nenhuma palavra ou o aplicativo esteja configurado para um idioma diferente. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Meta lucra 5,7 bilhões de dólares no último trimestre, mesmo com prejuízo de 4 bi no metaverso: a empresa, entretanto, se comprometeu a continuar a investir na área. Mark Zuckerberg também afirmou que a Meta está em uma posição única para introduzir IAs generativas aos seus 2 bilhões de usuários ativos diários, explorando novas experiências de bate-papo no WhatsApp e ferramentas para criação de postagens no Facebook e Instagram. Fontes: TechCrunch, CNBC, The Verge e página de relação com investidores.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm contesta alegações de que seus chips coletam informações pessoais de usuários secretamente: informações sobre modelo do dispositivo, operadora de celular, sistema operacional e lista de aplicativos instalados são transmitidos aos servidores da empresa, acusa a empresa de segurança Nitrokey. A Qualcomm alega coletar apenas dados técnicos e impessoais para permitir o fornecimento de serviços de localização mais precisos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de satélites completa primeira chamada telefônica com conexão direta do espaço entre dois smartphones comuns: a ligação foi realizada pela AST SpaceMobile entre um Samsung Galaxy nos EUA e um iPhone no Japão, ambos sem nenhuma modificação. O BlueWalker 3 é o maior satélite de comunicação já colocado em órbita baixa da Terra, com 64 m2 e mais de 100 mil micro antenas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google Authenticator confirma que adicionará em breve criptografia a OTPs sincronizados na nuvem: a decisão vem após pesquisadores de segurança soarem o alerta de risco grave em caso de violação de servidores do Google, o que comprometeria todos os códigos de autenticação em dois fatores. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "StabilityAI apresenta DeepFloyd IF, nova IA generativa de imagens que renderiza textos perfeitamente: o modelo possui um alto grau de fotorrealismo e compreensão de linguagem, similar ao Midjourney. Ao contrário do Stable Diffusion, entretanto, o código-fonte e pesos de treinamento não são abertos. Mais informações estão disponíveis no repositório “deep-floyd/IF” no GitHub.",
+            "url": ""
+        }
+    ]
+}
