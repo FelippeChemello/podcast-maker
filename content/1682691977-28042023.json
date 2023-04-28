@@ -1,0 +1,45 @@
+{
+    "title": "Telegram ameaça deixar Brasil / Rust no Windows / Intel: prejuízo histórico",
+    "fps": 30,
+    "timestamp": 1682691977,
+    "width": 0,
+    "height": 0,
+    "date": "28/04/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fundador do Telegram ameaça deixar Brasil após suspensão: em seu canal na plataforma, Pavel Durov explica que os dados solicitados pela Justiça são “tecnologicamente impossíveis” de se obter e está apelando da decisão. Durov salienta que o app já encerrou operações na China, Irã e Rússia por conta de leis locais.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está reescrevendo parte do kernel do Windows em Rust para tornar código mais seguro: a intenção é converter algumas libraries escritas em C++ já nos próximos meses. Falhas de segurança de memória são responsáveis por cerca de 70% das vulnerabilidades listadas no CVE em produtos da Microsoft. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Intel registra maior prejuízo trimestral de sua história: a perda de 2,8 bilhões de dólares foi reflexo de uma queda geral de 36% nas receitas, afetando praticamente todas as divisões da companhia. A Intel espera que até 2026 possa fabricar chips tão avançados quanto os fabricados pela taiwanesa TSMC. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google critica “PL das Fake News” e lista possíveis consequência indesejadas que poderão “piorar a internet”: um dos principais problemas da atual redação do PL 2630 seria o incentivo a abusos, permitindo que grupos mal-intencionados inundem redes sociais ou sistemas de busca com requerimentos para remoção de conteúdos, violando o princípio do acesso livre à informação e representando “um grande retrocesso na guerra contra conteúdos enganosos”. As informações são do blog Google Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Anatel aprova novo protocolo para permitir exibição do nome e logo das empresas que estão realizando ligações: o objetivo é facilitar a identificação de chamadas de telemarketing e reduzir golpes. O sistema, que também poderá mostrar o assunto da chamada, deve ser implementado ainda este ano. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Compartilhar pontos de acesso Wi-Fi privados poderia suprir o aumento da demanda por comunicações sem fio sem adicionar mais hardware, propõe operadora japonesa: a NTT testou com sucesso um modelo de compartilhamento de rede em que os proprietários desses pontos dividem a receita obtida. Estima-se que Tóquio tenha uma cobertura de sinais Wi-Fi vinte vezes superior ao necessário. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador faz alerta preventivo sobre segurança de credenciais da Amazon: Dick Morrell – que já encontrou vulnerabilidades em outras empresas como Microsoft, Tesla e VISA – afirma que ainda não pode detalhar a extensão do problema, mas recomenda a redefinição de senhas e tokens de autenticação. A Amazon não fez nenhum posicionamento oficial sobre o tema até o fechamento desta edição. As informações são do site Auspicacious.",
+            "url": ""
+        }
+    ]
+}
