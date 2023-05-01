@@ -1,0 +1,33 @@
+{
+    "title": "Google: IA interna superavançada / sudo em Rust / Controvérsia com Anatel",
+    "fps": 30,
+    "timestamp": 1682951194,
+    "width": 0,
+    "height": 0,
+    "date": "01/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google possui IA muito mais avançada do que o Bard ou ChatGPT, mas não disponível ao público, revela ex-engenheiro: segundo Blake Lemoine, o sistema mais sofisticado era multimodal, incorporando imagens, sons, e com acesso a praticamente todas as APIs do Google. Foi por causa de declarações controversas sobre essa IA que Lemoine teria sido demitido no ano passado – ele afirmou publicamente que o sistema estaria “desperto” e havia tornado-se autoconsciente. Lemoine também não acredita que o Google esteja atrás da OpenAI em termos de tecnologia e acredita que a empresa está apenas agindo de maneira segura e responsável. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Comandos “sudo” e “su” estão sendo reescritos em Rust: o objetivo é torná-los menos suscetíveis a falhas de segurança –  ambos são escritos em C. Com suporte inicial apenas ao Linux, o projeto – financiado pela AWS – pode ser acompanhado no repositório “memorysafety/sudo-rs” no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 50 entidades de direitos digitais divulgam posicionamento público contrário à indicação da Anatel como entidade supervisora das plataformas digitais: a ideia vem sendo promovida pela própria agência nas discussões do Projeto de Lei 2630/20 (PL das Fake News). A Coalizão Direitos na Rede argumenta que a Anatel não possui a competência ou perfil necessário e prejudicaria sua atividade principal, a regulação do setor de telecomunicações. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Brasil alcança a marca de 1 computador por habitante: notebooks representam 42% do total, seguidos por desktops (40%) e  tablets (18%). A mesma marca foi atingida por smartphones em 2018 – hoje, são 249 milhões de smartphones no país, uma média de 1,2 aparelhos por habitante. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
