@@ -1,0 +1,45 @@
+{
+    "title": "Demissão importante no Google / Transistor de madeira / Ataque por USB: medo injustificado",
+    "fps": 30,
+    "timestamp": 1683037644,
+    "width": 0,
+    "height": 0,
+    "date": "02/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Geoffrey Hinton, um dos mais importantes pesquisadores em IAs, deixa Google para fazer alerta sobre perigos da tecnologia: foram os estudos de Hinton que abriram caminho para sistemas como DALL-E e ChatGPT. Ele agora se arrepende de suas contribuições na área e está preocupado com os riscos de uma IA mais inteligente do que o ser humano, algo que estimava ser possível apenas nos próximos 30 ou 50 anos. Apesar de deixar o Google, Hinton afirma que a empresa tem manuseado a tecnologia de maneira “muito responsável” internamente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas suecos desenvolvem primeiro transistor de madeira funcional do mundo: apesar de muito lento, o componente consegue regular o fluxo de uma corrente elétrica. Há potenciais aplicações na construção de baterias maleáveis, chips biodegradáveis e tintas condutoras. As informações são da Universidade de Linköping.",
+            "url": ""
+        },
+        {
+            "text": "Receio de ataques do tipo “juice jacking” – instalação de malware por meio de estações de carregamento via cabo USB em locais públicos – seriam infundados, avaliam especialistas em segurança: ao contrário do alerta emitido pelo FBI no mês passado, não há nenhum registro de vítimas ou ataques do tipo no mundo real. Além disso, aparelhos Android e iPhones exigem autorização explícita do usuário toda vez que são conectados a dispositivos que solicitam a troca de arquivos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google adiciona crítica ao “PL das Fake News” na página inicial do Buscador: o link para o post “PL das Fake News pode aumentar a confusão sobre o que é verdade ou mentira no Brasil” está logoabaixo da caixa de pesquisas. A votação do Projeto de Lei 2630/20 – que institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet – deve ser votado nesta terça-feira, 2 de maio.",
+            "url": ""
+        },
+        {
+            "text": "Apple despacha primeiro patch de segurança por meio do recurso “Proteção Rápida” para dispositivos rodando iOS 16 e macOS 13: a ideia do novo sistema é permitir a correção rápida de vulnerabilidades 0-day potencialmente já exploradas ativamente. O patch será distribuído ao longo das próximas 48 horas. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria desenvolvendo chips na arquitetura ARM para competir com os processadores série M da Apple: além disso, o Windows 12 – com lançamento estimado para o final de 2024 – já teria builds internos otimizados para a nova plataforma. Esse parece ser um desenvolvimento paralelo aos aceleradores de IA para competir com a Nvidia reportados no mês passado. As informações são do site Windows Latest.",
+            "url": ""
+        },
+        {
+            "text": "Safari ultrapassa Edge e retoma segunda posição como navegador mais popular em desktops em abril: o Chrome mantém a liderança (66,13% de participação), seguido pelo Safari (11,87%), Edge (11%), Firefox (5,65%), Opera (3,09%) e Internet Explorer (0,55%). As informações são do site Statcounter.",
+            "url": ""
+        }
+    ]
+}
