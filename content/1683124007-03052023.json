@@ -1,0 +1,45 @@
+{
+    "title": "Google: login sem senha / Mojo: Python + C / Windows vs Chrome",
+    "fps": 30,
+    "timestamp": 1683124007,
+    "width": 0,
+    "height": 0,
+    "date": "03/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google lança suporte geral ao Passkeys para contas pessoais a partir desta quarta-feira: ao habilitar o recurso de segurança – também chamado de “chaves de acesso” em português – não será mais necessário informar uma senha ou realizar a verificação em duas etapas durante o login – é necessário, entretanto, possuir um dispositivo com proteção biométrica, rodando a partir do Android 9 e iOS 16. Ao unir um componente físico à segurança, o sistema impede ataques por meio de phishing ou exposição de senhas após violação de dados. As informações são do Google Security Blog.",
+            "url": ""
+        },
+        {
+            "text": "Mojo é uma nova linguagem de programação com foco específico no desenvolvimento de IAs: a ideia é combinar o ecossistema e sintaxe do Python com o desempenho do C. A linguagem foi desenvolvida pela Modular, empresa fundada por Chris Lattner, ex-Apple e criador do Swift. As informações são do site da Modular.",
+            "url": ""
+        },
+        {
+            "text": "Atualização do Windows quebra recurso do Chrome para dificultar alteração do navegador padrão no sistema operacional: a alteração mira especificamente a funcionalidade que permitia tornar o Chrome o navegador padrão do sistema com um único clique. O Google decidiu desativar a função por enquanto. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "STF, MPF, Cade e Senacon decidem investigar Google após crítica ao “PL das Fake News” na página inicial do Buscador: a suspeita seria a de abuso de poder econômico e contribuição ilícita com a desinformação. A votação do Projeto de Lei 2630/20 foi adiada ontem para análise de emendas. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Google DeepMind acredita que marco da Inteligência Artificial Geral (AGI) será alcançado em poucos anos: Demis Hassabis não vê nenhum empecilho para desaceleração no desenvolvimento da tecnologia e sistemas muito capazes, com habilidades cognitivas de nível humano, poderão surgir até o final desta década. As informações são do jornal The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Apple e Google unem-se para combater “stalking” (crime de perseguição) por meio de rastreadores de itens, como AirTag e Tile: um novo padrão técnico possibilitará alertar pessoas rastreadas sem o seu consentimento, tanto em dispositivos Android como iOS, sem a necessidade da instalação de aplicativos especiais. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Chrome substituirá ícone de cadeado ao lado da barra de endereço por um de ajustes clicável a partir do Chrome 117: a justificativa é a adoção generalizada do HTTPS e ao fato de que o cadeado não garante a confiabilidade dos sites visitados, evitando mal-entendidos – o cadeado é um resquício vindo do Netscape, nos anos 1990. A atualização está prevista para setembro de 2023. As informações são do Chromium Blog.",
+            "url": ""
+        }
+    ]
+}
