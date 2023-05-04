@@ -1,0 +1,45 @@
+{
+    "title": "Ataque inusitado para pedir emprego / “ChatGPT é a nova cripto” / Python lidera pesquisa",
+    "fps": 30,
+    "timestamp": 1683210488,
+    "width": 0,
+    "height": 0,
+    "date": "04/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisador de segurança sequestra módulos PHPs do repositório Packagist com milhões de downloads para solicitar vaga de emprego: o pesquisador de pseudônimo ‘neskafe3v1’ alterou a descrição dos módulos com o texto –em russo e inglês – “procurando uma posição de trabalho como segurança em aplicações, pentester e especialista em segurança cibernética”. A equipe do Packagist não identificou nenhum impacto malicioso do hack. O pesquisador está confiante de que a ação será positiva à sua carreira. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Para CISO da Meta, “ChatGPT é a nova cripto”, ao relacionar número de ameaças e fraudes: desde março, 10 novas famílias de malware e mais de 1.000 links maliciosos já foram promovidos como ferramentas para simular o chatbot, tanto na forma de aplicativos, como extensões para navegador. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Python é a linguagem mais utilizada, exceto no desenvolvimento front-end, mostra nova pesquisa: 78,2% dos 2.800 desenvolvedores entrevistados na ‘State of Engineer Hiring Survey 2023’ da CodeSignal, listaram o Python 3 como a linguagem utilizada com maior frequência. Java veio em segundo lugar (61,6%), seguida por JavaScript (39,8%).",
+            "url": ""
+        },
+        {
+            "text": "Apple ultrapassa Motorola em participação no mercado de smartphones no Brasil: a Samsung manteve-se na liderança no mês de abril (40,76%), seguida pela Apple (20,66%), Motorola (20,06%), Xiaomi (12,87%), LG (3,18%) e Asus (0,7%). As informações são do site Statcounter.",
+            "url": ""
+        },
+        {
+            "text": "Google começa a exibir símbolo de verificação para remetentes no Gmail: o tradicional símbolo azul aparecerá automaticamente para empresas que adotarem a certificação BIMI (Brand Indicators for Message Identification) – bastante complicada de se conseguir e possui custos anuais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Ex-funcionários da DeepMind lançam nova IA conversacional com personalidade: a intenção da Inflection AI é criar um assistente pessoal por meio do Pi, utilizando um tom coloquial nas respostas e aprendendo sobre o usuário ao longo do tempo. O sistema usa um modelo de linguagem proprietário (não foram divulgados detalhes) e mantém persistência entre conversas em diversos modos de interação – web, app (somente iOS no momento), WhatsApp, SMS e DMs do Instagram. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Phind, motor de busca otimizado para desenvolvedores e questões técnicas, faz upgrade para GPT-4: o sistema consegue extrair informações da internet em tempo real e gera respostas diretamente, mas também oferece links para páginas da web. Há um modo de busca avançado, para inserir fragmentos de código e fornecer maior contexto do problema. As informações são do site Hackernews.",
+            "url": ""
+        }
+    ]
+}
