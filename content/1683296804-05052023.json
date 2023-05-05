@@ -1,0 +1,45 @@
+{
+    "title": "Vazou: maior medo do Google / IA lê mente / Replit supera Codex da OpenAI",
+    "fps": 30,
+    "timestamp": 1683296804,
+    "width": 0,
+    "height": 0,
+    "date": "05/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Documento vazado do Google mostra que a maior preocupação da empresa não é com a OpenAI, mas de IAs open source: embora os modelos da empresa ainda sejam superiores em termos de qualidade, a cada dia, os projetos de código aberto ficam melhores, além de serem privados, personalizáveis e custarem muito menos – ”eles estão fazendo coisas com 100 dólares e 13B de parâmetros com as quais temos dificuldade com 10 milhões e 540B”. As informações são do blog SemiAnalysis.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam IA para ler sinais cerebrais e reproduzir pensamentos em texto, sem implantes: o chamado de decodificador semântico utiliza uma técnica similar à utilizada pelo ChatGPT para prever com considerável precisão a ideia geral do que uma pessoa pensa ao ouvir uma sequência de palavras. O sistema pode ajudar pessoas conscientes, mas incapazes de falar, como as que sofreram um derrame. As informações são da Universidade do Texas em Austin.",
+            "url": ""
+        },
+        {
+            "text": "Modelo gerador de código open source da Replit é melhor do que o Codex da OpenAI, sendo 77% menor: o replit-code-v1-3b foi treinado em 20 linguagens (Markdown, Java, JavaScript, Python, TypeScript, PHP, SQL, JSX, reStructuredText, Rust, C, CSS, Go, C++, HTML, Vue, Ruby, Jupyter Notebook, R, Shell). O modelo seja usado por qualquer pessoa, sem limitações para uso comercial. As informações são do repositório ‘replit/ReplitLM’ no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Começa a tramitar no Senado marco regulatório para uso e desenvolvimento de IAs no país: o texto reproduz as sugestões elaboradas pela comissão de juristas instalada em março do ano passado. O PL 2338/23 aborda direitos fundamentais, autorais, privacidade, responsabilização, discriminação, transparência, pesquisa e desenvolvimento, entre outros temas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google revela smartphone dobrável Pixel Fold: foram apresentadas apenas imagens oficiais do dispositivo, com previsão de lançamento estimado para junho deste ano, custando mais de 1.700 dólares. As especificações técnicas devem ser reveladas na quarta-feira que vem (10/maio), durante a I/O 2023, conferência anual de desenvolvedores do Google. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "CEO da IBM diz que trabalho remoto pode impedir desenvolvimento da carreira na empresa: para Arvind Krishna, o problema é mais acentuado para aqueles em cargos de liderança e reforça a importância do contato pessoal. O trabalho remoto, entretanto, seria viável para colaboradores individuais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Apple reporta segundo trimestre consecutivo de vendas mais fracas: apesar da desaceleração, a companhia lucrou 24,1 bilhões de dólares no último trimestre fiscal (queda de 3,4%), com leve crescimento na venda de iPhones, recorde histórico no segmento de serviços, mas forte queda nas vendas de Macs e iPads. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
