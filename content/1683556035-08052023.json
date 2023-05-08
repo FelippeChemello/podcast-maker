@@ -1,0 +1,45 @@
+{
+    "title": "Fim do trabalho remoto / Stack Overflow esvaziando / CGI alerta STF",
+    "fps": 30,
+    "timestamp": 1683556035,
+    "width": 0,
+    "height": 0,
+    "date": "08/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Para CEO da OpenAI, trabalho remoto é “um dos maiores equívocos do setor de tecnologia”: Sam Altman argumenta não existir ainda uma tecnologia que substitua a presença – especialmente em startups – decretando “o experimento (com o trabalho remoto) acabou”. O sentimento tem crescido entre CEOs de diversas empresas, não apenas na área de tecnologia. As informações são da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Visitas ao Stack Overflow caíram 14% em março: desde janeiro de 2022, o tráfego ao site tem caído em média 6% ao mês, possível efeito do uso de IAs geradoras de código cada vez maior entre desenvolvedores – as visitas à página de inscrição do Copilot mais do que triplicaram entre fevereiro e março deste ano. As informações são do blog da Similarweb.",
+            "url": ""
+        },
+        {
+            "text": "Comitê Gestor da Internet solta nota pública alertando o STF a não modificar o Marco Civil da Internet: o tribunal voltará a avaliar em breve ações discutindo a constitucionalidade do artigo 19 do Marco Civil da Internet (Lei 12.965/14) e a responsabilidade das plataformas online sobre o conteúdo postado por seus usuários. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Fortnite torna-se oficialmente e-sport olímpico: o jogo participará da ‘Semana Esports Olímpicos’ inaugural em Singapura em junho deste ano, na categoria de tiro esportivo. Outras nove competições virtuais acontecerão no evento, como automobilismo (com o jogo Gran Turismo) e dança (Just Dance). As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Bélgica legaliza hacking ético mesmo quando não há consentimento da parte invadida: a autorização depende do cumprimento de algumas condições como não ter a intenção de causar danos, não solicitar pagamento para revelação de vulnerabilidades, limitar o escopo da invasão para o estritamente necessário e não divulgar informações ao público. As informações são da Universidade Católica de Leuven.",
+            "url": ""
+        },
+        {
+            "text": "Mineração de cripto nos EUA ultrapassa consumo de energia de todos os PCs no país: a estimativa para 2022 varia entre 30 e 60 bilhões de kWh – no limite superior, ficaria acima do gasto energético de todas as TVs ou de toda a iluminação nacional. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Python 3.12 é lançado com melhorias em velocidade e eficiência: a nova versão reduz o uso de memória, torna o interpretador mais rápido e otimiza o processo de compilação. A atualização também prepara o terreno para uma melhor utilização de vários núcleos de processamento com menores efeitos detrimentais. As informações são do site InfoWorld.",
+            "url": ""
+        }
+    ]
+}
