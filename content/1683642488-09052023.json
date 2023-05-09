@@ -1,0 +1,45 @@
+{
+    "title": "Google esconde estudos de IA / Datacenter de DNA / Habilidades emergentes contestadas",
+    "fps": 30,
+    "timestamp": 1683642488,
+    "width": 0,
+    "height": 0,
+    "date": "09/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google para de compartilhar estudos de IAs com a comunidade científica: a decisão ocorreu em fevereiro deste ano, por Jeff Dean, chefe de IA da empresa. Desde 2019, 500 estudos foram publicados pelo Google, inclusive o modelo de transformadores (o “T” do ChatGPT). A ideia agora é publicar artigos apenas após sua incorporação em produtos próprios. As informações são do jornal The Washington Post.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores preveem primeiro datacenter experimental para armazenamento de dados por meio de DNA nos próximos 10 anos: uma nova técnica de PCR (Reação em Cadeia da Polimerase) para síntese do DNA, desenvolvida pela Universidade Tecnológica de Eindhoven em parceria com a Microsoft, permite o armazenamento e posterior leitura de informações em cápsulas, sem perda significativa de dados. Um grama de DNA possui uma densidade de até 215 petabytes de dados. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Habilidades emergentes de grandes modelos de linguagem seriam “miragem”, propõe nova pesquisa: habilidades novas e imprevisíveis não estariam surgindo à medida que LLMs ficam maiores – 29 métricas foram comparadas entre vários modelos de tamanhos diferentes, mostrando um crescimento contínuo e linear. Uma das conclusões da pesquisa é que provavelmente uma inteligência geral artificial (AGI) não aparecerá espontaneamente ou acidentalmente desses modelos. As informações são da Universidade de Stanford.",
+            "url": ""
+        },
+        {
+            "text": "Worldcoin, projeto controverso de cripto do CEO da OpenAI, lança wallet para tokens: o World App – já disponível para iOS e Android – também serve como um passaporte digital para o World ID, identificador pessoal único para quem escaneou sua íris por meio da esfera Orb, dispositivo de coleta biométrica do projeto. A wallet utiliza a plataforma Polygon, com versões wrapped de BTC, ETH e DAI. As informações são do site Coindesk.",
+            "url": ""
+        },
+        {
+            "text": "Tesla inicia construção de sua primeira refinaria de lítio no Texas: a capacidade será suficiente para a produção de 1 milhão de baterias para veículos elétricos a partir de 2025, tornando a Tesla o maior processador de lítio da América do Norte e a única fabricante de automóveis a refinar o próprio metal. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "31ª edição da DEF CON sediará o maior exercício de red teaming público contra grandes modelos de linguagem: o objetivo é descobrir limitações e vulnerabilidades nas IAs da Anthropic, Google, Hugging Face, Nvidia, OpenAI e Stability AI. A DEF CON 31 acontecerá em agosto deste ano. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta para busca de código do GitHub ganha disponibilidade geral: a nova interface de busca foi totalmente redesenhada, com diversas melhorias e recursos. O mecanismo de busca – reescrito do zero em Rust – é duas vezes mais rápido. As informações são do blog do GitHub.",
+            "url": ""
+        }
+    ]
+}
