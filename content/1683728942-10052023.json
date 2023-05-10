@@ -1,0 +1,45 @@
+{
+    "title": "Monólitos não são dinossauros / Caixa preta das IAs / Telegram: nova controvérsia no Brasil",
+    "fps": 30,
+    "timestamp": 1683728942,
+    "width": 0,
+    "height": 0,
+    "date": "10/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Para CTO da Amazon, “onólitos não são dinossauro”: segundo Werner Vogels, um dos exemplos seria a recente mudança do serviço de monitoramento do streaming Prime Video, de uma arquitetura de microsserviços distribuídos para uma aplicação monolítica, alcançando maior escala, resiliência e reduzindo custos em 90%. As informações são do blog All Things Distributed.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI usa GPT-4 para abrir “caixa preta” de outros modelos de linguagem mais simples: a intenção é identificar quais neurônios da rede são responsáveis por comportamentos específicos, entendendo melhor como o modelo funciona e aumentando a confiabilidade das respostas produzidas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google e Meta negam ter relação com mensagem do Telegram criticando “PL da Fake News” enviada para usuários brasileiros: a mensagem afirma que as duas empresas estavam unidas na tentativa de pressionar por uma nova versão da legislação. Ministros e parlamentares brasileiros se manifestaram também e adotarão “rovidências legais” contra o Telegram. As informações são do site Tecmundo.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de desenvolvedores cria sistema open source para detecção de fenômenos aéreos não identificados: a intenção do projeto Sky360 é montar uma rede de estações ao redor do mundo para monitorar o céu passivamente por meio de visão computacional. Todos os componentes de hardware, das câmeras aos radares, são de relativo baixo custo e prontamente disponíveis. As informações são do site Vice.",
+            "url": ""
+        },
+        {
+            "text": "FBI desmantela a “mais sofisticada” rede de ciberespionagem da Rússia: com o consentimento das vítimas, desde 2016, a agência estava monitorando computadores infectados pelo malware Snake, controlado grupo de hackers Turla – ligado a ataques ao Comando Central dos EUA, NASA e Pentágono – sem eles saberem. Nesta semana, uma ferramenta desenvolvida pelo próprio FBI, enganou o malware a sobrescrever arquivos vitais e a se auto deletar dos computadores infectados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança novo modelo multimodal de código aberto que une texto, áudio, imagem, posicionamento espacial, radiação infravermelha e movimento: o ImageBind não possui nenhuma aplicação prática no momento, mas aponta para futuras IAs generativas que poderão criar experiências imersivas e multissensoriais, muito próximas da realidade. O lançamento também mostra a disposição da Meta em continuar a compartilhar projetos de pesquisa enquanto Google e OpenAI tornam-se cada vez mais fechados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Conferência anual de desenvolvedores do Google acontece hoje (10/maio): a I/O 2023 será transmitida ao vivo, a partir das 14h00 (horário de Brasília) no site especial do evento, e focará em IA, atualizações do Android 14 e novos dispositivos. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
