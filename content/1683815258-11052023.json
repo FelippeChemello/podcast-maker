@@ -1,0 +1,45 @@
+{
+    "title": "Microsoft aposta em fusão nuclear / Fim dos HDDs / Resumão da I/O 2023",
+    "fps": 30,
+    "timestamp": 1683815258,
+    "width": 0,
+    "height": 0,
+    "date": "11/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft fecha o primeiro acordo comercial para uso de energia elétrica gerada por fusão nuclear: a startup Helion Energy – financiada por Sam Altman, CEO da OpenAI – comprometeu-se a gerar pelo menos 50 megawatts até 2028 ou pagará uma multa à Microsoft. Atualmente não há nenhum reator de fusão nuclear funcional no mundo. As informações são do jornal The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de SSDs prevê fim dos discos rígidos tradicionais a partir de 2028: as razões seriam a ineficiência energética – HDDs representam um terço do consumo de energia em datacenters – e declínio no preço dos módulos de memória NAND. Segundo Shawn Rosemarin, da Pure Storage, apesar da tecnologia em discos rígidos ter avançado muito nos últimos 67 anos, “chegamos no fim dessa era”. As informações são do site Blocks &amp; Files.",
+            "url": ""
+        },
+        {
+            "text": "Resumo dos pontos mais interessantes apresentados no Google I/O 2023 ontem: o PaLM 2 é o novo LLM por trás da IA conversacional Bard (ainda não disponível no Brasil) e da nova interface interativa para buscas na web  (em fase experimental) – o modelo foi  treinado em mais de 100 idiomas, conjuntos de dados científicos e código. Duet AI é o novo assistente para criação de documentos, planilhas e emails. O Codey é um rival do GitHub Copilot, com suporte a Go, Java, JavaScript, Python e SQL, treinado em códigos com licenças permissivas e código interno do Google, com extensões para o Visual Studio Code, IDEs JetBrains e Google Shell Editor. As informações são dos sites The Register e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Telegram apaga mensagem criticando “PL da Fake News” para evitar bloqueio no Brasil: o STF havia determinado a suspensão da plataforma por 72 horas e multa de 500 mil reais por hora caso a ordem fosse descumprida. As informações são do site Tecmundo.",
+            "url": ""
+        },
+        {
+            "text": "YouTube está barrando uso de bloqueadores de anúncios ao assistir vídeos: a plataforma está realizando um experimento em todo o mundo, exigindo uma assinatura premium ou a desativação do recurso antes de iniciar a reprodução dos vídeos. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "62% dos CISOs têm receio de serem responsabilizados pessoalmente por ataques cibernéticos: a mesma proporção também afirma que não trabalharia em uma organização que não oferecesse uma apólice de seguro contra ataques. A combinação de estresse, redução de orçamentos e responsabilidade pessoal tem prejudicado a qualidade de vida desses profissionais – 60% sofreram de burnout nos últimos 12 meses. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Flutter 3.1 traz melhorias para web apps e adiciona suporte inicial à WebAssembly: outro foco é o desempenho gráfico no iOS e Android. Já foram publicados 1 milhão de aplicativos baseados no framework, o dobro desde o ano passado. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
