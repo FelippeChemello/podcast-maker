@@ -1,0 +1,45 @@
+{
+    "title": "Musk: de CEO para CTO / Bots ouvindo IA / Firmware infectado em Androids",
+    "fps": 30,
+    "timestamp": 1683901586,
+    "width": 0,
+    "height": 0,
+    "date": "12/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk anuncia transição do cargo de CEO para CTO do Twitter nas próximas semanas: o jornal The New York Times, reporta que o dia-a-dia da rede social será assumido por Linda Yaccarino, ex-executiva de publicidade da NBCUniversal, que comunicou suademissão nesta manhã. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Spotify desmantela rede de bots ouvindo músicas geradas por IA: o esquema envolvia a criação do material por meio da plataforma de música generativa Boomy. Dezenas de milhares de músicas foram deletadas do Spotify, cerca de 7% do catálogo de músicas geradas pela startup. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Milhões de dispositivos Android possuem firmware infectado de fábrica, alerta Trend Micro: o problema é visto em smartphones de baixo custo e produzidos por meio de fábricas terceirizadas na Ásia – as marcas não foram reveladas. O objetivo do malware é roubar informações, credenciais e esquemas de cliques fraudulentos em anúncios. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Capitalização de mercado da Apple já supera todo o mercado de ações do Reino Unido, o terceiro maior do mundo: a empresa vale 2,7 trilhões de dólares – em comparação, as 381 empresas brasileiras listadas da B3 totalizam 822 bilhões de dólares, cerca de 30% do valor da Apple. As informações são da CNBC e B3.",
+            "url": ""
+        },
+        {
+            "text": "Claude, da Anthropic, agora consegue manter 100 mil tokens em sua memória: a chamada de “janela de contexto” maior permitirá a leitura de toda uma base de código e sugerir melhorias de forma coerente, por exemplo. Outra aplicação seria em finanças, analisando demonstrações financeiras de vários anos ao mesmo tempo. O GPT-4 da OpenAI tem um limite de 32 mil tokens (cerca de 24 mil palavras).  As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Governo zera alíquotas de imposto de importação para equipamentos de telecomunicações: a medida beneficia roteadores Wi-Fi 6, terminais de videoconferência, switches, modems, sensores para soluções agrícolas e telas para educação conectada. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Para economista-chefe da Microsoft, IAs precisariam gerar “dano significativo” antes de se pensar em regulamentação: o argumento de Michael Schwarz tem base na análise de custo-benefício, com atraso na inovação da tecnologia e discussão de novas legislações utilizando “cenários imaginários”, sem base na realidade. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
