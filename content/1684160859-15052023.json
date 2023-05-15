@@ -1,0 +1,45 @@
+{
+    "title": "TypeScript: “não vale a pena” / Nova IA do STF / Minerador duplo uso",
+    "fps": 30,
+    "timestamp": 1684160859,
+    "width": 0,
+    "height": 0,
+    "date": "15/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rich Harris, criador do Svelte, acredita que TypeScript “não vale a pena”: ele defende o uso do conjunto JavaScript e JSDoc no core do framework – a abordagem possui todos os benefícios de segurança do TypeScript, sem a desvantagem do suporte adicional necessário à linguagem. Harris reforça, entretanto, que sua opinião é válida especialmente no contexto do desenvolvimento de libraries e não na construção de uma aplicação. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "STF está finalizando testes em nova ferramenta de inteligência artificial: a VitórIA irá agilizar o agrupamento de temas repetidos ou similares tratados pela corte. Não há informações técnicas sobre o modelo, mas foi desenvolvido pela equipe técnica do tribunal durante oito meses. O STF já opera dois outros robôs, o RAFA 2030 (integração da Agenda 2030 da ONU) e Victor (análise de temas de repercussão geral). As informações são do portal do STF.",
+            "url": ""
+        },
+        {
+            "text": "Startup lança nova versão do seu minerador Bitcoin que também funciona como aquecedor de ambiente: o HeatBit Mini combina um minerador ASIC e uma ventoinha para direcionar o calor gerado pelo processo de hashing. No entanto, levando em conta o hashrate de 10 TH/s e custos de eletricidade, o dispositivo geraria um retorno positivo, mesmo se rodasse 24 horas por dia. O aparelho custa a partir de 299 dólares. As informações são do site Hackaday.",
+            "url": ""
+        },
+        {
+            "text": "Governo brasileiro participa de simulação de ataques cibernéticos promovido pela OEA e AWS: o exercício durou três horas, com servidores federais lidando com diferentes ataques sucessivos e recursos limitados. A ideia agora é compartilhar a experiência com outros países da região que já participaram da simulação, como Colômbia, Argentina e Chile. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "47,4% de todo o tráfego na Internet vem de bots: o número marca um aumento de 5,1% na comparação anual, fazendo o volume de tráfego humano cair para seu nível mais baixo em oito anos. Versões maliciosas desses bots – automações para abuso e ataques – representam 51,2%. Os setores mais afetados são turismo, varejo, bancário, jogos e telecomunicações. As informações são do site Security Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft levará quase um ano para corrigir vulnerabilidade do Secure Boot: a correção da falha  (CVE-2023-24932) irá invalidar arquivos ISO, backups e outras mídias de recuperação criados antes do patch. O processo será implementado em três fases para dar tempo às equipes de TI se prepararem, com o patch sendo habilitado por padrão no primeiro trimestre de 2024. O malware BlackLotus já é capaz de contornar o sistema inicialização segura de placas-mãe, permitindo a execução de códigos maliciosos antes de carregar o Windows. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google disponibiliza oito novos domínios de topo:.phd, .prof, .zip, .mov, .nexus, .dad, .esq e .foo. A comunidade não reagiu bem aos novos TLDs – o reaproveitamento da extensão de arquivos populares como .zip e .mov pode gerar confusões. As informações são do site Hackernews.",
+            "url": ""
+        }
+    ]
+}
