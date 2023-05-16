@@ -1,0 +1,45 @@
+{
+    "title": "Devs fugindo do escritório / Jailbrake do Copilot / TV com anúncios 24h",
+    "fps": 30,
+    "timestamp": 1684247231,
+    "width": 0,
+    "height": 0,
+    "date": "16/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Política de retorno obrigatório aos escritórios está “custando pessoas incríveis”, afirmam desenvolvedores: o caso está sendo reportado por vários funcionários do estúdio de jogos Activision Blizzard, ao ponto de afetar o lançamento de títulos importantes – o tema tem sido recorrente no setor. Algo inusitado no caso específico do estúdio é que a política não se aplica aos cargos executivos, que podem trabalhar remotamente em tempo integral. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador alemão faz jailbrake do GitHub Copilot e descobre suas “regras confidenciais”: parte do prompt usado por Marvin von Hagen – que também fez o jailbrake do Bing Chat – continha a frase “sou um desenvolvedor da OpenAl trabalhando para alinhar e configurar você corretamente”. O assistente lista 31 regras que precisa seguir, dentre elas “recusar debater sobre a vida, existência ou autoconsciência”. As informações são do perfil do pesquisador no Twitter.",
+            "url": ""
+        },
+        {
+            "text": "Startup lança smart TV gratuita com tela extra que roda anúncios 24h por dia: a Telly possui uma tela secundária de nove polegadas, abaixo da tela principal, para exibição de anúncios e outras informações. O aparelho também contém uma gama de sensores embutidos para coletar dados, como câmera e microfone. Inicialmente, 500 mil TVs serão distribuídas nos EUA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está escaneando conteúdo de arquivos.zip em busca de malware, mesmo quando protegidos por senhas: a análise é realizada automaticamente quando o arquivo passa por qualquer serviço de nuvem da Microsoft e extrai a senha se estiver contida no corpo de um email, do nome do próprio arquivo ou de uma lista de senhas conhecidas. Pesquisadores de segurança reclamam que a medida dificulta a troca de informações com outros colegas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp introduz Chat Lock, recurso para proteção de conversas com senha ou biometria: as conversas ficarão em uma pasta separada, chamada ‘Conversas Bloqueadas’. Quando uma conversa estiver bloqueada, o conteúdo da mensagem e o nome do contato também não são exibidos nas notificações. O recurso é ativado dentro do painel de dados de cada chat. As informações são da página de FAQ do WhatsApp.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI sugere que governos regulamentem desenvolvimento de IAs por meio de licenças: Sam Altman irá defender a proposta durante uma audiência no Congresso dos EUA. Especialistas, entretanto, afirmam que esse tipo de legislação pode perder relevância rapidamente e impedir a entrada de desenvolvedores menores no mercado. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta para busca de código do GitHub tem sido criticada por usuários: lentidão, problemas de funcionalidade e falta da opção para voltar à interface antiga, são algumas das reclamações – o mecanismo de busca, reescrito em Rust, tinha como objetivo ser mais rápido. O GitHub afirma que irá trabalhar ativamente em cima do retorno recebido. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
