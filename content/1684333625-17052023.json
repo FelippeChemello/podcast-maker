@@ -1,0 +1,45 @@
+{
+    "title": "Mojo: maior avanço em décadas / Blockchain contra fake news / Voz sintética no iPhone",
+    "fps": 30,
+    "timestamp": 1684333625,
+    "width": 0,
+    "height": 0,
+    "date": "17/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fundador do Fastmail e Kaggle acredita que o Mojo pode ser o “maior avanço em linguagens de programação em décadas”, corrigindo os problemas de desempenho do Python: para Jeremy Howard, que hoje comanda o grupo de pesquisa FastAI, a peça central seria o MLIR (Multi-Level Intermediate Representation), um substituto moderno para o LLVM que pode aproveitar totalmente o hardware de GPUs e TPUs. Ambos o MLIR e LLVM foram desenvolvidos pelo engenheiro de software Chris Lattner, que já passou pelo Google, Apple e Tesla. As informações são do blog da FastAI.",
+            "url": ""
+        },
+        {
+            "text": "Anatel propõe usar blockchain para financiar veículos jornalísticos e combater notícias falsas: uma comunidade independente e descentralizada seria responsável pela verificação da veracidade de conteúdos publicados na Internet. O consenso na rede seria mantido por meio do modelo de proof-of-stake, mas não ficou claro qual seria o modelo de incentivo. As informações são do Valor Econômico.",
+            "url": ""
+        },
+        {
+            "text": "Novo recurso do iPhone pode recriar voz do usuário após 15 minutos de treinamento: o recurso faz parte de um conjunto de novas funcionalidades de acessibilidade que serão lançadas até o final deste ano. A sintetização da ‘Voz Pessoal’ é realizada no próprio dispositivo e pode ser usada para conversar com amigos ou familiares. As informações são do Apple Newsroom.",
+            "url": ""
+        },
+        {
+            "text": "Google vai excluir contas inativas após 2 anos a partir de dezembro: informações no Gmail, Docs, Drive, Meet, Calendário, YouTube e Fotos também serão deletados – a nova política se aplica apenas a contas pessoais. A intenção é reduzir o risco de vazamento de dados. Para manter uma conta ativa, basta fazer login pelo menos uma vez a cada 2 anos. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI chama atenção para o desenvolvimento de IAs de código aberto no Senado dos EUA: o CEO Emad Mostaque enfatiza a importância de modelos abertos para uma economia digital transparente e competitiva, sendo essencial a inspeção pública desses sistemas, modelos e conjuntos de dados para treinamento. As informações são do blog da Stability AI.",
+            "url": ""
+        },
+        {
+            "text": "Startup canadense apresenta robô de trabalho humanoide: o Phoenix, da Sanctuary AI, mede 1,7 m de altura e pesa 70 kg, podendo transportar uma carga útil de até 25 kg – o robô foi criado para assumir o máximo possível de tarefas humanas com base na ideia de que o mundo moderno é construído principalmente para criaturas bípedes com mãos de cinco dedos e polegares opositores. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "GitHub revela motivos por trás da série de interrupções ocorridas na semana passada: nenhum dos três incidentes possuem causas relacionadas – alteração na configuração do serviço que serve dados do Git, falha na emissão de tokens de autenticação e falha em um cluster de dados. Michael Hanley, vice-presidente sênior de engenharia, afirmou que a situação “não é aceitável”. As informações são do blog do GitHub.",
+            "url": ""
+        }
+    ]
+}
