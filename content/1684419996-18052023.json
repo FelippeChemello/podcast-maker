@@ -1,0 +1,45 @@
+{
+    "title": "Professor confuso / Telemetria no Go / Elétrico quebra 23 recordes",
+    "fps": 30,
+    "timestamp": 1684419996,
+    "width": 0,
+    "height": 0,
+    "date": "18/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Professor universitário não entende como o ChatGPT funciona e ameaça reprovar alunos: um professor da Universidade do Texas usou o sistema para avaliar se as redações dos estudantes foram escritas pelo sistema – no momento, o ChatGPT não possui essa habilidade. Em uma thread no Reddit, o email do professor alertando os alunos sobre a situação foi colocado no ChatGPT por brincadeira – o sistema confirmou, erroneamente, que também havia escrito o texto. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google volta atrás e decide não implementar telemetria por padrão na linguagem Go: usuários poderão escolher enviar dados de uso – no modelo opt-in – à medida que programas na cadeia de ferramentas da linguagem forem executados. A proposta inicial obteve uma forte reação negativa da comunidade de desenvolvedores. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Veículo elétrico esportivo Rimac Nevera quebra 23 recordes de aceleração e frenagem: o mais impressionante é a aceleração até 400 km/h e de volta a zero em menos de 30 segundos. Outro recorde foi o de aceleração, de 0 a 100 km/h em apenas 1,82 segundo. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Novo jogo ‘Legend of Zelda: Tears of the Kingdom’ para o Switch torna-se o maior lançamento na história da Nintendo: em apenas três dias foram vendidas 10 milhões de unidades, acumulando uma receita estimada em 700 milhões de dólares. O jogo tem potencial para ser o título mais vendido em 2023. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Google estuda transformar smartphones Android em câmeras de segurança veiculares: um novo recurso em desenvolvimento, chamado Dashcam, inicia a gravação de áudio e vídeo automaticamente ao se conectar no bluetooth do carro. Não há data prevista para o lançamento. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI lança versão de código aberto de sua plataforma comercial para geração de imagens: a startup está pedindo ajuda da comunidade para implementar recursos no StableStudio – uma versão gratuita do DreamStudio – como inferência local por WebGPU, um novo sistema de plugins e instalação do web app na área de trabalho. As informações são do blog da Stability AI.",
+            "url": ""
+        },
+        {
+            "text": "Colab, ferramenta online do Google para programar Python, irá implementar Codey para geração de código gratuitamente: já de início estará disponível um chatbot para assistência na geração de código, recurso ainda em fase de testes no GitHub Copilot X. A versão do Codey utilizada foi treinada especialmente em Python e para usos específicos no Colab. As informações são do blog The Keyword.",
+            "url": ""
+        }
+    ]
+}
