@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI no Brasil / Recorde no espaço / Notebook com óculos AR",
+    "fps": 30,
+    "timestamp": 1684506387,
+    "width": 0,
+    "height": 0,
+    "date": "19/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Em visita ao Brasil, Sam Altman, CEO da OpenAI, pede regulação internacional de inteligências artificiais: Altman e a equipe da OpenAI vieram participar de um evento sobre a tecnologia no Museu do Amanhã, no Rio de Janeiro. A intenção é fazer uma turnê mundial para conhecer propostas de governantes e desenvolvedores. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "NASA quebra novo recorde de velocidade em transmissão de dados por laser do espaço para a terra: o sistema TeraByte InfraRed Delivery (TBIRD) alcançou 200 Gbps, o dobro do recorde obtido no ano passado. A tecnologia será usada na missão Artemis, permitindo a transmissão de vídeos em resolução HD da Lua à Terra, quase em tempo real. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Novo notebook troca tela convencional por óculos de realidade aumentada: o Spacetop, da Sightful, pode projetar uma tela virtual flutuante de até 100 polegadas. O dispositivo roda o sistema operacional AOSP (Android de código aberto) em um processador Arm e custa 2.000 dólares. As informações são do site PC World.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança app oficial e gratuito do ChatGPT para iPhone: também há suporte embutido para o sistema de reconhecimento de voz Whisper. Uma versão para Android deve sair em breve. O app está disponível inicialmente apenas nos EUA, com mais países nas próximas semanas. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores coreanos treinam modelo de linguagem exclusivamente na dark web: a função do DarkBERT é monitorar fóruns obscuros do cibercrime, detectando novos malwares ou vazamento de dados. Resultados preliminares mostram superioridade em relação a modelos de linguagem treinados com informações da web tradicional. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta CodeCompose, gerador de código similar ao GitHub Copilot: como foi treinado em códigos internos – com 6,7 bilhões de parâmetros, metade do Copilot – incluindo libraries escritas em Hack, linguagem desenvolvida pela empresa, o sistema não tem previsão de lançamento ao público. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no KeePass permite extração da senha mestra em texto simples: a falha – rastreada como CVE-2023-3278 – está na caixa de entrada da senha utilizada pelo gerenciador, que deixa um rastro de cada caractere digitado na memória do sistema. O problema afeta a versão mais recente, 2.53.1 no Windows, Linux e macOS, e forks do projeto – KeePass 1.X, KeePassXC e Strongbox não são afetados. A versão 2.54, prevista para o começo de junho já deve conter um patch. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
