@@ -1,0 +1,49 @@
+{
+    "title": "VSCode: extensões maliciosas / CTO da Amazon: IA vs Devs / PyPI sob ataque",
+    "fps": 30,
+    "timestamp": 1684765632,
+    "width": 0,
+    "height": 0,
+    "date": "22/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Curiosidade para o dia 22 de maio: em 1973, Robert Metcalfe, na época engenheiro da Xerox, escrevia a proposta original para a rede de computadores Ethernet. E após as notícias de hoje: descubra se tem coragem de estudar (de graça) em uma das melhores escolas de engenharia de software do mundo e análise detalhada do maior tapa que Steve Jobs já deu num programador (1 milhão de visualizações em três meses).",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores encontram três extensões maliciosas para o VSCode: ‘prettiest java’, ‘python-vscode’ e o tema ‘Darcula Dark’ habilitavam execução remota de código – todas já foram removidas pela Microsoft, mas estavam disponíveis por mais de um ano no marketplace. As informações são do blog da Check Point.",
+            "url": ""
+        },
+        {
+            "text": "CTO da Amazon acredita que assistentes de código baseados em IA “mudarão a maneira como desenvolvedores trabalham”: para Werner Vogels, embora importante, escrever código é apenas uma parte do trabalho. Ele argumenta que o ganho de tempo será mais bem gasto em tarefas criativas como brainstorm com equipes de produto ou projetar designs de sistemas. As informações são do blog All Things Distributed.",
+            "url": ""
+        },
+        {
+            "text": "PyPI precisou pausar cadastro de novos usuários e módulos devido ao alto volume de malware: a quantidade de usuários mal-intencionados e projetos maliciosos ultrapassou a capacidade de combate do registro. O bloqueio teve início na sexta-feira e terminou neste domingo. As informações são do site Python Infrastructure Status.",
+            "url": ""
+        },
+        {
+            "text": "Autor de ficção científica escreve 97 livros com auxílio de IA em nove meses: Tim Boucher usou ChatGPT, Claude AI e Midjourney para inspiração, assistência nas histórias e criação das imagens na série ‘AI Lore’. Até o momento, foram vendidas apenas 574 cópias dos livros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Vazam informações sobre nova rede social baseada no Instagram: o ‘Project 92’ é um clone do Twitter com o slogan “Instagram para seus pensamentos”. Nomes de usuário e seguidores serão compartilhados entre as duas plataformas e também será compatível com outras redes descentralizadas, como o Mastodon. As informações são do blog ICYMI by Lia Haberman.",
+            "url": ""
+        },
+        {
+            "text": "Chrome agora detecta erros de digitação em URLs e sugere correções: o recurso facilita o acesso a sites visitados anteriormente e aumenta a acessibilidade para pessoas com dislexia. Já disponível na versão desktop, será lançado para dispositivos móveis nos próximos meses.    As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Matrículas em Ciência da Computação mostram forte tendência de crescimento nos EUA: nos últimos cinco anos (até 2022), a alta foi de 34%, em contraste com outras áreas, como Literatura e História (-23% e -12%, respectivamente). Formações em Ciência da Computação e Dados são vistas como base para o desenvolvimento de IAs e outras tecnologias. As informações são do jornal The Washington Post.",
+            "url": ""
+        }
+    ]
+}
