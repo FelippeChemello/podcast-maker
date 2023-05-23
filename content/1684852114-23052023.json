@@ -1,0 +1,45 @@
+{
+    "title": "Intel: IA gigante / Bug bounty do Google / Supercomputadores AMD",
+    "fps": 30,
+    "timestamp": 1684852114,
+    "width": 0,
+    "height": 0,
+    "date": "23/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Intel anuncia plano para desenvolver IAs generativas científicas com até 1 trilhão de parâmetros: os modelos serão treinados em textos gerais, código e dados científicos – para comparação, o GPT-3 possui 175 bi de parâmetros (a OpenAI não divulga o tamanho do GPT-4). O foco será no estudo da biologia, medicina, clima, cosmologia, química e novos materiais. Um novo supercomputador, chamado Aurora, com mais de 2 exaflops de processamento, será lançado ainda neste ano para realizar a tarefa. As informações são do site da Intel.",
+            "url": ""
+        },
+        {
+            "text": "Google lança programa de bug bounty específico para seus aplicativos Android: o ‘Mobile Vulnerability Rewards Program’ recompensará no máximo 30 mil dólares pela execução remota de código sem interação do usuário e até 7,5 mil por vulnerabilidades que permitam o roubo de dados. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "CPUs da AMD já estão em 121 dos supercomputadores mais rápidos do mundo, crescimento de 29% em um ano: além disso, a AMD manteve o primeiro lugar no Top 500 com o Frontier (1,19 exaflop) e ocupa outras quatro posições no Top 10 – Intel e a IBM dividem o resto da lista. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI propõe criação de órgão internacional para regulação de inteligências artificiais: é concebível que, nos próximos dez anos, sistemas de IA “excedam o nível de habilidade de especialistas na maioria dos domínios”. O momento então seria propício para estudos sobre a governança de uma superinteligência, tecnologia que a OpenAI considera a mais poderosa já criada pela humanidade. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp lança edição de mensagens enviadas: basta pressionar longamente uma mensagem e escolher Editar no menu – há um limite de 15 minutos após o envio. O recurso será implementado globalmente ao longo das próximas semanas. As informações são do site Newsroom da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Meta vende buscador de GIFs animados Giphy para Shutterstock com prejuízo: a companhia havia pago 400 milhões de dólares pela empresa em 2020 – a Shutterstock assumiu o negócio por 53 milhões. A Meta foi obrigada a se desfazer da aquisição após uma decisão desfavorável antitruste no Reino Unido. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nova IA da Meta reconhece e reproduz mais de 1.000 idiomas diferentes: o sistema foi treinado de forma não supervisionada em gravações de áudio do Novo Testamento da Bíblia em 3.800 idiomas e seu texto correspondente em 1.100 idiomas. O modelo, disponível no repositório ‘facebookresearch/fairseq’ no GitHub, seria um passo significativo na preservação de idiomas que correm o risco de desaparecer. As informações são do blog Meta AI.",
+            "url": ""
+        }
+    ]
+}
