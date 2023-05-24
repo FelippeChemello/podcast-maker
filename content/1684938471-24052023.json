@@ -1,0 +1,45 @@
+{
+    "title": "Windows só para Devs / Governo quer hackers / Faltam Devs COBOL",
+    "fps": 30,
+    "timestamp": 1684938471,
+    "width": 0,
+    "height": 0,
+    "date": "24/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft Build 2023 apresenta novidades exclusivas para desenvolvedores no Windows: o Dev Home é um novo aplicativo de código aberto para configuração de um ambiente de desenvolvimento completo no sistema operacional, baixando aplicativos, módulos, repositórios e conectando-se ao GitHub. Há também uma central de controle para monitorar projetos em tempo real, como issues e pull requests. Uma versão beta está disponível na Microsoft Store no Brasil como ‘Página Inicial de Desenvolvimento (Versão Prévia)’. As informações são do repositório ‘microsoft/devhome’ no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Governo lança programa ‘Hackers do Bem’ e planeja capacitar 30 mil profissionais até 2025: a iniciativa tem como público-alvo estudantes (técnico, médio ou superior) e profissionais de TI em busca de especialização. A formação será em níveis básico, avançado, especializado e residência tecnológica em laboratórios de cibersegurança. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Setor bancário e de seguros liga o alerta para escassez de desenvolvedores em COBOL: quem domina a linguagem está se aposentando gradualmente e está difícil encontrar novos programadores – a linguagem,  lançada em 1959, não é mais ensinada nos cursos de Ciência da Computação. As informações são do jornal Le Monde.",
+            "url": ""
+        },
+        {
+            "text": "Porta-voz para questões de saúde pública dos EUA faz alerta sobre impacto de redes socias no desenvolvimento de cérebros jovens: Vivek Murthy aconselha o desenvolvimento de restrições de idade e padrões de segurança similares a outros regulamentos, como idade mínima para dirigir ou usar certos medicamentos. As informações são do site Stat.",
+            "url": ""
+        },
+        {
+            "text": "Bill Gates acredita que agentes pessoais de IA irão acabar com os negócios do Google e Amazon: a tecnologia acabará alterando radicalmente o comportamento das pessoas, que não sentirão mais a necessidade de utilizar um buscador ou comércio eletrônico. Gates acredita que uma nova startup tem as mesmas chances de uma gigante da tecnologia para criar esse futuro no momento. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Startup facilita compra de imagens de satélite por meio de APIs: usuários podem até mesmo comandar um satélite a capturar imagens de uma região específica. A SkyFi tem como alvo consumidores individuais, empresas no setor de agricultura, mineração, finanças, seguros e defesa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta nova arquitetura de IA com suporte a mais de 1 milhão de tokens de uma só vez: o modelo Megabyte aborda problemas de escalabilidade e eficiência executando cálculos em paralelo – com 1,5 bilhão de parâmetros, o sistema gera sequências 40% mais rápido do que um modelo Transformer (o T por trás da arquitetura GPT-4) com 23% do tamanho. A capacidade máxima do modelo também excede 1,2 milhão de tokens – o GPT-4  tem um limite de 32 mil tokens e o Claude 100 mil tokens. As informações são do site Artisana.",
+            "url": ""
+        }
+    ]
+}
