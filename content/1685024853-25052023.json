@@ -1,0 +1,45 @@
+{
+    "title": "Hacker prodígio lança startup / RAR no Windows / IA super babá",
+    "fps": 30,
+    "timestamp": 1685024853,
+    "width": 0,
+    "height": 0,
+    "date": "25/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker prodígio George Hotz funda nova startup de IA: para começar, a Tiny Corp irá desenvolver um novo framework, runtime e driver para GPUs AMD, placas que ele considera tecnicamente excepcionais e de excelente custo, mas com péssimo suporte em software. O objetivo final da empresa será integrar software e hardware, criando seus próprios chips aceleradores de IA, com o slogan “comoditizar o petaflop”. Hotz é conhecido por ser o primeiro a realizar o jailbreak do iPhone, pela engenharia reversa do PlayStation 3 e por fundar a empresa de direção autônoma CommaAI. As informações são do blog The Singularity is Nearer.",
+            "url": ""
+        },
+        {
+            "text": "Windows confirma suporte integrado a diversos tipos de arquivos compactados, como RAR e 7-zip, sem a necessidade de instalar aplicativos específicos : o projeto de código aberto ‘libarchive’ coordenará a lista e suporte técnico a esses arquivos. A novidade é especialmente relevante para desenvolvedores que utilizam o Subsistema Windows para Linux e precisam extrair arquivos compactados regularmente. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "IA super avançada poderá tornar-se uma “super babá” dos humanos no futuro, alerta Elon Musk: essa IA não tentaria destruir a humanidade, mas poderia colocar as pessoas sob supervisão rígida, assumindo controle de todos os sistemas computacionais e de armas, limitando ou impedindo o crescimento da humanidade. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI irá deixar Europa se nova legislação sobre inteligências artificiais passar: sistemas como o ChatGPT serão designados como de “alto risco”, obrigando o atendimento de requisitos de segurança e transparência, incluindo a divulgação do poder de computação usado, tamanho do modelo e se dados protegidos por direitos autorais foram usados para treinamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vazamento do popular serviço SuperVPN expõe dados de milhões de usuários: um banco de dados exposto continha 360 milhões de registros, incluindo emails, endereços de IP, geolocalização e URLs acessadas – a empresa garantia não armazenar logs de usuários. As informações são do site Hackread.",
+            "url": ""
+        },
+        {
+            "text": "Sony oficializa ‘Project Q’, dispositivo portátil para streaming de jogos do PlayStation 5: detalhes ainda são escassos, mas o aparelho possui uma tela Full HD de 8 polegadas, recursos do controle DualSense (incluindo feedback tátil e gatilhos adaptativos) e suporte para todos os jogos do console. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia inclui o Brasil em lista de treze países com políticas de direitos autorais mais problemáticas na web: apesar dos avanços no país, um dos problemas destacados é o lento processo para bloqueio de sites piratas, visto como uma das medidas mais eficazes de fiscalização. As informações são do site TorrentFreak.",
+            "url": ""
+        }
+    ]
+}
