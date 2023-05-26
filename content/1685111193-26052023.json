@@ -1,0 +1,45 @@
+{
+    "title": "Nvidia dispara / Tesla ultrapassa Corolla / Hackers brazucas",
+    "fps": 30,
+    "timestamp": 1685111193,
+    "width": 0,
+    "height": 0,
+    "date": "26/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ações da Nvidia disparam com projeções de vendas para aceleradores de IA: os papéis da companhia registram alta de 24% nesta manhã após o CEO Jensen Huang estimar que datacenters precisarão investir um trilhão de dólares para lidar com a demanda por ferramentas de IAs generativas. As informações são do site InfoMoney.",
+            "url": ""
+        },
+        {
+            "text": "Tesla Model Y ultrapassa o Toyota Corolla, tornando-se o carro mais vendido do mundo: este é o primeiro veículo elétrico a conquistar a marca. Ao total, foram vendidas 267.200 unidades no primeiro trimestre, contra 256.400 do Corolla. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores descobrem campanha maliciosa de hackers brasileiros para atacar trinta instituições financeiras públicas e privadas de Portugal: a ‘Operação Magalenha’ utilizava várias técnicas, incluindo phishing, engenharia social e sites maliciosos, distribuindo malwares para capturar a tela das vítimas e monitorar suas interações. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT utilizam aprendizado de máquina para identificar novo antibiótico capaz de combater bactéria super resistente: avaliando um banco de dados de compostos químicos, o modelo sugeriu uma substância viável para combater infecções graves, como pneumonia e meningite. O estudo destaca o potencial da IA para acelerar a busca por novos medicamentos. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "Neuralink recebe aprovação governamental para iniciar ensaios clínicos com humanos nos EUA: a startup está desenvolvendo um implante cerebral que transmite sinais neurais sem fio e um robô cirúrgico para realizar o procedimento. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "App oficial e gratuito do ChatGPT para iPhone chega ao Brasil: há suporte embutido para o modelo de reconhecimento de voz Whisper, também desenvolvido pela OpenAI. A versão para Android deve sair em breve. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "IBM está determinada a construir computador quântico com 100.000 qubits nos próximos 10 anos: o sistema irá trabalhar em conjunto com supercomputadores clássicos. No final do ano passado, a IBM atingiu o marco de 433 bits quânticos. O Google está visando um milhão de qubits até o final da década, com 10.000 disponíveis para cálculos após aplicar algoritmos de detecção e correção de erros. As informações são do site MIT Technology Review.",
+            "url": ""
+        }
+    ]
+}
