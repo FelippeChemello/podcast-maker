@@ -1,0 +1,45 @@
+{
+    "title": "Linux da Microsoft / IA cria mais trabalho / Lei de Moore: novo paradigma",
+    "fps": 30,
+    "timestamp": 1685370394,
+    "width": 0,
+    "height": 0,
+    "date": "29/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft disponibiliza Azure Linux de forma geral: a distro é basicamente um host para o Azure Kubernetes Service (AKS) e busca facilitar o deploy de ferramentas da Microsoft em ambientes cloud. O Azure Linux não é um fork de nenhuma outra distro, sendo um desenvolvimento completamente independente da Microsoft, com foco em desempenho e segurança. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI acredita ser improvável que IAs evoluam a ponto de humanos não terem nenhum trabalho a fazer: para Sam Altman, a discussão sobre a tecnologia “tem se concentrado demais nos aspectos negativos” e, historicamente, ferramentas melhores nunca fizeram as pessoas trabalharem menos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Manter a Lei de Moore está ficando cada vez mais complicado, mas há solução, discutem especialistas: um novo paradigma, chamado de CMOS 2.0, seria o caminho mais prático a seguir, dividindo os chips em seus componentes funcionais e juntando-os novamente de forma empilhada, com menor consumo de energia e melhor desempenho. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Em nota pública, entidades criticam o Governo e pedem a retomada do Conselho Nacional de Proteção de Dados: desde o início do ano, as atividades do colegiado estão paralisadas, sem exercer seu papel de representatividade social e colaborar com questões regulatórias relacionadas à proteção de dados e à privacidade. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mastercard ainda vê grande potencial no blockchain, mas apenas se priorizar segurança e simplicidade: a tecnologia tem diversos casos de uso na indústria financeira, especialmente na capacidade de armazenar e mover capital. A empresa quer fornecer uma base tecnológica interoperável e global para permitir que desde pequenas startups a até grandes instituições financeiras construam soluções próprias com confiança. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia apresenta novo sistema em que cada cluster poderia ser colocado entre os 50 supercomputadores mais rápidos do mundo: o kit, de nome DGX GH200, combina 256 superchips Grace-Hopper e é projetado para modelos de IA com uso intensivo de memória. Um único cluster DGX GH200 oferece 17,15 petaflops de desempenho. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Armazenamento em fitas LTO continua a crescer, apesar das previsões negativas sobre este tipo de mídia: no ano passado, o aumento foi de 5%, para 128 Exabytes – em 2021, foi de 40% – indicando uma contínua demanda por soluções de armazenamento lentas, porém econômicas e confiáveis. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
