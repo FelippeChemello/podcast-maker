@@ -1,0 +1,45 @@
+{
+    "title": "Controvérsia CEO Nvidia / ChatGPT na aula / IA: ameaça existencial",
+    "fps": 30,
+    "timestamp": 1685456822,
+    "width": 0,
+    "height": 0,
+    "date": "30/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Nvidia acredita que “a barreira da programação ficou incrivelmente baixa” com nova era de IA generativas: para Jensen Huang, “todo mundo é um programador agora – você só precisa dizer algo para o computador”. A afirmação é controversa e por isso deixamos aos leitores a pergunta: conversar com uma IA que gera código é o mesmo que programar? As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Professor universitário usa ChatGPT a seu favor em sala de aula, com excelente aceitação entre estudantes: em seu perfil no Twitter, C.W. Howell, da Duke University, relata como todas as 63 redações – geradas a partir de um prompt fornecido por ele aos alunos – continham informações alucinadas, com citações e fontes falsas. O objetivo da tarefa era que os próprios alunos dessem uma nota para o ChatGPT, corrigindo os pontos incorretos.",
+            "url": ""
+        },
+        {
+            "text": "CEOs da DeepMind e OpenAI assinam declaração sobre “ameaça existencial” atrelada a IAs: a tecnologia é comparada a riscos como pandemias e guerras nucleares. O documento também foi assinado por dois dos três ganhadores do Prêmio Turing de 2018, conhecido como o “Prêmio Nobel da Computação” – Yann LeCun, cientista-chefe de IA da Meta e ganhador do prêmio, não assinou o documento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Netflix e Spotify lideram mercado de streaming no Brasil em seus respectivos segmentos: a Netflix possui 50,6 milhões de usuários únicos por mês, seguida por Globoplay (18,1 mi) e Amazon Prime. O Spotify tem 38,6 milhões de usuários, seguido pelo site Letras (12,8 mi). As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de lei quer regulamentar aplicativos de relacionamento, como o Tinder, no Brasil: o PL 2811/2023 estabelece medidas como verificação da identidade de usuários por meio de documentos oficiais e bloqueio de perfis abusivos ou que promovam atividades ilícitas. As informações são do site Focus Notícias.",
+            "url": ""
+        },
+        {
+            "text": "Dispositivo mais fino do que um fio de cabelo humano é capaz de coletar eletricidade a partir da umidade do ar: um revestimento com orifícios menores que 100 nanômetros permite a colisão de moléculas de água, gerando um desequilíbrio de carga e energia continuamente, em qualquer condição ou ambiente. As informações são da Universidade de Massachusetts Amherst e do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft testa novo aplicativo de backup para Windows 11: o Windows Backup armazena a cópia no OneDrive, oferecendo suporte para arquivos, pastas, aplicativos, configurações e credenciais de login, restaurando até a barra de tarefas e apps fixados no menu Iniciar. As informações são do site TechRadar.",
+            "url": ""
+        }
+    ]
+}
