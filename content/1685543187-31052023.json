@@ -1,0 +1,45 @@
+{
+    "title": "Protesto contra Slack / Dev clona namorada / Nvidia chega a 1 tri",
+    "fps": 30,
+    "timestamp": 1685543187,
+    "width": 0,
+    "height": 0,
+    "date": "31/05/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Coalização com mais de 90 organizações, incluindo a Mozilla, farão manifestação na frente da sede do Slack nesta quarta-feira: a intenção é convencer o aplicativo a proteger as conversas de usuários – especialmente ativistas – por meio de criptografia de ponta a ponta. O Slack afirma que não compartilha dados de clientes, a menos que seja legalmente obrigado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor abre código da GirlfriendGPT, IA generativa que criou para clonar sua própria namorada: Enias Cailliau uniu uma série de sistemas que emulam a personalidade, sintetizam a voz e até mesmo “tiram selfies” por meio do Stable Diffusion – a interface com o sistema é pelo Telegram. O código está disponível no repositório “EniasCailliau/GirlfriendGPT” no GitHub. As informações são do site Vice.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia quebra a barreira de 1 trilhão de dólares em valor de mercado: impulsionada por excelentes resultados trimestrais e potencial nas vendas de placas aceleradoras de IA, a companhia junta-se a apenas outras cinco no mundo – Apple (2,7 trilhões), Microsoft (2,4 tri), Saudi Aramco (2 tri), Google (1,5 tri) e Amazon (1,2 tri).",
+            "url": ""
+        },
+        {
+            "text": "Justiça federal nos EUA passa a exigir certificado atestando que documentos trazidos perante a corte não foram redigidos por IAs generativas: quando isso não for possível, será obrigatório que um ser humano verifique sua precisão. A decisão vem após um advogado utilizar o ChatGPT, que citou casos inexistentes para apoiar sua defesa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp está trabalhando em recursos de nome de usuário e compartilhamento de tela em videochamadas: será possível vincular usernames exclusivos a contas, permitindo encontrar usuários pelo nome em vez do número de telefone. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WordPress descobre vulnerabilidade crítica no plugin Jetpack e força instalação de patch de segurança em milhões de sites: a falha está presente a partir da versão 2.0, lançada em 2012, permitindo a manipulação de qualquer arquivo na instalação do WordPress. Recomenda-se atualizar o plugin imediatamente. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Novo malware para Android, distribuído por meio de um SDK de publicidade no Google Play, é descoberto em aplicativos com mais de 400 milhões de instalações: o spyware “SpinOk” pode roubar dados e arquivos, além de copiar e substituir conteúdos da área de transferência. Alguns dos apps com problema (já removidos) incluem Noizz, VFly, MVBit, Biugo, Crazy Drop, Cashzine, Fizzo Novel, CashEM e Tick. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
