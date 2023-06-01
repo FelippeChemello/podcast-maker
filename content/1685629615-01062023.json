@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: placas-mãe Gigabyte / Bluetooth via satélite / GPUs atrasam OpenAI",
+    "fps": 30,
+    "timestamp": 1685629615,
+    "width": 0,
+    "height": 0,
+    "date": "01/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Backdoor é descoberto em firmware de milhões de placas-mãe da Gigabyte: embora o código sirva para atualizações da fabricante, a implementação foi feita de forma insegura, permitindo que o mecanismo seja sequestrado para implantação de malware. A lista com os 271 modelos de placas-mãe vulneráveis pode ser encontrada no site TabNews. As informações são da Wired.",
+            "url": ""
+        },
+        {
+            "text": "Startup quer conectar um bilhão de dispositivos por meio de rede Bluetooth baseada em satélites: o objetivo da Hubble Network é construir uma constelação de 300 satélites, capazes de captar sinais a 1.000 km de distância e fornecer atualizações em tempo real a qualquer dispositivo com chips Bluetooth – útil no rastreamento de mercadorias e monitoramento ambiental, por exemplo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI revela que escassez de GPUs está atrasando os planos da empresa: segundo Sam Altman, essa limitação impede o aumento da janela de contexto (limitada a 32k tokens no momento), melhorias em APIs e multimodalidade no ChatGPT (geração de imagens e áudio, por exemplo). As informações são do site Humanloop.",
+            "url": ""
+        },
+        {
+            "text": "Federação Brasileira de Bancos faz parceria com universidades para buscar profissionais de cibersegurança: o projeto Academy quer atrair recém-formados para atuar no meio bancário, suprindo a falta de mão de obra especializada. Desde 2020, a Febraban já formou 5 mil profissionais em seu Laboratório de Segurança Cibernética. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Japão estabelece que direitos autorais não se aplicam a dados utilizados no treinamento de IAs: a política é válida para qualquer tipo de conteúdo e uso, comercial ou não. O país tem planos de tornar-se líder no desenvolvimento da tecnologia e acredita que essa questão, especialmente em relação a animes e outras mídias visuais, impedirão esse progresso. As informações são do site Technomancers AI.",
+            "url": ""
+        },
+        {
+            "text": "Administradores do site de torrents RARBG, um dos maiores do mundo, decidem encerrar operação: custos crescentes com data centers ficaram “impossíveis de suportar”. Com 15 anos de funcionamento, o site era um importante centro de lançamentos de conteúdo pirata. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Brave lança sua própria API de busca: o Brave Search é o único índice de busca independente com foco em privacidade. A nova API será especialmente útil para desenvolvedores de IAs ao fornecer dados em escala a um preço acessível – os planos pagos iniciam em 3 dólares por 1.000 queries. As informações são do blog da Brave.",
+            "url": ""
+        }
+    ]
+}
