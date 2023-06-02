@@ -1,0 +1,45 @@
+{
+    "title": "IA: mais um arrependido / Déficit de TI / Apple: acusação grave",
+    "fps": 30,
+    "timestamp": 1685715983,
+    "width": 0,
+    "height": 0,
+    "date": "02/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mais um pioneiro da IA se arrepende de seu trabalho: Yoshua Bengio teria priorizado segurança em vez de utilidade se soubesse o ritmo em que a tecnologia evoluiria – ele junta-se a Geoffrey Hinton, que deixou o Google no início deste mês para alertar sobre perigos da tecnologia. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Google alerta que Brasil terá déficit de 530 mil profissionais de TI até 2025: segurança da informação, arquitetura de nuvem, automação e IA serão as áreas mais precárias. A escassez seria provocada pela dificuldade em se conseguir o primeiro emprego na área e falta de investimento no desenvolvimento de profissionais seniores. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Rússia acusa Apple e EUA de espionarem diplomatas por meio de backdoor implantado em iPhones: as alegações coincidem com a revelação feita pela empresa de segurança Kaspersky ontem – iPhones de executivos foram hackeados por meio de um zero-click ainda não documentado no iOS. A Apple nega as acusações. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta óculos de realidade mista Quest 3: comparado ao Quest 2, o dispositivo oferecerá um perfil óptico 40% mais fino, três novas áreas de sensor, controladores mais ergonômicos e o dobro de desempenho gráfico. O Quest 3 estará disponível por 500 dólares a partir do segundo semestre deste ano – não há previsão de lançamento no Brasil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Agentes de suporte ao cliente têm aumento de quase 14% em produtividade com auxílio de IA generativa: o ganho foi ainda maior (35%) para funcionários com menos experiência. A ferramenta fornecia possíveis respostas às consultas dos clientes, permitindo lidar com vários chats ao mesmo tempo. Esse é um dos primeiros estudos que mostram um real impacto desses sistemas no mercado de trabalho. As informações são da NBER.",
+            "url": ""
+        },
+        {
+            "text": "Nova “câmera sem lente” usa IAs para tirar fotos: a Paragraphica coleta informações como a hora do dia, clima e dados de localização para gerar as imagens. O projeto seria uma forma de entender como as IAs “enxergam” o mundo, sem qualquer intenção de tornar-se um produto ou desafiar a fotografia tradicional. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Agência Espacial Europeia fará livestream de Marte nesta sexta-feira, às 13h (horário de Brasília): a transmissão mostrará imagens captadas pela Câmera de Monitoramento Visual do orbitador Mars Express, em comemoração ao 20º aniversário de seu lançamento. O evento poderá ser acompanhado no canal do YouTube da ESA. As informações são do site Space.",
+            "url": ""
+        }
+    ]
+}
