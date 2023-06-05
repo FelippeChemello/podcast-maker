@@ -1,0 +1,45 @@
+{
+    "title": "Gmail: falha grave / Greve no Stack Overflow / Fake news sobre drone",
+    "fps": 30,
+    "timestamp": 1685975246,
+    "width": 0,
+    "height": 0,
+    "date": "05/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha grave no Gmail permite que hackers explorem novo sistema de verificação de destinatários para enganar vítimas: o recurso, introduzido no mês passado, marca empresas e organizações com selos azuis, identificando emails legítimos. A vulnerabilidade foi marcada como prioridade máxima e, até ser corrigida, recomenda-se ficar atento. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Moderadores do Stack Overflow decretam greve geral a partir desta segunda-feira: a plataforma quer proibir a moderação de conteúdos gerados por IA, permitindo a proliferação de informações incorretas e plágio irrestrito. O grupo assinou uma carta aberta detalhando suas principais preocupações e o que precisa ser feito daqui para frente. As informações são do fórum Meta Stack Exchange.",
+            "url": ""
+        },
+        {
+            "text": "Não é verdade que drone controlado por IA teria matado seu operador durante simulação: a Força Aérea dos EUA desmentiu a informação que tem sido veiculada por diversos sites de notícias – tudo não passa de um cenário hipotético e não uma simulação que aconteceu de fato. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "WWDC 2023, conferência da Apple para desenvolvedores, acontece nesta segunda-feira, às 14h (horário de Brasília): considerada por analistas como um dos eventos mais importantes para a empresa na última década, é esperado o lançamento de um novo óculos de realidade mista. O evento será transmitido ao vivo no canal da Apple no YouTube. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores fazem bot “conversar” com o GPT-4 para aprender a jogar Minecraft e descobrem novo potencial para uso da tecnologia: o modelo determinava potenciais objetivos que ajudavam o bot a explorar e ampliar suas habilidades no jogo. A mesma técnica poderia ser adaptada a um assistente virtual integrado ao sistema operacional de um PC, que explicaria ao usuário como realizar ou automatizar tarefas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "EUA lançará satélite para que hackers tentem invadi-lo remotamente: o Moonlighter é o “primeiro e único sandbox de hacking no espaço”, com cinco equipes competindo para experimentar técnicas ofensivas e defensivas. O lançamento está previsto para ocorrer nesta segunda. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Interrupção do Microsoft Azure DevOps na região South Brazil (localizada em São Paulo), ocorrida na semana passada, foi provocada por “erro de digitação”: o problema passou despercebido durante a mais recente sprint, com engenheiros trocando uma chamada para excluir o SQL Database por SQL Server, deletando todo o servidor que hospedava os bancos de dados. O processo de recuperação levou mais de dez horas. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
