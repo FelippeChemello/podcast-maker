@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica em lei dos jogos / Big Techs surpresas / Data center do Serpro",
+    "fps": 30,
+    "timestamp": 1686061521,
+    "width": 0,
+    "height": 0,
+    "date": "06/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Associação Brasileira das Desenvolvedoras de Jogos Eletrônicos emite nota de repúdio contra marco legal da indústria de games – “retrocesso incalculável”: o texto do PL 2.796/2021 regulamenta todos os aspectos do desenvolvimento de jogos eletrônicos no país, mas teria foco quase que exclusivo em fantasy games, como Cartola FC, desconsiderando os demais tipos de jogos, sem atender aos interesses de quem realmente está criando jogos no Brasil. A pauta está sendo votada na Comissão de Assuntos Econômicos nesta terça-feira. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Big Techs subestimaram o impacto dos princípios de código aberto na pesquisa de IAs: o rápido processo de iteração da comunidade tem criado modelos menores, mais eficientes e que podem rodar em PCs comuns, democratizando o ambiente de pesquisa e impedindo o controle da tecnologia por um pequeno grupo de corporações. Prova disso é o LLaMa da Meta, que vazou logo após seu lançamento e permitiu que programadores o melhorassem rapidamente. As informações são do site Slate.",
+            "url": ""
+        },
+        {
+            "text": "Novo data center modular do Serpro é o maior a receber certificação TIER 3 no Brasil: a instalação hospeda centenas de soluções do Governo – a certificação indica maior resiliência e disponibilidade, como paredes que suportam fogo e entrada de água e poeira. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança plataforma de “computação espacial” com óculos de realidade aumentada Vision Pro e novo sistema operacional visionOS: as impressões iniciais de quem usou o dispositivo têm sido muito positivas, tanto em termos de hardware quanto de software, superiores a qualquer outro dispositivo no mercado. O Vision Pro custa 3.499 dólares e será lançado no início de 2024 nos EUA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Reddit enfrenta protestos de comunidades após anunciar preço altíssimo para acesso à sua API: centenas de subreddits serão desativados por 48 horas a partir de 12 de junho. A empresa quer cobrar 12.000 dólares por 50 milhões de calls em sua API – para comparação, o site de armazenamento de imagens Imgur cobra 166 dólares pela mesma quantidade. A mudança inviabiliza o mercado de apps de terceiros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face incorpora nova família do modelo de linguagem de código aberto Falcon: a versão com 40 bilhões de parâmetros é considerada a primeira capaz de “rivalizar” com o GPT-4. O LLM foi desenvolvido pelo Technology Innovation Institute de Abu Dhabi. As informações são do blog da Hugging Face.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige nova falha zero-day de alta gravidade e já explorada no Chrome: a vulnerabilidade CVE-2023-3079 é do tipo “type confusion” na engine JavaScript V8. A versão corretiva é a 114.0.5735.110 para Windows e 114.0.5735.106 para Mac e Linux. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
