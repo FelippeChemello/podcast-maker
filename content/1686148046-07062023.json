@@ -1,0 +1,45 @@
+{
+    "title": "Excel faz político perder / Hacktivistas contra Outlook / ANPD investiga WhatsApp, Telegram e TikTok",
+    "fps": 30,
+    "timestamp": 1686148046,
+    "width": 0,
+    "height": 0,
+    "date": "07/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Erro em fórmula do Excel leva partido político a anunciar líder errado na Áustria: os resultados da eleição interna precisarem ser corrigidos após a contagem de cédulas de papel não corresponder ao que foi contabilizado digitalmente. As informações são do The Washington Post.",
+            "url": ""
+        },
+        {
+            "text": "Outlook sofre interrupções em meio a supostos ataques DDoS de “hacktivistas”: enquanto a Microsoft alega problemas técnicos, o grupo Anonymous Sudan diz ser responsável pela instabilidade do serviço, no que seria um protesto contra os EUA. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp, Telegram e TikTok estão sendo investigados pela ANPD: no caso do Telegram, a autoridade está verificando a conformidade com o tratamento de dados pessoais, no WhatsApp, o compartilhamento desses dados com o Facebook e Instagram, e no TikTok, especificamente dados de crianças e adolescentes. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Famoso investidor e criador do Netscape, Marc Andreessen, escreve novo artigo “Por que a IA salvará o mundo”: o texto ecoa ao famoso “Por que o software está devorando o mundo”, de 2011. Andreessen tem uma visão bastante positiva para a tecnologia, permitindo a ampliação da inteligência humana, com explosão da produtividade econômica, criando novas indústrias e empregos. As informações são do blog da a16z.",
+            "url": ""
+        },
+        {
+            "text": "Mais um ex-executivo do Google faz alerta sobre IAs: para Mo Gawdet, há uma alta probabilidade de algo “incrivelmente perturbador acontecer nos próximos dois anos”. Suas preocupações de curto prazo incluem a criação de deepfakes e a perda de empregos em massa causada por automações. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Satélite transmite energia solar do espaço para a Terra pela primeira vez: um feixe de micro-ondas de 200 miliwatts – menos energia do que o flash de uma câmera de celular – comprovou a viabilidade de coletar energia solar do espaço. As informações são da revista Science.",
+            "url": ""
+        },
+        {
+            "text": "Apple disponibiliza betas para desenvolvedores gratuitamente: agora basta um ‌Apple ID‌ comum para baixar e instalar os betas do iOS 17, iPadOS 17 e macOS Sonoma, sem esperar pelo lançamento de betas públicos ou possuir uma conta paga no programa Apple Developer. As informações são do site MacRumors.",
+            "url": ""
+        }
+    ]
+}
