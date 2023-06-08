@@ -1,0 +1,33 @@
+{
+    "title": "OpenAI tranquiliza Devs / Google: remoto vai acabar / Black Mirror + ChatGPT",
+    "fps": 30,
+    "timestamp": 1686234418,
+    "width": 0,
+    "height": 0,
+    "date": "08/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da OpenAI diz que a empresa não lançará mais produtos voltados para o consumidor além do ChatGPT: com a afirmação, Sam Altman assegura que a startup não irá competir com desenvolvedores que estão utilizando suas APIs para construir novos aplicativos. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Google segue tendência de outras empresas de tecnologia e quer acabar com trabalho remoto: de acordo com um memorando interno, a empresa está pedindo que seus funcionários voltem aos escritórios, considerando novas vagas remotas “apenas como exceção”. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Produtor da série Black Mirror tentou usar ChatGPT para escrever episódio, mas ficou decepcionado com o resultado: segundo Charlie Brooker, o sistema apenas criou um roteiro misturando informações das sinopses da série, sem adicionar “nenhum pensamento original”. A ferramenta, no entanto, o ajudou a perceber como poderia subverter as expectativas do que é esperado de um episódio da série. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind reaproveita IAs treinadas em jogos para otimizar código e infraestrutura no Google: IAs da série Alpha – especializadas em jogos como Go, xadrez e shogi – conseguiram diminuir a quantidade de hardware subutilizado em data centers em até 19%, reduzir a taxa de bits em vídeos do YouTube em 4% e melhorar os algoritmos de classificação do Google. Descobrir essa flexibilidade de uso em IAs já existentes torna a busca por uma “IA de uso geral” mais promissora. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
