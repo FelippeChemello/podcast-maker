@@ -1,0 +1,45 @@
+{
+    "title": "90% dos HDs destruídos / Aluguel de emails / Usar IA sem medo",
+    "fps": 30,
+    "timestamp": 1686320832,
+    "width": 0,
+    "height": 0,
+    "date": "09/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "90% dos discos rígidos são destruídos em vez de reutilizados ou reciclados: a maioria das empresas, especialmente data centers, prefere destruí-los por razões de segurança, mesmo que ainda estejam funcionando. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Criminosos lançam novo serviço para aluguel de emails válidos: o Kopeechka aluga o mesmo endereço de email para vários clientes – até que tenha sido usado para registrar contas na maioria dos principais serviços on-line – e facilita a criação de campanhas de spam em larga escala. As informações são do site KrebsOnSecurity.",
+            "url": ""
+        },
+        {
+            "text": "Adobe cobrirá custos legais relacionados a direitos autorais em imagens geradas por IA no Photoshop: a adição do recurso Firefly na ferramenta tem viralizado nas redes sociais, permitindo reimaginar seções realçadas de uma imagem por meio de prompts de texto. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Em reunião vazada, Mark Zuckerberg diz não ver nenhum grande avanço no Vision Pro da Apple: além disso, a ideia apresentada de como as pessoas usarão o dispositivo diverge daquilo que ele espera da tecnologia – novas maneiras de socializar, ser ativo e fazer coisas, em vez de ficar “sentado em um sofá, sozinho”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mais uma montadora de veículos adota padrão de carregadores da Tesla: seguindo o anúncio da Ford na semana passada, os elétricos da General Motors também terão acesso às 12 mil estações de carregamento da Tesla nos EUA e Canadá. A empresa vem tentando estabelecer sua porta de carregamento NACS (North American Charging Standard) como padrão em todo o mundo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp copia Telegram e lança novo recurso chamado Canais para seguir pessoas e organizações: a nova aba Atualizações, separada das conversas, incluirá os Canais e Status (cópia dos “Stories” do Instagram). Colômbia e Singapura serão os primeiros a implementar. As informações são do blog do WhatsApp.",
+            "url": ""
+        },
+        {
+            "text": "iOS 17 irá remover parâmetros de rastreamento de links automaticamente: o recurso – ativado por padrão nos apps Mail, Messages e no modo de navegação privada do Safari – consegue detectar quais partes da URL identificam o usuário e as remove, mantendo o restante do link intacto e funcional. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
