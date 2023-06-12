@@ -1,0 +1,45 @@
+{
+    "title": "SpaceX contrata adolescente / Plágio com Copilot / Crítica ao JavaScript",
+    "fps": 30,
+    "timestamp": 1686580052,
+    "width": 0,
+    "height": 0,
+    "date": "12/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "SpaceX contrata garoto prodígio de apenas 14 anos: Kairan Quazi, que saltou da terceira série para a faculdade aos 9 anos, irá trabalhar como engenheiro de software na divisão Starlink. Aos 10 anos, Quazi também trabalhou no laboratório de pesquisa da Intel. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "GitHub Copilot estaria fazendo pequenas alterações em códigos gerados para evitar plágio: o filtro seria em resposta ao processo legal iniciado no ano passado contra a Microsoft, GitHub e OpenAI – a ferramenta tem a propensão de reproduzir, linha por linha, blocos inteiros de código disponíveis em repositórios abertos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Criador do JSON continua duras críticas ao JavaScript: para Douglas Crockford, seria hora da indústria de software abandonar a linguagem. Sua principal queixa é a complexidade acumulada em cima de bases ruins, dificultando a engenharia de boas aplicações. Crockford já havia feito críticas similares no ano passado, mas entende que será muito difícil substituir o JavaScript. As informações são do site Browsertech Digest.",
+            "url": ""
+        },
+        {
+            "text": "Paul Graham, fundador da aceleradora de startups Y Combinator, afirma que CEOs mudaram de ideia sobre trabalho remoto: em seu perfil no Twitter, Graham defende que o trabalho remoto aparentemente funciona quando a empresa começa com um bom time presencial ou quando resolve problemas de recrutamento. Apesar disso, ele duvida que os escritórios voltem ao jeito como eram antes da pandemia, mas o trabalho remoto não será o padrão em empresas de tecnologia.",
+            "url": ""
+        },
+        {
+            "text": "STF adia temporariamente julgamento entre Apple e Gradiente pelo uso da marca iPhone no Brasil: a Gradiente registrou a marca no INPI antes do início das vendas do smartphone no país, em 2008 – o iPhone foi lançado em 2007. Até o momento, a votação está empatada, com 2 votos a 2. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores descobrem quatro vulnerabilidades críticas no jogo “Counter-Strike: Global Offensive”: combinadas, as falhas permitiam a execução de código remota. O patch de correção foi emitido somente 13 meses após a Valve ser notificada do problema, depois da ameaça de uma divulgação completa. As informações são do blog da Neodyme.",
+            "url": ""
+        },
+        {
+            "text": "IAs geradoras de código podem tornar o trabalho de programadores ainda mais complicado, discutem especialistas: uma das maiores preocupações seria o fenômeno chamado “code sprawl”, um crescimento desordenado das bases de código, dificultando o gerenciamento de tudo que está em produção. Outro problema será o aumento de responsabilidades em cima de cada desenvolvedor, que precisarão de novas especializações, como em machine learning, ciência de dados e QA. As informações são do site ZDNet.",
+            "url": ""
+        }
+    ]
+}
