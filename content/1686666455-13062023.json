@@ -1,0 +1,45 @@
+{
+    "title": "CEO contra volta do presencial / Vergonha do Clippy / Caixa preta das IAs aberta",
+    "fps": 30,
+    "timestamp": 1686666455,
+    "width": 0,
+    "height": 0,
+    "date": "13/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Atlassian vai na contramão de outras empresas de tecnologia e rechaça retorno aos escritórios: para Scott Farquhar, a exigência irá impactar a moral de equipes e aumentar a rotatividade de funcionários. Na Atlassian, 91% dos funcionários citam a flexibilidade no trabalho como “razão importante” para permanecer na empresa. Além disso, passar apenas alguns dias juntos seria o suficiente para aumentar o vínculo da equipe por vários meses. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Designer do Clippy admite ter vergonha de ter criado o assistente do Office: Kevan Atteberry nem mesmo o inclui em seu portfólio, mas admite que o trabalho abriu muitas portas em sua carreira. Ele relata ter criado 260 designs de personagens para o Office 97, com o Clippy passando em todos os testes e tornando-se o padrão. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI, DeepMind e Anthropic concordam em abrir “caixas pretas” de seus modelos de IA proprietários para pesquisas de segurança no Reino Unido: o país criará uma força-tarefa especializada na tecnologia e pretende sediar a primeira cúpula sobre segurança global de IA ainda este ano – o plano é tornar-se líder mundial na regulamentação desses sistemas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 8 mil comunidades do Reddit participam de protesto contra aumento do preço da API e acabam derrubando site: os problemas de estabilidade duraram algumas horas e foram resultado de milhares de subreddits colocados em modo privado. O protesto durará 48h, mas outras ações estão previstas caso a plataforma não se comprometa a flexibilizar o preço da API e viabilizar o mercado de apps de terceiros. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Agências de inteligência e espionagem dos EUA confirmam compra de vastos lotes de dados pessoais de cidadãos americanos: as informações estão todas disponíveis abertamente e de forma comercial, incluindo dados de veículos conectados, histórico de navegação e localização de smartphones. Apesar de os dados possuírem “claro valor de inteligência”, a prática levanta questões significativas relacionadas à privacidade e liberdades civis. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de lei na França permitirá acionamento de câmeras e microfones de smartphones remotamente, sem o conhecimento dos envolvidos: a ideia é que esse recurso seja autorizado apenas se a pessoa estiver sendo investigada, prevendo também o acesso a dados de geolocalização em tempo real. As informações são do site France Info.",
+            "url": ""
+        },
+        {
+            "text": "Edge envia todas as imagens visualizadas por usuários para a Microsoft: a justificativa é que o navegador aplicaria um efeito de “super-resolução”, aprimorando cada imagem, mas isso é feito em servidores externos e não localmente no dispositivo. O recurso é ativado por padrão, mas pode ser desabilitado em “Privacidade, Pesquisa e Serviços”, na aba “Configurações”. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
