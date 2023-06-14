@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: recorde em cripto / IA = menos gerentes / Devs adotam IAs em massa",
+    "fps": 30,
+    "timestamp": 1686752840,
+    "width": 0,
+    "height": 0,
+    "date": "14/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasil bate recorde em movimentação de moedas digitais: o volume transacionado em abril somou 19,6 bilhões de reais, o maior em quase dois anos e um salto de 60% em relação ao mesmo mês do ano passado. Cerca de 2 milhões de pessoas físicas já negociam cripto no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Um dos primeiros estudos sobre efeito das IAs nas empresas mostra nivelação organizacional: a tecnologia leva à contratação de funcionários juniores mais qualificados – especialmente nas disciplinas CTEM (ciência, tecnologia, engenharia e matemática) – com menos ênfase em cargos de gerência intermediária e sênior. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "92% dos desenvolvedores em grandes empresas já utilizam ferramentas de IA, mostra pesquisa do GitHub: 70% atestam benefícios significativos, ajudando-os a atender padrões de desempenho, aprimorar a qualidade do código e ter menos incidentes em nível de produção. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "IAs generativas colapsam à medida que modelos são treinados com conteúdo gerado por outros sistemas similares: como a internet está sendo inundada por textos e imagens artificiais, modelos de IA estão sendo treinados com essas informações, causando distorções irreversíveis, com respostas errôneas e menor variedade – o sistema acaba “esquecendo” o treinamento original, baseado em dados criados por humanos. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta primeiro modelo de IA generativa de imagens baseado em nova arquitetura proposta por seu cientista-chefe: a Image Joint Embedding Predictive Architecture (I-JEPA), de Yann LeCun, é mais similar a como os humanos aprendem ao observar o mundo ao seu redor, comparando representações abstratas de uma imagem como um todo, em vez de apenas seus pixels. A técnica pode permitir que máquinas realizem tarefas complexas e desconhecidas, adaptando-se rapidamente. As informações são do blog Meta AI.",
+            "url": ""
+        },
+        {
+            "text": "Com nova tática, hackers estão se passando por falsos pesquisadores de segurança para disseminar malware para Windows e Linux: PoCs de exploits falsos para vulnerabilidades zero-day têm sido publicados no GitHub e Twitter para softwares populares, como Chrome, Discord, Signal e WhatsApp, contendo um script Python malicioso. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI atualiza modelos e reduz preços de seus LLMs: o GPT-3.5-turbo teve sua janela de contexto expandida em quatro vezes (para 16 mil tokens) e, assim como o GPT-4, recebeu um recurso que permite a criação de códigos com base em descrições de funções de programação. Além disso, o preço das APIs foi reduzido em até 75% – o text-embedding-ada-002 agora custa 0,00001 de dólar por 1.000 tokens, por exemplo. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
