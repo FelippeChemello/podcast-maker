@@ -1,0 +1,45 @@
+{
+    "title": "IAs: explosão no PIB / Repositório gigante de PDFs / Brasil: fim da neutralidade de rede",
+    "fps": 30,
+    "timestamp": 1686839237,
+    "width": 0,
+    "height": 0,
+    "date": "15/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "IAs generativas poderão adicionar até 4,4 trilhões dólares por ano à economia global, conclui relatório da McKinsey: isso seria como acrescentar um novo país ao mundo, com PIB equivalente ao do Japão ou Alemanha. A tecnologia também poderia automatizar tarefas que absorvem até 70% do tempo de funcionários atualmente – em engenharia de software, o ganho de produtividade será de até 45%. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "NASA cria o maior repositório de PDFs do mundo para auxiliar em pesquisas de malware: no total, são 8 milhões de arquivos, com metadados, somando 8 terabytes. Agora, especialistas podem estudar ameaças ocultas no código e aprimorar a tecnologia de PDF. As informações são do site NASA JPL.",
+            "url": ""
+        },
+        {
+            "text": "Claro quer fim da neutralidade de rede no Brasil para obrigar grandes empresas de tecnologia a dividir custos das redes de telecomunicações: a justificativa é que, enquanto as operadoras de telefonia fazem grandes investimentos em infraestrutura, todo o tráfego é ocupado por essas plataformas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pelo menos um terço dos trabalhadores do Amazon Mechanical Turk, serviço de crowdsourcing para tarefas simples, já estão utilizando IAs: a situação é interessante porque o serviço existe especificamente para a realização de trabalhos que apenas humanos poderiam concluir confiavelmente . A descoberta reforça o risco de IAs sendo treinadas com dados gerados por IAs, como relatado na edição da Newsletter de ontem. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google Lens agora é capaz de identificar problemas de pele: a partir da versão 268.0, ao selecionar o recurso de Busca, o aplicativo apresenta correspondências visuais semelhantes, dando ao usuário mais informações sobre o possível problema, sem oferecer um diagnóstico médico. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft teria ignorado alertas da OpenAI e lançado chatbot do Bing antes da ferramenta estar pronta: na época de lançamento, a versão do GPT-4 não havia recebido treinamento adequado e poderia dar respostas imprecisas. A pressa teria sido motivada por preocupações de que o ChatGPT roubasse o sucesso do Bing Chat. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da IBM desenvolvem método para mitigar erros em computação quântica, inaugurando “era da utilidade” para a tecnologia: a equipe utilizou uma máquina com 127 qubits para simular o comportamento magnético de átomos, um problema muito complexo para ser calculado nos mais rápidos supercomputadores atuais – no experimento, o cálculo levou menos de um milésimo de segundo para ser concluído. As informações são do The New York Times.",
+            "url": ""
+        }
+    ]
+}
