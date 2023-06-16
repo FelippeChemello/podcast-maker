@@ -1,0 +1,45 @@
+{
+    "title": "Inesperado: Google e Squarespace / GPT-4 é “moda passageira” / Carbono vs chips",
+    "fps": 30,
+    "timestamp": 1686925623,
+    "width": 0,
+    "height": 0,
+    "date": "16/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "De surpresa, Google Domains é vendido para Squarespace: a princípio nada muda, mas todos os domínios, bem como serviços de cobrança e suporte, passarão a ser gerenciados pela Squarespace. Espera-se que a transação seja concluída no terceiro trimestre deste ano. As informações são do site de suporte do Google.",
+            "url": ""
+        },
+        {
+            "text": "Para cientista-chefe de IA da Meta, modelos atuais são apenas “moda passageira”: Yann LeCun acredita que os atuais temores de risco civilizatório são resultado de uma incorreta extrapolação da tecnologia atual para uma superinteligência. Sistemas como o GPT-4 “não são o futuro” e não são seguros – porque podem alucinar informações que não existem – e serão eventualmente substituídos por algoritmos melhores e mais robustos. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Fabricação de chips, não o consumo de energia, é responsável pela maior parte da emissão de carbono no ciclo de vida dos dispositivos eletrônicos: as f abricantes Samsung e TSMC anunciaram medidas agressivas para reduzir emissões e pretendem obter toda a sua energia de fontes renováveis até 2050. As informações são do Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 300 comunidades do Reddit decidem permanecer desativadas indefinidamente, após plataforma não reconsiderar aumento no preço de sua API: o protesto, inicialmente planejado para durar 48 horas, é uma tentativa de salvar apps criados por desenvolvedores independentes. O Reddit estaria planejando remover moderadores que apoiam a manifestação para forçar a reabertura dessas comunidades. As informações são do site The Independent.",
+            "url": ""
+        },
+        {
+            "text": "Google estaria treinando IA de nova geração Gemini com vídeos do YouTube: o amplo acesso a esses dados pode dar ao Google uma grande vantagem na corrida pela liderança na tecnologia. Ao integrar áudio e vídeo, o modelo também poderá adquirir capacidades multimodais, considerada a próxima fronteira na área. As informações são do site The Information.",
+            "url": ""
+        },
+        {
+            "text": "Intel apresenta novo processador Tunnel Falls com abordagem distinta para o desenvolvimento de computadores quânticos: a ideia é criar qubits (bits quânticos) baseados em silício, aproveitando décadas do desenvolvimento da tecnologia CMOS, fabricando wafers inteiros com uma taxa de rendimento acima de 95%. Por esse motivo, o processador possui apenas 12 qubits, mas o plano é ter milhares até 2027. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "World Wide Web Consortium apresenta proposta de padronização para autenticação de compras online: a Confirmação de Pagamento Seguro (SPC, na sigla em inglês) permite que comerciantes, bancos e redes de cartões reduzam o atrito no processo de autenticação. Uma primeira implementação já está disponível para os navegadores Chrome e Edge. As informações são do site da W3.",
+            "url": ""
+        }
+    ]
+}
