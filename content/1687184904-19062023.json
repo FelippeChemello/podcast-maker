@@ -1,0 +1,45 @@
+{
+    "title": "Reviravolta em IA da Meta / Desculpa para não programar / Teste de bug absurdo",
+    "fps": 30,
+    "timestamp": 1687184904,
+    "width": 0,
+    "height": 0,
+    "date": "19/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta estaria desenvolvendo modelo de linguagem open source e gratuito: a licença comercial será um incentivo para empresas que procuram por alternativas versáteis e mais acessíveis do que as disponibilizadas pelo Google e OpenAI. A vantagem para a Meta será a rápida melhoria dos modelos por meio de contribuições da comunidade. As informações são do site Artisana.",
+            "url": ""
+        },
+        {
+            "text": "Fundador da aceleradora de startups Y Combinator diz que IAs não são desculpa para não aprender a programar: “se você não quer aprender a programar, sempre pode encontrar um motivo”, disse Paul Graham em seu perfil no Twitter. Na geração passada, a “desculpa” era que todos os trabalhos de programação seriam terceirizados para a Índia, ele argumenta.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor inicializa Linux mais de 292 mil vezes para encontrar bug no kernel: a falha, presente na versão 6.4, é considerada uma regressão no recurso “printk time”, travando o boot do sistema cerca de uma a cada mil vezes, sendo mais comum em hardware Intel do que AMD. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Hackers ameaçam vazar 80 GB de dados confidenciais do Reddit caso a plataforma não pague resgate e reverta aumento no preço de sua API: o grupo BlackCat teria obtido acesso a informações de funcionários e documentos internos por meio de um ataque de phishing “altamente direcionado”, ocorrido no início deste ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Aplicar IAs no design de chips poderá dar novo fôlego à Lei de Moore, prevê especialista: o novo sistema seria treinado especificamente com dados dessa indústria. Essa ideia, de treinamento vertical, poderia ser aplicada por outros setores que detêm dados muito específicos, como o médico e automotivo, para dominarem em sua área. As informações são do site de Robert X. Cringely.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação estudam n ova arquitetura para o desenvolvimento de IAs: em comparação com redes neurais artificiais, a “computação hiperdimensional” permitiria a máquinas raciocinarem por analogia, sendo mais precisas, 250 vezes mais rápidas, 10 vezes mais tolerantes a falhas e mais transparentes, além de consumirem muito menos energia. As informações são da Quanta Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas japoneses estão desenvolvendo sistema alternativo ao GPS que pode oferecer navegação mesmo no subsolo ou embaixo d'água: o sistema muométrico de navegação sem fio (MuWNS) rastreia múons, partículas similares ao elétron, produzidas quando raios cósmicos entram na atmosfera da Terra e capazes de atravessar materiais sólidos. A precisão atual está entre 2 e 25 m. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
