@@ -1,0 +1,45 @@
+{
+    "title": "Programação não é com IA / Nova UI / Governo: fuga de talentos",
+    "fps": 30,
+    "timestamp": 1687271220,
+    "width": 0,
+    "height": 0,
+    "date": "20/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Para respeitado professor de Ciência da Computação, os atuais LLMs são bons o suficiente para muitas aplicações, mas não para programação: Bertrand Meyer – conhecido por suas contribuições a linguagens orientadas a objetos – compara sistemas como o ChatGPT a um “estudante universitário arrogante, inteligente (...) e rápido para se desculpar, mas completamente, invariavelmente, desleixado e não confiável”. As informações são do blog da Association for Computing Machinery.",
+            "url": ""
+        },
+        {
+            "text": "IAs generativas são o primeiro novo paradigma de interface do usuário em mais de 60 anos: no modelo Intent-Based Outcome Specification (IBOS), o usuário não diz mais ao computador o que fazer, mas informa o resultado desejado por meio de prompts. Ainda assim, o paradigma da interface gráfica do usuário (GUI) sobreviverá, mas de forma híbrida. As informações são do site do Nielsen Norman Group.",
+            "url": ""
+        },
+        {
+            "text": "Governo propõe nova Agência Nacional de Cibersegurança e quer oferecer salários mais altos para evitar fuga de talentos para fora do país: a medida está relacionada às mais de 300 mil vagas abertas em cibersegurança no Brasil. Ainda segundo a Associação Nacional dos Analistas de TI, 50% dos analistas de TI do governo foram perdidos nos últimos anos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Fabricantes de TV não investirão mais em tecnologia LCD daqui para frente: empresas como Samsung e LG estão direcionando pesquisas para telas autoemissivas, como MicroLED, OLED ou Mini-LED. As informações são do site Tom's Guide.",
+            "url": ""
+        },
+        {
+            "text": "Nova IA generativa de fala da Meta é muito perigosa para ser lançada publicamente, adverte a empresa: o Voicebox é o primeiro modelo capaz de sintetizar fala em seis idiomas, em alta qualidade e com uma variedade de estilos, sem a necessidade de treinamento específico. As informações são do blog Meta AI.",
+            "url": ""
+        },
+        {
+            "text": "Serviço de VPN Mullvad lança novo buscador web sem anúncios ou rastreamento de usuários: o Leta, disponível apenas para assinantes do serviço, funciona como um proxy para a API de busca do Google, armazenando resultados em cache, o que reduz custos e impede a identificação de usuários. Para buscas diretas não cacheadas, há um limite de 100 queries por dia. As informações são do blog da Mullvad.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft confirma que interrupções no Outlook e OneDrive, ocorridas no início deste mês, foram resultado de ataques DDoS: os “hacktivistas” do grupo Anonymous Sudan utilizaram infraestrutura de nuvem alugada e VPNs para bombardear os servidores da empresa. As informações são do site AP News.",
+            "url": ""
+        }
+    ]
+}
