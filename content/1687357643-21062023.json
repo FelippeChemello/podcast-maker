@@ -1,0 +1,45 @@
+{
+    "title": "Submarino e controle de videogame / IA prevê hits / Tempos sem internet",
+    "fps": 30,
+    "timestamp": 1687357643,
+    "width": 0,
+    "height": 0,
+    "date": "21/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Submarino desaparecido perto do Titanic é pilotado por um simples controle de videogame sem fio: o modelo Logitech F710, lançado há 13 anos para jogos de PC, ainda pode ser adquirido aqui no Brasil por 370 reais. Em um segmento para a rede de TV CBS no ano passado, o criador do veículo, Stockton Rush, mostra o dispositivo, com extensões impressas em 3D adicionadas aos thumb-sticks – “ós rodamos tudo com este controle”, ele afirmou. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores aliam neurofisiologia e aprendizado de máquina para prever quais músicas farão sucesso, com precisão de 97%: o resultado demonstra que seria possível aplicar dados neurais a uma IA para aumentar substancialmente as chances de prever se um produto será bem recebido pelo mercado alvo. O estudo completo pode ser lido no site da revista científica Frontiers.",
+            "url": ""
+        },
+        {
+            "text": "77% dos americanos entre 35 e 54 anos gostariam de voltar aos tempos em que não havia amplo acesso à internet e smartphones: 63% dos jovens de 18 a 34 anos concordam com a ideia. Essa vontade é menor para pessoas com mais de 55 anos (60% dos pesquisados). As informações são do site Fast Company.",
+            "url": ""
+        },
+        {
+            "text": "Músicas sintéticas, geradas puramente por IAs, não participarão das premiações do Grammy Awards: trabalhos contendo partes geradas, no entanto, ainda são elegíveis, desde que a autoria humana seja significativa e relevante. Indivíduos que programaram ou operaram a IA para gerar esses materiais também não são considerados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria considerando marketplace para modelos de IA personalizados: empresas poderiam adquirir LLMs para necessidades específicas, como detecção de fraudes financeiras, por exemplo. A loja também seria uma forma da OpenAI preparar-se para o momento em que nenhum modelo de IA terá dominância. As informações são do site The Information.",
+            "url": ""
+        },
+        {
+            "text": "Google alerta seus próprios funcionários a não utilizarem código gerado pelo chatbot Bard: o modelo produz “sugestões de código indesejadas”, alega um documento interno, levando mais tempo para resolver as inconsistências do que programar por conta própria. A revelação prejudica as alegações de que o sistema tornaria programadores mais produtivos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Para Hacker prodígio George Hotz, ao não revelar informações técnicas do GPT-4, OpenAI mostra que está “escondendo algo que não é tão interessante”: “é o que você faz quando está sem ideias”, afirma Hotz. A OpenAI justifica manter o número de parâmetros e dados de treinamento do GPT-4 em segredo por causa do cenário competitivo e implicações de segurança. Hotz acredita que a área agora irá trabalhar para tornar modelos menores mais eficazes. As informações são do perfil de Shawn Wang no Twitter.",
+            "url": ""
+        }
+    ]
+}
