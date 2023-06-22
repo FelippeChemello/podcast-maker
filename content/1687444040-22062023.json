@@ -1,0 +1,45 @@
+{
+    "title": "Novidade: Pix Automático / Telegram vs dark web / Celular mede febre",
+    "fps": 30,
+    "timestamp": 1687444040,
+    "width": 0,
+    "height": 0,
+    "date": "22/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Banco Central planeja lançar Pix Automático em abril de 2024: a nova modalidade permite pagamentos recorrentes automáticos, como contas de energia, telefone, escolas, academias, condomínios e serviços de streaming, sem a necessidade de autenticação do usuário a cada transação. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cibercriminosos estão migrando da dark web tradicional para canais do Telegram: a principal razão é a comodidade em operar o aplicativo – mais rápido que o Tor e com certo grau de anonimidade por meio de VPNs e efemeridade das mensagens. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores utilizam sensores de baterias dentro de smartphones para medir febre com precisão: em testes, pressionando a tela sensível ao toque contra a testa de pacientes por 90 segundos, o erro médio foi de apenas 0,23 graus Celsius, dentro da faixa clinicamente aceitável de 0,5°C. As informações são do site da Universidade de Washington.",
+            "url": ""
+        },
+        {
+            "text": "Controles de videogame são interface comum para operar máquinas pesadas e equipamentos militares: para além do submarino desaparecido, relatado na edição da Newsletter de ontem, esses dispositivos são muito usados em aplicações militares, em especial o controle do Xbox, pelo fato de muitos soldados estarem familiarizados com o jogo de tiro Halo, franquia exclusiva do console. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Waze quase foi comprado pela Meta em 2013: com o vazamento do negócio em portais de notícias, o Google fez uma oferta 15% maior de última hora (1,15 bi de dólares). A aquisição pela Meta não teria sido boa devido a problemas de relacionamento com Mark Zuckerberg e o time de engenheiros. As informações são do perfil de Noam Bardin na rede social Post.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pede publicamente por regulação de IAs, mas tem pressionado União Europeia para atenuar propostas de lei em seu favor, revelam documentos vazados: a startup conseguiu que seus sistemas não fossem classificados como de “alto risco”, argumentando que o ônus deveria recair sobre quem pretende aplicar IAs nesses casos de uso. As informações são da revista Time.",
+            "url": ""
+        },
+        {
+            "text": "Apple disponibiliza SDK para o visionOS: laboratórios também estão sendo montados em Cupertino, Londres, Munique, Xangai, Singapura e Tóquio para fornecer acesso físico ao hardware do Vision Pro antes do lançamento do dispositivo (no início do ano que vem) e permitir que desenvolvedores testem seus aplicativos nativamente. As informações são do site Apple Newsroom.",
+            "url": ""
+        }
+    ]
+}
