@@ -1,0 +1,45 @@
+{
+    "title": "iPhone: atualize já / Roubando talentos de Big Techs / RepoJacking no GitHub",
+    "fps": 30,
+    "timestamp": 1687530588,
+    "width": 0,
+    "height": 0,
+    "date": "23/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple corrige falhas de segurança zero-day de altíssima gravidade no iOS e macOS: as vulnerabilidades permitem a execução de código arbitrário no kernel e por meio do WebKit (CVE-2023-32434 e CVE-2023-32439) – a Apple afirma estar ciente de que esse problema já tenha sido explorado ativamente. As versões iOS 16.5.1 e macOS 13.4.1 corrigem as falhas. As informações são da página de suporte da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Pequenas empresas de tecnologia estão atraindo talentos de Big Techs ao garantir regime de trabalho remoto: 81% das organizações com menos de 5 mil funcionários permitem a modalidade – em comparação, apenas 26% das empresas com mais de 25 mil funcionários são flexíveis nesse sentido. As informações são do site Vox.",
+            "url": ""
+        },
+        {
+            "text": "9 milhões de repositórios no GitHub estariam vulneráveis a ataques do tipo RepoJacking, mostra pesquisa: criminosos podem criar um repositório com a denominação idêntica de um projeto que, anteriormente, havia alterado o seu nome, levando a potenciais ataques de supply chain. Os pesquisadores recomendam manter o controle de repositórios antigos para evitar problemas desse tipo. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "DuckDuckGo lança navegador para Windows com bloqueador de anúncios embutido: o recurso Duck Player também impede que usuários sejam rastreados ao assistir a vídeos no YouTube. O navegador, no entanto, não conta com suporte a extensões neste momento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Novo algoritmo permite que robôs aprendam apenas assistindo a vídeos de pessoas realizando tarefas domésticas: o VRB (Vision-Robotics Bridge) também não exige uma configuração idêntica à que o robô operará para executar tarefas como abrir gavetas, tirar panelas do fogão ou pegar objetos. A pesquisa tem grande potencial no desenvolvimento de robôs domésticos. As informações são do site da Carnegie Mellon University.",
+            "url": ""
+        },
+        {
+            "text": "Stable Diffusion XL 0.9 oferece detalhes de composição aprimorados e hiper-realistas: o sistema possui uma das maiores contagens de parâmetros em modelos open source (até 6,6 bi). O requisito mínimo é uma GPU GeForce RTX 20 com 8GB de VRAM. É possível testar o modelo  na plataforma ClipDrop e o acesso à API sai na semana que vem. As informações são do blog da Stability AI.",
+            "url": ""
+        },
+        {
+            "text": "Ofertas de emprego relacionadas a IAs dobram em comparação ao ano passado nos EUA: apenas no mês de maio, o crescimento foi de 20%. As funções com maior demanda são engenheiros de software e de aprendizado de máquina, além de cientistas de dados. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
