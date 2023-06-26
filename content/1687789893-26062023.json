@@ -1,0 +1,45 @@
+{
+    "title": "Microsoft: sistema cruel / CS50 com IA / Memória sem 0s e 1s",
+    "fps": 30,
+    "timestamp": 1687789893,
+    "width": 0,
+    "height": 0,
+    "date": "26/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft teve “década perdida” com cruel sistema de produtividade implantado no início dos anos 2000: funcionários com baixas métricas de desempenho (os 10% piores) eram demitidos a cada trimestre, independentemente da sua contribuição geral. Isso levava a uma forte competição interna e autossabotagem entre equipes, paralisando a companhia e abrindo espaço para o avanço exponencial do Google e Apple. O sistema foi abandonado em 2013. As informações são do perfil Trying Truly no Substack.",
+            "url": ""
+        },
+        {
+            "text": "Harvard vai implementar chatbot de IA como instrutor no CS50, seu principal curso em Ciência da Computação: o objetivo é fornecer suporte personalizado, como se cada aluno tivesse seu próprio professor, disponível 24h por dia. Segundo o professor David Malan, o bot ajudará com a correção de trabalhos entregues por alunos e bugs em códigos. As informações são do The Independent.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas ingleses desenvolvem novo tipo de memória de computador com potencial de até 100 vezes mais capacidade de armazenamento: a RSE (Resistive Switching Memory) cria uma gama contínua de estados, em vez dos tradicionais zeros e uns. A tecnologia é semelhante às sinapses cerebrais – armazenando e processando informações no mesmo local – o que torna seu uso promissor em IAs. As informações são da Universidade de Cambridge.",
+            "url": ""
+        },
+        {
+            "text": "Equipe de Fórmula E é pega utilizando scanner RFID para coletar dados de pneus de competidores: a equipe DS Penske conseguia captar as informações de todos os veículos que entravam para um pit stop, obtendo uma vantagem injusta ao rastrear condições como temperatura e pressão dos pneus. Chips RFID têm sido usados na Fórmula E desde a criação da categoria de competição exclusivamente elétrica. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Satélite brasileiro quebra recorde mundial ao completar mais de 30 anos de operação: lançado ao espaço em 1993, o SCD-1 recebe e retransmite dados ambientais para estações terrestres. É também pouco provável que o recorde seja batido, devido à complexidade dos satélites modernos. As informações são do site GovBR.",
+            "url": ""
+        },
+        {
+            "text": "Nova Agência Nacional de Cibersegurança, proposta pelo Governo, quer mitigar 85% dos ataques: o principal trabalho será verificar os setores da economia nacional mais vulneráveis e aprimorá-los. Para isso, será preciso ampliar e qualificar profissionais de TI, especialmente na esfera governamental. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft emite alerta para campanha de CriptoJacking em sistemas Linux e dispositivos IoT: o vetor do ataque é uma versão trojanizada do OpenSSH, utilizando a máquina da vítima para minerar moedas digitais. As informações são do site CISO Advisor.",
+            "url": ""
+        }
+    ]
+}
