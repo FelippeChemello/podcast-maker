@@ -1,0 +1,45 @@
+{
+    "title": "Windows: mudança drástica / Controvérsia com Black Mirror / Gemini vs ChatGPT",
+    "fps": 30,
+    "timestamp": 1687876236,
+    "width": 0,
+    "height": 0,
+    "date": "27/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apresentação vazada mostra que a Microsoft pretende transformar o Windows em um sistema totalmente baseado na nuvem: além de segurança adicional, a mudança permitiria entregar serviços aprimorados de IA e “responder à ameaça do Chromebook”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Buscas sobre termos e condições da Netflix disparam em mais de 1.500% após episódio “A Joan é Péssima” de Black Mirror: não vamos estragar a história para quem ainda não assistiu à série, mas ironicamente, logo após sua estreia, a empresa lançou uma experiência virtual chamada “You Are Awful” (Você é Péssimo), na qual os usuários faziam o upload de suas próprias fotos, autorizando, talvez sem perceber, seu uso para fins comerciais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind acredita que seu novo modelo será muito superior ao ChatGPT: ainda em desenvolvimento, o Gemini combina técnicas de aprendizado do AlphaGo, primeiro sistema a derrotar um jogador humano profissional no jogo de tabuleiro Go, e LLMs para permitir novas funcionalidades, como a capacidade de planejar e resolver problemas. As informações são da revista Wired.",
+            "url": ""
+        },
+        {
+            "text": "NASA e mineradoras disputam território rico em lítio: a bacia de Railroad Valley é o único local nos EUA com todas as características necessárias para a calibração de satélites. O território, no entanto, também é um dos 10 maiores depósitos de lítio do mundo, o que triplicaria os atuais recursos do país. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Infraestrutura de comunicação com satélites pode eliminar necessidade de cabos submarinos para transmissão de dados entre continentes: cientistas suíços utilizaram lasers para transmitir dados a 1 Tbps em uma distância de 53 km. A tecnologia tem o potencial de permitir conexões de backbone muito mais econômicas e rápidas por meio de constelações de satélites. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Após investigação, aplicativo para organização de eventos IRL descobre que 95% de seus 20 milhões de usuários eram falsos: durante a última rodada de investimentos, a startup havia sido avaliada em 1,2 bilhão de dólares. A administração decidiu encerrar as operações do aplicativo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Durante fase de testes, Google pede que anunciantes não abusem da nova API de publicidade direcionada no Chrome: o Topics, previsto para chegar com o Chrome 115 em julho, promete oferecer mais privacidade que cookies de terceiros, mas pode ser vulnerável a ataques do tipo fingerprinting, identificando usuários. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
