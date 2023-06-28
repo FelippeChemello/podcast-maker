@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: descaso com npm / Red Hat: raiva na comunidade / Devs + IAs para sempre",
+    "fps": 30,
+    "timestamp": 1687962616,
+    "width": 0,
+    "height": 0,
+    "date": "28/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "npm é vulnerável a novo tipo de ataque potencialmente grave, mas GitHub parece não se importar: o desenvolvedor Darcy Clarke, gerente de engenharia no GitHub até o final do ano passado, descobriu que a ferramenta CLI do npm não valida o manifesto de determinado módulo com os arquivos efetivamente baixados e instalados (algo que ele chama de “manifest confusion”), permitindo ataques do tipo supply chain. O GitHub já sabe do problema há pelo menos sete meses, sem nenhum tipo de solução. Inclusive, Clarke sugere que o GitHub parece não ter mais interesse no registro. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Em meio à controvérsia, Red Hat tenta apaziguar comunidade open source após plano de assinatura e mudanças em licenças que potencialmente limitarão uso do código fonte do RHEL: a empresa nega as acusações de outras distros, como AlmaLinux e Rocky Linux, comprometendo-se com o desenvolvimento open source, mas acredita que “parte da raiva” da comunidade está vindo daqueles que “não querem pagar pelo tempo, esforço e recursos” injetados no desenvolvimento da plataforma. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Para CEO do GitHub, IAs e desenvolvimento de software agora estão “inextricavelmente ligados pelo resto de nossas vidas”: para Thomas Dohmke, o Copilot será parte do conjunto de ferramentas padrão de todo desenvolvedor  – aqueles que não o utilizam continuarão existindo, “da mesma forma que programadores de COBOL ainda existem”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GSMA estima que há 5 bilhões de aparelhos celulares abandonados em gavetas em todo o mundo: esses dispositivos contêm 50.000 toneladas de cobre, 500 toneladas de prata e 100 toneladas de ouro, além de cobalto o suficiente para dez milhões de baterias de veículos elétricos. O plano agora é reciclar 100% dos aparelhos coletados em esquemas de troca nas operadoras de telefonia até 2030. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Apple, WhastApp e Signal ameaçam deixar Reino Unido caso projeto de lei de segurança online seja aprovado: o governo do país quer exigir acesso a qualquer sistema criptografado de ponta a ponta, o que atingiria especialmente os aplicativos de mensagens, colocando a privacidade e segurança de todos os usuários em risco. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Em discussões privadas com desenvolvedores, OpenAI diz que pretende transformar ChatGPT em “assistente pessoal superinteligente”: a ideia é carregar o sistema com informações atualizadas sobre o trabalho de cada usuário e permitir a automação de tarefas como redigir emails e documentos com um estilo de escrita similar. As informações são do site The Information.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia novo fundo para apoiar estúdios de jogos independentes na América Latina: o Indie Games Fund contará com apoio técnico, treinamento e investimentos de até 200 mil dólares por projeto. Datas e regras para inscrição serão divulgadas em breve. As informações são do site TecMundo.",
+            "url": ""
+        }
+    ]
+}
