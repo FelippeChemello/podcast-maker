@@ -1,0 +1,45 @@
+{
+    "title": "Problema: IA e anúncios / Metaverso flopado / Remoto: empresas surpresas",
+    "fps": 30,
+    "timestamp": 1688048890,
+    "width": 0,
+    "height": 0,
+    "date": "29/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sites inúteis, gerados completamente por IAs, são um novo problema para publicidade digital: mais de 140 grandes marcas estão veiculando anúncios em sites de baixa qualidade, desperdiçando grande parte do seu orçamento sem seu conhecimento – em apenas um caso, um site produzia 1.200 artigos por dia. O Google argumenta que conteúdo gerado sinteticamente não é uma violação inerente de suas regras, mas reconhece que maus atores estão sempre mudando de táticas, alavancadas por novas tecnologias. As informações são do site MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "Adoção do metaverso pelas empresas estagnou, mostra pesquisa: a realidade virtual em ambientes não relacionados a jogos não tem atendido às expectativas, nem mesmo para a Geração Z – pessoas nascidas entre 1996 e 2010, e o único grupo com maior interesse na tecnologia – com 85% não interessados em ver marcas operando dentro do metaverso. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Empresas estão surpresas com a reação negativa dos funcionários em relação às políticas de retorno ao escritório: uma pesquisa com 9.500 empresas em 17 países, mostra que 42% delas têm visto uma taxa de rotatividade maior do que o previsto e 29% estão enfrentando problemas de recrutamento. As informações são do site Entrepreneur.",
+            "url": ""
+        },
+        {
+            "text": "Visa adquire startup brasileira de infraestrutura de pagamentos Pismo por 1 bilhão de dólares, em um dos maiores negócios do ano: a empresa, fundada em 2016, processa quase 50 bilhões de chamadas de API e 40 bi de dólares em volumes de transação anualmente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tuítes escritos por IAs são mais convincentes do que os escritos por humanos, mostra nova pesquisa: para 697 participantes, o GPT-3 conseguiu produzir informações precisas e mais fáceis de entender – em contrapartida, produz desinformação de forma mais convincente. Os participantes também não conseguiam distinguir entre tuítes gerados pelo GPT-3 e os escritos por usuários reais. O estudo completo está disponível no site da revista científica Science.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, um grande modelo de linguagem (GPT-3) participa do benchmark MLPerf, considerado as “Olimpíadas do Machine Learning”: as GPUs H100 da Nvidia completamente dominaram, sendo até 3,6 vezes mais rápidos do que os chips Habana Gaudi2 da Intel. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Hugging Face defende desenvolvimento de IAs de código aberto em audiência parlamentar nos EUA: Clement Delangue argumentou que o progresso atual da tecnologia se deve a projetos de código aberto, como PyTorch, Tensorflow e pesquisas em técnicas como transformadores (ChatGPT e Bard) e difusores (DALL-E e Stable Diffusion). As informações são do site VentureBeat.",
+            "url": ""
+        }
+    ]
+}
