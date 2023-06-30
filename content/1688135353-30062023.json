@@ -1,0 +1,45 @@
+{
+    "title": "Surpresa: café vs cafeína / Gafe de segurança / Nova queridinha de IA",
+    "fps": 30,
+    "timestamp": 1688135353,
+    "width": 0,
+    "height": 0,
+    "date": "30/06/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Experiência de beber café – e não a cafeína – é o que aumenta a conectividade em partes do cérebro ligadas à memória, controle cognitivo e comportamento direcionado a objetivos, mostra nova pesquisa: o efeito não foi observado com a ingestão isolada de cafeína, sugerindo que os efeitos podem ser mais psicológicos do que físicos. Os pesquisadores acreditam que o café descafeinado pode oferecer os mesmos benefícios cognitivos para aqueles que não desejam ou não podem consumir cafeína. As informações são do site Medical Xpress.",
+            "url": ""
+        },
+        {
+            "text": "Na tentativa de resolver um problema técnico, escola nos EUA redefine a senha de todos os alunos de uma só vez, mas escolhe uma igual para todo mundo: a senha “Ch@ngeme!” (algo como “Tr@queme!”) permitia a qualquer estudante acessar a conta Gmail e Drive dos outros, com todos os emails e arquivos. O problema foi descoberto um dia depois. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bill Gates, Eric Schmidt (ex-CEO do Google) e Reid Hoffman (fundador do LinkedIn) participam de rodada de investimentos da Inflection AI: a startup levantou 1,3 bilhão de dólares para construir um dos maiores clusters de treinamento de IA do mundo e lançar seu primeiro produto, um assistente pessoal chamado Pi. A empresa foi fundada por Mustafa Suleyman, co-fundador do Google DeepMind. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube testa sistema de “3 strikes” para quem assiste a vídeos com bloqueador de anúncios ativado: o site limitará a reprodução após três vídeos, solicitando a desativação do ad blocker ou compra de uma assinatura premium. A ação é parte de um experimento global. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google e Meta decidem remover links para portais de notícias de seus serviços após aprovação de nova lei no Canadá: até o final deste ano, grandes empresas de tecnologia serão obrigadas a pagar a editores de notícias canadenses apenas por exibir links nas páginas de Busca do Google ou postadas no Facebook e Instagram, por exemplo. O Google considera a decisão de “colocar um preço em links” como “sem precedentes”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "França quer integrar listas para bloqueio de sites de pirataria diretamente nos navegadores: embora a ação seja bem-intencionada, a Mozilla adverte que isso seria desastroso para a internet como um todo, criando uma “capacidade técnica distópica” a controle do estado e definindo um precedente que pode ser usado indevidamente no futuro. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Corrupção de memória continua como tipo de vulnerabilidade mais comum e mais grave: na lista “CWE Top 25”, compilada pela MITRE para 2023, as falhas subsequentes mais comuns são cross-site scripting e SQL injection. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
