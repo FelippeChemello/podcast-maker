@@ -1,0 +1,45 @@
+{
+    "title": "Sol: ameaça à internet / IA irrita telemarketing / Microsoft: computação analógica",
+    "fps": 30,
+    "timestamp": 1688394599,
+    "width": 0,
+    "height": 0,
+    "date": "03/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fortes tempestades solares poderiam causar apagão mundial da internet por vários meses: o fenômeno é raro, mas em 1859, uma grande ejeção de massa coronal solar, conhecida como Evento Carrington, fez os sistemas telegráficos em toda a Europa e América do Norte entrarem em pane – em nossa era digital, um evento similar seria catastrófico. A cada 11 anos, o Sol entra em um período particularmente ativo conhecido como “máximo solar”, com o próximo previsto para 2025. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Novo serviço nos EUA usa ChatGPT para desperdiçar o tempo de operadores de telemarketing: usuários da Jolly Roger Telephone podem encaminhar as chamadas para um número único associado às suas contas, utilizando diferentes personalidades para manter os atendentes na linha o máximo de tempo possível. As informações são do site Techspot.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft desenvolve computador óptico analógico que não usa transistores para processar dados: o Analog Iterative Machine, no entanto, não foi projetado para tarefas de computação de uso geral, mas para analisar combinações de problemas exponencialmente crescentes, algo comum nas áreas de finanças, logística, transporte, energia, saúde e manufatura. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Twitter limita, temporariamente, quantidade de tuítes que usuários podem visualizar por dia em medida emergencial para conter scraping de dados “extremo”: em seu perfil na rede social, Elon Musk já havia afirmado no passado que todas as redes sociais precisarão eventualmente ficar atrás de paywalls para evitar o scrapping desenfreado no treinamento de IAs. O desenvolvedor Sheldon Chang, no entanto, também notou outra fonte de tráfego incomum – um bug no aplicativo web do Twitter que estaria enviando requests em um loop infinito. As informações são do blog Waxy de Andy Baio.",
+            "url": ""
+        },
+        {
+            "text": "Humane, startup misteriosa fundada por ex-funcionários da Apple, revela mais detalhes sobre seu primeiro dispositivo inteligente vestível: o Ai Pin pode ser fixado na roupa do usuário e foi concebido para resumir emails, realizar traduções em tempo real e reconhecer objetos ao seu redor, como rótulos nutricionais de alimentos. O mini projetor embutido ilumina uma interface interativa em superfícies próximas, como a palma da mão ou uma mesa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Startup de biotecnologia inicia testes clínicos em humanos com primeira medicação totalmente concebida por IA: o INS018_055 é um tratamento para fibrose pulmonar idiopática desenvolvido pela Insilico Medicine, baseada em Hong Kong. As informações são do site CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Adoção de CPUs AMD entre gamers Linux ultrapassa Intel: a última pesquisa da Steam mostra um salto de 45% para 67% do mercado em apenas um ano, resultado da crescente popularidade dos modelos Ryzen e o comprometimento da empresa com drivers de código aberto. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
