@@ -1,0 +1,45 @@
+{
+    "title": "Gênio usa ChatGPT / Descoberta importante / Brasileiros criam jogo terapêutico",
+    "fps": 30,
+    "timestamp": 1688481060,
+    "width": 0,
+    "height": 0,
+    "date": "04/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Um dos matemáticos mais brilhantes do mundo está usando ChatGPT para estudar: Terence Tao – com um QI atribuído entre 230 a 250 – afirma que o GPT-4 já consegue gerar sugestões promissoras e mesmo quando algo sem sentido é gerado, geralmente o sistema faz referência a conceitos relevantes. Tao acredita que nos próximos anos esses modelos serão listados como coautores em estudos científicos em diversos campos do conhecimento. As informações são do blog Microsoft Unlocked e Wikipédia.",
+            "url": ""
+        },
+        {
+            "text": "Enorme reserva de rocha fosfática é descoberta na Noruega, suficiente para atender a demanda global de baterias e painéis solares pelos próximos 100 anos: o depósito de 70 bilhões de toneladas encontra-se junto a outros minerais estratégicos, como titânio e vanádio. As informações são do site Independent.",
+            "url": ""
+        },
+        {
+            "text": "Jogo desenvolvido por pós-graduandos em Engenharia Biomédica da Universidade Federal de Uberlândia promove o tratamento de pacientes com doença de Parkinson: no RehaBEElitation, os pacientes usam as mãos para controlar uma abelha em um mundo 3D, realizando movimentos terapêuticos – o jogo foi vencedor do prêmio “Challenge Handicap &amp; Technologie” na França. As informações são do Portal Comunica UFU.",
+            "url": ""
+        },
+        {
+            "text": "Até 20% do tempo dos usuários são gastos resolvendo problemas com seus computadores, mostra estudo: a maioria das frustrações é ligada a tarefas comuns, como sistemas lentos, travamento ou dificuldade para encontrar arquivos. Os pesquisadores sugerem a necessidade de repensar os sistemas operacionais, envolvendo mais os usuários em seu desenvolvimento. As informações são site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Instagram lançará Threads, concorrente do Twitter, nesta quinta-feira (6 de julho): a nova rede social será um aplicativo independente, mas irá integrar seguidores e quem o usuário está no Instagram. Supostamente, o Threads também seria compatível com a rede descentralizada do Mastodon. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google atualiza política de privacidade para realizar scraping de tudo o que for postado publicamente online: a nova cláusula, adicionada no sábado passado, é incomum para uma política de privacidade, mas parece afirmar explicitamente que Google se reserva no direito de coletar e utilizar dados disponíveis em qualquer parte da web pública para o desenvolvimento de novas tecnologias (entenda-se o treinamento de IAs). As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros descobrem nova forma distinta de silício: o Q-silicon exibe ferromagnetismo à temperatura ambiente, crucial para o desenvolvimento da spintrônica (armazenamento de dados no spin dos elétrons), além de demonstrar maior dureza e supercondutividade, características que podem beneficiar a computação quântica. As informações são da Universidade Estadual da Carolina do Norte.",
+            "url": ""
+        }
+    ]
+}
