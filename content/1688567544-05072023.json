@@ -1,0 +1,45 @@
+{
+    "title": "AGI: sonho distante / Brasileiro otimista / Holanda bane celular em aulas",
+    "fps": 30,
+    "timestamp": 1688567544,
+    "width": 0,
+    "height": 0,
+    "date": "05/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apesar do hype, a Inteligência Artificial Geral – com capacidade similar à humana – continua um “sonho distante”, acreditam cientistas cognitivos: o Teste de Turing – quando uma máquina tenta se passar por um ser humano através de uma sessão de perguntas e respostas – não seria um bom método para avaliar a capacidade de cognição de IAs. Outro problema dos grandes modelos de linguagem seria a abordagem de imitar apenas aspectos da linguagem que são orientados estatisticamente, em vez de tentar entender sua estrutura ou sua capacidade de acumular conhecimento. Esses conceitos são relacionados à engenharia ou ciência da computação, em vez de pautados na ciência cognitiva ou psicologia. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Profissionais brasileiros são os mais otimistas do mundo em relação ao impacto de IAs no trabalho: 70,6% expressam uma visão positiva, seguidos por Índia (60%), e Oriente Médio (58%). Os menos otimistas são os EUA (46%), Holanda (44%) e Japão (40%). Além disso, 77,3% dos brasileiros acreditam que os benefícios da tecnologia superam os riscos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Holanda estuda banir uso de smartphones em salas de aula: os dispositivos ainda poderão ser usados se forem necessários para a aula ou por necessidade médica – se um estudante com diabetes precisar monitorar sua glicemia por meio do aparelho, por exemplo. A nova legislação ganhou força após os professores alertarem que são incapazes de manter os smartphones fora da sala de aula por conta própria. As informações são do site NL Times.",
+            "url": ""
+        },
+        {
+            "text": "Threads, nova rede social da Meta, levanta preocupações devido à extensa coleta de dados dos usuários: além das informações tradicionais, como contatos, localização e histórico de navegação, o aplicativo reúne outros 11 pontos de dados, como saúde/condicionamento físico, informações financeiras e confidenciais. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI interrompe temporariamente navegação web do ChatGPT, após identificar que funcionalidade conseguia burlar paywalls: quando era solicitado especificamente pelo texto completo de uma URL em portal de notícias pago, por exemplo, o sistema inadvertidamente atendia à solicitação – não ficou claro como isso era possível. A OpenAI não disse quando a funcionalidade será restaurada. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Apple reduz drasticamente previsão de produção do headset Vision Pro devido a dificuldades no processo de fabricação: a expectativa inicial de 1 milhão de unidades para 2024 foi reduzida em 60% – o maior problema está na complexidade das telas micro-OLED do dispositivo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta verifica vulnerabilidades do tipo “manifest confusion” em módulos npm: o problema, revelado na semana passada, é a possibilidade de diferenças entre o manifesto de determinado módulo com os arquivos efetivamente baixados e instalados. O script, escrito em Python pelo pesquisador de segurança Felix Pankratz, está disponível no repositório “panki27/npm-manifest-check” no GitHub. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
