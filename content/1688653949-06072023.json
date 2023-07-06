@@ -1,0 +1,45 @@
+{
+    "title": "Notícia boa: Devs + IA / Real Digital no GitHub / Microsoft nega violação",
+    "fps": 30,
+    "timestamp": 1688653949,
+    "width": 0,
+    "height": 0,
+    "date": "06/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo liderado pelo GitHub aponta que o Copilot pode impulsionar o PIB global em 1,5 trilhão de dólares até 2030: a conclusão se baseia na análise da atividade de um milhão de desenvolvedores no GitHub e a taxa de 30% na aceitação das sugestões feitas pelo gerador de código – esse aumento na produtividade pode ser aproveitado para atender à crescente demanda por software no mundo. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central lança repositório com documentação e arquivos de configuração para projeto piloto do Real Digital: a documentação será complementada conforme o feedback dos participantes no programa, mas já contém a delineação da arquitetura, rede de conexão e exemplos de interação com smart contracts. Mais informações se encontram no repositório “bacen/pilotord-kit-onboarding” no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft nega violação e roubo de 30 milhões de credenciais de clientes: a empresa, entretanto, admite que o grupo hacktivista Anonymous Sudan foi responsável pelas interrupções no Azure, Outlook e OneDrive no mês passado. Os criminosos pedem 50 mil dólares pelos dados, mas sua origem não pôde ser verificada. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg comemora 10 milhões de inscritos em apenas 7 horas na nova rede social Threads: o processo de migração de contas do Instagram tem acontecido basicamente sem nenhum problema, e em seu perfil no Twitter, o desenvolvedor Łukasz Langa, atentou para o fato do backend do Threads ser um fork do Cinder, uma versão do CPython 3.10, desenvolvida internamente pela Meta, com várias otimizações de desempenho.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI está formando equipe que irá controlar futuras IAs superinteligentes: para Ilya Sutskever, cientista-chefe da startup, o grande problema seria a incapacidade de seres humanos supervisionarem IAs muito mais inteligentes do que nós, algo que prevê já para o final desta década. O programa “Superalinhamento” irá alocar 20% da capacidade de computação da startup em avanços científicos e técnicos para orientar essas super inteligências. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Computador quântico do Google resolve problema difícil de ser resolvido por computadores clássicos: o Sycamore, com um total de 70 qubits operacionais – equivalente aos bits clássicos, mas representando 0 ou 1 ao mesmo tempo –  realizou um cálculo que levaria o Frontier, o supercomputador mais rápido da atualidade, 47 anos para concluir – algo chamado de supremacia quântica. As informações são do site ScienceAlert.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem técnica para captar luz refletida nos olhos e extrair modelo tridimensional do ambiente ao redor: o processo envolve um modelo de IA chamado NeRF e a captação de algumas dezenas de imagens de um indivíduo em diferentes ângulos. Em um teste com videoclipes das cantoras Miley Cyrus e Lady Gaga, o método conseguiu recriar objetos dos set de filmagem. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
