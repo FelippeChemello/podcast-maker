@@ -1,0 +1,45 @@
+{
+    "title": "Maior imposto sobre software / 1ª multa LGPD / Chamada pública em cibersegurança",
+    "fps": 30,
+    "timestamp": 1688740233,
+    "width": 0,
+    "height": 0,
+    "date": "07/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Entidades de TI divulgam manifesto contra PEC 45/2019: a proposta de reforma tributária substitui o ISS e PIS/COFINS pelo novo IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços), aumentando a carga de impostos para as empresas de software, internet e serviços digitais em até 189%, inviabilizando inúmeros desses negócios no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Três anos após a sua aprovação, Autoridade Nacional de Proteção de Dados aplica primeira multa por violação da LGPD: a empresa penalizada é do setor de telefonia e recebeu uma multa de 14 mil reais por infringir três artigos da Lei Geral de Proteção de Dados – ausência de registro de operações, não envio de Relatório de Impacto de Proteção de Dados, ausência de encarregado de dados pessoais – e por não cumprir solicitações durante a fiscalização. As informações são do site Security Report.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de ativistas descobre como desativar robotáxis da Cruise e Waymo colocando cones de trânsito em seus capôs: o protesto é contra a expansão dos serviços na cidade de São Francisco (EUA), alegando que os veículos autônomos atrapalham a circulação de veículos de emergência e o tráfego diário quando param de funcionar, situação frequente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Rede Nacional de Ensino e Pesquisa anuncia chamada pública para apoiar o desenvolvimento de produtos ou artefatos para treinamento na área de cibersegurança: o programa faz parte da iniciativa Hackers do Bem, lançada no final de junho. Os projetos selecionados receberão orientação empresarial e bolsa de 11 mil reais por mês. Grupos de pesquisa de instituições de ensino superior e startups podem submeter propostas até 16 de agosto. As informações são do site da RNP.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT e IBM instruem redes neurais a imitar como cérebro humano processa imagens, obtendo melhorias significativas: o modelo de visão computacional consegue identificar objetos de forma mais robusta, sendo também mais resistente a ataques adversários – quando anomalias inseridas maliciosamente acabam gerando um comportamento não esperado no modelo já treinado. As informações são do Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Interpretador de código estará disponível para todos os usuários do ChatGPT Plus na próxima semana: o modelo usa Python para analisar dados, montar gráficos e fazer cálculos matemáticos. Também será possível fazer o upload de arquivos para o processamento dos dados. As informações são do perfil da OpenAI no Twitter.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla desativa recém lançada funcionalidade AI Explain no MDN: a ferramenta permitia que usuários fizessem perguntas ao chatbot sobre exemplos de código na página de documentação, mas era propensa a muitos erros. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
