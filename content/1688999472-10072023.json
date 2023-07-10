@@ -1,0 +1,45 @@
+{
+    "title": "Videogame e violência / Robots.txt / Desaprendizado de Máquina",
+    "fps": 30,
+    "timestamp": 1688999472,
+    "width": 0,
+    "height": 0,
+    "date": "10/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Presidente francês Emmanuel Macron atribui recente onda de protestos no país a videogames violentos: para Macron, os jogadores estão “ivenciando nas ruas, os videogames que os intoxicara”. No entanto, pesquisas realizadas nas últimas décadas não indicaram relação causal entre jogos e comportamento violento. As informações são da NPR.",
+            "url": ""
+        },
+        {
+            "text": "Google inicia discussão pública para atualizar o “robots.txt” na era das IAs: o Protocolo de Exclusão de Robôs – criado há quase 30 anos – informa aos web crawlers quais diretórios de um site não devem ser visitados. A intenção é criar um novo controle para impedir que o conteúdo de um site seja utilizado para treinar IAs. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Google lança primeiro “Desafio do Desaprendizado de Máquina”: a competição irá reunir um amplo grupo de pesquisadores acadêmicos e do setor de IA para considerar um cenário no qual, após o treinamento, um certo subconjunto das imagens deve ser esquecido para proteger a privacidade ou direitos autorais. As informações são do blog Google Research.",
+            "url": ""
+        },
+        {
+            "text": "Google está testando IA específica para assuntos médicos no Mayo Clinic, hospital mais respeitado dos EUA: o Med-PaLM 2 foi projetado para responder a perguntas relacionadas à saúde e pode ser particularmente útil em países com acesso limitado a profissionais de saúde. Apesar de apresentar problemas, o modelo tem obtido resultados similares a médicos reais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Threads quebra recorde do ChatGPT e alcança marca de 100 milhões de usuários em apenas cinco dias: o ChatGPT levou dois meses para atingir a mesma marca. O Threads tem a vantagem de ser uma rede social derivada do Instagram, o que facilita o processo de inscrição. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Base de usuários do ChatGPT registra primeira queda: a diminuição de 10% em junho sugere um declínio no interesse pelo chatbot. Outra explicação seriam as férias de verão no hemisfério norte, com menos alunos utilizando a ferramenta em trabalhos acadêmicos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "ANPD manifesta interesse em ser autoridade reguladora da inteligência artificial no país: em uma análise preliminar do Projeto de Lei 2338/23, a ANPD atuaria como regulador-chave na área, enfatizando a necessidade de se garantir maior segurança jurídica e convergência regulatória entre a proteção de dados pessoais e IAs. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
