@@ -1,0 +1,49 @@
+{
+    "title": "Planos de celular vão mudar / Linux é 3% / ​​​​Algoritmo inspirado na natureza",
+    "fps": 30,
+    "timestamp": 1689085861,
+    "width": 0,
+    "height": 0,
+    "date": "11/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Curiosidade para o dia 11 de julho: em 1979, fragmentos da Skylab, primeira estação espacial dos EUA, caíam na Austrália, matando uma vaca. E após as notícias de hoje: programa europeu que acelera a concessão de visto para Devs e curso para ir do zero até o primeiro projeto como programador profissional.",
+            "url": ""
+        },
+        {
+            "text": "Claro, Vivo e TIM estão reavaliando estratégia de oferecer “zero rating” para consumidores: a prática permite o acesso a aplicativos como WhatsApp e redes sociais sem desconto da franquia de dados. Entretanto, com a expansão do 5G essa estratégia promocional torna-se problemática para as empresas, que estão buscando formas de otimizar ganhos e investir na capacidade de suas redes. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Após 30 anos do seu lançamento, Linux atinge 3% do mercado de desktops pela primeira vez: em junho deste ano, o Windows manteve sua liderança, com 68,1% de participação, seguido por macOS (21,3%), ChromeOS (4,1%), Desconhecidos (3,2%), Linux (3%) e FreeBSD (0,01%). As informações são do site StatCounter.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação criam novo algoritmo capaz de furar as chamadas “bolhas” geradas pelos atuais sistemas de recomendação: o Pyrorank foi inspirado em fenômenos naturais – como pássaros em busca de comida – para minimizar o impacto de interações passadas dos usuários com um sistema, ampliando a diversidade nos resultados de buscas. As informações são do site Phys.org.",
+            "url": ""
+        },
+        {
+            "text": "Em um ano de 5G no Brasil, velocidade média de download atinge 446,9 Mbps e já supera a média da banda larga: o mesmo não vale para velocidades de upload (33,6 Mbps contra 398,6 Mbps da banda larga). A tecnologia foi implementada em 184 municípios, com uma densidade de 6,25 estações para cada 100 mil habitantes, cinco vezes a meta inicial. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro estudo sobre a disponibilidade comercial de videogames clássicos conclui que 87% dos títulos não são mais acessíveis de formas modernas: a pesquisa foi conduzida para pressionar por incentivos na preservação desses softwares, algo que tem sido feito de forma muito mais limitada do que com livros, filmes e áudios. As informações são do site da Video Game History Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Chefe de sistemas operacionais da equipe de realidade aumentada do Google pede demissão do cargo e faz duras críticas à empresa: para Mark Lucovsky, contribuíram com sua decisão a falta de compromisso e visão do Google em relação à tecnologia. O Google estaria mudando o foco para o desenvolvimento de software de AR, trabalhando numa plataforma em conjunto com a Samsung e Qualcomm, em vez de criar seu próprio hardware. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Emissão de radiação eletromagnética não intencional por satélites da Starlink podem interferir em pesquisas astronômicas: a proximidade desses dispositivos com a Terra tornam as frequências emitidas comparáveis ou mais fortes do que ondas de rádio de objetos celestes distantes. A SpaceX já está tentando mitigar o problema. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
