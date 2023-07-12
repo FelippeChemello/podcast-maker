@@ -1,0 +1,45 @@
+{
+    "title": "Devs: trabalho no futuro / Pix em risco / Pesquisador deixa Google",
+    "fps": 30,
+    "timestamp": 1689172247,
+    "width": 0,
+    "height": 0,
+    "date": "12/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Relatório “Futuro do Trabalho”, elaborado pelo Fórum Econômico Mundial, projeta crescimento de vagas no setor de tecnologia: especialistas em inteligência artificial, aprendizado de máquina, segurança da informação, inteligência de negócios e comércio digital serão os mais procurados. Além disso, 75% das empresas pretendem incorporar tecnologias como big data, computação em nuvem e IA nos próximos cinco anos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Para Associação Brasileira de Internet e fintechs, Pix, Real Digital e Open Finance estariam em risco sem a contratação de novos servidores para o Banco Central: a redução no quadro de funcionários e aumento das atribuições da instituição pode prejudicar o funcionamento do sistema financeiro nacional. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador que escreveu um dos artigos científicos mais influentes na área de IA pede demissão do Google: Llion Jones e seus colegas publicaram em 2017 o artigo “Attention Is All You Need”, delineando a arquitetura de “transformers” o que permitiu a revolução das ferramentas de IA atuais. Jones afirma que trabalhar no Google foi “fantástico”, mas pretende aproveitar o momento para lançar uma startup no setor. As informações são do site Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Shutterstock e OpenAI estendem parceria por mais seis anos: o DALL-E é treinado desde 2021 na biblioteca de imagens e vídeos. O modelo de IA também será integrado ao serviço, permitindo a edição de qualquer imagem disponível no banco de dados. As informações são do The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança Claude 2, chatbot similar ao ChatGPT: a nova versão simula conversas como se fosse um assistente pessoal, com avanços na geração de código, matemática e raciocínio. O sistema permite processamento de até 100.000 tokens (cerca de 75 mil palavras) – para comparação o ChatGPT possui um limite de 4.096 tokens. O LLM estará disponível inicialmente nos EUA e Reino Unido gratuitamente por meio do site e como uma API comercial para desenvolvedores. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Dados gerados por carros conectados devem sobrecarregar redes de telecomunicações móveis em breve: a expectativa do setor é que a venda de veículos conectados cresça 17% ao ano – no ano passado ultrapassaram as vendas de veículos não conectados pela primeira vez. O avanço em sistemas de comunicação veículo-a-veículo (V2V) e veículo-a-tudo (V2X) deverão gerar uma quantidade de dados ainda mais expressiva. As informações são do site da IBM.",
+            "url": ""
+        },
+        {
+            "text": "Cliente de e-mail Mozilla Thunderbird lança esperada versão 115 com novo design: há uma nova barra de ferramentas dinâmica, leiaute vertical para a lista de mensagens, adição de etiquetas para organização de emails e outras novidades. Está disponível para Windows, Linux e macOS. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
