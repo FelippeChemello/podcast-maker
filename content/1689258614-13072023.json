@@ -1,0 +1,45 @@
+{
+    "title": "Elon Musk lança xAI / GitHub e passkeys / Evasão no espaço",
+    "fps": 30,
+    "timestamp": 1689258614,
+    "width": 0,
+    "height": 0,
+    "date": "13/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk anuncia criação da xAI, com o objetivo de “entender a verdadeira natureza do universo”: em seu perfil no Twitter, Musk afirma que IAs não serão AGIs – com inteligência igual ou superior a dos humanos –  “até que possam resolver pelo menos um problema fundamental da física”. A equipe da xAI reúne ex-profissionais da DeepMind, OpenAI, Microsoft e Tesla. As informações são do site xAI.",
+            "url": ""
+        },
+        {
+            "text": "GitHub introduz suporte à Passkeys em beta público: o modelo de autenticação permite a substituição da senha e 2FA ou chaves físicas (YubiKeys). O Passkey é associado a dispositivos individuais com métodos de autenticação biométrica, como smartphones, e dificultam ataques por meio de phishing. As informações são do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Satélites da Starlink realizaram 25 mil manobras de evasão nos últimos seis meses para evitar colisão com detritos espaciais: o número é o dobro do registrado no período anterior. À medida que a órbita terrestre baixa torna-se cada vez mais congestionada, um impacto catastrófico fica cada vez mais provável. A SpaceX explica que a movimentação maior deve-se a um padrão de segurança mais rigoroso do que o resto da indústria espacial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google libera chatbot Bard para usuários brasileiros: a atualização adiciona suporte ao Google Lens, permitindo o upload de imagens nas conversas e leitura de respostas em voz alta. Agora também é possível exportar códigos Python gerados para o Replit, além do Google Colab. As informações são da página Experiment Updates do Bard.",
+            "url": ""
+        },
+        {
+            "text": "Após queda em 2022, gasto global com jogos e aplicativos móveis retoma crescimento e atinge recorde no primeiro semestre de 2023: no período foi registrado um crescimento de 5,3%, alcançando um recorde de 67,5 bilhões de dólares – os gastos em dispositivos iOS respondem por 65% desse total. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores avaliam que IAs terão dificuldade para se adaptar a leis de privacidade, especialmente quando se tratar do direito ao esquecimento: a arquitetura para armazenamento e processamento de informações dos modelos atuais é muito diferente dos motores de busca, tornando difícil a identificação e remoção de dados específicos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Apple reverte e relança atualização de segurança emergencial para resolver vulnerabilidade zero-day no WebKit: a falha (CVE-2023-37450) permite a execução arbitrária de código, sendo já explorada em ataques. A correção precisou ser revertida após causar problemas de navegação em alguns sites. As versões atualizadas são iOS 16.5.1 (c) e macOS 13.4.1 (c). As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
