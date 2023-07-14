@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica: imposto sobre internet / Baterias removíveis / Cálculo contra reuniões",
+    "fps": 30,
+    "timestamp": 1689344990,
+    "width": 0,
+    "height": 0,
+    "date": "14/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após polêmica, Governo rejeita proposta para criação de novo imposto sobre usuários de internet: o plano havia sido criado pelo Gabinete de Segurança Institucional para financiar uma nova agência de segurança cibernética e cobraria 1,5% sobre o valor pago pelo acesso à internet, além de 10% sobre o registro de domínios. As informações são da Folha de São Paulo.",
+            "url": ""
+        },
+        {
+            "text": "Europa oficializa regras que exigirão smartphones com baterias facilmente substituíveis pelos usuários, sem a necessidade de ferramentas ou habilidades especiais a partir de 2027: embora a legislação tenha efeito apenas no continente, é muito provável que a decisão afete o design global desses dispositivos – dificilmente os maiores fabricantes, como Samsung e Apple, irão criar aparelhos específicos para a região. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Shopify desencoraja reuniões com nova calculadora automatizada de custos: a ferramenta é incorporada diretamente no calendário quando três ou mais participantes são selecionados – um evento típico de 30 minutos custa no mínimo 700 dólares à empresa. O sistema foi desenvolvido em apenas um dia pelo COO Kaz Nejatian durante um hackathon interno. As informações são do site Financial Post.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft troca fonte padrão para documentos do Office 365: a Aptos substituirá a Calibri em programas como Word, Outlook, PowerPoint e Excel. O novo tipo de letra foi criado pelo renomado designer Steve Matteson, que já havia desenvolvido a Segoe, fonte padrão do Windows. As informações são do blog Microsoft Design.",
+            "url": ""
+        },
+        {
+            "text": "Meta AI apresenta CM3leon, modelo de última geração para criação de imagens com várias funcionalidades embutidas: o sistema se destaca por ser o primeiro capaz de descrever e gerar legendas para qualquer imagem (por exemplo: cachorro segurando um graveto na boca em uma superfície com grama e árvores no fundo). O sistema também é mais eficiente, exigindo cinco vezes menos computação e um conjunto de dados de treinamento menor. As informações são do blog Meta AI.",
+            "url": ""
+        },
+        {
+            "text": "IEEE lança novo padrão para comunicações sem fio baseadas em luz, até 100 vezes mais rápido que o Wi-Fi: o Li-Fi (802.11bb) também é mais seguro ao utilizar o espectro infravermelho, que não consegue passar por paredes, mantendo toda a troca de dados dentro de um determinado cômodo ou escritório. O sistema trabalha com baixa latência, não possui problemas de interferência e será interoperacional com outras tecnologias de rede wireless. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "IX Br atinge nova marca histórica ao ultrapassar 31 Tbit/s de pico de troca de tráfego internet no Brasil: o IX Br implanta a infraestrutura necessária para a interconexão metropolitana direta entre as redes que compõem a internet no país, sendo atualmente o maior conjunto de Pontos de Troca de Tráfego Internet (PTT) do mundo. O fator que mais contribuiu com a marca foi o crescimento do streaming ao vivo de jogos de futebol. As informações são do site do IX Br.",
+            "url": ""
+        }
+    ]
+}
