@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: identidade no blockchain / WormGPT para criminosos / Controvérsia com Brave",
+    "fps": 30,
+    "timestamp": 1689604277,
+    "width": 0,
+    "height": 0,
+    "date": "17/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nova Carteira de Identidade Nacional (CIN) vai substituir uso de APIs por plataforma blockchain: o sistema b-Cadastros, desenvolvido pelo Serpro, Receita Federal e construído sobre o Hyperledger Fabric – permitiria uma maior rapidez na troca de informações e atualizações. A nova identidade servirá como token de identificação, conectado ao sistema de autenticação do GovBR. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "WormGPT é uma ferramenta da IA criada especificamente para atividades maliciosas: o sistema é baseado no modelo de linguagem open source GPT-J, com treinamento concentrado em atividades ilícitas e malware, possuindo recursos como geração de texto e código, sem nenhuma restrição de segurança. As informações são do blog da SlashNext.",
+            "url": ""
+        },
+        {
+            "text": "Brave estaria vendendo inadvertidamente conteúdo protegido por direitos autorais para treinamento de IAs por meio de sua API de busca: o problema estaria no recurso “extra snippets” que extrai informações de sites que requerem atribuição. A Brave justifica que não estaria fazendo nada de errado porque opera como um mecanismo de busca, sempre fornecendo o link de onde as informações foram retiradas. As informações são do site Stack Diary.",
+            "url": ""
+        },
+        {
+            "text": "Centenas de drones que fariam parte de um show de luzes caem em rio após problema técnico na Austrália: dos 500 equipamentos, 350 não retornaram à base. Ainda não se sabe a causa da falha generalizada. As informações são da ABC News.",
+            "url": ""
+        },
+        {
+            "text": "Usuários do ChatGPT tem reclamado de degradação na qualidade das respostas do modelo GPT-4: a OpenAI nega que as recentes atualizações estejam tornando a IA “mais burra”. O problema seria apenas de percepção devido ao uso mais frequente da ferramenta, o que revelaria problemas anteriormente despercebidos. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Queda na demanda global por computadores desacelera no segundo trimestre deste ano: a contração de 11,5% é menor do que a queda acumulada de 30% nos dois trimestres anteriores. A Lenovo continua a liderar o mercado, seguida por HP e Dell. O grande destaque fica com a Apple, que registrou um crescimento de 51% nas remessas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Meta planeja lançar API comercial do seu modelo de linguagem LLaMA para competir com a OpenAI: o modelo estará disponível nas versões de 7, 13, 33 e 65 bilhões de parâmetros, significativamente menor do que o GPT-3.5, com 175 bilhões de parâmetros. As informações são do site ZDNet.",
+            "url": ""
+        }
+    ]
+}
