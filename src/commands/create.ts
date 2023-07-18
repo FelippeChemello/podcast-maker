@@ -4,10 +4,10 @@ import { CreateConfig } from '../types';
 
 import {
     BundleVideoService,
-    CreateThumnailService,
+    CreateThumbnailService,
     ExportDataService,
     GetContentService,
-    GetYoutubeinfoService,
+    GetYoutubeInfoService,
     InstagramUploadService,
     RenderVideoService,
     TextToSpeechService,
@@ -96,7 +96,7 @@ const youtube = async ({
             });
         }
 
-        content = await new GetYoutubeinfoService(content).execute();
+        content = await new GetYoutubeInfoService(content).execute();
 
         const bundle = await new BundleVideoService().execute();
 
@@ -107,7 +107,7 @@ const youtube = async ({
             'youtube',
         );
 
-        await new CreateThumnailService(content).execute(bundle);
+        await new CreateThumbnailService(content).execute(bundle);
     }
 
     if (upload || onlyUpload) {
@@ -148,7 +148,7 @@ const instagram = async ({
             'instagram',
         );
 
-        await new CreateThumnailService(content).execute(bundle);
+        await new CreateThumbnailService(content).execute(bundle);
     }
 
     if (upload || onlyUpload) {

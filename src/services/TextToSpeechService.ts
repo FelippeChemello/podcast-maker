@@ -203,21 +203,14 @@ class TextToSpeechService {
             );
 
             synthesizer.wordBoundary = (s, e) => {
-                switch (e.boundaryType) {
-                    case SpeechSynthesisBoundaryType.Word:
-                        segments.push({
-                            start: e.audioOffset / 10000,
-                            end: (e.audioOffset + e.duration) / 10000,
-                            word: e.text
-                        })
-                        break;
-                    case SpeechSynthesisBoundaryType.Punctuation:
-                        segments.push({
-                            start: e.audioOffset / 10000,
-                            end: (e.audioOffset + e.duration) / 10000,
-                            word: e.text
-                        })
-                        break;
+                if (SpeechSynthesisBoundaryType.Word === e.boundaryType) {
+                    const originalText = ssml.substring(e.textOffset - 1, e.textOffset + e.wordLength + 1).trim(); // +1 to include the punctuation
+                    
+                    segments.push({
+                        start: e.audioOffset / 10000,
+                        end: (e.audioOffset + e.duration) / 10000,
+                        word: originalText,
+                    })
                 }
             }
 

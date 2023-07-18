@@ -16,7 +16,7 @@ export default class CreateThumbnailService {
     }
 
     public async execute(bundle: string, videoFormat: 'portrait' | 'landscape' | 'square' = 'landscape'): Promise<string> {
-        log(`Getting compositions from ${bundle}`, 'CreateThumnailService');
+        log(`Getting compositions from ${bundle}`, 'CreateThumbnailService');
         const tmpPath = await getPath('tmp');
 
         const thumbnailPath = path.resolve(
@@ -24,7 +24,7 @@ export default class CreateThumbnailService {
             `${this.content.timestamp}.jpeg`,
         );
 
-        log(`Starting render process`, 'CreateThumnailService');
+        log(`Starting render process`, 'CreateThumbnailService');
 
         await renderStill({
             serveUrl: bundle,
