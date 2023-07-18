@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp: falha crítica / ChatGPT brasileiro / Câmera biológica",
+    "fps": 30,
+    "timestamp": 1689690582,
+    "width": 0,
+    "height": 0,
+    "date": "18/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desativar conta de WhatsApp de qualquer pessoa é muito fácil, descobre pesquisador de segurança: em seu perfil no Twitter, Jake Moore da ESET alertou para a política de aparelhos perdidos e roubados do aplicativo – basta enviar um email com a frase “Perdido/roubado: desative a minha conta”, incluindo o número de telefone no formato internacional. Após a revelação na tarde de ontem, a empresa parece ter suspendido o recurso.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Unicamp estão desenvolvendo versão brasileira do ChatGPT: o sistema será avaliado em uma série de tarefas em português, como passar em provas do Enem e classificar o sentimento de um tuíte. O pesquisador Ramon Pires está liderando o projeto – sua tese de doutorado foi eleita como a melhor do país pela Sociedade Brasileira de Computação em 2019. As informações são do portal G1.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem primeira “câmera biológica”, armazenando imagens no DNA de bactérias vivas: o sistema BacCam seria uma abordagem eficiente e de baixo custo à síntese de moléculas artificiais do zero. Um único grama de DNA pode armazenar mais de 215.000 terabytes de dados, o equivalente 45 milhões de DVDs. As informações são do site da Universidade Nacional de Singapura.",
+            "url": ""
+        },
+        {
+            "text": "EUA estão preocupados com impacto de IAs generativas nos mercados financeiros: um dos cenários imaginados seria uma ação em conjunto tomada por várias instituições, mas de forma não coordenada, com base em sinais de um mesmo modelo, levando a uma crise sistêmica. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Wix apresenta IA que permitirá a criação de sites inteiros por meio de prompts: o AI Site Generator precisa apenas de uma descrição geral e respostas a algumas perguntas de acompanhamento. Depois de pronto, é possível modificar cada detalhe da página com novos prompts. Não há data para lançamento da ferramenta. As informações são do blog da Wix.",
+            "url": ""
+        },
+        {
+            "text": "Gov Br testa biometria comportamental para elevar segurança na plataforma: a tecnologia avalia como o usuário manipula o dispositivo. Atualmente, dos 150 milhões de perfis cadastrados, cerca de 70 milhões já são certificados por meio de biometria facial. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados inicia estudos para avaliar conformidade da plataforma Threads com a Lei Geral de Proteção de Dados: há preocupações em relação ao tratamento de dados pessoais sensíveis, sem transparência ou base legal suficiente. O Brasil é o segundo país com maior número de downloads do app, ficando atrás apenas da Índia. As informações são do site ANPD e TechCrunch.",
+            "url": ""
+        }
+    ]
+}
