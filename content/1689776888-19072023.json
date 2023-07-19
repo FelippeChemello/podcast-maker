@@ -1,0 +1,45 @@
+{
+    "title": "IA é “maior bolha da história” / Software só cresce / Google limita internet de funcionários",
+    "fps": 30,
+    "timestamp": 1689776888,
+    "width": 0,
+    "height": 0,
+    "date": "19/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Stability AI faz alerta sobre inteligências artificiais – “acho que essa será a maior bolha de todos os tempos”: Emad Mostaque acrescentou que o processo ainda se encontra nos estágios iniciais, mas a tecnologia é mais importante do que outras, como o 5G, por servir como uma “infraestrutura para o conhecimento”. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Gastos com software, puxados por nuvem, devem ultrapassar 1 trilhão de dólares em 2024: neste ano, o crescimento será de 13,5%, para 912 bilhões e os gastos totais com TI devem superar os 4,7 trilhões. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google inicia testes para limitar acesso de computadores de funcionários à internet: a intenção é reduzir o risco de ataques cibernéticos, liberando apenas ferramentas web internas e sites como Gmail e Drive. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança Llama 2, IA de código-aberto para uso gratuito em pesquisas ou aplicações comerciais: o modelo foi treinado em 40% mais dados do que o Llama 1 e dobra sua janela de contexto para 4096 tokens. O Llama 2 supera outros modelos de linguagem de código aberto em diversos benchmarks, incluindo testes de raciocínio, código, proficiência e conhecimento. Três tamanhos estão disponíveis – 7, 13 e 70 bilhões de parâmetros. As informações são do site da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Métricas de uso do Threads despencam uma semana após o lançamento: o número de usuários ativos diários caiu 45%, para 23 milhões, e o engajamento com o aplicativo caiu 70%, para 6 minutos por dia. As informações são do site Similarweb.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Ciência, Tecnologia e Inovação lança Programa Residência em Microeletrônica: o investimento será de 33 milhões de reais para treinar 200 profissionais, com etapas de vivência internacional e dentro das empresas, buscando fortalecer o ecossistema de microeletrônica nacional. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Cibernética da Ucrânia desmantela bot farm gigante: o operação era usada para disseminar notícias falsas, conteúdo ilegal e informações pessoais. Além de equipamentos de informática e telefones móveis, foram encontrados no local 250 gateways GSM e 150.000 cartões SIM de várias operadoras. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
