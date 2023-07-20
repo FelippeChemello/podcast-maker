@@ -1,0 +1,45 @@
+{
+    "title": "TI volta a contratar / IA é força do bem / Celular Samsung mais seguro",
+    "fps": 30,
+    "timestamp": 1689863315,
+    "width": 0,
+    "height": 0,
+    "date": "20/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "81% dos CIOs de grandes empresas planejam ampliar suas equipes de TI ainda em 2023: apesar de restrições orçamentárias e congelamento de contratações, 67% dos 500 executivos pesquisados pretendem aumentar suas equipes em ao menos 10% para apoiar iniciativas digitais de suas companhias. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 1300 especialistas assinam carta aberta afirmando que IA é uma “força para o bem, não uma ameaça à humanidade”: os signatários incluem profissionais de vários setores, como negócios, academia e entidades públicas, destacando os usos positivos da tecnologia, como na detecção de doenças graves e criação de novos medicamentos. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Samsung lança Cadeado Galaxy no Brasil, serviço para bloqueio remoto de segurança em smartphones Galaxy: por meio de uma ligação telefônica ou acesso a um site específico – utilizando apenas o CPF e uma senha – é possível bloquear completamente o aparelho, incluindo o acesso a aplicativos de bancos, mensagens e redes sociais. O serviço custa 40 reais por ano, mas modelos mais recentes ganham o recurso de graça por 2 anos. As informações são do site da Samsung.",
+            "url": ""
+        },
+        {
+            "text": "Apple já estaria testando ferramenta de inteligência artificial similar ao ChatGPT: o Ajax seria um modelo de LLM e serviria como base de um chatbot, chamado internamente de “AppleGPT”. A empresa, entretanto, ainda não teria definido uma estratégia clara de como implementar a tecnologia em seus dispositivos. As informações são do Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Tesla está em discussões para licenciar sua tecnologia de direção autônoma para outro grande fabricante de automóveis: o nome da empresa não foi revelado, mas oferecer o sistema Full Self-Driving a outras montadoras sempre fez parte do plano, afirmou Elon Musk durante a apresentação dos resultados trimestrais da Tesla – a receita cresceu 47% (24,9 bilhões de dólares), com alta de 20% no lucro líquido (3,1 bi). Foram entregues 466 mil veículos nos últimos três meses, crescimento de 83% em um ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de Stanford publicam primeiro estudo demonstrando objetivamente queda no desempenho dos modelos de linguagem da OpenAI ao longo das últimas atualizações: as versões de março e junho de 2023 foram comparadas em tarefas como resolução de problemas matemáticos, geração de código e raciocínio visual – como exemplo, a capacidade do GPT-4 em identificar números primos caiu drasticamente de 97,6% para apenas 2,4%. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google pretende habilitar todas as novas APIs de navegação privada ao Chrome até o terceiro trimestre de 2024: a ativação será gradual até a eliminação completa dos cookies de terceiros do navegador. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
