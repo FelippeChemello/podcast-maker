@@ -1,0 +1,45 @@
+{
+    "title": "Alerta do GitHub / Supercomputador inacreditável / Chip semi-biológico",
+    "fps": 30,
+    "timestamp": 1689949661,
+    "width": 0,
+    "height": 0,
+    "date": "21/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub alerta para nova campanha de engenharia social direcionada a desenvolvedores de blockchain, moedas digitais, jogos online e cibersegurança: o famoso grupo de hackers Lazarus estaria por trás dos ataques e a plataforma pede desconfiança ao receber propostas de colaboração vindas por meio de redes sociais ou solicitações para instalar módulos npm, especialmente para quem estiver associado aos setores alvo. A campanha tem como objetivo ciberespionagem e roubo de ativos digitais. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de chips Cerebras apresenta o Condor Galaxy, supercluster voltado para operações de IA que poderá superar 36 exaflops de processamento já em 2024: para comparação, o Frontier – supercomputador mais rápido da atualidade – tem capacidade de 1,2 exaflops. O grande segredo estaria no “Wafer Scale Engine 2”, um chip do tamanho de um wafer de silício inteiro, com 850 mil núcleos e 40 gigabytes de memória integrada – o chip mais avançado da Nvidia, o A100, possui 7,3 mil núcleos e 40 megabytes de memória integrada. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas australianos recebem financiamento para continuar desenvolvimento de chip semi-biológico: o DishBrain, com 800 mil células cerebrais cultivadas em laboratório e embutidas em um chip de silício, foi capaz de aprender a jogar Pong em cinco minutos. A pesquisa tem implicações significativas em áreas como robótica, interfaces cérebro-máquina e descoberta de medicamentos. As informações são da Monash University.",
+            "url": ""
+        },
+        {
+            "text": "Vivo lidera com 5G mais rápido (download médio de 403 Mbps), seguida por TIM (351 Mbps) e Claro (301 Mbps): a TIM, entretanto, se destaca em consistência da rede, disponibilidade e alcance do 5G. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores israelenses criam IA para identificar violações de normas sociais: o sistema – comissionado pela DARPA, agência de pesquisas militares avançadas dos EUA – foi treinado para identificar dez emoções sociais ou traços de personalidade (competência, educação, confiança, disciplina, carinho, agradabilidade, sucesso, conformidade, decência e lealdade). A notícia original não fornece nenhuma informação sobre as aplicações da tecnologia ou implicações do seu uso. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA faz OpenAI, Google, Meta, Microsoft, Amazon, Anthropic e Inflection AI realizarem compromisso conjunto para inserir marca d'água em textos, imagens, áudios e vídeos gerados por IAs: não ficou claro como isso será implementado tecnicamente. As empresas também se comprometeram a proteger a privacidade de usuários e desenvolver soluções para pesquisas médicas e mudanças climáticas. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Intel, AMD, Meta, Microsoft, Broadcom, Cisco e outras empresas de tecnologia criam o Ultra Ethernet Consortium: o projeto, sob os cuidados da Linux Foundation, quer adaptar o padrão Ethernet para atender a exigências de rede em aplicações de inteligência artificial e supercomputadores, mantendo retrocompatibilidade. A especificação inicial deve ficar pronta no final deste ano. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
