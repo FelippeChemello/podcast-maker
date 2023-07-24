@@ -1,0 +1,45 @@
+{
+    "title": "Maior salário no Google / C++ passa Java / Cripto do CEO da OpenAI",
+    "fps": 30,
+    "timestamp": 1690208951,
+    "width": 0,
+    "height": 0,
+    "date": "24/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiros de software são os funcionários mais bem pagos no Google, mostra planilha de remuneração vazada: o salário total médio na empresa nos EUA, considerando todas as funções, foi de 279 mil dólares em 2022 – o engenheiro de software mais bem pago recebeu 718 mil dólares como salário anual base, sem considerar bônus. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Índice TIOBE mostra movimentações significativas nas linguagens de programação mais populares em julho: Python manteve-se na liderança, mas C++ ultrapassou Java e ameaça tomar o segundo lugar do C. JavaScript atingiu sua classificação mais alta, na sexta posição. COBOL reingressou no top 20. As informações são do site I Programmer.",
+            "url": ""
+        },
+        {
+            "text": "Startup de moedas digitais de Sam Altman, CEO da OpenAI, faz lançamento global: a Worldcoin quer escanear a íris de todas as pessoas do mundo por meio do Orb, um dispositivo esférico do tamanho de uma bola de basquete, para criar um identificador pessoal único – um dos objetivos é “distinguir humanos de IAs online”. Nos primeiros 15 anos, a oferta total do token WLD será de 10 bilhões – a Worldcoin mantém cerca de 20% das moedas em circulação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Trabalho remoto poderá reduzir em 800 bilhões de dólares o valor de edifícios de escritórios nas principais cidades do mundo até 2030: isso representa uma queda de 26% em relação às avaliações antes da pandemia. As quedas mais acentuadas são em grandes metrópoles, como Nova York e Londres. As informações são da McKinsey.",
+            "url": ""
+        },
+        {
+            "text": "Meta estaria prestes a descontinuar o Quest Pro, headset de realidade mista lançado no final do ano passado: a fabricação do dispositivo continuará até acabarem os estoques de componentes – o desenvolvimento de uma nova geração já teria sido suspenso. A empresa irá focar no Quest 3, dispositivo mais em conta apresentado em junho deste ano, com lançamento previsto para o segundo semestre deste ano. As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Twitter substitui seu icônico logo de pássaro e passa a se chamar “X”: o novo símbolo foi criado por um usuário da própria rede social neste final de semana. Linda Yaccarino, CEO da empresa, disse que a nova marca irá além do Twitter e apresentará recursos centrados em áudio, vídeo, mensagens e pagamentos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros finlandeses desenvolvem método otimizado para transferência de energia sem fio: o fenômeno de “supressão de radiação” mantém uma alta eficiência (mais de 80%) a distâncias cinco vezes maiores que o tamanho da antena utilizada. A tecnologia possui aplicações em dispositivos comuns, como smartphones, e implantes biomédicos. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
