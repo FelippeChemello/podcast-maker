@@ -1,0 +1,45 @@
+{
+    "title": "Google: nova controvérsia / Melhor internet fixa / Estação espacial da SpaceX",
+    "fps": 30,
+    "timestamp": 1690295342,
+    "width": 0,
+    "height": 0,
+    "date": "25/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google propõe nova API controversa para determinar se navegadores são confiáveis: a Web Environment Integrity API estabelece uma conexão segura entre um navegador e uma página na web por meio da conferência com um terceiro (como o Google, por exemplo) para determinar a integridade do ambiente do usuário – o objetivo seria evitar fraudes. No entanto, a proposta levanta preocupações sobre o próprio conceito da web como um padrão aberto, com restrições a navegadores que não implementarem a API e possíveis limitações no bloqueio de anúncios. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Vivo supera Claro e Oi em métricas de download, upload e latência na internet fixa: a nPerf realizou 1,7 milhão de testes entre o segundo semestre de 2022 e o primeiro de 2023, maior amostra em estudos deste tipo. Na Vivo, a velocidade de download média ficou em 225,5 Mbps (Claro - 184, Oi - 148), upload 124 Mbps (Claro - 47,  Oi - 94) e latência de 16 ms (Claro - 27, Oi - 40). As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX quer transformar nave Starship em estação espacial comercial em baixa órbita terrestre: a iniciativa ainda está em fase inicial de desenvolvimento, mas é apoiada pela NASA já que não há planos para um novo laboratório de pesquisa da agência depois que a Estação Espacial Internacional for desativada em 2030. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Co-fundador do Google, Sergey Brin, retoma atividades no dia a dia na empresa, trabalhando em nova geração de IA: Brin havia participado de algumas reuniões nos escritórios da empresa no final do ano passado, mas a frequência e a intensidade de seu envolvimento aumentou consideravelmente nos últimos meses, para auxiliar nos esforços de construção do sistema Gemini. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm quer rodar modelo Llama 2 da Meta localmente em dispositivos móveis: a empresa também está criando o AI Stack, uma série de ferramentas para desenvolvedores que deve facilitar a implementação da tecnologia em aplicativos rodando em dispositivos com processadores Snapdragon. As informações são do site da Qualcomm.",
+            "url": ""
+        },
+        {
+            "text": "Neurocientista propõe sistema de “autodefesa digital” contra manipulações por IAs: para Harris Eyre, a evolução humana não teve tempo suficiente para desenvolver as regiões do neocórtex que tem lidado com a rápida ascensão da tecnologia. O sistema de defesa envolveria uma abordagem tripla – código de conduta com relação à objetividade das informações pelas empresas de tecnologia, proteções regulatórias e kit de ferramentas educacionais para os cidadãos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT agora permite receber instruções padrões para todas as sessões conversas: o usuário pode definir sua localização, seu trabalho, interesses e objetivos gerais na vida. A ferramenta também pode ser instruída a responder sempre em tom informal ou formal, com textos curtos ou longos e permanecer neutra ou ter opiniões – todas as conversas passarão por esses filtros. O recurso está disponível apenas para usuários do plano Plus. As informações são do site da OpenAI.",
+            "url": ""
+        }
+    ]
+}
