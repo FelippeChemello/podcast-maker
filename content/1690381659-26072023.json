@@ -1,0 +1,45 @@
+{
+    "title": "Stack Overflow despenca / Destaque em vagas / Web scraping no Brasil",
+    "fps": 30,
+    "timestamp": 1690381659,
+    "width": 0,
+    "height": 0,
+    "date": "26/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Métricas do Stack Overflow mostram forte deterioração nos últimos 18 meses: o site tem visto uma diminuição significativa em seu tráfego (queda de 35%), utilização (diminuição de 40% no número de perguntas e respostas), bem como no número de votos que essas postagens recebem (diminuição de 48%). As informações são do site Observable.",
+            "url": ""
+        },
+        {
+            "text": "Inteligência Artificial é o cargo de TI com mais vagas em aberto no Brasil: no total, são 34 mil oportunidades relacionadas à tecnologia nos principais portais de vagas do Brasil (entre os meses de março e junho de 2023). Em seguida, vem Cientista de Dados e Desenvolvedor Full Stack. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "ANPD alerta que web scraping de dados pessoais viola LGPD: só porque é possível encontrar essas informações publicamente, não quer dizer que podem ser usadas. No começo de julho, a autoridade aplicou a primeira multa por violação da Lei Geral de Proteção de Dados – a empresa realizava a raspagem de dados na internet. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo do ChatGPT chega para dispositivos Android no Brasil: na Google Play, busque pelo termo “OpenAI” em vez de “ChatGPT” para evitar baixar um app não oficial. O sistema é gratuito e sincroniza o histórico de conversas entre dispositivos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI retira do ar ferramenta para determinar probabilidade de textos terem sido escritos por máquinas: o AI Text Classifier possuía uma taxa de precisão muito baixa – a pior situação era quando o classificador acusava erroneamente que um determinado texto havia sido gerado por IA (falso positivo), causando injustiças especialmente nas salas de aula (dois casos foram reportados aqui na Newsletter no passado). As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI, Microsoft, Google e Anthropic anunciam coalizão voltada ao desenvolvimento “seguro e responsável” de IAs: a iniciativa Frontier Model Forum focará em pesquisas de segurança, identificação de melhores práticas e colaboração com governos na criação de aplicações para grandes desafios sociais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google e Microsoft registram lucros acima do esperado no último trimestre: o resultado do Google foi de 18,3 bilhões de dólares (alta de 14%), impulsionado por crescimento nas receitas em Buscas, YouTube e Cloud. A Microsoft acumulou 20,1 bi no período (aumento de 20%), com crescimento das receitas da plataforma Azure. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
