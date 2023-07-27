@@ -1,0 +1,45 @@
+{
+    "title": "EUA atrás de Devs / Meta: 3,9 bilhões de usuários / Reviravolta no Stack Overflow",
+    "fps": 30,
+    "timestamp": 1690467963,
+    "width": 0,
+    "height": 0,
+    "date": "27/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "EUA enfrentam grande déficit de profissionais em TI, com 1,4 milhão de vagas em aberto até o final de 2023: o relatório da Associação da Indústria de Semicondutores aponta que as universidades do país não estão posicionadas para suprir a demanda por profissionais qualificados, como cientistas da computação, engenheiros e técnicos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Meta atinge 3,9 bilhões de usuários ativos mensais (MAUs) em todas as suas redes: o número, que representa quase a metade da população mundial, contempla usuários do WhatsApp, Instagram, Messenger e Threads. A empresa também registrou lucro líquido de 7,8 bilhões de dólares no último trimestre, um crescimento de 16%. As informações são do relatório para investidores da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Stack Overflow anuncia OverflowAI, modelo de IA para tirar dúvidas de programadores: a ferramenta será integrada no mecanismo de busca do site, Visual Studio Code e Slack, com suporte a referências de perguntas e respostas reais. Para Prashanth Chandrasekar, CEO da empresa, o sistema será especialmente bem-vindo para programadores iniciantes, já que a comunidade do site nem sempre é gentil e tolerante com certos tipos de perguntas. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Proton vai documentar publicamente a demanda por seu serviço de VPN para identificar censura online: segundo Andy Yen, CEO da empresa, 35 países fecharam o acesso à internet aos seus cidadãos pelo menos 187 vezes em 2022, o maior número já registrado em um único ano. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Grupo formado por Meta, Microsoft, Amazon e TomTom lança primeiro conjunto aberto de mapas: o objetivo é facilitar e baratear o desenvolvimento de aplicativos de mapeamento e navegação. O conjunto também inclui 59 milhões de pontos de interesse, como restaurantes e locais históricos, de todo o mundo. Os dados estão disponíveis no repositório “OvertureMaps/data” no GitHub. As informações são do site da Overture Maps Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Duas vulnerabilidades introduzidas recentemente afetam 40% dos usuários Ubuntu: identificadas como CVE-2023-32629 e CVE-2023-2640, as falhas permitem a escalada de privilégios por usuários locais. Provas de conceito para ataques estão disponíveis publicamente, mas uma atualização corretiva já está disponível. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "JetBrains inclui novo assistente de IA com chat, explicação de código e geração de documentação em sua gama de IDEs: a atualização 2023.2 adiciona as funcionalidade no IntelliJ IDEA, WebStorm, PyCharm, GoLand, RubyMine, Rider e outros. O sistema combina modelos da OpenAI e internos da JetBrains. As informações são do site DevClass.",
+            "url": ""
+        }
+    ]
+}
