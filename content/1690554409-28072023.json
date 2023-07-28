@@ -1,0 +1,45 @@
+{
+    "title": "Correção: vagas nos EUA / Satélites do Brasil invadidos / Brave contra Google",
+    "fps": 30,
+    "timestamp": 1690554409,
+    "width": 0,
+    "height": 0,
+    "date": "28/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Correção sobre a notícia que saiu na edição da Newsletter de ontem (27 de julho), tratando sobre o déficit de profissionais em TI nos EUA: a necessidade de preencher 1,4 milhões de vagas é uma estimativa até 2030 e não até o final de 2023 como foi reportado pelo portal Convergência Digital. Nos próximos sete anos, a demanda projetada para a economia do país como um todo é de 3,85 milhões profissionais do setor, sendo que 1 milhão de vagas para cientistas da computação, 273 mil para engenheiros e 109 mil para técnicos ficarão em aberto. Pedimos sinceras desculpas pela imprecisão e agradecemos a todos que nos alertaram dessa falha.",
+            "url": ""
+        },
+        {
+            "text": "Hacker russo afirma ter invadido sistemas do Instituto Nacional de Pesquisas Espaciais e acessado dados de vários satélites brasileiros: identificando-se apenas como Samurai, o criminoso criou instruções de como invadir os sistemas do INPE – por meio de técnicas como injeção SQL e cross-site scripting – pedindo ajuda de outros hackers para baixar a base de dados “gigantesca”. Ele também alega poderia “derrubar um satélite”, mas essa informação não pode ser confirmada. Até o fechamento desta edição, o INPE não havia se pronunciado. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Com Google Chrome em meio à controvérsia, Brendan Eich, CEO do Brave, reforça que o navegador é um fork completo e não apenas uma skin sobre o Chromium: em seu perfil no Twitter, Eich afirmou que não irá implementar o Web Environment Integrity – a nova API de segurança proposta pelo Google tem recebido fortes críticas da comunidade e na prática poderá bloquear o acesso a sites por quem não usar um navegador “aprovado”. O CEO também disse que desativa e anula “outros lixos” que o Google adiciona ao Chromium.",
+            "url": ""
+        },
+        {
+            "text": "Agência Nacional de Proteção de Dados Pessoais recebe denúncia contra ChatGPT: a agência não detalhou o caso, mas já iniciou o processo de fiscalização, que pode ser motivado por iniciativa do próprio órgão, por informações públicas ou, como nesse caso, por denúncia. As informações são do site Tele.Síntese.",
+            "url": ""
+        },
+        {
+            "text": "Um dos mais respeitados pesquisadores de IA, Geoffrey Hinton, sugere que IAs já manifestam emoções similares aos humanos: esses sistemas não sentem dor, a não ser que isso seja codificado, mas sentimentos como frustração e raiva surgem naturalmente – ele se baseia na hipótese de que relacionar determinadas ações hipotéticas (gostaria de socar alguém, por exemplo) à comunicação de um estado emocional (raiva). As informações são do site The Decoder.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn estaria desenvolvendo “coach” baseado em IA para auxiliar usuários no processo de procura a vagas: a ferramenta também poderá auxiliar no aprendizado de novas habilidades e ampliação das redes de contato. As informações são do pesquisador Nima Owji em seu perfil no Twitter.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas pedem cautela sobre alegações de material supercondutor em temperatura e pressão ambiente revelado recentemente por pesquisadores sul-coreanos: a substância LK-99, capaz de conduzir eletricidade sem resistência, poderia revolucionar diversas tecnologias, como CPUs com velocidade na faixa dos terahertz, rede elétrica com 100% de eficiência e reatores de fusão comercialmente viáveis. As informações são da Scientific American.",
+            "url": ""
+        }
+    ]
+}
