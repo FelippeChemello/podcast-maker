@@ -1,0 +1,45 @@
+{
+    "title": "Musk faz previsão negativa / Lei de Moore / Energia da chuva",
+    "fps": 30,
+    "timestamp": 1690813753,
+    "width": 0,
+    "height": 0,
+    "date": "31/07/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk prevê apagão na geração de energia elétrica já nos próximos dois anos nos EUA: os motivos seriam veículos elétricos e desenvolvimento de IAs. Musk acredita que o consumo de energia triplicará no país até 2045 e a falta de eletricidade será tão prejudicial quanto a escassez de chips que afetou várias indústrias durante a pandemia. As informações são do Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Maior fornecedora de sistemas de litografia para a indústria de semicondutores do mundo apresenta nova geração de equipamentos: a ASML desenvolveu uma grande revisão da óptica interna desses sistemas, que deverão estar prontos para uso comercial em 2025. A tecnologia é considerada essencial para continuidade da Lei de Moore até o final desta década. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses desenvolvem painel para capturar energia da chuva: a energia cinética e eletrostática das gotas de chuva pode gerar até 200 watts por metro quadrado – para comparação, paineis solares produzem em média 150 W/m2. A tecnologia é o primeiro avanço na coleta eficaz da energia da chuva em escala industrial. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Maior turbina eólica do mundo é ativada na China: cada uma das três pás do complexo MySE 16-260 mede 123 metros e pesa 54 toneladas. A energia gerada será suficiente para alimentar 36 mil residências. As informações são do site Popular Mechanics.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores treinam com sucesso modelo de aprendizado de máquina a bordo de satélite em órbita pela primeira vez: o feito demonstra a viabilidade da reconfiguração desses sistemas no espaço. O modelo em específico, RaVAEn, irá monitorar desastres naturais e desmatamentos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Apple vai restringir acesso a determinadas APIs no iOS para dificultar coleta de informações e rastreamento de usuários: desenvolvedores precisarão fornecer justificativas e que se alinhem precisamente com as finalidades dos seus aplicativos. Algumas das APIs em questão, como timestamp de arquivos, horário de inicialização do sistema e teclados habilitados, tem sido usadas indevidamente para fingerprinting de usuários. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Novo malware Android usa OCR para roubar informações de usuários: o CherryBlos utiliza a tecnologia de reconhecimento óptico de caracteres para extrair texto de imagens e fotos armazenadas no dispositivo, em busca de informações confidenciais e senhas. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
