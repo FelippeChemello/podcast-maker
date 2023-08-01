@@ -1,0 +1,45 @@
+{
+    "title": "Abaixo-assinado dos TICs / Raciocínio por analogia / Cimento vira bateria",
+    "fps": 30,
+    "timestamp": 1690900017,
+    "width": 0,
+    "height": 0,
+    "date": "01/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresários de Serviços Digitais, Software, Tecnologia da Informação e Internet lançam abaixo-assinado pedindo tratamento diferenciado na Reforma Tributária: no texto, é reconhecida a necessidade de evolução do sistema tributário, mas alertam que a PEC 45/2019 possivelmente aumentará a carga tributária do setor, com “consequências indesejáveis”. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "GPT-3 demonstra capacidade de resolver tarefas complexas por meio de raciocínio por analogia: essa habilidade, fundamental do pensamento humano, permite a solução de problemas novos utilizando conhecimentos prévios sobre como o mundo opera. A questão de como o modelo consegue fazer isso permanece misteriosa, com os pesquisadores especulando que a capacidade emerge de arquiteturas do tipo transformer. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT criam material que pode transformar fundação de casas e edifífios em supercapacitor para armazenamento de energia: ao combinar cimento, água e carbono negro, o compósito resultante pode armazenar energia solar ou eólica captada durante o dia. O material também poderia ser incorporado em rodovias para recarga de veículos elétricos. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "85% dos brasileiros aceitariam compartilhar dados pessoais para receber descontos: a taxa de aceitação varia conforme a faixa etária e o benefício em questão – a preocupação com a privacidade aumenta de acordo com a idade, com 87% do grupo acima de 60 anos defendendo limites ao rastreamento por sites e redes sociais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Brasil lidera o ranking mundial de chamadas indesejadas pelo quarto ano consecutivo: a média de 32,9 ligações de spam por usuário por mês é 80% maior do que o segundo colocado (Peru, com 18 chamadas). Ligações vinculadas ao sistema financeiro são responsáveis por 44% do volume, seguidas por ofertas, com 39%. As informações são do site Tele.Síntese.",
+            "url": ""
+        },
+        {
+            "text": "Estudo mostra que usuários do Facebook e Instagram pedem, mas não gostam de feeds cronológicos: o resultado da pesquisa, financiada pela Meta, foi publicado na revista Science e corrobora análises internas da empresa – as pessoas ficam entediadas mais rapidamente e tendem a migrar para plataformas rivais com feeds baseados em algoritmos, como YouTube e TikTok. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante alemã de semicondutores está testando placas de circuito impresso que se dissolvem em água: a tecnologia biodegradável da Infineon pode reduzir a pegada de carbono em 60% em comparação a PCBs tradicionais, feitos de fibras de vidro. Além disso, o processo facilita a recuperação de chips e metais ligados aos circuitos. As informações são do site Engadget.",
+            "url": ""
+        }
+    ]
+}
