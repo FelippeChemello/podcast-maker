@@ -1,0 +1,45 @@
+{
+    "title": "Remoto é bom para economia / Rótulo para IA / Supercondutor promissor",
+    "fps": 30,
+    "timestamp": 1690986476,
+    "width": 0,
+    "height": 0,
+    "date": "02/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Trabalho remoto estaria contribuindo para resiliência da economia dos EUA: a flexibilidade de horários tem possibilitado que as pessoas gastem mais tempo e dinheiro em lazer, como restaurantes e viagens. Especialistas acreditam que a modalidade de trabalho traz uma mudança estrutural na demanda por essas atividades. As informações são da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Protocolo de internet C2PA ganha destaque como abordagem promissora para rotular conteúdos gerados por IAs: o projeto de código aberto – lançado há dois anos pela Microsoft, Intel, Arm e Adobe – utiliza criptografia para codificar detalhes sobre a origem e edição em arquivos de imagens, áudios e vídeos. As informações são da MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "LK-99, material reivindicado por cientistas coreanos como supercondutor à temperatura e pressão ambiente, está atraindo atenção significativa na comunidade científica: diversos relatos de replicação estão emergindo, com um vídeo mostrando uma amostra levitando sobre um ímã. Além disso, novos estudos de universidades proeminentes corroboram a possibilidade de supercondutividade, utilizando teorias atuais e sem exigir a postulação de nova física. As aplicações potenciais do material dependerão da densidade de corrente que poderá acomodar, mas sem dúvida revolucionará praticamente qualquer aplicação eletromagnética. As informações são do site da revista Science.",
+            "url": ""
+        },
+        {
+            "text": "Pixar, Adobe, Apple, Autodesk e NVIDIA formam aliança para promover o desenvolvimento do formato de arquivo considerado o “HTML do metaverso”: o Open Universal Scene Description (OpenUSD) permite uma maior interoperabilidade entre ferramentas e dados 3D – a tecnologia, criada inicialmente pela Pixar – é fundamental para a colaboração na captura de expressões artísticas e otimização da produção de conteúdo cinematográfico. As informações são do site da Apple.",
+            "url": ""
+        },
+        {
+            "text": "NASA recebe primeiro sinal da sonda espacial Voyager 2 após enviar um comando que fez sua antena perder linha de visão com a Terra: apesar de demonstrar que continua operacional, a agência ainda não conseguiu restabelecer contato. Em último caso, será preciso esperar um reajuste automático de reorientação da sonda para 15 de outubro. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Alguns pesquisadores não acreditam que será possível resolver problema de “alucinação” do ChatGPT: o sistema foi apenas projetado como um modelo estatístico que prevê uma palavra após a outra, sendo inevitável que, em algum momento, a geração de texto seja imprecisa ou simplesmente falsa. O problema, na verdade, estaria na inerente incompatibilidade entre a tecnologia e os casos de uso propostos, como conselhos médicos, por exemplo. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas japoneses utilizam lasers para fatiar diamantes e criar wafers para uma nova geração de semicondutores de baixo custo: o avanço permitiria dispositivos que operam com maior eficiência em tensões, frequências e temperaturas mais altas do que é possível usando apenas silício. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
