@@ -1,0 +1,45 @@
+{
+    "title": "Deploy na sexta? / Cópia de código aberto / Campeonato mundial de Excel",
+    "fps": 30,
+    "timestamp": 1691159221,
+    "width": 0,
+    "height": 0,
+    "date": "04/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo pode embasar cientificamente precaução em não realizar deploys na sexta-feira: os pesquisadores analisaram o trabalho de 789 pessoas no escritório durante dois anos, acumulando métricas de uso dos computadores e demonstrando um aumento significativo nos erros de digitação e queda de produtividade nas tardes (em comparação às manhãs), especialmente nas sextas. O estudo completo está disponível na revista científica PLOS One. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "GitHub Copilot agora pode alertar quando suas sugestões corresponderem a código disponível em repositório público: com o recurso de referência de código ativado, a ferramenta não bloqueia mais a sugestão de código correspondente de forma automática, mas faz o alerta, permitindo que o desenvolvedor decida o que fazer – descartar ou fazer a atribuição. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Campeonato mundial de Excel tem início nesta sexta-feira: o eSport conta com uma série de desafios baseados em planilhas, descobrindo fórmulas e lógicas que podem ser implementadas para resolver problemas de negócios do dia a dia. Participará do evento Diarmuid Early, analista financeiro, considerado “o Michael Jordan do Excel”. O Excel World Championship 2023 será transmitido pela ESPN. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo quer incluir acesso a serviços públicos no zero rating das operadoras de telefonia móvel: a prática permite o acesso a páginas e aplicativos, sem desconto da franquia de dados. O Ministério da Gestão tenta construir a Estratégia Nacional de Governo Digital, para facilitar o acesso da população a serviços digitais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google irá alertar usuários quando suas informações pessoais aparecerem online: se o endereço, telefone ou email for encontrado em alguma página na web, o sistema enviará uma notificação e será possível solicitar a remoção dessas informações diretamente pela ferramenta de Busca. O recurso já está disponível nos EUA, com lançamento no Brasil em breve. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Apple atinge a marca de 1 bilhão de assinantes de seus serviços mensais: no último trimestre, a categoria acumulou 26% da receita total, superando as vendas combinadas de Macs, iPads e todos os outros dispositivos, tirando o iPhone, que representa 48% das vendas. As informações são do site da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Brave encerra parceria com Bing e lança índice próprio de imagens e vídeos em seu mecanismo de busca: o sistema é 100% privado e anônimo. O navegador Brave já possui cerca de 58 milhões de usuários ativos mensais – para comparação, o Firefox tem 187 milhões. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
