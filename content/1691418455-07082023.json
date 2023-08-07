@@ -1,0 +1,45 @@
+{
+    "title": "Remoto “aumenta” salário / Novo ataque acústico / Criador do Clojure deixa Nubank",
+    "fps": 30,
+    "timestamp": 1691418455,
+    "width": 0,
+    "height": 0,
+    "date": "07/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Funcionários consideram ambientes de trabalho flexíveis como um benefício equivalente a um aumento de 8% nos salários: empresas que insistem no trabalho presencial em tempo integral estão vendo taxas de contratação mais lentas em comparação às que oferecem remoto – aumento de 5% no preenchimento do vagas em comparação a 2,6% para escritórios presenciais. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam novo ataque para “scuta” tudo o que foi digitado pelos sons de um teclado, com até 95% de precisão: para a técnica funcionar, é preciso treinar um modelo de IA com um teclado do mesmo modelo da vítima. O ataque funciona até mesmo por meio de vídeo chamadas – nesse caso, medidas de defesa potenciais incluem deixar o microfone no mudo enquanto se digita ou o uso de software para reproduzir o pressionamento aleatório de teclas. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Rich Hickey, criador da linguagem de programação Clojure, deixa Nubank: apesar da saída, a empresa permanecerá como a principal patrocinadora corporativa da linguagem. Hickey ingressou na fintech em 2020 após a aquisição da Cognitect, empresa de software por trás do Clojure e do banco de dados Datomic. As informações são do blog Building Nubank.",
+            "url": ""
+        },
+        {
+            "text": "Influente grupo hacktivista “ult of the Dead Co” irá lançar novo protocolo de criptografia ponta a ponta chamado “eili”: baseado em tecnologias similares ao do navegador Tor e do aplicativo de mensagens Signal, o Veilid pretende criar novas formas de comunicação, compartilhamento de arquivos e navegação na web, protegendo a privacidade dos usuários. O protocolo será apresentado na conferência anual de cibersegurança DEFCON na próxima semana. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de spyware LetMeSpy vai encerrar permanente suas operações após ataque cibernético apagar todos os dados de seus servidores: a empresa era conhecida por um aplicativo Android projetado para permanecer oculto nos dispositivos das vítimas, coletando mensagens, registros de chamadas e dados de localização em tempo real. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "NASA restabelece comunicação com Voyager 2 após enviar comando equivalente a “rito interestela”: a instrução foi enviada pela instalação Deep Space Network na Austrália, orientando a sonda a reorientar sua antena de volta para a Terra, a mais de 19,9 bilhões de quilômetros de distância. Dados científicos e telemetria indicam que tudo está operando normalmente. As informações são do site NASA JPL.",
+            "url": ""
+        },
+        {
+            "text": "Spotify apresenta novo produto comercial para equipes de desenvolvimento de software: o Confidence foi projetado para facilitar testes A/B com usuários e é baseado em uma plataforma interna chamada ABBA. O sistema poderá ser utilizado por meio de APIs ou um web service gerenciado pelo próprio Spotify. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
