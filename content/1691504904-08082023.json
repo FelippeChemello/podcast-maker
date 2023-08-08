@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT ruim em programação / Real Digital vira Drex / Zoom nega treinamento de IA",
+    "fps": 30,
+    "timestamp": 1691504904,
+    "width": 0,
+    "height": 0,
+    "date": "08/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT responde incorretamente 52% das perguntas de programação, mostra estudo: 517 perguntas do Stack Overflow foram testadas no sistema. Mesmo assim, as respostas convenceram 40% dos participantes, devido à sua abrangência e estilo de linguagem bem articulado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central do Brasil escolhe o nome “re” para a versão tokenizada do Real Digital: a sigla representa a combinação das letras “\" e “\" de real e digital, com o “\" de eletrônico e “\" simbolizando modernidade e conexão. O Drex é uma CBDC (Central Bank Digital Currency), ou seja, será uma moeda de atacado e utilizada apenas pelos bancos, sem acesso direto pelo consumidor final. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Zoom atualiza termos de serviço para garantir explicitamente que não utilizará conteúdo de áudio, vídeo ou chat de clientes para treinar seus modelos de IA sem consentimento: a versão anterior do documento continha uma cláusula que poderia ser interpretada incorretamente, afirmou a empresa. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Apple compra toda a produção dos chips de 3 nm da TSMC: a tecnologia será exclusiva para seus chips de próxima geração por pelo menos um ano, incluindo o processador M3 para Macs e A17 para iPhones, ainda não lançados. A Apple é o maior cliente da TSMC e foi responsável por 23% do faturamento da fabricante em 2022 (16,5 bilhões de dólares). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Drivers das GPUs Intel agora coletam telemetria de usuários por padrão: a versão 101.4578 inclui o componente “ompute Improvement Progra” que rastreia o uso e desempenho de todo o PC e não só da placa gráfica. No processo de instalação personalizada é possível desativar a ferramenta, assim como faz a AMD com seus drivers – a NVIDIA coleta dados por padrão e não permite desativar telemetria. As informações são do site TechPowerUp.",
+            "url": ""
+        },
+        {
+            "text": "PayPal lança stablecoin lastreada no dólar: o PYUSD é um token ERC-20 emitido no blockchain Ethereum, sendo compatível com carteiras e aplicações web3. Stablecoin é um tipo de moeda digital com o objetivo de manter paridade de valor a outro ativo, geralmente uma moeda fiduciária, como o dólar ou euro. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI agora permite bloqueio do seu web crawler: admins podem identificar o user agent “GPTBot” no arquivo robots.txt ou bloquear seus endereços de IP. As informações são do site OpenAI Platform.",
+            "url": ""
+        }
+    ]
+}
