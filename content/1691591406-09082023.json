@@ -1,0 +1,45 @@
+{
+    "title": "Vulnerabilidade no VS Code / Project IDX do Google / Rio proíbe celular na sala de aula",
+    "fps": 30,
+    "timestamp": 1691591406,
+    "width": 0,
+    "height": 0,
+    "date": "09/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha no VS Code permite que extensões maliciosas recuperem tokens de autenticação armazenados nos gerenciadores de credenciais do Windows, Linux e macOS: a falha foi descoberta pelos pesquisadores da Cycode, que relataram o problema à Microsoft, incluindo uma PoC (prova de conceito). A empresa reconheceu a potencial vulnerabilidade, mas decidiu não fornecer nenhuma correção já que o problema seria resultado inerente de sua escolha em não adicionar sandboxing para extensões, sem isolamento do restante do sistema. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta Project IDX, um ambiente completo de desenvolvimento na nuvem: o objetivo é facilitar a construção, gerenciamento e implantação de aplicações web e multiplataforma. O sistema contará com o Codey, gerador de código baseado em IA, permitirá a importação de projetos existentes do GitHub ou começar novos, com modelos para frameworks populares, incluindo Angular, Flutter, Next.js, React, Svelte, Vue e linguagens como JavaScript, Dart, Python, Go e outras. O Google abriu uma lista de espera para desenvolvedores interessados. As informações são do blog Google for Developers.",
+            "url": ""
+        },
+        {
+            "text": "Prefeitura do Rio de Janeiro proíbe uso de celulares e outros dispositivos eletrônicos nas salas de aula: de acordo com o Decreto 53.019/2023, os dispositivos deverão ficar guardados nas mochilas dos estudantes, podendo ser usados somente para atividades pedagógicas ou com autorização dos professores. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp lança recurso para compartilhamento de tela durante videochamadas: a funcionalidade será implementada de forma gradual no Android, iOS e Desktop. Durante uma videochamada, basta tocar no ícone “ompartilha” e escolher compartilhar um app específico ou a tela inteira. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Netflix lança aplicativo que transforma smartphone em controle de videogame: ainda não foram divulgadas informações sobre quais jogos estarão disponíveis e como tudo funcionará, mas o “etflix Game Controlle” permitirá a usuários usar o aparelho como controle após pareá-lo com uma TV. A Netflix já possui mais de 50 títulos – todos gratuitos para assinantes – desde que entrou no segmento em 2021. As informações são da TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Amazon possui mais da metade de todos os chips Arm para servidores do mundo: a empresa utiliza sua própria família de chips Graviton, otimizados para necessidades específicas da AWS. Quase 10% de todos os servidores no mundo já são baseados em processadores Arm. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "A partir da versão 116, Chrome começará a receber correções de segurança semanais: a mudança não altera a frequência das atualizações principais – que continuam a cada quatro semanas – mas dificulta a exploração de vulnerabilidades conhecidas por atacantes. As informações são do blog Google Security.",
+            "url": ""
+        }
+    ]
+}
