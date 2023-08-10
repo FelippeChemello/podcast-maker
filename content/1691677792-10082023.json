@@ -1,0 +1,45 @@
+{
+    "title": "Futuro do Vim / Observando hackers / Pesquisa com resultado diferente",
+    "fps": 30,
+    "timestamp": 1691677792,
+    "width": 0,
+    "height": 0,
+    "date": "10/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Christian Brabandt, um dos contribuidores do Vim, atualiza comunidade sobre o status do projeto após falecimento de Bram Moolenaar, criador do editor de texto: o acesso ao Github do projeto foi facilitado por membros da família de Moolenaar e já há planos para uma próxima versão e possíveis modernizações. As informações são do fórum de discussão Google Groups.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores observaram hackers invadindo computadores em tempo real: as armadilhas, conhecidas como “honeypots”, registraram 190 milhões de eventos e 100 horas de imagens de vídeo de hackers assumindo o controle dessas máquinas e realizando a instalação de malware e emuladores Android para realizar cliques fraudulentos, mineração de moedas digitais, e até o uso desses computadores para obfuscar suas identidades e iniciar outros ataques. O estudo desses comportamentos vai oferecer percepções valiosas para equipes de defesa cibernética. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Ao contrário do consenso entre especialistas, investigação independente não encontra evidências de que o usar o Facebook leva a “danos psicológicos generalizados”: a pesquisa, conduzida pelo Internet Institute da Universidade de Oxford e sem influência da Meta, analisou dados de quase 1 milhão de pessoas em 72 países durante 12 anos, sem encontrar grandes correlações entre o uso da plataforma e indicadores de bem-estar. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Velocidade média de acesso à internet banda larga no Brasil cresce 1.786% nos últimos cinco anos: os dados até junho mostram uma velocidade média de 415 Mbps – em 2018 era de apenas 22 Mbps – mesmo com o avanço de 52% na base de clientes. A melhoria é resultado da expansão das redes de fibra óptica, em substituição aos acessos DSL, baseados no cobre da telefonia fixa e cabo coaxial da TV. As informações são do site Tele.Síntese.",
+            "url": ""
+        },
+        {
+            "text": "Navegador Edge está testando tirar um print de todos os sites que o usuário visita: as capturas de tela na versão 117 (Canary) são utilizadas para facilitar a identificação de páginas acessadas anteriormente por dentro do histórico de navegação. É possível desativar o recurso nas configurações de privacidade do navegador. As informações são do site MSPoweruser.",
+            "url": ""
+        },
+        {
+            "text": "Agência de Projetos de Pesquisa Avançada de Defesa do EUA planeja competição para identificar e corrigir vulnerabilidades de software usando IA: a iniciativa DARPA AI Cyber Challenge contará com a colaboração da OpenAI, Anthropic, Microsoft e Google, e premiará em 18 milhões de dólares as equipes mais bem colocadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Moq, popular framework de código aberto para.NET, enfrenta críticas intensas após inclusão de módulo controverso: a versão 4.20.0, contém o SponsorLink, que contém DLLs obfuscadas e que coletam hashes de endereços de e-mail dos desenvolvedores. A inclusão abalou a confiança no projeto, com ameaças de descontinuação do uso ou até mesmo relatar o framework como malware. A versão 4.20.2, lançada um dia depois, reverteu a inclusão do módulo. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
