@@ -1,0 +1,45 @@
+{
+    "title": "Explosão: Devs brasileiros no exterior / Fuga na Stability AI / Governo contra roubo de celular",
+    "fps": 30,
+    "timestamp": 1691763991,
+    "width": 0,
+    "height": 0,
+    "date": "11/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Número de brasileiros contratados para trabalho remoto por empresas estrangeiras praticamente dobra em um ano: o Brasil se tornou o quinto país com mais pessoas contratadas pela plataforma Deel, perdendo apenas para os EUA, Filipinas, Argentina e Reino Unido. Os cargos mais comuns são nas áreas de engenharia de software, desenvolvimento e gerenciamento de projetos, representando 57% dos contratos. As informações são do O Globo.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI, empresa por trás do gerador de imagens de código aberto Stable Diffusion, tem enfrentado sério problema de fuga de talentos: nos últimos meses, a empresa perdeu o COO (diretor de operações), CIO (TI), chefe de pesquisa e vice-presidente de engenharia. O principal problema seria o CEO, Emad Mostaque – as alegações seriam de que ele não consegue administrar a empresa. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Governo convoca Anatel, bancos e plataformas digitais, incluindo Google e Meta, para discutir medidas de combate ao roubo de aparelhos celulares no país: uma das soluções estudadas é bloquear automaticamente a linha telefônica e aplicativos bancários no mesmo instante em que o crime for comunicado. A medida vem em resposta ao aumento das ocorrências desse tipo nos últimos meses. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bot de receitas estava sugerindo criações perigosas quando lhe era fornecido ingredientes prejudiciais: por exemplo, ao listar ingredientes comuns em casa, como limões, açúcar e água, o sistema Savey Meal-Bot – baseado no GPT3.5 – poderia sugerir uma limonada. Mas ao listar água, alvejante e amônia, o sistema sugeria o que chamava de “mix de água aromática”, um mistura que cria um composto químico nocivo chamado cloramina e que pode irritar os pulmões ou ser mortal em altas concentrações. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Relatório do governo dos EUA mostra que, apesar do grupo hacker Lapsus$ ser composto na maioria por adolescentes do Brasil e Reino Unido, era altamente eficaz: os métodos utilizados não eram sofisticados, mas persistentes e criativos – para burlar o sistema de autenticação multifator, um dos líderes do grupo indicava enviar centenas de notificações para desorientar o funcionário de um alvo, requisitando acesso “à 1 da manhã, enquanto ele está tentando dormir”. O grupo conseguiu invadir a Microsoft e Nvidia, e ficou famoso no Brasil após ataques ao Ministério da Saúde e Americanas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Drone de combate experimental da Força Aérea dos EUA realiza primeiro voo autônomo, totalmente controlado por inteligência artificial: o XQ-58A Valkyrie completou uma missão de três horas como parte de um programa focado no desenvolvimento de aprendizado de máquina para voos táticos, operados de forma independente, sem controle humano. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "NASA testará laser para criar link de 400 Mbps para comunicação com astronautas em futura missão à Marte: o sistema usa a região do infravermelho próximo do espectro eletromagnético e está a bordo da sonda Psyche, programada para ser lançada em outubro deste ano. O teste busca demonstrar uma capacidade de transmissão de dados até 100 vezes maior que os sistemas de rádio atuais, cobrindo uma distância máxima de 300 milhões de quilômetros. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
