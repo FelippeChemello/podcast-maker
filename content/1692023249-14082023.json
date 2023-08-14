@@ -1,0 +1,45 @@
+{
+    "title": "Presencial: empresas arrependidas / Linux \"oficial\" / Hackear satélites é fácil",
+    "fps": 30,
+    "timestamp": 1692023249,
+    "width": 0,
+    "height": 0,
+    "date": "14/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "80% dos executivos expressam arrependimento em relação a planos iniciais de retorno ao escritório: a pesquisa, realizada com 1.000 empresas nos EUA, mostra que esses líderes admitem que deveriam ter abordado o assunto de maneira mais ponderada e em conjunto com os funcionários. Agora, muitas organizações sentem-se mais fracas ao mudarem seus planos por causa da resistência dos funcionários. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Versão “ficia” do Linux poderia popularizar uso do sistema operacional: Jack Wallen, editor da ZDNet, argumenta que essa versão, mantida e controlada por um coletivo de desenvolvedores e corporações – como Intel e AMD – criaria um padrão, com o potencial de levar a uma maior disponibilidade de produtos para o ecossistema. A sugestão seria baseá-lo no Debian e suportar tanto o Snap quanto o Flatpak.",
+            "url": ""
+        },
+        {
+            "text": "Estudante de doutorado revela como seria fácil hackear satélites: segundo Johannes Willbold, muitos desses equipamentos não possuem sistemas básicos de segurança, sendo que sua implementação em satélites existentes é tecnicamente possível, mas não prática devido a restrições de computação e energia. Na pior das hipóteses, um satélite poderia ser movido para colidir com outro, espalhando detritos que potencialmente poderiam destruir outros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor de extensão para o Chrome revela já ter recebido mais de 130 propostas para monetização da ferramenta: segundo Oleg Anashkin, criador da Hover Zoom+, grande parte das propostas inclui a adição de código para coleta de dados ou exibição de anúncios. Anashkin recusou todas as ofertas, mas expressa preocupações sobre esse mercado, com o risco de adulteração de extensões num geral sem os usuários perceberem. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft revela 15 vulnerabilidades de alta gravidade em coleção de ferramentas utilizada para programar dispositivos em instalações industriais, como usinas de energia e automação de fábricas: embora a exploração das vulnerabilidades no CODESYS V3 seja complexa, ela possibilita aos atacantes “ausar grandes dano”, incluindo o potencial de desligar uma usina de energia. A Codesys foi notificada das vulnerabilidades e já foram lançadas correções. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "World Wide Web Consortium (W3C) esclarece que nova API controversa do Google não está sendo tratada dentro da organização: a Web Environment Integrity API – que poderá determinar se navegadores são confiáveis ou não – também não foi submetida para revisão do Grupo de Arquitetura Técnica (TAG). As informações são do blog do W3C.",
+            "url": ""
+        },
+        {
+            "text": "Google atualiza padrões técnicos para implementação de algoritmos de encriptação resistentes a computadores quânticos: o Chrome 116 suportará o X25519Kyber768 para segurança do TLS. A motivação por trás da mudança se baseia na necessidade de fortalecer a segurança contra possíveis ataques, mesmo que computadores quânticos plenamente capazes ainda não existam. As informações são do blog do Chromium.",
+            "url": ""
+        }
+    ]
+}
