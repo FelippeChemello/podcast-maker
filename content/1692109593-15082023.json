@@ -1,0 +1,45 @@
+{
+    "title": "Protesto de analistas de TI / OpenAI: risco de falência / Mozilla reverte decisão",
+    "fps": 30,
+    "timestamp": 1692109593,
+    "width": 0,
+    "height": 0,
+    "date": "15/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Analistas de TI do governo federal protestam contra a possível desistência da reestruturação do plano de carreira: cerca de 200 profissionais se manifestaram em frente ao Ministério da Gestão, ressaltando a necessidade dessa reestruturação para preenchimento de 300 vagas de concurso previstas para este ano. Atualmente, os servidores têm salários entre 9 mil e 14 mil reais – a proposta seria passar a remuneração para o intervalo entre 11 mil e 25 mil reais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novo relatório estima que OpenAI pode falir até o final de 2024 se não começar a gerar lucro: a startup gasta aproximadamente 700 mil dólares por dia para operar o ChatGPT, com investidores – especialmente a Microsoft – cobrindo esses custos. A empresa também enfrenta outros desafios como a queda recente no número de visitas ao site do ChatGPT, competição de modelos de linguagem de código aberto e a escassez de GPUs no mercado. As informações são do site Business Standard.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla vai reintroduzir suporte completo a extensões de navegador no aplicativo Firefox para Android: o redesign realizado em 2020 havia limitado o número de add-ons suportados. A previsão de lançamento é para este ano. As informações são do site AlternativeTo.",
+            "url": ""
+        },
+        {
+            "text": "Netflix expande testes de streaming de jogos para TVs: o beta, limitado ao Canadá e Reino Unido inicialmente, está disponível para TVs da LG e Samsung e dispositivos de streaming, como Chromecast, Amazon Fire TV e Roku. Os jogos podem ser controlados pelo aplicativo “Netflix Game Controller” instalado no smartphone. A experiência também está disponível para PCs por meio do navegador. As informações são do site About Netflix.",
+            "url": ""
+        },
+        {
+            "text": "FBI alerta para aumento de golpes relacionados à recuperação de moedas digitais: os golpistas se passam por empresas de recuperação de ativos perdidos em fraudes de investimentos. Golpes envolvendo criptos ultrapassaram 2,5 bilhões de dólares em 2022, contabilizando apenas os casos reportados às autoridades. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Para veículos autônomos tornarem o tráfego mais rápido, será preciso que eles possam se comunicar entre si: um estudo recente também indica que essa interação seja integrada a sistemas de controle de tráfego para aliviar problemas de segurança, especialmente em cruzamentos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "IBM está desenvolvendo chip analógico para IAs: o processador serve para o processo de inferência – ato de utilizar uma rede neural para fornecer respostas após ela ter sido treinada – e pode alcançar o desempenho de GPUs, consumindo significativamente menos energia. A grande vantagem dessa arquitetura é permitir a computação diretamente na memória, em contraste com chips convencionais. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
