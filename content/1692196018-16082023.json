@@ -1,0 +1,45 @@
+{
+    "title": "Mercado forte em TI / GPT-4 moderador / Bots vencem CAPTCHAs",
+    "fps": 30,
+    "timestamp": 1692196018,
+    "width": 0,
+    "height": 0,
+    "date": "16/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vagas no setor de tecnologia continuam com forte demanda nos EUA, mesmo após a onda massiva de demissões por empresas de tecnologia: o grande fator favorável para engenheiros e desenvolvedores de software tem sido a procura por outras indústrias que também exigem profissionais com as mesmas habilidades técnicas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI desenvolve técnica para usar o GPT-4 como moderador de conteúdo: o sistema faz julgamentos de moderação baseados em uma política específica e um conjunto de exemplos que violam ou não essa política. Essa abordagem está sendo adotada por alguns clientes da OpenAI, acelerando a implementação de novas políticas de moderação e aliviando a carga de trabalho de equipes humanas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bots são mais eficazes em completar CAPTCHAs do que humanos: um estudo recente mostra que, para campos de texto distorcidos, humanos levaram entre 9 e 15 segundos para completar o desafio, com precisão de 50 a 84%, enquanto bots superaram os testes em menos de um segundo, com 99,8% de precisão. O resultado sugere a necessidade de novas abordagens de segurança. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ferramenta no portal GovBr permitirá monitorar uso de dados pessoais por entidades governamentais: a ferramenta, com data de lançamento para o ano que vem, notificará os usuários sobre determinadas transações com seus dados, mostrando a data, órgão e finalidade da consulta. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de Lei recebe adição para obrigar chatbots, como o ChatGPT, a remunerar autores de conteúdos por violações de direitos autorais: o PL2370/2019 inclui no texto do Marco Civil da Internet a categoria de “plataformas digitais de conteúdos de terceiros” como forma de eliminar o “vácuo legal” sobre a posse do direito autoral do que é produzido por IAs. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Relatório sugere que aumento nas vendas de SSDs terá impacto mínimo nas vendas de unidades de disco rígido, ao contrário de previsões anteriores: a demanda por armazenamento digital de todos os tipos – HDDs, SSDs e fitas magnéticas – irá crescer para 12 mil exabytes até 2028 para conseguir suportar IAs, IoT, entretenimento e aplicações médicas. As informações são do site Blocks &amp; Files.",
+            "url": ""
+        },
+        {
+            "text": "Equipe do Firefox comemora ao superar Chrome no benchmark JavaScript SunSpider: o teste, entretanto, já foi substituído pelo JetStream 2.0, um benchmark mais recente e exigente – neste o Chrome continua a se destacar em relação ao Firefox. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
