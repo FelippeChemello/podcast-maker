@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI criará jogo? / Coach pessoal do Google / HDD supera SSD em teste",
+    "fps": 30,
+    "timestamp": 1692282418,
+    "width": 0,
+    "height": 0,
+    "date": "17/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI adquire pequeno estúdio por trás do jogo Biome, um clone do Minecraft: a equipe de oito pessoas da Global Illumination se juntará à OpenAI para trabalhar em seus principais produtos, incluindo o ChatGPT – não foi especificado o que será desenvolvido. A Global Illumination afirma usar IA para criar ferramentas criativas, infraestrutura e experiências digitais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind estaria desenvolvendo coach pessoal baseado em IA: a ferramenta poderia realizar cerca de 20 tipos diferentes de tarefas, como conselhos para a vida, ideias, planejamento e tutoria profissional. O novo sistema marcaria uma grande mudança na postura cautelosa da empresa com o objetivo de se destacar e tentar obter uma vantagem no mercado de IAs generativas. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Estudo mostra que discos rígidos (HDDs) podem ser até 94% mais eficientes em termos de energia do que os SSDs: o resultado contraria a percepção comum de que SSDs consomem menos energia por não terem partes móveis. Os testes feitos pela empresa de armazenamento Scality revelaram que HDDs são mais adequados para cargas de trabalho com sessões de leituras e gravações intensivas, enquasto SSDs são a melhor opção quando se trata de latência. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "ANPD inicia consulta pública sobre o uso do “legítimo interesse” como justificativa para o tratamento de dados: esse é um dos fundamentos legais da LGPD e se refere à situação em que uma organização, inclusive o governo, possui razão válida e justificada para tratar dados pessoais sem a necessidade de obter o consentimento explícito de seu titular. A consulta fica aberta até o dia 15/set, por meio da plataforma Participa + Brasil. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Material LK-99 provavelmente não é um supercondutor em temperatura ambiente: múltiplos estudos recentes têm mostrado que características observadas previamente – queda na resistividade elétrica e levitação sobre ímãs, semelhantes a supercondutores – se deviam a impurezas presentes nas amostras. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Software Freedom Conservancy pede que desenvolvedores abandonem o Zoom após alterações recentes nos termos e condições de uso: a organização sem fins lucrativos e que oferece suporte legal para projetos de código aberto destaca que, embora o Zoom tenha esclarecido que seus usuários precisarão aceitar explicitamente o compartilhamento de seus dados para o treinamento de IAs, cláusulas remanescentes sugerem que os termos poderão ser alterados no futuro. Como alternativa, o grupo está promovendo seu próprio servidor de chat baseado no software de código aberto BigBlueButton. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mitigação da recente vulnerabilidade Inception descoberta em CPUs AMD pode resultar em grande queda de desempenho: utilizando um sistema Epyc rodando Linux, testes demonstraram que, dependendo da aplicação, a diferença de desempenho após a correção pode ser mínima ou significativa. O maior impacto será em servidores de banco de dados (a operação do MariaDB apresentou uma queda de 54% na performance após a correção). Por outro lado, aplicações populares como Blender e Firefox tiveram pequenos ou nenhum impacto. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
