@@ -1,0 +1,45 @@
+{
+    "title": "Reset no ChatGPT / IA do INSS com problema / Chrome: novidade no DevTools",
+    "fps": 30,
+    "timestamp": 1692368786,
+    "width": 0,
+    "height": 0,
+    "date": "18/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Potencial processo do New York Times contra a OpenAI pode significar um “hard reset” no ChatGPT: o jornal atualizou seus termos, proibindo o uso de artigos e imagens no treinamento de modelos de IA. Um litígio poderia resultar na destruição do conjunto de dados utilizados atualmente pelo ChatGPT. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Defensoria Pública da União questiona uso de inteligência artificial após indeferimentos automáticos e equivocados no INSS: a instituição manifestou preocupações com grupos vulneráveis e o aumento potencial de judicialização devido a negações desnecessárias – o sistema obrigava os interessados a esperarem 30 dias para realizarem um novo requerimento após uma negativa. O chamado “Robô do INSS” já decide um terço dos pedidos de aposentadoria, pensão e auxílio no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Chrome 117 expandirá DevTools com 16 novas funcionalidades: dentre elas, destacam-se a autoformatação de arquivos JSON, descrição de status codes HTTP e override de requests XHR e fetch, permitindo realizar manualmente mudanças rápidas e prototipar diferentes retornos de APIs de forma integrada ao navegador. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Após manifestação de analistas de TI em frente ao Ministério da Gestão, categoria assegura reestruturação do plano de carreira: a pasta irá priorizar internamente as demandas, tanto para reter como atrair novos talentos para o governo. Os detalhes serão acertados até dezembro, prazo final para a publicação do edital do concurso para 300 novos analistas de TI. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ministro de Assuntos Digitais do Japão abre mão de três meses de salário como penalização após má implementação do sistema de identificação digital do país: Taro Kono prometeu consertar problemas no My Number Card até novembro deste ano. O Japão, apesar de ter uma das economias mais avançadas do mundo, tem dificuldade em implantar sistemas digitais modernos – no ano passado, se comprometeu a não utilizar mais disquetes e CD-ROMs, e tenta reduzir a dependência do uso de aparelhos de fax no país. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ampliar uso de fitas magnéticas poderia reduzir em 58% emissões globais de carbono no armazenamento de dados: pelo menos 60% de todos os dados são “frios” – quando raramente são acessados – mas permanecem em discos rígidos, consumindo energia. Durante toda a sua vida útil, de mais de 30 anos, a fita magnética produz apenas 3% da pegada de carbono dos discos rígidos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Pequeno recurso obscuro, mas bem útil no Gerenciador de Tarefas do Windows é divulgado pela gerente de produto da Microsoft: Jen Gentleman alertou que é possível pausar o programa ao manter a tecla Ctrl pressionada, impedindo que os processos sejam atualizados e fiquem subindo e descendo aleatoriamente, deixando-os mais fáceis de selecionar. A dica funciona no Windows 7, 10 e 11. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
