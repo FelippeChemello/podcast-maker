@@ -1,0 +1,45 @@
+{
+    "title": "Código aberto até fechar / Spotify e ruído / Senado discute IA",
+    "fps": 30,
+    "timestamp": 1692628052,
+    "width": 0,
+    "height": 0,
+    "date": "21/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Especialistas e desenvolvedores de código aberto manifestam insatisfação com a tendência de projetos mudarem suas licenças após certo grau de sucesso: Confluent, MongoDB, Elastic, Redis Labs e HashiCorp são exemplos de projetos que tomaram essa decisão, alegando a dificuldade de competir com as grandes empresas de tecnologia que entregam seus softwares como serviço em escala. No entanto, essas alterações de licença visam controle e lucro, contrário a natureza fundamental do código aberto. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Spotify debate internamente como lidar com podcasts que tocam apenas ruído branco: os episódios, que incluem sons como ondas do mar e vento, têm custado à plataforma dezenas de milhões de dólares – alguns criadores desses conteúdos estão ganhando até 18 mil dólares mensais com anúncios. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Senado instala “Comissão Temporária Interna sobre Inteligência Artificial”: o objetivo do grupo é estabelecer regras para o desenvolvimento da tecnologia de forma que beneficie e respeite os direitos dos cidadãos. O colegiado irá analisar o anteprojeto criado pela Comissão de Juristas sobre Inteligência Artificial apresentado no final do ano passado. As informações são da Agência Senado.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA decide que obras de arte geradas por inteligência artificial não podem ser protegidas por direitos autorais: Steven Thaler tenta registrar uma imagem criada pelo algoritmo “Creativity Machine”, mas o escritório de patentes dos EUA determina que o vínculo entre a mente humana e a expressão criativa é um elemento vital para a proteção de direitos autorais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Chrome alertará quando extensão instalada no navegador for removida da Chrome Web Store: o recurso “Safety Chec” avisará sobre extensões identificadas como malware, sugerindo sua desinstalação. A função estará disponível por padrão no Chrome 117, mas já pode ser ativada na versão 116 por meio da flag “safety-check-extensions”. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade de alta gravidade é corrigida no WinRAR: a falha (CVE-2023-40477) permite a execução remota de código arbitrário no sistema alvo apenas ao abrir um arquivo RAR especialmente projetado. A versão 6.23 corrige o problema. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "NodeJS 20.6.0 adicionará suporte por padrão a arquivos “.env” para configuração de variáveis de ambiente: o arquivo de configuração deverá seguir o formato de arquivo INI, com cada linha contendo um par “key-value” para uma variável de ambiente. Também será permitido a definição de “NODE_OPTIONS” diretamente no arquivo.env, eliminando a necessidade de incluí-lo no “package.json”. As informações são do repositório do NodeJS no GitHub.",
+            "url": ""
+        }
+    ]
+}
