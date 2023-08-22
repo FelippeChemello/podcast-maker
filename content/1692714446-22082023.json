@@ -1,0 +1,45 @@
+{
+    "title": "5G falhou / Crianças e telas / Medindo a produtividade de Devs",
+    "fps": 30,
+    "timestamp": 1692714446,
+    "width": 0,
+    "height": 0,
+    "date": "22/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo da principal operadora móvel da Coreia do Sul mostra que o 5G não cumpriu promessas e decepcionou consumidores: apesar de um ecossistema subdesenvolvido, a tecnologia reduziu em 70% o custo dos dados por gigabyte em comparação com o LTE. A expectativa agora é que o 6G, previsto para 2030, evite os erros do 5G. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Estudo associa tempo de tela de crianças com menos de 1 ano e atraso no desenvolvimento entre os 2 e 4 anos: a pesquisa acompanhou 7.097 crianças e descobriu que mais de 4 horas de tela por dia foram associadas a atrasos no desenvolvimento na comunicação e resolução de problemas. As informações são do jornal científico JAMA Network.",
+            "url": ""
+        },
+        {
+            "text": "Medir a produtividade de desenvolvedores é vista como um desafio, mas a consultoria McKinsey defende que isso pode ser feito com eficácia: a empresa destaca que, ao contrário de outras áreas, o desenvolvimento de software é pouco monitorado, devido à crença de que “apenas engenheiros treinados teriam conhecimento suficiente para avaliar o desempenho de seus pares”. A consultoria adaptou duas métricas – a DORA, criada pelo time de DevOps do Google, e SPACE, desenvolvida pelo GitHub e Microsoft – e sugere que líderes, mesmo os não-técnicos, deveriam entender todo o processo de desenvolvimento de software para adaptar seus sistemas tecnológicos, a fim de identificar oportunidades de melhoria. As informações são do blog McKinsey Insights.",
+            "url": ""
+        },
+        {
+            "text": "Na média, inteligência artificial deverá complementar empregos e não destruí-los, segundo estudo da ONU publicado nesta segunda: a análise destacou variações significativas nos efeitos da tecnologia entre profissões e regiões, apontando que o trabalho administrativo é a categoria mais exposta negativamente, com quase um quarto das tarefas consideradas altamente automatizável. Gerência e trabalhos técnicos são considerados pouco expostos. Países de maior renda também sentirão efeitos maiores da automação do que países em desenvolvimento devido à grande parcela de tarefas que poderão ser automatizadas em relação à distribuição de empregos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Brasil lidera em tentativas de ataques cibernéticos no primeiro semestre na América Latina: no total foram 23 bilhões de tentativas, seguido por México (14 bilhões), Venezuela (10 bi), Colômbia (5 bi) e Chile (4 bi). A crescente sofisticação dos ataques preocupa especialistas, que ressaltam a escassez de talentos em segurança no Brasil e globalmente. As informações são do site CISO Adviser.",
+            "url": ""
+        },
+        {
+            "text": "Agência de pesquisa avançada de defesa dos EUA está desenvolvendo tecnologia para descompilar binários executáveis em código compreensível para humanos: a ideia é proporcionar uma representação de alto nível que possa ser editada para corrigir falhas ou adicionar funcionalidades e depois ser recomposta em um programa funcional. O objetivo é atualizar softwares legados, principalmente aqueles cujo código-fonte não está mais disponível. A tecnologia pode eventualmente ser adaptada para uso civil, potencialmente em uma década. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Bun anuncia lançamento da versão 1.0 para o dia 7 de setembro: o runtime JavaScript promete estar “pronto para produção”, com um evento ao vivo às 14h (horário de Brasília). O Bun tornou-se um fenômeno na comunidade JavaScript/TypeScript por causa de sua velocidade em comparação ao Node.js e Deno. As informações são do site do Bun.",
+            "url": ""
+        }
+    ]
+}
