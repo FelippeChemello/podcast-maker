@@ -1,0 +1,45 @@
+{
+    "title": "Excel roda Python / IA traduz COBOL / ICANN adverte ONU",
+    "fps": 30,
+    "timestamp": 1692800840,
+    "width": 0,
+    "height": 0,
+    "date": "23/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Excel ganha suporte a Python: as planilhas poderão ser manipuladas para análises e visualizações avançadas de dados. Dentro do Excel, o código Python roda somente de forma remota e nos servidores da Microsoft por motivos de segurança, sendo executado em contêineres isolados, sem acesso a dispositivos, rede ou tokens do usuário. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "IBM apresenta IA para modernizar aplicações escritas em COBOL para Java: o modelo gerador de código CodeNet também entende outras 80 linguagens de programação diferentes. A tradução do código escrito em COBOL para Java servirá para grandes empresas refatorarem seus aplicativos, preservando desempenho e segurança. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "ICANN adverte que proposta ONU exclui especialistas técnicos na governança global da internet: o modelo sugerido pelo “Pacto Digital Mundial” para cooperação e segurança digital entre países engloba o setor privado, governos e sociedade civil, mas deixa de fora a comunidade técnica, apesar de suas contribuições ao crescimento e sustentação da rede desde o seu início. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Threads lança aplicativo web: agora usuários poderão postar, visualizar o feed e interagir com as postagens a partir do navegador. Algumas funcionalidades, como editar o perfil ou enviar mensagens diretas para o Instagram, continuam presentes apenas no aplicativo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem ataque para extrair informações a partir das vibrações geradas pelo auto-falante durante chamadas de voz: o EarSpy utiliza apenas o sensor de movimento do smartphone, sem a necessidade de permissões do usuário. A precisão para identificar a pessoa do outro lado da ligação é de 91,6%, mas para dígitos falados – números de zero a nove – a precisão cai para 56%. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Meta apresenta o SeamlessM4T, modelo open source para tradução multilíngue e multimodal que permite comunicação em texto e voz para 100 idiomas diferentes: o objetivo da empresa é construir um tradutor universal, semelhante ao “Peixe Babel” do livro de ficção científica “O Guia do Mochileiro das Galáxias”. A Meta também está disponibilizando o maior dataset de tradução multimodal aberto, o SeamlessAlign, com 270.000 horas de fala e texto alinhados. As informações são do blog Meta AI.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI introduz “ajuste-fino” para API do GPT-3.5 Turbo: desenvolvedores poderão realizar uma personalização supervisionada do modelo para necessidades específicas – testes iniciais mostraram que uma versão refinada do modelo pode até mesmo superar o GPT-4 em certas tarefas. Além disso, o ajuste fino permite reduzir o tamanho dos prompts em até 90%, acelerando API calls e reduzindo custos. As informações são do site da OpenAI.",
+            "url": ""
+        }
+    ]
+}
