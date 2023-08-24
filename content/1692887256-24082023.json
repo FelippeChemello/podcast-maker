@@ -1,0 +1,45 @@
+{
+    "title": "Sindicato: semana de 4 dias / Filtro azul não ajuda / 2FA na portabilidade numérica",
+    "fps": 30,
+    "timestamp": 1692887256,
+    "width": 0,
+    "height": 0,
+    "date": "24/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sindicato dos Trabalhadores em Processamento de Dados e Tecnologia da Informação do Estado de São Paulo (Sindpd SP) incluirá semana de 4 dias nas discussões da Convenção Coletiva de Trabalho da categoria para 2024: a proposta “100:80:100” visa manter 100% do salário com 80% da carga horária usual e 100% da produtividade. Esse regime de trabalho tem sido testado em outros países – no Reino Unido, 92% das empresas que experimentaram o sistema, adotaram a semana reduzida após observar aumento de produtividade e satisfação dos funcionários. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Óculos que filtram a luz azul provavelmente não fazem diferença na tensão ocular causada pelo uso de computador: foram revisados 17 ensaios clínicos randomizados. Também não foram encontradas evidências de que essas lentes protejam a retina ou contribuam com a qualidade do sono. As informações são do site Medical Xpress.",
+            "url": ""
+        },
+        {
+            "text": "Recurso de segurança na portabilidade numérica, com confirmação em duas etapas, tem causado problemas: usuários têm recebido o SMS solicitando a confirmação da troca de número entre duas operadoras respondendo “SIM”, mas a validação não é reconhecida. A Anatel decidiu ajustar a janela de confirmação de 30 minutos para 2 horas, com planos de expandi-la para 6 horas. A implantação tem acontecido de forma gradual, finalizando no dia 28 deste mês. As informações são do Tele.Síntese.",
+            "url": ""
+        },
+        {
+            "text": "STJ valida citação judicial por meio WhatsApp apenas quando cumprir o objetivo de informar o destinatário sobre a ação judicial de forma inequívoca: não existe previsão legal para a comunicação de atos processuais por aplicativos de mensagens – o chamado de vício formal pode levar à sua anulação. As informações são do Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Estima-se que 90% dos ataques cibernéticos bem-sucedidos começam por meio de emails de phishing: a Cloudflare bloqueou 250 milhões de emails fraudulentos no período de um ano, 8% de todos os que processou por seus servidores. Criminosos se passando por grandes marcas são a tática de phishing mais utilizada. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Assinaturas mantidas por esquecimento podem aumentar a receita de empresas em até 200%: o estudo revelou que muitas assinaturas são apenas canceladas quando o cartão de crédito expira. O problema pode ser exacerbado quando as empresas criam empecilhos ou dificultam o cancelamento de serviços mensais por meio de dark patterns em seus sites. As informações são da revista Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Cabos de fibra óptica podem não apenas detectar terremotos, mas medir nuances e complexidades de eventos sísmicos: a abordagem pode transformar a extensa rede existente em uma matriz sísmica de baixo custo para alertas antecipados – 100 km de cabos fornecem dados equivalentes a de 10.000 sismômetros. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
