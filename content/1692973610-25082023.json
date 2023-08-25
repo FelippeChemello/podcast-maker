@@ -1,0 +1,45 @@
+{
+    "title": "Áudio vazado: CEO do Zoom / Provedor perde tudo / Nvidia: lucro explode",
+    "fps": 30,
+    "timestamp": 1692973610,
+    "width": 0,
+    "height": 0,
+    "date": "25/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Durante reunião interna vazada, CEO do Zoom afirma que trabalho presencial é essencial para construção de times e inovação: Eric Yuan indicou que a promessa feita pela própria plataforma – uma ferramenta para colaboração entre equipes remotas – não se confirmou na prática. Ele mencionou que discussões acaloradas e debates são fundamentais para criar confiança entre colaboradores, sendo menos frequentes em chamadas de vídeo. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Provedor de serviços em nuvem dinamarquês perde todos os dados de clientes, incluindo backups, após ataque de ransomware: a CloudNordic afirma que o ataque teve início na última sexta, com os discos de todos os servidores encriptados, inclusive do sistema de backup primário e secundário. A empresa afirma que não irá pagar resgate para recuperar os dados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Resultado da Nvidia dispara em 800% com vendas recordes de GPUs e aceleradores para IA: a companhia registrou 6,2 bilhões de dólares em lucro líquido e o dobro da receita (13,5 bilhões), superando a expectativa de analistas, que agora estimam um crescimento de 170% nas vendas para o próximo trimestre. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança o gerador de código Code Llama: o modelo é uma versão especializada do Llama 2, focada em programação, com suporte às linguagens Javascript e Typescript, Python, C++, C#, Java, PHP e outras. O Code Llama está disponível para uso comercial e pesquisa no repositório “facebookresearch/codellama” no GitHub. As informações são do blog Meta AI. ",
+            "url": ""
+        },
+        {
+            "text": "SpaceX e Cloudflare unem-se para melhorar desempenho do serviço de internet via satélite Starlink: serão instalados “mini datacenters” ao redor do mundo para reduzir a latência e entregar velocidades mais rápidas aos usuários. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Startup mostra sistema para direção autônoma baseado apenas em câmeras e que supera o LIDAR: a Nodar utiliza imagens de duas câmeras para calcular distâncias entre objetos, superando consistentemente o LIDAR – laser para reconstruir uma imagem 3D do ambiente – em resolução e alcance em vários cenários, incluindo direção noturna e neblina intensa. O resultado é interessante, já que a Tesla abandonou o LIDAR em favor de câmeras, indo na contramão do resto da indústria automotiva. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Firefox agora consegue importar extensões do Chrome: o recurso, ainda em fase de testes, pode ser habilitado por meio da flag “browser.migrate.chrome.extensions.enabled”. No momento, são instalados apenas os plugins disponíveis nas lojas de extensões da Mozilla e Chrome, mas há a intenção de suportar outros navegadores também. As informações são do site Ghacks.",
+            "url": ""
+        }
+    ]
+}
