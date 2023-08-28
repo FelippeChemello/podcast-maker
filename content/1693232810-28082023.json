@@ -1,0 +1,45 @@
+{
+    "title": "Google: Eng.º trabalha 1h por dia / Emprego em TI / Plano de 100 anos",
+    "fps": 30,
+    "timestamp": 1693232810,
+    "width": 0,
+    "height": 0,
+    "date": "28/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro de software do Google afirma trabalhar apenas uma hora por dia, recebendo salário anual de 150 mil dólares (730 mil reais): Devon, na faixa dos 20 anos, normalmente acorda às 9h, faz café da manhã, e depois trabalha para o Google até as 11h ou meio-dia, dedicando o resto do dia em sua própria startup. O caso é um exemplo do que especialistas têm chamado de “ake wor” (trabalho falso), no qual funcionários de grandes empresas de tecnologia recebem altos salários por poucas horas de trabalho. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de trabalho em tecnologia nos EUA se normaliza à medida que taxa de desemprego diminui: empregadores de diferentes setores adicionaram 65 mil novas posições em julho. A taxa de desemprego para profissionais de tecnologia caiu de 2,3% em junho para 1,8% em julho, ficando bem abaixo da média de 3,5% no país. As informações são do site CIO Dive.",
+            "url": ""
+        },
+        {
+            "text": "WordPress lança plano para hosting de sites por 100 anos: o “100-Year Plan” custa uma taxa única de 38 mil dólares (cerca de 185 mil reais) e é destinada a quem deseja preservar seu legado digital, empresas que buscam proteger o histórico de sua organização ou indivíduos que querem uma presença online adaptável a mudanças tecnológicas futuras. O plano oferece registro de domínio por um século, diversos backups espalhados geograficamente e suporte 24 horas por dia. As informações são do blog da WordPress.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk faz live demonstrando versão do sistema de direção autônoma da Tesla completamente refatorado e baseado em IA: segundo Musk, na versão anterior do FSD, haviam mais de 300 mil linhas de código C++ escritas por humanos, mas não há nada disso na versão 12.0. Em determinado momento da live, quando o veículo desacelerou para várias lombadas, Musk explicou que não são adicionadas linhas de código para qualquer situação em específico, com o sistema aprendendo com base inteiramente no treinamento em vídeo. As informações são do site Tesla Oracle.",
+            "url": ""
+        },
+        {
+            "text": "Maioria dos smartphones é descartada em média com 2,5 anos de uso, apesar de seus processadores poderem funcionar por mais de 10 anos: com cerca de 1,5 bilhão de celulares descartados anualmente, pesquisadores estão propondo estratégias para reutilizar esses dispositivos para rodar microsserviços distribuídos ou para o monitoramento da vida selvagem, ampliando a capacidade global de computação e reduzindo a necessidade de produzir novos dispositivos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Google Workspace anuncia novos controles de segurança: dentre as novas funcionalidades, destaca-se a possibilidade de exigir que ações sensíveis sejam validadas por dois administradores. Os recursos serão implementados gradualmente ao longo dos próximos meses. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Bitwarden lança ferramenta de código aberto para gerenciamento de segredos: o objetivo do “Secrets Manager” é servir como alternativa segura ao “hard coding” de segredos ou compartilhamento de senhas, APIs e chaves SSH por meios não seguros entre equipes de desenvolvimento, como mensagens de email ou mensagens de texto. Há uma versão gratuita que suporta segredos ilimitados, dois usuários e três projetos. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
