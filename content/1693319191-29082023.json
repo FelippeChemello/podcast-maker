@@ -1,0 +1,45 @@
+{
+    "title": "Google: salários mais altos / App espião brasileiro / Dica de carreira do criador do C++",
+    "fps": 30,
+    "timestamp": 1693319191,
+    "width": 0,
+    "height": 0,
+    "date": "29/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiros de software do Google e Meta recebem salários maiores do que na Apple, mas empresa é considerada “mais consistente e justa”: o estudo, baseado em dados autodeclarados, mostra que engenheiros juniores do Google ganham salário anual de 184 mil dólares, seguidos por 179 mil na Meta – a média na Apple seria de 142 mil. A Amazon paga 159 mil e a Microsoft 141 mil para o mesmo cargo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Hackers comprometem aplicativo espião brasileiro WebDetetive e deletam todos os 76 mil dispositivos Android monitorados de seus servidores: o spyware, que é capaz de registrar mensagens, gravar ligações telefônicas, ver fotos e acompanhar a localização em tempo real, tem como provável sede a cidade de Porto Alegre (RS), mas ainda não se pronunciou sobre o incidente. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Em entrevista, Bjarne Stroustrup, criador do C++, aconselha desenvolvedores não se superespecializarem e a manterem flexibilidade na carreira: para Stroustrup, Devs que estão aprendendo a programar geralmente acreditam que “se puderem apenas escrever o melhor código, mudarão o mundo”, mas ele enfatiza a importância de saber se comunicar, especialmente com os usuários finais daquilo que foi programado. Além disso, ele também acredita em construir um amplo portfólio de habilidades em programação, para facilitar a identificação de oportunidades quando elas surgirem. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Nova funcionalidade no X permite que organizações verificadas integrem anúncios de vagas de emprego diretamente em seus perfis na plataforma: a Vercel é uma das primeiras empresas a ativar o recurso. É possível importar vagas disponíveis por meio de ferramentas de recrutamento suportadas (Applicant Tracking Systems) ou feed XML. As informações são do site BGR.",
+            "url": ""
+        },
+        {
+            "text": "Hackers conseguem obter endereços IP de usuários por meio do aplicativo móvel do Skype ao simplesmente enviar um link, sem a necessidade de interação da vítima: a Microsoft, inicialmente, não considerou o ataque do tipo zero-click como uma falha de segurança que demandasse ação imediata, mas irá corrigir o problema em uma atualização futura. A vulnerabilidade representa um risco para ativistas, jornalistas e outros grupos, já que a exposição de um IP pode revelar a localização geral de uma pessoa. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Teste sem custo com Duet AI fica disponível para todas as contas Google Workspace: a IA poderá atuar como assistente no Meet, sumarizador no Docs, auxiliará com respostas mais inteligentes no Gmail e conseguirá criar apresentações utilizando texto, gráficos e imagens com base em conteúdo disponível no Drive. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Para combater futuros ataques DDoS, Projeto Tor implementa sistema de defesa baseado em prova de trabalho na versão 0.4.8.4: ao tentar acessar um endereço.onion, a máquina precisará completar um teste com verificação instantânea chamado EquiX, algoritmo do mesmo criador do RandomX, usado pela moeda digital Monero. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
