@@ -1,0 +1,45 @@
+{
+    "title": "TSE convoca “hackers do bem” / ChatGPT: novo Office? / LGPD: Justiça reverte condenação",
+    "fps": 30,
+    "timestamp": 1693405644,
+    "width": 0,
+    "height": 0,
+    "date": "30/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Tribunal Superior Eleitoral convoca “hackers do bem” para testar novos modelos das urnas eletrônicas em preparação para as eleições municipais de 2024: especialistas em TI terão acesso aos equipamentos entre 27 de novembro e 1º de dezembro para executar planos de ataque e identificar vulnerabilidades em ambiente controlado. Interessados podem realizar a pré-inscrição no “Teste Público de Segurança da Urna 2023” no site da Justiça Eleitoral até o dia 8 de setembro. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Andrej Karpathy, cientista da OpenAI, compara o ChatGPT ao Word e Excel para empresas: ele acredita que o assistente se tornará uma ferramenta essencial e padrão no dia a dia dos escritórios, assim como os programas do pacote Office. Segundo a OpenAI, o ChatGPT já está sendo usado em mais de 80% das 500 maiores empresas nos EUA. As informações são do perfil de Karpathy no X.",
+            "url": ""
+        },
+        {
+            "text": "Justiça reverte condenação por dano moral em primeira instância por vazamento de dados após ataque cibernético: o desembargador do caso destacou que os dados vazados não se enquadravam na definição legal de dados sensíveis da LGPD e que a exposição dessas informações não ocorreu por falha da empresa, mas por causa da invasão. A decisão é importante porque a LGPD ainda não conta com jurisprudência consolidada sobre situações similares. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple marca evento especial “Wonderlust” para o dia 15 de setembro: espera-se a apresentação da linha iPhone 15, com construção de titânio, tela com borda mais fina, grandes melhorias na câmera e substituição da porta Lightning para USB-C. O evento será transmitido ao vivo a partir das 14h00 (horário de Brasília) e pode ser assistido no canal do YouTube da Apple. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de PCs deve registrar queda de 13,7% em 2023, a maior da série histórica da empresa de pesquisa IDC: apesar disso, as vendas devem se recuperar em parte em 2024, projetando um crescimento de 3,7%, totalizando 261,4 milhões de unidades. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "FBI desmonta infraestrutura do malware Qakbot, responsável por 30% das invasões observadas neste ano: a “Operação Duck Hunt” apreendeu 52 servidores que mantinham a rede em operação e identificou mais de 700 mil computadores infectados, que foram instruídos a baixar um arquivo para desinstalar o malware. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação criam novo profiler para acelerar execução de código escrito em Python: o Scalene identifica as partes ineficientes de um programa – se concentrando no uso de CPU, GPU e memória – para depois sugerir otimizações ao código por meio do GPT-4. Versões CLI e GUI do profiler estão disponíveis no repositório “plasma-umass/scalene” no GitHub. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
