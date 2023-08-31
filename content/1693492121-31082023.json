@@ -1,0 +1,45 @@
+{
+    "title": "Chegamos ao “pico de telas\" / Teclado virtual / Velocidades de download",
+    "fps": 30,
+    "timestamp": 1693492121,
+    "width": 0,
+    "height": 0,
+    "date": "31/08/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Quantidade de telas usadas diariamente provavelmente atingiu seu pico: dispositivos de realidade estendida substituirão gradualmente as múltiplas telas usadas atualmente, como smartphones, computadores e TVs. Apesar da resistência de algumas pessoas, a tecnologia permitirá a criação de interfaces que utilizam as mãos e olhos de maneiras mais naturais ao interagir com o mundo físico. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta demonstra teclado virtual projetado em qualquer superfície plana: Mark Zuckerberg e o CTO da Meta, Andrew Bosworth, demonstraram a tecnologia usando o headset Quest 2, atingindo uma velocidade de digitação de 100 e 119 palavras por minuto, respectivamente – em média, uma pessoa digita em torno de 40 palavras por minuto. As informações são do site UploadVR.",
+            "url": ""
+        },
+        {
+            "text": "20% dos usuários de telefonia móvel no Brasil ainda tem velocidade média de download abaixo de 10 Mbps: a grande maioria (78,7%) fica entre 10 e 100 Mbps. Apenas 0,6% ultrapassam a faixa de 100 Mbps – usuários 5G nas capitais obtêm velocidades médias de download superiores a 250 Mbps, colocando o Brasil como um dos líderes globais nessa métrica. As informações são do site da Opensignal.",
+            "url": ""
+        },
+        {
+            "text": "Call of Duty será o primeiro jogo a moderar chat de voz em tempo real com IA: a Activision implementará a ferramenta ToxMod para identificar comportamentos inadequados durante partidas online e alertar a equipe de moderação. O lançamento global da ferramenta está previsto para 10 de novembro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google estuda lançar API com dados de mapeamento para empresas que instalam painéis solares: parte das informações virão do Project Sunroof, uma iniciativa para mapear o potencial solar dos telhados de residências e prédios do planeta. As informações são do site CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Novos chips para data centers da Intel terão um grande salto em eficiência energética: o Sierra Forest promete até 240% mais desempenho por watt em relação à geração atual. Será a primeira vez que a empresa dividirá seus chips em duas categorias – o Granite Rapids se concentrará em desempenho, mas consumindo mais energia. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft irá descontinuar o Visual Studio para macOS: o suporte à versão 17.6 continuará até 31 de agosto de 2024, mas sem a adição de nenhum novo componente. A Microsoft recomenda algumas alternativas ao IDE, como a instalação da extensão “C# Dev Kit” no editor de código VS Code, que continuará disponível no macOS. Na seção de comentários do blog Microsoft Developer, vários desenvolvedores recomendaram o JetBrains Rider, IDE concorrente, como uma excelente alternativa.",
+            "url": ""
+        }
+    ]
+}
