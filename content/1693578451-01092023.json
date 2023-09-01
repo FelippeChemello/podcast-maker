@@ -1,0 +1,45 @@
+{
+    "title": "Mozilla contra Microsoft / Domínios aumentam PIB / Gemini vs GPT-4",
+    "fps": 30,
+    "timestamp": 1693578451,
+    "width": 0,
+    "height": 0,
+    "date": "01/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mozilla lança campanha para usuários questionarem a Microsoft em relação ao uso de seus dados pessoais no treinamento de IAs: a fundação contratou quatro advogados, três especialistas em privacidade e dois ativistas para analisar o novo contrato de serviço da Microsoft que entrará em vigor em 30 de setembro – nenhum deles conseguiu entender se a empresa planeja utilizar informações pessoais, incluindo áudio, vídeo, bate-papo e anexos para treinar seus modelos de IA. As informações são do site da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "10% do PIB de Anguila será com vendas de domínios neste ano: o pequeno território insular britânico no Caribe tem o seu ccTLD (domínio de topo de código de país) reservado como “.ai” e pode arrecadar 30 milhões de dólares apenas em 2023 devido à grande procura por projetos e startups de inteligência artificial. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Gemini, novo modelo de IA do Google, superará o GPT-4 devido à avançada infraestrutura de GPUs da empresa: a análise feita por pesquisadores da SemiAnalysis gerou debates online, com muitos questionando se um maior poder computacional significa de fato superioridade na construção de modelos de IA, sem considerar o processo de treinamento e a qualidade dos dados. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez em um esporte físico, um drone controlado por IA vence humanos em competição de alta velocidade: o Swift, desenvolvido pela Universidade de Zürich e Intel, utiliza visão de máquina e um sensor inercial para navegar e realizar manobras acrobáticas, algo comum em circuitos de corrida de drones. Embora tenha vencido, a diferença foi de apenas 0,5 segundo e o sistema mostrava limitações ao enfrentar condições diferentes das quais foi treinado, como mudanças na iluminação. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Chrome introduz nova função que permite copiar com facilidade imagem de um frame de vídeo no YouTube: basta pausar o vídeo, clicar com o botão direito – pode ser necessário clicar duas vezes em seguida – e selecionar “Copiar Frame do Vídeo” para obter uma cópia de alta qualidade do frame desejado, sem a barra de progresso do vídeo. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Fundador e CEO da Atlassian diz que visita o escritório apenas “uma vez por trimestre” e incentiva seus funcionários a fazerem o mesmo: Scott Farquhar diz que não se importa de onde seus funcionários realizem o trabalho desde que mantenham sua produtividade, métrica que se manteve estável após migrarem para o remoto. Ele também ressalta que o modelo flexível ajuda os funcionários a gerenciar o custo de vida cada vez mais alto. As informações são do site Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT e da Microsoft desenvolvem solução para problema de sincronização em jogos na nuvem: a técnica adiciona ruído branco inaudível a partir do servidor, com o controle do jogador ouvindo essas frequências para manter tudo sincronizado em menos de 10 milissegundos, um desempenho superior a outros métodos. As informações são do site MIT News.",
+            "url": ""
+        }
+    ]
+}
