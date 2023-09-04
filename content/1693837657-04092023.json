@@ -1,0 +1,45 @@
+{
+    "title": "Lei das IAs: “equívoco no Brasil” / Extensões maliciosas / Nativo vs web app",
+    "fps": 30,
+    "timestamp": 1693837657,
+    "width": 0,
+    "height": 0,
+    "date": "04/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Especialista alerta que Brasil cometerá equívoco ao legislar sobre inteligência artificial sem uma estratégia de mercado adequada: Silvio Meira, cientista-chefe da TDS Company e co-fundador do Porto Digital, afirma que o entendimento brasileiro sobre algoritmos é superficial e uma regulamentação prescritiva ao invés de princípios gerais será prejudicial para o desenvolvimento da tecnologia no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores demonstraram como extensões do Chrome podem roubar senhas de websites: uma prova de conceito foi colocada na Chrome Web Store para analisar o código-fonte de sites, descobrindo que vários deles, incluindo alguns do Google e Cloudflare, armazenam senhas em texto simples no código HTML. O teste também evidencia falhas nos controles de segurança da Chrome Web Store, sendo que 17% das extensões na loja têm permissões para extrair informações sensíveis de sites. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Estudo mostra que aplicativos nativos consomem menos energia do que suas versões web: em apps como Pinterest, Spotify e YouTube, além da eficiência energética (consumo 34% menor, em média), o impacto na memória também é menor (86% menos). A única métrica pior em aplicativos nativos é o tráfego de rede (80% maior). As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Samsung anuncia a primeira pastilha de circuito integrado DDR5 de 32 Gb do mundo: além da maior densidade, o componente consome menos energia, permitindo a produção de um único módulo DRAM de 32 GB para PCs e até 1 TB para servidores. As informações são do site Anandtech.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI propõe métodos pedagógicos para integração do ChatGPT em salas de aula: a ferramenta pode auxiliar no aprendizado de línguas ou na formulação de novas questões para um teste, por exemplo. A grande questão seria aprender a sempre questionar a credibilidade das respostas do ChatGPT e comparar informações com outras fontes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Módulos npm com nomes estranhos, como “-”, “@!-!/-”, “@(-.-)/env” e “--hepl”, ainda estão presentes no registro: embora nem todos representem um risco de segurança, alguns foram lançados antes das convenções de nomenclatura implementadas em 2017 e podem potencialmente afetar ou quebrar ferramentas de desenvolvimento de software. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Comando “sudo”, reescrito em Rust, já tem primeira versão estável: o objetivo é limitar possíveis falhas de segurança relacionadas à gestão de memória. O projeto, supervisionado pelo Internet Security Research Group, está disponível no repositório “memorysafety/sudo-rs” no GitHub. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
