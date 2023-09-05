@@ -1,0 +1,45 @@
+{
+    "title": "Apple combate burnout / ICQ bloqueado / Pix taxado: “loucura”",
+    "fps": 30,
+    "timestamp": 1693924153,
+    "width": 0,
+    "height": 0,
+    "date": "05/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple está adotando nova estratégia para combater o burnout ou esgotamento profissional: ao contrário da abordagem comum de adicionar cada vez mais trabalho a funcionários altamente produtivos, a empresa está os recompensando com mais autonomia e flexibilidade de horários. A empresa, entretanto, mantém o rigoroso processo de seleção de candidatos e cultura de trabalho árduo. As informações são do site Inc. Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Justiça bloqueia aplicativo de mensagens ICQ no Brasil: a medida, executada em colaboração com a Anatel, a pedido da Polícia Federal, ocorreu devido ao uso do aplicativo para disseminação de conteúdo ilícito no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Diretor do Banco Central afirma ser “loucura” pensar em taxar transações via Pix: Renato Dias de Brito Gomes destacou, no entanto, que a decisão não seria responsabilidade do BC. A prioridade nesse momento é lançar o Pix Internacional (para transferências entre contas internacionais) e o Pix Automático (que permitirá pagamentos recorrentes). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Anatel inaugura laboratório para identificar automaticamente rotas de redes utilizadas por TV Box piratas: a agência tem combatido o uso desses equipamentos não homologados, estimados em 7 milhões por todo o país. O laboratório permitirá a automação da identificação de IPs utilizados por esses aparelhos, 24h por dia. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Serviço de videoconferência Jitsi Meet passa a exigir identificação de usuários: para criar uma sala de reunião, será necessário uma conta do Gmail, Facebook ou GitHub – participantes, entretanto, poderão continuar anônimos. O objetivo é combater abusos. As informações são do site Reclaim The Net.",
+            "url": ""
+        },
+        {
+            "text": "IBM e Fujifilm lançam fita magnética com capacidade recorde de 50 TB: o novo modelo aumenta em 2,5 vezes a capacidade anterior e, em modo de dados comprimidos, o armazenamento chega até 150 TB. A fita serve para o arquivamento de longo prazo de dados científicos, industriais e de provedores de serviços em nuvem. As informações são do site IBM Newsroom.",
+            "url": ""
+        },
+        {
+            "text": "WebGPU na versão Canary do Chrome ganha suporte a float16, permitindo inferência de LLMs locais de forma mais rápida: a novidade abre a possibilidade de carregar e rodar modelos por meio do navegador, sem depender de APIs online e pagas, como as da OpenAI. As informações são do site HackerNews.",
+            "url": ""
+        }
+    ]
+}
