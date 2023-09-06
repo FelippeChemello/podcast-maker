@@ -1,0 +1,41 @@
+{
+    "title": "Alerta grave no LastPass /  Pesadelo sobre rodas / Malware direcionado a brasileiros",
+    "fps": 30,
+    "timestamp": 1694010514,
+    "width": 0,
+    "height": 0,
+    "date": "06/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Especialistas acreditam que hackers estejam conseguindo quebrar chaves roubadas em violação do LastPass ocorrida no final do ano passado: Taylor Monahan, fundadora da carteira de ativos digitais MetaMask, e outros pesquisadores identificaram um conjunto confiável de evidências conectados a roubos direcionados a mais de 150 pessoas e que já acumulam prejuízos de 35 milhões de dólares – em específico, todos mantinham suas frases de recuperação (seed phrase) guardadas no LastPass. A indicação é alterar as credenciais imediatamente e migrar quaisquer ativos digitais para carteiras de hardware offline. As informações são do site KrebsOnSecurity.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla afirma que veículos modernos são “pesadelos sobre rodas” em relação à coleta de dados: um estudo das políticas de privacidade de 25 fabricantes nos EUA mostra que as empresas se reservam no direito de coletar o histórico de localização, hábitos de direção, preferências musicais, expressões faciais, peso e até mesmo informações genéticas por meio de sensores, microfones, câmeras e qualquer outro dispositivo que seja conectado aos carros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Malware direcionado à usuários brasileiros retorna com variante mais avançada e com uma implementação personalizada do protocolo DevTools do Google Chrome para roubar dados: a nova versão do Chaes visa plataformas como Mercado Livre, Mercado Pago, WhatsApp Web, Itaú e Caixa, com a possibilidade de modificação em tempo real das páginas web, execução de código JavaScript, gerenciamento de solicitações da rede, memória e de cookies. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Análise mostra que usuários de iPhones são 7,4 vezes mais valiosos para desenvolvedores do que usuários Android: isso mesmo com a Apple acumulando cerca de 650 milhões de usuários ativos na App Store, comparados com os 2,5 bilhões do Google. Além disso, o gasto potencial com apps e experiências imersivas na plataforma de computação espacial da Apple pode crescer em dez vezes, para 100 dólares/mês. As informações são do site Asymco.",
+            "url": ""
+        },
+        {
+            "text": "De acordo com pesquisa da GitLab, desenvolvimento de software com auxílio de IA será “inescapável”: 83% dos entrevistados veem essas ferramentas como essenciais para manter a competitividade e 90% já as implementaram no dia a dia. Os principais usos são chatbots para análise de documentação, testes automatizados e resumos de modificações em código ou comentários em issues. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta enfrenta tensões internas devido à escassez de recursos computacionais para o treinamento de IAs: apesar do sucesso do modelo Llama na comunidade open source, muitos cientistas e engenheiros estão deixando a empresa devido à limitação de recursos computacionais e competição entre times e seus modelos de IA. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
