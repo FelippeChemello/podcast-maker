@@ -1,0 +1,33 @@
+{
+    "title": "OpenAI anuncia DevDay / Supercomputadores da Petrobras / Fábricas paralisadas por HDs cheios",
+    "fps": 30,
+    "timestamp": 1694096888,
+    "width": 0,
+    "height": 0,
+    "date": "07/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI marca data para sua primeira conferência de desenvolvedores: o OpenAI DevDay pretende demonstrar novas ferramentas em sessões lideradas por membros da equipe técnica. O evento será transmitido ao vivo no dia 6 de novembro, mas não foi especificado um horário ainda. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Supercomputadores da Petrobras estão entre os mais eficientes do mundo: a classificação “GREEN500” coloca o Pégaso – o maior da América Latina em capacidade de processamento – na 43ª posição de eficiência, sendo o 35º em desempenho global. A lista também inclui o Gemini (56º em eficiência), Gaia (59º), Dragão (66º), Fênix (69º) e Atlas (73º). As informações são do site da Petrobras e TOP500.",
+            "url": ""
+        },
+        {
+            "text": "Fábricas da Toyota no Japão ficam paradas por quase dois dias após servidores ficarem sem espaço nos discos rígidos: segundo a montadora, a paralisação foi resultado de uma manutenção de rotina mal executada em máquinas que processam pedidos de peças, com o sistema de backup falhando igualmente por falta de espaço. A solução imediata foi transferir tudo para servidores com capacidade de armazenamento maior. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido coloca em pausa parte do projeto de lei que impediria sistemas criptografados de ponta-a-ponta: a legislação exige que as grandes empresas de tecnologia realizem o escaneamento automatizado em busca de conteúdos ilícitos, atingindo especialmente aplicativos de mensagens. A proposta, entretanto, não foi abandonada, com os legisladores aguardando que a tecnologia torne-se “tecnicamente viável”, algo impossível em sistemas E2EE. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
