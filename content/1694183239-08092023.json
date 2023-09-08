@@ -1,0 +1,45 @@
+{
+    "title": "iPhone: atualize já / Controvérsia no Ruby on Rails / Internet e idosos",
+    "fps": 30,
+    "timestamp": 1694183239,
+    "width": 0,
+    "height": 0,
+    "date": "08/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple atualiza iOS para fechar nova vulnerabilidade zero-click sendo explorada ativamente: denominada de Blastpass, a falha (CVE-2023-41064 e CVE-2023-41061) comprometia iPhones apenas com o recebimento de uma imagem especialmente preparada com código malicioso pelo iMessage, sem nenhuma interação da vítima. A versão 16.6.1 corrige a falha. As informações são do Citizen Lab.",
+            "url": ""
+        },
+        {
+            "text": "Criador do Ruby on Rails remove TypeScript do framework Turbo e gera descontentamento na comunidade: para DHH, o sistema de tipos do TypeScript “polui o código com contorcionismos”, trazendo poucos benefícios à sua experiência de desenvolvimento. A comunidade, entretanto, se mostrou extremamente desapontada, não apenas com a mudança, mas também pela forma como foi implementada – DHH ignorou todos os argumentos e implementou a alteração sozinho. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores descobrem que uso moderado da internet pode ser cognitivamente benéfico para idosos: o estudo acompanhou 18 mil adultos sem demência, entre 50 e 65 anos, por até 17 anos, descobrindo que usuários regulares da internet (até duas horas por dia) tinham metade da probabilidade em desenvolver demência. No entanto, é necessário estudar se há um efeito negativo para aqueles que usam a internet por mais tempo. As informações são do jornal científico da American Geriatrics Society.",
+            "url": ""
+        },
+        {
+            "text": "Anatel inicia consulta pública para revisar requisitos técnicos e de segurança dos carregadores de celular: o objetivo é criar um padrão nacional, incluindo também os carregadores por indução e para as portas USB presentes em veículos. As informações são do site TeleSíntese.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft se compromete proteger legalmente usuários em possíveis infrações de direitos autorais ao usar o Copilot: a empresa defenderá os clientes e cobrirá quaisquer custos de julgamentos ou acordos adversos. Para isso, é necessário que sejam usados todos filtros de conteúdo e outros sistemas de segurança integrados ao produto. As informações são do blog da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Chrome implementa o Privacy Sandbox de forma geral: o novo conjunto de APIs seria uma alternativa mais privada ao rastreamento por cookies de terceiros e a entrega de anúncios personalizados. A Microsoft está aberta a suportar a tecnologia no Edge, mas a Apple e Mozilla já manifestaram que rejeitam partes da implementação. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Linguagem Mojo já está disponível para rodar localmente em máquinas Linux: o SDK também inclui uma extensão para o VS Code, com destaque de sintaxe e conclusão de código. Mojo é focado no desenvolvimento de IAs, combinando o ecossistema e sintaxe do Python, mas com um grande ganho de desempenho. As informações são do blog da Modular.",
+            "url": ""
+        }
+    ]
+}
