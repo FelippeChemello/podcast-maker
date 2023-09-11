@@ -1,0 +1,45 @@
+{
+    "title": "Python em 1º / WhatsApp nos concorrentes / Apple perde 1 trilhão",
+    "fps": 30,
+    "timestamp": 1694442510,
+    "width": 0,
+    "height": 0,
+    "date": "11/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ranking anual da IEEE Spectrum mantém Python na 1ª posição geral de popularidade: a linguagem também ampliou sua liderança, especialmente em áreas como IA. Java e linguagens como C, C++ e C#, quando combinadas, ainda superam o Python em popularidade para tarefas que exigem alto desempenho. Na classificação relacionada a empregos, SQL aparece em primeiro lugar, sendo desejável em combinação com outras linguagens, como Java ou C++. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp estaria trabalhando em funcionalidade para troca de mensagens entre plataformas concorrentes: a versão de testes mais recente do aplicativo possui uma aba chamada “Third-party Chats” e parece ser em resposta às novas regras na União Europeia que exigirão interoperabilidade entre aplicativos de mensagens das grandes empresas de tecnologia. As informações são do site WABetaInfo.",
+            "url": ""
+        },
+        {
+            "text": "Apple já perdeu quase 1 trilhão de reais em valor de mercado após restrições ao uso de iPhones na China: o governo do país está ordenando que servidores não usem mais aparelhos da marca, tentando reduzir sua dependência de tecnologias dos EUA. O país, entretanto, é o maior mercado internacional da Apple, respondendo por 20% de suas receitas. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está treinando o maior modelo de imagem do mundo para identificação de tumores malignos: o sistema tem como objetivo identificar patologias comuns e raras. A intenção é facilitar o trabalho de médicos e melhorar a precisão em diagnósticos. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI admite que detectores de escrita por IA não funcionam: esses sistemas não conseguem distinguir de forma confiável entre conteúdo gerado por máquinas e humanos, frequentemente resultando em falsos positivos. A empresa também reforçou que o ChatGPT não possui a capacidade de reconhecer se um texto foi escrito por uma IA ou não. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Startup alemã apresenta tecnologia de armazenamento baseada em nanocamadas de cerâmica: a Cerabyte afirma que seus cartuchos e fitas magnéticas possuem densidades na faixa de TB/cm2, reduzindo o custo de armazenamento para data centers em até 75%. O CeraTape, previsto para 2030, promete armazenar até 1 exabyte por fita (1 milhão de terabytes), com durabilidade de 5 mil anos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Bun faz lançamento oficial da versão 1.0: o runtime JavaScript agora estaria “pronto para produção”, prometendo ser uma solução completa para substituição do Node.js, transpiladores (como tsc e babel), bundlers (esbuild e webpack), gerenciadores de módulos (npm e yarn) e libraries de testes (como jest e vitest). As informações são do blog do Bun.",
+            "url": ""
+        }
+    ]
+}
