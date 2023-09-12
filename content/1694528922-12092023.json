@@ -1,0 +1,45 @@
+{
+    "title": "Trunfo da Tesla / Novo LLM da Meta / WiFi “tira foto” através das paredes",
+    "fps": 30,
+    "timestamp": 1694528922,
+    "width": 0,
+    "height": 0,
+    "date": "12/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Supercomputador Dojo pode adicionar até 500 bilhões dólares ao valor de mercado da Tesla, um aumento de quase 60%: segundo analistas, o desenvolvimento dos chips personalizados para a máquina irão além do desenvolvimento da direção autônoma para veículos, com aplicação para qualquer dispositivo com uma câmera que tome decisões em tempo real com base em seu campo visual. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Próximo LLM da Meta almeja superar o GPT-4 da OpenAI: a empresa planeja iniciar o treinamento do novo modelo de linguagem no início 2024 em sua própria infraestrutura com aceleradores de IA H100 da Nvidia, sem precisar depender mais da plataforma Azure. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem nova abordagem para “tirar foto” de objetos estáticos através de paredes usando apenas sinais WiFi de roteadores comuns: a falta de movimento dos objetos torna o processo mais difícil, mas a técnica abre um grande campo de pesquisa para a utilização de radiofrequências como método de imagem. As informações são do site da Universidade da Califórnia em Santa Bárbara.",
+            "url": ""
+        },
+        {
+            "text": "Por segurança, Microsoft anuncia grande mudança na instalação de drivers para impressoras no Windows: o sistema operacional irá priorizar um driver universal, eliminando a necessidade de utilitários de instalação desenvolvidos pelos fabricantes desses dispositivos – falhas de segurança nesses arquivos são comuns e passam muitas vezes despercebidas por anos. Se ainda desejarem, os usuários poderão instalar drivers externos fornecidos pelos fabricantes. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Evento especial da Apple, “Wonderlust”, ocorre nesta terça-feira (dia 12/set): espera-se a apresentação da linha iPhone 15 e Apple Watch 9. Uma das grandes mudanças previstas para este ano será a aposentadoria da porta Lightning em favor do padrão USB-C nos dispositivos da marca. O evento será transmitido ao vivo a partir das 14h00 (horário de Brasília) e pode ser assistido no canal do YouTube da Apple. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vercel adiciona suporte ao gerenciador de módulos do Bun: projetos que contenham um arquivo “bun.lockb” rodarão por padrão o comando “bun install”. Assim como o yarn e pnpm, o Bun foca em acelerar o processo de instalação e economizar espaço em disco. A mudança afeta apenas a fase de build, não a de runtime. As informações são do changelog da Vercel.",
+            "url": ""
+        },
+        {
+            "text": "Algoritmo bate recorde mundial ao demonstrar capacidade de processar conjuntos de dados que superam a memória disponível de um computador: isso é feito identificando pontos-chave em um conjunto de dados massivo e dividindo-os em pequenos lotes, sendo eficiente tanto em computadores comuns quanto em supercomputadores. A técnica pode contribuir para a análise de grandes volumes de dados produzidos em pesquisas médicas, imagens de satélite, terremotos e redes sociais. As informações são do site TechXplore.",
+            "url": ""
+        }
+    ]
+}
