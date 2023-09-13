@@ -1,0 +1,45 @@
+{
+    "title": "Bomba em Devs de jogos / Atualize o Firefox / StabilityAI lança IA de música",
+    "fps": 30,
+    "timestamp": 1694615337,
+    "width": 0,
+    "height": 0,
+    "date": "13/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Popular engine de jogos Unity anuncia nova estrutura de preço, gerando confusão e alvoroço entre desenvolvedores: a partir de 2024, será cobrada uma taxa extra de até 20 centavos de dólar por cada instalação de jogos que usam a engine. Isso gerou uma enorme preocupação sobre como serão tratados jogos pirateados, demos ou quando o jogo for instalado em vários dispositivos pelo jogador ao longo do tempo. A mudança seria particularmente prejudicial para desenvolvedores de jogos independentes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla lança atualização de emergência para Firefox e Thunderbird: a vulnerabilidade em imagens no formato WebP (CVE-2023-4863) já está sendo explorada ativamente e pode resultar em execução arbitrária de código. As versões 117.0.1 do Firefox e 115.2.2 do Thunderbird corrigem o problema. A vulnerabilidade é a mesma que atingia dispositivos da Apple revelada na semana passada. O Chrome, que também utiliza a versão vulnerável da biblioteca WebP, já foi corrigido na segunda-feira. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "StabilityAI lança IA geradora de música: ao contrário de outros modelos de difusão de áudio, o Stable Audio pode gerar sons de tamanho dinâmico, não limitado a segmentos de 30 segundos, por exemplo. Foram usadas mais de 800 mil amostras para o treinamento do modelo, contendo instrumentos separados, músicas e efeitos sonoros. As informações são da página Research da StabilityAI.",
+            "url": ""
+        },
+        {
+            "text": "Principais operadoras de telefonia no Brasil aumentam o tom e cobram novamente divisão dos custos de investimentos com grandes empresas de tecnologia: o maior problema seria a transmissão de vídeo, que representará 80% de todo o tráfego até 2028. Uma das ideias seria que os consumidores paguem pelo acesso e os provedores de conteúdo pelo desempenho da rede. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Começa nos EUA o julgamento antitruste contra o Google, maior caso do tipo em mais de duas décadas: o argumento central é que o Google domina o mercado de buscas de forma injusta ao estabelecer contratos de exclusividade com empresas como a Apple e Mozilla, prejudicando rivais. O Google argumenta que detém 90% do mercado baseado no mérito do seu produto. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia padrão de conectividade Thunderbolt 5: a largura de banda bidirecional de 80 Gbps é o dobro do Thunderbolt 4, mas pode chegar a 120 Gbps para displays externos. Computadores e acessórios estarão disponíveis a partir de 2024, e serão compatíveis com versões anteriores, utilizando o mesmo conector USB-C. As informações são da página de imprensa da Intel.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança Watch 9 e iPhone 15 – iOS 17 sai na próxima segunda: o smartwatch é o primeiro produto 100% carbono neutro da companhia, não só no aspecto produtivo, mas também ao estimar quanta eletricidade será necessária para carregar o dispositivo ao longo de sua vida útil, com a empresa comprando créditos de energia renovável em nome dos consumidores. O iPhone 15 e 15 Pro receberam modestas atualizações de velocidade, câmeras e novos materiais construtivos, com destaque para a moldura externa do Pro feita em titânio. A Apple também confirmou o lançamento do iOS 17 para a próxima segunda (dia 18). As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
