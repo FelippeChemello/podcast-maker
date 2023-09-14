@@ -1,0 +1,45 @@
+{
+    "title": "Falha crítica: atualize tudo / Reunião a portas fechadas / Jovens caindo em golpes",
+    "fps": 30,
+    "timestamp": 1694701725,
+    "width": 0,
+    "height": 0,
+    "date": "14/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vulnerabilidade crítica no WebP Codec é muito mais ampla e afeta diversos aplicativos, não apenas navegadores: a falha afeta qualquer software que utilize a library “libwebp” (que codifica e decodifica imagens no formato WebP), incluindo aplicativos baseados no Flutter, Electron (como Signal e 1Password), Telegram, LibreOffice, Gimp, ffmpeg e muitos outros. As informações são do site Stack Diary.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk (Tesla), Sam Altman (OpenAI), Bill Gates (Microsoft), Mark Zuckerberg (Meta), Sundar Pichai (Google) e Jensen Huang (Nvidia) se reúnem a portas fechadas com senadores nos EUA discutir legislação sobre IAs: Musk alertou que a tecnologia é potencialmente “prejudicial a todos os seres humanos”. Altman diz estar muito otimista, mas acredita em “instabilidades” ao longo do caminho. Os senadores afirmaram que todos os participantes concordaram que o governo deve regular a tecnologia, mas a criação de uma legislação será desafiadora e está longe de acontecer. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Jovens são cada vez mais vítimas de golpes online, mas idosos continuam a ser os mais afetados: em 2022, jovens norte-americanos com menos de 20 anos perderam 210 milhões de dólares com golpes, um crescimento de 2.500% desde 2017. Idosos perderam 3 bilhões, um crescimento de 805% no mesmo período. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Faturamento da Starlink cresce seis vezes em um ano, mas fica bem abaixo do esperado: a receita de 1,4 bilhão de dólares em 2022 representa apenas 12% das projeções, incluindo os seus 1,5 milhão de assinantes (as estimativas eram de 20 milhões). O kit de antena e roteador, entretanto, não geram mais prejuízo para a empresa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Movimento da Anatel para ampliar suas competências e regular a internet seria “inapropriado”, afirma jurista: Floriano de Azevedo Marques Neto destaca que isso desconfiguraria o papel central da agência (regular o setor de telecomunicações), mas que é preciso adaptar regras para enfrentar os desafios que surgiram com o uso das redes para finalidades que não foram pensadas durante sua criação, em 1995. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp lança recurso Canais no Brasil: a função fica dentro de uma nova aba chamada “Atualizações”, separada das conversas, permitindo que empresas e indivíduos criem espaços para o envio de mensagens, sem limite de participantes. A funcionalidade será liberada aos poucos no país. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Suécia decide reverter digitalização intensiva em salas de aula: o governo irá revogar a obrigatoriedade de dispositivos digitais em pré-escolas e encerrar o aprendizado digital para crianças menores de 6 anos, voltando a livros impressos e prática de caligrafia. O Instituto Karolinska, um dos maiores centros de pesquisa da Europa, afirma que há evidências científicas claras de que as ferramentas digitais prejudicam o aprendizado dos alunos. As informações são da Associated Press.",
+            "url": ""
+        }
+    ]
+}
