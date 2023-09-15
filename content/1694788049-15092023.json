@@ -1,0 +1,45 @@
+{
+    "title": "Anúncios no WhatsApp / CLT no Uber / TICs crescem no Brasil",
+    "fps": 30,
+    "timestamp": 1694788049,
+    "width": 0,
+    "height": 0,
+    "date": "15/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta nega que estaria estudando mostrar anúncios no WhatsApp: segundo reportagem do jornal Financial Times, a empresa estaria avaliando como mostrar anúncios na lista de conversas da tela inicial do aplicativo. Em comunicado, a empresa nega que teria planos ou estaria testando essa funcionalidade. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Justiça do Trabalho condena Uber a pagar multa de 1 bilhão de reais por danos morais coletivos: além disso, a empresa precisará contratar em regime de CLT até 774 mil profissionais que trabalham como motoristas para a plataforma. A Uber afirmou que irá recorrer até o esgotamento de todos os recursos cabíveis. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de TICs registram um dos maiores crescimentos no setor de serviços: de acordo com o IBGE, o crescimento de 5,1% no primeiro semestre é justificado pelo aumento na receita das empresas de telecomunicações, desenvolvimento e licenciamento de softwares, consultoria em tecnologia da informação, tratamentos de dados, provedores de serviços de aplicação e serviços de hospedagem na Internet e desenvolvimento de programas de computador sob encomenda. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cabo de fibra óptica submarino entre Fortaleza e Rio de Janeiro sofre rompimento parcial, afetando conexão de internet no Brasil: o conserto já está em andamento, mas não há previsão para finalização. Também não foi definida a causa do rompimento. Enquanto isso, rotas de contingência foram ativadas para minimizar impactos nos serviços. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança mundo virtual Horizon Worlds para web e dispositivos móveis: a expansão visa levar a experiência do metaverso para um público maior, sem a necessidade de óculos de realidade virtual. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Novo chip do iPhone 15 Pro tem desempenho single-core que rivaliza os de PC desktop: o resultado de 2914 pontos do A17 Pro no Geekbench 6 chega muito próximo de processadores como AMD Ryzen 9 7950X (3172 pontos) e Intel Core i9-13900K (3223 pontos), mesmo operando à uma frequência de 3,7 GHz, cerca de 30% menor do que os concorrentes. Em termos de desempenho multi-core, entretanto, os chips para PCs superam em 3x a performance do A17 Pro. O desempenho single-core é importante, entretanto, porque grande parte dos aplicativos não consegue aproveitar os vários núcleos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google se compromete com atualizações de software para Chromebooks por 10 anos: além disso, para melhorar a vida útil da bateria desses dispositivos, serão introduzidas funções como carregamento adaptativo e modo de economia de bateria. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
