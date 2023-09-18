@@ -1,0 +1,45 @@
+{
+    "title": "IA não vai substituir Devs / Unity pausa mudanças / TICs e reforma tributária",
+    "fps": 30,
+    "timestamp": 1695047326,
+    "width": 0,
+    "height": 0,
+    "date": "18/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro de software e estudioso da história da computação afirma que IA não tornará programadores obsoletos e sua importância só aumentará com o tempo: Zeb Larson faz um paralelo com linguagens de programação como FORTRAN, que iria permitir a cientistas escreverem código sem apoio de programadores, ou COBOL, com sua sintaxe em inglês concebida para ser simples o suficiente para administradores de empresas. Mais recentemente, a programação orientada a objetos deveria ser tão simples que, eventualmente, qualquer usuário de computador poderia escrever seus próprios programas. Essas ferramentas, entretanto, acabaram introduzindo novas complexidades, e por consequência, aumentaram a demanda por programadores. Larson acredita que as IAs irão sim automatizar tarefas rotineiras, mas aumentarão a expectativa de produtividade sobre engenheiros de software. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Unity pede desculpas e promete revisar recém anunciada estrutura de preços após intensas críticas de desenvolvedores: a empresa promete mudanças para esta semana após diversos estúdios de jogos ameaçarem desistir da plataforma. A Unity queria cobrar uma taxa extra por cada instalação que usasse sua engine, gerando uma enorme preocupação entre desenvolvedores de jogos, especialmente os independentes. As informações são do site IGN.",
+            "url": ""
+        },
+        {
+            "text": "Emenda insere setor de TIC em regime diferenciado na reforma tributária: a intenção é equiparar o setor de TI a áreas como saúde, educação e transporte coletivo, podendo reduzir em 60% o IVA, que substituirá diversos impostos atuais. A PEC 45/2019 tem previsão de ser votada no Senado em outubro deste ano. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 30% dos brasileiros já usam VPNs: além disso, 74% das pessoas sabem o que é uma VPN, com a maioria (52,4%) optando por serviços gratuitos. As principais motivações são segurança e privacidade online. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT assumem erro e alertam para piora no trânsito com veículos autônomos e robotáxis: inicialmente, a previsão era a de que aplicativos como Uber melhorariam o trânsito nas grandes cidades, mas acabaram intensificando o tráfego, pois tornaram o uso de carros mais conveniente do que ônibus e metrôs. Os veículos autônomos tendem a piorar a situação, causando ainda mais congestionamentos. As informações são do jornal San Francisco Chronicle.",
+            "url": ""
+        },
+        {
+            "text": "Trabalhadores de tecnologia continuam a reivindicar aumento nos salários, mesmo com economia ainda em recuperação: segundo a Lorien, empresa de recrutamento especializada no setor, os empregadores “precisam entender” que a demanda por esses profissionais continua forte, dado a necessidade de se investir em novas tecnologias. Os cargos mais quentes no momento são em cibersegurança, engenharia de dados e IA. As informações são do site Staffing Industry Analysts.",
+            "url": ""
+        },
+        {
+            "text": "Lançamento da IA Gemini do Google estaria próximo: uma versão preliminar já está rodando em alguns parceiros empresariais. O modelo combinaria técnicas de aprendizado e LLMs para permitir novas funcionalidades, como a capacidade de planejar e resolver problemas. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
