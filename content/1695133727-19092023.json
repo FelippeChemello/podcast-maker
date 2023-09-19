@@ -1,0 +1,45 @@
+{
+    "title": "Remoto é mais produtivo / Anatel investiga iPhone / PF prende hacker no Brasil",
+    "fps": 30,
+    "timestamp": 1695133727,
+    "width": 0,
+    "height": 0,
+    "date": "19/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Salesforce, apesar de ter incentivado retorno ao escritório, reconhece que engenheiros de software são “extremamente” produtivos ao trabalhar remotamente: Marc Benioff confessou que sua preferência pessoal também é pelo remoto e que nunca conseguiu trabalhar bem no escritório. No entanto, ele acredita que para outras funções, como vendas por exemplo, a produtividade é maior com equipes presenciais. As informações são da revista Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Anatel decide investigar radiação eletromagnética emitida pelo iPhone 12 após a França suspender vendas do aparelho: há preocupações com a Taxa de Absorção Específica (SAR), um parâmetro que mede a quantidade de energia absorvida pelo corpo humano durante o uso de equipamentos de telecomunicações – o Brasil segue o padrão europeu, com limite de 2 W/kg. A Apple já anunciou uma atualização de software para o dispositivo. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Federal prende hacker responsável por ataque a sistemas da Justiça em 2021: o criminoso, conhecido como “FI”, era procurado internacionalmente e falsificou assinaturas digitais de juízes, alterando pareceres em vários processos nos quais era o réu, sugerindo sua absolvição e a liberação de valores para suas contas. As informações são do site Exame.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Microsoft deixam 38 TB de dados sensíveis expostos por 3 anos: ao publicar um conjunto para o treinamento de IAs no GitHub, a equipe também incluiu acidentalmente backups de workstations de funcionários, contendo segredos, chaves privadas, senhas e 30 mil mensagens internas do Teams. As informações são do blog da Wiz.",
+            "url": ""
+        },
+        {
+            "text": "Programa Paint no Windows ganha suporte a layers e remoção do plano de fundo: a atualização, que começou a ser distribuída para usuários do Windows Insiders nos canais Canary e Dev, permite gerenciar camadas para sobrepor formas, textos e outros elementos, além de ganhar a capacidade de remover o fundo de imagens e a de manipular PNGs transparentes. As informações são do blog Windows Insider.",
+            "url": ""
+        },
+        {
+            "text": "Diretor de produtos da Microsoft anuncia saída de forma abrupta: Panos Panay, que liderava a divisão Windows e Hardware da empresa, não vai mais apresentar o evento de lançamento de novos dispositivos marcado para esta quinta-feira. Rumores apontam que ele estaria indo trabalhar na divisão Alexa e Echo da Amazon. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google lança grande atualização para o Bard: o chatbot agora pode buscar informações em tempo real no YouTube, Mapas, Hotels e Flights, e consegue interagir com dados do Gmail, Docs e Drive do usuário. As informações são da página Experiment Updates do Bard.",
+            "url": ""
+        }
+    ]
+}
