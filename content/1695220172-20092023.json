@@ -1,0 +1,45 @@
+{
+    "title": "Peça para IA “respirar fundo” / Red Team da OpenAI / Muitos livros de IA",
+    "fps": 30,
+    "timestamp": 1695220172,
+    "width": 0,
+    "height": 0,
+    "date": "20/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pedir para um modelo de IA “respirar fundo” antes de realizar cálculos matemáticos melhora sua precisão: os pesquisadores do Google DeepMind descobriram que o uso de encorajamentos, e frases como “vamos pensar passo a passo”, melhora as habilidades de resposta de LLMs. O time desenvolveu uma técnica chamada OPRO (Optimization by PROmpting) para descobrir quais frases de estímulo são as mais eficazes. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança iniciativa “Red Teaming Network” para fortalecer seus modelos de IA contra ataques: a empresa está convidando especialistas e instituições de pesquisa para a criação de estratégias para mitigação de riscos. Os membros da rede serão selecionados com base em sua experiência em vários estágios do ciclo de vida de desenvolvimento de modelos e produtos da empresa. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Amazon restringe quantidade de livros que podem ser autopublicados por dia para combater conteúdo gerado por IA: o limite de três livros por dia vem em resposta aos crescentes problemas relacionados a livros escritos por IA na plataforma, incluindo conteúdo potencialmente perigoso, como guias de cogumelos selvagens com identificações incorretas.. As informações são do site TheMessenger.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk nega que X passará a cobrar mensalidade de todos os usuários: a informação tem sido reportada por várias agências de notícias, mas o que Musk estaria sugerindo seria um valor menor para o X Premium, para incentivar a verificação de mais usuários, uma medida que vê como necessária para combater a proliferação de bots em redes sociais. O valor não foi revelado, mas seriam “alguns dólares” por mês. As informações são do perfil de Elon Musk no X.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança “Tap to Pay” no Brasil: o recurso permite que vendedores usem o iPhone como uma “maquininha de cartão”, aceitando pagamentos por aproximação. A primeira plataforma de pagamento a oferecer o serviço no Brasil é a InfinitePay, mas a Apple já negocia também com a Granito, Nubank, Stone e SumUp. As informações são da página de imprensa da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Em parceria com o MIT e Microsoft, Projeto Gutenberg transforma parte de seu acervo em audiolivros usando sintetização de fala: a iniciativa visa ampliar o acesso à títulos antigos ou menos conhecidos nesse formato. Os primeiros 5 mil audiolivros estão disponíveis gratuitamente no Spotify, Apple Podcasts e no Internet Archive. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenTF, fork do Terraform, muda de nome para OpenTofu e passa a ser gerenciado pela Fundação Linux: o projeto nasceu em agosto deste ano quando a HashiCorp mudou a licença de código aberto do Terraform para BUSL (Business Source License). O OpenTofu é compatível com as versões 1.5.x do Terraform, sem a necessidade de alterações no código. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
