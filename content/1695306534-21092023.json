@@ -1,0 +1,45 @@
+{
+    "title": "Devs: demanda supera oferta / DALL-E v3 / Marco regulatório de games",
+    "fps": 30,
+    "timestamp": 1695306534,
+    "width": 0,
+    "height": 0,
+    "date": "21/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Para CEO do GitHub, demanda por desenvolvedores de software superará a oferta, mesmo com os ganhos de produtividade gerados por IAs: Thomas Dohmke afirma que nos próximos 10 anos, a quantidade de software produzido vai crescer exponencialmente, gerando um número cada vez maior de linhas de código para serem gerenciados, isso sem contar o software legado das grandes indústrias, como bancos, que precisam ser atualizados para linguagens modernas. Além disso, Dohmke acredita que “todas as empresas serão empresas de software” no futuro. As informações são do TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI apresenta DALL-E 3: uma das grandes novidades será a integração nativa ao ChatGPT – o próprio chatbot ajudará na criação de imagens por meio de prompts mais elaborados e baseados em conversas com o usuário. O DALL-E 3 gera imagens de maior qualidade e lida melhor com texto e mãos humanas. O lançamento será em outubro, exclusivamente para assinantes do ChatGPT Plus. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Senado vota hoje regulamentação sobre jogos eletrônicos e fantasy games no Brasil: o PL 2.796/2021 cria o marco legal para a indústria de jogos, criando as categorias de jogos eletrônicos (celular, computador, consoles, etc) e os jogos de fantasia (competições esportivas eletrônicas, e-Sports). Máquinas caça-níqueis ou outros jogos de azar ficam de fora do escopo da lei, mas não fica claro como se enquadram os aplicativos de apostas esportivas. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Estudantes brasileiros são premiados no Intel AI Global Impact Festival 2023: o projeto de Laura Jeronimo, Pedro Costa, Raíssa Daloia utiliza uma webcam e as bibliotecas de código aberto CMAKE, DLIB e OPENCV para rastrear o movimento ocular de indivíduos com Esclerose Lateral Amiotrófica, facilitando a sua comunicação ao reduzir o tempo de escrita de uma frase de uma hora para apenas três minutos. As informações são da página de imprensa da Intel.",
+            "url": ""
+        },
+        {
+            "text": "Amazon apresenta Alexa com IA generativa: o sistema é um LLM otimizado para interações de voz, contato visual e linguagem corporal, com a capacidade de continuar conversas sem a palavra de ativação “Alexa”. O modelo também pode ajustar seu tom para expressar ânimo e surpresa, permitindo interações mais naturais. O lançamento ocorrerá em breve nos EUA, com todos os recursos disponíveis por meio de uma atualização gratuita nos dispositivos Echo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Signal Protocol, protocolo de criptografia de ponta a ponta utilizado pelo WhatsApp, Signal e Google RCS, recebe atualização para criptografia pós-quântica: o PQXDH adiciona uma camada adicional de proteção por meio do algoritmo CRYSTALS-Kyber, um dos quatro algoritmos selecionados pelo NIST como um potenciais substitutos para formas de criptografia vulneráveis a computadores quânticos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Serviço de VPN Mullvad completa transição para infraestrutura totalmente baseada em RAM, sem discos rígidos: segundo a empresa, rodar o sistema em RAM não impede o log acidental de usuários, mas minimiza o seu risco – se uma máquina for desligada, quando movida ou confiscada, não há dados para serem recuperados. Além disso, há benefícios operacionais, já que HDs estão entre os componentes que quebram com maior frequência. As informações são do blog da Mullvad.",
+            "url": ""
+        }
+    ]
+}
