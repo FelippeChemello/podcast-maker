@@ -1,0 +1,45 @@
+{
+    "title": "NFTs: fogo de palha / Passkeys no GitHub / Advocacia no metaverso",
+    "fps": 30,
+    "timestamp": 1695392868,
+    "width": 0,
+    "height": 0,
+    "date": "22/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa mostra que 95% dos NFTs já perderam totalmente o seu valor: foram analisadas mais de 73 mil coleções, com a grande maioria registrando um valor de mercado de 0 ETH. Além disso, apenas 21% de cada NFT analisado já trocou de mãos, ou seja, foi vendido. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "GitHub disponibiliza Passkeys de forma geral para acessos sem uso de senhas e 2FA: para habilitar o sistema basta ir em Ajustes, Segurança, Senhas e Autenticação, procurar por Passkeys, clicar em “Adicionar uma passkey”, escolher um dispositivo com autenticação biométrica, confirmar e escolher um nome para a credencial (Chrome no macOS, por exemplo). As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OAB autoriza prestação de serviços de advocacia no metaverso: o uso de avatares em ambientes virtuais deve seguir os mesmos princípios éticos e diretrizes da entidade para a atividade. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Plataforma de DevOps Harness lança Gitness, uma alternativa de código aberto ao GitHub: para a Harness, os atuais serviços de hospedagem de repositórios Git estão muito complicados e “inchados” – o Gitness pode rodar em uma máquina virtual ou no próprio computador do desenvolvedor. O sistema também se integra com o CI/CD da Harness e outras ferramentas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Evento da Microsoft apresenta novo hardware e atualizações para o Windows: o Surface Laptop Studio 2 pode ser configurado com CPU i7 de 13ª geração, GPU RTX 4060 e até 64 GB de RAM. Já o Laptop Go 3 é um super compacto com preço mais acessível. O Windows 11 ganha uma grande atualização no dia 26, com integração do assistente de IA Copilot em todo o sistema (e Edge), um Explorador de Arquivos redesenhado e suporte nativo a Passkeys. O Bing Chat também ganhará suporte ao recém lançado DALL-E 3 da OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Entidades e pesquisadores em direitos digitais europeus criticam proposta das operadoras de telefonia de cobrar “pedágio na internet” das grandes empresas de conteúdo online, como Google e Meta: as contrapartidas financeiras gerariam efeitos na concorrência, qualidade dos serviços e violação da neutralidade da rede. No Brasil, a Anatel abriu consulta para discutir o tema e especialistas apontam que o debate também precisa ocorrer no Congresso. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança seu próprio CAPTCHA, focado em privacidade e resistência à censura: o sistema possui uma estratégia de defesa em várias camadas, combinando desafios visuais com prova de trabalho computacional, garantindo uma resposta adaptável a comportamentos suspeitos e reduzindo o impacto a usuários legítimos. A empresa ainda está avaliando se torna o serviço disponível para terceiros via API no futuro. As informações são do blog da Proton.",
+            "url": ""
+        }
+    ]
+}
