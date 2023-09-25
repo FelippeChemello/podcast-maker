@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT agora vê e fala / Unity volta atrás / Mozilla faz alerta",
+    "fps": 30,
+    "timestamp": 1695652141,
+    "width": 0,
+    "height": 0,
+    "date": "25/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT agora pode ver, ouvir e falar com usuários: esses recursos permitem, por exemplo, tirar fotos da despensa e geladeira para obter sugestões do que cozinhar ou então discutir com o assistente sobre um tema específico. As funcionalidades estarão disponíveis para usuários Plus e Enterprise em dispositivos iOS e Android nas próximas duas semanas. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Unity reverte grande parte de sua nova estrutura de preços após intensas críticas de desenvolvedores: a controversa taxa extra por instalação de sua engine não será mais cobrada por jogos desenvolvidos com versões atuais ou antigas, mas apenas para jogos que adotarem uma nova versão, a partir de 2024. Jogos que venderem mais de 1 milhão de dólares, precisarão pagar uma taxa de 2,5% sobre a receita. Apesar das alterações, a confiança dos desenvolvedores com a Unity foi seriamente danificada, com muitos deles já procurando por alternativas para seus próximos jogos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Justiça determina que não é permitida a notificação exclusivamente por email ou mensagens de texto para inscrever uma pessoa em cadastros de inadimplentes: a regra é prevista no Código de Defesa do Consumidor, mas a comunicação precisa ser feita por correspondência ao endereço da pessoa com a conta em atraso e não apenas por meios eletrônicos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novo spyware crítico é instalado por meio de redes de anúncios online: a empresa de tecnologia israelense Insanet, que tem como clientes empresas e governos, desenvolveu o spyware Sherlock que se instala em PCs Windows ou dispositivos Android e iOS, sem a necessidade de interação do usuário. Um relatório interno obtido pelo jornal Haaretz, mostra que cada infecção custa cerca de 6 milhões de dólares, fazendo com que seus alvos sejam pessoas muito importantes ou influentes. As informações são do site The Conversation.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia investimento de até 4 bilhões de dólares na Anthropic, principal rival da OpenAI: como parte do acordo – similar ao da Microsoft e OpenAI – a AWS será o principal provedor cloud da startup. A Anthropic possui um chatbot chamado Claude, mas está construindo o “Claude-Next”, uma IA que seria 10 vezes mais capaz do que os modelos atuais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft busca gerente para programa de tecnologia nuclear próprio: o cargo deverá implementar e supervisionar uma estratégia global de Reatores Modulares Pequenos (SMRs) e microrreatores para alimentar seus datacenters. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla alerta para táticas injustas na escolha de navegadores padrão em sistemas operacionais: a partir de 2024, a Europa exigirá que empresas como Microsoft, Apple e Google ofereçam “telas de escolha” para definir o navegador padrão do sistema. Para realmente promover a competição, as opções devem destacar breves descrições de cada navegador e com as pontuações de usuários. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
