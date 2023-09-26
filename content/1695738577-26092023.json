@@ -1,0 +1,45 @@
+{
+    "title": "Meta recontrata demitidos / Carmack + Sutton = AGI? / Sony invadida",
+    "fps": 30,
+    "timestamp": 1695738577,
+    "width": 0,
+    "height": 0,
+    "date": "26/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grandes empresas de tecnologia, como Meta e Salesforce, estão tentando recontratar funcionários que demitiram no começo deste ano: o movimento tem sido impulsionado pela crescente demanda por profissionais de TI, especialmente em áreas como inteligência artificial. Especialistas, entretanto, recomendam que ex-funcionários questionem a empresa sobre sua estratégia de longo prazo e como não se encontrará mais uma vez cortando pessoal. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Richard Sutton, um dos pesquisadores de IA mais respeitados da área, une-se ao lendário programador John Carmack para o desenvolvimento da AGI (Inteligência Artificial Geral): Sutton é um dos fundadores da aprendizagem por reforço computacional e Carmack foi o principal programador dos jogos Wolfenstein 3D, Doom e Quake. Ambos estão comprometidos em estabelecer e documentar “sinais de vida” artificial super inteligente até 2030. As informações são do site Globe Newswire.",
+            "url": ""
+        },
+        {
+            "text": "Spotify vai clonar vozes de podcasters e traduzi-las para outros idiomas: inicialmente, episódios em inglês serão traduzidos para o espanhol, com planos para francês e alemão nas próximas semanas. A funcionalidade se baseia em duas ferramentas da OpenAI – o modelo de transcrição Whisper e um novo sintetizador de voz de uso restrito e que não será aberto ao público. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Huawei introduz nova tecnologia de conexão sem fio de curto alcance: o NearLink possui uma largura de banda seis vezes maior do que o Bluetooth, 1/30 da latência, consumo de energia 60% menor, conexão mais estável e dobro da distância de cobertura. Apesar das vantagens, é muito improvável que a tecnologia seja integrada em dispositivos de grandes empresas, devido a Huawei estar em uma lista de sanções dos EUA.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de ransomware recém lançado afirma ter comprometido todos os sistemas da Sony: o grupo RansomedVC, criado neste mês de setembro, declarou a intenção de vender os dados em vez de pedir resgate. A Sony ainda não se pronunciou sobre o ataque. As informações são do site Cybersecurity Connect.",
+            "url": ""
+        },
+        {
+            "text": "Armazenamento do Grupo Globo já ultrapassa os 12 petabytes: desde 2019, esse número cresceu 46%. A empresa possui vários clusters de dados replicados para recuperação em caso de desastre. O grupo chegou a visitar a Lightstorm Entertainment, produtora do cineasta James Cameron, para entender como manejar o grande volume de dados gerado pela produção de novelas em 4K. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Com Android 12, Google pretende se aproximar mais do kernel Linux padrão: o objetivo do GKI (Generic Kernel Image) é fazer o fork do kernel Linux uma única vez e permitir que fabricantes de chips e dispositivos consigam personalizá-lo por meio de módulos e plug-ins. A medida permitirá atualizações do kernel mais rápidas e simples por meio da Play Store. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
