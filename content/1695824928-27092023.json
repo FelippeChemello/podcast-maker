@@ -1,0 +1,45 @@
+{
+    "title": "Valor da OpenAI explode / Plano B da Microsoft / PL quer internet em voos",
+    "fps": 30,
+    "timestamp": 1695824928,
+    "width": 0,
+    "height": 0,
+    "date": "27/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI busca uma avaliação entre 80 e 90 bilhões de dólares com nova rodada de investimentos: o valor é quase três vezes superior à avaliação obtida no ano passado. A empresa também estaria discutindo com Jony Ive, ex-diretor de design da Apple, a construção de um dispositivo específico para inteligência artificial. As informações são do site Tech Xplore e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está trabalhando em “plano B” para reduzir dependência da OpenAI: devido aos crescentes custos com a tecnologia de IA generativa, a empresa orientou seus pesquisadores a desenvolverem uma IA conversacional de menor custo, mesmo que o desempenho seja inferior ao do ChatGPT. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de Lei 1900/23 obriga companhia aérea a oferecer internet de graça em voos nacionais com mais de duas horas: a conexão também deverá atender aos padrões de banda larga estipulados pela Anatel. As Comissões da Câmara e do Senado ainda irão analisar a proposta. As informações são da Agência Câmara de Notícias.",
+            "url": ""
+        },
+        {
+            "text": "Brasil ocupa a 32ª posição em ranking mundial de preços de internet móvel: por aqui, 1 GB custa 0,40 dólar. A pesquisa, realizada em 237 países, mostra que na América do Sul, a Colômbia possui os preços mais em conta (0,20 dólar por GB), ficando em 10º lugar global. Israel fica na liderança (cobrando 0,02 de dólar por GB) e Zimbábue em último lugar (43,75 dólares por GB). As informações são do site Cable UK.",
+            "url": ""
+        },
+        {
+            "text": "CIA está desenvolvendo chatbot de IA próprio para facilitar acesso a dados de inteligência por seus analistas: não está claro qual tecnologia será usada e quais dados serão usados para treinar o modelo. A agência apenas menciona que a escala de informações coletadas cresceu “astronomicamente” nos últimos anos, o que acaba as tornando inutilizáveis para seus analistas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Em parceria com a Nvidia, uma das maiores fornecedoras de imagens e fotos editoriais do mundo lança ferramenta de IA generativa treinada exclusivamente em sua base: a Getty Images possui uma biblioteca com 477 milhões de ativos e a principal vantagem da ferramenta é sua segurança para uso comercial. A tecnologia também pode ser integrada a outros aplicativos via API. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Para Meredith Whittaker, presidente da Signal Foundation, IA é uma “tecnologia de vigilância”: é por isso, argumenta, que tantas empresas que dependem da monetização dos dados de seus usuários, como Google, Meta e Microsoft, estejam extremamente interessadas na tecnologia. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
