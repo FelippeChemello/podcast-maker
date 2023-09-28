@@ -1,0 +1,45 @@
+{
+    "title": "R$100 mi por zero-day / TI: mercado se recuperando / “iPhone” da OpenAI",
+    "fps": 30,
+    "timestamp": 1695911321,
+    "width": 0,
+    "height": 0,
+    "date": "28/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresa russa está oferecendo até 20 milhões de dólares (100 milhões de reais) por exploits zero-day que permitam a invasão de iPhones e dispositivos Android: a Operation Zero destaca que seus clientes são apenas organizações privadas e governamentais russas, e que seus serviços serão oferecidos exclusivamente em países não integrantes da OTAN. O bounty é temporário, sendo reflexo de um momento específico no mercado – quando um ator malicioso precisa de acesso a um produto, ele geralmente está disposto a pagar o máximo possível antes que a Apple ou Google descubram e consertem a falha. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Demissões no setor de tecnologia diminuem drasticamente nos últimos meses: após um pico em janeiro, o número de desligamentos registrou queda por sete meses consecutivos, caindo mais de 90% até setembro. Além disso, as empresas estão tentando preencher novamente funções que tinham sido eliminadas há pouco tempo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria desenvolvendo “iPhone da inteligência artificial”: surgiram mais detalhes sobre o primeiro hardware da startup, assim como reportado na edição da Newsletter de ontem. O projeto, em fase inicial e com diversas ideias ainda sendo consideradas, contaria com o estúdio LoveFrom, do ex-chefe de design da Apple, um chip desenvolvido pela Arm e mais de 1 bilhão de dólares da empresa de investimentos Softbank. O objetivo é criar um dispositivo que ofereça uma experiência de usuário “natural e intuitiva” com IAs. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "26 dos 100 sites mais populares, e 242 dos 1.000 principais, já estão bloqueando o web crawler “GPTBot” da OpenAI: os números representam um crescimento de 250% em comparação ao mês anterior. Interessantemente, o “CCbot” da Common Crawl, é menos bloqueado (109 dos 1.000 principais sites), esse os dados angariados por esse web crawler também são usados pela OpenAI no treinamento de suas IAs. As informações são do site Search Engine Land.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT agora pode buscar informações atualizadas diretamente na web: o recurso “Browse with Bing” fornece informações atualizadas – não mais limitadas aos dados de treinamento anteriores a setembro de 2021 – e fornece links diretamente às fontes de onde extraiu as informações. Apesar de apenas disponível apenas para assinantes Plus no momento, o recurso deve ser aberto a todos em breve. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg revela novidades de IA e metaverso no Meta Connect 2023: durante a 10ª conferência anual da empresa foram apresentados dois dispositivos – o Meta Quest 3, headset de realidade mista e Ray-Ban Meta, óculos inteligentes câmera e IA embarcada (nenhum dos dois estará disponível no Brasil inicialmente). Outro grande lançamento foi o Meta AI, um assistente pessoal baseado no Llama 2, que será incorporado ao WhatsApp, Instagram e Facebook. O AI studio permitirá que desenvolvedores criem IAs personalizadas para os serviços de mensagens da Meta e que poderão ser usadas por criadores de conteúdo para interagir com suas comunidades ou para que empresas interajam com clientes em vendas e atendimento. As informações são do próprio portal da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry Pi 5 é lançado: o novo modelo é mais de duas vezes mais rápido que seu antecessor, com CPU Arm Cortex-A76 quad-core de 2,4GHz, GPU VideoCore VII, duas saídas HDMI (4Kp60), Wi-Fi 802.11ac, Ethernet gigabit (com suporte a PoE+), interface PCIe 2.0, entre outros. Além disso, o modelo conta com o RP1, controlador de I/O desenvolvido internamente pela empresa. O dispositivo custará 60 dólares para a variante com 4GB de RAM e 80 dólares para a de 8GB. As informações são do site do Raspberry Pi.",
+            "url": ""
+        }
+    ]
+}
