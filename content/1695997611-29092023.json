@@ -1,0 +1,45 @@
+{
+    "title": "Apple queria comprar Bing / Teste da urna no YouTube / Acidente de navio",
+    "fps": 30,
+    "timestamp": 1695997611,
+    "width": 0,
+    "height": 0,
+    "date": "29/09/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple avaliou comprar Bing da Microsoft em 2020: a empresa teria desistido do negócio com preocupações sobre a capacidade do Bing de competir em qualidade com o mecanismo de busca do Google. Além disso, a Apple deixaria de receber um valor estimado em 20 bilhões dólares anualmente como parte do acordo que garante a busca do Google como padrão no iOS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Teste público de segurança da urna eletrônica poderá ser acompanhado pelo canal do TSE no YouTube: a primeira fase da análise ocorre em outubro e serve para especialistas montarem os planos de ataque que serão executados na semana do evento. O acesso ao código-fonte ocorre a partir do dia 27 de novembro, na sede do TSE, onde serão realização os testes durante cinco dias. As informações são do site do TSE.",
+            "url": ""
+        },
+        {
+            "text": "Navio cargueiro em direção ao Brasil que atingiu recife de coral e derramou toneladas de óleo combustível em 2020 mudou de direção para capitão obter sinal de celular: as informações são do relatório do acidente, que saiu apenas ontem. De acordo com a transcrição da gravação de áudio da torre de comando da embarcação, o capitão disse “o que eu fiz na minha vida? Agora, minha carreira se foi!”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Força Espacial dos EUA é o primeiro cliente da Starshield, versão de defesa da Starlink: o serviço da SpaceX irá fornecer comunicações via satélite personalizadas para uso em segurança nacional, diferenciando-se do voltado para uso civil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anúncios maliciosos estão sendo sugeridos nas respostas do Bing Chat: a UI do assistente de IA acaba promovendo anúncios antes de outros links legítimos, mas diferente do que ocorre normalmente em outros mecanismos de buscas, a forma como isso é feito pode confundir os usuários, acreditando que estão clicando em links legítimos, mas estão sendo direcionados para sites maliciosos que distribuem malware. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Linux Foundation poderia ser considerada a maior empresa de software do mundo: segundo Jim Zemlin, diretor executivo da fundação, atualmente cerca de 650 mil desenvolvedores contribuem em projetos vinculados à entidade. Se estes recebessem um salário médio do setor, o valor ultrapassaria a folha de pagamento da área de Pesquisa e Desenvolvimento da, atualmente em 24 bilhões de dólares. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind descobre que LLM consegue comprimir arquivos de imagem e áudio, sem perda de dados, melhor do que PNG e FLAC: o modelo Chinchilla 70B comprimiu o banco de dados de imagens ImageNet para 43,4% de seu tamanho original, superando o algoritmo PNG no mesmo conjunto (58,5%.) Para áudio, o LibriSpeech foi reduzido para 16,4% de seu tamanho original, superando a compressão em FLAC (30,3%). O resultado é ainda mais interessante ao se considerar que alguns cientistas da computação propõem que a capacidade de compactar dados de forma eficaz é semelhante a uma forma de inteligência geral – a noção de que entender o mundo envolve identificar padrões, reduzindo um grande conjunto de dados a um tamanho gerenciável. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
