@@ -1,0 +1,45 @@
+{
+    "title": "Google manipula buscas / Vício na internet / UltraRAM",
+    "fps": 30,
+    "timestamp": 1696343404,
+    "width": 0,
+    "height": 0,
+    "date": "03/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google estaria manipulando consultas em buscas para gerar resultados mais alinhados com anúncios: um slide interno, obtido durante a investigação antitruste contra a empresa nos EUA, expôs uma revisão do algoritmo de buscas chamado de “correspondência semântica”. Por exemplo, uma busca por “roupas infantis” é convertida internamente para “roupas da marca X”, direcionando usuários a resultados comerciais. A prática pode potencialmente prejudicar a qualidade das buscas, mas aumentar os gastos de anunciantes. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa apresenta cinco novas categorias para estágios da dependência da internet: os “Usuários Casuais” entram e saem, ficando online apenas para realizar tarefas específicas. “Usuários Iniciais” se encontram online por mais tempo do que o planejado. “Experimentadores” se sentem ansiosos quando não estão conectados à internet. Os ‘Viciados em Negação” acabam negligenciando as responsabilidades do mundo real, sem admitir que se sentem desconfortáveis quando não estão conectados. O grupo dos “Viciados” reconhece abertamente seu vício e impacto negativo em suas vidas – além disso, são os mais confiantes no uso de novos aplicativos e tecnologias. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Startup apresenta UltraRAM, um novo tipo de memória que combina a não-volatilidade e alta velocidade: a memória da QuInAs Technology retém dados mesmo sem energia, com uma resistência 4.000 vezes superior à NAND e durabilidade estimada em 1.000 anos. Além disso, possui uma latência 10 vezes menor do que memórias DRAM, sendo mais eficiente energeticamente. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI lança novo LLM compacto para dispositivos móveis: o StableLM-3B promete eficiência e alto desempenho com apenas 3 bilhões de parâmetros. O modelo, além de treinado em um conjunto de dados de alta qualidade, também é versátil, podendo ser ajustado para usos específicos, como assistência à programação. As informações são da plataforma Stability.ai.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz o selo “Chromebook Plus” para laptops com ChromeOS: os dispositivos devem atender a requisitos mínimos de hardware, como processadores Intel Core i3 de 12ª geração ou AMD Ryzen 3 série 7000, 8GB de RAM, 128GB de armazenamento, display e webcam com resolução mínima de 1080p. Esses dispositivos prometem o dobro do desempenho e receberão recursos exclusivos de software e IA. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Presidente da Oi afirma que operadoras de telefonia erram ao focar em velocidade e preço na barda larga fixa: para Rodrigo Abreu, o que os consumidores estão buscando é qualidade da cobertura Wi-Fi dentro de casa – em termos de velocidade, a média já está acima de 300 Mbps. Mais de 70% das conexões de banda larga já são em fibra no Brasil. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Defender não sinaliza mais o navegador Tor como malware no Windows: a versão 12.5.6 era sinalizada como um trojan, excluindo automaticamente o arquivo “tor.exe” do sistema. A Microsoft atualizou o Defender após uma reclamação formal do Projeto Tor. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
