@@ -1,0 +1,45 @@
+{
+    "title": "Gmail: novas regras / Desligando 2G e 3G / Professores hackers",
+    "fps": 30,
+    "timestamp": 1696429726,
+    "width": 0,
+    "height": 0,
+    "date": "04/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia novas regras para envio de emails em massa a partir de fevereiro de 2024: quem enviar mais de 5.000 mensagens para contas Gmail por dia precisará configurar a autenticação SPF/DKIM e DMARC para seus domínios, manter a taxa de spam reportada abaixo de 0,3%, fornecer opção de descadastramento em um único clique, entre outras exigências. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Anatel planeja desligar redes de celular 2G e 3G até 2028: o objetivo é liberar as faixas de 800 MHz e 1,8 GHz para as tecnologias 4G e 5G. O 2G praticamente não é mais utilizado por consumidores, mas dispositivos IoT ainda sim, que precisarão migrar para tecnologias mais recentes. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Rede Nacional de Ensino e Pesquisa está recrutando professores para o programa “Hackers do Bem”: são 50 vagas iniciais em segurança da informação – na modalidade de ensino a distância – e requerem ensino superior em ciências exatas. Os instrutores selecionados não terão vínculo empregatício, o que mantém sua flexibilidade de trabalho, com remuneração variando entre 100 a 160 reais por hora/aula. O programa Hackers do Bem visa formar 30 mil especialistas em cibersegurança para suprir o déficit de profissionais qualificados no Brasil. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Meta irá demitir funcionários da unidade que está desenvolvendo processadores especiais para dispositivos de realidade mista nesta quarta-feira: a divisão era conhecida internamente como Facebook Agile Silicon Team (FAST) e possui cerca de 600 pessoas. A empresa estaria com dificuldade para desenvolver chips competitivos, recorrendo à Qualcomm para seus dispositivos mais recentes, como o Quest 3. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Apple inicia captura de imagens panorâmicas das ruas brasileiras: a iniciativa, que contará com veículos instalados com iPhones, iPads e outros equipamentos na parte externa, percorrerão todo o país para habilitar o recurso “Olhe ao Redor” no país, similar ao Street View do Google Maps. A captura começa em Mato Grosso no final deste mês e se encerra em junho de 2025, no Rio Grande do Sul. As informações são da página Mapas da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa mostra que software para previsão de crimes possui taxa de acerto de apenas 0,6%: foram avaliadas 23.631 previsões realizadas pelo programa Geolitica (também conhecido como PredPol) em um departamento de polícia nos EUA. As informações são do site The Markup.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft libera atualizações de segurança de emergência para o Edge, Teams e Skype, corrigindo vulnerabilidades zero-day em bibliotecas de código aberto: ambas as falhas (CVE-2023-4863 e CVE-2023-5217) podiam resultar em execução arbitrária de código e já foram exploradas ativamente em ataques. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
