@@ -1,0 +1,45 @@
+{
+    "title": "Controvérsia com stickers / Tráfego despenca / Ataque à marca d’água",
+    "fps": 30,
+    "timestamp": 1696516148,
+    "width": 0,
+    "height": 0,
+    "date": "05/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Stickers gerados por IA no Facebook Messenger viram um problema: a nova funcionalidade – que usa o recém lançado modelo “Emu” para a síntese de imagens – permite criar stickers a partir de descrições textuais, com usuários criando imagens controversas, usando personagens protegidos por direitos autorais, como o Mario da Nintendo empunhando um rifle ou o Mickey da Disney segurando uma faca. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Encaminhamento de tráfego da Meta e X para os principais sites de notícias globais despenca nos últimos 12 meses: a queda, no caso da Meta, chega a ser de 80%. A situação é ainda mais crítica nesse momento, com os sites de notícias lutando para proteger seus conteúdos do scraping de informações para o treinamento de IAs. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Novo método retira marcas d’água invisíveis incluídas em imagens geradas por IA: o ataque adiciona ruído à imagem, destruindo a marca d'água e, em seguida, a reconstrói, sem nenhuma diferença perceptível a olho nu. Em testes com a marca d'água RivaGAN, os ataques de regeneração removeram 93-99% das marcas. O código está disponível no repositório “XuandongZhao/WatermarkAttacker” no GitHub. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Google lança smartphones Pixel 8, Pixel 8 Pro e Android 14: o design é similar ao do modelo anterior, com o destaque ficando para o novo chip Tensor G3 integrando várias funções de IA, como a capacidade de transcrever áudios em tempo real, mesmo alternando entre idiomas. Os dispositivos também receberão 7 anos de suporte de software, incluindo atualizações de segurança, sistema operacional e novos recursos. O Android 14 promete ainda mais personalização, widgets mais interativos, melhorias no gerenciamento de bateria e mais recursos para usuários com baixa visão e deficiência auditiva. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores alertam sobre milhares de sistemas de controle industrial expostos na web: os cerca de 100.000 ICSs, como sensores e atuadores – distribuídos entre 96 países, incluindo o Brasil – podem controlar a sistemas da infraestrutura física crítica, como redes de energia, tratamento de água e semáforos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Gmail introduz reações por emoji em emails: a funcionalidade é similar à encontrada no Slack. Se o destinatário não usar o Gmail na web, receberá apenas um novo email contendo o emoji – a reação, uma vez enviada, não pode ser retirada, exceto pelo recurso “Cancelar envio” do Gmail. A função não está disponível para contas Workspace. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nova classe de moduladores ópticos para fibra óptica pode reduzir lag, com aplicações em jogos online e reuniões virtuais: a tecnologia aborda simultaneamente duas limitações de moduladores comuns – tempo variado de sinais e comparação de sinais de luz – transferindo dados de forma mais rápida e eficiente. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
