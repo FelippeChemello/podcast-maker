@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp: zero-click custa caro / Falha grave no cURL / BYOD é inseguro",
+    "fps": 30,
+    "timestamp": 1696602556,
+    "width": 0,
+    "height": 0,
+    "date": "06/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vulnerabilidade zero-click para comprometer o WhatsApp no Android custa até 8 milhões de dólares: a informação é de um documento de 2021, vazado de uma empresa de segurança. A maioria dos compradores tem interesse nessas falhas para espionar seus alvos. Os valores para vulnerabilidades no WhatsApp teriam disparado nos últimos anos devido a avanços nos mecanismos de segurança tanto no sistema Android como iOS. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Falha de segurança de gravidade alta será divulgada para o cURL na semana que vem: o lançamento versão 8.4.0, previsto para 11 de outubro, incluirá correções para a CVE-2023-38545. Segundo Daniel Stenberg, criador do cURL, essa será a “pior falha de segurança em muito tempo”. As informações são do repositório “curl” no GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Microsoft indica que entre 80% e 90% dos ataques de ransomware no último ano vieram por meio de dispositivos de funcionários: organizações que adotam a política de BYOD – quando os funcionários podem utilizar os seus computadores e smartphones de uso pessoal para acessar dados e informações da companhia – estariam se expondo a sérios riscos, uma vez que dispositivos pessoais frequentemente carecem de medidas de segurança adequadas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade grave permite acesso root nas principais distros Linux: a falha – denominada “Looney Tunables” (CVE-2023-4911) – se encontra na library GNU C (glibc), permitindo que invasores obtenham privilégios root em distribuições como Debian, Ubuntu e Fedora. Admins são aconselhados a priorizar a aplicação de patches para garantir a integridade desses sistemas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Jensen Huang, da Nvidia, é considerado o melhor CEO dos EUA baseado em notas de funcionários: Huang obteve a aprovação de 96% de seus funcionários. Tim Cook, da Apple, ficou em quarto lugar, com 83%. Mark Zuckerberg, da Meta, recebeu 45% de aprovação, Satya Nadella, Microsoft, 30% e Sundar Pichai, do Google, 26%. As informações são do site Teamblind.",
+            "url": ""
+        },
+        {
+            "text": "Nova versão do Microsoft Teams promete ser até duas vezes mais rápida e usar 50% menos memória no PC: o programa foi totalmente reescrito, substituindo os frameworks Electron e AngularJS por WebView2 e React. As informações são do site Ars Technica e da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Starlink conquista 26% do mercado de internet via satélite no Brasil: já são 107 mil acessos, ficando em segundo lugar no segmento e atrás da Hughes, que possui 190 mil acessos. Mais de 80% da área geográfica do país não possui cobertura de internet. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
