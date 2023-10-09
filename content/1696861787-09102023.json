@@ -1,0 +1,45 @@
+{
+    "title": "Windows por assinatura / Deepfake pessoal / Dados de DNA vazados",
+    "fps": 30,
+    "timestamp": 1696861787,
+    "width": 0,
+    "height": 0,
+    "date": "09/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rumores de que Windows 12 será um sistema operacional baseado em assinatura são equivocados: os pedaços de código descobertos dentro do atual Windows 11, e que confundiram alguns desenvolvedores e portais de notícias, não estão relacionados à próxima versão de sistema, mas a funções de IoT. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa mostra que assistir vídeos de treinamento com deepfakes de si mesmo acelera e facilita o aprendizado: o estudo foi feito com aulas de exercícios físicos e oratória. Os participantes também reportaram que a técnica deixaria tudo mais divertido, ao “se verem” fazendo aquilo que estão aprendendo. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI está considerando criar seus próprios chips de inteligência artificial: a startup já estaria avaliado um potencial alvo para aquisição – o grande fator tem sido a dificuldade em resolver a escassez desses aceleradores de IA. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Empresa que realiza testes de DNA pelo correio nos EUA confirma vazamento de dados de milhões de usuários: além dos dados tradicionais de perfil, as informações vazadas da 23andMe incluem agrupamentos étnicos, estimativas de origem específicas, detalhes do haplogrupo, informações sobre fenótipo e links para parentes em potencial. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare anuncia disponibilidade geral do Turnstile, sua solução para substituir sistemas como o CAPTCHA: com o Turnstile, é possível substituir o teste para diferenciação entre computadores e humanos por uma API simples e sem precisar ser cliente Cloudflare. O novo sistema aplica desafios não-interativos, baseados em JavaScript, que leem o ambiente do navegador em busca de comportamento humano, mantendo a privacidade do usuário. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Agência de Cibersegurança dos EUA identifica credenciais padrão inalteradas como a principal falha de segurança que leva a ataques: outros dois principais pontos são a separação imprópria de privilégios entre usuários e administradores e a monitoração insuficiente da rede. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mantenedor do kernel Linux responde a críticas sobre redução do suporte de longo prazo de seis para dois anos: Greg Kroah-Hartman esclareceu que a decisão foi tomada porque ninguém utilizava o LTS por 6 anos. As críticas começaram quando o desenvolvedor Bryan Lunduke argumentou que a Linux Foundation parecia estar “abandonando” o desenvolvimento do sistema operacional, parecendo estar mais interessada em financiar projetos de IA e blockchain. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
