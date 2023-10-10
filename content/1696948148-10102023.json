@@ -1,0 +1,45 @@
+{
+    "title": "Ataque DDos absurdo / Copilot dá prejuízo / Pejotização da TI",
+    "fps": 30,
+    "timestamp": 1696948148,
+    "width": 0,
+    "height": 0,
+    "date": "10/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google mitiga maior ataque DDoS histórico, atingindo pico de 398 milhões de rps: o ataque, que durou dois minutos, usou uma nova técnica, chamada “HTTP/2 Rapid Reset”, explorando uma vulnerabilidade no protocolo (CVE-2023-44487) e permitindo ataques DDoS hipervolumétricos. Para se ter uma noção do tamanho do ataque, segundo a Clouflare, toda a web registra entre 1 e 3 bilhões de solicitações por segundo. As informações são dos blogs da Cloudflare e Google Cloud.",
+            "url": ""
+        },
+        {
+            "text": "GitHub estaria perdendo, em média, 20 dólares por usuário do Copilot: o prejuízo chegaria a 80 por mês para alguns usuários do assistente de código, mesmo após a cobrança da taxa de 10 dólares mensais. A próxima leva de IAs assistivas, como o Microsoft 365 Copilot e o Google Duet AI, implementadas em cima de programas como Word, Excel, PowerPoint, Gmail, Docs e Sheets custará 30 dólares mensais, além do valor normal cobrado por esses serviços. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Sindicato quer combater “pejotização” no setor de TI: segundo o Sindpd-SP (Sindicato dos Trabalhadores em Processamento de Dados e Tecnologia da Informação de São Paulo), cerca de 400 mil profissionais de TI estariam trabalhando de forma que considera irregular, representando aproximadamente 40% da força de trabalho. O sindicato protocolou um pedido de compartilhamento de informações junto ao Ministério do Trabalho e pede ações no setor. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Esclarecimento sobre vazamento de dados da empresa que realiza testes de DNA pelo correio nos EUA: não ficou claro na notícia da edição de ontem de que não há indícios de invasão dos sistemas da empresa – os dados teriam sido obtidos por meio da técnica de “credential stuffing”, quando um invasor obtém credenciais de outros vazamentos e as utiliza para tentar invadir contas de usuários que repetem sempre as mesmas senhas em outros serviços online. A 23andMe confirmou apenas que os dados colocados à venda pelos criminosos são legítimos. Agradecemos ao leitor Rafael pelo alerta.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Unity decide se aposentar e pede demissão do cargo: é bastante provável que a decisão de John Riccitiello tenha relação com o desastroso resultado da tentativa de mudar a estrutura de preços para uso da engine 3D da companhia, que alterava termos de uso para jogos já lançados, causando uma comoção na comunidade de desenvolvedores. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro supercomputador a quebrar a barreira de 1 exaflop na Europa, Jupiter usará processadores com arquitetura Arm em vez de x86: entre os dez supercomputadores mais rápidos do mundo, apenas um usa processadores Arm (o Fugaku no Japão). O Jupiter será instalado na Alemanha e apoiará o desenvolvimento de modelos de alta precisão na ciência e indústria. As informações são do site ExtremeTech.",
+            "url": ""
+        },
+        {
+            "text": "Investimento global em startups de criptomoedas cai 63% no terceiro trimestre: o valor é o menor desde 2020. Segundo um analista do setor, o maior problema está com as startups que precisam de novas infusões de capital para continuar operando – sem dinheiro novo é possível uma onda de falências no setor. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
