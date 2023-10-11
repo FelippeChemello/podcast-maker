@@ -1,0 +1,45 @@
+{
+    "title": "Starlink: polêmica no Brasil / Passkeys no Google / TI no setor público",
+    "fps": 30,
+    "timestamp": 1697034631,
+    "width": 0,
+    "height": 0,
+    "date": "11/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Polêmica evolvendo Starlink faz ministro da Educação suspender portaria que levaria internet para escolas desconectadas: a exigência de velocidade mínima de 50 Mbps de internet nas escolas em regiões sem fibra óptica poderia ser atendida apenas pela Starlink – o assunto agora volta a ser analisado pelo Comitê Executivo da Estratégia Nacional de Escolas Conectadas. A velocidade supera a meta de 20 Mbps até 2030 definida pela ONU. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google adota Passkeys como método de autenticação padrão para todos os usuários: da próxima vez que um usuário fizer login em sua conta, serão mostradas instruções para criação e uso dos Passkeys, com a opção de “Ignorar senha quando possível” ativada nas configurações nas contas Google. O método permite usar a biometria de smartphones e eliminar senhas para login. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Setor de TI da Justiça Estadual do Espírito Santo já perdeu 20% da sua equipe em 2023, levando à suspensão de projetos: Carlos Vinícius de Arimatea, diretor de TI do tribunal, destacou a defasagem salarial no setor público e a consequente migração de profissionais para a iniciativa privada. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Roubo de cabos de telecomunicações no Brasil cresce 23,5% no primeiro semestre de 2023: no total, 2,89 milhões de metros foram roubados. São Paulo é o estado mais afetado – representando 28% desse número – seguido por Paraná e Bahia. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Uso de eletricidade relacionado à IA pode ser comparável ao consumo energético de países como Holanda, Argentina ou Suécia até 2027: se cada pesquisa do Google usasse o novo sistema de IA generativa, gastaria cerca de 29,2 TWh de energia por ano, o que equivale ao consumo anual de eletricidade da Irlanda. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft irá descontinuar VBScript em futuras versões do Windows após quase 30 anos de uso: o Visual Basic Script será uma funcionalidade sob demanda até sua remoção total. A linguagem foi introduzida em 1996 e era instalada junto com o Internet Explorer. A decisão estaria provavelmente relacionada a questões de segurança, eliminando uma via comum de infecção por malware. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "cURL lança versão 8.4.0 e detalha a vulnerabilidade grave encontrada recentemente: o problema originou-se de uma falha na implementação do protocolo SOCKS5 em 2020, causando uma falha do tipo heap buffer overflow. Daniel Stenberg, criador e mantenedor do projeto, reconhece que o erro poderia ter sido evitado ao se utilizar uma linguagem com memory safety, em vez do C – uma reescrita, entretanto, não está nos planos. As informações são do blog de Daniel Stenberg.",
+            "url": ""
+        }
+    ]
+}
