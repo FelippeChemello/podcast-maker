@@ -1,0 +1,33 @@
+{
+    "title": "GitHub: notícia falsa / Celular pela Starlink / Microsoft ensina a instalar Linux",
+    "fps": 30,
+    "timestamp": 1697120936,
+    "width": 0,
+    "height": 0,
+    "date": "12/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ex-CEO do GitHub afirma que notícia sobre perdas financeiras do Copilot é falsa: o jornal The Wall Street Journal reportou esta semana que o Copilot estaria perdendo, em média, 20 dólares por usuário do Copilot, considerando a cobrança da taxa de 10 dólares mensais. Nat Friedman, que era CEO do GitHub quando o Copilot foi lançado, rebateu a informação em seu perfil no X, mas não deu mais informações sobre a lucratividade da ferramenta.",
+            "url": ""
+        },
+        {
+            "text": "Starlink anuncia serviço de telefonia via satélite a partir de 2024: o “Direct to Cell” funcionará com telefones existentes, sem nenhuma modificação ou instalação de aplicativos especiais necessária, permitindo uma conexão em qualquer lugar do globo. O serviço iniciará com mensagens de texto em 2024 e voz/dados em 2025 (incluindo dispositivos IoT). Preços ainda não foram divulgados. As informações são do site da Starlink.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft surpreende e publica manual sobre como baixar e instalar o Linux: o guia sugere métodos de instalação diretamente no hardware ou em uma máquina virtual, mas não faz a sugestão de nenhuma distro em específico, apenas alertando que há mais de 600 para escolher – “O Linux é um sistema operacional, semelhante ao Windows, mas com muitas versões diferentes devido à natureza de ser de código aberto e totalmente personalizável”, diz o manual. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Consumidores guardam ou descartam sem reciclagem dispositivos eletrônicos contendo matérias-primas avaliadas em 9 bilhões de dólares todos os anos: metais como lítio, ouro, prata e cobre são essenciais na produção de baterias para veículos elétricos, por exemplo. Mais de um terço desse “lixo eletrônico invisível” são de brinquedos. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
