@@ -1,0 +1,45 @@
+{
+    "title": "Gafe no Ubuntu / Avanço histórico / OpenAI foca em AGI",
+    "fps": 30,
+    "timestamp": 1697207316,
+    "width": 0,
+    "height": 0,
+    "date": "13/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ubuntu lança e suspende no mesmo dia versão mais recente por causa de traduções impróprias: o link de download para a nova versão 23.10 foi removido do site oficial após a identificação de textos traduzidos para ucraniano de forma inapropriada e maliciosa encontrados durante o processo de instalação. As informações são do site OMG Ubuntu.",
+            "url": ""
+        },
+        {
+            "text": "Estudante de Ciência da Computação de 21 anos utiliza aprendizado de máquina para encontrar primeira palavra nos Papiros de Herculano, documentos carbonizados pela erupção do Monte Vesúvio há 2 mil anos: Luke Farritor, que também trabalha como estagiário na SpaceX, foi premiado com 40 mil dólares pelo achado. O “Desafio do Vesúvio” é uma competição criada por Nat Friedman, ex-CEO do GitHub,  que visa decifrar esses textos antigos. As informações são do site Vesuvius Challenge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI revisa lista de “principais valores” dando ênfase completa ao desenvolvimento de uma inteligência geral artificial (AGI): o primeiro valor, “Foco em AGI”, é o comprometimento em construir a tecnologia que terá “um enorme impacto positivo no futuro da humanidade” – qualquer coisa que não contribua com esse objetivo “está fora do escopo” da startup. Os outros valores são “Intensidade e ágilidade”, “Escala”, “Criar algo que as pessoas amem” e “Espírito de equipe”. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Governo deve lançar ainda em outubro site e aplicativo para minizar danos com roubos de celular: a plataforma “Celular Seguro”, uma colaboração entre o Ministério da Justiça, Anatel e Febraban, permitirá o cadastro de telefones de pessoas de confiança, facilitando uma comunicação rápida em caso de roubo, protegendo as contas bancárias. Há negociações com Google e Meta para possibilitar o bloqueio do sistema Android e das redes sociais instaladas no aparelho também. As informações são do Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Agência de pesquisas avançadas de defesa dos EUA está preocupada com possíveis “ataques cognitivos” em headsets de realidade mista que serão usados por soldados: a DARPA quer soluções para possíveis ataques que injetem latência e dados virtuais nos dispositivos ou como objetos do mundo real poderiam confundir o sistema de visão computacional e alertar sobre ameaças falsas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Advocacia Geral da União inicia projeto piloto utilizando IA para classificar 100 mil intimações diárias: um dos problemas é a grande necessidade de poder computacional para analisar os quase 20 milhões de processos, que já utilizam um petabyte de armazenamento. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas em segurança e grandes empresas de tecnologia assinam carta aberta manifestando preocupações sobre nova proposta de lei europeia de cibersegurança: o problema estaria na exigência de que fornecedores de software comuniquem vulnerabilidades zero-day a órgãos governamentais em até 24 horas após sua descoberta. A regra, entretanto, poderia ser utilizada para vigilância governamental e até mesmo causar incidentes caso haja algum vazamento de informações. As informações são do site Stack Diary.",
+            "url": ""
+        }
+    ]
+}
