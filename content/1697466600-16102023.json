@@ -1,0 +1,45 @@
+{
+    "title": "Signal desmente rumor / Criptografia enfraquecida / IA que prevê terremotos",
+    "fps": 30,
+    "timestamp": 1697466600,
+    "width": 0,
+    "height": 0,
+    "date": "16/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Signal desmente rumor sobre vulnerabilidade zero-day: a suposta falha estaria ligada ao recurso de pré-visualização de links – ativada por padrão no aplicativo – permitindo a invasão do dispositivo do usuário. Aconselha-se desativar a função como precaução. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Renomado especialista em criptografia acredita que agência de espionagem norte-americana estaria tentando enfraquecer nova geração de algoritmos pós-quânticos: Daniel Bernstein, da Universidade de Illinois Chicago, acusa o NIST (Instituto Nacional de Padrões e Tecnologia) de exagerar o nível de segurança do algoritmo Kyber512, além de não esclarecer o grau de envolvimento da Agência de Segurança Nacional (NSA) no desenvolvimento desses novos padrões de criptografia. As informações são do site New Scientist.",
+            "url": ""
+        },
+        {
+            "text": "IA prevê terremotos com 70% de precisão e uma semana de antecedência: apesar do grande avanço, a tecnologia, desenvolvida por pesquisadores da Universidade do Texas em Austin, emitiu oito falsos alarmes e não antecipou um terremoto durante os sete meses de testes. Acredita-se que em regiões com grandes redes de sensores sísmicos, a precisão do sistema pode melhorar. As informações são do site Open Access Government.",
+            "url": ""
+        },
+        {
+            "text": "Apple vai atualizar iPhones dentro de embalagens lacradas: um dispositivo especial aciona o iPhone, executa a atualização de software e desliga-o novamente, tudo sem fio. O sistema será instalado nas lojas físicas da Apple até o final de 2023. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Google inclui Brasil na expansão do projeto Green Light: o programa usa aprendizado de máquina e dados do aplicativo Mapas para manejar o tráfego por meio do controle de semáforos, reduzindo em até 30% o tempo que veículos ficam parados, reduzindo o consumo de combustível e emissões de carbono, além de melhorar a qualidade do ar. O Rio de Janeiro é a primeira cidade a participar. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está desenvolvendo tecnologia para armazenamento de dados em lâminas de vidro: a tecnologia do Project Silica usa lasers para gravar terabytes de dados em pixels tridimensionais (voxels) de forma permanente e com longevidade de 10 mil anos. As informações são recuperadas por um microscópio controlado por computador. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Índice TIOBE mostra linguagem C# se aproximando de Java: se a atual tendência se manter, C# passará o Java em popularidade em cerca de 2 meses. As duas linguagens são usadas em domínios semelhantes e são concorrentes há mais de 20 anos. Em relação ao ranking geral, Python se mantém em primeiro lugar, seguido por C, C++. Java ocupa a quarta posição e C# a quinta. As informações são do site da TIOBE.",
+            "url": ""
+        }
+    ]
+}
