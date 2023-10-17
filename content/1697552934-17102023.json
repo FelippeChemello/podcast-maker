@@ -1,0 +1,45 @@
+{
+    "title": "Stack Overflow indo mal / Passkeys no WhatsApp / Novo marco no Minecraft",
+    "fps": 30,
+    "timestamp": 1697552934,
+    "width": 0,
+    "height": 0,
+    "date": "17/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Stack Overflow demite 28% de sua equipe: o CEO Prashanth Chandrasekar afirma estar buscando um “caminho para a rentabilidade”. O site também está desenvolvendo sua própria resposta ao ChatGPT, o “Overflow AI”. Chandrasekar argumenta que sites como o Stack Overflow são essenciais para o treinamento futuro de IAs e pretende cobrar pelo acesso aos dados do site. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp lança suporte a Passkeys de forma geral para dispositivos Android: o sistema substitui a senha de uso único enviada por SMS e permite usar a biometria do smartphone, PIN ou padrão de desbloqueio por desenho para a autenticação, tornando o login no aplicativo mais seguro. As informações são do site Android Police.",
+            "url": ""
+        },
+        {
+            "text": "Minecraft atinge a marca de 300 milhões de cópias vendidas: o jogo já detém, desde 2022, o título de videogame mais vendido de todos os tempos. Para contextualizar, o jogo Grand Theft Auto V, segundo videogame mais vendido, registra 185 milhões de cópias vendidas e o álbum Thriller de Michael Jackson, vendeu cerca de 70 milhões de cópias. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA já possui 200 mil bitcoins em carteira, sendo um dos maiores detentores do ativo no mundo: as moedas – que valem hoje cerca de 29 bilhões de reais – foram apreendidas de cibercriminosos e mercados ilegais na deep web. O governo não pretende mantê-las em custódia, mas não as pode vender enquanto não saírem decisões definitivas nos processos judiciais aos quais estão atreladas. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Intel lança processadores de 14ª geração: o modelo de destaque é Core i9-14900K, primeiro processador produzido em larga escala a atingir a frequência de 6GHz. Esta será a última família de processadores a usar o esquema de marca “i” seguido de um número – o novo padrão Intel Core e Core Ultra começará a próxima geração de processadores com Meteor Lake. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CNJ lança a API Pública do DataJud, oferecendo acesso geral aos metadados de processos judiciais em todo o Brasil: as informações podem ser exploradas no desenvolvimento de aplicativos, em pesquisas acadêmicas ou para análise de tendências e padrões do Poder Judiciário. Os dados disponibilizados pela API mantém o resguardo de processos sigilosos e dados de partes. As informações são do site do CNJ.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica declínio na manutenção ativa de projetos open source: foram avaliados 1.176.407 projetos em quatro grandes ecossistemas – JavaScript/npm, Python/PyPI, Java/Maven e.NET/NuGet – com apenas 11% deles sendo ativamente mantidos, uma queda de 18% na comparação anual. As informações são do site InfoWorld.",
+            "url": ""
+        }
+    ]
+}
