@@ -1,0 +1,45 @@
+{
+    "title": "Vazam salários na Microsoft / Notepad++ malicioso / Satélite com problema",
+    "fps": 30,
+    "timestamp": 1697639350,
+    "width": 0,
+    "height": 0,
+    "date": "18/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Planos de compensação da Microsoft vazados revelam detalhes sobre salários, bônus e prêmios em ações: os valores variam conforme a localização do funcionário, mas o pacote de remuneração de nível 70, o mais alto para um engenheiro de software em São Francisco ou Nova Iorque, antes de se tornar um executivo, oferece um salário base anual entre 231 mil e 361 mil dólares, bônus entre 310 mil e 1,2 milhão de dólares e até 945 mil dólares em ações – tudo somado, a compensação anual pode chegar a 2,5 milhões de dólares. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa ativa há meses no Google Ads tinha como alvo usuários do editor de texto Notepad++: o objetivo final dos criminosos provavelmente seria instalar malware para ataques de ransomware. Para evitar cair em campanhas de malvertising, é recomendado evitar clicar nos resultados patrocinados na Busca do Google e verificar o domínio oficial do projeto por meio de sua página na Wikipedia, e contas oficiais em redes sociais. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Satélite de comunicação ViaSat-3, que seria o maior do mundo em capacidade, terá menos de 10% da banda projetada de 1 Terabit por segundo após problema com antena: o equipamento, lançado em abril deste ano, tinha como objetivo prover internet para todo o continente americano. As informações são do site SpaceNews.",
+            "url": ""
+        },
+        {
+            "text": "X testa assinatura de 1 dólar por ano para permitir postagens de novos usuários: a iniciativa “Not A Bot”, lançada inicialmente na Nova Zelândia e Filipinas, visa reduzir o spam e a atividade de bots na plataforma. Novos usuários poderão apenas ler postagens na rede social. As informações são da página de suporte do X.",
+            "url": ""
+        },
+        {
+            "text": "CEO da HashiCorp prevê futuro sem empresas de código aberto bem sucedidas a menos que seus modelos de negócios evoluam: Dave McJannet defendeu a mudança das licenças no Terraform recentemente, decisão que levou à criação do fork OpenTofu. McJannet argumenta que seus maiores clientes receberam bem a alteração, ficando mais seguros agora que a empresa tem mais chances de se manter lucrativa no longo prazo. As informações são do site The Stack.",
+            "url": ""
+        },
+        {
+            "text": "Justiça anula multa de 100 milhões de reais pela venda de iPhones sem carregadores: a decisão aponta que Associação Brasileira de Mutuarios e Consumidores e Contribuintes não possuía legitimidade para iniciar a ação. A Apple alega os princípios de preservação ambiental e livre concorrência para não incluir carregadores na caixa do iPhone. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Co-fundador da DeepMind faz duras críticas ao modelo de negócios do Google: Mustafa Suleyman, que deixou a empresa que fundou após ser adquirida pelo Google, afirma que a ferramenta de busca da empresa levou a internet a uma “espiral de declínio”, dando preferência para resultados “clickbait” apenas para que possa vender mais anúncios. Suleyman acredita que chatbots, como o de sua nova startup Inflection AI, poderão fornecer informações mais precisas do que buscas na internet. As informações são do jornal The Telegraph.",
+            "url": ""
+        }
+    ]
+}
