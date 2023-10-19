@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp: duas contas juntas / Atualize o WinRAR / ANPD tem 4 fiscalizadores",
+    "fps": 30,
+    "timestamp": 1697725717,
+    "width": 0,
+    "height": 0,
+    "date": "19/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp vai permitir duas contas logadas simultaneamente no mesmo aparelho: o recurso, que será lançado em breve, habilita a alternância entre uma conta pessoal e outra de trabalho, por exemplo. Para adicionar uma segunda conta, é necessário um segundo número de telefone e cartão SIM ou um telefone que aceite eSIM. As informações são do blog do WhatsApp.",
+            "url": ""
+        },
+        {
+            "text": "Grupos de hackers apoiados por governos têm explorado uma vulnerabilidade crítica no WinRAR: o software de compressão, utilizado por mais de 500 milhões de usuários, pode ser utilizado para a execução de código arbitrário nos sistemas das vítimas. A ameaça foi identificada em abril deste ano (CVE-2023-38831) e o problema está resolvido desde a versão 6.23, mas como o programa não é atualizado automaticamente, muitas instalações continuam vulneráveis. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "ANPD conta com apenas quatro servidores para fiscalizar violações de dados em todo o Brasil: Waldemar Gonçalves, presidente da entidade, ressaltou a necessidade de mais pessoal e mencionou a perda frequente de talentos por causa de melhores ofertas de trabalho. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lucro líquido da Tesla cai 44% no último trimestre: o resultado de 1,8 bilhão de dólares reflete um aumento de custos que não foi compensado pela receita mais alta no período (23,3 bi, crescimento de 9%). O destaque fica para as vendas 40% maiores no segmento de geração e armazenamento de energia. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Adoção do Windows 11 tem sido bastante lenta: documentos vazados da Microsoft mostram que o sistema operacional, lançado em 2021, foi instalado em 400 milhões de PCs, número bem abaixo do Windows 10 para o mesmo período em seu ciclo de vida (cerca de 1 bilhão de máquinas). Um dos motivos seria a exigência de hardware atualizado para a sua instalação. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google verificará, em tempo real, código de aplicativos instalados por fora da Play Store em dispositivos Android: a iniciativa visa combater a crescente ameaça de malware proveniente do sideloading de aplicativos. O recurso será lançado primeiramente na Índia e chegará a outras regiões nos próximos meses. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de PCs apresenta sinais de melhora no terceiro trimestre de 2023, mas vendas da Apple despencam: apesar da queda menor nas remessas, entre 7% e 9%, analistas acreditam que o declínio no mercado pode estar chegando ao fim. Os destaques para o período ficam com a HP, única empresa que registrou crescimento (6,4%) e Apple, que registrou a maior queda, de quase 30%. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
