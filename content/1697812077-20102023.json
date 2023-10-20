@@ -1,0 +1,45 @@
+{
+    "title": "Criptopocalipse mais próximo / Elétrico vs combustão / Alerta do FBI",
+    "fps": 30,
+    "timestamp": 1697812077,
+    "width": 0,
+    "height": 0,
+    "date": "20/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo mostra que chips ASIC, em tese, poderiam quebrar criptografia RSA de 2.048 bits em poucos minutos: chips que fizerem o processamento diretamente na memória, eliminando o Gargalo de Von Neumann (limitação na taxa de transferência entre CPU e memória), poderiam poderiam antecipar a “criptopocalipse”, ameaçando a segurança da criptografia atual antes mesmo da chegada dos computadores quânticos. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Sem considerar a Tesla, 50% das pessoas que compram veículos elétricos decidem voltar a modelos à combustão na hora de trocar de carro: a pesquisa mostra a dificuldade que as fabricantes tradicionais de veículos têm tido para criar bons veículos elétricos. Em comparação, cerca de 80% das pessoas que possuem um Tesla continuam com a marca na hora de trocar de carro. As informações são do site S&amp;P Global.",
+            "url": ""
+        },
+        {
+            "text": "FBI alerta para trabalhadores de TI da Coreia do Norte usando identidades falsas: essas pessoas têm sido usadas para arrecadar recursos para o regime norte-coreano. As empresas são aconselhadas a realizar entrevistas por vídeo para confirmar a identidade dos candidatos. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI debate internamente se lança ou não ferramenta para detecção de imagens geradas pelo modelo DALL-E 3: o classificador possui uma precisão de 95% mesmo quando uma imagem for sujeita a tipos comuns de modificações, como recortes, redimensionamentos, compactação ou quando são adicionados textos e outras imagens reais. A questão seria que, uma vez lançada, a ferramenta será usada para tomada de decisões no mundo real e isso pode trazer riscos, como na autenticação incorreta de obras de arte, por exemplo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "FCC, agência similar à Anatel nos EUA, concede permissão para uso da faixa de 6 GHz para dispositivos sem fio: Apple, Meta e Google querem usar o espectro para conexões de curto alcance e alta velocidade para dispositivos de realidade aumentada e virtual. No Brasil, há uma discussão entre operadoras de telefonia e a Anatel – a agência brasileira quer liberar o 6 Ghz para aplicações não licenciadas – como Wi-Fi – e as operadoras querem usar a faixa para ampliar a capacidade das redes móveis. As informações são do site 9to5Mac e Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "YouTube ultrapassa Netflix pela primeira vez como principal aplicativo de vídeos para adolescentes norte-americanos: os jovens gastam 29,1% do seu dia no YouTube, superando a Netflix (28,7%). Os adolescentes passam cerca de 4,5 horas por dia em redes sociais, com 38% escolhendo o TikTok como plataforma preferida. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "SEC, agência dos EUA similar à Comissão de Valores Mobiliários no Brasil, afirma ser quase certo que IAs causarão uma crise no mercado financeiro em algum momento: se empresas do setor financeiro usarem todos os mesmos modelos preditivos, os investidores poderão tomar decisões idênticas simultaneamente, levando a um possível desastre no mercado. As informações são do site Futurism.",
+            "url": ""
+        }
+    ]
+}
