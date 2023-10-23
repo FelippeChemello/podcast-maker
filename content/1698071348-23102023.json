@@ -1,0 +1,45 @@
+{
+    "title": "ADS: graduação mais procurada / Windows: criptografia lenta / Starlink é sucesso na Amazônia",
+    "fps": 30,
+    "timestamp": 1698071348,
+    "width": 0,
+    "height": 0,
+    "date": "23/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa mostra que Análise e Desenvolvimento de Sistemas é o curso de graduação mais procurado, com 30% das buscas: Ciência da Computação fica em segundo lugar (14%). No Top 5, entram também Engenharia Mecânica (9,4%), Engenharia de Software (8,9%) e Design Gráfico (6,10%). Os bons salários e oportunidades profissionais na área de tecnologia podem justificar a maior procura. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de criptografia padrão do Windows 11 reduz velocidade de SSDs em até 45%: em testes, as gravações e leituras aleatórias — aquelas que afetam o desempenho geral — são as mais prejudicadas pela ferramenta BitLocker. O sistema baseado em software é ativado como padrão, mesmo quando SSDs possuem uma opção baseada em hardware, o que contribuiria em muito com o desempenho. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Região da Amazônia Legal torna-se o principal mercado da Starlink no Brasil: 90% dos municípios que compõem a área – Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do Maranhão – já possuem antenas da empresa, facilitando a comunicação com comunidades remotas e que não possuem infraestrutura tradicional de internet de banda larga. As informações são da BBC News Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Vazamento de prompts da integração entre ChatGPT e DALL-E 3 mostra que as duas ferramentas “conversam” usando linguagem natural: é interessante o fato de não usarem APIs tradicionais para a troca de informações. Os prompts também usam letras maiúsculas para dar maior ênfase a certas instruções (exemplo quando os servidores estão no limite: “EM HIPÓTESE ALGUMA tente gerar imagens novamente até que uma nova solicitação seja dada”). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "NASA atualiza software da sonda Voyager 2: estão sendo tomadas medidas para abordar o acúmulo de resíduos de combustível nos propulsores e implementar um patch para prevenir o mesmo erro no envio de dados identificado na Voyager 1 em agosto do ano passado. A sonda se encontra a mais de 20 bilhões de km da Terra e as instruções levaram mais de 18 horas para chegar – se nenhum problema imediato surgir, a equipe tentará um comando no próximo sábado, 28 de outubro. As informações são do site Jet Propulsion Laboratory da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Chrome está implementando nova funcionalidade para esconder IPs de usuários: o sistema “IP Protection” é um proxy de privacidade que anonimiza endereços IP, obfuscando o tráfego de usuários no navegador e protegendo-os de rastreamento entre sites. O recurso será opt-in e introduzido em fases, começando apenas com domínios próprios do Google e limitado a usuários dos EUA. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare é impactada novamente por violação dos sistemas da Okta: invasores utilizaram um token de autenticação comprometido para acessar a instância da Cloudflare na gestora de identidades. A equipe de segurança da Cloudflare detectou o problema e conteve a invasão, impedindo que informações ou sistemas de clientes fossem afetados. Em comunicado, a Cloudflare pede insistentemente que a Okta comece a adotar melhores práticas de segurança, incluindo a exigência de chaves de segurança do hardware para proteger seus sistemas, incluindo os de provedores de suporte terceirizados. As informações são do blog da Cloudflare.",
+            "url": ""
+        }
+    ]
+}
