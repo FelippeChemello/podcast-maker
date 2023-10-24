@@ -1,0 +1,45 @@
+{
+    "title": "Indústria de SEO ameaçada / 1Password violado / Blitz do celular",
+    "fps": 30,
+    "timestamp": 1698157682,
+    "width": 0,
+    "height": 0,
+    "date": "24/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Adoção de IAs gerativas pelo Google e Bing ameaça a indústria de SEO, avaliada em 68 bilhões de dólares: ferramentas como o ChatGPT têm o potencial de tornar obsoletas as práticas tradicionais de otimização para motores de busca. A indústria de SEO tinha a perspectiva de faturar 130 bilhões de dólares por ano em 2030. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "1Password sofre violação de segurança após hackers acessarem o sistema de gestão de identidades da Okta: a empresa garante que dados de usuários não foram acessados. A violação se deu por meio de um cookie de sessão roubado de um funcionário de TI da 1Password. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Ministério das Comunicações estabelece velocidades mínimas de 10 Mbps para 4G e 100 Mbps para 5G: a Anatel também começará a realizar “blitzes do celular” pelas cidades do país, fazendo medições para avaliar a qualidade do sinal. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Com incentivo da Microsoft, Nvidia estaria projetando CPUs para PCs: a arquitetura usada será Arm e a intenção é competir com os chips M1 da Apple – a empresa dobrou sua participação no mercado de PCs desde o lançamento de seu chips desenvolvidos internamente. A grande perdedora aqui seria a Intel, mas há um problema – a conversão do código baseado na arquitetura x86 construído ao longo de décadas. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta permite que artistas “envenenem” sua imagens antes de publicá-las online: o Nightshade adiciona pixels que são invisíveis aos olhos humanos, mas quando incluídos em um conjunto de treinamento de IA, faz com que o modelo resultante quebre de maneira caótica e imprevisível. As informações são do MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft adiciona mais controles na conversão automática de dados no Excel após comprometimento de dados científicos: em 2020, pesquisadores decidiram redefinir os símbolos alfanuméricos usados para representar genes devido a um recurso do Excel que interpretava essas sequências como datas e os reformatava automaticamente. Uma atualização agora adiciona um alerta quando uma conversão automática estiver prestes a ocorrer, garantindo a integridade dos dados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "IBM desenvolve chip capaz de realizar reconhecimento de imagem 22 vezes mais rápido do que processadores tradicionais: o NorthPole é inspirado no funcionamento do cérebro humano, utilizando uma matriz bidimensional de memória e CPU. O chip tem a limitação de executar apenas um processo especializado de IA por vez, mas os pesquisadores pretendem unir chips com especializações diferentes. As informações são do site TechXplore.",
+            "url": ""
+        }
+    ]
+}
