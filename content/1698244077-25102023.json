@@ -1,0 +1,45 @@
+{
+    "title": "Pendrive que vale R$1 bi / Qualcomm vs Apple / Microsoft admite erro",
+    "fps": 30,
+    "timestamp": 1698244077,
+    "width": 0,
+    "height": 0,
+    "date": "25/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Equipe consegue quebrar sistema de segurança de pendrive USB criptografado e vai atrás de investidor com bitcoins considerados “perdidos”: o time da Unciphered conseguiu contornar a funcionalidade de segurança que apaga o conteúdo do pendrive após 10 tentativas incorretas de senha. O foco da startup é um IronKey S200 específico que contém 7.002 bitcoins, hoje avaliado em mais de 1 bilhão de reais, e que pertence a Stefan Thomas – ele diz que o drive possui apenas mais duas tentativas de senha antes de apagar todo o seu conteúdo e já possui duas equipes independentes tentando recuperar a carteira contendo as moedas. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm anuncia Snapdragon X Elite, SoC para competir diretamente com os chips Apple Silicon no mercado de PCs: o CPU é chamado Oryon – originário da aquisição da startup Nuvia, criada por ex-funcionários da Apple – prometendo desempenho multithread 50% superior ao chip M2. Os primeiros PCs equipados com o Snapdragon X Elite estão previstos para chegar em 2024. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Microsoft admite erro ao abandonar o Windows Phone: Satya Nadella afirma que poderia ter reinventado a categoria de computação entre PCs, tablets e smartphones se tivesse continuado com a plataforma. Bill Gates já havia afirmado no passado que o “maior erro de todos os tempos” da Microsoft foi perder o mercado móvel para o Android. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Automattic, empresa por trás do WordPress e Tumblr, adquire aplicativo de mensagens universais: o Texts permite acessar o WhatsApp, Instagram e Signal em uma única interface. A Automatic vê a aquisição como um grande novo pilar para a empresa, apostando no futuro de mensagens privadas à medida que mais pessoas se afastam de interações online públicas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Startup apresenta primeiro computador quântico com mais de 1.000 qubits: a Atom Computing está realizando testes internos de um computador com 1.180 qubits que estará disponível a clientes a partir do ano que vem. Apesar do avanço, a taxa de erro para operações individuais com os qubits ainda é alta, impedindo o uso de todos eles ao mesmo tempo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Navegador Edge abre enquete ao notar que usuário está baixando o Chrome no Windows: um questionário abre em uma barra lateral perguntando os motivos para a troca de navegadores e sugerindo opções como dificuldade para realizar pesquisas no Google ou a falta de sites favoritos e senhas salvas. A abordagem parece ser um teste com um número limitado de usuários no momento. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Matter, padrão de conectividade para casas inteligentes, expande suporte para eletrodomésticos: a versão anterior estava limitada a dispositivos menores, como luzes e fechaduras. Agora foi adicionado suporte para refrigeradores, condicionadores de ar, lava-louças, lavadoras, aspiradores, entre outros. O Matter é uma alternativa aos sistemas proprietários Alexa da Amazon, Google Home e HomeKit da Apple – apesar disso, as três empresas apoiam o novo padrão. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
