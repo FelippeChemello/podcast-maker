@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: mercado clandestino / Papa apoia programação / Crianças e internet",
+    "fps": 30,
+    "timestamp": 1698330489,
+    "width": 0,
+    "height": 0,
+    "date": "26/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mercado clandestino de falso engajamento em repositórios do GitHub: por apenas 6 dólares, é possível comprar 50 estrelas para um projeto inativo no GitHub, por exemplo. Além das estrelas, também é possível comprar seguidores, forks, comentários e outras métricas. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Papa Francisco apoia projeto global para incentivar crianças a aprenderem programação: a iniciativa “Code with Pope” oferece um curso gratuito de 60 horas em Python para estudantes entre 11 e 15 anos na América Latina, Europa e África. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Uso da internet por crianças com menos de seis anos atinge 25% no Brasil, mais do que o dobro desde 2015: além disso, 95% dos jovens entre 9 e 17 anos estão conectados, sendo o celular o principal dispositivo de acesso para 97% deste grupo. O Instagram é a plataforma mais usada nessa faixa etária (36%), seguido pelo YouTube (29%), TikTok (27%) e Facebook (2%). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Publicidade digital movimenta 16,4 bilhões de reais no primeiro semestre de 2023: o valor representa uma alta de 11% na comparação com o mesmo período do ano passado. 76% foi direcionado a dispositivos móveis e 55% do investimento foi para plataformas de redes sociais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft, Google e Meta registram lucros maiores no último trimestre: a Microsoft lucrou 22,2 bilhões de dólares (crescimento de 27%), resultado impulsionado pela da divisão de computação em nuvem e serviços de inteligência artificial. O Google lucrou 19,7 bilhões de dólares (alta de 42%) com o crescimento nas vendas de publicidade digital. A Meta lucrou 11,6 bilhões (salto de 163%) com maiores receitas com publicidade e menores despesas com pessoal. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Google Fiber vai instalar internet com velocidade de 20 Gpbs para uso residencial até o fim do ano: além disso, cada residência receberá um roteador com a tecnologia WiFi 7, que ainda nem teve sua especificação totalmente finalizada. Para atingir essa velocidade será utilizada uma tecnologia da Nokia que possibilita utilizar a infraestrutura de fibra existente com mais eficiência. As informações são do blog do Google Fiber.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas criam rede neural com a capacidade humana de fazer generalizações sobre linguagem: o sistema consegue utilizar palavras recém-aprendidas em novos contextos tão bem quanto humanos, um aspecto da cognição chamado de generalização sistemática. Em comparação, o ChatGPT falha em até 86% das vezes quando tenta a mesma tarefa. As informações são do site da revista Nature.",
+            "url": ""
+        }
+    ]
+}
