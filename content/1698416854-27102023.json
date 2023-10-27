@@ -1,0 +1,45 @@
+{
+    "title": "Cripto: Receita está de olho / Golpe nas TVs Box / Riscos catastróficos de IAs",
+    "fps": 30,
+    "timestamp": 1698416854,
+    "width": 0,
+    "height": 0,
+    "date": "27/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Receita Federal identifica aumento expressivo na movimentação de stablecoins no Brasil: esses criptoativos mantêm paridade com moedas fiduciárias, geralmente o dólar, favorecendo sua adoção como meio de pagamento. O destaque fica com o Tether (USDT, registrando um volume acumulado de 271 bilhões nos últimos quatro anos, quase o dobro do Bitcoin – considerando apenas os dados parciais de 2023, 80% da movimentação de criptomoedas informada é relativa ao USDT. As informações são do site da Receita Federal.",
+            "url": ""
+        },
+        {
+            "text": "Ação da Anatel realizada nesta quinta-feira bloqueia, de uma só vez, 80% dos aparelhos TV Box que transmitiam sinal ilegal de TV fechada: em setembro deste ano, a agência havia inaugurado um novo laboratório para identificar automaticamente rotas de redes utilizadas por esses dispositivos e estimava que haviam sete milhões de dispositivos piratas em uso no Brasil. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI cria equipe para estudar riscos catastróficos associados à IA, inclusive ameaças nucleares: as categorias sendo avaliadas incluem, persuasão individualizada, cibersegurança, ameaças químicas, biológicas, radiológicas e nucleares. A startup também lançou um desafio, com prêmios de 25 mil dólares (pagos em créditos de API) para outras ameaças não identificadas pelo grupo de estudo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google inclui ataques específicos relacionados à IA generativa em seu programa de bug bounty: os principais riscos identificados até o momento são prompt injection (quando comandos de texto influenciam o comportamento do modelo), extração de dados de treinamento, manipulação e roubo de modelos. O programa não cobre problemas relacionados a questões de direitos autorais ou extração de dados não sensíveis. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube inicia ofensiva contra bloqueadores de anúncios no Brasil: a plataforma implementou o sistema de “três strikes“, bloqueando a visualização após três vídeos assistidos com o ad blocker no navegador ativado – depois disso, uma grande janela de alerta pede que a URL do YouTube seja incluída na lista de permissões do bloqueador, sugerindo também como alternativa, a assinatura do YouTube Premium. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Equipe original de cinco pessoas responsável pela criação do primeiro jogo do Super Mario no NES ainda trabalha na Nintendo, 38 anos depois: lançado no Japão em 1983, o jogo foi desenvolvido por apenas dois programadores, Toshihiko Nakago e Kazuaki Morita, e um músico, Koji Kondo, sob a direção de Shigeru Miyamoto e Takashi Tezuka. Todos esses membros foram creditados no recém-lançado “Super Mario Bros. Wonder” para o Nintendo Switch. Essa longevidade na indústria de jogos é vista como excepcional, principalmente dado o caráter volátil do setor. As informações são do site GamesRadar.",
+            "url": ""
+        },
+        {
+            "text": "Google Maps trará recurso Lens para as cidades de São Paulo e Rio de Janeiro: a ferramenta utiliza IA e realidade aumentada para fornecer informações sobre locais próximos simplesmente apontando a câmera do celular. A nova versão estará disponível para Android e iOS nas próximas semanas. As informações são do blog The Keyword.",
+            "url": ""
+        }
+    ]
+}
