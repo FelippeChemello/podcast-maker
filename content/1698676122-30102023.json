@@ -1,0 +1,45 @@
+{
+    "title": "Devs: 79% buscam outro emprego / Google como padrão / Treinando IA em emoções humanas",
+    "fps": 30,
+    "timestamp": 1698676122,
+    "width": 0,
+    "height": 0,
+    "date": "30/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "79% dos desenvolvedores estão considerando um novo emprego, mostra pesquisa do Stack Overflow: tanto novatos quanto profissionais no final de carreira estão mais propensos a buscar novas oportunidades quando se trata de melhores salários, mas “curiosidade” sobre outras empresas é o segundo principal motivo. Para 65% dos pesquisados, flexibilidade, seja em horários ou modalidade de trabalho híbrido ou remoto, destaca-se como a principal razão para permanecer na mesma empresa. As informações são do blog Stack Overflow.",
+            "url": ""
+        },
+        {
+            "text": "Google pagou 26,3 bilhões de dólares em 2021 para se manter como o mecanismo de busca padrão em navegadores, telefones e plataformas: o valor foi revelado durante o julgamento antitruste contra a empresa nos EUA – a maior parte desse montante, cerca de 18 bilhões, foi destinada à Apple para que o Google fosse o mecanismo padrão no navegador Safari. Para colocar esses valores em perspectiva, o negócio de anúncios da Google obteve receitas de 165 bilhões no último ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Projeto open source para treinar IAs com emoções humanas: o LAION Open Empathic tem como objetivo compreender nuances em expressões e mudanças no tom de voz, tornando as interações entre humanos e IAs mais autênticas. Para a fase inicial, foi criado um site para voluntários anotarem clipes do YouTube com as emoções percebidas, treinando o modelo para compreender diversas línguas e contextos culturais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Fórum de pirataria FileWarez, o mais antigo do Brasil, é fechado após mais de 19 anos de operação: a ação foi coordenada por um grupo da indústria musical global em colaboração com a Cyber GAECO, unidade especializada em investigações de crimes cibernéticos no país. Fundado em 2004, o FileWarez contava com mais de 118.000 usuários registrados. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Competição de hacking Pwn2Own Toronto 2023 termina com pesquisadores de segurança faturando 1 milhão de dólares: foram expostos 58 exploits de zero-day em produtos de consumo, como smartphones, impressoras, roteadores sem fio e alto-falantes inteligentes. Os fabricantes agora têm 120 dias para lançar correções para as vulnerabilidades identificadas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google investirá 2 bilhões de dólares na Anthropic, maior rival da OpenAI: no final do mês passado, a Amazon havia anunciado um aporte de 4 bilhões de dólares na startup. A Anthropic foi fundada em 2021 pelos irmãos Dario e Daniela Amodei, e seu principal produto atualmente é o chatbot Claude. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Evento especial “Scary Fast” da Apple acontece nesta segunda-feira: espera-se a apresentação de novos iMacs e MacBooks com chips M3. O evento será transmitido ao vivo pelo canal do YouTube da Apple e um detalhe interessante deste evento é o horário de início – às 21h00 (horário de Brasília). As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
