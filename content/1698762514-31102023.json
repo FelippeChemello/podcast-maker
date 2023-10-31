@@ -1,0 +1,45 @@
+{
+    "title": "IAs: exagero para evitar concorrência / Meta e open source / Bug bounty milionário",
+    "fps": 30,
+    "timestamp": 1698762514,
+    "width": 0,
+    "height": 0,
+    "date": "31/10/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Co-fundador do grupo de pesquisa interno do Google afirma que grandes empresas de tecnologia estão exagerando riscos das IAs para eliminar a concorrência: Andrew Ng – que também foi professor de Sam Altman, da OpenAI, em Stanford – afirma que regulações rigorosas visam apenas prejudicar a comunidade de código aberto, o desenvolvimento de pequenos projetos e frear inovações na área. As informações são do Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Meta rebate críticas por licença limitada do seu modelo de linguagem Llama 2: a empresa sabe que não atende a todos os critérios de um projeto totalmente de código aberto, mas alega que os modelos de licenças  atuais não são adequados para softwares que processam grandes volumes de dados externos, criando um perfil de risco diferente para a tecnologia. A Open Source Initiative planeja criar uma definição de open source relacionada especificamente a IAs. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "HackerOne, plataforma de recompensas por vulnerabilidades, já repassou mais de 300 milhões de dólares a hackers éticos: trinta indivíduos já acumulam mais de um milhão de dólares por suas contribuições, com um deles recebendo mais de 4 milhões por suas descobertas – os projetos envolvendo moedas digitais são os que mais atraem a atenção dos pesquisadores. Fundada em 2012, a HackerOne permite que as empresas gerenciem de forma controlada as vulnerabilidades identificadas por pesquisadores de segurança. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança nova linha de chips M3 para MacBooks Pro e iMac: o grande destaque fica com a GPU, com uma capacidade de renderização até 2,5 vezes superior à do M1. A CPU possui um desempenho entre 30% e 50% superior à primeira geração do processador. Uma curiosidade do evento de apresentação foi o fato de ter sido todo filmado usando apenas iPhones 15 Pro Max, incluindo as tomadas aéreas com drones. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta introduz plano de assinatura opcional para remover anúncios no Facebook e Instagram, mas apenas na Europa: o plano custa 9,99 euros por mês (ou 12,99/mês se adquirido pela App Store ou Google Play em dispositivos iOS e Android) e visa atender a exigências dos reguladores na região – enquanto as pessoas estiverem inscritas, suas informações não serão coletadas para personalização de anúncios. As informações são do blog da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Xbox começa a impedir o funcionamento de controles e acessórios não licenciados: a decisão parece ser um esforço para limitar trapaças em jogos online facilitadas por certos dispositivos modificados, mas produz efeitos colaterais nas comunidades que usam adaptadores especiais para fins legítimos, como acessibilidade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Hackers estão roubando credenciais da AWS em até cinco minutos após serem expostas em repositórios do GitHub: a campanha de cryptojacking, chamada de EleKtra-Leak, tem como objetivo utilizar instâncias Amazon EC2 para minerar moedas digitais. Os pesquisadores recomendam ativar a verificação de segredos para repositórios no GitHub. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
