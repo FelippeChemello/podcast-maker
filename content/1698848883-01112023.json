@@ -1,0 +1,45 @@
+{
+    "title": "Buscador para Devs / Firefox mais rápido / Aliança contra ransomware",
+    "fps": 30,
+    "timestamp": 1698848883,
+    "width": 0,
+    "height": 0,
+    "date": "01/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Phind, buscador otimizado para desenvolvedores e questões técnicas, anuncia modelo que supera as habilidades do GPT-4 em geração de código: além de operar 5 vezes mais rápido, o modelo – baseado no CodeLlama-34B de código aberto – possui uma janela de contexto de 16 mil tokens, o dobro do GPT-4. As informações são do blog do Phind.",
+            "url": ""
+        },
+        {
+            "text": "Firefox fica mais rápido para usuários em 2023: uma das principais melhorias foi a métrica “First Contentful Paint” – tempo entre o recebimento do primeiro byte da rede até a primeira exibição de conteúdo – caindo 15% ao longo do ano. O SpiderMonkey, engine JavaScript do Firefox, também ficou quase 20% mais rápido. As informações são do blog Mozilla Hacks.",
+            "url": ""
+        },
+        {
+            "text": "Aliança de 48 países, incluindo o Brasil, irão assumir compromisso de não pagar resgates por ataques de ransomware: o acordo, entretanto, não parece se aplicar a empresas privadas. A Iniciativa Internacional de Combate ao Ransomware também discutirá o uso de IAs para analisar blockchains e rastrear o pagamentos de resgates feitos em moedas digitais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Gestão e da Inovação em Serviços Públicos abre concurso para a contratação de 200 servidores temporários para projetos de transformação digital do governo federal: as vagas serão distribuídas entre as áreas de gestão de projetos, infraestrutura em TI, ciência de dados, segurança da informação, UX e desenvolvimento de software. Os contratados atuarão por quatro anos no programa Startup GovBR, que promove o desenvolvimento de projetos digitais em órgãos federais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ações da WeWork iniciam o dia em queda de quase 40% com rumores pedido de recuperação judicial: a startup de escritórios compartilhados, sucesso entre empresas de tecnologia e desenvolvedores no período anterior à pandemia, já foi avaliada em 47 bilhões – desde a sua estreia na bolsa de valores, suas ações perderam 99% do valor. A empresa possui dívidas bilionárias e um modelo de negócio que não seria mais sustentável. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google planeja smartwatch como primeiro dispositivo a implementar arquitetura RISC-V: a empresa irá lançar ferramentas para desenvolvedores trabalharem com novos processadores desenvolvidos em parceria com a Qualcomm a partir de 2024. No longo prazo, a intenção é colocar a arquitetura no mesmo patamar da Arm. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa sugere que sonolência durante reuniões virtuais é causada por desinteresse e tédio, contrariando estudos anteriores que apontavam sobrecarga mental como motivo: a falta de estímulos cognitivos em reuniões virtuais, especialmente com câmeras desligadas, deixa os participantes subestimulados. No entanto, essa falta de estímulo pode levar à realização de outras tarefas ao mesmo tempo, que em contrapartida pode ser exaustivo ao cérebro. As informações são do site Phys.",
+            "url": ""
+        }
+    ]
+}
