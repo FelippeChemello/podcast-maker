@@ -1,0 +1,33 @@
+{
+    "title": "Beatles lança música com IA / Semicondutor mais rápido / PL contra roubo de celulares",
+    "fps": 30,
+    "timestamp": 1698935247,
+    "width": 0,
+    "height": 0,
+    "date": "02/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Câmara aprova projeto de lei que cria pena específica para furto e roubo de celulares: o texto contempla qualquer dispositivo eletrônico ou informático e determina um tempo de reclusão de 4 a 10 anos para condenados. O PL 3780/23 também classifica como estelionato qualificado os golpes aplicados por meio da internet ou redes sociais, com pena entre 4 e 8 anos. A proposta agora vai ao Senado. As informações são da Agência Câmara de Notícias.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas descobrem, por acaso, semicondutor mais rápido e eficiente até agora: as partículas subatômicas do Re6Se8Cl2 transitam pelo material duas vezes mais rápido que elétrons no silício. E como essas são controladas por luz, em vez de uma corrente elétrica, teoricamente, as velocidades de processamento têm o potencial de atingir seis ordens de magnitude mais rápidas do que as alcançáveis na eletrônica atual, tudo em temperatura ambiente. Embora o Re6Se8Cl2 possua propriedades promissoras, seu uso comercial pode ser muito limitado devido ao alto custo do rênio, um dos seus elementos constituintes. As informações são da Universidade de Columbia.",
+            "url": ""
+        },
+        {
+            "text": "HSBC, um dos maiores bancos custodiantes de metais preciosos do mundo, tokeniza ouro físico: a tecnologia facilita a vinculação de cada token até o número de série de cada barra – um token equivale a 0,001 onça troy. O banco afirma que além da demanda por ativos digitais nativos, há cada vez mais procura por soluções de tokenização de ativos reais. A plataforma HSBC Orion é um sistema baseado em registro distribuído (DLT) proprietário, com poucas informações disponíveis sobre sua tecnologia e funcionamento. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Com auxílio de IA, banda The Beatles lança música inédita nesta quinta-feira: a tecnologia permitiu a separação dos vocais de John Lennon enquanto tocava piano em uma gravação de 1978. Com os vocais muito mais claros, Paul McCartney e Ringo Starr, os dois integrantes remanescentes da banda, conseguiram finalizar a composição, adicionando também uma guitarra gravada em 1995 por George Harrison. A nova canção “ow And The” estará disponível a partir das 11h00 (horário de Brasília) nos serviços de streaming Spotify, Apple Music e Amazon Prime Music. As informações são da BBC.",
+            "url": ""
+        }
+    ]
+}
