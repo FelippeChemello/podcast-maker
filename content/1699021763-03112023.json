@@ -1,0 +1,45 @@
+{
+    "title": "Cloudflare: problema grave / Google desiste de API / Ex-CEO da FTX condenado",
+    "fps": 30,
+    "timestamp": 1699021763,
+    "width": 0,
+    "height": 0,
+    "date": "03/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Queda de energia em vários data centers derrubam serviços e APIs da Cloudflare: essa é a segunda grande interrupção nesta semana, mas o problema atual parece ser muito mais grave. Além da pane na rede de energia que atende os data centers no estado do Oregon, nos EUA, os geradores de energia de backup também falharam, desligando totalmente as instalações. A Cloudflare está se restabelecendo aos poucos e irá publicar uma análise detalhada da interrupção após uma investigação. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google desiste de promover recurso controverso que determinaria se navegadores são confiáveis: a Web Environment Integrity API tinha como objetivo estabelecer uma conexão segura entre um navegador e uma página na web por meio da conferência com um terceiro (o Google, por exemplo) para determinar a integridade do ambiente do usuário e tentar evitar fraudes. A proposta levantou muitas preocupações sobre o próprio conceito da web como um padrão aberto, com restrições a navegadores que não implementassem a API. O Google irá trabalhar em uma versão mais limitada da tecnologia na versão do Chrome que pode ser incorporada em aplicativos Android. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ex-CEO da exchange de moedas digitais FTX é condenado em todas as acusações de fraude e lavagem de dinheiro: Sam Bankman-Fried teria roubado 8 bilhões de dólares em investimentos de clientes, valor que afirma ter apenas pego “mprestad” para outro negócio seu e depois perdido. Ele agora pode enfrentar uma sentença de até 115 anos de prisão, a ser determinada por um juiz em até 90 dias. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple lucra 22,9 bilhões de dólares, crescimento de 10% no último trimestre: o destaque ficou com o recorde histórico na receita com serviços – e aqui incluem-se os bilhões de dólares que o Google paga para se manter como buscador padrão nos dispositivos da marca – quase superando as vendas combinadas dos outros dispositivos da marca (Mac, iPad, Watch e acessórios), tirando apenas o iPhone, que representa 50% do faturamento total da companhia. As informações são da página de imprensa da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Navegador Brave libera assistente de IA com foco em privacidade para todos os usuários: o Leo não grava conversas, nem exige login para seu uso, podendo realizar traduções, resumir páginas, responder a perguntas e gerar conteúdo. Há dois modelos disponíveis: o Llama 2 da Meta, totalmente gratuito, e o Claude Instant da Anthropic, custando 15 dólares mensais. A Brave reforça que o Leo foi desenvolvido para integrar diferentes modelos de IA e mais opções estarão disponíveis no futuro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Co-fundador da DeepMind reafirma previsão que fez em 2011, estimando 50% de chance de uma AGI até 2028: Shane Legg acredita que atingiu-se um nível de poder computacional suficiente para iniciar o treinamento de modelos com volumes de dados gigantes, “lém do que um ser humano pode experimentar em toda uma vid”. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI abre prévia privada do Stable 3D, ferramenta para a geração de modelos 3D texturizados: imagens, ilustrações ou prompts de texto servem como ponto de partida para a criação de assets em qualidade de “ascunh” ou “onceitua”. Os objetos possuem o formato de arquivo \".ob” e podem ser editados em ferramentas como Blender e Maya, ou importados na Unreal Engine 5 e Unity. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
