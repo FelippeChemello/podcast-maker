@@ -1,0 +1,45 @@
+{
+    "title": "Elon Musk lança Grok / Certificação vale a pena / OpenAI DevDay hoje",
+    "fps": 30,
+    "timestamp": 1699281003,
+    "width": 0,
+    "height": 0,
+    "date": "06/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "xAI, nova startup de Elon Musk, apresenta chatbot para competir com o ChatGPT: o Grok é inspirado no “uia do Mochileiro das Galáxia” e projetado para responder perguntas com humor. O Grok possui conhecimento em tempo real do mundo extraído da plataforma X e responderá a perguntas que são rejeitadas por outros sistemas de IA. O modelo possui 33 bilhões de parâmetros e a stack de treinamento é baseada em Kubernetes, Rust e JAX. Quando lançado ao público, o Grok será um recurso da assinatura X Premium+, que custa 84 reais por mês. As informações são do site xAI.",
+            "url": ""
+        },
+        {
+            "text": "Programas de certificação para programadores ainda são considerados valiosos por especialistas, executivos e recrutadores: as certificações validam habilidades específicas, além de ser um indicativo de comprometimento com o crescimento profissional e adaptação contínua às novas tecnologias. As certificações seriam especialmente válidas para quem está no início de carreira ou em transição de área. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Primeira conferência para desenvolvedores da OpenAI acontece nesta segunda-feira: rumores apontam o lançamento do Gizmo, uma nova ferramenta para a criação de chatbots personalizados pelo próprio usuário, mudanças na interface do ChatGPT, habilidade de conectar o Google Drive e Microsoft 365 para extração de informações, e novos planos para pequenos times (com janela de contexto expandida e uso ilimitado do modelo GPT-4). O evento OpenAI DevDay será transmitido ao vivo no site da startup a partir das 15h (horário de Brasília).",
+            "url": ""
+        },
+        {
+            "text": "Brasil assina “eclaração de Bletchle” para o desenvolvimento seguro de IAs: representantes de 28 países se reuniram na Cúpula de Segurança em IA no Reino Unido, enfatizando a necessidade de regulações adequadas para mitigação de riscos, especialmente em áreas como cibersegurança e biotecnologia. A declaração enfatiza a cooperação internacional para o desenvolvimento de políticas e promoção de um diálogo global sobre a tecnologia. As informações são do site do governo do Reino Unido.",
+            "url": ""
+        },
+        {
+            "text": "Foguete da SpaceX bate recorde ao ser reutilizado em 18 lançamentos bem-sucedidos: em sua última missão na sexta-feira, o Falcon 9, número de série B1058, levou mais 23 satélites Starlink para órbita – seu voo inaugural foi em maio de 2020, levando dois astronautas à órbita, primeira vez que uma espaçonave comercial realizaria esse feito. A SpaceX pretende estender a vida útil deste foguete para além de 20 lançamentos, mas apenas no transporte de satélites Starlink. Desde 2016, a SpaceX já realizou 249 lançamentos consecutivos bem-sucedidos de seus foguetes. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google Play introduz selo para aplicativos de VPN que realizarem auditorias de segurança independentes: o badge foi inicialmente concedido a apps como NordVPN e ExpressVPN. A auditoria avalia requisitos como criptografia, autenticação e gerenciamento de sessão, comunicação de rede, interação com a plataforma, qualidade do código, e políticas de privacidade. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare apresenta post mortem da interrupção catastrófica ocorrida na semana passada: o processo de recuperação dos serviços levou 40 horas devido a falhas consecutivas de energia em três dos seus principais data centers, levando a empresa a ativar servidores de recuperação de desastres na Europa. A Cloudflare coloca a maior parte da culpa na gestão desastrosa da empresa terceirizada que cuida de seus equipamentos, que falhou em notificar que as instalações estavam rodando em geradores de energia, impedindo que a Cloudflare tomasse medidas mais drásticas e mais rapidamente. As informações são do blog da Cloudflare.",
+            "url": ""
+        }
+    ]
+}
