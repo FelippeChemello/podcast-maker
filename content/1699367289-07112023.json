@@ -1,0 +1,45 @@
+{
+    "title": "GPT-4 Turbo / Trabalho remoto duplo / Rust vs C++",
+    "fps": 30,
+    "timestamp": 1699367289,
+    "width": 0,
+    "height": 0,
+    "date": "07/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança modelo GPT-4 Turbo: a janela de contexto subiu para 128.000 tokens, permitindo o processamento de 300 páginas de texto em uma única solicitação e o custo da API ficou até 3 vezes menor para desenvolvedores. Foi lançado o Assistants API para facilitar o desenvolvimento de agentes personalizados para aplicativos de IA assistiva, com capacidades multimodais de visão, criação de imagens e sintetização de voz. Outra novidade é o lançamento do Whisper v3, uma versão aprimorada do modelo de reconhecimento de fala. Além disso, a OpenAI agora pagará pelos custos de ações judiciais relacionadas à violação de direitos autorais para quem usar suas APIs. Em breve também será possível criar versões personalizadas do ChatGPT, chamadas apenas de GPTs, que combinam instruções, conhecimento extra e outras habilidades. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Ex-executivo de RH da Microsoft afirma que empresas não deveriam se preocupar com desenvolvedores que têm mais de um emprego remoto: Chris Williams observa que muitos funcionários aproveitaram a liberdade fornecida pela modalidade para assumir múltiplos empregos e defende que o seu desempenho é o que realmente importa. Ele argumenta que, se a pessoa está cumprindo bem com suas tarefas, isso é o que deve ser valorizado. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Migrar de C/C++ para Rust pode reduzir a introdução de vulnerabilidades por novos contribuidores em projetos de código aberto: segundo um estudo do projeto Oxidation da Mozilla – a substituição de componentes do Firefox por equivalentes escritos em Rust – contribuidores novatos em projetos Rust criam códigos cerca de 70 vezes menos propensos a vulnerabilidades em comparação a projetos escritos em C++. Além disso, houve um aumento no número de novos colaboradores após a adoção do Rust, indicando que a própria linguagem incentiva mais contribuições. As informações são da Universidade de Waterloo.",
+            "url": ""
+        },
+        {
+            "text": "Governo reverte processo de dissolução do CEITEC: o Centro Nacional de Tecnologia Eletrônica Avançada é o único fabricante de semicondutores da América Latina. No entanto, a empresa enfrentará o desafio de recuperar o quadro de funcionários qualificados, tendo perdido mais de 95% de sua equipe técnica especializada nos últimos anos – os 70 projetistas de chips já foram demitidos. O maior patrimônio do CEITEC está em sua sala limpa e a retomada das operações é vista como financeiramente viável. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas estão desenvolvendo dispositivo para induzir sonhos lúcidos: o Halo é uma faixa colocada ao redor da cabeça, combinando ultrassonografia transcraniana focalizada e modelos de aprendizado de máquina para detectar quando uma pessoa entra na fase de sono chamada de REM e, por meio da neuromodulação, induzir e estabilizar sonhos lúcidos. A startup Prophetic planeja comercializar o dispositivo a partir de 2025. As informações são do site Vice.",
+            "url": ""
+        },
+        {
+            "text": "Canon promete drástica redução de custos na produção de semicondutores com novas máquinas de litografia: a tecnologia de nanoimprint seria uma alternativa à litografia ultravioleta extrema da holandesa ASML, atualmente a maior fornecedora de equipamentos para a indústria de semicondutores no mundo. A litografia por nanoimprint oferece várias vantagens sobre a fotolitografia, como resolução, reprodução direta de nanoestruturas tridimensionais e custos operacionais mais baixos pelo fato de seus equipamentos serem mais simples e operarem sem a necessidade de óptica complexa ou fontes de radiação de alta energia. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "xAI apresenta o PromptIDE, um ambiente de desenvolvimento projetado para acelerar a engenharia de prompts: o editor de código que permite a implementação de técnicas complexas de prompting e acesso transparente ao modelo de linguagem Grok-1. Seu diferencial está nas análises detalhadas do que o modelo está fazendo, em tempo real. A ferramenta está disponível apenas para membros do programa de acesso antecipado no momento. As informações são do site da xAI.",
+            "url": ""
+        }
+    ]
+}
