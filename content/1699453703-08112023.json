@@ -1,0 +1,45 @@
+{
+    "title": "Firefox + GitHub / Demissão por ofensa / Dados de vacinação vazados",
+    "fps": 30,
+    "timestamp": 1699453703,
+    "width": 0,
+    "height": 0,
+    "date": "08/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Justiça do Trabalho confirma que postagem em rede de comunicação interna da empresa também dá demissão por justa causa: um operador de carga foi dispensado após ofender o presidente da empresa e a ação foi considerada especialmente danosa pelo funcionário ter repetido a postagem ofensiva após a primeira ter sido apagada. O caso lembra o ocorrido no ano passado, quando uma funcionária de uma rede de drogarias reclamou publicamente sobre a empresa onde trabalhava no Facebook. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Controle de versões do Firefox vai mudar do Mercurial para Git: o objetivo é aliviar a carga de trabalho sobre a equipe de desenvolvimento já que ambos os sistemas eram suportados. O repositório será hospedado no GitHub e a mudança ocorrerá em etapas nos próximos seis meses. A transição também poderá ajudar a atrair novos contribuidores graças à popularidade do Git/GitHub. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Dados de vacinação de brasileiros são expostos novamente, desta vez em site hospedado nos EUA: especialistas na área de segurança digital consideram que para criar a página de consulta, os invasores – aparentemente brasileiros, devido ao uso de expressões típicas – utilizaram-se de dados previamente expostos em um incidente envolvendo o Ministério da Saúde. O vazamento em questão expõe 27 pontos de dados, como endereço, telefone, marca e lote das vacinas tomadas. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Brasil é o líder mundial no envio de mensagens de áudio pelo WhatsApp, afirma presidente do aplicativo: segundo Will Cathcart, a quantidade de áudios é quatro vezes superior a qualquer outro país, mesmo sendo o terceiro maior em número de usuários, ficando apenas atrás da Índia e Indonésia. Os brasileiros também são os que mais usam o recurso de mensagens que desaparecem. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Apple teria pausado adição de novos recursos no iOS 18 para focar na correção de bugs: a medida teria sido tomada após a equipe de desenvolvimento identificar um número anormal de falhas na versão de testes interna do sistema operacional. Em 2019, a equipe de desenvolvimento da Apple teria adotado o que chama internamente de “ Pact”, um comprometimento a não permitir regressões de software. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Resultado de pesquisa do Google diminui expectativas de se alcançar AGI por meio de grandes modelos de linguagem: a tecnologia de transformers, base de sistemas como o ChatGPT, não é eficaz na generalização fora do domínio dos dados de treinamento, mesmo em tarefas simples, uma característica essencial na Inteligência Artificial Geral. Nota-se, entretanto, que o estudo foi baseado em um modelo na escala do GPT-2, mas o tamanho não deve alterar a conclusão do estudo. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Google afirma que Core Web Vitals já economizou mais de 10.000 anos em tempo de espera no carregamento de páginas por meio do Chrome em 2023: 40% dos sites na web já cumprem com os critérios que avaliam a experiência de carregamento, interatividade e estabilidade visual de uma página. 78% dos desenvolvedores que otimizaram sua páginas para o Core Web Vitals relatam melhorias notáveis na experiência do usuário. As informações são do blog do Chromium.",
+            "url": ""
+        }
+    ]
+}
