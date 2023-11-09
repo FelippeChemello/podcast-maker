@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT sofre ataque DDoS / Problema para achar emprego / Omegle encerra operações",
+    "fps": 30,
+    "timestamp": 1699540091,
+    "width": 0,
+    "height": 0,
+    "date": "09/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI confirma que interrupção generalizada no ChatGPT e APIs nas últimas 24 horas foi resultado de ataque DDoS: o incidente foi reivindicado pelo grupo Anonymous Sudan, que acusa a empresa de parcialidade em relação a recentes eventos geopolíticos. O grupo também confirmou o uso do botnet SkyNet no ataque. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro de software usa ferramenta de IA para se candidatar a 5.000 vagas de emprego “com um único clique”: para Julian Joseph o fato de ferramentas como o LazyApply existirem demonstra que “algo está quebrado” no processo de contratação de desenvolvedores – o uso crescente de automação para análise de candidatos por parte dos empregadores tem tornado todo o processo opaco. Mesmo com o uso da ferramenta, Joseph conseguiu apenas 20 entrevistas de emprego. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Omegle, popular chat por vídeo online e anônimo, encerra operações abruptamente: a decisão foi tomada por seu fundador, Leif K-Brooks, devido aos crescentes problemas de segurança e de mau comportamento de usuários na plataforma. O site atraía cerca de 50 milhões de visitantes por mês. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Busca com IA generativa no Brasil: o Search Generative Experience permite interações em linguagem natural e oferece respostas completas em vez da tradicional lista de links. Novas funcionalidades foram adicionadas, como resumos de artigos por trás de paywalls, melhorias na ferramenta de tradução e em respostas relacionadas à programação, e geração de imagens. O sistema está disponível para quem estiver cadastrado no Search Labs e utilizar o navegador Chrome. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores alertam para o esgotamento de dados de texto de alta qualidade para o treinamento de IAs até 2026: conteúdos de alta qualidade são provenientes de livros, artigos científicos, Wikipédia e certos conteúdos da web. Já para dados linguísticos de baixa qualidade, como postagens em redes sociais, serão esgotados em algum momento entre 2030 e 2050, e dados de imagem de baixa qualidade entre 2030 e 2060. Essa situação poderia desacelerar o avanço dos grandes modelos de linguagem. Uma opção seria criar dados sintéticos para o treinamento desses sistemas. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Samsung apresenta chatbot próprio para competir com o ChatGPT: o Samsung Gauss – uma homenagem ao matemático alemão Carl Friedrich Gauss e à sua teoria da distribuição normal, uma das bases do aprendizado de máquina – inclui as ferramentas “Linguagem”, “Código” e “Imagem”, mas não tem data de lançamento público determinada. O Galaxy S24, que será lançado no início do ano que vem, deve vir com o sistema embutido. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GitHub Copilot Chat estará disponível de forma geral em dezembro deste ano: o assistente conversacional foi atualizado para utilizar o GPT-4 e também estará disponível na interface web, no aplicativo para iOS e Android, e nos IDEs da JetBrains. O Copilot Chat está incluso na assinatura de 10 dólares do GitHub Copilot, mas será gratuito para professores, alunos e mantenedores de projetos open source populares. As informações são do blog do GitHub.",
+            "url": ""
+        }
+    ]
+}
