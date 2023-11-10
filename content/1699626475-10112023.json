@@ -1,0 +1,45 @@
+{
+    "title": "Risco à internet no Brasil / Ataque DDoS na Cloudflare / LLM gigante da Amazon",
+    "fps": 30,
+    "timestamp": 1699626475,
+    "width": 0,
+    "height": 0,
+    "date": "10/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Usina de dessalinização em Fortaleza será construída perto dos cabos submarinos que conectam o Brasil ao resto do mundo: a cidade é estratégica por ser geograficamente mais próxima dos outros continentes, com até 99% do tráfego de dados que entram e saem do país passando pela região. A captação de água do mar da usina será feita a 567 metros de distância dos cabos, buscando mitigar riscos. A Anatel já emitiu uma recomendação contrária à construção da instalação. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Site da Cloudflare é derrubado por ataque DDoS: o incidente não afetou os serviços da empresa, já que o site é hospedado em uma infraestrutura separada. O Anonymous Sudan, mesmo grupo hacktivista que derrubou o ChatGPT nesta semana, reivindicou o ataque. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria desenvolvendo modelo de linguagem com 2 trilhões de parâmetros: para comparação, estima-se que o GPT-4 tenha um trilhão de parâmetros. O projeto Olympus busca unificar os esforços de IA da empresa, inclusive a Alexa. A Amazon também acredita que ter seus próprios LLMs pode tornar a AWS mais atraente para clientes empresariais. Não há cronograma definido para lançamento do modelo. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Humane, startup criada por ex-funcionários da Apple, lança oficialmente dispositivo vestível que promete “substituir” smartphones: o Ai Pin prende-se magneticamente à roupa do usuário, sendo controlado por voz e gestos. O dispositivo roda um modelo da OpenAI para realização de tarefas, como resumir emails, traduções em tempo real e reconhecimento de objetos. O mini projetor embutido ilumina uma interface interativa em superfícies próximas, como a palma da mão ou uma mesa. O custo é de 699 dólares, mas requer uma assinatura mensal de 24 dólares para cobrir o plano de dados e armazenamento de informações na nuvem. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google considerou plano de assinatura para buscas privadas e sem anúncios: uma das ideias era cobrar 10 dólares por 1.000 buscas, mas foi descartada em 2018 após a consideração de que isso deixaria ainda mais claro como a empresa ganha dinheiro coletando dados de usuários. A revelação ocorreu durante o julgamento antitruste em curso contra a empresa nos EUA. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Segundo dados do IBGE, smartphone e televisão são os dispositivos mais utilizados pelos brasileiros para acessar a internet: 98,5% das pessoas usam o smartphone para ficarem conectados. A televisão mostrou um crescimento notável, com 47,5% da população acessando a internet pelo dispositivo, um crescimento de 4,2 vezes desde 2021. O computador perdeu espaço, sendo usado por 35,5% da população, uma queda de 44% desde 2001. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Signal inicia testes públicos para adição de nomes de usuário em seu serviço de mensagens criptografadas: a medida visa aumentar a privacidade, permitindo desvincular o número de telefone do aplicativo. A funcionalidade vem sendo desenvolvida desde 2019, pois necessitaria uma grande reformulação arquitetônica do sistema de identificação. O lançamento geral está previsto para o início de 2024. As informações são do site PCMag.",
+            "url": ""
+        }
+    ]
+}
