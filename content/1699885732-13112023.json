@@ -1,0 +1,45 @@
+{
+    "title": "Maior banco do mundo hackeado / Polêmica com Outlook / Receita atrás de moedas digitais",
+    "fps": 30,
+    "timestamp": 1699885732,
+    "width": 0,
+    "height": 0,
+    "date": "13/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ataque de ransomware obriga maior banco do mundo trocar informações com outras instituições financeiras por meio de drives USB: a filial do Banco Industrial e Comercial da China em Nova Iorque ficou incapacitado de liquidar operações com títulos do Tesouro dos EUA, um mercado que gira trilhõs de dólares por dia. A solução temporária foi transportar as informações das transações manualmente entre bancos na cidade por meio de pendrives. O ataque foi atribuído ao grupo LockBit. As informações são do site da revista Time.",
+            "url": ""
+        },
+        {
+            "text": "Outlook estaria enviando emails, contatos e senhas de qualquer provedor para a Microsoft: uma versão recém lançada do cliente de emails oferece uma função de segurança e backup que sincroniza todas as informações com a Microsoft. A situação afeta o Outlook do Windows, macOS, iOS e Android. O governo alemão expressou preocupações com a situação e planeja abordar o assunto com as autoridades de proteção de dados europeias já nesta semana. As informações são do site Mailbox.",
+            "url": ""
+        },
+        {
+            "text": "Receita Federal adere à regulação internacional para compartilhamento de informações fiscais sobre moedas digitais entre países: a estrutura Crypto-Asset Reporting Framework também é apoiada por 45 outros países, incluindo EUA, Reino Unido e Japão. A partir de 2027, as plataformas que lidam com ativos digitais financeiros deverão compartilhar informações de contribuintes com as suas autoridades fiscais, visando combater a evasão fiscal, estimada entre 55% e 95% para criptoativos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm desiste do recurso de emergência via satélite para smartphones Android: o projeto Snapdragon Satellite, criado em parceria com a empresa de comunicações Iridium, seria uma tecnologia de mensagens via satélite similar ao SOS de Emergência disponível para o iPhone em alguns países. O projeto foi cancelado devido à falta de interesse dos fabricantes de smartphones em adotar a tecnologia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria desenvolvendo sistema operacional próprio, baseado em Linux, para substituir o Android em futuros dispositivos: internamente denominado “Vega”, a maior parte do sistema já está concluída, com a equipe se concentrando agora na preparação de um SDK, usando React Native para o desenvolvimento de aplicativos. O objetivo final seria reduzir a dependência do Google e eliminar o “inchaço” subjacente do Android Open Source Project. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Apple, Google e Samsung criam novo padrão para fechaduras inteligentes: o Aliro, baseado na tecnologia Home Key da Apple, também recebeu apoio dos fabricantes desses dispositivos, e permitirá o uso de smartphones e smartwatches para abrir qualquer fechadura inteligente por meio das tecnologias NFC, Bluetooth LE e UWB. Não há previsão de quando as primeiras fechaduras compatíveis com o padrão estarão disponíveis no mercado. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft reverte atualização do OneDrive no Windows que impedia fechamento do aplicativo enquanto o usuário não respondesse a pesquisa de satisfação: uma janela com os dizeres “Selecione uma razão para encerrar o OneDrive” trazia opções como “Eu não quero o OneDrive rodando o tempo todo” e “Eu recebo muitas notificações”, deixando o botão Encerrar inativo até que fosse selecionado um motivo. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
