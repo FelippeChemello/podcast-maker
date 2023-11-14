@@ -1,0 +1,45 @@
+{
+    "title": "Oferecendo milhões: OpenAI quer atrair ex-Google e Meta / Governo sobe imposto sobre elétricos / Brasil: Juiz investigado por usar ChatGPT",
+    "fps": 30,
+    "timestamp": 1699972135,
+    "width": 0,
+    "height": 0,
+    "date": "14/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI está oferecendo pacotes de remuneração de até 10 milhões de dólares para atrair pesquisadores do Google: a startup já teria contratado 59 ex-funcionários do Google e 34 da Meta. Além do bônus, a faixa salarial anual varia entre 245.000 e 450.000 dólares para engenharia de pesquisa. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Conselho Nacional de Justiça irá investigar juiz por usar ChatGPT em decisão judicial: a ferramenta criou uma jurisprudência fictícia do STJ, levando o advogado que perdeu o caso a detectar a fraude. O juiz envolvido alegou sobrecarga de trabalho e colaboração de um servidor em parte da sentença. As informações são do site Consultor Jurídico.",
+            "url": ""
+        },
+        {
+            "text": "Governo anuncia retomada da cobrança de imposto de importação sobre carros elétricos e híbridos a partir de 2024: haverá uma progressão gradual no aumento do imposto até julho de 2026, saindo de 10% para 35%. A medida visa desenvolver a cadeia automotiva nacional. A decisão tem gerado debates entre montadoras e associações do setor. As informações são do site InsideEVs.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados exige modificações no programa que irá implementar sistemas de biometria em estádios de futebol brasileiros: o Projeto Estádio Seguro utilizará câmeras para identificar torcedores com “restrições judiciais”, compartilhando as informações com a polícia. A ANPD enfatiza a necessidade de tratamento adequado para esses dados, especialmente na coleta de imagens e informações de menores de idade. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas criticam o uso do termo “alucinação” para descrever erros cometidos por IAs: o termo traz consigo implicações potencialmente negativas para a compreensão do público sobre a tecnologia, atribuindo intenção ou consciência. Os erros que sistemas como o ChatGPT cometem são semelhantes a outros modelos de previsão, como os usados em economia. Tem sido difícil quantificar as taxas de alucinação dos grandes modelos de linguagem – a Vectara, uma startup fundada por ex-funcionários do Google, estima que os modelos da OpenAI alucinam cerca de 3% do tempo. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney alcança receita recorrente anual de 200 milhões de dólares: a startup, hoje avaliada em 1 bilhão de dólares, se destaca por não ter realizado nenhuma rodada de investimentos – o fundador, David Holz, descreve o Midjourney como um laboratório de pesquisa auto-financiado e lucrativo, com um modelo de negócios simples baseado no pagamento dos custos de uso por parte dos clientes, acrescido de um valor para manutenção da equipe, hoje com 86 pessoas. As informações são do perfil de Parves Shahid no X.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores demonstram pela primeira vez roubo de chaves criptográficas de SSH: um número considerável de chaves são vulneráveis a um comprometimento total devido a erros computacionais que podem ocorrer naturalmente – basta um único bit de memória invertido por um raio cósmico para expor a chave privada. A descoberta é surpreendente, pois a maioria dos softwares SSH implementa contramedidas para esse tipo de problema há décadas. A vulnerabilidade afeta chaves que utilizam o algoritmo criptográfico RSA, aproximadamente um terço das assinaturas SSH. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
