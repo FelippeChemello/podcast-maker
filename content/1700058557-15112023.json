@@ -1,0 +1,33 @@
+{
+    "title": "Devs acumulando empregos / GPT-5 confirmado / Falha grave em CPUs Intel",
+    "fps": 30,
+    "timestamp": 1700058557,
+    "width": 0,
+    "height": 0,
+    "date": "15/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro de software acumula salários anuais de 820.000 dólares ao trabalhar para a IBM, Meta e Tinder ao mesmo tempo: Bryan Roque decidiu fazer isso para garantir uma segurança financeira após ser demitido da Amazon durante a pandemia. A prática de “overemployment” tem crescido entre profissionais que trabalham remotamente, com milhares de membros em comunidades no Discord e Reddit compartilhando dicas para evitar serem detectados – uma das ideias seria buscar vagas como Dev júnior quando já se é senior, facilitando o cumprimento de tarefas e metas. No entanto, o excesso de trabalho, a culpa e a exigência de retorno aos escritórios têm sido os grandes desafios desses profissionais. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman, CEO da OpenAI, confirma início dos trabalhos no GPT-5: o modelo ainda não começou a fase de treinamento, com a empresa buscando conjuntos de dados em larga escala que não estão disponíveis publicamente, especialmente conversas em qualquer formato, grandes dissertações ou textos longos. Não há data para lançamento do modelo, mas durante a recente conferência de desenvolvedores DevDay, Altman convidou os atendentes a voltar no ano que vem, afirmando que os sistemas atuais parecerão muito “defasados” em relação ao trabalho que está sendo desenvolvido dentro da empresa neste momento. O objetivo final é criar uma superinteligência, mas ainda falta aos grandes modelos de linguagem algum fator para que eles possam criar novos conhecimentos, afirma Altman. As informações são do jornal Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do Google descobrem grave vulnerabilidade em CPUs Intel: uma sequência de instruções que leva a um comportamento inesperado que pode ser explorado maliciosamente, resultando em falhas do sistema e possíveis escalonamentos de privilégios. O impacto da vulnerabilidade, chamada de “Reptar” (CVE-2023-23583), é especialmente significativo em ambientes virtualizados multiusuários. A Intel já lançou uma atualização de microcódigo para corrigir o problema. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "YouTube vai exigir que criadores identifiquem quando estão usando ferramentas de IA em seus vídeos: uma nova tarja alertará os espectadores quando o conteúdo assistido tenha sido gerado sinteticamente ou alterado digitalmente. Além disso, será possível solicitar a remoção de conteúdo gerado por IA que simule alguma pessoa, incluindo seu rosto ou voz. As informações são do blog do YouTube.",
+            "url": ""
+        }
+    ]
+}
