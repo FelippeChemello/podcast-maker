@@ -1,0 +1,45 @@
+{
+    "title": "Protesto na Stability AI / Carregamento sem fio Qi2 / Testes da urna eletrônica",
+    "fps": 30,
+    "timestamp": 1700144973,
+    "width": 0,
+    "height": 0,
+    "date": "16/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Executivo da Stability AI, criadora do Stable Diffusion, renuncia em protesto ao uso de conteúdos protegidos por direitos autorais no treinamento de IA: Ed Newton-Rex discorda da visão da empresa sobre o que poderia ser considerado “fair use” – uso de material protegido sem a necessidade de se pedir autorização do criador – e argumenta que a tecnologia derivada pode afetar o valor das obras originais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Nova especificação de carregamento sem fio Qi2 é finalizada: o padrão foi desenvolvido em colaboração com a Apple e possui as mesmas vantagens do sistema MagSafe – alinhamento perfeito entre dispositivo e carregador por meio de ímãs e potência máxima de carregamento de 15 W (o dobro do padrão anterior). Grandes fabricantes, como Anker e Belkin, já lançaram produtos compatíveis com o Qi2. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "TSE anuncia 16 participantes para o Teste Público de Segurança da Urna Eletrônica 2023: o evento acontecerá entre 27 de novembro e 1º de dezembro, envolvendo 8 inscrições individuais e 8 em grupo, totalizando 40 pesquisadores. 34 planos de teste serão executados com o objetivo de avaliar a segurança das urnas e sugerir melhorias. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pausa temporariamente novas inscrições no ChatGPT Plus após forte aumento na demanda: o interesse pelo novo modelo GPT-4 Turbo excedeu a capacidade dos servidores da startup. É possível se cadastrar para receber uma notificação quando o plano de assinatura estiver disponível novamente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta IA que supera métodos tradicionais de previsão do tempo pela primeira vez: o GraphCast é um modelo de código aberto que consegue prever características como pressão do ar, temperatura, umidade e vento com até 10 dias de antecedência em menos de um minuto – sistemas convencionais levam horas para realizar os cálculos – e oferecer avisos a eventos climáticos extremos. O modelo dispensa equações baseadas em física e foi treinado com 39 anos de dados meteorológicos. As informações são do blog da DeepMind.",
+            "url": ""
+        },
+        {
+            "text": "Bing Chat muda de nome para Microsoft Copilot: durante o evento Ignite 2023, a Microsoft também revelou o Azure Maia 100, um chip desenvolvido internamente para treinar e rodar modelos de IA. Não foram reveladas especificações ou a arquitetura utilizada, mas a OpenAI participou do projeto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube Shorts lança experimento “Dream Track” para criação de músicas baseadas em artistas famosos: o projeto, desenvolvido em colaboração com artistas como Sia, Demi Lovato e T-Pain, utiliza o modelo Lyria, desenvolvido pela DeepMind, para gerar trilhas sonoras únicas de 30 segundos, utilizando vozes e estilos musicais baseados em prompts feitos pelos usuários. Além disso, a tecnologia SynthID insere uma marca d'água inaudível no áudio gerado, mantendo sua detecção mesmo após modificações comuns, como compressão ou alterações de velocidade. As informações são do blog Google DeepMind.",
+            "url": ""
+        }
+    ]
+}
