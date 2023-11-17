@@ -1,0 +1,45 @@
+{
+    "title": "App do Windows para iPhone / Proton e blockchain / Signal detalha custos",
+    "fps": 30,
+    "timestamp": 1700231342,
+    "width": 0,
+    "height": 0,
+    "date": "17/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft lança o Windows App, aplicativo para rodar remotamente o Windows no navegador, em dispositivos iOS e outros PCs: uma versão para dispositivos Android ainda não está disponível. O acesso é limitado a contas corporativas da Microsoft, mas indícios apontam para uma futura disponibilidade geral. A conexão remota a uma instância do Windows não é uma novidade, mas o novo nome “Windows App” seria mais um sinal das intenções da Microsoft de mover o sistema operacional totalmente para a nuvem. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Proton está construindo sistema de autenticação de emails via blockchain: colocar as chaves públicas dos usuários no blockchain criaria um registro público, garantindo que essas chaves realmente pertencem a um determinado usuário e evitando ataques do tipo “man-in-the-middle”. O recurso “Key Transparency” será automático para usuários do serviço Proton Mail, garantindo que a chave pública corresponda ao destinatário pretendido. Durante a fase de testes, a Proton está rodando seu próprio blockchain, mas pretende mover o recurso para uma plataforma descentralizada após o lançamento. As informações são do site da revista Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Signal detalha gastos para manter aplicativo de mensagens operando: o valor se aproxima de 33 milhões por ano, sendo 19 milhões de dólares com 50 funcionários, 1,3 milhão com armazenamento, 2,9 milhões com servidore, 6 milhões com taxas de SMS ou chamada de voz para verificação de conta, 2,8 milhões com bandwidth e 700 mil com serviços adicionais. Até 2025, toda a estrutura irá consumir 50 milhões de dólares por ano para continuar funcionando e o objetivo é continuar o desenvolvimento apoiado apenas por pequenas doações. As informações são do blog do Signal.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX tentará lançar nave Starship novamente neste sábado: o teste estava inicialmente previsto para esta sexta-feira, mas foi adiado para uma manutenção de última hora. O Starship é o maior veículo de lançamento espacial já construído e possui dois estágios, com ambos o foguete Super Heavy e a nave retornando à sua plataforma de lançamento para serem reutilizados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Estudo estima que 73% de todo o tráfego na internet no terceiro trimestre de 2023 foi realizado por bots maliciosos: as automações mais comuns incluem a criação de contas falsas, invasão de contas e scraping de dados. Especialistas acreditam que o crescimento dos bad bots tem sido impulsionado por agentes de IA – entre o 1º e 2º trimestre, o scraping de dados cresceu 432%. Os setores mais visados são tecnologia, jogos, redes sociais, e-commerce e serviços financeiros. As informações são do site SecurityWeek.",
+            "url": ""
+        },
+        {
+            "text": "Google relaxa restrições a bloqueadores de anúncios na reformulação da plataforma de extensões do Chrome: o Manifest V3 agora inclui suporte aprimorado ao filtro de conteúdo pela API “Declarative Net Request”. A alteração é vista como positiva pelos desenvolvedores de ad blockers, mesmo com suas limitações. A partir de junho de 2024, extensões que não forem atualizadas ao Manifest V3 serão automaticamente desabilitadas no Chrome. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "“Make it Real” é uma nova aplicação que transforma desenhos em protótipos de software: a ferramenta, disponível dentro do aplicativo de colaboração remota “tldraw”, permite replicar interfaces de usuário e criar jogos simples usando a API GPT-4V da OpenAI para transformar desenhos vetoriais em código CSS e JavaScript funcional. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
