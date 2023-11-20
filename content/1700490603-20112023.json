@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI: Drama e reviravolta / TI quer aumento / Palavra do ano",
+    "fps": 30,
+    "timestamp": 1700490603,
+    "width": 0,
+    "height": 0,
+    "date": "20/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft contrata Sam Altman após sua demissão inesperada do cargo de CEO da OpenAI: juntamente com outros colegas e pesquisadores da OpenAI, Altman irá liderar uma nova equipe de IA avançada dentro da empresa. Na sexta-feira, o conselho de administração da OpenAI, incentivado por Ilya Sutskever, um dos co-fundadores da startup, decidiu demitir Altman. O motivo não ficou totalmente claro, mas Sutskever disse durante uma reunião com funcionários que a remoção de Altman era “necessária” para proteção da missão principal de “fazer uma IA benéfica para toda a humanidade”. No entanto, durante o final de semana, pressionada por investidores – Satya Nadella, CEO da Microsoft, uma das principais parceiras da OpenAI, teria ficado “furioso” ao saber da demissão – a OpenAI tentava negociar a volta de Altman, mas ele exigia que todos do conselho se demitissem, o que acabou não se concretizando. A OpenAI contratou Emmett Shear, ex-CEO da Twitch, para o cargo de Altman. Na manhã desta segunda-feira, Ilya Sutskever, disse que “lamentava profundamente” a sua participação na retirada de Altman do seu cargo e “fará de tudo para reunificar a empresa”. O futuro da OpenAI agora é incerto, dado que a Microsoft detém controle total sobre os servidores usados para treinamento e inferência de sistemas como o ChatGPT – a Microsoft reforça, entretanto, que se mantém comprometida com a OpenAI. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Sindicato dos Profissionais de TI de São Paulo buscam 7,5% de aumento salarial para 2024: além disso, pedem um reajuste de 20% no piso salarial da categoria (2.585,02 reais para atividade técnica de informática), aumento do valor do vale alimentação para 35 reais por dia e ajuda de custo de 100 reais/mês para quem trabalhar no modelo remoto ou híbrido. A pauta também propõe melhorias como licença maternidade estendida para 180 dias, licença-paternidade de 30 dias e implantação de PLR (Planos de Participação nos Lucros e Resultados). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Alucinar é escolhida como “Palavra do Ano 2023” por dicionário inglês: a equipe do Cambridge Dictionary – um dos mais popular do mundo para estudantes da língua inglesa – escolheu a palavra ao reconhecer o novo significado para quando um sistema de IA produz informações falsas. Especialistas, entretanto, criticam o uso do termo “alucinação” para descrever erros cometidos por IAs, o que atribuiria intenção ou consciência à tecnologia. A Cambridge diz que adicionou outros termos relacionados à IA ao seu dicionário em 2023, incluindo “LLM”, “AGI” e “GPT”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Teste com a nave Starship da SpaceX é considerado bem sucedido mesmo após explosão controlada: o booster Super Heavy explodiu logo após a separação de estágios, seguido pela detonação da nave Starship antes de alcançar a altitude desejada. O teste foi considerado um sucesso pois forneceu dados valiosos para futuras missões. Ao contrário do que havíamos informado na edição de sexta-feira da Newsletter, este teste não contemplaria o retorno do Super Heavy e Starship à sua plataforma de lançamento – ambos estavam programados para serem jogados ao mar (agradecemos ao leitor Paulo Cunha pelos esclarecimentos). As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "Grupo cibercriminoso LockBit reformula táticas de negociação com vítimas de ransomware após queda nos pagamentos de resgates: as regras agora estão codificadas e incluem a definição do valor do resgate de forma proporcional à receita anual da vítima (até 10% do faturamento), com ajustes baseados no nível de destruição causado e desconto de no máximo de 50% sobre o valor inicialmente requisitado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google enfrenta desafios no desenvolvimento do LLM que irá competir com o GPT-4: o lançamento do Gemini estava previsto para este mês, mas teria sido adiado para 2024. O Gemini teria capacidades multi-modais, como reconhecimento de imagem e voz, além de técnicas de aprendizado que permitirão novas funcionalidades, como a capacidade de planejar e resolver problemas. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Kotlin sobe para a 15ª posição no índice de popularidade Tiobe de novembro: a linguagem tem registrado uma escalada rápida no ranking – em setembro, havia entrado para o Top 20. A interoperabilidade com Java e acomodações para o desenvolvimento Android são alguns de seus destaques. É de se esperar que a linguagem alcance o Top 10 em breve. As informações são do site InfoWorld.",
+            "url": ""
+        }
+    ]
+}
