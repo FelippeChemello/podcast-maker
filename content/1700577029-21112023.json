@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI: rebelião interna + fusão com rival / “A internet do país vai parar”",
+    "fps": 30,
+    "timestamp": 1700577029,
+    "width": 0,
+    "height": 0,
+    "date": "21/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mais de 700 funcionários da OpenAI ameaçam se demitir a não ser que conselho de administração se demita: a intenção parece ser a recondução de Sam Altman ao cargo de CEO. A carta aberta foi assinada por 95% de todos os funcionários que trabalham para a companhia – notavelmente, entre os signatários está Ilya Sutskever, cientista-chefe da empresa e membro do conselho que supostamente teria coordenado a saída de Altman. E ao contrário do que havia sido dito ontem por Satya Nadella, a ida de Altman para a Microsoft não é garantida – Altman estaria ainda considerando retornar à empresa caso o conselho se demita. A Microsoft realmente estaria aberta a acolher grande parte dos funcionários da OpenAI, mas a continuidade operacional da OpenAI também seria uma prioridade para a empresa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Conselho de administração da OpenAI abordou a rival Anthropic para uma possível fusão: a ideia era unir as duas startups, com Dario Amodei, atual CEO da Anthropic como novo principal executivo da nova empresa. Amodei, que trabalhava na OpenAI até 2020, recusou a oferta. A Anthropic tem sido financiada por grandes investidores como o Google e Amazon e seu principal produto é o chatbot Claude AI. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Presidente da Claro faz apelo contra projeto de usina de dessalinização em Fortaleza – “A internet do país vai parar”: para Fábio Andrade, a obra na Praia do Futuro pode comprometer a conexão de internet do Brasil, pois será construída perto dos cabos submarinos que conectam o país ao resto do mundo. A preocupação seria com a vibração da água e proximidade dos dutos da usina com os cabos submarinos, sugerindo que os dutos sejam posicionados a pelo menos mil metros dos cabos, em vez dos 500 metros propostos, dado a expectativa que o número de cabos dobre nos próximos três anos devido ao aumento esperado na demanda por internet. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores buscam consenso para definição dos níveis de inteligência artificial: a intenção seria estabelecer uma linguagem comum para outras equipes de pesquisa à medida que a tecnologia avance, abordando riscos. Foram definidos cinco níveis: Nível 0 (Sem AGI), Nível 1 (Emergente), Nível 2 (Competente), Nível 3 (Expert), Nível 4 (Virtuoso) e Nível 5 (Sobre-humano) – o ChatGPT seria classificado como de Nível 1. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "ByteDance propõe ajuste fino do kernel Linux para cargas de trabalho diferentes usando aprendizado de máquina: a ideia é automatizar a configuração de parâmetros do kernel para otimizar o desempenho do sistema, superando os métodos tradicionais de ajuste manual. Outra vantagem seria o processo de otimização dinâmica, com o sistema monitorando continuamente o desempenho do kernel, fazendo ajustes em tempo real em configurações como dimensionamento de frequência da CPU e gerenciamento de memória. ByteDance já obteve sucessos, como a redução de 30% no uso de memória em uma aplicação MySQL e aumento de 12% no desempenho de rede em servidores NGINX. As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Usuários relatam atraso de cinco segundos ao carregar vídeos do YouTube em navegadores que não são Chrome: o YouTube esclareceu que o problema está relacionado ao uso de bloqueadores de anúncios e não navegadores. O atraso, no entanto, desaparece quando se muda o “User-Agent” para o Chrome. Usuários que experimentarem o atraso são aconselhados a permitir anúncios no YouTube ou se inscrever no YouTube Premium. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Iniciativa da Amazon pretende treinar gratuitamente 2 milhões de pessoas em tecnologias relacionadas a IA até 2025: a empresa lançará cursos gratuitos, incluindo um programa de bolsas de estudo para mais de 50 mis estudantes de ensino médio e universitário. Segundo um estudo da AWS, contratar talentos qualificados em IA é uma prioridade para 73% dos empregadores, com estimativa de salários até 47% maiores. As informações são do blog About Amazon.",
+            "url": ""
+        }
+    ]
+}
