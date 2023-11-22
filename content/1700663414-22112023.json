@@ -1,0 +1,45 @@
+{
+    "title": "Binance com problemas / Nvidia: lucro explode / Cidade inteligente no Brasil",
+    "fps": 30,
+    "timestamp": 1700663414,
+    "width": 0,
+    "height": 0,
+    "date": "22/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Binance, considerada a maior corretora de moedas digitais do mundo, renuncia ao cargo após acordo judicial com o Departamento de Justiça dos EUA: Changpeng Zhao, popularmente conhecido como CZ, admitiu culpa em violações de lavagem de dinheiro e foi proibido de trabalhar na empresa, que será monitorada por uma equipe independente por três anos. A corretora pagará uma multa de 4,3 bilhões de dólares. O acordo é resultado de uma investigação de três anos, revelando falhas nos processos de compliance da plataforma. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Lucro líquido da Nvidia explode em 1.259% no último trimestre: segundo a empresa, o resultado de 9,2 bilhões reflete a ampla transição das plataformas de computação de propósito geral para computação acelerada e de IA generativa. A divisão de GPUs para PCs também cresceu, mesmo com o cenário fraco no mercado de computadores pessoais. As informações são do site da Nvidia.",
+            "url": ""
+        },
+        {
+            "text": "Curitiba é eleita a cidade mais inteligente do mundo em 2023: a capital do Paraná foi reconhecida por suas políticas públicas inovadoras e ações de planejamento urbano que promovem o crescimento socioeconômico e a sustentabilidade ambiental, se destacando com iniciativas como energia solar, fazendas urbanas, avanços na eletromobilidade, segurança alimentar e saúde. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman retorna ao cargo de CEO da OpenAI: a volta recebeu o apoio de Satya Nadella, CEO da Microsoft, que havia anunciado a contratação de Altman para uma nova divisão de IA dentro da empresa. Todo o conselho de administração da startup se demitiu – com a exceção de um membro – e será completamente renovado, contando com o próprio Altman com um dos membros, consolidando sua posição como líder do negócio. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI anuncia “Stable Video Diffusion”: o novo modelo é capaz de animar imagens estáticas – com resolução de 576x1024 pixels e até 30 FPS – e é um dos poucos de código aberto com essa funcionalidade. O sistema está disponível apenas para pesquisadores neste primeiro momento, mas a empresa vê potencial em aplicações nas áreas de publicidade, educação e entretenimento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT libera conversas por voz para todos os usuários: a funcionalidade, lançada a pouco tempo, era exclusiva para assinantes do plano Plus. As cinco vozes disponíveis utilizam um modelo – não disponível ao público – que consegue criar uma versão sintética e realista de uma voz com apenas alguns segundos de fala. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Pull Requests muito grandes atrasam o processo de desenvolvimento, revela estudo: foram analisados 1,5 milhão de PRs e, sem surpresas, aqueles que modificam poucos arquivos sofrem o merge de forma mais rápida. Entretanto, mesmo um pequeno aumento no número de arquivos alterados aumenta exponencialmente o tempo de review, criando a possibilidade de conflitos e falhas nos processos de integração contínua (CI). Além disso, quanto mais complexo o PR, maior o risco associado, com revisores gastando menos tempo em cada arquivo analisado. A prática recomendada é limitar os PRs a três arquivos ou menos para manter a qualidade do código e eficiência no processo de revisão. As informações são do site Graphite.",
+            "url": ""
+        }
+    ]
+}
