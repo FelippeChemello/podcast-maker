@@ -1,0 +1,45 @@
+{
+    "title": "Alerta da ICANN / OpenAI: novos rumores / Exaustão em videoconferência",
+    "fps": 30,
+    "timestamp": 1700749730,
+    "width": 0,
+    "height": 0,
+    "date": "23/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ICANN, organização responsável pela infraestrutura técnica da internet, expressa preocupação com discussões sobre descentralização ocorrendo na ONU: em um mundo cada vez mais polarizado, dar a cada país mais controle sobre a fundação técnica da internet, pode fragmentar a web, criando “ilhas digitais”, alerta a organização. É importante manter o modelo atual baseado na colaboração de todos, ressaltando que a ICANN é politicamente neutra e apenas gerencia a infraestrutura sobre a qual a internet opera, sem poder para controlar seu conteúdo. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Demissão de Sam Altman teria sido precipitada por descoberta que poderia “ameaçar a humanidade”: uma carta enviada por pesquisadores da startup ao conselho de administração alertava sobre um avanço significativo no desenvolvimento do modelo chamado internamente de Q* (leia-se “Q estrela”). O sistema seria capaz de resolver certos problemas matemáticos simples, mas isso foi visto com otimismo pelos pesquisadores e um grande passo na busca por Inteligência Artificial Geral (AGI). As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Exaustão causada por ferramentas de videoconferência é neurologicamente comprovada: um estudo conduzido com 35 universitários, utilizou eletroencefalografia e eletrocardiogramas para analisar os efeitos das videoconferências no cérebro e no coração, constatando maior cansaço, sonolência e sentimentos negativos em comparação com aulas presenciais. Com base nos resultados da pesquisa, são recomendadas sessões de no máximo 30 minutos, porque após 50 minutos são observadas mudanças fisiológicas significativas. Além disso, desativar a câmera do palestrante também mitiga a intensidade do contato visual contínuo. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Bard agora pode responder a perguntas sobre vídeos do YouTube: a extensão, instalada por padrão no chatbot, oferece respostas específicas sobre o conteúdo dos vídeos, como a quantidade de um determinado ingrediente em receitas ou localizações em vlog de viagem – a funcionalidade aparentemente está disponível apenas para prompts e vídeos em inglês no momento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Autenticação por impressão digital do Windows Hello é contornada em notebooks da Dell, Lenovo e da própria Microsoft: pesquisadores realizaram ataques do tipo “man-in-the-middle” com um dispositivo Raspberry Pi 4 customizado. A pesquisa revelou que alguns fabricantes de sensores biométricos não estão nem mesmo habilitando um protocolo conhecido e que já dificultaria o acesso não autorizado a esses dispositivos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google Meet implementa detecção do gesto de mão levantada por participantes em tempo real: quando uma mão é fisicamente levantada durante uma ligação de vídeo, o ícone que alerta sobre uma pergunta é ativado automaticamente. O recurso, entretanto, vem desligado por padrão, mas pode ser ativado nas configurações. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Site do Blender, projeto de modelagem 3D de código aberto, tem enfrentado ataques DDoS contínuos desde sábado: depois de diversas tentativas de deflexão não funcionarem, a equipe decidiu hospedar o site principal na CloudFlare, o que ajudou a reduzir o impacto dos ataques – as páginas de documentação, wiki e o portal de download ainda não estão disponíveis. Como alternativa, recomenda-se o download do instalador de outras fontes confiáveis como a Steam e Apps Store da Microsoft. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
