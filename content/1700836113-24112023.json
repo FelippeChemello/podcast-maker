@@ -1,0 +1,45 @@
+{
+    "title": "Devs reclamam de “hype” sobre IAs / Tesla abre código / Engine de jogos fica gratuita",
+    "fps": 30,
+    "timestamp": 1700836113,
+    "width": 0,
+    "height": 0,
+    "date": "24/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Metade dos profissionais de tecnologia considera que a capacidade das IAs está sendo superestimada: um levantamento realizado pela empresa de desenvolvimento de software Retool com 1.500 pessoas revelou que 51,6% dos entrevistados acreditam que os benefícios da inteligência artificial estão sendo superestimados – 25,1% a consideram a tecnologia subestimada e 23,4% a avaliam de maneira equilibrada. A pesquisa constatou, entretanto, que muitos engenheiros de software (57,6%) estão substituindo o Stack Overflow pelo ChatGPT e GitHub Copilot, indicando um impacto tangível da tecnologia no trabalho desses profissionais. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Tesla disponibiliza documentos de design e engenharia do seu primeiro veículo de forma open source: o Roadster foi um carro esportivo elétrico conversível produzido entre 2008 e 2012. A documentação pode auxiliar na criação de peças de reposição ou até mesmo uma réplica inteira do veículo. A parte de software do veículo está disponível no repositório “teslamotors/roadster” no GitHub. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "GameMaker, engine para jogos 2D, anuncia mudanças significativas em sua estrutura de preços para desenvolvedores independentes: o uso do software agora será gratuito para projetos não comerciais, substituindo também a assinatura mensal por uma taxa única de 99 dólares. Além disso, todos os assets – sprites, efeitos sonoros e músicas – produzidos pela empresa também serão gratuitos. Russell Kay, diretor executivo da empresa, destaca o crescimento da base de usuários – o triplo desde 2021 – e alfineta indiretamente concorrentes como Unity e Unreal Engine, que enfrentam críticas pelas mudanças em suas políticas de preços. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo decide implementar a política nacional de cibersegurança por etapas e desiste de taxar a internet para custear o projeto: um decreto presidencial irá criar um comitê que envolverá representantes do governo e da sociedade. O objetivo final é a criação da Agência Nacional de Cibersegurança por meio de um projeto de lei com o intuito de mitigar ataques, avaliando os setores da economia nacional mais vulneráveis. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "NASA realiza o primeiro teste com comunicação a laser com sonda no espaço: a tecnologia obtém velocidades de até 200 Mbit/s, um grande avanço em relação aos atuais sistemas de rádio e suas taxas de downlink de apenas 10 Mbit/s. O teste foi realizado com a sonda Psyche, atualmente a 16 milhões de quilômetros, equivalente a 40 vezes a distância da Terra à Lua. As informações são do site da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Treinamento de um modelo de IA especificamente com dados científicos tem início: o AuroraGPT, apelidado também de “ScienceGPT”, do Laboratório Nacional Argonne nos EUA, terá 1 trilhão de parâmetros, treinado em uma vasta quantidade de informações científicas, como textos, artigos, códigos e resultados de experimentos específicos, visando acelerar pesquisas em áreas como biologia, medicina e mudanças climáticas. As informações são do site HPCwire.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas propõem benchmark universal para avaliar progressão das IAs: o GAIA propõe 466 questões que exigem habilidades fundamentais como raciocínio, manipulação multimodal, navegação na web e uso de outras ferramentas. Em testes, humanos obtiveram 92% de acerto, contra apenas 15% do GPT-4 equipado com plugins. O objetivo do GAIA é focar em tarefas que espelhem as habilidades humanas, um passo essencial para o desenvolvimento da Inteligência Artificial Geral. O artigo completo está disponível no repositório arXiv.",
+            "url": ""
+        }
+    ]
+}
