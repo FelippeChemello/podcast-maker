@@ -1,0 +1,45 @@
+{
+    "title": "Grave: Google Drive deletando arquivos / Rumores sobre o Q* / Anatel toma medida drástica",
+    "fps": 30,
+    "timestamp": 1701095378,
+    "width": 0,
+    "height": 0,
+    "date": "27/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiros do Google estão investigando relatos de arquivos “desaparecendo” do Drive: a equipe de suporte está aconselhando os usuários afetados a não fazer alterações na pasta raiz do Drive enquanto investiga o problema. Alguns usuários afirmam que seis ou mais meses de trabalho simplesmente desapareceram, com especulações sobre problemas de sincronização nos arquivos “cacheados” no navegador. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Baseado em rumores, pesquisador especula como estaria sendo treinado o Q*, modelo que teria desencadeado a demissão de Sam Altman da OpenAI: a metodologia se destaca por utilizar dados sintéticos e por abordar o raciocínio em várias etapas, combinando RLHF (aprendizado por reforço com feedback humano, na sigla em inglês) com a otimização de dados de raciocínio através de PRMs (modelos preditivos de recompensa). O processo inclui coletar prompts apropriados, gerar etapas de raciocínio eficazes e pontuar precisamente milhares de conclusões usando recursos computacionais extensos. Há rumores de que grandes empresas de tecnologia estão desenvolvendo datasets de treinamento enormes para esses algoritmos. As informações são do Substack de Nathan Lambert.",
+            "url": ""
+        },
+        {
+            "text": "Anatel suspende a emissão de novos números 0800 para tentar reduzir fraudes bancárias no Brasil: criminosos têm utilizado os números para se passar por centrais falsas de grandes instituições financeiras – o golpe geralmente inicia com um SMS alertando sobre uma falsa compra de valor alto. A medida exige que as operadoras de telefonia façam uma limpeza e atualizem os cadastros das empresas que possuem esses números, além de recomendar que cada CNPJ mantenha apenas um número 0800 para facilitar o monitoramento em casos de fraudes. As empresas de telefonia que não seguirem as determinações poderão ser tratadas como cúmplices em casos de golpe. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Maior estudo sobre segurança mostra que práticas de senhas desatualizadas são generalizadas: 75% dos 20 mil sites mais acessados do mundo não cumprem padrões mínimos de segurança, permitindo a criação de senhas fracas. Três quartos não exigem o mínimo recomendado de oito caracteres para uma senha (12% dos sites não têm ao menos requisitos mínimos de comprimento de senha) e apenas 28% bloqueiam senhas comuns. As informações são do site do Instituto de Tecnologia da Geórgia.",
+            "url": ""
+        },
+        {
+            "text": "CEO da NVIDIA defende aceleração no desenvolvimento de IAs para torná-las mais seguras: Jensen Huang acredita que avanços na área irão fornecer as ferramentas necessárias para entender melhor os riscos e manter o controle da tecnologia. Ele rejeita as advertências mais graves, argumentando que haverá uma regulação muito forte sobre áreas importantes como aviação e saúde, mas não acredita que será possível acordar em uma governança planetária sobre esses sistemas. As informações são do blog do banco Goldman Sachs.",
+            "url": ""
+        },
+        {
+            "text": "AWS lança primeiro dispositivo de hardware para clientes empresariais: o Amazon WorkSpaces Thin Client transforma o Fire TV Cube – um dispositivo de streaming, não disponível no Brasil – em uma solução de desktop virtual de baixo custo, projetado principalmente para ambientes de trabalho remoto em setores como atendimento ao cliente, suporte técnico e saúde. O thin client custa 195 dólares e não armazena dados localmente, oferecendo um método seguro e eficiente para empresas distribuírem desktops virtuais em grande escala. As informações são do site About Amazon.",
+            "url": ""
+        },
+        {
+            "text": "Python Software Foundation contrata desenvolvedor para trabalhar exclusivamente na parte de segurança da linguagem: Seth Larson – que também é mantenedor líder da library “urllib3”, o módulo mais baixado no PyPI, com mais de 10 bilhões de downloads – buscará por vulnerabilidades ainda não descobertas, tornará toda a “cadeia de suprimento” do ecossistema Python mais robusta e irá centralizar a atribuição de CVEs de forma sistemática. As informações são do site The New Stack.",
+            "url": ""
+        }
+    ]
+}
