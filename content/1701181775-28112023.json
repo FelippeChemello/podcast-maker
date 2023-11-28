@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: Google vai excluir contas inativas / Renováveis minerando moedas / Salário maior por IA",
+    "fps": 30,
+    "timestamp": 1701181775,
+    "width": 0,
+    "height": 0,
+    "date": "28/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google irá excluir contas que não fizeram nenhum login por dois anos a partir desta sexta-feira, 1º de dezembro: a intenção é reduzir o risco de vazamento de dados. Para evitar a exclusão da conta, basta fazer login em serviços como Gmail, Drive ou YouTube. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Projetos de energia renovável podem gerar receita com a mineração de bitcoin durante sua fase pré-comercial: parques eólicos e solares poderiam aproveitar a energia gerada enquanto ainda estão sendo montados e não integrados à rede elétrica. A prática pode incentivar mais investimentos em energia renovável. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da AWS, mostra que empresas no Brasil estão dispostas a pagar 46% a mais por profissionais qualificados em IA: no entanto, 68% delas enfrentam dificuldades em encontrar talentos qualificados, com 97% pretendendo adotar alguma solução de IA nos próximos cinco anos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Comitê Gestor da Internet no Brasil divulga nota pública pedindo por mais debates sobre a regulação das plataformas digitais no país: o CGI Br defendendo a participação de diversos setores da sociedade para melhorar o Projeto de Lei 2.768/2022. O comitê também se mostrou disposto a contribuir no processo legislativo, baseando-se em consultas públicas e análises sobre riscos relacionados à concorrência e concentração econômica de dados. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "YouTube está testando oferecer jogos online para assinantes Premium: os “Playables” são uma seleção de 37 mini-games – como Angry Birds e Solitaire – disponíveis diretamente no aplicativo móvel ou navegador desktop. Não é necessário fazer o download ou instalar os jogos. A biblioteca completa de jogos fica na seção “Playables”, na aba Explorar. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores italianos desenvolvem “tatuagem eletrônica” ultrafina capaz de reproduzir sensações táteis: com alguns micrômetros de espessura, o dispositivo é projetado para estimular a pele, permitindo perceber um toque. A tecnologia possui aplicações em interfaces de ambientes virtuais, controle de robôs teleoperados e auxílio para deficiente visuais. A equipe também está trabalhando na implementação da tecnologia em telas, que incluirão vários pixels táteis, chamados de “taxels”. As informações são do site Instituto Italiano de Tecnologia.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz novas ferramentas para melhorar a classificação de postagens em fóruns de discussão e redes sociais nos resultados de busca: a iniciativa visa priorizar conteúdos gerados por usuários e combater a proliferação de conteúdo otimizado para SEO. Os markups “ProfilePage” e “DiscussionForumPosting” sinalizam melhor a estrutura de dados desses tipos de sites, permitindo a exibição de perfis e discussões diretamente nos resultados de busca. Além disso, o Google está atualizando o Search Console com novos relatórios para auxiliar os admins desses sites na implementação das mudanças. As informações são do site Tech Crunch.",
+            "url": ""
+        }
+    ]
+}
