@@ -1,0 +1,45 @@
+{
+    "title": "Nuvem da Magalu / Domínio .meme / Reset na Unity",
+    "fps": 30,
+    "timestamp": 1701268057,
+    "width": 0,
+    "height": 0,
+    "date": "29/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Magazine Luiza lançará serviço de nuvem para competir com a AWS, Azure e Google Cloud: o projeto está em desenvolvimento há dois anos e será apresentado em 12 de dezembro. A iniciativa será uma entidade independente, focada em atender micro e pequenas empresas, oferecendo a vantagem de manter os dados no Brasil e evitar custos em dólar. Mais detalhes serão revelados no lançamento do serviço. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google Registry introduz domínio “.meme”: seis parceiros e quatro websites de gatos já estão usando o novo domínio, incluindo Keyboard Cat e Nyan Cat. O domínio já está disponível para registro, mas apenas durante o chamado Período de Acesso Antecipado, com taxas decrescentes até 5 de dezembro, quando o registro estará aberto ao público a um preço base anual. Segundo o Google, o lançamento enfatiza a importância dos memes na cultura digital e oferece uma plataforma específica para sua expressão e compartilhamento. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Depois da desastrosa alteração em sua política de preços, plataforma para desenvolvimento de jogos 3D Unity anuncia “reset” na companhia: além de demissões, a empresa não exigirá mais o retorno forçado de seus funcionários aos seus escritórios. A Unity também desistiu da aquisição da Weta Digital, estúdio por trás dos efeitos visuais de filmes como “Senhor dos Anéis” e “Avatar”, fundado pelo famoso diretor Peter Jackson. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "AWS anuncia o Amazon Q, assistente de IA generativa projetado especificamente para ambientes empresariais: a ferramenta pode ser personalizada para ter conversas, resolver problemas, gerar conteúdo e tomar ações com base nos dados e conhecimentos presentes nos repositórios de informações, código e sistemas da empresa. É possível se conectar a sistemas como Amazon S3, Google Drive, Microsoft SharePoint, Salesforce e Slack. Não há detalhes técnicos disponíveis ou qual modelo de IA está por trás do sistema. As informações são do site da AWS.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Universidade de Oxford conclui que uso da internet não prejudica a saúde mental: foram analisados os dados de dois milhões de pessoas em 168 países. No entanto, os pesquisadores admitem que a falta de acesso direto a dados das plataformas limita suas conclusões, destacando a necessidade de mais colaboração entre cientistas independentes e o setor de tecnologia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros do Google confirmam que relatos de arquivos “desaparecendo” do Drive estão relacionados ao aplicativo de sincronização desktop: como o problema ainda não foi solucionado, mantém-se a recomendação de não realizar alterações na pasta raiz do Drive, não clicar em “Desconectar conta” no app para desktop (tanto no Windows, como macOS) e não apagar, nem mover a pasta de dados do aplicativo. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Nova plataforma de código aberto para gerenciamento de projetos quer desafiar o Jira: o grande diferencial da Plane é seu foco em privacidade e transparência para o gerenciamento de issues, sprints e roadmap de produtos. A Plane possui apenas uma interface web no momento, mas planeja expandir para aplicativos no Windows, macOS, Android e iOS até meados do próximo ano. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
