@@ -1,0 +1,45 @@
+{
+    "title": "Bill Gates: semana com 3 dias / Elétricos menos confiáveis / Lei surpreende vereadores",
+    "fps": 30,
+    "timestamp": 1701354569,
+    "width": 0,
+    "height": 0,
+    "date": "30/11/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bill Gates acredita que IAs poderão reduzir a jornada de trabalho para três dias por semana: ele acredita que a tecnologia não substituirá os humanos, mas criar um mundo no qual “as máquinas podem fazer todos os alimentos e coisas”, mudando a natureza do trabalho para sempre, não tanto como a revolução industrial, mas similar à introdução do computador pessoal. As informações são do Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Veículos elétricos apresentam 79% mais problemas de confiabilidade do que carros à combustão: baseando-se em dados de 330.000 proprietários, o estudo revela que as principais queixas são de problemas de motor, carregamento e panes elétricas. Os híbridos, entretanto, contrariam a tendência, com 26% menos problemas de confiabilidade do que os veículos convencionais. A Tesla encontra-se no meio da lista em termos de confiabilidade geral, com motorização elétrica confiável, mas falhas na carroceria, pintura, acabamento e ar condicionado. O RAV4 Prime, um híbrido da Toyota, foi um dos veículos mais confiáveis em toda a pesquisa. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Após aprovação de lei na Câmara de Porto Alegre, vereador revela que texto foi 100% escrito pelo ChatGPT: a descoberta surpreendeu o restante dos vereadores e o prefeito, que havia sancionado a lei. Segundo o vereador Ramiro Rosário, que submeteu a proposta de lei, o ChatGPT não se limitou a apenas entregar o texto proposto, incluindo um artigo que não tinha pensado. O presidente da Câmara, entretanto, expressou preocupações sobre o precedente estabelecido. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Dois aplicativos de desenvolvedores brasileiros ganham o prêmio App Store Award de 2023 da Apple: o SmartGym, criado por Mateus Abras, venceu na categoria Apple Watch e serve para monitorar planos de treinos em academias. O Prét-a-Makeup, de Roberta Weiand, foi o vencedor da categoria iPad e permite testar diferentes estilos de maquiagem usando templates de rostos. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind apresenta IA para a descoberta de novos materiais: o GNoME sugeriu 2,2 milhões de cristais inorgânicos – usados em chips de computador, baterias e painéis solares – o equivalente a quase 800 anos de trabalho na área. Cerca de 380 mil são estáveis, tornando-os candidatos promissores para síntese experimental e aplicações viáveis – 52 mil são semelhantes ao grafeno, com o potencial de revolucionar a eletrônica com o desenvolvimento de supercondutores. As informações são do blog da DeepMind.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem seis novos ataques contra conexões Bluetooth com consequências para bilhões de dispositivos: as técnicas, chamadas de “BLUFFS” (CVE-2023-24023), impactam a especificação 4.2, lançada em 2014, até a mais recente, 5.4, lançada neste ano. A vulnerabilidade permite a personificação de outros dispositivos e ataques do tipo man-in-the-middle. Os pesquisadores propuseram modificações para mitigar riscos e a organização que coordena a implementação do Bluetooth já fez sugestões aos fabricantes. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Atualização de segurança crítica está disponível para usuários do Chrome no Mac, Linux e Windows: a vulnerabilidade zero-day (CVE-2023-6345) pode tornar sistemas suscetíveis a roubo de dados. O Google confirmou que a falha já foi explorada ativamente em pelo menos um ataque. A vulnerabilidade afeta o Skia, biblioteca open source de gráficos 2D utilizada pelo Chrome. As versões 119.0.6045.199 para Mac e Linux, e 119.0.6045.199/.200 para Windows corrigem o problema. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
