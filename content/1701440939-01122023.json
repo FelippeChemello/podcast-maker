@@ -1,0 +1,45 @@
+{
+    "title": "Prompt inusitado quebra o ChatGPT / Fracasso em jogos web3 / Android e PIB do Brasil",
+    "fps": 30,
+    "timestamp": 1701440939,
+    "width": 0,
+    "height": 0,
+    "date": "01/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Equipe do Google DeepMind revela como o ChatGPT podia ser induzido a revelar seus dados de treinamento com prompt inusitado: era só pedir para repetir uma mesma palavra “para sempre” – o chatbot, após algumas repetições da palavra, começava a entregar seus dados de treinamento de forma literal, incluindo informações pessoais sensíveis e textos protegidos por direitos autorais, demonstrando que técnicas de alinhamento não conseguem eliminar a memorização dessas informações pelo modelo GPT-4. A OpenAI já corrigiu a vulnerabilidade. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "75,5% dos jogos web3 fracassaram nos últimos 5 anos: a pesquisa avaliou 2.817 projetos lançados desde 2018, também chamados de GameFi, e os definiu como inativos quando sua média móvel de 14 dias de usuários ativos caía 99% ou mais em relação ao pico. Apesar disso, o número de projetos na área não parece diminuir, com 720 novos jogos lançados em 2023, com 509 deles já inativos (70%). As informações são do site CoinGecko.",
+            "url": ""
+        },
+        {
+            "text": "Google estima que o ecossistema Android adicionou 382 bilhões de reais ao PIB brasileiro nos últimos 5 anos: apenas em 2022, o impacto econômico do sistema Android e da Google Play Store foi de 0,89% no PIB do país, o equivalente a 88 bilhões de reais. Além disso, a indústria de apps no país gera 238 mil empregos diretos e indiretos. As informações são do site Mobile Time.",
+            "url": ""
+        },
+        {
+            "text": "Apple pode estar trabalhando com fintech brasileira para emissão de cartões de crédito: há rumores de que a parceria com o banco Goldman Sachs está próxima do fim e a empresa estaria procurando um novo parceiro para a emissão do Apple Card – este parceiro seria a Pismo, startup brasileira de infraestrutura de pagamentos, adquirida em junho deste ano pela Visa por 1 bilhão de dólares. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Tesla inicia entregas oficiais do Cybertruck, quatro anos após sua apresentação: o veículo possui três versões, sendo a “Cyberbeast”, a mais avançada, custando 99.990 dólares. O modelo possui 845 hp de potência, autonomia de 515 km, capacidade de reboque de 5 mil quilos e faz de 0 a 100 km/h em 2,7 segundos – em um vídeo de apresentação, a Tesla mostrou o Cybertruck superando a aceleração de um Porsche 911 na distância de um quarto de milha, enquanto rebocava um segundo 911 em um trailer. Todas as versões são cobertas com chapas de aço inoxidável, deixando-os à prova de balas”. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Capacidade de transmissão por fibra óptica bate novo recorde mundial: pesquisadores japoneses alcançaram 22,9 petabits por segundo a uma distância de 13 km com uma única fibra, dobrando o recorde anterior de 10,66 Pbit/s e mais de 1.000 vezes a taxa de dados nos atuais sistemas de comunicação por fibra óptica. O avanço abre caminho para redes ópticas de ultra-alta capacidade no futuro. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Telegram e WhatsApp lançam atualizações: no Telegram, a grande novidade é a liberação de transcrição de mensagens de voz para todos os usuários – o recurso, entretanto, é limitado a duas mensagens por semana. Outra novidade é o destaque de sintaxe de código em mensagens, detectando diferente linguagens de programação, como JavaScript ou C#. No WhatsApp, a novidade é a proteção de conversas usando um código secreto, tornando-as mais difíceis de se encontrar caso alguém tenha acesso ao telefone. Com o código secreto, é possível definir uma senha única diferente da usada para desbloquear o telefone, com a opção de ocultar a pasta Conversas Bloqueadas, podendo serem descobertas apenas ao digitar o código secreto na barra de pesquisa. As informações são do blog do Telegram e do WhatsApp.",
+            "url": ""
+        }
+    ]
+}
