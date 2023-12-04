@@ -1,0 +1,45 @@
+{
+    "title": "Google dá novo golpe em ad blockers / Programar sonhando / Retorno ao escritório “morreu”",
+    "fps": 30,
+    "timestamp": 1701700216,
+    "width": 0,
+    "height": 0,
+    "date": "04/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google vai adicionar mais um empecilho para desenvolvedores de bloqueadores de anúncios: a partir da implementação da nova plataforma de extensões Manifest V3 (programada para junho de 2024) todas as atualizações de extensões precisarão passar pelo processo de revisão da Chrome Web Store, incluindo a lista que filtra as URLs que distribuem anúncios, impedindo que ela seja atualizada remotamente – o processo de revisão na Chrome Web Store é imprevisível, podendo levar apenas algumas horas a até semanas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Startup que está desenvolvendo dispositivo para induzir sonhos lúcidos, afirma que será possível trabalhar e escrever código enquanto a pessoa estiver dormindo: o Prophetic Halo permitirá o controle dos sonhos para usos produtivos, como preparação de reuniões ou o desenvolvimento de habilidades. O produto está previsto para ser lançado em 2025, custando entre 1.500 e 2.000 dólares. As informações são do site da revista Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Economistas acreditam que movimento de retorno forçado ao escritório “morreu”: o trabalho remoto parece ser uma mudança permanente no mercado de trabalho. Em 2023, cerca de 28% dos dias de trabalho foram realizados de casa, um aumento significativo em relação aos 7% pré-pandemia. Mesmo com o retorno gradual ao escritório, a ocupação nos maiores escritórios nos EUA estagnou em torno de 50%. E a longo prazo, espera-se que a proporção de trabalho remoto aumente ainda mais, impulsionada por melhorias tecnológicas e uma nova geração de CEOs mais receptivos a essa modalidade. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Amazon contrata a SpaceX para o lançamento de parte de sua constelação de satélites de internet: a decisão é significativa porque a empresa foi forçada por seus acionistas a fazer isso – a SpaceX, reconhecida como a empresa mais confiável do setor espacial, não havia nem sido considerada nos planos iniciais. Um dos prováveis motivos para não escolher a SpaceX, é que Jeff Bezos – fundador da Amazon – esperava que a sua startup de foguetes, a Blue Origin, pudesse realizar esses lançamentos, mas seus foguetes não ficarão prontos a tempo de cumprir o cronograma de colocar pelo menos metade dos 3.236 satélites planejados para o Projeto Kuiper em órbita até 2026. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientista-chefe da Meta não vê desvantagens significativas ao compartilhar abertamente seu modelos de IA: na verdade, segundo Yann LeCun, há uma grande vantagem – a empresa conta com a colaboração de milhares de desenvolvedores ao redor do mundo para aprimorar seus modelos, o que significa que a tecnologia pode melhorar em um ritmo mais rápido do que se estivesse usando apenas seus próprios pesquisadores. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Documentos vazados mostram que Q, novo chatbot de IA da Amazon, possui um “severo” problema de alucinação e vazamento de dados confidenciais: durante testes, o Q vazou informações sobre a localização de centros de dados da AWS, programas internos e recursos não lançados. Em nota, a Amazon minimizou os problemas, afirmando que não foram identificados graves problemas de segurança e que continuará a ajustar o Q até seu lançamento geral. Na atual prévia gratuita, o Q é apresentado como uma versão empresarial mais segura do ChatGPT, capaz de responder a perguntas técnicas sobre implementação de serviços da AWS e editar código. As informações são do site Platformer.",
+            "url": ""
+        },
+        {
+            "text": "China inicia a construção do primeiro data center comercial subaquático do mundo: o projeto compreende 100 unidades processadoras, ocupando 68 mil metros quadrados de área. A expectativa é que o data center seja de 40 a 60% mais eficiente em energia do que as instalações convencionais, economizando significativamente em eletricidade e no uso de água. As informações são do site TechRadar Pro.",
+            "url": ""
+        }
+    ]
+}
