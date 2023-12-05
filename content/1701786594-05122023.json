@@ -1,0 +1,45 @@
+{
+    "title": "Gmail ganha novo filtro de spam / Bug estranho no Windows / Itaú libera criptos",
+    "fps": 30,
+    "timestamp": 1701786594,
+    "width": 0,
+    "height": 0,
+    "date": "05/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google lança novo novo filtro de spam open source: o RETVec (Vetorizador de Texto Resiliente e Eficiente, na sigla em inglês) foi projetado para entender ataques homográficos, quando o texto do email é manipulado com a inserção de caracteres especiais, idioma LEET, emojis ou erros de digitação, dificultando a identificação de mensagens de spam ou phishing. A tecnologia, considerada “uma das maiores atualizações de defesa dos últimos anos”, melhorou a detecção de mensagens indesejadas no Gmail em 38% e reduziu falsos positivos em 19,4%. O modelo está disponível no repositório “google-research/retvec” no GitHub e também pode ser usado na seção de comentários de um site, por exemplo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Bug no Windows Update renomeava qualquer impressora instalada no sistema, independente do modelo e marca, para “HP LaserJet M101-M106”: a falha afeta tanto o Windows 10 como o 11. O problema surgiu após a HP atualizar os metadados de seus dispositivos, levando à instalação automática do aplicativo HP Smart nos PCs dos usuários. A Microsoft já removeu os metadados problemáticos e uma próxima atualização deve restaurar os nomes originais das impressoras. As informações são do site XDA Developers.",
+            "url": ""
+        },
+        {
+            "text": "Itaú Unibanco torna-se o primeiro banco tradicional brasileiro a oferecer a compra e venda de moedas digitais: através da plataforma de investimentos Íon, os clientes podem negociar bitcoin e ether, com um valor mínimo de transação estabelecido em 10 reais – a custódia dos ativos ficará a cargo do próprio banco e não será possível depositar moedas adquiridas externamente, nem resgatar as moedas para uma carteira própria. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp disponibiliza compartilhamento de fotos e vídeos em qualidade original no iPhone: a partir da atualização 23.24.73 é possível enviar esses tipos de mídia como arquivos, preservando sua qualidade original. A funcionalidade, que está sendo gradualmente disponibilizada, pode ser acessada selecionando o botão “+”, depois “Documento” e então “Escolher Foto ou Vídeo” – há um limite de 2 GB. A função ainda está em teste para usuários Android. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Maior reator de fusão nuclear é inaugurado no Japão: o JT-60SA é um reator do tipo tokamak (câmara toroidal com bobinas magnéticas) e atingiu a maior quantidade de plasma já criada, em temperaturas extremamente altas, de até 300 milhões de graus Celsius. O seu desenvolvimento, por enquanto, é apenas experimental. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Geração de uma imagem por IA consome energia equivalente ao carregamento de um smartphone: dentre todas as tarefas realizadas por IAs generativas, esta é a mais intensiva em carbono. A maior quantidade de energia foi gasta pelo Stable Diffusion XL, produzindo 1,6 quilo de dióxido de carbono durante uma sessão, o equivalente a dirigir 6,4 quilômetros em um carro movido a gasolina – para comparação, a geração de um texto simples gera produziria 0,6% do CO2. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Pedir ao ChatGPT para repetir palavras “para sempre” agora viola seus termos de serviço: pesquisadores do Google DeepMind usaram a tática para fazer com que o chatbot repetisse parte de seus dados de treinamento, revelando informações confidenciais e destacando como o ChatGPT foi realmente treinado em conteúdo pelo método de scrapping por toda a internet. As informações são do site 404 Media.",
+            "url": ""
+        }
+    ]
+}
