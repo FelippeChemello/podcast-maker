@@ -1,0 +1,45 @@
+{
+    "title": "Ad blockers: Anatel entra na briga / Governo quer capacitar Devs / Smartphones na escola",
+    "fps": 30,
+    "timestamp": 1701872953,
+    "width": 0,
+    "height": 0,
+    "date": "06/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Presidente da Anatel critica mudança que limitará funcionalidade de bloqueadores de anúncios no Chrome a partir de 2024: para Carlos Baigorri, essas extensões são consideradas essenciais para evitar o consumo que considera “completamente abusivo” da franquia de dados dos consumidores por páginas com anúncios pesados. Baigorri também alertou que o Chrome não pode ditar quais extensões podem ou não funcionar em um dispositivo, ferindo o conceito de neutralidade da rede – “Eu coloco no meu dispositivo o que eu quiser”, afirmou. A Anatel já está trabalhando em um novo regulamento para abordar essa questão. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Ciência, Tecnologia e Inovação anuncia intenção de capacitar 100 mil programadores com recursos da Lei de Informática: segundo a Ministra Luciana Santos, “a nossa juventude precisa aprender programação. Nós vamos capacitar os jovens para que eles possam ter renda e emprego de qualidade”. Não há, entretanto, detalhes, nem cronograma para implementação da iniciativa. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Uso excessivo de dispositivos digitais prejudica o desempenho acadêmico: alunos que usam smartphones e outros dispositivos por 5 a 7 horas diárias obtiveram menores pontuações em testes, especialmente em matemática. O Programa Internacional de Avaliação de Estudantes (Pisa) da OCDE, também mostra que 65% dos estudantes se distraem nas aulas devido ao uso de dispositivos – no Brasil esse número chega a 80%. Uma das recomendações é integrar o uso desses dispositivos ao processo de aprendizado. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Meta, IBM, Intel, AMD, NASA, CERN e 55 outras organizações formam a “AI Alliance”, visando promover a inovação aberta em IA: a iniciativa se contrapõe a sistemas de IA fechados, como os da OpenAI e Google, enfatizando a transparência e o compartilhamento de pesquisas e modelos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Artigo do ChatGPT é o mais popular na Wikipedia em 2023: foram mais de 78 milhões de visualizações em todos os idiomas suportados, com pageviews que variam entre 100 mil e 400 mil quase todos os dias. Outro artigo de interesse neste ano, foi o do filme “Oppenheimer”, na quinta colocação, com 47 milhões de visualizações. As informações são do blog da Wikimedia Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Trailer de “Grand Theft Auto VI” bate recorde em maior quantidade de visualizações em 24 horas para vídeos não-musicais no YouTube: as 85 milhões de views bateram o recorde anterior do MrBeast em 22 horas. O último jogo da série, “Grand Theft Auto V”, foi lançado há mais de 10 anos e detém o segundo lugar entre os jogos mais vendidos de todos os tempos, ficando atrás apenas de Minecraft. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vercel anuncia novas ferramentas para facilitar o desenvolvimento de grandes bases de código: o “Conformance” verifica se há problemas que podem afetar o desempenho e a segurança de uma aplicação. O “Code Owners” facilita a identificação dos responsáveis por partes específicas do código e suas revisões. As novidades, que incluem integração com Git, são acessíveis mesmo para quem não usa a Vercel, visando democratizar melhores práticas de desenvolvimento de software. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
