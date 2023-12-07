@@ -1,0 +1,45 @@
+{
+    "title": "Revelação: espionagem dos governos / Contra-ataque das Big Techs / Google revela Gemini e AlphaCode 2",
+    "fps": 30,
+    "timestamp": 1701959370,
+    "width": 0,
+    "height": 0,
+    "date": "07/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Governos conseguem espionar usuários por meio de notificações push enviadas para smartphones: governos em todo o mundo, incluindo os EUA, estão exigindo do Google e Apple essas informações para vincular contas de usuários ao uso de determinados aplicativos  – as duas empresas confirmaram a situação. As notificações push, como mensagens de texto, emails, encomendas e notícias incluem metadados detalhando qual aplicativo recebeu uma notificação e quando, bem como o telefone e a conta associada. Às vezes, os dados compartilhados também incluem conteúdo não criptografado, que pode variar de diretivas de backend para o aplicativo até o texto exibido a um usuário em uma notificação. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Grandes empresas de tecnologia formam iniciativa para barrar cobrança de taxas pelo uso das redes proposta pelas operadoras de telecomunicações no Brasil: a “Aliança pela Internet Aberta” conta com a participação de empresas como Meta, Google, Amazon, Netflix, Mercado Livre e entidades de TI. As empresas argumentam que os investimentos em cabos submarinos, datacenters e CDNs aproximam o conteúdo dos usuários e reduzem o tráfego nas redes. As operadoras afirmam que as grandes empresas de conteúdo, que representam 80% de todo o tráfego, devem custear parte dos investimentos em infraestrutura. O movimento ocorre em meio a discussões regulatórias na Anatel, que busca dados concretos para embasar decisões sobre a questão. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta seu novo modelo Gemini: o LLM possui três versões, Ultra, Pro (já integrado ao Bard) e Nano (para dispositivos móveis). O Gemini Ultra é nativamente multimodal, treinado em um grande conjunto de bases de código, textos em diferentes idiomas, áudio, imagens e vídeos, compreendendo informações com nuances e respondendo a perguntas relacionadas a tópicos complexos, particularmente matemática e física. Em comparação ao GPT-4, o Gemini é levemente superior em benchmarks padrão – 2,2% melhor no GSM8K (perguntas de matemática), 1,5% no DROP (compreensão de leitura), 0,6% no VQAv2 (compreensão de imagem) e 0,5% no Big-Bench Hard (raciocínio). O Gemini Ultra será lançado para desenvolvedores e clientes corporativos no início do próximo ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta e gerador de código AlphaCode 2, baseado no modelo Gemini Pro: o AlphaCode 2 supera em média 85% dos competidores no concurso de programação Codeforces, contra 50% da versão anterior. Também é capaz de resolver problemas matemáticos complexos e de teoria da ciência da computação, incluindo programação dinâmica, um método para a construção de algoritmos para a resolução de problemas computacionais. O AlphaCode 2, entretanto, ainda é muito custoso para rodar em escala, e não há previsão para o seu lançamento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anfavea solicita adiamento do desligamento das redes 2G e 3G no Brasil: a associação, representante das montadoras de veículos no país, destaca que cerca de 20% dos veículos conectados ainda usam essas redes e propõe que o desligamento ocorra apenas após a expansão completa do 4G e 5G, prevista para 2029. A associação também sugere que a responsabilidade pela troca dos equipamentos nos veículos seja dos consumidores, não das fabricantes. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Intel acusa AMD de enganar clientes com CPUs da série Ryzen 7000: a Intel criticou a AMD por usar a arquitetura Zen 2, de 2019, em alguns de seus processadores móveis Ryzen 7000. A Intel argumenta que a nomenclatura da AMD é enganosa, sugerindo que os processadores são mais novos do que realmente são. A Intel, entretanto, tem seu próprio histórico de nomenclaturas confusas, como a série Core i9 e a renomeação de processos de fabricação. A apresentação, direcionada a fabricantes de PCs, já foi removida do site da Intel após atrair atenção da imprensa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Computadores Windows e Linux são vulneráveis a um novo ataque de firmware: a vulnerabilidade, chamada “LogoFAIL”, afeta centenas de modelos de praticamente todos os fabricantes de hardware. A falha está relacionada a uma imagem de logotipo manipulada exibida durante o processo de inicialização, sendo difícil de detectar ou remover com mecanismos de defesa atuais, permitindo controle total sobre o dispositivo. As empresas afetadas, como Lenovo, Dell e HP, estão lançando atualizações de segurança para mitigar o problema. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
