@@ -1,0 +1,45 @@
+{
+    "title": "Google: vídeo do Gemini é fake / iPhone anti-hackers / Linux ganhará “Tela Azul” do Windows",
+    "fps": 30,
+    "timestamp": 1702045733,
+    "width": 0,
+    "height": 0,
+    "date": "08/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google enfrenta críticas após admitir que encenou apresentação multimodal do Gemini: o vídeo que demonstrava a IA respondendo a uma variedade de perguntas em tempo real, na verdade consistia em prompts de texto cuidadosamente ajustados com imagens estáticas, não representando a interação com o modelo. O Google afirma que o vídeo mostra respostas reais, mas está sendo criticado por induzir ao erro sobre o modo e velocidade da interação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple relata eficácia do Modo de Bloqueio em proteger usuários de iPhone de alto risco: lançado no ano passado, não há evidências sobre nenhum ataque bem sucedido até o momento. Em abril deste ano, pesquisadores revelaram o primeiro caso conhecido em que o Modo de Bloqueio impediu e notificou o usuário sobre uma tentativa de invasão – o recurso serve para quem possui um alto risco de ser alvo de ataques cibernéticos altamente direcionados através de empresas privadas que desenvolvem ferramentas de espionagem patrocinadas por estados-nação. Vários recursos são desabilitados quando o sistema é ativado – anexos em mensagens, chamadas não reconhecidas e conexão física a acessórios e computadores são todos bloqueados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Atualização do systemd trará a famosa “Tela Azul da Morte” do Windows ao Linux: o systemd é utilizado por distribuições como Debian, Arch, Fedora e Ubuntu. A versão 255 introduz o componente “systemd-bsod” que exibirá uma mensagem de erro em tela cheia quando o sistema Linux travar, incluindo um QR code para facilitar a busca de informações. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Indústria de eletroeletrônicos no Brasil irá encerrar 2023 com queda de 6% no faturamento: a redução foi reflexo dos segmentos de componentes (queda de 25%), telecomunicações (21%) e informática (17%). A indústria acusa o forte crescimento na venda de smartphones contrabandeados – que passaram de 8% para 21% do total – como uma das principais causas para redução no faturamento. Apesar disso, o setor teve desempenhos positivos em áreas como automação industrial (alta de 19%), utilidades domésticas (6%), geração, transmissão e distribuição de energia (5%), e equipamentos industriais (4%). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "xAI lança oficialmente o chatbot Grok para assinantes Premium Plus do X nos EUA: o Grok é baseado no modelo gerativo Grok-1 – com 33 bilhões de parâmetros – treinado com dados da web e feedback humano até o terceiro trimestre de 2023, mas se destaca por incorporar dados em tempo real de postagens no X, fornecendo respostas contextualizadas em tempo real. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta solução para arquivos desaparecidos no Drive: a versão 85 do aplicativo desktop oferece uma ferramenta de recuperação. Com a nova versão instalada é preciso clicar no ícone do Drive na barra de tarefas, segurar a tecla Shift e clicar no botão Configurações – a opção “Recuperar backup” deve ficar disponível e a recuperação dos arquivos deve iniciar. Ao finalizar a recuperação, uma pasta com o nome “Recuperação do Google Drive” será criada, onde estarão os arquivos perdidos. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI, Microsoft e Meta irão comprar novo acelerador de IA recém apresentado pela AMD: as ações da companhia já subiram mais de 10% desde quarta-feira após o lançamento do Instinct MI300X, uma alternativa mais econômica ao Nvidia H100, o chip para cargas de trabalho com IA mais procurado no mercado e que atualmente custa 40 mil dólares. O MI300X possui uma nova arquitetura com 192GB de memória HBM3, prometendo melhor desempenho. As informações são do site CNBC.",
+            "url": ""
+        }
+    ]
+}
