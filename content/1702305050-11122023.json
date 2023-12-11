@@ -1,0 +1,45 @@
+{
+    "title": "Média salarial: Dev remoto para o exterior / Maior produtividade / Senhas no Android vulneráveis",
+    "fps": 30,
+    "timestamp": 1702305050,
+    "width": 0,
+    "height": 0,
+    "date": "11/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores brasileiros que trabalham remotamente para empresas estrangeiras têm média salarial de 6,1 mil dólares, mostra pesquisa: 51% desses profissionais têm entre 31 a 40 anos, 27% têm entre 21 e 30 anos e 17% entre 41 a 50 anos. São Paulo é o estado com maior número de pessoas trabalhando para fora (39%), seguido por Paraná (16%) e Minas Gerais (13%). A pesquisa destaca a crescente demanda global por profissionais de tecnologia e as vantagens do mercado de trabalho remoto, especialmente devido à diferença cambial. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários que não trabalham após o expediente são 20% mais produtivos do que aqueles que fazem horas extras, mostra estudo do Slack: além disso, pausas durante o dia de trabalho aumentam a produtividade e bem-estar dos funcionários, mas metade raramente as faz. O estudo também destaca que a maioria se sente sobrecarregada com mais de duas horas de reuniões por dia, a quantidade ideal de trabalho focado é de quatro horas e considera o período da tarde o menos produtivo. A pesquisa “Workforce Index” foi realizada com mais de 10 mil trabalhadores globalmente. As informações são do blog do Slack.",
+            "url": ""
+        },
+        {
+            "text": "Gerenciadores de senhas para Android são vulneráveis a um novo tipo de ataque: o “AutoSpill” rouba credenciais durante a operação de preenchimento automático do 1Password, LastPass, Enpass, Keeper e Keepass2Android – Google Smart Lock e DashLane seguem uma abordagem técnica diferente para o processo de preenchimento automático e vazam dados confidenciais somente se uma injeção de JavaScript for usada. Os pesquisadores notificaram as empresas de software afetadas, mas ainda não foram compartilhados detalhes sobre planos de correção. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Novo protocolo de internet promete reduzir problemas de latência entre servidores e dispositivos: o L4S (Low Latency, Low Loss, Scalable Throughput) tem apoio de empresas como Apple, Google, Nvidia e Valve. A especificação visa ajustar a transmissão de dados em tempo real para evitar congestionamentos, identificando quais pacotes enfrentam atrasos, com benefícios no tempo de carregamento de páginas, redução de lag em jogos online e melhorar a qualidade de chamadas de vídeo. Já há testes em andamento com roteadores e softwares compatíveis – a última versão do iOS para dispositivos Apple já conta com suporte ao L4S embutido. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia alcança acordo provisório para legislação sobre IA: este é o primeiro conjunto abrangente de regras para regulação da tecnologia no mundo e que pode servir de referência para outros países que buscam aprovar leis semelhantes. A legislação estabelece certas obrigações para sistemas de IA de “alto impacto”, como avaliações de risco e relatórios de incidentes, transparência sobre os dados de treinamento, e um mecanismo para requisitar explicações sobre certas decisões desses sistemas quando impactarem os direitos de cidadãos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Linus Torvalds acredita que Rust irá trazer desenvolvedores mais novos ao desenvolvimento do kernel Linux: o comentário foi feito após questões sobre o “envelhecimento” da comunidade por trás do sistema operacional. Sobre o uso de Rust no Linux, Torvalds acredita que a partir do próximo ano irá começar a integração de drivers e alguns dos principais subsistemas, mas levará anos até que a linguagem faça uma grande parte do kernel. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "38% das aplicações que utilizam a biblioteca Apache Log4j ainda estão rodando versões vulneráveis apesar de uma correção já estar disponível há mais de dois anos: foram analisadas 3.866 organizações e 38.278 aplicações que dependem do Log4j com versões entre 1.1 e 3.0.0-alpha1, destacando a persistência de práticas de segurança inadequadas. A falha crítica Log4Shell (CVE-2021-44228) foi descoberta em dezembro de 2021 e permite a execução remota de código e controle total do sistema invadido. Versões a partir de 2.15.0 corrigem o problema. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
