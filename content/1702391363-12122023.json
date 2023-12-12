@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT está “preguiçoso” / TikTok gerando bilhões / TV analógica prorrogada",
+    "fps": 30,
+    "timestamp": 1702391363,
+    "width": 0,
+    "height": 0,
+    "date": "12/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Usuários notam que ChatGPT parece mais “preguiçoso” nas últimas semanas: desde novembro, o chatbot tem recusado tarefas ou apresentado respostas mais simplificadas aos prompts. A OpenAI reconhece o problema, mas a causa ainda é incerta. Uma das hipóteses sugere que o modelo possa estar simulando comportamentos sazonais dos humanos – experimentos mostram respostas variadas do ChatGPT com base em datas como dezembro (inverno no hemisfério norte) e maio (verão por lá), indicando variações significativas nos resultados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "TikTok torna-se o primeiro aplicativo móvel não relacionado a jogos a alcançar 10 bilhões de dólares em gastos dos consumidores: a principal fonte de receita são as compras de uma moeda virtual usada para dar gorjetas a criadores de conteúdo na plataforma. EUA e China são os principais responsáveis pelos gastos, representando 60% do total. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Ministério das Comunicações prorroga prazo para desligamento da TV analógica em mil cidades brasileiras: a desativação do sinal irá ocorrer até junho de 2025, visando evitar a falta de sinal em municípios sem recepção digital adequada. Além disso, entidades sem canal digital terão até 30 de janeiro de 2025 para manifestar interesse na continuidade dos seus serviços. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Júri nos EUA decide que Google possui monopólio ilegal em sua loja de aplicativos: o veredicto, como resultado de uma disputa com a Epic Games, afirma que o Google Play Store e o seu serviço de cobrança trabalham em práticas anticompetitivas. O Google irá recorrer da decisão, enquanto a Epic considera a decisão uma vitória para todos os desenvolvedores de aplicativos. Detalhes sobre medidas corretivas serão tomadas em janeiro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Madeira transparente é a nova aposta para telas de smartphones altamente resistentes: o material é três vezes mais forte que o plástico e até dez vezes mais resistente do que o vidro. Os cientistas, entretanto, têm buscado por métodos de fabricação sustentáveis e mais eficientes em escala, o que deve levar vários anos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Novo LLM open source supera o GPT3.5 em diversos benchmarks: desenvolvido pela startup Mistral AI, o “Mixtral 8x7B” também supera o supera o “Llama 2 70B” na maioria dos benchmarks, com a vantagem de a inferência – ato de utilizar uma rede neural para fornecer respostas após ela ter sido treinada – ser seis vezes mais rápida. A janela de contexto é de 32k tokens e possui um forte desempenho na geração de código. O modelo é limitado, entretanto, ao inglês, francês, italiano, alemão e espanhol. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Navegador web com uma das interfaces gráficas mais interessantes nos últimos anos ganha versão beta para o Windows: além disso, o Arc Browser, em vez de usar C#, está sendo desenvolvido em Swift, mesma linguagem usada para o aplicativo no macOS. O navegador é baseado no Chromium e possui 100% de compatibilidade com extensões disponíveis para o Chrome. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
