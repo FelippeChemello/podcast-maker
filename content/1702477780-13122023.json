@@ -1,0 +1,45 @@
+{
+    "title": "Eng.º é preso após demissão / iPhone mais seguro / YouTube muito popular",
+    "fps": 30,
+    "timestamp": 1702477780,
+    "width": 0,
+    "height": 0,
+    "date": "13/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro de software é condenado a dois anos de prisão nos EUA por apagar repositórios do ex-empregador como retaliação por sua demissão: ele se recusou a devolver seu notebook de trabalho e usou seu acesso ainda válido para deletar repositórios, executar um script malicioso para excluir logs e alterar códigos para adicionar provocações a ex-colegas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Apple introduz nova funcionalidade de segurança contra roubo de iPhones: o “Stolen Device Protection” adiciona uma camada extra de proteção quando o dispositivo for roubado e o ladrão tiver acesso ao código de desbloqueio da tela. O recurso exige autenticação biométrica para acessar senhas salvas ou alterar configurações sensíveis, como a senha do Apple ID, adicionando um atraso de segurança de uma hora quando o aparelho não estiver em locais familiares, como em casa ou no trabalho. O recurso encontra-se em testes na versão iOS 17.3 beta. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa mostra que YouTube permanece como a rede mais acessada por adolescentes: 93% dos pesquisados – jovens norte-americanos, entre 13 e 17 anos – usam a plataforma, seguida por TikTok (63%), Snapchat (60%), Instagram (59%), Facebook (33%), Discord (28%) e X (20%). 71% deles acessam o YouTube pelo menos uma vez por dia, seguido por TikTok (58%), Snapchat (51%), Instagram (57%) e Facebook (19%). A pesquisa foi realizada entre 26 de setembro e 23 de outubro, com 1.453 adolescentes. As informações são do site da Pew Research Center.",
+            "url": ""
+        },
+        {
+            "text": "Tesla apresenta o Optimus Gen 2, nova geração do seu robô humanoide: o modelo é 10 kg mais leve e 30% mais rápido ao andar, apresentando movimentos mais suaves e humanizados. O robô demonstra habilidades como manipular objetos delicados com precisão – as mãos receberam uma grande atualização, com 11 movimentos independentes e sensores táteis em cada dedo. As informações são do site Teslarati.",
+            "url": ""
+        },
+        {
+            "text": "Organizadores da E3, considerada a feira de jogos eletrônicos mais popular do mundo, decidem parar de fazer eventos: a Electronic Entertainment Expo perdeu sua relevância após os principais desenvolvedores de jogos apostarem em apresentações virtuais, como Nintendo Direct e PlayStation Showcase. A primeira edição ocorreu em 1995 e em 2020 foi cancelada por conta da pandemia, nunca mais conseguindo emplacar um evento presencial. As informações são do site IGN Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança pequeno modelo de linguagem capaz de rodar localmente em dispositivos móveis: o Phi-2 possui 2,7 bilhões de parâmetros e se destaca por seu desempenho comparável a modelos maiores, como o Llama 2-7B da Meta e o Mistral-7B. O modelo já está disponível no Azure AI Studio para fins de pesquisa. As informações são do blog Microsoft Research.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft avalia reintroduzir um editor de texto na linha de comando do Windows versão 64 bits: o sistema atualmente não possui uma ferramenta CLI desse tipo e Connor Plante, gerente de produto da Microsoft, iniciou um debate no GitHub, considerando opções como Pico, Nano, Vim ou Emacs. A falta de um editor de texto simples no Windows 64 bits foi destacada como algo essencial para administradores de sistema, desenvolvedores e usuários avançados. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
