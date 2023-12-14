@@ -1,0 +1,45 @@
+{
+    "title": "Google lança concorrente do GitHub Copilot / Apple comemora no Brasil / Primeiro supercomputador neuromórfico",
+    "fps": 30,
+    "timestamp": 1702564173,
+    "width": 0,
+    "height": 0,
+    "date": "14/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google lança Duet AI for Developers, sua ferramenta de IA para desenvolvedores: o assistente de código está disponível em vários IDEs, como VS Code e JetBrains (IntelliJ, PyCharm, GoLand, WebStorm), com suporte a mais de 20 linguagens, incluindo Go, Java, Javascript, Python e SQL. Além de auxiliar na criação de código, a ferramenta oferecerá suporte para testes automatizados e remediação de vulnerabilidades. O sistema estará disponível gratuitamente até o final de janeiro de 2024, quando custará 19 dólares/mês, com um compromisso de assinatura por um ano. As informações são do site Google Cloud.",
+            "url": ""
+        },
+        {
+            "text": "Tim Cook, CEO da Apple, comemora 10 anos do Developer Academy no Brasil: mais de 3 mil alunos já foram capacitados no programa, que oferece treinamento em tecnologia, design e marketing gratuitamente, com foco em desenvolvimento de apps para dispositivos Apple. O projeto teve início em São Paulo em 2013 e depois expandiu para outras nove cidades, como Rio de Janeiro, Brasília e Porto Alegre. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro supercomputador neuromórfico capaz de simular redes neurais na escala do cérebro humano deve entrar em operação em 2024: o DeepSouth, desenvolvido pela Universidade do Oeste de Sydney, tem como objetivo simular 228 trilhões de operações sinápticas por segundo, consumindo significativamente menos energia do que supercomputadores convencionais usando hardware disponível comercialmente. O computador irá trabalhar em em diversos campos, incluindo biomedicina, robótica, exploração espacial e inteligência artificial. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados define as principais áreas de foco para estudos e fiscalização nos próximos dois anos: o “Mapa de Temas Prioritários” destaca quatro temas prioritários – direitos dos titulares, tratamento de dados de crianças e adolescentes,  uso de inteligência artificial no reconhecimento facial e tratamento de dados pessoais, e raspagem e agregação de dados (web scraping). O mapa visa fortalecer a governança, aumentar a transparência e prever ações em alinhamento com a Lei Geral de Proteção de Dados Pessoais (LGPD). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Worldcoin, projeto de cripto de Sam Altman, CEO da OpenAI, faz integração de seu sistema de identificação com Minecraft, Reddit, Telegram, Shopify e Mercado Livre: o World ID é um protocolo que busca distinguir entre bots e humanos verificados online – o sistema também já estava integrado ao Discord.  Worldcoin quer escanear a íris de todas as pessoas do mundo por meio do Orb, um dispositivo esférico do tamanho de uma bola de basquete, para criar um identificador pessoal único – atualmente, 2,6 milhões de pessoas já possuem um World ID com suas íris escaneadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google lança segunda geração do Imagen, agora com a capacidade de renderizar texto e logotipos: o Imagen 2 pode gerar emblemas, marcas e logotipos abstratos em português, inglês, espanhol, chinês, hindi, japonês, coreano e pode sobrepor essas imagens em produtos, roupas, cartões de visita e outras superfícies. Outra melhoria está na renderização de mãos e rostos humanos realistas. O sistema está disponível para desenvolvedores por meio da API Imagen no Google Cloud Vertex AI. As informações são do blog Google DeepMind.",
+            "url": ""
+        },
+        {
+            "text": "Relatório da Cloudflare mostra crescimento de 25% no tráfego global da internet em 2023: o Google foi o destino mais visitado, seguido por Facebook, Apple e TikTok (que foi o líder no ano passado). A OpenAI foi o mais popular entre os sites de IA gerativa. A Globo foi o serviço de notícias mais popular, ultrapassando a BBC. O WhatsApp foi o serviço de mensagens mais popular. O Roblox está listado como o site de jogos mais popular, à frente do Xbox Live. Analisando o tráfego de dispositivos móveis, mais de dois terços veio de dispositivos Android – em média, 42% do tráfego global de internet veio de dispositivos móveis. O relatório também destacou a rápida expansão do Starlink, triplicando o tráfego pela sua rede no ano. A Islândia possui a internet mais rápida, com velocidades médias de download de 282,5 Mbps. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
