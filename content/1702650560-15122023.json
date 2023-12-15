@@ -1,0 +1,45 @@
+{
+    "title": "LinkedIn suspende migração para Azure / Cloudflare: “queimando dinheiro” em IA / GPT-2 controla o GPT-4",
+    "fps": 30,
+    "timestamp": 1702650560,
+    "width": 0,
+    "height": 0,
+    "date": "15/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "LinkedIn, uma subsidiária da Microsoft, suspende migração para o Azure: a decisão é uma reviravolta significativa em relação ao projeto “Blueshift”, anunciado em 2019. O LinkedIn continuará utilizando alguns serviços do Azure, mas decidiu focar na expansão de sua própria infraestrutura de servidores on-premise. Problemas com a migração surgiram quando o LinkedIn tentou usar suas próprias ferramentas de software em vez daquelas disponíveis no Azure. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Cloudflare afirma que a maioria das empresas investindo em soluções de IA estão “queimando dinheiro”: Matthew Prince criticou o foco e investimento excessivo na nova tecnologia. Ele também destacou preocupações com a infraestrutura de IA, citando a escassez de GPUs e práticas de preços elevados dos grandes provedores cloud. As informações são do site da revista Fortune.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI apresenta técnica para alinhamento de inteligências artificiais superiores à capacidade humana: a ideia seria utilizar modelos de IA menores, supervisionados por humanos, que então iriam supervisionar modelos cada vez maiores e mais inteligentes. A intenção é encontrar meios técnicos para alinhar uma AGI (Inteligência Artificial Geral) a objetivos humanos. Um experimento inicial envolveu o GPT-2 para supervisionar o GPT-4, demonstrando uma abordagem promissora. As informações são do site Spectrum IEEE.",
+            "url": ""
+        },
+        {
+            "text": "Intel lança CPUs Core Ultra com foco em IA e eficiência energética: esta é a primeira família de processadores a não usar mais o esquema de marca “i” seguido de um número. A Intel diz que o chip Core Ultra 7 165H para dispositivos móveis oferece uma melhoria de 11% no desempenho multi-threading quando comparado aos processadores de notebooks concorrentes, como o AMD Ryzen 7 7840U, Qualcomm Snapdragon 8cx Gen 3 e o M3 da Apple. Ele também oferece uma redução de 25% no consumo de energia quando comparado ao Intel Core i7-1370P anterior. O chip possui uma NPU – unidade de processamento neural – capaz de executar cargas de trabalho de IA localmente, como o Stable Diffusion, de forma mais eficiente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Papa Francisco pede por tratado internacional vinculante para regular o desenvolvimento e uso da inteligência artificial: o Papa enfatiza a necessidade de garantir que os algoritmos não substituam valores humanos e alertou sobre o risco de uma “ditadura tecnológica”. Ele também solicitou a colaboração internacional na adoção de um tratado para regular especialmente armamentos autônomos. As informações são do site Reuters.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT e outras ferramentas de IA dominam ranking na categoria de buscas “Como usar” do Google no Brasil em 2023: “Como usar o ChatGPT” foi seguido por Midjourney e Remini (aplicativo que viralizou ao usar machine learning para simular a aparência de como seriam os futuros filhos de um casal, ao combinar suas fotos). Na quarta posição ficaram os termos genéricos “Como usar a inteligência artificial”. Em 6º, ficou “Como usar IA no Photoshop” e em 9º, “Como usar o Bard no Brasil”. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Deno 1.39 volta a adicionar suporte ao WebGPU: a API oferece aos desenvolvedores uma forma de programar o hardware de GPUs por meio de JavaScript com alto desempenho – a equipe do Deno considera o WebGPU como o sucessor efetivo do WebGL na web. A especificação já foi finalizada e o Chrome já possui suporte à API – Firefox e Safari ainda a estão implementando. O Deno havia adicionado suporte ao WebGPU pela primeira vez no início de 2021, mas foi removido no início deste ano devido a problemas de desempenho. As informações são do blog do Deno.",
+            "url": ""
+        }
+    ]
+}
