@@ -1,0 +1,45 @@
+{
+    "title": "Inesperado: Adobe desiste do Figma / OpenAI suspende conta da ByteDance / Anatel faz alerta contra usina",
+    "fps": 30,
+    "timestamp": 1702909794,
+    "width": 0,
+    "height": 0,
+    "date": "18/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Adobe abandona plano de fusão com a plataforma de design colaborativo Figma: o acordo, de 20 bilhões de dólares, foi cancelado devido a obstáculos regulatórios e de conduta anticompetitiva na União Europeia e Reino Unido. A Adobe pagará uma taxa de rescisão de 1 bilhão de dólares à Figma. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI suspende conta da ByteDance, dona do TikTok, após descobrir que a empresa estava usando o GPT-4 para para treinar seu próprio modelo de IA: o “Project Seed” da ByteDance estava usando a API do GPT-4 em quase todas as fases de desenvolvimento, incluindo treinamento e avaliação do modelo, o que viola os termos de uso da OpenAI. Em documentos vazados, os funcionários da ByteDance discutiam como “encobrir” as evidências e “dessensibilizar” os dados, com o projeto frequentemente atingindo o limite máximo de acesso à API. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anatel posiciona-se oficialmente de forma contrária à construção da usina de dessalinização em Fortaleza que pode afetar 99% do tráfego de internet no Brasil: mesmo após revisão do projeto pela Companhia de Água e Esgoto do Ceará, a agência se preocupa com o risco de danos aos cabos submarinos de telecomunicações que passam pela região devido aos jatos de alta pressão de rejeitos salinos da usina, que será a maior na América Latina. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Em 2023, foram identificadas 985 aplicações financeiras, em 61 países, afetadas por 10 novas famílias de malwares bancários: destes, o BrasDex, direcionado a usuários brasileiros, é notável por roubar dinheiro por meio de transações Pix. O conselho é baixar aplicativos somente de fontes oficiais, como Google Play Store ou App Store para evitar fraudes. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores estão desenvolvendo métodos para identificar hackers através da análise do código que escrevem: certos traços comportamentais podem deixar vestígios, revelando o país de origem desses criminosos, a universidade onde foram treinados e em quais empresas já trabalharam, ao adotar os guias de estilo dessas companhias. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de carteiras de criptomoedas Ledger sofre ataque com código malicioso presente em library JavaScript: a conta de um ex-funcionário, que tinha suas credenciais ainda ativas, foi violada por meio de um ataque de phishing, permitindo o upload de uma biblioteca maliciosa à conta de registro NPM da empresa. Dezenas de outros projetos utilizam a library “Ledger Connect Kit” e o dano – estimado em 610 mil dólares - foi limitado porque o arquivo comprometido ficou ativo por apenas duas horas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem antena considerada “revolucionária” e que permitirá a nova geração de comunicação 6G: o componente é capaz de manipular todas as propriedades fundamentais de ondas eletromagnéticas por meio de software. A tecnologia pode ser expandida para frequências de terahertz, permitindo aplicações em realidade aumentada, holografia, óptica e ciência da informação quântica. As informações são do site Interesting Engineering.",
+            "url": ""
+        }
+    ]
+}
