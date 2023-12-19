@@ -1,0 +1,45 @@
+{
+    "title": "Celular escutando conversas / Novo app do Governo / Usina de dessalinização rebate",
+    "fps": 30,
+    "timestamp": 1702996091,
+    "width": 0,
+    "height": 0,
+    "date": "19/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresa de publicidade digital alega que utiliza a técnica de “escuta ativa” em smartphones e outros dispositivos inteligentes para anúncios direcionados: esse é um dos assuntos mais controversos na área de marketing digital – o uso de dados de voz para publicidade personalizada nas redes sociais e buscas do Google. No entanto, há poucas evidências de que microfones de smartphones estejam realmente capturando conversas com esse intuito, apesar dos incentivos financeiros. A empresa afirma que tudo seria perfeitamente legal, pois os usuários dão seu consentimento ao aceitar os termos e condições de uso em aplicativos que usam o serviço. As alegações, entretanto, não puderam ser verificadas e Google, Facebook, Microsoft e Amazon, listadas como parceiras no site da empresa de publicidade, não responderam aos pedidos de comentários do jornalista que escreveu a matéria. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Governa lança nesta terça aplicativo “Celular Seguro” com o objetivo de reduzir crimes de furto e roubo de celulares: o app, uma colaboração entre o Ministério da Justiça, Anatel e Febraban, permite o bloqueio imediato dos aplicativos bancários instalados e da linha telefônica – basta cadastrar o telefone em aparelhos de pessoas de confiança, que podem efetuar o bloqueio no caso de uma eventualidade. Também será possível acionar o sistema por meio de uma plataforma web disponibilizada pelo Ministério da Justiça. Até o fechamento desta edição, o aplicativo não estava presente nas lojas da Apple e Google. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Consórcio Águas de Fortaleza faz duras críticas contra a Anatel e defende construção da usina de dessalinização em Fortaleza: o grupo alega não haver riscos para os cabos submarinos ou data centers locais, com a agência estaria agindo sem base técnica, sendo parcial e favorecendo interesses privados, além ignorar situações similares no Rio de Janeiro e litoral paulista. A empresa enfatiza a aprovação do projeto por mais de 20 pareceres técnicos ambientais e reafirma seu compromisso em continuar com a obra, apesar das objeções. As informações são do site Teletime.",
+            "url": ""
+        },
+        {
+            "text": "Comissão de Comunicação e Direito Digital do Senado aprova Projeto de Lei que propõe penas de dois a cinco anos de reclusão e multa para ataques de ransomware: o PL 1.049/2022 visa inserir o crime de extorsão digital no Código Penal, caracterizado pela invasão e bloqueio de acesso a computadores e celulares. O projeto prevê ainda um aumento de pena em casos que afetem serviços essenciais, saúde, segurança pública ou dados da Abin. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Agências policiais dos EUA, Reino Unido, Alemanha e Austrália apreendem site do grupo de ransomware ALPHV na dark web: os criminosos, também conhecidos como BlackCat, haviam iniciado uma nova tática de extorsão contra vítimas, ameaçando apresentar queixas ao governo dos EUA sobre violação de dados não reveladas publicamente. A ALPHV, sucessora do grupo hacker REvil, é responsável por ataques de alto perfil e uma das primeiras operações de ransomware a desenvolver com a linguagem de programação Rust. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "MongoDB investiga incidente de segurança que expôs dados de clientes: embora os dados de clientes armazenados no MongoDB Atlas não foram acessados, os invasores obtiveram acesso a sistemas corporativos da empresa, expondo informações de contato dos clientes, como nomes, telefones e email. A MongoDB orienta os clientes a ficarem atentos a ataques de engenharia social e phishing. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Doug Crockford, criador do JSON, lança nova linguagem de programação: a Misty é descrita como uma linguagem dinâmica, de propósito geral, com sintaxe amigável e recursos avançados. Um aspecto distintivo da linguagem é sua rigorosa exigência quanto ao uso de espaços e indentação, adotando um único padrão de estilo para evitar incompatibilidades e debates improdutivos – a indentação é feita em incrementos de 4 espaços, seguindo regras específicas para garantir a consistência do estilo. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
