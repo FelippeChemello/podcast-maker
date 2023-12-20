@@ -20,6 +20,7 @@ env:
     INSTAGRAM_EMAIL: ${{ secrets.INSTAGRAM_EMAIL }}
     INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
     YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+    GOOGLE_MAKERSUITE_API_KEY: ${{ secrets.GOOGLE_MAKERSUITE_API_KEY }}
     #  ACTIONS_RUNNER_DEBUG: true
     #  ACTIONS_STEP_DEBUG: true
 
@@ -33,7 +34,7 @@ jobs:
             - name: Setup Node.JS environment
               uses: actions/setup-node@v3
               with:
-                  node-version: 16
+                  node-version: 18
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v3
@@ -91,7 +92,7 @@ jobs:
             - name: Setup Node.JS environment
               uses: actions/setup-node@v3
               with:
-                  node-version: 16
+                  node-version: 18
 
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1

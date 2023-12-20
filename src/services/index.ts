@@ -11,6 +11,7 @@ import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
 import MailToJsonService from './MailToJsonService';
 import GetYoutubeInfoService from './GetYoutubeInfoService';
+import GenerateTitleServce from './GenerateTitleService';
 
 export {
     GetContentService,
@@ -25,5 +26,6 @@ export {
     InstagramUploadService,
     ValidatesContentService,
     MailToJsonService,
-    GetYoutubeInfoService
+    GetYoutubeInfoService,
+    GenerateTitleServce,
 };

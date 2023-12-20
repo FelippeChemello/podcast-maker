@@ -30,6 +30,7 @@
         "registry": "https://registry.npmjs.org/"
     },
     "dependencies": {
+        "@google/generative-ai": "^0.1.3",
         "@oclif/core": "^1",
         "@oclif/plugin-help": "^5",
         "@oclif/plugin-plugins": "^2.0.1",

@@ -31,5 +31,7 @@ export const saveSecrets = async (secrets: { [key: string]: unknown }) => {
         fs.mkdirSync(config.configDir, { recursive: true });
     }
 
-    fs.writeFileSync(secretsFilePath, JSON.stringify(secrets, null, 2));
+    console.log('Saving secrets to', secretsFilePath)
+
+    // fs.writeFileSync(secretsFilePath, JSON.stringify(secrets, null, 2));
 };
