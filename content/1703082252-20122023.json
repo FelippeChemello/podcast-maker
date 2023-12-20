@@ -1,0 +1,45 @@
+{
+    "title": "Software espião: STF é acionado / Gangue faz grave ameaça / Espionagem em massa",
+    "fps": 30,
+    "timestamp": 1703082252,
+    "width": 0,
+    "height": 0,
+    "date": "20/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Procuradoria-Geral da República aciona Supremo Tribunal Federal contra omissão do Congresso sobre a regulação do uso de software espião por agentes públicos: esses programas tem sido usados no Brasil para monitorar dispositivos como celulares em investigações contra terrorismo e crime organizado. O pedido ao STF inclui a definição de regras provisórias para garantir a privacidade e o sigilo das comunicações até que uma legislação adequada seja aprovada. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Gangue de ransomware ALPHV/Blackcat recupera controle de seu site no dark web e ameaça ampliar seus ataques: apesar do FBI ter liberado uma ferramenta para reverter os arquivos criptografados de cerca de 400 vítimas do grupo, eles afirmam que ainda mantém outras 3.000 vítimas reféns. O grupo também anunciou que não restringirá mais o escopo de suas operações, liberando afiliados a invadir infraestruturas críticas, incluindo hospitais e usinas nucleares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Especialista em segurança e privacidade muito respeitado alerta sobre uma nova era de espionagem em massa devido à IA: Bruce Schneier adverte que a tecnologia automatizará a análise de grandes volumes de dados, facilitando não apenas o monitoramento, mas também a interpretação de intenções e contextos, com implicações significativas para a privacidade pessoal e estratégias corporativas e governamentais na coleta de informações. Schneier sugere que a regulação governamental poderia ser uma solução, embora não seja otimista quanto à sua implementação. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Operação da Interpol resulta na prisão de 3.500 suspeitos de crimes cibernéticos e na apreensão de 300 milhões de dólares em recursos ilícitos: conduzida por autoridades sul-coreanas, em colaboração com agências de 34 países, a operação “HAECHI IV” ocorreu entre julho e dezembro, focando em diversas atividades ilegais como phishing, golpes amorosos, extorsão online, lavagem de dinheiro e fraudes financeiras. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Velocidade do 5G no Brasil está entre as cinco mais rápidas do mundo: a velocidade média de download aumentou em 40% para 443,93 Mbps no último ano – a velocidade média global está em 203 Mbps. Os Emirados Árabes Unidos lideram, com 592 Mbps. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "NASA realiza transmissão histórica de vídeo em ultra-alta definição do espaço profundo: o experimento, realizado por meio de um novo sistema de comunicação via laser a bordo da sonda Psyche, ocorreu a uma distância de 31 milhões de quilômetros, cerca de 80 vezes a distância entre a Terra e a Lua. O sinal de vídeo levou 101 segundos para chegar à Terra, enviado à taxa de 267 Mbps, entre 10 e 100 vezes mais rápido do que os sistemas de radiofrequência de última geração. As informações são do site JPL da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no protocolo SSH permite enfraquecimento da segurança em conexões: o ataque do tipo man-in-the-middle pode forçar o uso de métodos de autenticação mais fracos e desativar mecanismos de defesa. A gravidade real da falha varia de acordo com as configurações cliente-servidor – 77% dos servidores SSH expostos na internet suportam pelo menos um dos modos de criptografia vulneráveis (ChaCha20-Poly1305 e CBC-EtM). O problema foi reportado para desenvolvedores de clientes e servidores SSH em outubro, com detalhes e correções agora divulgados publicamente. Três CVEs foram identificados (CVE-2023-46446, CVE-2023-48795 e CVE-2023-46445), sendo dois específicos ao módulo Python AsyncSSH. As mitigações incluem atualizações de software e configuração de modos de criptografia não vulneráveis. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
