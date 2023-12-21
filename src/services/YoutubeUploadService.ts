@@ -167,7 +167,6 @@ export default class YoutubeUploadService {
         });
 
         let title = this.content.title
-
         if (title.length >= 100) {
             const titleArray = title.split('/');
             titleArray.pop();

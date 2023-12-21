@@ -14,10 +14,10 @@ import InterfaceJsonContent from 'models/InterfaceJsonContent';
 const { 
     content, 
     durationInFrames
- }: { 
+ } = getInputProps() as { 
     content: InterfaceJsonContent,
     durationInFrames: number
- } = getInputProps()
+ }
 
 export const RemotionVideo: React.FC = () => {
     console.log(content)
@@ -47,7 +47,7 @@ export const RemotionVideo: React.FC = () => {
                 width={content.width}
                 height={content.height}
                 defaultProps={{
-                    title: content.title,
+                    title: content.thumbnail_text ?? content.title,
                     date: content.date,
                 }}
             />

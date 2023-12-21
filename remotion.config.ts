@@ -1,5 +1,5 @@
-import { Config } from 'remotion';
+import { Config } from '@remotion/cli/config';
 
-Config.Output.setCodec('h264');
-Config.Output.setImageSequence(false);
-Config.Rendering.setImageFormat('jpeg');
+Config.setCodec('h264');
+Config.setImageSequence(false);
+Config.setVideoImageFormat('jpeg');

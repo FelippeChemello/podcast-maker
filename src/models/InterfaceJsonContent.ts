@@ -9,6 +9,7 @@ export default interface InterfaceJsonContent {
     news: { text: string; url?: string; shortLink?: string }[];
     fps: number;
     title: string;
+    thumbnail_text?: string;
     duration?: number;
     date: string;
     renderData?: {
