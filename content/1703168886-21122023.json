@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: “esfera metálica” do Sam Altman / Perigo em jogos online / Robotáxis confiáveis",
+    "fps": 30,
+    "timestamp": 1703168886,
+    "width": 0,
+    "height": 0,
+    "date": "21/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Worldcoin, projeto de cripto de Sam Altman, CEO da OpenAI, suspende escaneamento de íris com a “esfera metálica” Orb no Brasil, Índia e França: a startup alega que o recuo repentino, poucos meses após a expansão do uso do dispositivo Orb para escaneamento ocular nesses mercados, teria sido apenas por um “tempo limitado”. A Worldcoin quer construir uma solução confiável de identificação para distinguir seres humanos de IAs online. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cartéis estão utilizando jogos online para vender substâncias ilícitas e recrutar membros de forma discreta: há muita dificuldade em monitorar essas plataformas, afirmam especialistas – os cartéis se comunicam através de emojis, dificultando a interceptação das mensagens. Apesar do escopo global, a polícia mexicana foi a primeira a notar a prática, com um caso inicial envolvendo três adolescentes que foram recrutados enquanto jogavam “Garena Free Fire”. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Condução autônoma dos robotáxis Waymo supera humanos em segurança: foram analisados mais de 11 milhões de quilômetros de condução em três cidades nos EUA, com os veículos da startup reduzindo em 85% a taxa de acidentes com qualquer tipo de lesão. Em 2023, a Waymo já atendeu mais de 700 mil viagens com passageiros e nenhum motorista humano. As informações são do blog da Waymo.",
+            "url": ""
+        },
+        {
+            "text": "Mercado brasileiro de PCs retraiu 9,6% no terceiro trimestre de 2023: no total, foram vendidos 1,98 milhão de unidades, com destaque para a queda de 20,5% no segmento corporativo. O preço médio de desktops e notebooks também caiu, 3.888 e 3.205 respectivamente. Para 2024, a IDC projeta um crescimento de 2% no mercado, impulsionado principalmente pelos setores públicos governamentais, de educação e no segmento gamer. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft reconhece problema de Wi-Fi no Windows 11 após atualização: o problema foi introduzido pela atualização de segurança KB5033375 lançada na semana passada. A empresa propôs uma solução temporária chamada Known Issue Rollback (KIR), permitindo que o sistema operacional retorne a uma versão anterior do código sem o problema enquanto uma correção definitiva não é lançada. A falha, que afeta principalmente redes empresariais, educacionais e locais públicos com Wi-Fi. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla revisa sua posição e decide implementar “Trusted Types” no Firefox: a tecnologia de segurança web já está presente no Chrome, Edge e Opera, visando reduzir ataques baseados na injeção de código, especificamente o DOM-XSS (Document Object Model Cross-Site Scripting). O XSS costumava ser um problema significativo no Google, representando 30% dos bounties pagos pelo Programa de Recompensas de Vulnerabilidade em 2018 – em 2023, o problema representa apenas 4,1%, todos para bugs relatados contra sites que ainda não migraram para Trusted Types. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Estudo minimiza preocupações sobre a vulnerabilidade Log4Shell: o relatório aponta que apenas um pequeno conjunto de softwares é realmente vulnerável, com apenas quatro produtos associados a ataques conhecidos. Além disso, a complexidade do ataque e as especificidades de cada software limitam as possibilidades de exploração. Até o momento, 94% dos 125 mil hosts vulneráveis identificados já foram corrigidos, deixando um número reduzido de alvos potenciais. As informações são do site CISO Advisor.",
+            "url": ""
+        }
+    ]
+}
