@@ -16,9 +16,14 @@ import InterfaceJsonContent from '../../src/models/InterfaceJsonContent';
 
 const { withoutIntro } = getInputProps();
 
-export const Main: React.FC<{
-    content: InterfaceJsonContent
-}> = ({ content: { renderData, date, title, youtube } }) => {
+const { 
+    content, 
+ } = getInputProps() as { 
+    content: InterfaceJsonContent,
+ }
+
+export const Main: React.FC = () => {
+    const { renderData, date, title, youtube } = content;
     if (!renderData) {
         throw new Error('Missing renderData');
     }

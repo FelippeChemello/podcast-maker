@@ -25,65 +25,7 @@ env:
     #  ACTIONS_STEP_DEBUG: true
 
 jobs:
-    TextToSpeech:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v3
-
-            - name: Setup Node.JS environment
-              uses: actions/setup-node@v3
-              with:
-                  node-version: 18
-
-            - name: podcast-maker CLI cache
-              uses: actions/cache@v3
-              id: podcast-maker-cache
-              with:
-                  path: |
-                      **/node_modules
-                      dist
-                      bin
-                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
-
-            - name: Build
-              if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
-              run: |
-                  yarn
-                  yarn build
-
-            - name: Move content file to be processed
-              run: |
-                File=$(ls content/*.json | sort -n -t '-' -k 1 | tail -n 1)
-                Destination=$(./bin/dev info content --dir)
-                echo "Coping from $File to $Destination"
-                cp $File $Destination
-
-            - name: Get tmp path
-              id: tmp
-              run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
-
-            - name: Create TTS
-              run: ./bin/run create tts
-
-            - name: Save TTS files in Artifacts
-              uses: actions/upload-artifact@v3
-              with:
-                  name: audio-files
-                  path: |
-                    ${{ steps.tmp.outputs.tmpPath }}/*.mp3
-                    ${{ steps.tmp.outputs.tmpPath }}/*.json
-                    !${{ steps.tmp.outputs.tmpPath }}/example.json
-                  retention-days: 3
-
-            - name: SSH debug
-              if: ${{ failure() }}
-              uses: mxschmitt/action-tmate@v3
-              with:
-                  limit-access-to-actor: true
-
     YouTube:
-        needs: [TextToSpeech]
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
@@ -117,12 +59,6 @@ jobs:
               id: tmp
               run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
 
-            - name: Download TTS files
-              uses: actions/download-artifact@v2
-              with:
-                  name: audio-files
-                  path: ${{ steps.tmp.outputs.tmpPath }}/
-
             - name: Link public folder to tmp
               run: |
                 Tmp=$(./bin/run info tmp --dir)
@@ -130,7 +66,7 @@ jobs:
                 ln -sf $Tmp public
 
             - name: Create Youtube video
-              run: ./bin/run create youtube --upload
+              run: ./bin/run create youtube --upload -t
 
             - name: Save video in Artifacts
               if: ${{ failure() }}
@@ -138,6 +74,7 @@ jobs:
               with:
                   name: youtube-video-assets
                   path: |
+                      ${{ steps.tmp.outputs.tmpPath }}/*.mp3
                       ${{ steps.tmp.outputs.tmpPath }}/*.mp4
                       ${{ steps.tmp.outputs.tmpPath }}/*.jpeg
                       ${{ steps.tmp.outputs.tmpPath }}/*.json
