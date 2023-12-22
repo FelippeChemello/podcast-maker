@@ -1,0 +1,45 @@
+{
+    "title": "Governo aumenta salário de TI / Malware em Go / Regulação de cripto no Brasil",
+    "fps": 30,
+    "timestamp": 1703270009,
+    "width": 0,
+    "height": 0,
+    "date": "22/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nova carreira de analista de TI do Governo terá salários entre 11 mil e 21 mil reais/mês: o Projeto de Lei ainda precisa ser aprovado pelo Congresso Nacional, mas também atualizará os valores pagos aos 429 analistas de TI ativos, cujos salários atuais oscilam entre 9 mil e 13 mil reais. A iniciativa busca tornar a carreira de TI mais atraente na administração pública, especialmente após um concurso anterior não conseguir preencher todas as 300 vagas disponíveis devido à discrepância salarial entre o setor público e privado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Windows e macOS são alvos de novo malware multiplataforma escrito em Go: o JaskaGO é capaz de executar comandos shell, monitorar processos, roubar dados e fazer o download de malware adicional. Ele também escaneia a área de transferência por endereços de carteiras de criptomoedas, podendo substituir o endereço do destinatário pelo do atacante. Os pesquisadores que descobriram o vírus destacam a tendência crescente no desenvolvimento de malware em Go devido à sua simplicidade e capacidade multiplataforma. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central abre consulta pública para regulamentação do mercado de criptoativos no Brasil: a consulta, estruturada em oito blocos temáticos com um total de 38 questões, visa colher opiniões e sugestões da sociedade até 31 de janeiro de 2024. As áreas de interesse incluem gestão de riscos, segurança cibernética, governança e proteção dos clientes. As contribuições devem ser feitas pelo site do BC. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp e Instagram lideram como os aplicativos mais utilizados no Brasil em 2023: para 52%, o WhatsApp é o aplicativo que mais abrem por dia, seguido pelo Instagram (21%) e Facebook (3%). O Instagram, entretanto, é o app no qual os brasileiros passam mais tempo ao longo do dia (35%), seguido por WhatsApp (28%) e YouTube (7%). No setor de streaming, a Netflix continua dominante, usada por 80% dos entrevistados, seguida por Prime Video (47%) e Disney+ (25%). No mercado de músicas, o Spotify domina o mercado (62%), seguido por Deezer (com 7%). As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Supremo Tribunal Federal recebe 24 protótipos de inteligência artificial destinados a resumir processos judiciais, mantendo suas informações essenciais: os protótipos foram apresentados por empresas, universidades e startups, sem custos para o STF. O tribunal afirma que o uso de IA visa melhorar a eficiência e qualidade dos serviços judiciais. Um relatório técnico será elaborado para avaliar as propostas e discutir modelos de contratação. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple pretende rodar IA diretamente nos dispositivos dos usuários em vez de na nuvem: em um artigo científico publicado recentemente, os pesquisadores da empresa estão avaliando soluções para o atual gargalo computacional na inferência eficaz de grandes modelos de linguagem em dispositivos com memória limitada. A Apple está focada na privacidade de dados e potencial melhora na experiência do usuário. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney v6 é lançado em versão alpha com melhorias significativas na criação de imagens realistas e capacidade de gerar texto legível: a nova versão, entretanto, modifica drasticamente as técnicas de prompt, sendo bem mais sensível aos comandos do usuário. Para ativar o modelo é necessário digitar o comando “/settings” no servidor Discord do Midjourney ou digitar manualmente “–v 6” no prompt. As informações são do site VentureBeat.",
+            "url": ""
+        }
+    ]
+}
