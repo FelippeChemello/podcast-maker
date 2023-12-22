@@ -105,12 +105,12 @@ const youtube = async ({
 
         const bundle = await new BundleVideoService().execute();
 
-        await new RenderVideoService(content).execute(
-            bundle,
-            'landscape',
-            true,
-            'youtube',
-        );
+        // await new RenderVideoService(content).execute(
+        //     bundle,
+        //     'landscape',
+        //     true,
+        //     'youtube',
+        // );
 
         await new CreateThumbnailService(content).execute(bundle);
     }

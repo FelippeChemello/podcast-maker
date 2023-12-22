@@ -3,7 +3,6 @@ import { useCallback, useMemo } from 'react';
 import {Easing, interpolate, Sequence, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
 export const Title: React.FC<{
-	
     segments: Segment[]
 }> = ({segments }) => {
 	const videoConfig = useVideoConfig();
@@ -45,8 +44,6 @@ export const Title: React.FC<{
                     easing: Easing.bezier(0, 0.3, 1, 0.7),
                 }
             )
-
-            console.log(animation)
         }
 
         return (

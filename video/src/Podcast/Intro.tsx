@@ -42,8 +42,6 @@ export const Intro: React.FC<{
 	const videoConfig = useVideoConfig();
 	const frame = useCurrentFrame();
 
-    console.log(details)
-
     const text = `Booting up... ${details?.subscribers ? `\nSubscribers: ${details.subscribers}` : ''}\n${date}`
 
 	const orientation =
@@ -143,7 +141,6 @@ export const Intro: React.FC<{
 				)
 		)
 		.reduce((acc, val) => acc.concat(val), []);
-    console.log(videoConfig.durationInFrames - endOfTypingAnimation, cycleWaitingTypeDuration, waitingTypeCicles)
 
     let lineDelay = 0;
     const textElements = text.split('\n').map((sentence, lineIndex, lines) => {

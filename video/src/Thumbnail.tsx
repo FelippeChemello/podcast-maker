@@ -1,13 +1,19 @@
 import Segments from 'models/Segments';
-import { AbsoluteFill, useVideoConfig } from 'remotion';
+import { AbsoluteFill, getInputProps, useVideoConfig } from 'remotion';
 
 import avatar from '../../assets/Avatar.png';
 import measureParagraph from './utils/measureParagraph';
+import InterfaceJsonContent from '../../src/models/InterfaceJsonContent';
 
-export const Thumbnail: React.FC<{
-    title: string;
-    date: string;
-}> = ({ title, date }) => {
+const { 
+    content, 
+ } = getInputProps() as { 
+    content: InterfaceJsonContent,
+ }
+
+export const Thumbnail: React.FC = () => {
+    const title = content.thumbnail_text ?? content.title
+    const date = content.date
     const videoConfig = useVideoConfig();
 
     const orientation =
