@@ -47,7 +47,6 @@ class RenderVideoService {
             onProgress: ({ renderedFrames, encodedFrames, stitchStage, renderedDoneIn }) => {
                 renderProgressBar.update(renderedDoneIn ? encodedFrames : renderedFrames, { stage: !renderedDoneIn ? 'rendering' : stitchStage })
             },
-            parallelism: null,
             outputLocation: outputVideoPath,
             inputProps: {
                 content: this.content,
@@ -62,6 +61,9 @@ class RenderVideoService {
                 fps: this.content.fps,
                 width: format[videoFormat].width,
                 height: format[videoFormat].height,
+                defaultCodec: 'h264',
+                defaultProps: {},
+                props: {}
             },
             imageFormat: 'jpeg',
             codec: 'h264',

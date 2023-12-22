@@ -5,6 +5,7 @@ import {YoutubeWrapper} from './youtubeWrapper';
 type WrapperProps = {
 	title: string;
 	show: boolean;
+    children: React.ReactNode;
 };
 
 type VideoWrapperProps = {

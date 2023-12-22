@@ -17,7 +17,7 @@ import {
 import {RiPlayListAddLine} from 'react-icons/ri';
 import {BsThreeDots} from 'react-icons/bs';
 import {format} from 'date-fns';
-import ptBR from 'date-fns/locale/pt-BR';
+import {ptBR} from 'date-fns/locale/pt-BR';
 
 import ytLogo from '../../../assets/YT-Logo.svg';
 import avatar from '../../../assets/Avatar.png';
@@ -25,6 +25,7 @@ import clickSound from '../../../assets/click.mp3';
 
 type WrapperProps = {
 	title: string;
+    children: React.ReactNode;
 };
 
 type VideoWrapperProps = {
@@ -241,13 +242,13 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 				from={47 + startClickAnimationAtFrame}
 				durationInFrames={Infinity}
 			>
-				<Audio src={clickSound} startFrom={30} />
+				<Audio src={clickSound} startFrom={30} placeholder="" />
 			</Sequence>
 			<Sequence
 				from={105 + startClickAnimationAtFrame}
 				durationInFrames={Infinity}
 			>
-				<Audio src={clickSound} startFrom={30} />
+				<Audio src={clickSound} startFrom={30} placeholder="" />
 			</Sequence>
 			<header
 				style={{
@@ -331,7 +332,7 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 										new Date(),
 										"dd 'de' MMM. 'de' yyyy",
 										{
-											locale: ptBR,
+											locale: ptBR
 										}
 									)}
 								</span>
