@@ -1,0 +1,33 @@
+{
+    "title": "Lei de Moore viva, mas lenta / Ataque massivo contra Google / Windows 10 e PCs descartados",
+    "fps": 30,
+    "timestamp": 1703514432,
+    "width": 0,
+    "height": 0,
+    "date": "25/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Intel reconhece desaceleração na Lei de Moore: Pat Gelsinger afirma que os transistores agora estão dobrando aproximadamente a cada três anos, um ritmo mais lento do que o previsto pela Lei de Moore, que estimava dois anos. Apesar da desaceleração, Gelsinger prevê a possibilidade de criar um chip com 1 trilhão de transistores até 2030 – 10 vezes mais do que os chips mais densos da atualidade – citando avanços como o empilhamento em 3D. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google está sofrendo ataque massivo de spam contra seu mecanismo de busca nos últimos dias: domínios específicos estão ficando no topo das buscas para centenas de milhares de palavras-chave. O ataque está explorando três falhas nos algoritmos do Google – buscas locais (mais permissivo com resultados de baixa qualidade), palavras-chave de cauda longa (baixa competição com outros termos de busca) e o benefício para sites recém registrados (impulsão para verificar sua qualidade). As informações são do site Search Engine Journal.",
+            "url": ""
+        },
+        {
+            "text": "Plano da Microsoft de encerrar suporte gratuito ao Windows 10 pode levar ao descarte de 240 milhões de PCs: apesar de muitos computadores continuarem funcionais após o fim do suporte (em outubro de 2025), a demanda por dispositivos sem atualizações de segurança será muito baixa. O lixo eletrônico desses equipamentos é estimado em 480 milhões de quilos. A Microsoft garante que oferecerá atualizações de segurança para dispositivos rodando Windows 10 até outubro de 2028, mas cobrará um preço anual não divulgado. As informações são do site Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Revolução da computação quântica pode estar mais distante e ser mais limitada do que se pensava: críticos argumentam que as expectativas de especialistas do setor são muitas vezes irrealistas – para Oskar Painter, chefe de hardware quântico da AWS, há uma “tremenda quantidade de hype”. O maior problema seria a suscetibilidade a erros e as dificuldades técnicas em corrigi-los. O número de aplicações práticas para computadores quânticos também seria mais limitado com o uso intensivo de dados, como aprendizado de máquina ou pesquisas em bancos de dados, ambos certamente fora do alcance dessas máquinas em um futuro previsível. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
