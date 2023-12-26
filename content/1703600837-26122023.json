@@ -1,0 +1,45 @@
+{
+    "title": "Brecha no app Celular Seguro / Salários de Eng. de IA / Ano do Arm em PCs",
+    "fps": 30,
+    "timestamp": 1703600837,
+    "width": 0,
+    "height": 0,
+    "date": "26/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Aplicativo Celular Seguro, lançado recentemente pelo Governo, possui brechas, afirma especialista em segurança: segundo Alberto Leite, do Grupo EXA, que oferece soluções de segurança digital similares ao Celular Seguro, apontou falhas na demora no bloqueio de smartphones roubados ou perdidos – o sistema pode levar mais um dia útil para efetivar a comunicação de roubos, furtos e perdas de smartphones a parceiros como operadoras de telefonia e bancos – permitindo que os criminosos acessem todos os dados sensíveis do usuário neste tempo. Também já há relatos de golpes relacionados ao aplicativo, com criminosos enviando links falsos de cadastro na ferramenta ou para tentar cobrar taxas falsas pelo seu uso. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros de IA têm aproveitado o hype do mercado e a escassez de talentos na área para ganhar salários mais altos: esses profissionais estão ganhando entre 8% e 12,5% a mais do que engenheiros de outras áreas, com salários base na OpenAI variando entre 200 mil e 450 mil dólares anuais, sem contar bônus ou ações, podendo chegar a 800 mil ao ano (cerca de 4 milhões de reais). A dificuldade de encontrar pessoas qualificadas em tecnologias emergentes como IA coloca esses atuais desenvolvedores em posição privilegiada, sendo difícil substituí-los ou treinar novos profissionais rapidamente. As informações são do site Yahoo! Finance.",
+            "url": ""
+        },
+        {
+            "text": "2024 pode ser o ano de transição da arquitetura x86 para Arm em PCs: a Microsoft já estaria trabalhando no Windows 12, codinome Germanium, com suporte específico ao CPU Snapdragon X Elite da Qualcomm, indicando uma mudança significativa em relação às versões anteriores do sistema operacional, que tinham limitações na emulação de código x86. PCs e laptops com a nova arquitetura devem chegar ao mercado em junho de 2024. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Código-fonte do jogo GTA 5 vaza online um ano após ataque do grupo hacker Lapsus$ à Rockstar: links para o download do código foram compartilhados em vários canais, incluindo Discord, Telegram e dark web. O vazamento teria sido uma homenagem ao adolescente hacker recentemente condenado a ser internado indefinidamente em um hospital psiquiátrico pela Justiça do Reino Unido após a invasão da Rockstar e roubo de informações do jogo GTA 6 – apesar de ter seu laptop confiscado, o hacker teria realizado a invasão usando um dispositivo Amazon Firestick, uma TV e um telefone celular. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores suecos criam “solo eletrônico” que aumenta o crescimento de colheitas hidropônicas em 50%: a inovação, também chamada de “eSoil”, consiste em um substrato condutor de eletricidade feito de celulose e um polímero condutivo, com baixo consumo de energia. O desenvolvimento pode ser crucial para a agricultura urbana, oferecendo uma solução sustentável para a segurança alimentar, especialmente em áreas com pouca terra arável. As informações são do site Earth.",
+            "url": ""
+        },
+        {
+            "text": "Nos EUA, cerca de metade dos desenvolvedores de software trabalha em empresas que não são do setor de tecnologia: a informação demonstra como é importante para um desenvolvedor saber como adaptar sua comunicação e expressar tópicos técnicos de forma diferente para gerentes não técnicos, garantindo que a mensagem seja efetivamente compreendida e valorizada. Por exemplo, na descrição de um problema para outros engenheiros, a narrativa pode ser direta, focada em dados e terminologia técnica. Já para os gerentes, o mesmo problema pode ser contado de forma mais pessoal e dramática, enfatizando as dificuldades enfrentadas e os riscos associados. As informações são do blog Ming no Medium.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança LLM multimodal e de código aberto: o modelo “Ferret”, desenvolvido em colaboração com a Universidade de Columbia, possui dois tamanhos (7 e 13 bilhões de parâmetros), incluindo código e pesos para uso apenas em pesquisas. O sistema não atraiu muita atenção quando foi disponibilizado em outubro, mas o interesse aumentou recentemente devido aos avanços da Apple em técnicas para inferência eficiente de IA em dispositivos móveis, como o iPhone. As informações são do site Venture Beat.",
+            "url": ""
+        }
+    ]
+}
