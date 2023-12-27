@@ -1,0 +1,45 @@
+{
+    "title": "Banco de dados + OS / Roubo em cripto cai / Acidente com Falcon 9",
+    "fps": 30,
+    "timestamp": 1703687228,
+    "width": 0,
+    "height": 0,
+    "date": "27/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Aos 80 anos de idade, Michael Stonebraker, criador do PostgreSQL, promete sacudir novamente o mundo dos bancos de dados: Stonebraker continua ativo em estudos nessa área da computação e está trabalhando em um novo projeto chamado DBOS, um sistema operacional orientado a banco de dados. Segundo pesquisa da Stack Overflow, o PostgreSQL foi a escolha mais popular entre desenvolvedores em 2023. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Roubo de criptomoedas cai em 2023, primeira vez desde 2020: no total, cerca de 1,8 bilhão de dólares foram perdidos, um valor inferior aos 3,8 bilhões roubados em 2022. O maior incidente do ano foi o hack da exchange descentralizada Mixin Network em setembro, com a perda de 200 milhões de dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Falcon 9 histórico, primeiro foguete comercial a lançar astronautas em órbita, é destruído durante transporte pós-voo: o booster número de série B1058, que bateu o recorde ao ser reutilizado em 19 lançamentos bem-sucedidos, tombou devido a ventos fortes. Apesar da perda do segmento superior, a SpaceX planeja recuperar os motores e outros componentes. As informações são do site Collect Space.",
+            "url": ""
+        },
+        {
+            "text": "Winity, operadora que arrematou espectro de 700 MHz para oferecer serviços móveis no Brasil, renuncia à licença e devolve frequência para a Anatel: a empresa pagou 1,4 bilhão de reais pelo espectro, com ágio de 805%, e tinha o compromisso de construir cobertura 4G em mais de 55 mil km de rodovias federais. Esta é a terceira desistência de uma operadora do leilão do 5G, após renúncias da FlyLink e Neko. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança aplicativo dedicado do Copilot, novo nome do Bing Chat, para Android: disponível na Google Play Store, o app permite acesso gratuito ao modelo GPT-4 e geração de imagens com DALL-E 3, o que são vantagens em relação à versão gratuita do ChatGPT. Não há informações sobre uma versão para dispositivos iOS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google divulga suas extensões favoritas para o Chrome em 2023: dentre as escolhas estão o DeepL Translate (tradução instantânea em páginas web), Sider  (acesso rápido a ferramentas de IA populares) e Speechify (leitura em voz alta de artigos usando vozes de celebridades). As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "GitHub faz novo lembrete sobre a obrigatoriedade da ativação da autenticação em dois fatores até 19 de janeiro de 2024: a exigência não afeta contas empresariais. O GitHub fornece diversas opções para ativar o 2FA, incluindo Passkeys, aplicativos autenticadores e mensagens SMS, recomendando configurar pelo menos dois métodos. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
