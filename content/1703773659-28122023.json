@@ -1,0 +1,45 @@
+{
+    "title": "Movimento “Pós Open Source” / Eng.º brasileiro na Apple causa problemas / Ataque sofisticado",
+    "fps": 30,
+    "timestamp": 1703773659,
+    "width": 0,
+    "height": 0,
+    "date": "28/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bruce Perens, um dos fundadores do movimento open source, está promovendo o conceito de “Pós Open Source” para abordar falhas nas licenças de código aberto atuais: Perens sugere uma nova abordagem, onde as empresas pagariam uma taxa anual para uso do software de código aberto, financiando desenvolvedores para criar aplicações mais acessíveis ao público geral. Ele destaca a necessidade de uma relação contratual mais forte e transparente entre empresas e desenvolvedores. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Contratação de engenheiro brasileiro pela Apple leva a proibição das vendas de seu relógio inteligente nos EUA: Marcelo Lamego, engenheiro formado pela Universidade do Espírito Santo e Ph.D. em Engenharia Elétrica por Stanford, trabalhava na Masimo, empresa de tecnologia em saúde, quando enviou um email para Tim Cook, CEO da Apple, afirmando “Acredito fortemente que podemos desenvolver a nova onda de tecnologia que tornará a Apple a marca número 1 no mercado médico, fitness e bem-estar”. Uma semana depois, Lamego havia sido contratado pela Apple, levando consigo outros 20 engenheiros da Masimo. Na empresa, eles iriam trabalhar no medidor de oxigenação sanguínea do Apple Watch, parte central da disputa entre as duas empresas e que levou ao banimento das vendas do dispositivo nos EUA. A Apple, entretanto, conseguiu ontem uma autorização judicial para retomar as vendas do dispositivo enquanto a disputa judicial avança. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Ataque sofisticado comprometeu iPhones de pesquisadores da empresa de cibersegurança russa Kaspersky por quatro anos: a campanha chamada de “Operation Triangulation” usou possivelmente a cadeia de exploits “mais avançada de todos os tempos”, incluindo a possível engenharia reversa dos chips Arm utilizados pelos dispositivos para explorar uma vulnerabilidade de hardware não documentada, sugerindo habilidades técnicas muito avançadas. O backdoor, que transmitia dados sensíveis como gravações e localização para servidores controlados pelos atacantes, foi mantido ativo por meio de mensagens iMessage maliciosas e não dependia de ações do usuário (zero click). Além dos iPhones, as quatro vulnerabilidades zero-day utilizadas em conjunto também afetavam outros dispositivos da Apple, como Macs e iPads, que já foram corrigidas pela empresa. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anatel volta a criticar construção da usina de dessalinização em Fortaleza, considerando a obra como “indesejável e imprudente”: após o empreendimento ter recebido autorização para sua construção há alguns dias, a agência mantém suas preocupações com a segurança dos cabos submarinos de internet instalados na área, argumentando que a obra ignora recomendações de segurança importantes. A usina está prevista para ser concluída em 2026 e visa aumentar em 12% a oferta de água na região metropolitana de Fortaleza. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Chefe de design do iPhone sai da Apple para trabalhar em dispositivo de IA para OpenAI: Tang Tan irá trabalhar com Jony Ive, ex-vice presidente de design da Apple, em seu novo estúdio, LoveFrom, com a missão de definir o visual e as funcionalidades do novo dispositivo. A OpenAI fornecerá todo o suporte de software para o projeto. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Jornal The New York Times processa OpenAI e Microsoft, exigindo a destruição de todos os conjuntos de treinamento utilizados por seus LLMs: o jornal alega que ambas as empresas infringiram seus direitos autorais ao usar seus artigos para treinar o ChatGPT e modelos semelhantes. Este é o primeiro caso de um grande veículo de comunicação processando as duas empresas por uso de seu conteúdo. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Padrão de energia ATX12VO, desenvolvido pela Intel, parece estar ganhando força entre fabricantes de componentes para PCs: o novo padrão visa reduzir o número de cabos de energia necessários para alimentar um PC moderno, reduzindo assim custos – uma mudança notável é a ausência do conector ATX de 24 pinos, usando apenas conectores de dez pinos. Apesar da adoção lenta pela indústria, a MSI está preparando duas placas-mãe (compatíveis com Intel e AMD) e uma fonte de alimentação 12VO, que serão lançados na CES 2024. O sucesso do novo padrão, entretanto, dependerá da disponibilidade ampla de placas-mãe e fontes de alimentação compatíveis. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
