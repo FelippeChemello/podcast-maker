@@ -1,0 +1,33 @@
+{
+    "title": "Alerta: não teste app Celular Seguro / Relato em golpe da vaga falsa / Relatório anual da Mozilla",
+    "fps": 30,
+    "timestamp": 1703860062,
+    "width": 0,
+    "height": 0,
+    "date": "29/12/2023",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pessoas estão testando o aplicativo Celular Seguro e estão bloqueando seus telefones sem querer: o sistema deve ser usado apenas para proteger celulares roubados ou furtados e não possui um mecanismo de desbloqueio. O Ministério da Justiça destacou que o sistema deve ser usado somente em emergências e não há planos para adotar um método de recuperação. Na primeira semana de implementação, mais de 4.300 solicitações foram feitas ao sistema. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor relata como perdeu suas moedas virtuais em golpe da vaga falsa: o desenvolvedor de blockchain turco Murat Çeliktepe teve sua carteira MetaMask esvaziada após ser abordado no LinkedIn por um “recrutador” com uma proposta de trabalho aparentemente legítima no Upwork. Durante a entrevista técnica, Çeliktepe foi instruído a baixar dois módulos maliciosos npm de um repositório no GitHub, resultando na perda de aproximadamente 500 dólares de sua carteira Ethereum. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Relatório anual da Mozilla revela aumento significativo no salário da CEO, enquanto a participação de mercado do Firefox continua a cair: em 2022 (os relatórios da Mozilla possuem sempre um ano de atraso), o salário da CEO, Winifred Mitchell Baker, atingiu 6,9 milhões de dólares, um aumento de 23% em relação ao ano anterior. No mesmo período, a participação de mercado do Firefox caiu 20%, para 3,79% e a receita total diminuiu em 1,1%, para 593 milhões de dólares. Apesar dos números, o caixa da Mozilla (reservas em dinheiro ou equivalentes) cresceu 36%, para 513,8 milhões. Outro dado interessante foi o aumento de 33% nos ganhos com assinaturas (Pocket Premium e Mozilla VPN) e publicidade, para 75,7 milhões, demonstrando a estratégia da empresa em diversificar receitas e não ficar mais tão dependente do Google como o mecanismo de busca padrão dentro do Firefox. As informações são do blog Lunduke.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores europeus identificam falhas significativas em diversas aplicações Java ao redor do mundo: o problema está no processo de deserialização, – a restauração de um objeto por meio de bytes – usado em diversos tipos de aplicativos. Segundo o estudo, mesmo este sendo um ponto de vulnerabilidade conhecido, os programadores acabam sempre “repetindo os mesmos erros”, o que acaba reintroduzindo sempre as mesmas falhas. O grupo de pesquisa está desenvolvendo métodos para detectar melhor esse tipo de problema e prevenir ataques. As informações são do site TechXplore.",
+            "url": ""
+        }
+    ]
+}
