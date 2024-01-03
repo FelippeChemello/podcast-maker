@@ -1,0 +1,45 @@
+{
+    "title": "Disparada nos preços de SSDs / IAs consomem energia de um país / Terremoto impacta indústria de chips",
+    "fps": 30,
+    "timestamp": 1704292116,
+    "width": 0,
+    "height": 0,
+    "date": "03/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Preços de SSDs podem subir 50% em 2024: o aumento se deve ao encarecimento dos chips NAND – os de 512 GB, por exemplo, já aumentaram 120% desde julho do ano passado. Fabricantes como Samsung, SK Hynix e Micron também precisam retornar à lucratividade após um longo período de prejuízos, considerando esse aumento como uma notícia positiva, visando a sustentabilidade do mercado. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Aceleradores de IA H100 da Nvidia consumirão mais energia do que alguns países em 2024: as 3,5 milhões de unidades de GPUs consumirão 13.000 GWh de eletricidade anualmente, gasto energético maior do que Guatemala e Lituânia. A boa notícia é que a eficiência das GPUs em aplicações de IA está aumentando, com o modelo B100 da Nvidia previsto para este ano. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Terremoto no Japão impacta indústria de chips no país: o terremoto de magnitude preliminar 7,6 levou ao fechamento temporário de fábricas da Toshiba, GlobalWafers e Murata. Apesar do impacto, a indústria considera os danos gerenciáveis. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Governo cria Política Nacional de Cibersegurança: o Decreto nº 11.856 institui os princípios e objetivos da PNCiber, como promover o desenvolvimento de produtos, serviços e tecnologias de caráter nacional destinados à segurança cibernética, contribuir para o combate aos ataques cibernéticos, estimular a adoção de medidas de proteção para prevenir e neutralizar vulnerabilidades, e desenvolver mecanismos de regulação, fiscalização e controle destinados a aprimorar a segurança cibernética nacional. As informações são do site da Anatel.",
+            "url": ""
+        },
+        {
+            "text": "Análises de tráfego indicam que redes 5G podem atingir limite da capacidade até o final da década: o 5G-Advanced, especificação prevista para ser finalizada neste ano, promete apenas melhorias evolutivas, como suporte a redes não terrestres e automação de rede inteligente. Especialistas na área já defendem a necessidade do 6G, especialmente para lidar com o aumento de tráfego esperado e ganhos com eficiência energética. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Celular Seguro ultrapassa 1 milhão de usuários cadastrados: a ferramenta já recebeu 7.005 alertas de usuários envolvendo perda, roubo ou furto de aparelhos. O Ministério da Justiça alerta para notícias falsas sobre o funcionamento da plataforma, reforçando que o Governo não tem acesso a dados do aparelho do usuário. Outra informação importante é não testar o sistema – usuários estão bloqueando seus telefones sem querer e não há um mecanismo de desbloqueio na plataforma. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Samsung marca data para Galaxy Unpacked 2024: o evento provavelmente incluirá o lançamento da série de smartphones S24, com um foco especial em inteligência artificial. Rumores sugerem que o modelo S24 Ultra terá uma nova construção em titânio, assim como o iPhone 15 Pro da Apple. O livestream do evento ocorrerá nos canais oficiais da Samsung no dia 17 de janeiro, às 15h00. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
