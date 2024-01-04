@@ -1,0 +1,45 @@
+{
+    "title": "Microsoft: nova tecla em PCs / Starlink para celular / Outro proprósito para redes sociais",
+    "fps": 30,
+    "timestamp": 1704378513,
+    "width": 0,
+    "height": 0,
+    "date": "04/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft está adicionando uma tecla exclusiva ao assistente de IA Copilot em teclados de PCs, alterando o leiaute padrão pela primeira vez desde 1994: a tecla substitui onde geralmente fica o botão de menu na direita (entre as teclas Alt direito e seta esquerda). A Microsoft espera que o padrão seja um requisito em PCs e notebooks instalados com Windows 11. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX lança primeira leva de satélites Starlink com capacidade de conexão direta a celulares: a estimativa é que serviços de texto estejam disponíveis ainda este ano, com voz e dados previstos para 2025. O serviço é ideal apenas para locais sem conectividade celular, não sendo competitivo com redes celulares terrestres existentes dado o limite de banda – o sistema será capaz de fornecer velocidades de pico teóricas de 7,2 Mbps de uplink e até 18,3 Mbps no downlink (espaço para Terra). As informações são do site Next Big Future.",
+            "url": ""
+        },
+        {
+            "text": "Pessoas estão postando menos em redes sociais: pesquisa nos EUA mostram que 61% dos adultos se tornaram mais seletivos sobre o que compartilham, motivados por preocupações com privacidade e descontentamento com anúncios. Há também uma tendência para experiências mais passivas, com a ideia de que redes sociais agora são fontes de entretenimento, como YouTube ou Netflix. As informações são do jornal The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Mandiant, empresa de cibersegurança adquirida pelo Google por 5,4 bilhões de dólares em 2022, tem conta no X hackeada: o ataque promovia um link malicioso que tentava roubar moedas digitais de usuários. Apesar de a empresa ter recuperado a conta após algumas horas, o incidente fere a reputação da empresa, com especulações sobre o uso de proteções básicas, como senhas fortes e autenticação em dois fatores – em uma postagem, o hacker escreveu “mudem a senha, por favor”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google inicia nesta quinta-feira o primeiro teste para bloquear por padrão cookies de terceiros do Chrome: o experimento envolve cerca de 30 milhões de usuários, apenas 1% do total, mas é um passo inicial para a eliminação mais ampla desses cookies na segunda metade de 2024. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Programa de edição de áudio Audacity para Windows incorpora plugins de IA open source lançados pela Intel: o conjunto OpenVINO inclui supressão de ruído, transcrição de áudio para podcasts, além de geração de música e separação de vocais/instrumentos. O modelo roda localmente e é possível compilar o software manualmente para instalações Linux e macOS. Está disponível no repositório “intel/openvino-plugins-ai-audacity” no GitHub. As informações são do site NeoWin.",
+            "url": ""
+        },
+        {
+            "text": "Módulo npm tenta instalar todos os outros módulos disponíveis no registro: o “everything” pode esgotar o armazenamento do computador, mas pior do que isso, inclui todos os outros módulos no registro como suas dependências, impedindo que autores dos outros módulos removam suas publicações devido à política do npm, que só permite a remoção de módulos se nenhum outro no registro depender deles. O autor de “everything”, PatrickJS, se desculpou e entrou em contato com os administradores do npm para solucionar o problema. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
