@@ -1,0 +1,41 @@
+{
+    "title": "Mecanismo para brigar com o Google / GPT Store da OpenAI / Novo chipset da Qualcomm",
+    "fps": 30,
+    "timestamp": 1704464907,
+    "width": 0,
+    "height": 0,
+    "date": "05/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Jeff Bezos, fundador da Amazon, e Nvidia investem em startup focada em desafiar posição dominante do Google em buscas na web: a Perplexity afirma que é “o primeiro mecanismo de busca conversacional totalmente funcional do mundo”, extraindo informações da web usando suas próprias técnicas de indexação e crawl. Para os criadores da ferramenta, sites de spam de SEO e links patrocinados serão substituídos por uma maneira muito mais eficiente de se consumir e compartilhar informações. O investimento de 74 milhões de dólares no negócio é a maior quantia levantada por uma startup de buscas nos últimos anos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode lançar GPT Store já na próxima semana: desenvolvedores poderão criar GPTs, chatbots personalizados baseados no GPT-4, com variados níveis de complexidade – um GPT poderia analisar a base de código proprietária de uma empresa para que seus desenvolvedores possam verificar seu estilo ou gerar código de acordo com as práticas recomendadas, por exemplo. Ainda não está claro se haverá um esquema de compartilhamento de receita para GPTs pagos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm revela Snapdragon XR2+ Gen 2, chipset para competir com o headset de realidade mista Vision Pro da Apple: o componente foi desenvolvido em parceria com o Google e Samsung, suportando uma resolução de 4,3K por olho, 12 câmeras simultâneas e melhor rastreamento de movimentos e objetos para experiências de realidade virtual e mista mais imersivas. A Qualcomm espera que o novo chipset torne esses dispositivos mais acessíveis. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT falha no diagnóstico de casos médicos infantis com taxa de erro de 83%: o resultado destaca a complexidade em lidar com pacientes pediátricos, que geralmente não conseguem verbalizar com precisão os seus sintomas. O estudo acompanhou 100 casos clínicos, com a IA não conseguindo identificar relações entre condições. Os pesquisadores sugerem que um treinamento específico e seletivo em literatura médica confiável poderia melhorar a precisão do ChatGPT. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Rumor aponta que Apple irá adicionar capacidades de IA generativa à Siri no seu evento voltado a desenvolvedores neste ano: as melhorias visam agregar mais personalização e conversas naturais à assistente, além de integrar serviços externos. Algumas funcionalidades poderão estar disponíveis apenas por meio de assinatura. O evento WWDC 2024 é esperado para junho deste ano. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Google lança primeira atualização de segurança do Chrome de 2024, corrigindo seis vulnerabilidades: todas as quatro falhas relatadas por pesquisadores externos são relacionadas à segurança de memória de alta gravidade. Não há relatos de exploração dessas vulnerabilidades no mundo real. As versões 120.0.6099.199 para macOS e Linux e 120.0.6099.199/200 para Windows corrigem o problema. As informações são do site SecurityWeek.",
+            "url": ""
+        }
+    ]
+}
