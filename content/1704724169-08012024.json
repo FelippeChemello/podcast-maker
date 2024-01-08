@@ -1,0 +1,45 @@
+{
+    "title": "Eleições: novas regras / Semicondutor de grafeno / Drones como mulas",
+    "fps": 30,
+    "timestamp": 1704724169,
+    "width": 0,
+    "height": 0,
+    "date": "08/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "TSE propõe novas regras para eleições municipais deste ano, focando na regulamentação do uso de IAs e atuação das redes sociais: a proposta inclui a obrigatoriedade de identificação explícita de conteúdos eleitorais criados ou alterados por IA, com penalidades para infrações – detenção de dois meses a um ano e pagamento de multa no valor de até 7 mil reais. As redes sociais também devem adotar medidas para evitar a circulação de conteúdo eleitoral ilícito e fornecer ferramentas para identificação clara de anúncios políticos. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam primeiro semicondutor funcional feito de grafeno, com mobilidade de elétrons dez vezes superior ao silício: a tecnologia abre novas possibilidades para dispositivos eletrônicos menores, mais rápidos e eficientes em energia, com aplicações potenciais em computação quântica. A descoberta vem em um momento propício, com o silício perto de atingir seu limite técnico. As informações são do Instituto de Tecnologia da Geórgia.",
+            "url": ""
+        },
+        {
+            "text": "Utilização de drones para contrabando de substâncias ilícitas está se tornando um fenômeno mundial: especialistas indicam que, apesar do alcance e capacidade de carga limitada, os drones oferecem vantagens significativas para criminosos, como menor risco e custo, especialmente para pequenos distribuidores. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft pode ultrapassar Apple como empresa mais valiosa do mundo: enquanto as ações da Microsoft sobem devido a sua menor dependência em vendas de hardware e ao seu foco em softwares por assinatura – além de estar à frente com ferramentas de IA, como o Copilot – o valor de mercado da Apple (2,82 trilhões de dólares) cai devido à expectativa de redução na demanda por iPhones – a diferença entre as duas empresas é de apenas 100 bilhões de dólares. As informações são do site Apple Insider.",
+            "url": ""
+        },
+        {
+            "text": "Nikon, Sony e Canon estão implementando tecnologia de marca d'água digital resistente à adulteração em suas câmeras: a tecnologia visa combater a desconfiança gerada pela disseminação de imagens geradas por IA nas redes sociais, sendo especialmente relevante para profissionais como jornalistas e editores de imagens, cuja integridade do trabalho é fundamental. As informações são do site Lifewire.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria trabalhando em APIs do Android para permitir que ChatGPT seja definido como assistente padrão do sistema: a novidade inclui uma interface de usuário em overlay e suporte a comandos de voz – o sistema ainda está em desenvolvimento, sem garantias de lançamento oficial. É possível que o ChatGPT seja adotado como assistente padrão por algum fabricante de dispositivos Android no futuro. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google minimiza relatos de malware que estaria explorando API não documentada do Chrome para gerar novos cookies de autenticação baseados em cookies expirados: duas operações de malware – Lumma e Rhadamanthys – alegam que conseguem restaurar cookies de autenticação expirados do Google roubados em ataques por meio de um endpoint da API “MultiLogin” do Google OAuth. O Google considera o abuso da API como roubo comum de cookies, com nenhuma vulnerabilidade sendo explorada e sem plano para medidas corretivas. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
