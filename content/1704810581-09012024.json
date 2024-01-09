@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI faz admissão controversa / GovBr é um sucesso / Nvidia bate recorde histórico",
+    "fps": 30,
+    "timestamp": 1704810581,
+    "width": 0,
+    "height": 0,
+    "date": "09/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI admite ser “impossível” treinar redes neurais de ponta sem usar conteúdo protegido por direitos autorais: usar material de domínio público resultaria em modelos inferiores. A startup defende o uso de materiais protegidos sob a alegação de “fair use”. A “regurgitação” – conteúdo produzido por uma rede neural muito similar aos seus dados de treinamento – seria apenas uma falha rara. Outro problema seria determinar quem é responsável pelo plágio – os criadores do modelo ou quem tenta reproduzir um conteúdo protegido por meio de prompts direcionados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "No Brasil, aplicativo GovBr perde apenas para redes sociais e app de compras: no ranking dos dez apps mais baixados de 2023, o GovBr (com 45,7 milhões de instalações) fica apenas atrás de TikTok (68,9 milhões), Instagram (65,3 mi) e Shein (53,3 mi). Compõem o Top 10, Mercado Livre (42,1 mi), CapCut (42 mi), Nubank (39,8 mi), Shopee (38,8 mi), WhatsApp (36,9 mi) e Facebook (28 milhões). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ações da Nvidia batem recorde histórico de valorização após anunciar novas GPUs: além disso, na sessão de segunda-feira, as ações da companhia foram as mais negociadas no mercado norte-americano. A série GeForce RTX 40 SUPER, voltada principalmente para gamers, possui melhor desempenho, mas é mais barata do que os modelos que substitui. O valor de mercado da empresa triplicou em 2023, para 1,3 trilhão de dólares. As informações são do site Investing.",
+            "url": ""
+        },
+        {
+            "text": "iPhone sobrevive a uma queda de quase 5 km após ser ejetado de avião: o aparelho, encontrado sob um arbusto ao lado da estrada, ainda estava funcionando, com o modo avião ativado, tela desbloqueada e o aplicativo de email aberto – o conector do cabo de carregamento ainda estava conectado, mas rasgado. Um evento de descompressão explosiva ocorreu no final de semana passado quando a porta de saída de emergência não utilizada em um Boeing 737 Max 9 se desprendeu inesperadamente do avião durante o voo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Lançamento do Microsoft Copilot, chatbot de IA com acesso gratuito ao GPT-4, não afetou significativamente instalações ou receitas do ChatGPT: o app Copilot, lançado no final do ano passado, registrou 2,1 milhões de downloads até 5 de janeiro. A versão gratuita do ChatGPT – que roda o modelo GPT-3.5 – registrou 4,2 milhões de downloads no mesmo período, com receitas ainda em alta. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Robô humanoide “Figure 01” demonstra capacidade de observar e aprender apenas assistindo a vídeos: a máquina aprendeu a operar uma máquina de café de cápsulas de forma autônoma após 10 horas assistindo a vídeos. A demonstração em questão não é muito impressionante, mas o robô adicionou sozinho uma nova ação à sua biblioteca de tarefas, algo transferível para qualquer outro robô rodando no mesmo sistema por meio de sua rede compartilhada. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Wi-Fi Alliance começa a certificar oficialmente dispositivos Wi-Fi 7, próxima geração de rede sem fio doméstica: o padrão traz mais eficiência energética, taxas de transferência mais altas (máximo teórico de 5,8 Gbps) e maior estabilidade de sinal. Dispositivos Wi-Fi 7 serão compatíveis com versões anteriores do protocolo. Embora roteadores Wi-Fi 7 já estejam no mercado há algum tempo, a certificação assegura compatibilidade futura. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
