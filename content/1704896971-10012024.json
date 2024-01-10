@@ -1,0 +1,45 @@
+{
+    "title": "TI negocia reajuste / Brasil: novo vazamento / Bitcoin oscila com hack",
+    "fps": 30,
+    "timestamp": 1704896971,
+    "width": 0,
+    "height": 0,
+    "date": "10/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Trabalhadores de TI em São Paulo iniciam negociações salariais para 2024: na primeira rodada de negociação, o Sindpd pede aumento salarial de 7,5%, valor mínimo de 35 reais por dia para vale alimentação, extensão da licença-maternidade para 180 dias, licença-paternidade de 30 dias e alterações nas normas de rescisão contratual. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Banco de dados ElasticSearch estava expondo novamente dados de 223 milhões de brasileiros na web: as informações não estavam vinculadas a uma empresa ou organização específica, impedindo a identificação da origem do vazamento, mas as informações parecem ser as mesmas do mega vazamento ocorrido em 2021 (na época a especulação era uma invasão de uma empresa estatal ou Serasa). O servidor continha dados como nomes completos, datas de nascimento e números de CPF. As informações são do site Cybernews.",
+            "url": ""
+        },
+        {
+            "text": "Facilidade na produção de conteúdo por IAs poderá acelerar migração para comunidades de nicho e valorizar a criatividade humana: apesar de a tecnologia ter um grande potencial para gerar conteúdo falso ou medíocre na web, isso também poderá trazer aspectos positivos, como o fortalecimento de comunidades online saudáveis. Além disso, a IA poderá impulsionar uma nova era de mídia independente, sustentada por relações financeiras diretas entre criadores e seu público, em contraste com a mídia institucionalizada. As informações são do site Nieman Journalism Lab.",
+            "url": ""
+        },
+        {
+            "text": "Preço do bitcoin sofre volatilidade após conta da comissão de valores mobiliários dos EUA no X ser hackeada: um post anunciava a aguardada aprovação de um ETF de Bitcoin, um fundo negociado em bolsa que permitiria o investimento na moeda digital por meio de contas de corretagem tradicionais. O post foi deletado rapidamente, mas causou uma oscilação de 5% entre a alta e queda no preço do BTC. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "NASA adia primeira missão tripulada do Programa Artemis em dez meses: o atraso visa garantir a segurança dos quatro astronautas que irão sobrevoar a Lua e retornar à Terra, dando mais tempo para resolver desafios relacionados à espaçonave Orion. As informações são do site Space.com.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft e laboratório de pesquisa descobrem potencial novo eletrólito para baterias de íons de lítio: o material promete ser mais seguro e permitir a redução de até 70% no lítio usado. A empresa usou o cluster Azure Quantum Elements para selecionar 18 candidatos promissores dentre 32 milhões de materiais inorgânicos potenciais em apenas 80 horas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple define diretrizes para desenvolvedores de aplicativos na plataforma visionOS: com o lançamento do headset Vision Pro – previsto para 2 de fevereiro – a empresa solicita que desenvolvedores não usem descrições como AR ou VR em seus apps, mas sim “aplicativos de computação espacial”. As informações são do site Engadget.",
+            "url": ""
+        }
+    ]
+}
