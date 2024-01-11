@@ -1,0 +1,45 @@
+{
+    "title": "Blockchain: uso novo da tecnologia / Pirataria cresce / Concurso do Governo para TI",
+    "fps": 30,
+    "timestamp": 1704983379,
+    "width": 0,
+    "height": 0,
+    "date": "11/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vítima de furto de moedas digitais utiliza a tecnologia blockchain para notificar legalmente o hacker que detém seus ativos: Ryan Dellone, que perdeu 100 mil dólares em um ataque de SIM swap em 2021, está processando o portador anônimo de uma carteira de bitcoin que contém suas moedas roubadas. Esta é a primeira vez que um tribunal reconhece a utilização de informações em uma transação na rede Bitcoin – contendo um link para uma ação civil – como meio válido de notificação processual, eliminando a necessidade de conhecer a identidade do réu. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pirataria online está crescendo novamente devido a recentes práticas das grandes empresas de streaming: a remoção ou restrição de certos filmes e séries a determinadas regiões, aumento de mensalidades e fragmentação de exclusividades entre serviços tem frustrado consumidores, levando ao aumento dos downloads ilegais conforme tendências observadas nos EUA e Europa desde 2021. As informações são do site TechDirt.",
+            "url": ""
+        },
+        {
+            "text": "Concurso unificado do governo federal oferecerá 597 vagas em TI e dados: a maioria das vagas está concentrada no Ministério da Gestão e Inovação e no da Ciência e Tecnologia. As inscrições têm início em 19 de janeiro, com provas agendadas para maio deste ano – a intenção do Governo é para os aprovados assumirem suas vagas já em agosto. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI inaugura GPT Store para compartilhamento de chatbots personalizados: desde o anúncio do programa GPT Builder, em novembro do ano passado, mais de 3 milhões de bots foram criados. Inicialmente, apenas assinantes dos planos pagos poderão criar e usar os GPTs personalizados. Há também um programa de compartilhamento de receita com os criadores de GPTs, baseado no engajamento de usuários com os chatbots. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Indústria musical global bate recorde ao ultrapassar 4 trilhões de streams em 2023: o crescimento de 22% foi impulsionado por gêneros diversos, refletindo um mercado musical cada vez mais internacional – o Brasil representa 9% do total de streams (373 bilhões), ficando atrás apenas da índia (1 trilhão) e EUA (1,4 trilhão). A artista Taylor Swift foi o maior destaque, representando 1,8% de todos os streams sob demanda nos EUA. As informações são da Luminate.",
+            "url": ""
+        },
+        {
+            "text": "Dispositivos Linux estão sendo atacados por um novo tipo de worm que instala aplicativo para mineração de moedas digitais: de início, o NoaBot não parecia uma campanha muito sofisticada – seria apenas uma variante do Mirai e um miner XMRig – mas as ofuscações adicionadas ao código fonte original demonstram uma ampla capacidade de quem criou o worm. A Akamai, que fez a descoberta, criou scripts que podem ser usados para testar a infecção. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Brave Search agora pode fornecer resultados diretos para buscas relacionadas à programação: o mecanismo integrou sua nova ferramenta de IA, o CodeLLM, para detectar automaticamente consultas relacionadas à programação e fornecer trechos de código com explicações passo a passo e citações. O recurso é gratuito e está disponível para todos os usuários, tanto em desktop como mobile. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
