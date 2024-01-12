@@ -1,0 +1,45 @@
+{
+    "title": "Sindicato de TI: sem acordo / SourceHut: problema grave / IA: empresas frustradas",
+    "fps": 30,
+    "timestamp": 1705069756,
+    "width": 0,
+    "height": 0,
+    "date": "12/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sindicato de trabalhadores de TI e patronal de SP não chegam a acordo na primeira rodada de negociação salarial de 2024: os trabalhadores pedem reajuste de 7,5%, enquanto as empresas oferecem 3%. A próxima rodada de negociações ocorre nesta sexta-feira (12/01). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Drew DeVault, fundador do SourceHut, pede desculpas pela queda prolongada do serviço, a pior já enfrentada pela empresa: o problema teve início com um ataque DDoS em 10 de janeiro, ultrapassando sua capacidade. A situação foi agravada por problemas com o provedor de colocation e ações de mitigação que levaram à indisponibilidade completa dos servidores. Embora a recuperação de dados esteja a caminho, o restabelecimento dos serviços, incluindo git e hg, enfrenta desafios logísticos.O objetivo é permitir o acesso read-only o mais rápido possível e, em seguida, trabalhar no acesso read/write. DeVault solicita paciência e apoio enquanto busca soluções. As informações são da página de status da SourceHut.",
+            "url": ""
+        },
+        {
+            "text": "Empresas estão frustradas com resultado de IAs generativas: uma pesquisa recente, com 1.400 executivos, revela que 66% estão ambivalentes ou insatisfeitos com o progresso da tecnologia em suas organizações. Eles citam estratégias pouco claras, ausência de um plano responsável de implementação e preocupações adicionais, como riscos na geração de informações incorretas ou ilegais e comprometimento da segurança de dados. Apesar disso, 89% ainda consideram IAs uma prioridade para 2024, mas apenas metade espera ganhos significativos de produtividade. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam IA e descobrem que impressões digitais entre dedos de uma mesma pessoa não são únicas: certos aspectos, como ângulos e curvaturas, podem ser idênticos em um mesmo indivíduo. Avaliando 60 mil digitais, a equipe alcançou 77% de precisão na identificação de uma mesma pessoa. O estudo sugere novas abordagens para solucionar casos judiciais pendentes e desafia concepções tradicionais da ciência forense. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Rabbit vende primeiro lote de 10 mil unidades do seu dispositivo de IA de bolso em poucas horas após seu anúncio: o pequeno R1 custa 199 dólares e possui uma tela touchscreen de 2,9 polegadas, uma câmera que gira 360 graus e uma roda de rolagem para interação. O grande destaque é o sistema operacional, Rabbit OS, capaz de executar diversas ações por meio de comandos de voz, eliminando o conceito de uma interface com aplicativos. O dispositivo deve ser usado como um complemento de um smartphone e parece ter sido bem recebido pelo mercado, com um segundo lote de 10 mil unidades também já vendido e um terceiro lote já disponível para interessados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google Cloud anuncia que não cobrará mais taxas de egresso para clientes que desejam migrar dados para outros provedores de nuvem: a decisão contrasta com os concorrentes, como Azure e AWS, onde licenças restritivas ainda são vistas como um impedimento para a mudança de provedores cloud. Os serviços elegíveis para transferências gratuitas incluem BigQuery, Cloud Bigtable, Cloud SQL, Cloud Storage, Datastore, Filestore, Spanner e Persistent Disk, mas os clientes devem solicitar aprovação por meio de um formulário e têm 60 dias para transferir os dados após a aprovação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Linus Torvalds destaca kernel Linux 6.7 como “um dos maiores lançamentos” da história do sistema: o grande destaque da atualização é o novo sistema de arquivos “abcachefs”, adicionando a funcionalidade COW (Copy On Write), e assim como no zfs or btrfs, permite a criação “snapshots” instantâneos de toda ou parte de uma unidade ou volume, fornecendo ao sistema uma função de “desfazer” para conjuntos complexos de operações de gravação no disco. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
