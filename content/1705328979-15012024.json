@@ -1,0 +1,45 @@
+{
+    "title": "GitLab: falha crítica / Remoto = menos promoções / Brasil vê menos investimentos em startups",
+    "fps": 30,
+    "timestamp": 1705328979,
+    "width": 0,
+    "height": 0,
+    "date": "15/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitLab alerta para vulnerabilidade crítica de sequestro de contas sem interação do usuário por meio de emails maliciosos: a falha foi identificada como CVE-2023-7028 e com pontuação máxima de severidade (10/10). O problema foi descoberto e relatado através da plataforma de recompensa de bugs HackerOne e foi introduzido em maio de 2023, com a versão 16.1.0. O GitLab recomenda atualização urgente para instalações auto-hospedadas e ensina como detectar sinais de comprometimento em sua página de atualizações. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Trabalhadores totalmente remotos teriam menor chance de promoções e mentoria em comparação a colegas presenciais: apesar das vantagens inerentes da modalidade remota, profissionais que decidiram não retornar ao escritório estariam sendo preteridos em aspectos cruciais de progressão na carreira, apontando desafios no equilíbrio entre os benefícios do trabalho à distância e desenvolvimento profissional. As informações são do The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Investimento em startups caiu pela metade no Brasil em 2023: as 455 rodadas de investimentos totalizaram 1,9 bilhão de dólares, representando uma diminuição de 50% em volume e 56,8% em valor comparado ao ano anterior. Os setores de Fintech, RetailTech, HealthTech e EnergyTech foram os destaques do ano. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ucraniano é preso por usar contas hackeadas e criar 1 milhão de servidores virtuais para minerar moedas digitais: a Europol estima que o esquema rendeu 2 milhões de dólares em Monero. O homem teria usado ferramentas automatizadas para um ataque do tipo força bruta para descobrir as senhas de 1.500 contas de uma das maiores empresas de comércio eletrônico do mundo (o nome da empresa não foi revelado). As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI altera termos de uso para permitir aplicações militares de suas tecnologias: a startup esclareceu que o novo texto visa acomodar clientes e projetos militares de segurança nacional, como colaborações com a DARPA – agência de pesquisa avançada de defesa dos EUA – para o desenvolvimento de ferramentas de cibersegurança. A mudança não permite que as IAs sejam usadas para ferir pessoas e mantém a proibição ao desenvolvimento de armas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Artifact, aplicativo de notícias criado pelos fundadores do Instagram, está sendo encerrado um ano após seu lançamento: o app não atraiu um número suficiente de usuários para justificar novos investimentos. O projeto contava com uma equipe de oito pessoas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mantenedores do kernel Linux voltam a discutir ideia de converter código escrito em C para C++: H. Peter Anvin, um desenvolvedor de longa data do Linux, argumenta a favor do C++, destacando suas vantagens em relação ao C em termos de metaprogramação e facilidade na implementação de extensões específicas. Jiri Slaby, do SUSE Labs, e David Howells, da Red Hat, apoiam a iniciativa. Linus Torvalds, historicamente contra o uso de C++ no kernel, ainda não se manifestou. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
