@@ -1,0 +1,45 @@
+{
+    "title": "Eleições 2024: OpenAI se prepara / Falha causa tumulto / GitHub e malware",
+    "fps": 30,
+    "timestamp": 1705415367,
+    "width": 0,
+    "height": 0,
+    "date": "16/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI adota novas regras de olho em processos eleitorais que acontecerão em todo o mundo em 2024: não é mais permitido a criação de GPTs para a criação de campanhas políticas e lobby, chatbots personalizados que finjam ser pessoas reais – como algum candidato – e aplicativos que desencorajem a participação do processo de votação. A empresa também está desenvolvendo uma nova ferramenta para detectar imagens geradas pelo DALL-E e que deve ser disponibilizada em breve para jornalistas e pesquisadores. O ChatGPT também passará a integrar acesso a notícias em tempo real globalmente, destacando atribuição e links. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "“Falha técnica” em sistema de folha de pagamento de funcionários públicos provoca tumultos em Papua Nova Guiné: o governo decretou estado de emergência após uma configuração resultar em salários reduzidos. A situação foi mal interpretada como um aumento repentino de impostos, levando à greve da polícia e grandes manifestações. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Infraestrutura do GitHub tem sido frequentemente abusada para distribuição de malware, mostra relatório: a hospedagem dos softwares maliciosos no site apresenta uma grande vantagem para os criminosos já que o domínio do GitHub raramente é bloqueado por redes corporativas. O GitHub afirma ter equipes dedicadas para detectar e remover conteúdos que violem suas políticas, utilizando análises manuais e detecções em escala com aprendizado de máquina. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança Copilot Pro para assinantes do Microsoft 365 Personal ou Home: o recurso custa 20 dólares mensais adicionais e oferece acesso prioritário ao modelo GPT-4 Turbo da OpenAI, com habilidades como geração de apresentações no PowerPoint a partir de prompts, reescrita de parágrafos no Word e análise de dados no Excel. A assinatura também incluirá em breve acesso ao Copilot GPT Builder, que permitirá criar um GPT personalizado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vendas globais de PCs atingem o menor nível em 17 anos em 2023: as 241,8 milhões de unidades representaram uma queda de 14,8% em comparação a 2022. Os seis principais fornecedores, HP, Dell, Apple, Lenovo, Acer e Asus (em ordem de remessas) mantiveram suas posições no mercado. Apesar de incertezas, analistas se mostram otimistas quanto ao crescimento do segmento para 2024. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Estudo realizado pela Anthropic, rival da OpenAI, revela a possibilidade de modelos de linguagem se tornarem “agentes adormecidos” maliciosos: no experimento, a startup treinou IAs com backdoors que escreviam códigos seguros ou vulneráveis baseados no prompt fornecido. O estudo sugere que esquemas de treinamentos padrão não são suficientes para garantir a segurança desses sistemas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Lei de Resiliência Cibernética da União Europeia é aprovada com avanços significativos para desenvolvedores de software de código aberto: inicialmente, havia preocupações na comunidade sobre a responsabilidade legal de desenvolvedores por questões de segurança em componentes open source. O texto final da lei, entretanto, introduziu o conceito de “administrador de software de código aberto”, diferenciando claramente a fase de desenvolvimento – não monetizado – da fase de fornecimento de software e sua comercialização. As informações são do blog da Fundação Python.",
+            "url": ""
+        }
+    ]
+}
