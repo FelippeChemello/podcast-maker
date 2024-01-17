@@ -1,0 +1,45 @@
+{
+    "title": "YouTube: culpa é de ad blocker / IA mais empática do que médicos / Google está ruim mesmo",
+    "fps": 30,
+    "timestamp": 1705501715,
+    "width": 0,
+    "height": 0,
+    "date": "17/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desempenho degradado generalizado no YouTube é culpa de recente atualização em bloqueador de anúncio: usuários do Adblock Plus acreditavam que o site estava penalizando quem usava bloqueadores de anúncios em geral, relatando lentidão no buffer e lag na reprodução de vídeos, mas os problemas foram introduzidos na versão 3.22 do plugin (a versão 3.22.1 resolve o problema). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Chatbot de IA do Google é mais empático do que médicos em teste: o AMIE (Articulate Medical Intelligence Explorer) superou os profissionais de saúde em diagnósticos de condições respiratórias e cardiovasculares, além de mostrar alta empatia em entrevistas com pacientes simulados. Apesar de promissor, os pesquisadores enfatizam a necessidade de cautela na interpretação dos resultados e apontam para futuras investigações sobre possíveis vieses e requisitos éticos para testes com pacientes reais. A tecnologia, entretanto, poderia contribuir para a democratização do atendimento médico, mas não substituirá a relação humana na medicina. As informações são do site da revista Nature.",
+            "url": ""
+        },
+        {
+            "text": "Estudo revela deterioração na qualidade da Busca do Google: foram analisados 7.392 termos de busca durante um ano, constatando que páginas melhor ranqueadas tendem a ser mais otimizadas para SEO e apresentam sinais de menor qualidade textual. Google, Bing e DuckDuckGo apresentam os mesmos problemas, mas o Google obteve um desempenho superior. A pesquisa sugere que a ascensão IAs generativas pode agravar ainda mais essa situação, ameaçando a utilidade futura dos mecanismos de busca. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI irá formar nova equipe para garantir que IAs se “alinhem aos valores da humanidade”: o time “Collective Alignment” será formado por pesquisadores e engenheiros de várias formações técnicas para coletar e incorporar opiniões do público no comportamento de seus modelos de IA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple supera Samsung em remessas globais de smartphones pela primeira vez: a Apple vendeu 234,6 milhões de unidades e ficou com 20,1% do mercado, contra 226,6 milhões da Samsung (19,4% de participação). A Xiaomi ficou em terceiro lugar, com 145,9 milhões de dispositivos e 12,5% do mercado. Entre as três fabricantes, a Apple foi a única a registrar crescimento positivo no ano. O resultado reflete a crescente tendência nas vendas de smartphones premium. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Atualização corrige primeira vulnerabilidade zero-day no Chrome de 2024: a falha (CVE-2024-0519) estava na engine V8 e permitia acesso indevido à memória, podendo levar a vazamento de informações sensíveis ou à falha do sistema – o Google diz estar ciente de ataques ativos. As versões versões 120.0.6099.224/225 para Windows, 120.0.6099.234 para macOS e 120.0.6099.224 no Linux corrigem o problema. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor implementa atualizações que melhoram o desempenho I/O do Linux em 6% com apenas cinco minutos de trabalho: Jens Axboe, criador do IO_uring, disse que a solução era “algo que tinha em mente há anos”. As melhorias ainda estão em fase de revisão para possível inclusão em futuras atualizações do kernel do Linux. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
