@@ -1,0 +1,41 @@
+{
+    "title": "Estudo: teletrabalho e produtividade / Grande vazamento de dados / Queda em Devs cripto",
+    "fps": 30,
+    "timestamp": 1705588166,
+    "width": 0,
+    "height": 0,
+    "date": "18/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Trabalho remoto não teria impactado significativamente produtividade em diversas indústrias dos EUA desde 2020, mostra pesquisa: foram analisados 43 setores e apesar do aumento expressivo do teletrabalho durante a pandemia, com mais de 60% dos dias de trabalho sendo remotos no auge (em comparação com apenas 5% antes), não foi encontrada uma relação estatística significativa entre trabalho remoto e produtividade. O estudo também observa que, até dezembro de 2023, cerca de 30% dos dias de trabalho pagos ainda eram realizados remotamente. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador descobre um dos maiores vazamentos de senhas da história: Troy Hunt, operador da plataforma Have I Been Pwned? identificou e confirmou a autenticidade do conjunto de dados circulando em um fórum na dark web contendo 70,8 milhões de endereços de email e senhas de sites como Facebook, Roblox, eBay, Coinbase e Yahoo – 25 milhões dessas credenciais são inéditas, o que demonstra que esse parece ser um novo vazamento. Todos os emails já estão disponíveis para consulta no site Have I Been Pwned?. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Número de desenvolvedores ativos mensais em moedas digitais caiu 25% em 2023: cerca de 75% dos commits são feitos por desenvolvedores com mais de um ano de experiência no setor, evidenciando a importância da permanência desses profissionais na área, independentemente das flutuações de preço no mercado de cripto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple lidera o ranking das marcas mais valiosas do mundo: a marca registrou uma valorização de 74% no último ano, saltando para 516 bilhões de dólares. A justificativa seria sua posição dominante no mercado de smartphones premium, com 71% de participação. Compõem o Top 3, a Microsoft (340 bilhões) e Google (333 bi). Outro destaque ficou com a Nvidia, a marca com crescimento mais rápido do mundo (alta de 163%, para 44 bilhões). As informações são do site Brand Finance.",
+            "url": ""
+        },
+        {
+            "text": "Operadoras Claro, TIM e Vivo apresentam velocidades e consistência de conexão de internet móvel muito semelhantes no Brasil no quarto trimestre de 2023: a velocidade média de download gira em torno de 48 Mbps, com a Vivo liderando ligeiramente com 49,6 Mbps, seguida de perto pela TIM com 49,4 Mbps e Claro com 47,5 Mbps. Brasília se destaca como a cidade com a conexão móvel mais rápida do país, com uma velocidade média de download de 142,5 Mbps. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Samsung lança nova linha Galaxy S24: apesar do avanço no hardware, os grandes destaques foram os recursos de IA embutidos, como a tradução em tempo real em chamadas de áudio e o novo recurso “Circule para Pesquisar” – lançado em parceria com o Google – que permite destacar qualquer ponto na tela do smartphone com o gesto de um círculo, para realizar uma consulta por meio de visão computacional no mecanismo de busca. Os aparelhos agora também vêm com garantia de sete anos de atualizações completas para o sistema operacional. Os novos modelos já estão disponíveis no Brasil, com preços entre 6 mil reais (Galaxy S24, 128 GB) e 13 mil (Galaxy S24 Ultra, 1 TB). As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
