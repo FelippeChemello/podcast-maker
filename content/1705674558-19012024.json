@@ -1,0 +1,41 @@
+{
+    "title": "Zuckerberg: AGI de código aberto / Cibersegurança vs saúde / Fraude em Pix via QR Code",
+    "fps": 30,
+    "timestamp": 1705674558,
+    "width": 0,
+    "height": 0,
+    "date": "19/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mark Zuckerberg quer construir Inteligência Artificial Geral (AGI) de código aberto: em seu perfil na rede social Threads, Zuckerberg afirma que deseja tornar essa super inteligência “amplamente disponível para que todos possam se beneficiar”. A empresa passará por uma reestruturação, aproximando os dois principais grupos de pesquisa em IA. A empresa está adquirindo 350 mil novas GPUs da Nvidia e terá um potencial de computação equivalente a 600 mil H100s até o final deste ano. Ele acredita que as duas principais visões da companhia, IA e metaverso, “estão conectadas” e até o final da década, “muitas pessoas falarão com IAs com frequência ao longo do dia usando óculos inteligentes”.",
+            "url": ""
+        },
+        {
+            "text": "Volume de ataques está levando profissionais de segurança da informação a graves problemas de saúde mental e física, incluindo hospitalizações: o estudo destaca que o setor de cibersegurança é conhecido por níveis elevados de carga de trabalho, com os profissionais frequentemente se sentindo pessoalmente responsáveis pelos ataques, levando a um estado de exaustão mental e física. Em um dos casos relatados, um profissional que trabalhava no setor financeiro atribuiu um ataque cardíaco ao estresse causado por um ataque de ransomware. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Civil desmantela quadrilha que fraudava pagamentos Pix via QR Code: o esquema explorava uma vulnerabilidade de um grande banco (não informado), causando um prejuízo de 21 milhões de reais. Quatro núcleos criminosos estiveram envolvidos, incluindo operacional, responsável por explorar a vulnerabilidade e efetuar os pagamentos, prefeituras, intermediadores e financeiro, com ações em nove estados e no Distrito Federal. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bing ganha menos de 1% de participação de mercado desde a adição do Bing Chat/Copilot: o mecanismo de busca possui 3,4% do mercado global de buscas – o Google ainda domina, com 91,6% de participação. Apesar das impressões iniciais positivas sobre o Bing Chat, a maioria dos usuários continuam a preferir métodos de busca tradicionais. As informações são do site Search Engine Roundtable.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de segurança detecta 1,3 milhão de IPs distintos controlados por grupo cibercriminoso no Brasil: a gangue chamada Bigpanzi controla uma botnet de TV boxes infectadas – a maioria concentrada em São Paulo – usadas para streaming ilegal, redirecionamento de tráfego e ataques DDoS. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Netflix, YouTube e Spotify decidem não desenvolver aplicativos para o novo headset de realidade mista da Apple: as plataformas também não permitirão que seus aplicativos para iPad sejam usados no dispositivo, direcionando os usuários a acessar seus serviços por meio do navegador Safari do Vision Pro. Disney+, HBO Max e Amazon Prime Video, entretanto, já desenvolveram aplicativos nativos para o visionOS. As informações são da Bloomberg.",
+            "url": ""
+        }
+    ]
+}
