@@ -1,0 +1,41 @@
+{
+    "title": "Presencial: empresas estão desistindo / Bateria nuclear nacional / “AGI está longe”",
+    "fps": 30,
+    "timestamp": 1705933845,
+    "width": 0,
+    "height": 0,
+    "date": "22/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresas estão desistindo de forçar volta ao trabalho presencial: em uma pesquisa recente, apenas 6 de 158 CEOs nos EUA planejam priorizar o retorno ao trabalho presencial em tempo integral em 2024, refletindo o que parece ser uma mudança significativa na postura de executivos, cada vez mais conformados com a ideia da modalidade de trabalho híbrido. Entre 20% e 25% dos trabalhadores nos EUA trabalham remotamente pelo menos parte da semana, um número significativamente acima dos 3% anteriores à pandemia.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas brasileiros desenvolvem primeira bateria nuclear nacional capaz de fornecer energia por mais de 200 anos sem recarga: o gerador termoelétrico radioisotópico gera eletricidade a partir do calor de decaimento natural do amerício-241. Embora a capacidade de geração de energia atual seja baixa – suficiente apenas para acender um LED – a próxima versão visa uma potência de 100 mW. As baterias são seguras, com aplicações em dispositivos instalados em locais remotos. As informações são do site do Instituto de Pesquisas Energéticas e Nucleares.",
+            "url": ""
+        },
+        {
+            "text": "Yann LeCun, cientista-chefe de IA da Meta, enfatiza que uma IA em nível humano “vai demorar muito tempo” para ser alcançada: segundo ele, “ao contrário do que você possa ter ouvido de algumas pessoas, não há um projeto para sistema inteligente que atinjam a inteligência humana” atualmente, sendo necessário avanços científicos ainda desconhecidos. É por isso que LeCun acha prematuro legislar sobre IAs pensando que a tecnologia possa sair do controle humano neste momento. As informações são do jornal El País.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da AWS estima que 57% de todo o conteúdo na internet foi escrito e traduzido para outros idiomas por IAs: os pesquisadores acreditam ser um esquema generalizado para obter receita de anúncios por meio de buscas na web, com IAs primeiro gerando conteúdo em inglês e, em seguida, traduzido-o de forma automatizada. A pesquisa sugere que a prevalência de traduções automatizadas e não revisadas por humanos pode dificultar o treinamento de modelos de linguagem avançados, já que são necessários dados de alta qualidade para isso. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft detecta ataque em seus sistemas corporativos: a invasão, iniciada em novembro do ano passado, teria sido realizada pelo Midnight Blizzard, grupo supostamente apoiado pelo estado russo. Foi utilizada uma técnica de password spraying – utilizando uma mesma senha de uso comum em diferentes contas – para obter acesso a emails de líderes seniores. A investigação indica que eles estavam buscando quais informações os pesquisadores de segurança da Microsoft tinham sobre suas operações. As informações são do blog Microsoft Security Response Center.",
+            "url": ""
+        },
+        {
+            "text": "Usuários do registro npm baixam 2 bilhões de módulos “deprecados” (descontinuados) semanalmente: a equipe de segurança Aqua Nautilus realizou uma análise estatística baseada nos 50 mil pacotes mais baixados, alertando para os riscos associados a esses módulos, como vulnerabilidades não corrigidas – há uma ferramenta gratuita no repositório “Aqua-Nautilus/Dependency-Deprecated-Checker” para verificar problemas. É sugerido que as organizações estabeleçam protocolos de obsolescência e substituam dependências desatualizadas para mitigar riscos. As informações são do site SC Magazine.",
+            "url": ""
+        }
+    ]
+}
