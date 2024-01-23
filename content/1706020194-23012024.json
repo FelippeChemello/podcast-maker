@@ -1,0 +1,41 @@
+{
+    "title": "“Epidemia de burnout” no time do Rust / Ataque por cartucho de tinta? / Brasil reduz pirataria",
+    "fps": 30,
+    "timestamp": 1706020194,
+    "width": 0,
+    "height": 0,
+    "date": "23/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "“Epidemia de burnout” tem afetado time de desenvolvimento do Rust: Jynn Nelson, um engenheiro sênior do projeto, revela um número alarmante de desistências e casos de esgotamento entre contribuidores. A sobrecarga de trabalho, a falta de suporte gerencial e de planejamento tem contribuído para o problema, dificultando a autogestão e distribuição de responsabilidades. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "CEO da HP afirma que bloqueio de tintas de terceiros em impressoras da marca é um recurso de segurança, citando riscos de ataques por meio dos cartuchos: a empresa teria identificado uma vulnerabilidade através de seu programa de recompensas por bugs, verificando que um malware incorporado a um cartucho, poderia se instalar na impressora e dali invadir a rede – não há evidências, entretanto, de ataques do tipo no mundo real. Especialistas em segurança cibernética expressam ceticismo quanto à viabilidade desses ataques, destacando a necessidade de recursos e habilidades elevadas, geralmente voltados a alvos de alto perfil. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Brasil registra redução de 60% nos acessos a sites piratas de filmes e séries nos últimos 5 anos: a pesquisa aponta que a queda pode estar relacionada a esforços de combate à pirataria, como a Operação 404, e ao crescimento de plataformas de streaming no país. A queda no acesso à pirataria no Brasil só fica atrás do Japão (-70%). O Canadá foi um destaque negativo, classificado como um “hotspot” de pirataria, com crescimento de 40% no acesso a conteúdo pirateado nos últimos anos. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Governo vai investir 100 milhões de reais no desenvolvimento da indústria nacional de semicondutores: o valor faz parte da chamada pública “Finep Mais Inovação - Semicondutores” e visa apoiar áreas como design, fabricação, encapsulamento e testes. Apesar de significativo, o montante é modesto quando comparado aos investimentos globais, como os 53 bilhões de dólares planejados nos EUA, 44 bilhões na Europa e 41 bilhões na China. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Dados de 15 milhões de usuários do Trello estão à venda em fórum de hackers: o alerta vem do serviço “Have I Been Pwned”. Embora o Trello não tenha sido diretamente violado, os hackers teriam obtido acesso a emails e nomes de usuário por meio de scraping do site. A Trello confirma que não houve invasão de seus servidores, mas há preocupações com possíveis ataques de phishing usando esses dados. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Tesla lança versão 12 do sistema de direção autônoma, introduzindo redes neurais de ponta a ponta: a atualização substitui 300 mil linhas de código C++ – escritas por programadores humanos – por um sistema controlado por IA, treinado com milhões de clipes de vídeo de direção. A atualização, ainda em fase beta, cria expectativas de que possa finalmente cumprir a promessa de direção autônoma da montadora – críticos avaliam esta versão como crucial, pois se não funcionar, a Tesla pode ter que abandonar a ideia com o hardware atual. As informações são do site Electrek.",
+            "url": ""
+        }
+    ]
+}
