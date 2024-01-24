@@ -1,0 +1,41 @@
+{
+    "title": "Novo vazamento histórico / Metacrimes / Notícia boa para PCs",
+    "fps": 30,
+    "timestamp": 1706106621,
+    "width": 0,
+    "height": 0,
+    "date": "24/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Novo vazamento de credenciais é considerado um dos maiores já descobertos, com 26 bilhões de registros e 12 terabytes de informações: as 3.800 pastas compilam milhares de bancos de dados vendidos privadamente, contendo registros de várias violações anteriores, mas também dados ainda não publicados, contendo nomes de usuário e senhas de plataformas como LinkedIn, Twitter, Deezer, Adobe, Canva, Dropbox e Telegram. Além disso, o vazamento inclui registros de várias organizações governamentais globais, inclusive do Brasil. As informações são do site Cybernews.",
+            "url": ""
+        },
+        {
+            "text": "Interpol alerta para crescimento dos “metacrimes”: aliciamento, radicalização, roubo de avatares e propriedade virtual, e invasão de espaços virtuais privados são alguns dos crimes categorizados. Destaca-se a complexidade de investigações, incluindo a ausência de evidências físicas e a volatilidade de provas digitais. A Interpol enfatiza a necessidade de colaboração entre países para o enfrentamento desses crimes, destacando o metaverso projetado pela organização para treinamento de forças policiais globais. As informações são do site da Interpol.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft definirá “PCs de IA” com no mínimo 16 GB de memória RAM, impulsionando significativamente as especificações de computadores vendidos no mercado e beneficiando consumidores: além disso, será necessário uma NPU (Neural Processing Unit) com no mínimo 40 TOPS (Tera-Operações Por Segundo) para inferência local – ato de utilizar uma rede neural para fornecer respostas após ela ter sido treinada. O mesmo aconteceu no passado, com o lançamento do Windows 7 em 2009, exemplificando como requisitos de software forçaram o mercado de PCs a evoluir. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "TSE recebe 945 sugestões da sociedade para definição de normas para as eleições deste ano: o número é recorde, quase 3 vezes maior do que as propostas recebidas no pleito passado. As audiências ocorrem até 25 de janeiro e são transmitidas no canal do YouTube do tribunal, discutindo temas como registro de candidaturas, propaganda eleitoral e uso de inteligência artificial em campanhas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Chrome apresenta três novas funcionalidades baseadas em IA: a partir da versão 121 – disponível para Windows e macOS nos EUA inicialmente – o navegador poderá sugerir grupos das abas abertas pelo usuário, gerar temas customizados a partir de um prompt de texto e oferecer sugestões de escrita em qualquer campo de texto na web. As funcionalidades são experimentais e não estarão disponíveis para contas empresariais e educacionais por enquanto. Para ativar os recursos é preciso selecionar “Configurações” no menu de três pontos e navegar até a seção “IA Experimental”. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla destaca desvantagens enfrentadas por navegadores independentes devido a práticas desleais de gigantes da tecnologia: ao controlar sistemas operacionais e dispositivos, a Apple, Google e Microsoft dificultam a escolha e uso de navegadores concorrentes através de várias táticas, como dificultar o download ou ignorar preferências de navegador padrão dos usuários. A Mozilla lançou um novo rastreador de problemas, chamado “Platform Tilt”, para documentar as desvantagens enfrentadas pelo Firefox e convida outros desenvolvedores de navegadores a fazer o mesmo. As informações são do blog da Mozilla.",
+            "url": ""
+        }
+    ]
+}
