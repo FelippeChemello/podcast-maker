@@ -1,0 +1,41 @@
+{
+    "title": "DevEx dá muito resultado / Memorando vazado do Google / Fuga de cérebros",
+    "fps": 30,
+    "timestamp": 1706193013,
+    "width": 0,
+    "height": 0,
+    "date": "25/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo do GitHub mostra que um bom DevEx (Developer Experience) aumenta produtividade: a pesquisa analisou empresas de diferentes setores e demonstrou que fatores como estado de fluxo (termo da psicologia para um estado mental em que uma pessoa está totalmente imersa no que está fazendo), carga cognitiva e ciclo de feedbacks melhoram significativamente os resultados de indivíduos, equipes e das organizações como um todo. O tempo dedicado ao trabalho profundo aumenta a produtividade dos desenvolvedores em 50%. Revisões de código mais rápidas resultam em 50% menos dívida técnica. A pesquisa é importante porque fornece dados concretos para executivos que demonstram resistência em investir em experiência do desenvolvedor. As informações são do site GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Memorando vazado do Google revela os sete objetivos da empresa para 2024: escrito pelo CEO Sundar Pichai, as metas são “entregar a IA mais avançada, segura e responsável do mundo; melhorar o conhecimento,  aprendizado, criatividade e produtividade; construir plataformas e dispositivos de computação pessoal mais úteis; permitir que organizações e desenvolvedores inovem no Google Cloud; fornecer os produtos e plataformas mais confiáveis do mundo; construir um Google que seja extraordinário para os Googlers (como são chamados os funcionários da empresa) e para o mundo; melhorar a velocidade, eficiência e produtividade da empresa e entregar economias de custos duráveis”. O vazamento ocorre em um período de descontentamento interno no Google, com funcionários expressando incerteza e desilusão quanto ao futuro na companhia. As informações são da revista Inc. Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Setor acadêmico está enfrentando “fuga de cérebros” em inteligência artificial: recém formados doutores em IA estão optando por carreiras na indústria de tecnologia após a graduação. O número de pessoas ingressando em programas de PhD na área também tem caído. A alta remuneração oferecida pelas empresas do setor, como OpenAI e Anthropic, é um fator chave, com salários iniciais entre 700 mil e 900 mil dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Valor de mercado da Microsoft ultrapassa 3 trilhões de dólares pela primeira vez: apenas para comparação, o PIB do Brasil estimado para 2023 é de 2 trilhões de dólares. As ações da empresa registraram uma valorização de mais de 60% no último ano, um reflexo dos investimentos em IA e suas tecnologias. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lucro da Tesla sobe 19%, para 15 bilhões de dólares em 2023: apesar do bom resultado, a empresa prevê um mercado mais difícil para vendas de veículos em 2024, tendo que enfrentar concorrentes como a BYD, uma das principais montadoras de veículos elétricos no mundo. Elon Musk também anunciou que o próximo veículo da Tesla está previsto para o final de 2025 – especula-se que seja um compacto – afirmando que a plataforma “vai revolucionar a forma como os veículos são fabricados”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação desenvolvem algoritmo simples e eficaz para o gerenciamento de cache na web: o SIEVE promete transformar a gestão de tráfego web em larga escala, fazendo pequenas mudanças na abordagem FIFO (primeiro a entrar, primeiro a sair, na sigla em inglês), promovendo ou rebaixando objetos com base em sua popularidade. O mecanismo demonstrou uma taxa de erro menor em comparação com outros nove algoritmos em mais de 45% dos casos. As informações são do site TechXplore.",
+            "url": ""
+        }
+    ]
+}
