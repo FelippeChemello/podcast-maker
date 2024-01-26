@@ -1,0 +1,41 @@
+{
+    "title": "Dívida técnica é altíssima / OpenAI reduz preços / Apple anuncia grandes mudanças",
+    "fps": 30,
+    "timestamp": 1706279229,
+    "width": 0,
+    "height": 0,
+    "date": "26/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Custo acumulado da dívida técnica no desenvolvimento de software nos EUA chega a 1,5 trilhão de dólares: a dívida técnica se acumula quando os tomadores de decisão optam por uma solução de curto prazo para um problema, em vez de uma solução mais abrangente e de longo prazo. Para a autora do artigo, uma parte significativa da dívida técnica atual foi criada por meio de técnicas de desenvolvimento como Agile, sem a disciplina da engenharia de software. (Obs.: essa informação é de junho de 2023 e apenas agora chegou à nossa atenção, mas achamos muito interessante e decidimos trazê-la aqui para a Newsletter). As informações são do Medium de Itza Reyes.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI reduz preços de acesso à API do GPT-3.5 e melhorias no GPT-4 Turbo: o custo do GPT-3.5 Turbo foi reduzido em 50% para inputs e 25% para outputs. O GPT-4 Turbo recebeu uma atualização que promete ser mais eficiente na geração de código e reduzir os casos de “preguiça” em que o modelo se recusa a realizar uma tarefa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia grandes mudanças no iOS, Safari e App Store para cumprir nova lei na União Europeia: as alterações incluem novas APIs para o chip NFC, opções de pagamentos e distribuição de apps fora da App Store, e a possibilidade de usar navegadores com engines alternativas ao WebKit (como Blink, do Chromium, ou Gecko, do Firefox). A Apple deixa claro que discorda da lei e afirma que as mudanças estarão disponíveis apenas para usuários europeus porque aumentam riscos de segurança e reduzem a privacidade. Desenvolvedores podem começar a testar as novas funcionalidades a partir do beta do iOS 17.4, já disponível. As informações são da página de imprensa da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Pequeno helicóptero Ingenuity encerra sua missão em Marte após quase três anos de operação: o veículo realizou 72 voos, superando em muito a estimativa inicial de apenas 5 planejados. O Ingenuity sofreu danos em uma lâmina do rotor em seu último pouso, perdendo a capacidade de voar. O helicóptero demonstrou que o voo controlado em Marte é possível e deve influenciar futuras missões de exploração espacial. As informações são do site da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Crianças e adolescentes passaram 60% mais tempo no TikTok do que no YouTube no ano passado: o estudo, que avaliou jovens entre 4 e 18 anos em todo o mundo, revelou que eles passaram em média 112 minutos diários no TikTok (+4,6%). Apesar disso, o YouTube alcançou recorde de visualizações, com 96 minutos diários (+14%). Em termos de aplicativos de mensagens, o WhatsApp foi o mais popular, mas o Snapchat liderou em tempo de uso. Entre videogames, o Roblox foi o mais popular (usado por 48% das crianças, com uma média de 130 minutos por dia), seguido por Minecraft (17% e 47 minutos). As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Project IDX do Google adiciona suporte experimental para o desenvolvimento de aplicativos iOS diretamente no navegador, sem a necessidade de um Mac: o Project IDX é um ambiente completo de desenvolvimento na nuvem, incluindo um editor de código, terminal e modelos de projeto para o desenvolvimento de aplicativos web e multiplataforma. A atualização também traz suporte aprimorado ao Docker, adição de novos modelos de projeto para Astro, Go, Python/Flask, Qwik, Lit, Preact, SolidJS e NodeJS, além de ficar disponível em mais 15 países, incluindo o Brasil. Para usar o sistema, é preciso participar de uma lista de espera, disponível no site do projeto. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
