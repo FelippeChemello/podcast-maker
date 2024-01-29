@@ -1,0 +1,41 @@
+{
+    "title": "Alerta sobre o Copilot / Inspeção das Urnas / “Farsa” da Apple",
+    "fps": 30,
+    "timestamp": 1706538412,
+    "width": 0,
+    "height": 0,
+    "date": "29/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa encontra “pressão descendente na qualidade do código” escrito pelo GitHub Copilot: o estudo analisou 153 milhões de linhas de código, identificando “tendências desconcertantes” para a manutenção de uma base no longo prazo. Foram encontradas correlações com a quantidade de código escrito com assistentes de IA e linhas que são revertidas ou atualizadas menos de duas semanas após serem criadas, e uma tendência crescente nas adições de código, sugerindo uma redução do reaproveitamento e refatoração. As informações são do site Visual Studio Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Inspeção do código-fonte das urnas eletrônicas para as Eleições Municipais de 2024 começa nesta segunda-feira: um representante da Sociedade Brasileira de Computação irá conferir os sistemas eleitorais visitando o Tribunal Superior Eleitoral em Brasília. A abertura do código-fonte da urna é um procedimento obrigatório e realizado pelo TSE um ano antes de cada eleição. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Para Mozilla, regras para adoção de novas engines em navegadores no iOS na Europa são “decepcionantes” e as mais “dolorosas possíveis”: as restrições impostas pela Apple forçarão navegadores independentes a manter duas implementações distintas – WebKit e Gecko, por exemplo – o que pode não ser viável para o Firefox. A Spotify também criticou as novas regras referentes a lojas de aplicativos de terceiros e comissões sobre assinaturas e venda de aplicativos, afirmando que as mudanças anunciadas pela Apple são uma “extorsão” e “completa farsa” sob o falso pretexto de cumprimento da lei. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia detém entre 70% e 90% do mercado de chips aceleradores de IA: e apesar do destaque em relação ao hardware, software continua sendo o diferencial estratégico da empresa frente aos concorrentes com o CUDA Toolkit, um ambiente de desenvolvimento para a criação de aplicativos de alto desempenho em GPUs. Atualmente, 80% da receita da companhia vem de chips de IA para data centers e o segmento de GPUs para jogos contribui com apenas 16%. As informações são do site Yahoo! Finance.",
+            "url": ""
+        },
+        {
+            "text": "Escrita à mão promove o aprendizado de forma mais eficaz do que digitação em teclados: o estudo analisou os dados eletroencefalográficos de 36 universitários, mostrando diferenças significativas nas conexões cerebrais envolvidas na formação da memória e codificação de novas informações, evidenciando a importância de se compreender as implicações da substituição gradual da escrita manual por dispositivos digitais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Rumores apontam que o iOS 18 promete receber a “maior” atualização desde o lançamento do iPhone: de codinome Crystal, o sistema operacional incluirá uma versão aprimorada da Siri com um modelo de linguagem e integração por todo o sistema operacional. O código do iOS 17.4 sugere que a Apple está testando diferentes modelos de IA, chamados internamente de “Ajax”, com processamento local e também na nuvem. Além disso, o Xcode – IDE para desenvolvimento de aplicativos para dispositivos da marca – contará com um assistente de código. A expectativa é que as novidades sejam anunciadas na conferência de desenvolvedores WWDC prevista para junho deste ano. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
