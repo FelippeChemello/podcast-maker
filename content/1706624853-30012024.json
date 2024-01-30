@@ -1,0 +1,41 @@
+{
+    "title": "Meta lança novo Code Llama / Pagamentos de resgate caem / Taxa de rede para Big Techs",
+    "fps": 30,
+    "timestamp": 1706624853,
+    "width": 0,
+    "height": 0,
+    "date": "30/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta lança Code Llama 70B: o novo modelo, treinado em 1 TB de código, está disponível gratuitamente para uso comercial ou pesquisa. Há duas versões extras disponíveis – uma especializada em Python e outra com ajuste fino para entender instruções em linguagem natural. O Code Llama 70B supera as versões anteriores, com 53% de acerto no benchmark HumanEval, superando o GPT-3.5 (48%) e aproximando-se do GPT-4 (67%). As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pagamento de resgates em ataques de ransomware cai para um mínimo recorde no último trimestre de 2023: apenas 29% das vítimas decidiram pagar os valores de extorsão requeridos pelos criminosos – em 2019, essa taxa era de 85%. O declínio se deve a uma maior preparação das empresas, desconfiança das promessas de não publicação dos dados roubados e pressão legal em alguns países, nos quais pagar resgate é ilegal. O valor médio dos pagamentos também caiu, para uma média de 568 mil dólares, uma redução de 33% na comparação com o trimestre anterior. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Anatel estuda criar uma nova “taxa de rede” para grandes empresas de tecnologia no Brasil: a intenção seria distribuir os custos de infraestrutura entre Big Techs, como Meta e Google, e as operadoras de telefonia. Contudo, um estudo citado pela própria Anatel indica que as operadoras no Brasil mantêm boas margens financeiras, questionando a validade das reclamações sobre insuficiência de fundos para manter e expandir a infraestrutura de rede. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Quarta rodada de negociação salarial entre sindicato de trabalhadores de TI e patronal de SP termina sem acordo: há discordâncias sobre o valor do reajuste salarial e do vale-refeição. O Sindpd/SP, representante dos trabalhadores, propôs aumento de 4,7% para 2024 e “INPC + 1%” para 2025, com aumento do vale-refeição de 30 reais para 2024 e 35 reais para 2025. As empresas, representadas pelo Seprosp, oferecem reajuste de 4% para 2024 e do INPC para 2025, mantendo o vale-refeição em 25 reais para 2024 e um reajuste de INPC + 1 real para o próximo ano. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Neuralink implanta, com sucesso, primeiro chip cerebral em um humano: o paciente está se recuperando bem, com “promissora detecção” de atividade neuronal. O objetivo do estudo PRIME é avaliar a segurança e a funcionalidade de uma interface cérebro-computador sem fio, possibilitando que pessoas quadriplégicas controlem dispositivos através do pensamento – o primeiro produto da Neuralink irá se chamar “Telepathy”. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "ICANN propõe a criação do TLD “.INTERNAL”: o novo domínio de topo serviria para uso interno exclusivo, similar ao bloco IPv4 192.168.x.x, que não é conectado à internet aberta. O.INTERNAL foi escolhido em detrimento ao .PRIVATE por causa da possibilidade de criar uma impressão errada sobre a privacidade de dados e com maior potencial para significados conflitantes em outros idiomas. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
