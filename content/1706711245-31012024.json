@@ -1,0 +1,41 @@
+{
+    "title": "Atenção: novas regras para emails / Jogos superam Windows / Vaga para Windows 3.11",
+    "fps": 30,
+    "timestamp": 1706711245,
+    "width": 0,
+    "height": 0,
+    "date": "31/01/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google inicia, a partir de amanhã (01/fev), novas regras para envio de emails em massa: quem enviar mais de 5.000 mensagens para contas Gmail por dia precisará configurar a autenticação SPF/DKIM e DMARC para seus domínios, manter a taxa de spam reportada abaixo de 0,1% e fornecer uma opção de descadastramento em um único clique. Quem não atender a esses requisitos poderá ter emails não entregues ou marcados como spam. As informações são da página de suporte do Google Workspace.",
+            "url": ""
+        },
+        {
+            "text": "Receita da divisão de jogos da Microsoft ultrapassa a do Windows pela primeira vez: o resultado foi impulsionado pela aquisição da Activision Blizzard, tornando a divisão o terceiro maior negócio em receita da companhia (7,1 bilhões de dólares) – Azure (23,9 bilhões) e Office (13,5 bi) são as duas maiores divisões, contribuindo com quase 60% da receita total da empresa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Empresa ferroviária alemã anuncia vaga para Admin de Windows 3.11, enfatizando a necessidade de experiência com MS-DOS: o administrador será responsável por lidar com PCs com processadores de 166 MHz e 8 MB de RAM, utilizados para exibir dados técnicos em tempo real de trens. Este caso ressalta como hardware e software obsoletos continuam sendo utilizados em aplicações críticas – o Windows 3.11 foi lançado em 1993. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Operador de site de pirataria alemão entrega 50 mil BTC (o equivalente a 10 bilhões de reais) para a polícia: o Movie2K, popular nos países de língua alemã, gerava receita com anúncios e assinaturas, e seus operadores convertiam os valores recebidos em bitcoin desde 2012, quando um BTC valia entre 25 e 65 reais (hoje vale mais de 200 mil reais). A apreensão, seria uma das maiores do tipo em todo o mundo. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Lucro líquido do Google sobre 23%, para 73,8 bilhões em 2023: para o CEO Sundar Pichai, os destaques ficaram com as receitas em Buscas, YouTube e Google Cloud, todas com crescimento (12%, 15% e 25%, respectivamente). O número de funcionários caiu 4%, para 182.502 pessoas, e a empresa se mantém comprometida em reduzir gastos recorrentes à medida que investe em novas oportunidades de crescimento ao entrar na “era Gemini”, seu novo modelo de IA. As informações são do site da Alphabet.",
+            "url": ""
+        },
+        {
+            "text": "Intel retoma liderança da Samsung no setor de semicondutores – Nvidia sobe ao pódio pela primeira vez: a indústria global de semicondutores sofreu uma queda de 8,8% na receita em 2023, principalmente devido à redução nos gastos empresariais e de consumidores. A Intel recuperou a liderança em receita, com a Samsung enfrentando dificuldades no setor de memória e smartphones. A Nvidia quase dobrou suas receitas e tirou a terceira posição da Qualcomm. A AMD manteve-se na sétima posição. As informações são do site da Counterpoint Research.",
+            "url": ""
+        }
+    ]
+}
