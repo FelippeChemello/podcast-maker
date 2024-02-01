@@ -1,0 +1,41 @@
+{
+    "title": "Microsoft quer Rust / Retorno ao escritório: novo estudo / Ameaças biológicas e IAs",
+    "fps": 30,
+    "timestamp": 1706797657,
+    "width": 0,
+    "height": 0,
+    "date": "01/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft está formando uma equipe para reescrever código do Microsoft 365, baseado em C#, para Rust: o foco é modernizar os serviços da plataforma em escala global, destacando o interesse crescente da empresa no Rust, evidenciado pela integração da linguagem em vários componentes do Windows. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Estudo constata que retorno ao escritório não resultou em melhorias significativas no desempenho das empresas: a pesquisa, realizada pela Universidade de Pittsburgh, focada em 137 empresas dos EUA, sugere que os gestores exigiram o retorno ao escritório apenas para reafirmar controle sobre os empregados, sem observar mudanças significativas em termos de rentabilidade e valorização no mercado de ações após a implementação das ordens. Além disso, notou-se que a satisfação dos empregados diminuiu com essa política, impactando negativamente o equilíbrio entre vida profissional e pessoal. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI está construindo um sistema de alerta precoce para a identificação de ameaças biológicas criadas por IAs: a startup está avaliando se o GPT-4 poderia aumentar significativamente o acesso de atores mal-intencionados a informações perigosas sobre a criação de ameaças biológicas, em comparação com recursos existentes, como a internet. Um estudo preliminar, entretanto, não demonstrou diferenças significativas. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Starlink está transmitindo mais de 42 petabytes de dados por dia para clientes globais: o grande destaque tem sido o sistema “laser link”, que ajuda a reduzir a latência e melhora a cobertura global do serviço, criando uma rede em malha no espaço. O sistema tem mantido um uptime acima de 99%, com capacidade de 100 Gbps por link. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "FBI interrompe botnet usada por hackers que atacavam infraestruturas críticas nos EUA: o grupo sequestrava roteadores e câmeras IP de pequenos escritórios e residências, misturando atividades maliciosas com tráfego legítimo para evitar detecção. Dispositivos de marcas como Netgear e Cisco foram comprometidos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Edge está importando praticamente todos os dados do Chrome sem permissão de usuários: até mesmo as abas abertas da sessão do Chrome são abertas toda vez que o Edge é iniciado. Relatos de usuários no Windows indicam que mesmo com as configurações ajustadas para impedir a sincronização, ela ainda acontece. A Microsoft ainda não comentou oficialmente sobre o problema. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
