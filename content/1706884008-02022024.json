@@ -1,0 +1,41 @@
+{
+    "title": "Receita vai atrás de bitcoins / Cloudflare responde à ataque / CGIbr contra usina",
+    "fps": 30,
+    "timestamp": 1706884008,
+    "width": 0,
+    "height": 0,
+    "date": "02/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Receita Federal do Brasil identifica 25.126 contribuintes que não declararam posses em bitcoin no Imposto de Renda: o órgão afirma ter utilizado técnicas de investigação tradicional aliado à inteligência artificial. Estes contribuintes possuem ao menos 0,05 bitcoin cada, totalizando um valor não declarado acima de 1 bilhão de reais. A omissão de tais informações é considerada crime fiscal. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare troca todos os equipamentos do novo data center de São Paulo após tentativa de invasão hacker: os servidores, que ainda não estão em produção, foram todos devolvidos para os fornecedores, que fizeram uma inspeção forense, mas nada foi encontrado. Mesmo assim, a Cloudflare decidiu trocar todo o hardware por precaução. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Comitê Gestor da Internet no Brasil (CGIbr) emite nota pública expressando preocupação com a construção de uma usina de dessalinização em Fortaleza, Ceará: há um grande risco para a infraestrutura crítica de telecomunicações e internet de todo o Brasil – a região abriga um importante hub digital com 17 sistemas de cabos submarinos e data centers. O CGIbr apoia o posicionamento da Anatel e empresas de telecomunicações, recomendando a revisão do local da usina e a realização de novos estudos para garantir a segurança das infraestruturas existentes. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pelo 17º ano consecutivo, Apple fica em primeiro lugar como empresa mais admirada do mundo em ranking da revista Forbes: a colocação foi baseada em uma pesquisa com 3.700 executivos, diretores e analistas. Pelo quinto ano consecutivo, Amazon e Microsoft completam o pódio. A Alphabet/Google ficou na 7ª posição. O grande destaque ficou com a Nvidia, que entrou para o Top 10 na 10ª posição. As informações são do site da revista Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Google atualiza Bard com modelo Gemini Pro e gerador de imagens no Brasil: o Gemini Pro é mais avançado em raciocínio, planejamento e compreensão. O modelo Imagen 2 consegue criar imagens fotorrealistas a partir de descrições textuais (os prompts precisam ser escritos em inglês, entretanto, mesmo no Brasil). As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Apple, Meta e Amazon apresentam resultados trimestrais: a Apple lucrou 33,9 bilhões de dólares, alta de 13%, com destaque positivo para o crescimento no segmento de serviços (+11%) e neutro nas vendas de dispositivos (sem crescimento). A Meta registrou uma expressiva alta no seu lucro líquido (201%), para 14 bilhões, com cortes de custos e recuperação nas vendas de publicidade online. A Amazon lucrou 10,6 bilhões, recuperando o prejuízo no mesmo período do ano passado, impulsionada por fortes gastos do consumidor durante a temporada de compras de fim de ano. As informações são das páginas de relação com investidores das companhias.",
+            "url": ""
+        }
+    ]
+}
