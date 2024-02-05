@@ -1,0 +1,41 @@
+{
+    "title": "Sindicato chega em acordo / Zuckerberg explica IAs de código aberto / “sudo” no Windows",
+    "fps": 30,
+    "timestamp": 1707143248,
+    "width": 0,
+    "height": 0,
+    "date": "05/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após cinco rodadas de negociações, sindicatos dos trabalhadores e patronal de TI em São Paulo chegam em acordo para a Convenção Coletiva de Trabalho 2024/2025: o acordo inclui aumento salarial de 4% e reajuste de 25% no vale-refeição (para 28 reais em 2024 e 30 reais em 2025). Além disso, prevê reajustes nos pisos salariais – 2.245 reais para Técnico de Informática – e melhorias em benefícios como auxílio creche e transporte noturno. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg explica as vantagens estratégicas de a Meta abrir o código de suas IAs: o código aberto melhora a segurança, a eficiência e reduz custos de computação, além de atrair um bom feedback da comunidade. Ele também destaca que o software de código aberto frequentemente se torna um padrão da indústria, facilitando sua integração nos produtos da Meta, além de ser popular entre desenvolvedores e pesquisadores, auxiliando no recrutamento de talentos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está implementando o comando “sudo” do Unix no Windows: a funcionalidade ainda está em desenvolvimento e foi observada em uma versão vazada do Windows Server 2025. O sudo permite que usuários com baixos privilégios executem comandos com privilégios elevados, geralmente como root. Essa integração sinaliza um esforço da Microsoft para trazer mais recursos disponíveis no Linux para o Windows. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Japão introduzirá novo visto de residência de seis meses para nômades digitais, visando atrair, especialmente, profissionais de TI: o visto permitirá que profissionais altamente qualificados trabalhem remotamente no país, combinando suas atividades profissionais com viagens turísticas. Para serem elegíveis, os candidatos devem ter uma renda anual equivalente a 10 milhões de ienes (340 mil reais) e ter seguro de saúde privado. As informações são da Nikkei.",
+            "url": ""
+        },
+        {
+            "text": "Mineração de moedas digitais já consome mais de 2% da eletricidade total nos EUA: com a migração de operações da China para os EUA, onde as tarifas de eletricidade são baixas, o país passou a abrigar 38% da mineração global em 2022. Os produtores também têm encontrado uma série de estratégias para manter os custos de energia baixos, como assumir uma antiga fábrica de fundição de alumínio ou se instalar ao lado de uma usina nuclear com uma conexão direta. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google não fará mais backups de sites durante o crawl da web e retira links de “cache” em buscas: segundo Google, a função se tornou cada vez menos necessária ao longo dos anos. Embora ainda seja possível criar links de cache manualmente, a eliminação da funcionalidade aumenta a responsabilidade do Internet Archive em arquivar e rastrear mudanças nas páginas da web. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
