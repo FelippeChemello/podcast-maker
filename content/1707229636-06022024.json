@@ -1,0 +1,41 @@
+{
+    "title": "Google investe em Rust / Deepfake causa prejuízo / Ações da Meta explodem",
+    "fps": 30,
+    "timestamp": 1707229636,
+    "width": 0,
+    "height": 0,
+    "date": "06/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google doa 1 milhão de dólares para a Rust Foundation com o objetivo de aprimorar a interoperabilidade entre Rust e C++: a iniciativa visa superar um dos maiores obstáculos para a adoção mais ampla do Rust, que é a integração com os extensos códigos legados escritos em C++. O investimento é parte de um esforço maior para promover linguagens mais seguras como o Rust, especialmente considerando que a maioria das vulnerabilidades do Google são oriundas de falhas de segurança de memória. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de Hong Kong perde 25 milhões de dólares após golpistas usarem deepfakes para se passarem pelo diretor financeiro e outros funcionários durante videoconferência: as transações em dinheiro foram ordenadas durante uma reunião onde foi constatado que todos os presentes na chamada de vídeo, exceto a vítima – um funcionário do departamento financeiro – eram deepfakes de pessoas reais. O funcionário, inicialmente cético, acabou realizando 15 transferências para cinco contas bancárias após a videochamada. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta registra o maior aumento de valor de mercado em um único dia na história de Wall Street: a alta de 20% na sexta-feira adicionou 197 bilhões de dólares à capitalização de mercado da companhia. Os investidores gostaram da expressiva alta de 201% no lucro líquido do último trimestre, para 14 bilhões, e da redução do quadro de funcionários em 22% em 2023. Essa notícia acabou ficando de fora da edição de ontem da Newsletter, mas achamos interessante deixar registrado na edição de hoje, mesmo com atraso. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que profissionais de alto desempenho são mais propensos a deixar empregos quando empresas exigem retorno ao escritório: em geral, trabalhadores são 8% menos propensos a ficarem em um emprego com horários inflexíveis – esse número dobra para aqueles de alto desempenho. O estudo, que entrevistou 2.100 pessoas, embora também tenha mostrado que o engajamento aumenta com o trabalho presencial, a falta de autonomia desencoraja os profissionais mais eficientes, que preferem estruturar sua própria rotina. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Trio ganha o grande prêmio de 700 mil dólares do “Desafio do Vesúvio” por leitura de parte dos Papiros de Herculano, documentos carbonizados pela erupção do Monte Vesúvio há 2 mil anos: o desafio, co-fundado Nat Friedman, ex-CEO do GitHub, premiou Luke Farritor, Yousef Nader e Julian Schilliger. Os pergaminhos, impossíveis de serem aberto fisicamente sem danos, foram digitalizados em alta resolução por técnicas de tomografia computadorizada e interpretados usando visão computacional e aprendizado de máquina. O texto trata dos prazeres da vida, contribuindo para o entendimento do sistema filosófico do Epicurismo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "AnyDesk reseta senhas e revoga certificados após ataque: hackers comprometeram os sistemas de produção, resultando em uma paralisação de quase uma semana na provedora de software de acesso remoto. A empresa afirma ter mais de 170.000 clientes e é popular entre profissionais de TI. Não há evidências de que dados de clientes tenham sido acessados e a AnyDesk assegura que a situação está sob controle. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
