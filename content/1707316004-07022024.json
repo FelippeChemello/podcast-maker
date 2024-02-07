@@ -1,0 +1,41 @@
+{
+    "title": "Controvérsia: DDoS por escovas de dente / Google quer mudar Bard / Bluesky liberado",
+    "fps": 30,
+    "timestamp": 1707316004,
+    "width": 0,
+    "height": 0,
+    "date": "07/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Notícia de que três milhões de escovas de dentes inteligentes infectadas foram usadas em ataque DDoS contra empresa suíça pode ser engano: a história surgiu em um site de notícias alemão – as escovas, que supostamente se conectavam à internet para rastrear e monitorar a higiene bucal dos usuários, teriam sido invadidas devido a uma vulnerabilidade do seu sistema operacional, baseado em Java (a marca das escovas não foi revelada). Entretanto, nas redes sociais, a situação tem sido tratada como um cenário hipotético, apenas potencial, e não algo que aconteceu de verdade. As informações são do site Tom's Hardware e Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Google estaria planejando renomear assistente Bard para Gemini: a mudança deve ocorrer amanhã, dia 8. A descoberta foi feita por Dylan Roussel, desenvolvedor de aplicativos Android famoso por antecipar várias alterações em softwares do Google. Além da mudança de nome, o assistente receberá melhorias na interface e usabilidade. Também estaria prevista uma versão paga, chamada Gemini Advanced, que usará o modelo de IA mais avançado da empresa, mas disponível inicialmente apenas em inglês. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Bluesky, rede social criada por Jack Dorsey, cofundador do Twitter, abre acesso generalizado, sem a necessidade de convites: a plataforma já conta com três milhões de usuários e se destaca por oferecer um sistema de federação, que permite aos usuários hospedar seus próprios servidores e manter o controle sobre seus dados. A rede também possui um sistema de moderação configurável, permitindo aos usuários adicionar ou remover listas de moderação e serviços de checagem de fatos. As informações são do blog da Bluesky.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia se aproxima da Amazon e Alphabet (Google) em valor de mercado: as ações da companhia já subiram 43% apenas neste começo de 2024, alcançando uma capitalização de mercado de 1,7 trilhão – a Amazon vale 1,76 trilhão e o Google, 1,8 tri. O crescimento é atribuído à grande demanda por seus chips aceleradores de IAs. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do CERN propõem a construção de novo acelerador de partículas, sete vezes mais potente e três vezes maior do que o Grande Colisor de Hádrons: o Future Circular Collider, terá 91 km de circunferência e energia máxima de 100 teraelectronvolts, visando explorar mistérios do universo como a matéria escura e energia escura. O CERN planeja obter aprovação para a construção do acelerador nos próximos cinco anos, com um orçamento de 21 bilhões de dólares. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Confiança em sistemas de biometria facial está em declínio devido ao aumento dos ataques com imagens falsas geradas por inteligência artificial: até 2026, 30% das empresas deixarão de utilizar esse método de autenticação de forma isolada. Medidas adicionais, como identificação de dispositivos e análise comportamental se mostrarão necessários para aumentar as chances de detecção de fraudes. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
