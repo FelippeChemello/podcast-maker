@@ -1,0 +1,41 @@
+{
+    "title": "Pull Request: tamanho ideal / Bard vira Gemini / Criptografia fraca no Windows",
+    "fps": 30,
+    "timestamp": 1707402411,
+    "width": 0,
+    "height": 0,
+    "date": "08/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Análise sugere que o tamanho ideal de um Pull Request é de 50 linhas: PRs deste tamanho passam pelo processo de review/merge 40% mais rápido do que aqueles com 250 linhas e têm 15% menos chance de serem revertidos. Além disso, recebem 40% mais comentários por linha alterada, equilibrando velocidade, qualidade de revisão e volume total de código produzido/entregue. Uma faixa aceitável seria entre 25 e 100 linhas – PRs menores de 25 linhas possuem uma maior taxa de reversão, enquanto aqueles com mais de 100 linhas reduzem a eficiência geral. As informações são do site da ferramenta de gerenciamento de código Graphite.",
+            "url": ""
+        },
+        {
+            "text": "Google renomeia Bard para Gemini, lança aplicativo móvel para Android e iOS, e lança novo modelo avançado: a plataforma apresenta o modelo Ultra 1.0, que se destaca em tarefas complexas como criação de código e raciocínio lógico. Esse modelo está disponível inicialmente apenas em inglês, por meio de uma assinatura, já disponível no Brasil por 96,99 reais/mês, com dois meses gratuitos iniciais. O plano Google One AI Premium engloba o acesso ao Gemini Ultra e inclui benefícios adicionais, como 2TB de armazenamento. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Criptografia BitLocker do Windows pode ser quebrada em menos de um minuto: com acesso físico a um computador, um dispositivo Raspberry Pi Pico – que custa cerca de 5 dólares – pode acessar facilmente o conteúdo de um disco encriptado. A técnica explora a transferência não criptografada de chaves entre o módulo de segurança TPM que não estiver integrado à CPU, algo presente apenas em dispositivos mais recentes. A Microsoft reconhece o problema, que pode ser mitigado pelo uso de um PIN na criptografia BitLocker. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Presidente do Banco Central do Brasil nega rumores sobre a criação de um superaplicativo que integraria serviços de diversas instituições financeiras: Roberto Campos Neto esclareceu que a função do BC é apenas fornecer ferramentas e processos para que o setor privado desenvolva seus próprios aplicativos, destacando a importância do Open Finance e do Drex – o real digital – para o futuro do setor bancário. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Levantamento revela que 76,6% dos profissionais brasileiros temem que a inteligência artificial substitua seus empregos: a percepção é semelhante em outros países latino-americanos – Panamá (69%), México (68%), Peru (66%), Colômbia (65%), Chile e Argentina (63%). Apesar disso, há um reconhecimento do potencial benéfico da tecnologia, como economia de tempo, ajuda em aplicativos, auxílio em buscas por vagas de emprego e criação de currículos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Linux Foundation, em parceria com AWS, Google, IBM e Nvidia, anuncia lançamento de iniciativa para promover a criptografia pós-quântica: a Post-Quantum Cryptography Alliance irá estudar os potenciais desafios de segurança trazidos pelo avanço da computação quântica. A aliança reunirá pesquisadores e desenvolvedores para produzir implementações de novos algoritmos padronizados. As informações são do blog da Linux Foundation.",
+            "url": ""
+        }
+    ]
+}
