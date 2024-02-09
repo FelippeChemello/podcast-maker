@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI tem carta na manga / STF e provas digitais / Mozilla muda direção",
+    "fps": 30,
+    "timestamp": 1707488788,
+    "width": 0,
+    "height": 0,
+    "date": "09/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI estaria desenvolvendo agente de IA para automatizar tarefas complexas, controlando os PCs dos usuários: a ferramenta será capaz de movimentar o cursor do mouse, clicar, digitar e realizar outras ações da mesma forma que um usuário faz enquanto trabalha com diferentes aplicativos. Esse agente poderia transferir dados de um documento de texto para uma planilha para análise, preencher automaticamente relatórios de despesas, criar itinerários e reservar passagens aéreas, tudo sem supervisão. Esse seria o grande novo produto da startup para se diferenciar dos seus maiores concorrentes atuais, como Google e Anthropic. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Novo LLM é classificado como o melhor de código aberto do mundo pela plataforma Hugging Face: o Smaug-72B, desenvolvido pela startup Abacus AI, supera modelos como GPT-3.5 e Mistral Medium em vários benchmarks, sendo o primeiro e único modelo open source a atingir uma média superior a 80 pontos nas principais métricas. O Smaug-72B está disponível para download e uso livre por meio da Hugging Face. As informações são do site Venture Beat.",
+            "url": ""
+        },
+        {
+            "text": "STF reforça que Polícia e Ministério Público só podem obter acesso a informações digitais, como emails, localização e histórico de buscas, com ordem judicial: o Ministério Público havia solicitado à Apple e Google a preservação de contas eletrônicas durante uma investigação de corrupção no estado do Paraná, sem a devida autorização da Justiça. As provas obtidas foram anuladas, consideradas uma violação à privacidade e ao Marco Civil da Internet. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Após 14 anos, CEO da Mozilla deixa cargo: Winifred Mitchell Baker continuará na entidade como presidente do conselho de administração. Laura Chambers, com passagens pelo Airbnb, PayPal e eBay, assumirá o cargo de CEO interina. A Mozilla continuará focada no navegador Firefox, mas deverá trazer novos produtos ao mercado. As informações são do blog da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "Apple adquiriu 32 startups de inteligência artificial em 2023, maior número entre as grandes empresas de tecnologia: o Google comprou 21 startups, a Meta, 18, e a Microsoft, 17 startups de IA. A estratégia da Apple é focar em tecnologias e talentos promissores. As aquisições incluem a Voysis, para melhorar a assistente virtual Siri, e a WaveOne, para compressão de vídeo. As informações são do site Stocklytics.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros da NASA continuam trabalhando para resolver problema na Voyager 1: a sonda começou a enviar dados incoerentes há dois meses, mas é possível confirmar que a nave tem recebido os comandos enviados. A latência, entretanto, é um grande problema – leva 22,5 horas para que uma mensagem chegue à sonda e outras 22,5 horas para que uma resposta seja recebida, com os engenheiros esperando 45 horas para avaliar se um comando teve o resultado esperado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de cibersegurança afirma que história das milhões de escovas de dentes inteligentes usadas em ataque DDoS foi um mal entendido: a história surgiu originalmente em um jornal suíço-alemão – as escovas se conectavam à internet e teriam sido invadidas devido a uma vulnerabilidade do seu sistema operacional, baseado em Java. A Fortinet, fonte da notícia, diz que houve problemas na tradução do artigo e estava apenas comentando sobre um cenário hipotético. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança oficialmente comando “sudo” para Windows: a funcionalidade está presente na versão Windows 11 Insider Preview (Build 26052), permitindo que usuários com baixos privilégios executem comandos com privilégios elevados diretamente de uma sessão de console não elevada. Além disso, o projeto está sendo disponibilizado em código aberto no repositório “microsoft/sudo” no GitHub. As informações são do blog Microsoft Developer.",
+            "url": ""
+        }
+    ]
+}
