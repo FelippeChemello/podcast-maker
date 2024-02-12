@@ -1,0 +1,41 @@
+{
+    "title": "Direito à Desconexão / Novo vírus bancário / Abordagem para IA no Brasil",
+    "fps": 30,
+    "timestamp": 1707748039,
+    "width": 0,
+    "height": 0,
+    "date": "12/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Novo projeto de lei na Austrália garante aos trabalhadores o “Direito à Desconexão”: com a regra, que busca promover o equilíbrio entre trabalho e vida pessoal, funcionários poderão ignorar ligações e mensagens fora do expediente – uma situação muito comum no setor de TI – sem temer represálias. Empresas que violarem a norma poderão ser multadas – a lei também prevê a pena de prisão para chefes que a descumprirem, mas essa parte deve ser vetada no texto final. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Novo trojan para Windows tem como alvo mais de 60 instituições bancárias no Brasil: o Coyote emprega táticas sofisticadas de evasão para executar ações maliciosas como keylogging e captura de telas, comunicação criptografada com seu servidor de controle e o uso da linguagem de programação Nim para a fase final do processo de infecção. Para proteção contra ameaças financeiras é recomendado instalar apenas aplicativos obtidos de fontes confiáveis, avaliar com cuidado permissões solicitadas por aplicativos e nunca abrir links ou documentos incluídos em mensagens inesperadas ou suspeitas. As informações são do blog da Kaspersky.",
+            "url": ""
+        },
+        {
+            "text": "Especialista defende que Brasil adote abordagem principiológica para legislação da inteligência artificial e deixe setores específicos realizarem suas próprias adaptações: para Dora Kaufman, professora na PUC-SP, autarquias setoriais, como o Banco Central e Anatel, poderiam regular especificidades em seus respectivos campos regulatórios. Kaufman também reforça a importância da flexibilidade para acompanhar o avanço tecnológico, propondo que especialistas em IA colaborem na formulação de leis. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Empresas estão revertendo o uso da nuvem para infraestruturas locais: a motivação seria desempenho, problemas de segurança e altos custos, muitas vezes inesperados – no Reino Unido, onde a pesquisa foi realizada, 25% das organizações já transferiram metade de suas cargas de trabalho de volta para on-premisse. Apesar dessa tendência, os provedores de nuvem não devem desacelerar seu crescimento, especialmente com o aumento da demanda por infraestrutura para executar sistemas baseados em IA. As informações são do site Infoworld.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman, CEO da OpenAI, quer arrecadar entre trilhões de dólares para a fabricação de chips de IA: a intenção é expandir a capacidade global de produção de semicondutores e enfrentar a escassez de GPUs. O valor, entretanto, é considerado irreal por muitos analistas – as vendas globais de toda a indústria de semicondutores somam 527 bilhões de dólares atualmente. Altman estaria conversando com fundos soberanos, como os Emirados Árabes Unidos, e entidades governamentais para levantar o valor. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mecanismo de renderização da web, abandonado pela Mozilla, tem desenvolvimento reiniciado por time da Linux Foundation: o Servo é escrito em Rust, oferecendo um excelente desempenho. O projeto atualmente tem compatibilidade para Linux, Windows, Android e macOS. A ideia é tornar o Servo uma alternativa viável ao Blink e Gecko, utilizados pelo Chrome e Firefox. As informações são do site It's FOSS.",
+            "url": ""
+        }
+    ]
+}
