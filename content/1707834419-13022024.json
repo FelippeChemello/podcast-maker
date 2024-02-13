@@ -1,0 +1,33 @@
+{
+    "title": "Vigilância pelo Slack e Teams / Novidade em smartphones / Xbox não deve ser descontinuado",
+    "fps": 30,
+    "timestamp": 1707834419,
+    "width": 0,
+    "height": 0,
+    "date": "13/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grandes empresas estão utilizando ferramenta para monitorar comunicações entre funcionários em aplicativos como Slack, Microsoft Teams e Zoom: as organizações têm utilizado o eDiscovery, uma IA da startup Aware, para avaliar, de forma anonimizada, o sentimento de funcionários em tempo real. No entanto, o software também pode identificar comportamentos como bullying, assédio e discriminação, apontando os funcionários nestes casos. As empresas alegam que a tecnologia é usada principalmente para governança, risco e conformidade. A aplicação de IA para monitoramento de funcionários é uma área em expansão, mas levanta preocupações sobre privacidade e o potencial para criar um efeito inibidor sobre a liberdade de expressão no local de trabalho. As informações são do site CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Primeiros smartphones que reproduzem áudio de alta qualidade por meio das telas devem chegar até o final deste ano no mercado: além disso, transdutores piezoelétricos embutidos nas telas permitirão feedback háptico direcionado ao dedo do usuário, eliminando componentes convencionais para essa função e deixando os dispositivos mais finos. O efeito piezoelétrico funciona nos dois sentidos, com potencial para aproveitar a energia de toques e ruídos ambientes para gerar eletricidade, estendendo a duração da bateria desses dispositivos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Chefe da divisão Xbox da Microsoft nega rumores de que a empresa deixará de produzir consoles: há especulações crescentes sobre o abandono de mídias físicas e planos para lançar jogos exclusivos em plataformas rivais, como Playstation e Nintendo Switch. Durante uma reunião geral interna, Phil Spencer destacou que hardware faz parte da estratégia da empresa, envolvendo diversos tipos de dispositivos, inclusive um híbrido móvel no futuro. As informações são do site IGN.",
+            "url": ""
+        },
+        {
+            "text": "Estudo revela que publicidade digital pode representar quase 2% das emissões globais de carbono até 2025: cerca de 24% do tráfego na internet é atribuído a publicidade e rastreamento online – a emissão total de carbono causada pela internet irá dobrar de 2018 até 2025, para 7,2%. A pegada de carbono da publicidade digital é influenciada principalmente pelo tamanho e complexidade dos anúncios, que se tornaram mais elaborados para atrair a atenção dos usuários. As informações são do blog do bloqueador de anúncios Magic Lasso.",
+            "url": ""
+        }
+    ]
+}
