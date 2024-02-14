@@ -1,0 +1,33 @@
+{
+    "title": "ChatGPT: novo recurso / Chromium e micropagamentos / S24 ultrapassa iPhone 15",
+    "fps": 30,
+    "timestamp": 1707920860,
+    "width": 0,
+    "height": 0,
+    "date": "14/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI está testando fazer ChatGPT lembrar pontos importantes ou preferências de usuários de forma global em conversas: o recurso “Memória” está disponível para uma pequena parcela de usuários, gratuitos e pagos, com previsão de expansão, permitindo respostas mais relevantes ao reter detalhes sobre preferências e contextos dos usuários. – por exemplo: você prefere que anotações de reuniões tenham títulos e itens de ação resumidos, então toda a vez que colocar o conteúdo de um encontro no ChatGPT, ele formatará o texto desta forma. Para verificar se possui o recurso ativado, basta acessar “Configurações &gt; Personalização &gt; Memória”. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores do Chromium estão trabalhando em especificação para micropagamentos automáticos em navegadores: a tecnologia “Web Monetization” permitiria o pagamento por conteúdo consumido sem interações manuais. Por meio do sistema, sites poderão receber micropagamentos de seus visitantes, em vez de depender de anúncios ou assinaturas. Apple e Google já mostraram suporte à Web Monetization, enquanto a Mozilla mostrou interesse mais limitado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, a satisfação dos clientes com o Samsung Galaxy supera a do iPhone: 91% das resenhas do S24 deram ao dispositivo 5 estrelas. Enquanto isso, a satisfação máxima dos clientes com o iPhone 15 Pro ficou em 76%, abaixo da avaliação do iPhone 14, devido à decepção com o tempo de bateria. Por causa do lançamento recente do S24 em janeiro deste ano, o volume de avaliações para os dispositivos da Samsung é menor em comparação com o iPhone 15, indicando a possibilidade de mudanças nos índices de satisfação à medida que mais avaliações forem feitas. As informações são do site PerfectRec.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla anuncia reestruturação após nomeação de nova CEO interina: a entidade reduzirá o investimento em produtos como VPN, Relay, instância no Mastodon, o recém-lançado Online Footprint Scrubber, além de encerrar o mundo virtual 3D Hubs, afetando 5% do quadro de funcionários (cerca de 60 pessoas). A nova estratégia visa concentrar esforços em recursos de IA e Firefox, unindo as equipes do Pocket, Conteúdo e IA/ML. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
