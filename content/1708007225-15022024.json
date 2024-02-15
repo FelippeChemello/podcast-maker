@@ -1,0 +1,41 @@
+{
+    "title": "IA reduzirá desigualdades / Momento Steve Ballmer / Criptografia e direitos humanos",
+    "fps": 30,
+    "timestamp": 1708007225,
+    "width": 0,
+    "height": 0,
+    "date": "15/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Economista do MIT argumenta que avanço da IA será benéfico, moderando desigualdades da Era da Informação: David Autor argumenta que temores de um futuro em que a tecnologia deixará os humanos sem nada para fazer são descabidos. Ele acredita que o declínio nas taxas de natalidade garantirão uma escassez de mão de obra no futuro. A tecnologia, servindo como ferramenta assistiva, dará mais oportunidades a quem não tem diploma universitário, além de reduzir custos de saúde, educação e aconselhamento jurídico, assim como a Revolução Industrial tornou os bens de consumo mais acessíveis. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg tem “momento Steve Ballmer” ao fazer review e criticar Apple Vision Pro: em um vídeo postado no seu perfil no Instagram, apesar de reconhecer a superioridade de alguns componentes do dispositivo da Apple, Zuckerberg afirma que o Meta Quest 3 é “melhor, ponto final” para a grande maioria das pessoas, oferecendo praticamente as mesmas funcionalidades por um preço muito mais acessível (500 contra 3.500 dólares). As declarações têm sido comparadas ao ceticismo inicial do ex-CEO da Microsoft, Steve Ballmer, logo após o lançamento do iPhone. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Decisão do Tribunal Europeu dos Direitos Humanos pode impactar planos da Comissão Europeia de obrigar “backdoors” em serviços de emails e mensagens: o tribunal concluiu que a fragilização da criptografia de ponta a ponta coloca em risco desproporcional os direitos humanos, sendo a confidencialidade das comunicações um direito essencial. Exigir que mensagens sejam descriptografadas para aplicação da lei não pode ser considerada necessária em uma sociedade democrática. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Andrej Karpathy, cientista de pesquisa renomado e membro fundador da OpenAI, anuncia saída da empresa: ele destaca que não houve “drama” ou evento específico motivando sua decisão. Durante sua segunda jornada na empresa – também já foi diretor na Tesla entre 2017 e 2022 – ele estava desenvolvendo “um tipo de J.A.R.V.I.S”, referência ao assistente artificial fictício criado pelo personagem dos quadrinhos Homem de Ferro. Karpathy agora planeja dedicar-se a projetos pessoais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Amazon desenvolvem maior modelo de texto para fala até o momento, com quase 1 trilhão de parâmetros: o “BASE TTS” apresenta “habilidades emergentes” como pronúncia de palavras estrangeiras e expressão de emoções complexas de forma natural, não sendo explicitamente treinado para essas capacidades. O modelo promete avanços significativos para acessibilidade, mas a Amazon optou por não publicar o código devido aos riscos de uso malicioso da tecnologia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI lança novo modelo de geração de imagens que promete ser mais rápido e melhor do que seu antecessor, o Stable Diffusion: o Stable Cascade introduz recursos como aumento de resolução, inpainting e outpainting (preenchimento e extensão) e formulação de imagens a partir de contornos. O modelo está disponível no repositório “Stability-AI/StableCascade” no GitHub, mas apenas para uso não comercial neste momento. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
