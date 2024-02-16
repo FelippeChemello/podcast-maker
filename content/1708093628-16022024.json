@@ -1,0 +1,41 @@
+{
+    "title": "OpenAI mostra “motor de física” / Fork do Nginx / Nvidia ultrapassa Google",
+    "fps": 30,
+    "timestamp": 1708093628,
+    "width": 0,
+    "height": 0,
+    "date": "16/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Novo modelo da OpenAI não é apenas um gerador de vídeos, mas um “motor de física” orientado por dados: o Sora é capaz de gerar vídeos fotorrealistas, com resolução máxima de 1080p e até um minuto de duração. Mas mais interessante ainda, o modelo pode ser um marco importante no caminho para a AGI (inteligência artificial geral, na sigla em inglês), com a capacidade de construir simuladores do mundo físico e digital de forma dinâmica. O Sora permanece restrito pela OpenAI, que está trabalhando com equipes de red team e especialistas em desinformação para testar o modelo de forma contraditória. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Maxim Dounin, desenvolvedor chave do Nginx, deixa projeto e realiza fork: o “freenginx” foi motivado por desacordos sobre divulgações de segurança e prioridades na correção de bugs. Dounin critica a gestão não técnica da F5, empresa que adquiriu o projeto em 2019, afirmando que ele não o vê mais como “um projeto livre e de código aberto e para o bem público”. O freenginx será “administrado por desenvolvedores e livre de decisões corporativas arbitrárias”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia ultrapassa Google e torna-se a quarta companhia mais valiosa do mundo: a capitalização de mercado de 1,8 trilhão de dólares fica atrás apenas da empresa de petróleo Saudi Aramco (2 trilhões), Apple (2,8 tri) e Microsoft (3 tri). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google Gemini 1.5 Pro é o novo modelo multimodal para interação com texto, imagem e áudio com a maior janela de contexto até o momento: há melhorias significativas em várias dimensões, alcançando uma qualidade comparável ao 1.0 Ultra, mas usando menos processamento. Essa nova geração também oferece, de forma experimental para clientes corporativos, uma janela de contexto com 1 milhão de tokens, o que pode auxiliar bastante no desenvolvimento de software, permitindo manter em sua memória 30 mil linhas de código ou 700 mil palavras, por exemplo. Uma prévia limitada do 1.5 Pro para desenvolvedores e clientes corporativos está disponível por meio dos serviços AI Studio e Vertex AI no Google Cloud. As informações são do blog The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Parlamentares nos EUA propõem lei para conceder a réus o direito de acessar o código-fonte de softwares utilizados em análises de evidências em processos criminais: a iniciativa visa mitigar resultados não intencionais, vieses e limitações das tecnologias usadas na resolução de crimes. O projeto também enfatiza preocupações com o poder de vigilância das agências de aplicação da lei. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "EUA estão oferecendo recompensa de 10 milhões de dólares por informações que levem à identificação ou localização dos líderes da gangue de ransomware ALPHV/Blackcat: um adicional de 5 milhões também está disponível por dicas sobre indivíduos tentando participar dos ataques promovidos pelo grupo. O FBI estima que os criminosos já arrecadaram pelo menos 300 milhões de dólares em pagamentos de resgate de mais de 1.000 vítimas. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
