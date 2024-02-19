@@ -1,0 +1,41 @@
+{
+    "title": "Go avança em popularidade / OpenAI sem “GPT” / Zuckerberg explica onda de demissões",
+    "fps": 30,
+    "timestamp": 1708352868,
+    "width": 0,
+    "height": 0,
+    "date": "19/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Go entra para o Top 10 do índice TIOBE em fevereiro: a linguagem, na oitava posição, alcança sua maior colocação desde o seu lançamento em 2009, pelo Google. A adoção de um ciclo de atualizações semestrais e a popularidade do Docker e Kubernetes, ambos escritos em Go, tem contribuído para a sua popularidade. Atualmente, a linguagem tem sido amplamente utilizada em programação back-end e APIs. Outro destaque para o mês de fevereiro é a entrada do Carbon no Top 100 pela primeira vez, outra linguagem do Google, criada para interoperabilidade com C++. As informações são da página do TIOBE Index.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI não consegue registrar “GPT” como marca: a empresa argumentava que popularizou o termo – “transformador generativo pré-treinado” na sigla em inglês – mas o escritório de patentes dos EUA destacou que GPT é um termo “meramente descritivo” e, portanto, não pode ser registrado. A decisão pode abrir caminho para concorrentes utilizarem a nomenclatura em seus produtos de IA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg dá duas explicações para as recentes ondas de demissões no setor de tecnologia: a primeira delas é relacionada ao aumento nas contratações durante a pandemia, devido ao crescimento das vendas e serviços online – com a normalização da economia, as empresas viram a necessidade de readequar seus quadros de funcionários. A segunda explicação seria o foco em eficiência operacional, eliminando níveis de gerência para as empresas se tornarem “mais eficientes”. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "China lança, sem alarde, supercomputador mais rápido do mundo: o Tianhe 3 utiliza o processador MT-3000, desenvolvido pela Universidade Nacional de Tecnologia de Defesa do país – diferente dos sistemas CPU/GPU discretos, o sistema integra núcleos de propósito geral e de aceleração matricial no mesmo silício, uma arquitetura mais coesa e eficiente. O Tianhe 3 pode atingir 1,57 ExaFLOPS em processamento, superando o Frontier dos EUA, com 1,1 ExaFLOPS. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Apple confirma remoção da funcionalidade de instalação de web apps na tela inicial de iPhones e iPads para usuários na União Europeia: a justificativa é a necessidade de permitir engines alternativas ao WebKit na região, o que exigiria uma nova arquitetura para a integração de PWAs nesses dispositivos. Ainda é possível adicionar sites à tela inicial, mas estes abrirão em um navegador web normal, em vez de abrir como um web app separado. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Startup está adicionando suporte à Unreal Engine 5 em navegadores web: a Wonder Interactive está integrando as APIs WebGL e WebGPU, prometendo melhor desempenho, renderização multithread e um sistema de streaming de assets para acelerar o carregamento de demonstrações gráficas. Além do Unreal Engine, a empresa visa suportar Unity, Godot e O3DE na web. As informações são do site VideoCardz.",
+            "url": ""
+        }
+    ]
+}
