@@ -1,0 +1,41 @@
+{
+    "title": "Preocupação com nova lei / Austrália quer programadores / Recorde de tráfego no Brasil",
+    "fps": 30,
+    "timestamp": 1708439256,
+    "width": 0,
+    "height": 0,
+    "date": "20/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Comitê Gestor da Internet publica nota manifestando preocupação com o Projeto de Lei 113/20, que propõe mudanças significativas no Marco Civil da Internet: a ampliação do período de guarda de dados de navegação de 6 meses para 3 anos, incluindo dados de geolocalização, e permissão de acesso a esses dados sem ordem judicial são alguns dos pontos criticados, aumentando os riscos de exposição de dados a incidentes de segurança. O CGIbr elogiou, entretanto, a remoção da exigência de CPF ou CNPJ para cadastro e uso de plataformas digitais no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Com escassez em profissionais de TI, Austrália irá modificar processo para emissão de vistos para trabalhadores qualificados do exterior: segundo a Sociedade Australiana de Computação, 80% das aplicações recebidas para avaliação estão incompletas ou inadequadas devido à complexidade do formulário atual. Um formulário interativo na web será introduzido, eliminando também a necessidade de registrar outros documentos. O custo da aplicação ficará em 1.100 dólares australianos, mas espera-se que a maioria dos candidatos economize dinheiro, considerando que atualmente muitos submetem múltiplos formulários que custam 550 dólares australianos cada. A nova abordagem visa agilizar o processo, reduzindo o tempo de espera entre 10 e 14 semanas, para 60 dias úteis, com a meta de diminuir para 15 dias úteis no futuro. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Brasil bate novo recorde de tráfego na internet ao alcançar 36 Terabits por segundo: o volume supera a marca anterior, de 31 Tbps, obtida em julho do ano passado. O pico foi atingido em 14 de fevereiro, com São Paulo registrando mais de 23 Tbps, impulsionado por eventos online, como o BBB24 e partidas de futebol. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Amplo estudo revisa 1.930 artigos acadêmicos sobre o trabalho remoto, encontrando vantagens e desvantagens na modalidade: a pesquisa, realizada pela Agência de Segurança da Saúde do Reino Unido e o King’s College London, encontrou benefícios significativos no trabalho de casa, como alimentação mais saudável, menor estresse e pressão arterial reduzida. No entanto, também apontou desvantagens, como maior consumo de álcool, tabagismo, ganho de peso e uma maior possibilidade de ficar para trás em promoções. O estudo enfatiza a necessidade de as empresas levarem o trabalho remoto a sério, auxiliando na criação de ambientes de trabalho eficazes em casa. As informações são do jornal The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "EUA e Reino Unido tomam controle de grande parte das operações da gangue de ransomware LockBit: embora alguns sites da dark web do grupo ainda estejam ativos, os sites de negociação de resgate estão inacessíveis e a operação de “ransomware-as-a-service” sofreu a apreensão de seu painel de afiliados, código-fonte, chats e informações das vítimas – o FBI teria violado os servidores da operação usando um exploit no PHP (não identificado). Duas pessoas foram presas, uma na Ucrânia e outra na Polônia e mais de 200 carteiras de moedas digitais foram apreendidas. Uma ferramenta de descriptografia para recuperar arquivos de vítimas também está disponível. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Chrome testará novo recurso para proteger roteadores e impressoras de usuários contra invasões: o navegador irá bloquear automaticamente sites maliciosos que tentarem atacar dispositivos e serviços das redes internas dos usuários. A funcionalidade será introduzida na versão 123 do navegador. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
