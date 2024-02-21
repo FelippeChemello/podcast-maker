@@ -1,0 +1,41 @@
+{
+    "title": "Google lança Gemma / Novidade agora é LPU / GovBR muda autenticação",
+    "fps": 30,
+    "timestamp": 1708525629,
+    "width": 0,
+    "height": 0,
+    "date": "21/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google apresenta Gemma, modelo de IA open source para desenvolvimento responsável de IA: disponível em duas versões, Gemma 2B e Gemma 7B, o modelo foi construído a partir da mesma pesquisa e tecnologia do Gemini. A iniciativa quer estimular o uso responsável de IAs, bem como um conjunto de recursos para facilitar a integração com ferramentas populares e otimização em múltiplas plataformas de hardware, incluindo dispositivos móveis, laptops, e até mesmo IoT. O Google Cloud também está oferecendo créditos gratuitos, visando apoiar a inovação na comunidade de desenvolvedores e pesquisadores.As informações são do site The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "Startup apresenta Unidade de Processamento de Linguagem (LPU, na sigla em inglês), que pode processar tarefas de linguagem natural muito mais rápido do que GPUs tradicionais: a LPU da Groq – sem relação com o modelo Grok da plataforma xAI – é especialmente eficiente no processo de inferência, ato de utilizar uma rede neural para fornecer respostas após ela ter sido treinada. O processador roda o Llama-2, com 70 bilhões de parâmetros, em mais de 100 tokens por segundo, e o Mixtral, com 7 bilhões de parâmetros, em quase 500 tokens por segundo – para comparação, o ChatGPT roda entre 40 e 50 tokens por segundo. Apesar da velocidade no processo de inferência, LPUs não superam GPUs no treinamento de modelos. As informações são do site Turing Post.",
+            "url": ""
+        },
+        {
+            "text": "GovBR atualiza método de autenticação em duas etapas: em substituição às notificações, a geração de códigos de acesso por meio do aplicativo tem como objetivo aumentar a segurança e incentivar o uso mais amplo da verificação para prevenir acessos indevidos – das 150 milhões de contas na plataforma, apenas 9 milhões possuem autenticação em duas etapas habilitada. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ataque de spam impacta rede descentralizada do Mastodon: uma automação do processo de criação de contas está visando servidores menores. A mudança para o modo de aprovação de registro e bloqueio de provedores de email descartáveis tem ajudado com o problema. Para Renaud Chaput, CTO do Mastodon, o incidente levará a melhorias e ferramentas integradas para lidar com abusos em redes federadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Para 2024, Autoridade Nacional de Proteção de Dados vai intensificar fiscalização em quatro áreas: os focos serão em inteligência artificial, reconhecimento facial, uso de dados de crianças/adolescentes e web scraping. A ANPD também planeja avançar em temas normativos, como comunicação de incidentes, transferências internacionais de dados, regulamentação do encarregado de dados e um guia orientativo sobre anonimização e pseudonimização. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro humano a receber o implante cerebral da Neuralink agora é capaz de mover o cursor de um mouse apenas com o pensamento: o paciente teve uma recuperação total da cirurgia, sem efeitos adversos conhecidos. O objetivo agora seria tentar obter o maior número possível de comandos por meio do pensamento para o controle do mouse, inclusive mais do que apenas os dois botões tradicionais do dispositivo. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
