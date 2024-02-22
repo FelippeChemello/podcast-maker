@@ -1,0 +1,41 @@
+{
+    "title": "ChatGPT enlouquece / Algoritmo pós-quântico da Apple / Brasil no CERN",
+    "fps": 30,
+    "timestamp": 1708612158,
+    "width": 0,
+    "height": 0,
+    "date": "22/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT “enlouquece” e dá respostas completamente inconsistentes aos comandos de usuários: a OpenAI reconheceu o problema de “respostas inesperadas” e afirma que uma correção já foi implementada. O problema estaria nos ajustes da propriedade de temperatura, parâmetro que regula a aleatoriedade das respostas – o modelo estava escolhendo números “ligeiramente errados”, produzindo sequências de palavras que não faziam sentido. As informações são do site de status da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Apple atualiza criptografia do iMessage com algoritmo pós-quântico: o protocolo PQ3, desenvolvido pela empresa, combina criptografia de curva elíptica com o algoritmo Kyber de criptografia pós-quântica. Segundo a Apple, embora computadores quânticos com a capacidade de quebrar a criptografia tradicional ainda não existam, um cenário possível seria a “descriptografia retrospectiva” no qual atacantes podem coletar grandes quantidades dos dados criptografados hoje até existir um computador quântico que possa descriptografar essas informações no futuro. As informações são do blog Security Research da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Após 14 anos de negociações, Brasil está próximo de se tornar membro-associado do CERN: a participação implicará um custo anual de cerca de 10 milhões de dólares, valor já previsto no orçamento do Ministério da Ciência, Tecnologia e Inovações. A adesão, entretanto, poderá beneficiar o país, possibilitando a transferência de conhecimento e promovendo o desenvolvimento da indústria de tecnologia nacional. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Signal testa nomes de usuário em vez do número de telefone para identificar usuários: os nomes de usuário podem ser alterados ou removidos a qualquer momento. Um novo ajuste de privacidade opcional também poderá exigir apenas contato por meio do nome de usuário em vez do número de telefone. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia lucra 12,2 bilhões no último trimestre fiscal, crescimento de 769% na comparação anual: a receita de 22,1 bilhões (alta de 265%) foi recorde. A margem bruta da empresa – percentual de ganho com cada venda – foi de 76%. A empresa destacou o crescimento da IA gerativa como um ponto de inflexão, com demanda crescente por GPUs em várias indústrias e nações. As informações são do site da Nvidia.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp introduz novas opções de formatação de texto: listas numeradas (\"-\", seguido de um espaço), lista com marcadores (número, seguido de “.” e espaço), block quote (“&gt;” e espaço) e inline code (código entre dois símbolos “`”). A funcionalidade está disponível para Android, iOS, web e macOS, e complementam o negrito, itálico, riscado e monoespaço. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
