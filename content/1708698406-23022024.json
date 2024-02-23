@@ -1,0 +1,45 @@
+{
+    "title": "Sora “fadado ao fracasso” / Anatel quer hackers / Stable Diffusion 3",
+    "fps": 30,
+    "timestamp": 1708698406,
+    "width": 0,
+    "height": 0,
+    "date": "23/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Yann LeCun, cientista-chefe de IA da Meta, faz duras críticas ao Sora, modelo para geração de vídeos, da OpenAI: LeCun argumenta que a geração de pixels como abordagem para simular o mundo físico é “ineficiente e fadada ao fracasso”, com os modelos tendo muita dificuldade para entender a complexidade do mundo real. A Meta está trabalhando em uma arquitetura alternativa, o V-JEPA (Video Joint Embedding Predictive Architecture), para a compreensão e simulação do mundo físico. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Anatel quer contratar “hackers” para testar cibersegurança em produtos de telecomunicações: a agência quer definir uma metodologia que permita a entidades especializadas realizar testes de intrusão, avaliação de código fonte, monitoramento de conexões de dados, entre outros. A iniciativa busca garantir um nível de segurança satisfatório nos produtos já homologados pela agência e disponíveis no mercado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI apresenta Stable Diffusion 3: o modelo de código aberto promete melhorar significativamente a qualidade e precisão na geração de imagens a partir de descrições textuais. A arquitetura incorpora novidades técnicas como um transformador de difusão, semelhante ao Sora da OpenAI. Há variações entre 800 milhões e 8 bilhões de parâmetros, facilitando sua execução em smartphones com o modelo menor. Embora ainda não esteja disponível para o público geral, a Stability AI abriu uma lista de espera para testes, visando aprimorar o desempenho e segurança do modelo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman, CEO da OpenAI, desmente relatos de que estaria buscando arrecadar 7 trilhões de dólares para infraestrutura de chips de IA: Altman enfatizou, entretanto, que muitos no setor estão subestimando a necessidade de investimentos significativos, não apenas em fábricas, aceleradores, data centers, mas também em energia, certamente o maior custo de todos, segundo ele. Essas necessidades, incluindo segurança, tem pautado a abordagem da startup no desenvolvimento de modelos mais avançados, com uma estratégia de “implementação iterativa”, com o GPT-5 um pouco melhor do que o GPT-4, o GPT-6 ainda melhor, e assim por diante. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Bitwarden introduz novo menu para preenchimento automático de senhas, visando combater o risco de roubo de credenciais por meio de campos de formulário maliciosos: a novidade surge como resposta aos ataques de injeção de iframes em sites legítimos, mas vulneráveis. A nova funcionalidade permite o preenchimento automático de credenciais somente em sites confiáveis, com a opção de proteger as informações de login com uma senha. O recurso é desativado por padrão, mas pode ser habilitado nas configurações da extensão. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem novo framework de software que permite ganhos significativos de velocidade e eficiência energética: o “Simultaneous and Heterogeneous Multithreading” pode ser aplicado em qualquer PC, smartphone ou servidor que contenha GPUs ou aceleradores de IA, explorando a capacidade de operação paralela desses componentes. Testes com protótipos demonstraram um aumento de praticamente duas vezes na velocidade de processamento e uma redução no consumo de energia em 50% em comparação a sistemas computacionais tradicionais. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Correção e esclarecimento para a notícia da edição passada da Newsletter que informava novas opções de formatação de texto no WhatsApp : para adicionar uma lista com marcadores à mensagem, insira um hífen – ou asterisco – e um espaço antes de cada palavra ou frase (- texto ou * texto); para uma lista enumerada, insira um número, um ponto e um espaço antes de cada linha de texto (exemplo: 1. texto); para adicionar uma citação, insira um sinal “maior que” antes do texto (&gt; texto); e para linha de código, insira um acento grave dos dois lados do texto (texto). Agradecemos aos leitores Rafael e Dionei pela ajuda!",
+            "url": ""
+        }
+    ]
+}
