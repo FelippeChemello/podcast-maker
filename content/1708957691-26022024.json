@@ -1,0 +1,41 @@
+{
+    "title": "TI: entrevistas “fora de controle” / LockBit de volta / Protestware é um problema",
+    "fps": 30,
+    "timestamp": 1708957691,
+    "width": 0,
+    "height": 0,
+    "date": "26/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Entrevistas de emprego no setor de TI estão “fora de controle”: empresas de tecnologia estariam enfrentando uma mudança de cultura, tornando o processo de contratação extremamente exigente. Engenheiros relatam a necessidade de dedicar dias a tarefas não remuneradas, com testes de código remotos e live-coding – exercícios de programação ao vivo – mais intensos. Por exemplo, um candidato a uma vaga de engenharia na Netflix teve que submeter uma avaliação de projeto de três páginas em 48 horas, antes mesmo da primeira entrevista; a Snap também estaria com um processo de seis etapas para candidatos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Gangue de ransomware LockBit relança operações menos de uma semana após a intervenção policial: após o desmantelamento de grande parte de sua infraestrutura e prisão de alguns membros durante a operação Cronos – promovida especialmente pelos EUA e Reino Unido – o grupo admitiu negligência e anunciou planos para impedir futuras invasões, incluindo a atualização de servidores PHP vulneráveis. Em resposta à ação policial, o grupo afirma que irá concentrar mais ataques a setores governamentais. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Professor universitário argumenta que surgimento do “protestware” pode levar à perda de confiança em software de código aberto: Christoph Treude argumenta que desenvolvedores têm utilizado cada vez mais seus projetos open source como forma de manifestação, como visto no caso da library “node-ipc”, que tentou substituir arquivos de usuários na Rússia e Belarus por emojis de coração em protesto à guerra na Ucrânia. O fenômeno levanta preocupações sobre a confiança no ecossistema de código aberto, já que até mesmo ações benignas, para chamar atenção para causas políticas ou sociais, podem ter implicações significativas. Treude sugere que a certificação de software e uma melhor educação em ética na engenharia de software seriam fundamentais para orientar desenvolvedores sobre as implicações de suas ações. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses criam disco do tamanho de um DVD com capacidade de armazenar 200 TB de dados: a gravação com feixes de laser específicos permite armazenar até 100 camadas de dados em um único disco. Apesar do avanço, os pesquisadores indicam que melhorias na velocidade de gravação e eficiência energética são necessárias para viabilizar comercialmente a tecnologia, que poderia oferecer uma alternativa de armazenamento de longo prazo econômica e duradoura. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "60% das respostas do modelo GPT-3.5 da OpenAI contém alguma forma de plágio: o estudo, realizado pela Copyleaks, que desenvolve ferramentas para detecção de conteúdo plagiado para empresas e escolas, destaca preocupações sobre o treinamento de IAs com material protegido por direitos autorais, especialmente em áreas como ciência da computação e física. A OpenAI defende que seus modelos são projetados para aprender conceitos e resolver novos problemas, com medidas para limitar a memorização inadvertida e “regurgitação” do conteúdo utilizado em treinamento. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Phind, buscador otimizado para desenvolvedores e questões técnicas, lança modelo próprio, duas vezes mais rápido do que o GPT-4: além da velocidade – capaz de rodar a até 80 tokens por segundo – o Phind-70B alcança 82,3% no HumanEval, batendo a pontuação do GPT-4 Turbo (81,1%). O sistema é baseado no CodeLlama-70B e aprimorado com 50 bilhões de tokens adicionais, oferecendo também uma janela de contexto de 32K tokens. As informações são do blog da Phind.",
+            "url": ""
+        }
+    ]
+}
