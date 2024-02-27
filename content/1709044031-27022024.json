@@ -1,0 +1,41 @@
+{
+    "title": "“Bolha maior que ponto com” / Microsoft + Mistral / EUA recomenda Rust",
+    "fps": 30,
+    "timestamp": 1709044031,
+    "width": 0,
+    "height": 0,
+    "date": "27/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Inteligência artificial está gerando “bolha” maior que a da era “ponto com”, afirma gestora de ativos: a Apollo Global Management alerta sobre avaliações excessivas, com as 10 principais empresas do índice S&amp;P 500 mais “sobrevalorizadas” do que as 10 principais empresas durante a bolha tecnológica do final da década de 90. O alerta vem após a Nvidia registrar o maior ganho de valor de mercado da história na semana passada, 277 bilhões de dólares, um valor maior do que toda a capitalização da Coca-Cola, por exemplo. As informações são do site da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft compra participação na Mistral, startup de IA francesa rival da OpenAI: a parceria colocará os modelos da Mistral na plataforma Azure AI da Microsoft. Ao mesmo tempo do anúncio da parceria, a startup apresentou o Mistral Large, um modelo que visa competir com o GPT-4, e o Le Chat, um chatbot conversacional bastante similar ao ChatGPT. Ao contrário do que vinha fazendo, entretanto, a empresa decidiu que os seus novos modelos não serão mais de código aberto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA pede que empresas de tecnologia adotem linguagens de programação seguras em relação à memória, como Rust: a recomendação se baseia na estratégia de cibersegurança do país e em orientações anteriores da NSA (Agência de Segurança Nacional) e CISA (Agência de Segurança Cibernética e de Infraestrutura), destacando que 70% das vulnerabilidades em softwares são devidas a problemas de segurança da memória. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind desenvolve IA capaz de transformar imagens ou textos em ambientes interativos jogáveis: a Genie foi treinada em mais de 200.000 horas de jogos no estilo plataforma 2D. Embora a qualidade dos jogos ainda seja baixa – resolução de 160x90 pixels, 1 FPS – acredita-se que a tecnologia melhore significativamente à medida que for escalada e receber treinamento com vídeos de maior resolução e duração, demonstrando o potencial para, futuramente, gerar jogos com gráficos fotorrealistas e personagens interativos em tempo real. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Jeff Bezos, da Amazon, e Nvidia, OpenAI e Microsoft investem em startup de robôs humanoides: a Figure está desenvolvendo robôs autônomos de propósito geral para atuar em diferentes ambientes e tarefas. Em janeiro deste ano, a empresa demonstrou o “Figure 01”, robô com a capacidade de operar uma máquina de café de cápsulas de forma autônoma após assistir a 10 horas de vídeos. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Anatel alerta que Brasil precisa acelerar transição para IPv6 para não comprometer o desenvolvimento de aplicações 5G: cerca de 50% do tráfego no país já utiliza o protocolo, mas a adoção entre os provedores de conteúdo ainda é lenta. O país está em 3º lugar na América Latina e 22º no ranking mundial em adoção do IPv6. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
