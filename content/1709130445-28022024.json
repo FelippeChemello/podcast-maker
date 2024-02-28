@@ -1,0 +1,41 @@
+{
+    "title": "Smartwatch: Anvisa faz alerta / Meta vai coletar tudo no Quest / Apple Car cancelado",
+    "fps": 30,
+    "timestamp": 1709130445,
+    "width": 0,
+    "height": 0,
+    "date": "28/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Agência Nacional de Vigilância Sanitária emite nota técnica desaconselhando uso de smartwatches para monitoramento de glicemia e oximetria: segundo a agência, não há nenhum dispositivo deste tipo regularizado no país para medição não invasiva da concentração de glicose ou saturação de oxigênio no sangue. A agência alerta para os riscos nos erros de medição e orienta a denúncia de anúncios que promovam relógios inteligentes com funções médicas não comprovadas. Até o momento, a Anvisa aprovou apenas funções destinadas à medição de pressão arterial, eletrocardiograma e notificação de ritmo cardíaco irregular. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia atualização de software para coleta de dados “anonimizados” de usuários do headset Quest: as informações incluem rastreamento das mãos, corpo e olhos, ambiente físico (dimensões, objetos presentes, voz e sons de fundo) e eventos de realidade virtual frequentados. Esses dados, coletados a partir da próxima atualização de software – sem numeração ainda, a última, 62.0, foi lançada no início deste mês – visam melhorar a experiência do usuário, segundo a empresa. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple teria cancelado projeto de carro elétrico autônomo: conhecido internamente como “Titan”, o veículo começou seu desenvolvimento em 2014 e já contou com 5.000 pessoas trabalhando no projeto ao mesmo tempo. A decisão ocorre em um momento de reavaliação dos investimentos em veículos elétricos por grandes montadoras e aumento do escrutínio governamental sobre autonomia veicular. Parte dos funcionários será realocada para projetos de IA generativa internos, enquanto outros terão 90 dias para encontrar novas atribuições dentro da empresa. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tribunal Superior Eleitoral estabelece normas para uso de IAs nas eleições municipais deste ano: a identificação de todo conteúdo gerado ou modificado pela tecnologia será obrigatória,  a criação de deepfakes que possam prejudicar ou favorecer candidaturas é proibida e o emprego de chatbots e avatares na comunicação das campanhas eleitorais será limitado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Relator do projeto de lei sobre inteligência artificial no Brasil aponta preocupações sobre regras que poderiam impedir inovações: segundo Eduardo Gomes (PL-TO), a proposta estaria “absolutamente obsoleta” se tivesse sido votada há dois anos, quando o Senado Federal recebeu o texto que virou base para o PL 233/23. O projeto visa impor normas baseadas no nível de risco das aplicações de IA, equilibrando regulação com incentivos à inovação e desenvolvimento da tecnologia. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Registradores agora podem bloquear o registro de nomes de domínio com variações ortográficas ou que infringem nomes de marcas através do GlobalBlock: a ferramenta permite que as empresas paguem uma taxa anual – iniciando em 5.999 dólares – para reservar uma parte do espaço de domínio em 563 TLDs e resolver problemas como typosquatting (URLs escritas incorretamente) e ataques de homógrafos (endereços com caracteres semelhantes). Levanta-se, entretanto, preocupações sobre a liberdade de expressão, já que tal solução poderia impedir o registro de domínios com termos genéricos ou críticos a marcas. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
