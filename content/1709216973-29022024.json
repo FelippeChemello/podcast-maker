@@ -1,0 +1,41 @@
+{
+    "title": "GitHub sob ataque / Governo quer taxar BigTechs / ChatGPT “hackeado”",
+    "fps": 30,
+    "timestamp": 1709216973,
+    "width": 0,
+    "height": 0,
+    "date": "29/02/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub está sendo inundado por milhões de repositórios contendo malware disfarçado: o ataque do tipo “repo confusion” consiste no fork de repositórios legítimos e tem como objetivo confundir desenvolvedores para roubar senhas e criptomoedas. O processo de clonagem mescla processos automatizados e manuais, adicionando um payload camuflado por sete camadas de ofuscação, o que dificulta a detecção pelo GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Governo deve apresentar projeto de lei para taxar grandes empresas de tecnologia: a proposta, que está sendo estudada pelo Ministério das Comunicações, visa alocar os recursos arrecadados na expansão e melhoria da rede de telecomunicações e em programas de inclusão digital. O projeto deve ser encaminhado ao Congresso Nacional até o fim do primeiro semestre deste ano. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI acusa o jornal The New York Times de “hackear” o ChatGPT: a startup alega que o NYT realizou “dezenas de milhares de tentativas” para gerar resultados “altamente anômalos”, explorando uma falha conhecida como regurgitação – conteúdo produzido por uma rede neural muito similar aos seus dados de treinamento. O NYT está processando a OpenAI por copiar e reproduzir seu conteúdo sem permissão. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Epic Games nega que tenha sido invadida por hackers: não há evidências de ciberataque ou roubo de dados após o grupo de extorsão Mogilevich alegar ter invadido os servidores da empresa. A gangue é conhecida por não compartilhar amostras de dados roubados e a falta de provas leva pesquisadores de segurança a considerar que o grupo pode estar tentando enganar compradores com dados falsos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face atualiza assistente de código que roda em GPUs localmente: o StarCoder 2 inclui modelos com 3, 7 e 15 bilhões de parâmetros, promete desempenho significativamente melhorado, sendo treinado com uma quantidade de dados quatro vezes superior à versão anterior – o sistema utilizou exclusivamente bases de código licenciadas pela Software Heritage, visando evitar problemas legais com direitos autorais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare abre código do framework criado internamente, escrito em Rust, para substituir o Nginx: o Pingora é descrito como um framework assíncrono multi-threaded, suportando grande volume de tráfego – mais de um trilhão de requests por dia – enquanto usa apenas cerca de um terço dos recursos de CPU e memória. O código está disponível no repositório “cloudflare/pingora” no GitHub. As informações são do site Phoronix.",
+            "url": ""
+        }
+    ]
+}
