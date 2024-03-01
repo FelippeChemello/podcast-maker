@@ -1,0 +1,41 @@
+{
+    "title": "Brasil: empresa sofre com a marca Meta / Musk faz alerta / PL sobre patentes e IAs",
+    "fps": 30,
+    "timestamp": 1709303200,
+    "width": 0,
+    "height": 0,
+    "date": "01/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Justiça proíbe Meta de usar marca no Brasil: uma empresa sediada no Rio Grande do Sul, também do setor de tecnologia, detém o registro da marca “Meta” desde 2008, causando transtornos para a empresa brasileira – desde que o Facebook mudou de nome, em 2021, a Meta brasileira já foi citada por engano em 143 processos judiciais que tinham como alvo a empresa norte-americana, sendo obrigada a participar de audiências apenas para explicar a confusão. Além da proibição, a Meta de Mark Zuckerberg também foi obrigada a divulgar em seus canais de comunicação que não tem relação com a Meta brasileira, com multa diária de 100 mil reais em caso de não cumprimento. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk faz novo alerta para escassez de energia elétrica com avanço de IAs: Musk acredita que faltarão até mesmo transformadores para distribuição de energia no próximo ano, ressaltando a necessidade urgente de investimentos no setor. Segundo o empresário, o nível de computação em IA está aumentando em um fator de 10 a cada seis meses, afirmando nunca ter visto nada parecido. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de lei quer alterar legislação para permitir que IAs detenham patentes: o PL 330/2024 propõe que sistemas de inteligência artificial possam ser considerados titulares de patentes por invenções geradas autonomamente – de acordo com a Lei de Propriedade Industrial, apenas pessoas naturais podem ser titulares. Nos Estados Unidos e na Europa, onde o tema já foi debatido e judicializado, a titularidade de patentes por IAs não é aceita – na Austrália há precedentes favoráveis. No Brasil, o Instituto Nacional de Propriedade Industrial, já publicou nota indicando que invenções e obras artísticas são frutos da criação humana, não resultando de processos naturais ou simplesmente mecânicos. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está trabalhando com Nvidia, AMD e Intel para melhorar suporte a upscaling em jogos para PC: uma nova API no Windows, chamada DirectSR, permitirá que desenvolvedores de jogos integrem facilmente recursos de super resolução desses fabricantes (DLSS da Nvidia, FidelityFX da AMD e XeSS da Intel). As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Adobe está desenvolvendo “Photoshop” para edição de músicas: o “Project Music GenAI Control” tem como objetivo facilitar a criação e personalização de músicas para quem não tem experiência profissional com a produção de áudio. O sistema permite remixar músicas a partir de descrições textuais em estilos específicos, sem a necessidade de nenhum outro software dedicado, oferecendo controles integrados para ajustes de padrões, tempo, intensidade e estrutura. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Stack Overflow lança API e passará a cobrar por acesso à sua base de conhecimento por empresas de IA: o OverflowAPI dará acesso às perguntas e respostas de desenvolvedores. O primeiro parceiro oficial do programa é o Google, que integrará as informações no Gemini e, futuramente no seu assistente de código Codey. Não há informações sobre o custo de acesso da API. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
