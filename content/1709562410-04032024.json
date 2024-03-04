@@ -1,0 +1,41 @@
+{
+    "title": "Elon Musk processa OpenAI / Meta rejeita Google / YouTube é o maior do Brasil",
+    "fps": 30,
+    "timestamp": 1709562410,
+    "width": 0,
+    "height": 0,
+    "date": "04/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk processa OpenAI e seu CEO, Sam Altman, por violação do acordo de fundação da empresa: a entidade sem fins lucrativos foi fundada com o objetivo principal de desenvolver IAs para “o benefício da humanidade”, mas se tornou uma “subsidiária” da Microsoft. Além disso, o processo alega que o GPT-4 já seja uma Inteligência Artificial Geral e pede a abertura do código-fonte da tecnologia. Em um memorando interno, a OpenAI rejeitou as alegações, afirmando que a empresa permanece independente, comprometida em beneficiar a humanidade, sem ainda alcançar a AGI. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria rejeitado proposta do Google para parceria em realidade mista: o Google queria que a Meta utilizasse a plataforma Android XR – ainda em desenvolvimento – nos headsets Quest. O plano da Meta é dominar essa próxima plataforma computacional, evitando depender do software de uma empresa rival – Quest, entretanto, atualmente roda em uma versão de código aberto do sistema operacional Android do Google. Mark Zuckerberg fez recentemente uma viagem à Coreia do Sul para conversar com a LG e Samsung para o desenvolvimento de novos dispositivos de VR utilizando o software do Quest. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "YouTube atinge 62% da participação no segmento de vídeos online no Brasil em 2023: a Netflix detém uma participação de 16%, seguida por TikTok, com 15%. O segmento de vídeos online detém 26% da audiência total – a TV linear (aberta e paga) ainda mantém a liderança na preferência geral dos brasileiros, com 74% de participação. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Maioria das empresas brasileiras não tem padrão aceitável de segurança contra vulnerabilidades: em uma pesquisa com 1.131 organizações, a média geral da pontuação de segurança foi de 618 em um ranking que considera acima de 800 como desejável. Foram identificados problemas significativos como o uso de protocolos inseguros, sistemas desatualizados, e vulnerabilidades em aplicações e emails. Apenas uma organização, do setor financeiro, obteve a pontuação máxima, de 950 pontos. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Apple volta atrás e retoma funcionalidade de instalação de web apps na tela inicial de iPhones e iPads para usuários na União Europeia: a decisão anterior, de impedir a instalação de PWAs devido a dificuldades técnicas e preocupações de segurança, havia sido criticada por reguladores e grupos de defesa da web aberta, levando a uma investigação da Comissão Europeia. A reversão se aplica apenas a web apps baseados em WebKit, destacando a dependência de muitos cidadãos a aplicativos essenciais na região. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Baterias de lítio-enxofre seriam uma alternativa mais amigável ao meio ambiente para carros elétricos: a composição supera outras cinco tecnologias analisadas, incluindo a célula de íon-lítio, comumente utilizada nesses veículos. A bateria de lítio-enxofre destaca-se pela alta densidade de energia sem conter metais de terras raras. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
