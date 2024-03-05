@@ -1,0 +1,41 @@
+{
+    "title": "IA surpreende pesquisadores / Hacker roubando hacker / GovBR é o maior do mundo",
+    "fps": 30,
+    "timestamp": 1709648779,
+    "width": 0,
+    "height": 0,
+    "date": "05/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Anthropic apresenta Claude 3, alegando superioridade em relação ao GPT-4 e Gemini em testes multimodais: a equipe também reportou um momento curioso durante os testes, quando modelo pareceu demonstrar o que chamaram de “meta-consciência” – o próprio modelo parecia estar testando os pesquisadores sobre a capacidade de atenção deles, levantando novamente a questões sobre o quão conscientes esses modelos estão de si. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Grupo que alegava ter invadido a Epic Games admite ter forjado toda a operação para enganar outros hackers: o objetivo era vender uma tecnologia inexistente para invasão de redes. O grupo Mogilevich, que se descreve não como hackers, mas como “gênios do crime”, alega ter enganado oito compradores. As informações são do site The Gamer.",
+            "url": ""
+        },
+        {
+            "text": "GovBR é o mais acessado do mundo na categoria Governo: o site, operado pelo Serpro, registra 4 mil acessos por segundo. Os 150 milhões de brasileiros cadastrados têm acesso a 4.200 serviços digitais, inclusive assinatura eletrônica, com a mesma validade de assinaturas físicas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Montadoras precisarão adicionar controles físicos para funções básicas em veículos se quiserem manter notas de segurança na Europa: a medida busca combater a excessiva dependência da indústria automobilística em telas sensíveis ao toque, que podem distrair e aumentar o risco de acidentes. Especificamente, controles para as funções de setas, pisca-alerta, limpadores de para-brisa e buzina devem ser físicos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam “vírus” que usa prompts auto-replicantes para comprometer e se espalhar de um sistema para outro: o “Morris II”, em homenagem ao worm de computador Morris de 1988, aciona modelos de IA generativa para produzir prompts com um conjunto de instruções adicionais em suas respostas, algo semelhante, segundo os pesquisadores, aos ataques tradicionais de injeção de SQL e buffer overflow. Essa técnica permitiria a condução de ataques cibernéticos inéditos, com risco significativo para desenvolvedores, dado o uso disseminado dessas ferramentas entres esses profissionais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Linux atinge participação de 4% no mercado de desktops: o crescimento de 30% nos últimos 8 meses é significativo, considerando que levou 30 anos para o Linux alcançar uma participação de 3%. Fatores como sua natureza de código aberto, segurança, juntamente com melhorias significativas na estabilidade e usabilidade de distribuições como Ubuntu, Fedora e Mint, têm contribuído para tornar o Linux mais acessível a um público mais amplo. As informações são do site Linuxiac.",
+            "url": ""
+        }
+    ]
+}
