@@ -1,0 +1,41 @@
+{
+    "title": "Google: evolução do C++ é inviável / Bitcoin bate recorde / Incentivo a startups no Brasil",
+    "fps": 30,
+    "timestamp": 1709735224,
+    "width": 0,
+    "height": 0,
+    "date": "06/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google considera inviável evolução do C++ para incluir garantias em termos de segurança de memória: a empresa reforçou novamente que planeja realizar uma transição gradual do C++ para linguagens como Java, Go e Rust. Apesar desse comprometimento, uma reescrita em larga escala das “centenas de milhões” de linhas de código C++ existente em sua base de código parece muito difícil e provavelmente permanecerá impraticável. As informações são do blog Google Security.",
+            "url": ""
+        },
+        {
+            "text": "Bitcoin alcança novo recorde histórico ao ultrapassar 69.000 dólares pela primeira vez desde novembro de 2021: o preço da moeda registra alta de 200% nos últimos doze meses, contribuindo para uma capitalização de mercado acima de 1,3 trilhão. Essa valorização ocorre antes do processo de halving, evento que reduzirá pela metade a recompensa pela mineração do ativo, previsto para final de abril. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Comissão de Assuntos Econômicos aprova o projeto de lei complementar para incentivar investimento em startups no Brasil: previsto na PLP 252/2023, o Contrato de Investimento Conversível em Capital Social, permite que investimentos se convertam em participação societária, sem integrar imediatamente o capital social do empreendimento, proporcionando maior segurança jurídica e protegendo investidores de riscos operacionais. As informações são da Agência Senado.",
+            "url": ""
+        },
+        {
+            "text": "Buscador do Google atualiza algoritmo para combater páginas otimizadas para SEO: a intenção é reduzir em 40% a indicação de conteúdo considerado não original e de baixa qualidade, incluindo conteúdo gerado por IA destinado apenas a atrair cliques. Além disso, a iniciativa também combaterá o abuso da reputação de um site, no qual domínios com conteúdo de valor concreto hospedam outros de baixa qualidade de terceiros. As mudanças entrarão em vigor a partir de 5 de maio. As informações são do site The Keyword.",
+            "url": ""
+        },
+        {
+            "text": "De forma inesperada, Microsoft anuncia encerramento de suporte a aplicativos Android no Windows: a funcionalidade permite rodar apps Android em um ambiente virtualizado dentro do sistema operacional. Aplicativos e jogos que dependem do Subsistema Windows para Android, incluindo a Amazon Appstore, não serão mais suportados a partir de março de 2025. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de ransomware ALPHV/BlackCat cessa operações abruptamente após receber pagamento de resgate milionário: após a transação, um afiliado do grupo alegou que havia sido enganado, ficando ser receber a sua parte. O site do grupo também está exibindo o que seria uma falsa mensagem de apreensão pelo FBI. Especialistas de segurança, entretanto, sugerem que o grupo cometeu um “exit scam”, fugindo com o valor total do pagamento de 22 milhões de dólares. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
