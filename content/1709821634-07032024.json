@@ -1,0 +1,41 @@
+{
+    "title": "IRPF: novas regras para cripto / PCs de IA são só “hype” / Computador quântico sem uso prático",
+    "fps": 30,
+    "timestamp": 1709821634,
+    "width": 0,
+    "height": 0,
+    "date": "07/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Regras para declaração de criptoativos no Imposto de Renda mudam neste ano: na ficha de “Bens e Direitos” será exigida a discriminação entre “altcoins” e “stablecoins”, e o CNPJ da empresa de custódia desses ativos. Outra novidade é que o chatbot “Léo”, lançado em 2021, agora pode auxiliar contribuintes no preenchimento da declaração (o assistente está acessível na página inicial da Receita). O período de entrega das declarações será de 15/mar a 31/maio. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Analista afirma que “PCs de IA” são o “hype” do momento apenas para vender mais: para Jon Peddie, a nova nomenclatura é apenas uma ferramenta de marketing, sendo que a maioria dos aplicativos ainda precisa ser atualizada para usufruir das vantagens que as NPUs (Unidades de Processamento Neural) nessas máquinas oferecem. Em contrapartida, o analista vê uma crescente demanda por GPUs, não para o treinamento/inferência de IAs locais, mas para o mercado gamer, devido ao aumento da oferta e queda no preço das placas gráficas nos últimos trimestres. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google lança competição para encontrar usos práticos da computação quântica: a tecnologia atual pode resolver alguns problemas abstratos de matemática mais rápido do que computadores clássicos, mas nenhum deles tem qualquer uso prático. Os pesquisadores, concorrendo a um prêmio total de 5 milhões de dólares, deverão mostrar como um algoritmo quântico pode ser aplicado a um problema do mundo real, como a descoberta de novos eletrólitos que melhorem significativamente a capacidade de armazenamento de baterias. As informações são do site New Scientist.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas alemães desenvolvem nanomembranas de diamante capazes de dissipar até 10 vezes mais calor de componentes eletrônicos: aproveitando-se da excelente condutividade térmica do mineral, essas membranas podem, por exemplo, serem integradas diretamente a circuitos de resfriamento de carregadores de veículos elétricos aumentando em cinco vezes a velocidade de carregamento. O processo de fabricação é escalável e tem previsão de iniciar testes em inversores e transformadores de energia ainda neste ano. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Confiança do público em tecnologias de IA e nas empresas que as desenvolvem está em queda globalmente: a confiança em empresas de IA caiu de 61% para 53% nos últimos cinco anos. O setor de tecnologia no geral também está com a reputação abalada – há oito anos, era a indústria mais confiável em 90% dos países e hoje, apenas na metade. A pesquisa também destaca uma divisão geográfica, com países em desenvolvimento mais abertos à IA em comparação aos desenvolvidos. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Apple classifica a Epic Games como uma “ameaça” ao ecossistema iOS e encerra sua conta de desenvolvedor na plataforma: a ação seria justificada por violações contratuais passadas da Epic e impede que o estúdio de jogos lance uma loja paralela à App Store na União Europeia. A Epic alega que a decisão viola leis anticompetitivas. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
