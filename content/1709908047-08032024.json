@@ -1,0 +1,41 @@
+{
+    "title": "Alerta para extensões do Chrome / Enganando IAs com arte / AWS segue Google Cloud",
+    "fps": 30,
+    "timestamp": 1709908047,
+    "width": 0,
+    "height": 0,
+    "date": "08/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Extensão do Chrome alerta sobre mudanças de donos por trás de outras extensões instaladas no navegador: muitas vezes, plugins populares são adquiridos com o intuito de modificar seu código para o roubo de informações ou injeção de anúncios. O “Under New Management”, desenvolvido por Matt Frisbie, visa proteger usuários nesses casos. A equipe do Chrome está considerando implementar uma API oficial para detectar mudanças de propriedade após o reconhecimento do trabalho de Frisbie. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores contornam medidas de segurança em chatbots de IA utilizando “arte ASCII”: o método, chamado de ArtPrompt, se destaca pela simplicidade e eficácia, conseguindo enganar esses sistemas ao substituir palavras-chave consideradas não seguras ou proibidas (dinheiro falso, por exemplo) por suas representações em arte ASCII. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "AWS segue Google Cloud e zera taxas de saída de dados (egress fees) para todos os clientes: a decisão visa facilitar a troca de provedores de nuvem e parece ser resposta a pressões regulatórias que promovem a concorrência, especialmente na União Europeia. A AWS já permitia a transferência gratuita de até 100 GB de dados por mês. A mudança pode influenciar a Microsoft a adotar uma política semelhante no Azure. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anatel aprova primeiros testes para conexão direta de celulares com satélites no Brasil: a tecnologia visa oferecer chamadas de voz, mensagens e acesso à internet em áreas remotas. Operadoras como TIM e Claro, além de empresas como Starlink, AST SpaceMobile e Lynk World já manifestaram interesse nesse tipo de conexão. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novo trojan bancário é identificado circulando no Brasil: o “ChaveCloak” está sendo distribuído por meio de um arquivo PDF malicioso, geralmente um contrato, com instruções para a assinatura do documento, levando ao download da carga de infecção. O malware tenta roubar credenciais bancárias – buscando especialmente por conexões ao Mercado Bitcoin – permitindo ao operador bloquear a tela, registrar teclas digitadas e exibir pop-ups enganosos. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas e desenvolvedores de IAs admitem que não compreendem totalmente como grandes modelos de linguagem funcionam: esses sistemas muitas vezes agem como “caixas pretas”, com processos internos desconhecidos. Pesquisadores da OpenAI recentemente descobriram de forma acidental o fenômeno de “grokking”, quando um treinamento extensivo, sem novos dados, faz um modelo realizar tarefas que, inicialmente, parecia não aprender. Este comportamento desafia as teorias estatísticas clássicas sobre aprendizado de máquina e generalização, quando o modelo realiza tarefas não demonstradas durante o treinamento. As informações são do site MIT Technology Review.",
+            "url": ""
+        }
+    ]
+}
