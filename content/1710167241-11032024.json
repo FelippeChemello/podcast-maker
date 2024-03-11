@@ -1,0 +1,41 @@
+{
+    "title": "TikTok: indenização de R$500 por usuário / Musk abre código do Grok / Brasil: maior drone agrícola do mundo",
+    "fps": 30,
+    "timestamp": 1710167241,
+    "width": 0,
+    "height": 0,
+    "date": "11/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "TikTok é condenado pela Justiça a indenizar cada usuário brasileiro com 500 reais: a ação destaca a prática da plataforma em coletar dados biométricos sem consentimento prévio dos usuários. Especialistas, entretanto, acreditam que a obtenção das indenizações individuais será muito complexa, prevendo possibilidade de reversão da decisão. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk decide abrir código do Grok, modelo desenvolvido por sua startup xAI: a iniciativa visa promover uma alternativa aos modelos da OpenAI e Google – Musk tem criticado como a tecnologia tem sido usada por grandes empresas de tecnologia. A xAI se junta à Meta, que também disponibiliza alguns de seus modelos em código aberto. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Startup brasileira realiza voo inaugural do maior drone agrícola de pulverização do mundo: o Harpia P-71, da Psyche Aerospace, possui 8 metros de comprimento, autonomia de 10 horas, e cobertura de 40 hectares por hora. O protótipo foi desenvolvido ao longo de seis meses na incubadora do Parque de Inovação Tecnológica de São José dos Campos, um dos maiores hubs aeroespaciais do mundo. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de data centers no Brasil registrou expansão de 628% em capacidade nos últimos 10 anos: concentrado em São Paulo, o estado lidera o setor devido à sua proximidade com empresas e pólo de consumo do país. Campinas e Barueri são os destaques: as duas cidades possuem em operação 631 megawatts, com expansão de 112% planejada ou já em construção. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple reverte posição mais uma vez e restabelece conta de desenvolvedor da Epic Games: a decisão abre novamente caminho para a Epic lançar uma loja paralela à App Store na União Europeia. A mudança de posição da Apple ocorreu um dia após a Comissão Europeia anunciar uma investigação sobre a conduta e que poderia resultar em multas e sanções significativas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas coreanos apresentam novo chip acelerador de IA muito mais eficiente do que o A100 da Nvidia: o C-Transformer é 41 vezes menor, consumindo apenas 500mW, 625 vezes menos energia devido a uma tecnologia de computação neuromórfica desenvolvida em colaboração com a Samsung. O desempenho estimado é de apenas 3,4 TOPS (trilhões de operações por segundo), 183 vezes menor do que o A100, mas por causa de sua eficiência energética, torna-se viável, especialmente para aplicações de computação móvel. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
