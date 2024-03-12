@@ -1,0 +1,41 @@
+{
+    "title": "Midjourney acusa Stability AI / TikTok: banido ou vendido / Speedometer 3.0",
+    "fps": 30,
+    "timestamp": 1710253620,
+    "width": 0,
+    "height": 0,
+    "date": "12/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Midjourney acusa Stability AI de raspagem de dados: um incidente similar a um ataque DDoS no início deste mês – e que acabou derrubando o serviço de imagens generativas – foi associado à “atividade semelhante a um botnet”, vinculada especificamente a um membro da equipe de dados da Stability AI. Como resposta, a Midjourney baniu todas as contas de funcionários da Stability AI do serviço. Emad Mostaque, CEO da Stability AI, afirma que está investigando o caso, mas nega qualquer intenção de dano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ex-CEO do estúdio de jogos Activision estaria considerando a aquisição do TikTok: Bobby Kotick teria discutido a ideia com potenciais parceiros, incluindo Sam Altman, CEO da OpenAI. Kotick deixou a Activision após a fusão do estúdio com a Microsoft. Legisladores nos EUA irão votar em breve um projeto que exigirá a venda da rede social para uma empresa norte-americana ou a proibição de suas operações no país devido a preocupações com segurança nacional. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Apple, Google, Microsoft e Mozilla lançam Speedometer 3.0, atualização significativa no benchmark para desempenho de navegadores: a nova versão introduz uma metodologia aprimorada e um conjunto de testes mais representativo das interações modernas na web. A ferramenta é a primeira do setor a ser criada sob um modelo de governança colaborativa e já influenciou otimizações nas principais engines (Blink, Gecko e WebKit). As informações são do blog Browserbench.",
+            "url": ""
+        },
+        {
+            "text": "Brasil alcança 4ª posição no ranking global de uso do ChatGPT: os 5,1% do tráfego total (123 milhões de acessos) em janeiro deste ano representa um crescimento de 178% na comparação anual. O país ficou apenas atrás dos EUA (19,8% do tráfego total), Índia (11,6%) e Indonésia (6,1%). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários do Google afirmam que sinais WiFi não funcionam no novo campus, projetado pela própria empresa: o peculiar teto do local, uma estrutura metálica e de vidro em forma de tenda, coberto por células solares, prejudica a propagação do WiFi, obrigando os funcionários a recorrerem a conexões Ethernet e uso de seus próprios celulares para conexão com a internet. Um porta-voz do Google confirmou os problemas e indicou que uma solução está prevista para as próximas semanas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Linux 6.9 será a primeira versão do kernel a atingir mais de dez milhões de “Objetos do Git”: Linus Torvalds esclareceu que não há “nada de especial nisso, além de ser um agradável número redondo”. Objetos do Git são componentes fundamentais que compõem a base de dados interna do Git (Commit, Blob, Tag e Tree). As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
