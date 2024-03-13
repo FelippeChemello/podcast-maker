@@ -1,0 +1,41 @@
+{
+    "title": "GitHub confirma problemas / Telegram próximo de IPO / Primeiro Eng.º de software baseado em IA",
+    "fps": 30,
+    "timestamp": 1710340045,
+    "width": 0,
+    "height": 0,
+    "date": "13/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub confirma problemas após dois dias consecutivos de desempenho degradado em seus sistemas: o mais recente é o atraso na execução de Pull Requests. O GitHub atribuiu a degradação do serviço a um rollback mal sucedido em um de seus datacenters, prometendo medidas para evitar futuras ocorrências. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Telegram deve atingir marca de 1 bilhão de usuários até o final deste ano: para comparação, o WhatsApp tem aproximadamente 2 bilhões de usuários ativos mensais. O CEO e fundador Pavel Durov espera que os recentes esforços de monetização tornem a plataforma lucrativa, iniciando discussões sobre uma possível oferta pública inicial de ações (IPO) – a empresa valeria cerca de 30 bilhões de dólares. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Startup lança o que chama de “primeiro engenheiro de software baseado em IA” do mundo: o Devin, da Cognition Labs, é capaz de planejar e executar projetos de forma autônoma, contando com um terminal, editor de código e navegador próprio. O sistema também pode treinar suas próprias IAs para resolver problemas específicos. Desenvolvedores experientes podem tratar o Devin como um colaborador, permanecendo mais envolvido na tomada de decisões e design, ou simplesmente usá-lo como uma equipe de teste ou um especialista em documentação. Em comparação a outros modelos na resolução de problemas do mundo real com projetos de código aberto no GitHub, o Devin conseguiu resolver quase 14% das tarefas, seguido por Claude 2 (resolveu 4,8%) e GPT-4 (1,7%). Há, entretanto, preocupações sobre o uso de sistemas totalmente automatizados na manutenção de sistemas críticos, modificando uma base de código de maneiras que podem não ser totalmente compreendidas, com efeitos difíceis de serem previstos. O Devin se encontra ainda em acesso restrito à medida que a Cognition Labs aumenta sua capacidade. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Proposta para reforma do Código Civil brasileiro pretende revogar o importante artigo 19 do Marco Civil da Internet: esse artigo isenta plataformas digitais de responsabilidade sobre conteúdos publicados por terceiros. A mudança visa alinhar a legislação brasileira com práticas internacionais, introduzindo auditorias anuais e exigindo a abertura dos algoritmos de recomendação das empresas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Discord anuncia lançamento de SDK dedicado para o desenvolvimento de jogos e aplicativos que rodam diretamente nos chats da plataforma: disponível a partir de 18 de março, a iniciativa visa ampliar as experiências compartilhadas entre usuários, que já incluem assistir ao YouTube, jogar poker ou compartilhar um quadro branco, por exemplo. Além disso, o Discord está retomando seu programa de pitch de aplicativos, oferecendo financiamento para ideias selecionadas. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Google paga menos recompensas por bugs em 2023: o valor de 10 milhões de dólares é 16% menor do que o pago no ano anterior. No total, foram 632 pesquisadores recompensados – o maior prêmio individual foi de 113.337 dólares. O programa viu um aumento significativo nas recompensas para vulnerabilidades críticas no Android, com mais de 3,4 milhões pagos. O Chrome foi alvo de 359 relatórios de falhas, que pagaram um total de 2,1 milhões. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
