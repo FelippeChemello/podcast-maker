@@ -1,0 +1,41 @@
+{
+    "title": "Lei de Moore “ressuscitada” / Sora no final do ano / Devs indie com dificuldade",
+    "fps": 30,
+    "timestamp": 1710427447,
+    "width": 0,
+    "height": 0,
+    "date": "14/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rival da Nvidia afirma ter “ressuscitado” Lei de Moore com novo chip “gigante” acelerador de IA: o WSE-3, da Cerebras, mede 462 cm2 e é 57 vezes maior do que o chip do H100 da Nvidia, ocupando praticamente toda a área de um wafer de silício. O WSE-3 oferece o dobro do desempenho por watt em comparação com a versão anterior, com 4 trilhões de transistores. O chip também se destaca pelo bandwidth de memória – 21 PBps em comparação com os 3,9 TBps do H100 – o que permitirá  a manipulação de grandes conjuntos de dados e processamento paralelo para rápida execução de modelos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI planeja lançar Sora até o final deste ano: o gerador de vídeos está sendo usado atualmente apenas por artistas visuais e cineastas selecionados. A empresa também pretende incorporar áudio ao modelo e adicionar algumas ferramentas de edição. O acesso ao Sora deverá ter um custo semelhante ao do DALL-E. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Maioria dos aplicativos móveis não consegue gerar mais de 1.000 dólares por mês com assinaturas na Google Play e App Store: 17,2% dos apps alcançam mais de mil dólares em ganhos mensais e apenas 3,5% deles atingem 10 mil mensais. A pesquisa, que analisou 30 mil apps, revela os desafios financeiros significativos dos desenvolvedores independentes. As informações são do site Apple Insider.",
+            "url": ""
+        },
+        {
+            "text": "Estúdio de jogos brasileiro adiciona suporte a jogos antigos do MS-DOS em seu emulador para consoles, como Switch e PS5: o Emulation Engine, da QUByte Interactive, abre o caminho para revitalizar jogos de PC da década de 80 e 90, alguma vezes inacessíveis em plataformas modernas. A engine agora também oferece melhorias como shaders e filtros visuais, suporte a controles modernos, salvamento a qualquer momento e multiplayer online. As informações são do site da QUByte Interactive.",
+            "url": ""
+        },
+        {
+            "text": "Azure segue Google e AWS, zerando taxas de saída de dados (egress fees): especialistas, entretanto, consideram a medida mais uma estratégia de marketing do que uma mudança substancial – para obter o benefício, é necessário solicitar que a conta na Azure seja encerrada, impedindo que os dados sejam transferidos para outro provedor apenas como forma de backup. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI contrata arquiteto de sistemas quânticos: o estudo de Ben Bartlett foca em QPUs (unidades de processamento quântico), uma intersecção entre física quântica, aprendizado de máquina e nanofotônica. A aplicação da tecnologia na otimização de conjuntos de treinamento e bases de dados complexas poderia representar um grande avanço na área, eliminando a necessidade de parâmetros cada vez maiores em modelos de IA. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
