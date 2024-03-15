@@ -1,0 +1,45 @@
+{
+    "title": "Trabalho: novas tecnologias atrapalham / Marco legal dos jogos eletrônicos / Craig Wright não é Satoshi Nakamoto",
+    "fps": 30,
+    "timestamp": 1710512819,
+    "width": 0,
+    "height": 0,
+    "date": "15/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Tecnologias modernas no ambiente de trabalho impactam negativamente o bem-estar dos funcionários: o estudo, envolvendo mais de 6.000 pessoas, verificou que tecnologias como câmeras, automação mecânica, biometria e IAs tendem a piorar o estado mental e saúde das pessoas. Apenas uma das categorias foi considerada benéfica para os funcionários, os equipamentos de TI e software tradicionais, como computadores, telefones e ferramentas de mensagens em tempo real. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Senado aprova marco legal para a indústria de jogos eletrônicos no Brasil: o Projeto de Lei 2.796/2021, visa fomentar o setor através de incentivos fiscais, com tratamento especial para desenvolvedores com receita bruta anual de até 16 milhões reais. A lei também estabelece diretrizes para a classificação etária dos jogos, incluindo restrições a microtransações em jogos voltados para crianças. O texto que agora retorna à Câmara para nova análise. As informações são do site Agência Senado.",
+            "url": ""
+        },
+        {
+            "text": "Justiça do Reino Unido determina que Craig Wright não é Satoshi Nakamoto, criador do Bitcoin: a decisão encerra uma disputa legal que começou com as alegações de Wright em 2016. O juiz do caso destacou a falta de evidências para a autoria do whitepaper e do software original do Bitcoin. As informações são do site Unchained.",
+            "url": ""
+        },
+        {
+            "text": "Instalações do Firefox e Brave registram aumento significativo em iPhones na Europa após lei que obriga tela para escolha de navegador nesses dispositivos: o Firefox viu o número de instalações subir 40% na Alemanha e 30% na França. O Brave registrou alta de 37% na primeira semana da medida, que visa limitar a tendência das Big Techs de promoverem seus próprios serviços e aplicativos em detrimento dos concorrentes. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Chrome introduz proteção em tempo real contra phishing: o recurso substitui a checagem de URLs suspeitas, armazenadas localmente, a cada 30/60 minutos, por uma verificação criptografada e anonimizada em servidores do Google. A funcionalidade, ativada por padrão, já está disponível na versão mais recente do navegador (123.0.6312.46) para Windows, Linux, macOS e iOS, com lançamento previsto para Android até o final do mês. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores descobrem falha na encriptação das conversas do ChatGPT e de outros assistentes de IA: a técnica permite a um invasor de redes deduzir 29% das respostas, com precisão perfeita de palavras, ao se observar o trânsito de dados pela internet. A OpenAI já implementou mitigações. A Microsoft disse que irá atualizar o Copilot em breve. O Google Gemini é o único assistente não suscetível ao ataque. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia data do seu evento anual para desenvolvedores: o Google I/O ocorrerá nos dias 14 e 15 de maio. O evento deve apresentar novidades sobre o sistema operacional Android, atualizações sobre o projeto Gemini, além de novo hardware para consumidores. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
