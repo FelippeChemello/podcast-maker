@@ -1,0 +1,41 @@
+{
+    "title": "Lei quer obrigar “foto com som” / Alerta sobre celulares e crianças / Grok liberado",
+    "fps": 30,
+    "timestamp": 1710772120,
+    "width": 0,
+    "height": 0,
+    "date": "18/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Comissão aprova projeto de lei que obriga smartphones a emitirem som ”similar ao de obturador de câmeras fotográficas analógicas” ao tirar fotos: a medida visa coibir violações de privacidade. A proposta, que ainda deve passar por mais comissões e pelo Senado, exige que o som seja audível a uma distância razoável e não possa ser desabilitado nas configurações do dispositivo. A prática já é adotada no Japão e Coreia do Sul para prevenir a captura indevida de imagens. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Psicólogo social faz alerta sobre “infância baseada em smartphones”: Jonathan Haidt argumenta que o ambiente atual de crescimento das crianças é hostil ao desenvolvimento humano, destacando um agravamento súbito na saúde mental dos adolescentes desde o início dos anos 2010. Ele atribui esse problema ao aumento do uso de smartphones e redes sociais, que alteraram significativamente a experiência diária e o desenvolvimento dos jovens em diversas áreas, como amizade, sono, escola e dinâmicas familiares. Para combater essa crise, ele propõe uma correção cultural urgente, incluindo a proibição de smartphones antes do ensino médio, restrições ao uso de redes sociais antes dos 16 anos e escolas sem celulares. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "xAI libera código-fonte do Grok-1, com 314 bilhões de parâmetros: estão incluídos os pesos do modelo base e sua arquitetura, mas não os dados de treinamento. A licença Apache 2.0 permite o uso comercial, possibilitando que pesquisadores e desenvolvedores construam sobre o modelo. Tudo está disponível no repositório “xai-org/grok-1” no GitHub. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI quer desenvolver e fabricar seus próprios chips aceleradores de IA: a empresa está em negociações com um fundo de investimentos de Abu Dhabi para financiar construção de novas instalações e infraestrutura de suporte para a fabricação de semicondutores, reduzindo sua dependência em relação aos GPUs da Nvidia. O empreendimento também alinha-se à estratégia dos Emirados Árabes Unidos de se tornarem um participante chave na indústria global de inteligência artificial. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Apple apresenta o MM1, grande modelo de linguagem multimodal que integra texto e imagem: com 30 bilhões de parâmetros, o MM1 se destaca por sua compreensão e raciocínio em tarefas como contagem de objetos, resposta a perguntas baseadas em imagens, demonstração de bom senso, conhecimento sobre objetos cotidianos e funções matemáticas básicas. Como é apenas um projeto de pesquisa neste momento, não há informações sobre quando e como o MM1 será lançado em produtos da Apple. As informações são do site The Breaking AI.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de pesquisa da Microsoft foca na automação de tarefas complexas na engenharia de software: o AutoDev pode gerenciar uma parte do ciclo de desenvolvimento de software, dividindo projetos grandes em tarefas menores e lidando com sua execução através de agentes de IA. O sistema opera dentro de ambientes Docker, realiza uma gama de ações no IDE, incluindo testes automatizados e gestão de controle de versão com Git. Neste momento, o AutoDev é apenas um projeto de pesquisa dentro da Microsoft, sem previsão de lançamento. As informações são do Medium do cientista de dados Vishal Baraiya.",
+            "url": ""
+        }
+    ]
+}
