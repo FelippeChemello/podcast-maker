@@ -1,0 +1,41 @@
+{
+    "title": "TI: mercado de trabalho melhor / Defesa do C++ / Novo sinal no semáforo",
+    "fps": 30,
+    "timestamp": 1710858439,
+    "width": 0,
+    "height": 0,
+    "date": "19/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Expectativa para 2024 é de melhoria na contratação por startups de tecnologia: é previsto um aumento entre 5% a 8% no primeiro semestre deste ano. O ano de 2023 foi difícil para o setor de tecnologia com a diminuição da demanda pós-pandemia, menores investimentos nas startups devido à queda em suas avaliações de mercado e a demissão de mais de 190 mil pessoas somente nos EUA. As informações são do site Finta.",
+            "url": ""
+        },
+        {
+            "text": "Criador do C++ defende a linguagem de programação após governo dos EUA aconselhar desenvolvedores a utilizarem outras linguagens com segurança de memória: Bjarne Stroustrup destaca as forças do C++ contemporâneo e os esforços para fornecer garantias de segurança, mencionando melhorias contínuas desde a sua criação, em 1979. A NSA, agência de segurança nacional dos EUA, citou o C#, Go, Java, Python e Rust como linguagens consideradas seguras para memória. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores propõem adição de um quarto sinal luminoso aos semáforos para melhorar a segurança do trânsito em cenários futuros com veículos autônomos: a nova fase – proposta como um sinal branco por enquanto, até que uma cor que não crie confusão seja escolhida – seria ativada sempre que veículos autônomos interconectados se aproximassem de uma área onde duas ou mais vias se cruzam, indica aos motoristas próximos que simplesmente sigam o carro à sua frente, em vez de tentar antecipar o tempo de transição de uma luz amarela para o vermelho, por exemplo. A técnica poderia reduzir a congestão em interseções em pelo menos 40%. As informações são do site Popular Science.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria negociando parceria para integrar a IA Gemini do Google ao iPhone: a empresa também teria considerado a OpenAI como parceira. A Apple não descarta utilizar seus próprios modelos em algumas funcionalidades do iOS 18, versão do sistema operacional que deve ser lançada neste ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia introduz o que considera “o chip de IA mais poderoso do mundo”: o GB200, construído em cima de uma nova arquitetura chamada Blackwell, com 208 bilhões de transistores, promete um desempenho até 30 vezes superior e redução de 25 vezes no consumo de energia em comparação ao modelo H100, considerado o benchmark do mercado. A arquitetura Blackwell agora necessita de refrigeração líquida por causa das exigências de potência (máxima de 1.200W, contra 700W da geração passada) para alcançar o desempenho máximo de 40 petaFLOPS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem novo tipo de ataque acústico que pode deduzir o que é digitado em um teclado: é necessário coletar amostras de digitação do alvo por meio de um microfone oculto ou usando dispositivos comprometidos próximos, como smartphones ou smartspeakers. Embora a taxa de sucesso média seja de apenas 43%, o método se destaca por não exigir condições controladas de gravação, como ambientes sem ruídos ou uma plataforma de digitação específica, aumentando sua aplicabilidade em ataques reais. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
