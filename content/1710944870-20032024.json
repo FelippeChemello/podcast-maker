@@ -1,0 +1,41 @@
+{
+    "title": "Receita Federal: alerta de apps falsos / Microsoft faz contratação inesperadada / Inchaço da web",
+    "fps": 30,
+    "timestamp": 1710944870,
+    "width": 0,
+    "height": 0,
+    "date": "20/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Receita Federal emite alerta sobre aplicativos falsos para declaração do Imposto de Renda nas lojas Google Play e App Store: o único app oficial é o “Meu Imposto de Renda”, desenvolvido por “Serviços e Informações do Brasil”. Além disso, a Receita reforça que não envia emails e mensagens pelo WhatsApp, Telegram ou SMS. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "De forma inesperada, Microsoft contrata fundador e parte da equipe da startup Inflection AI para sua nova divisão de IA voltada para consumidores: a Microsoft AI – que lidará com o Copilot, Bing e Edge – será liderada por Mustafa Suleyman, que também foi co-fundador da DeepMind, adquirida pelo Google em 2014. A Inflection AI havia recentemente recebido um aporte de 1,3 bilhão da Microsoft para construir “o maior cluster de IA do mundo”, com 22 mil GPUs Nvidia H100. A startup anunciou uma mudança estratégica e deverá oferecer sua tecnologia a desenvolvedores e empresas, em vez de investir em seu chatbot Pi. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Estudo aborda “inchaço” de páginas e aplicativos web não otimizados, sobrecarregando dispositivos de entrada: a análise destacou páginas como a do Wix, que fazem o download de 21MB de dados, levando até 33 segundos para carregar em alguns dispositivos. As plataformas de redes sociais também possuem um desempenho ruim, chegando a ser inutilizáveis em alguns casos. A pesquisa evidencia uma tendência no design de páginas na web que assume incorretamente uma disponibilidade constante de largura de banda e processamento alto, prejudicando a usabilidade em dispositivos menos potentes. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Vídeos voltados ao público infantil no YouTube estão isentos das novas regras sobre deepfakes: a plataforma agora exige que criadores de conteúdo revelem o uso de mídia sintética que “alterem a realidade”, como incêndios em edifícios ou trocas de rostos, por exemplo. Para conteúdos que não induzam o espectador a pensar que o que estão vendo é real, não há necessidade da divulgação, assim como edições “menores”, como filtros estéticos ou melhorias em áudio e vídeo. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Agência Espacial Europeia quer montar um sistema de coordenadas global com precisão de 1 milímetro: o satélite Genesis integrará várias técnicas geodésicas – medição e representação da forma e dimensões da Terra – visando corrigir vieses inerentes a cada método. O projeto irá beneficiar aplicações em aviação, gerenciamento de tráfego, veículos autônomos, meteorologia, previsão de desastres naturais, gestão de terras e estudo de forças gravitacionais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "BitTorrent perde significativamente sua predominância na internet: em 2004, o protocolo era responsável por 35% de todo o tráfego da internet – hoje, representa apenas 4% e não figura mais entre os dez principais em conexões móveis. Streaming de vídeo e mídias sociais agora dominam o tráfego de dados, representando mais da metade do acesso fixo e dados móveis globalmente. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
