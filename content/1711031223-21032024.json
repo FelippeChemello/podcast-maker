@@ -1,0 +1,41 @@
+{
+    "title": "GPT-5 em junho? / Hackeando por diversão / GitHub: nova ferramenta de segurança",
+    "fps": 30,
+    "timestamp": 1711031223,
+    "width": 0,
+    "height": 0,
+    "date": "21/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rumores apontam o lançamento de um novo LLM pela OpenAI na metade deste ano: alguns parceiros já receberam demonstrações, descrevendo-o como “realmente bom” e “concretamente melhor” em comparação ao atual GPT-4 Turbo. Não se sabe ainda se esse modelo é o GPT-5 ou uma versão melhorada do GPT-4. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Hacker atrapalha torneio de eSports do jogo Apex Legends “apenas por diversão”: após aplicar “cheats” a alguns jogadores durante a transmissão ao vivo do evento, os organizadores foram forçados a adiar o torneio. O hacker, identificado como Destroyer2009, disse que o ataque serve para incentivar os desenvolvedores do jogo a corrigir a vulnerabilidade explorada. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GitHub introduz nova ferramenta para correção de vulnerabilidades: o Code Scanning Autofix – em beta pública – promete tratar mais de 75% dos problemas de segurança em JavaScript, Typescript, Java e Python. Suporte para mais linguagens, incluindo C# e Go, virá nos próximos meses. O sistema inclui pré-visualizações das correções sugeridas, com explicações em linguagem natural e que podem abranger alterações em todas as dependências de um projeto. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Intel ainda domina mercado de CPUs global: no último trimestre de 2023, a Intel vendeu 50 milhões de unidades, registrando uma participação de 78% do mercado, um crescimento anual de 3% – em comparação a AMD vendeu 8 milhões de CPUS, uma fatia de 13% do mercado (queda anual de 1%). As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Lixo eletrônico está se acumulando globalmente, com taxas de reciclagem em declínio: até o final da década, serão 82 milhões de toneladas acumuladas, com menos de 20% sendo recicladas, devido ao aumento do consumo, ciclos de vida mais curtos e opções limitadas de reparo. Os metais – incluindo cobre, ouro e ferro – representaram metade do lixo produzido, avaliado em 91 bilhões de dólares. Cerca de 50% é produzida na Ásia, enquanto a Europa apresenta as maiores taxas de reciclagem, superando 40%. As informações são do site TechXplore.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia apresenta plataforma “GR00T” para desenvolvimento de robôs humanoides: o modelo de propósito geral permite que robôs compreendam linguagem natural para navegar e interagir no mundo real, aprendendo novas habilidades apenas observando ações humanas. A empresa também lançou o Jetson Thor, um SoC, que oferece 800 teraflops de desempenho para rodar o modelo GR00T nos próprios robôs. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
