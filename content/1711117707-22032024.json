@@ -1,0 +1,41 @@
+{
+    "title": "Stability AI: problemas se agravam / Apple monopolista / Custo de baterias para EVs cai",
+    "fps": 30,
+    "timestamp": 1711117707,
+    "width": 0,
+    "height": 0,
+    "date": "22/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Membros-chave da equipe de pesquisa da Stability AI deixam startup com agravamento de sua crise financeira: o êxodo em massa de pesquisadores e executivos tem crescido nos últimos meses à medida que as reservas da empresa diminuem e ela luta para levantar capital adicional. A empresa também estaria com dificuldades para pagar salários e a AWS já teria ameaçado revogar acesso a seus serviços por contas não pagas. As informações são do site da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA vai investigar Apple por monopólio no mercado de smartphones: a acusação central é de que a empresa detém mais de 65% do mercado de smartphones no país. A Apple argumenta que sua participação é de apenas 20% do mercado global e a investigação seria uma “tentativa equivocada de transformar o iPhone no Android”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Custo da fabricação de baterias para veículos elétricos está caindo: o aumento nos custos de metais como lítio, níquel e cobalto registrado nos últimos anos perdeu força, com uma projeção de queda para 99 dólares o quilowatt-hora até 2025, uma diminuição de 40% em relação aos custos de 2022. Isto pode tornar os carros elétricos mais competitivos, levando a uma maior adoção pelos consumidores. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "70% dos adolescentes norte-americanos acreditam que os benefícios dos smartphones superam seus efeitos negativos: embora vejam esses dispositivos como facilitadores da criatividade, da busca por interesses e do desempenho escolar, eles expressam preocupações sobre o impacto negativo destes dispositivos nas habilidades sociais. Uma grande parte também relata se sentir “feliz e tranquila” quando estão longe de seus smartphones, enquanto outros dizem que isso os deixa ansiosos. A pesquisa foi realizada com 1.453 adolescentes americanos, entre 13 e 17 anos, no final do ano passado. As informações são do site Pew Research Center.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de segurança ganham mais de 1 milhão de dólares por 29 zero-days explorados no Pwn2Own Vancouver 2024: os participantes escalaram privilégios para rodar código não autorizado em sistemas como Windows 11, Ubuntu, VMware Workstation, Oracle VirtualBox e três navegadores (Safari, Chrome e Edge). Até mesmo um Tesla Model 3 foi hackeado, virando um dos prêmios da competição. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "VueJS lança gerador de sites estáticos: o VitePress, baseado no Vite e Vue, pega um conteúdo escrito em Markdown, aplica um tema sobre ele e gera páginas HTML estáticas. A ferramenta pode facilitar a geração de documentações técnicas, blogs, portfólios e sites de marketing, com suporte para temas totalmente customizados. As informações são do blog do VueJS.",
+            "url": ""
+        }
+    ]
+}
