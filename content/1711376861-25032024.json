@@ -1,0 +1,41 @@
+{
+    "title": "Reviravolta na Stability AI / TV 3.0 no Brasil / Forks do Redis",
+    "fps": 30,
+    "timestamp": 1711376861,
+    "width": 0,
+    "height": 0,
+    "date": "25/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fundador e CEO da Stability AI renuncia ao cargo e deixa startup: Emad Mostaque disse que pretende trabalhar com IAs descentralizadas, já que “não se poderá vencer IAs centralizadas com mais IAs centralizadas”. Sua saída ocorre em um momento desafiador para a Stability AI, que enfrenta dificuldades financeiras e tentativas frustradas para captação de novos recursos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Governo brasileiro se reúne com representantes dos EUA e Japão para definir padrão da TV 3.0: a tecnologia permitirá a transmissão de vídeo em resolução 4K (HDR, 120Hz), a adoção de apps em substituição aos canais tradicionais e anúncios personalizados, mas exigirá novos receptores nos aparelhos de TV. O governo está avaliando adaptar os padrões norte-americano (ATSC 3.0) e japonês (Advanced ISDB-T), com previsão para início das transmissões em 2025. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mudança de licença do Redis leva à criação de múltiplos forks do projeto: Madelyn Olson, da AWS, iniciou um fork – sem nome oficial ainda – em resposta à alteração da licença BSD do Redis. Paralelamente, Drew DeVault, fundador do SourceHut, lançou o Redict, um fork independente e não comercial, sob a licença LGPL-3.0. As informações são do site The Stack.",
+            "url": ""
+        },
+        {
+            "text": "Streaming já representa 87% da receita do mercado musical brasileiro: os 2,5 bilhões de reais, crescimento de 14% em um ano, colocam o Brasil na nona posição entre os maiores mercados de música do mundo. Apesar da dominância do streaming, a venda de discos de vinil cresceu 136% em 2023, superando as vendas de CDs. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "China pretende eliminar progressivamente CPUs Intel e AMD de computadores e servidores governamentais: a diretriz também visa substituir o sistema operacional Windows e softwares de banco de dados criados por empresas estrangeiras. O país está em busca de alternativas “seguras e confiáveis” desenvolvidas domesticamente. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Movimento “Software Verde” está crescendo para combater impacto ambiental do desenvolvimento e uso de softwares: em 2040, o setor tecnologia da informação e comunicação pode ser responsável pela emissão de 14% de gases do efeito estufa, quase tanto carbono quanto o emitido pelos transportes aéreo, terrestre e marítimo combinados. A engenharia de software verde está sendo adotada por grandes empresas, como  Google, Intel e Microsoft, implementando práticas para a construção de aplicações que usem melhor o hardware e computação disponíveis, um caminho de volta para as raízes de eficiência da disciplina. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
