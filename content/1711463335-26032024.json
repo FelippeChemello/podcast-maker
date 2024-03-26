@@ -1,0 +1,41 @@
+{
+    "title": "Telegram: recurso controverso / Prisão no Brasil / Presencial vs remoto",
+    "fps": 30,
+    "timestamp": 1711463335,
+    "width": 0,
+    "height": 0,
+    "date": "26/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Telegram lança nova funcionalidade controversa no Android: em países selecionados, usuários poderão ganhar uma assinatura premium em troca da permissão para usar seus números de telefone para enviar senhas de uso único (OTP) via SMS para outros usuários tentando acessar a plataforma. O Peer-To-Peer Login levanta questões significativas sobre privacidade porque permite que estranhos obtenham o número de telefone dos participantes do programa ao receber as mensagens de texto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez no Brasil, responsável por provedor de IPTV pirata é condenado à prisão: a sentença é de 3 anos e 4 meses de reclusão, mais 2 anos de detenção em regime aberto por violações de direitos autorais e crime contra relações de consumo. A plataforma ilegal teria faturado 5,4 milhões de reais em 12 meses. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Salário médio para novas vagas de emprego que exigem presença total no escritório tem alta de 33% nos EUA: o aumento visa compensar a perda de flexibilidade dos funcionários e sugere que boa parte dos empregadores ainda tem uma percepção de que o trabalho remoto é menos produtivo. Outra justificativa seria o investimento financeiro em imóveis corporativos anterior à pandemia e a intenção de manter esses locais de trabalho cheios, apesar dos maiores custos. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Resultados do assistente de IA experimental na Busca do Google tem promovido sites maliciosos e fraudulentos: o sistema redireciona usuários para extensões indesejadas do Chrome, sorteios falsos e outros tipos de golpes. O problema parece fazer parte de uma campanha de envenenamento de SEO, permitindo a indexação desses sites pelo Google. A empresa afirma que atualiza continuamente seus sistemas e algoritmos para combater essas fraudes, mas reconhece que os criminosos também estão evoluindo com técnicas para burlar as detecções. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está melhorando renderização de texto do Chrome no Windows: contribuições recentes de engenheiros da empresa no Chromium adicionaram suporte ao ClearType Text Tuner – a tecnologia permite ajustes de contraste e correção de gamma para melhorar a legibilidade de texto em páginas web. A melhoria também deve chegar ao Chrome 124. Desde que adotou o Chromium como engine do Edge, a Microsoft tem contribuído consistente com melhorias, como rolagem suave e suporte aprimorado em telas de toque. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp está testanto nova funcionalidade que permite acesso ao Meta AI diretamente na barra de pesquisa de conversas do aplicativo: a integração, disponível por enquanto apenas na versão beta para Android (2.24.7.14), busca melhorar a conveniência, permitindo acessos rápidos ao assistente, nem a necessidade de iniciar um chat específico com o assistente. As informações são do site WABetaInfo.",
+            "url": ""
+        }
+    ]
+}
