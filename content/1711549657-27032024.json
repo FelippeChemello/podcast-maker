@@ -1,0 +1,41 @@
+{
+    "title": "Brasil: hackers fazem ameaça / Projeto secreto da Meta / Contrabando de celulares",
+    "fps": 30,
+    "timestamp": 1711549657,
+    "width": 0,
+    "height": 0,
+    "date": "27/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers do grupo Dark Storm anunciam planos para atacar infraestruturas críticas no Brasil: os alvos incluem internet, aeroportos, hospitais e serviços governamentais– a motivação seria política e em relação à guerra ocorrendo no Oriente Médio. O grupo é conhecido por suas habilidades avançadas de invasão a sistemas críticos ao redor do mundo. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Projeto secreto da Meta analisava tráfego de usuários do Snapchat e YouTube: documentos judiciais recém-divulgados mostram que, em 2016, a empresa, iniciou o “Project Ghostbusters”, com o objetivo de interceptar o tráfego de rede entre usuários por meio do Onavo, um serviço de VPN direcionado a adolescentes. Foi utilizada uma abordagem “man-in-the-middle”, permitindo a leitura do tráfego de rede dos dispositivos antes de serem criptografados. A validade ética do projeto foi questionada internamente e em 2019 o Onavo foi descontinuado. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Volume de celulares contrabandeados dobra em um ano no Brasil: 25% das vendas já representam produtos vindos do Paraguai, principalmente das marcas Xiaomi, Realme e OPPO. A Abinee, associação da indústria elétrica e eletrônica, destaca a perda de arrecadação em 4 bilhões de reais anuais, criticando a facilidade de comercialização desses produtos, sem homologação da Anatel, no Mercado Livre e Amazon, e o risco de fechamento de fábricas no país devido à concorrência desleal. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros canadenses desenvolvem câmera mais rápida do mundo: o sistema SCARF é capaz de capturar imagens a 156,3 trilhões de quadros por segundo, conseguindo registrar eventos na escala de femtosegundos – para comparação, câmeras em smartphones conseguem geralmente captar entre 120 e 240 fps. A tecnologia possui aplicação em campos como física, biologia, química, ciência dos materiais e engenharia. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Nvidia acredita que IA irá “renderizar” cada pixel de um jogo em tempo real em menos de 10 anos: Jensen Huang enfatiza que o desenvolvimento desses jogos exigirá um processo completamente diferente dos atuais, além de necessitar uma capacidade de hardware significativamente mais avançada, talvez dependendo de servidores na nuvem para distribuir a carga de trabalho. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Apple marca data para conferência anual de desenvolvedores: a WWDC 2024 ocorrerá entre 10 a 14 de junho, prometendo destaques em inteligência artificial sob o tema “Absolutely Incredible” (note as letras maiúsculas). Rumores sugerem que o iOS 18 pode ser a maior atualização do sistema até hoje. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
