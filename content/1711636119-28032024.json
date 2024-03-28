@@ -1,0 +1,41 @@
+{
+    "title": "GPT-4 perde o trono / Anatel aperta cerco / Ferramenta temporária há 30 anos no Windows",
+    "fps": 30,
+    "timestamp": 1711636119,
+    "width": 0,
+    "height": 0,
+    "date": "28/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pela primeira vez, outro LLM supera o GPT-4 Turbo da OpenAI no Chatbot Arena: o leaderboard, popular entre pesquisadores de IA, é usado para avaliar a capacidade relativa dos modelos de linguagem. Os 1.253 pontos obtidos pelo Claude 3 Opus da Anthropic – levemente acima dos 1.251 do GPT-4 – é notável, considerando que variações dos modelos da OpenAI dominaram o ranking desde o seu lançamento. Aparentemente aproveitando a boa notícia, a Amazon comunicou ontem a conclusão de um investimento de 4 bilhões na Anthropic – a AWS será o principal provedor cloud da startup. As informações são do site Ars Technica e do blog About Amazon.",
+            "url": ""
+        },
+        {
+            "text": "Anatel vai atrás do Mercado Livre e Amazon para coibir vendas de aparelhos celulares contrabandeados: a agência estabeleceu um prazo de 60 dias para a verificação do código EAN, sequência de dígitos que forma o código de barras de um produto – os três primeiros indicam o país de origem (produtos homologados para o Brasil começam com 789 ou 790). Nesses marketplaces, predomina a numeração que indica o mercado chinês (693 ou 694). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro da Microsoft revela que ferramenta “temporária” para formatação de discos no Windows já dura 30 anos: Dave Plummer foi escalado para criar a ferramenta na época do Windows 95 como uma solução provisória – uma versão definitiva, mais “elegante”, iria ser desenvolvida posteriormente. Contudo, essa atualização nunca aconteceu e a mesma interface básica ainda continua presente no Windows 11. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Fornecedores de spyware estariam por trás de 50% dos zero-days explorados em 2023, afirma Google: o ano encerrou com um total de 97 vulnerabilidades, um crescimento de 50%. 63% tinham como alvo dispositivos móveis, sistemas operacionais, navegadores e aplicativos para usuários finais, com as falhas restantes mirando softwares e dispositivos de segurança empresariais. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores instruem LLM a manter “diálogo interno”, melhorando significativamente sua capacidade de raciocínio: antes de responder a um prompt, o método “Quiet-STaR” direciona o modelo a gerar múltiplas conversas entre si, melhorando a qualidade de suas respostas. Em um teste com o Mistral 7B, a pontuação em testes de raciocínio subiu 30%. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Usuários de iPhones têm relatado ataques de “MFA Fatigue”, explorando uma aparente falha na função de redefinição de senha do Apple ID: a tática, também conhecida como “MFA Bombing”, envia um fluxo interminável de notificações para o dispositivo do usuário, dificultando seu uso até que as solicitações sejam respondidas, acidentalmente ou simplesmente para interromper os alertas. Não há muito o que se fazer nesse caso, a não ser recusar cada notificação. A Apple ainda não se manifestou sobre o assunto. As informações são do site KrebsOnSecurity.",
+            "url": ""
+        }
+    ]
+}
