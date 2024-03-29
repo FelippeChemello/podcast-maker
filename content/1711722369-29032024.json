@@ -1,0 +1,29 @@
+{
+    "title": "Tensão na comunidade open source / Ataque ao PyPI / Fundador do FTX condenado",
+    "fps": 30,
+    "timestamp": 1711722369,
+    "width": 0,
+    "height": 0,
+    "date": "29/03/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grandes projetos de código aberto têm adotado licenças mais restritivas em busca de maiores receitas: a necessidade de gerar lucros e manter os princípios do open source destaca um conflito fundamental na indústria de software. O movimento tem desencadeado críticas e preocupações na comunidade de desenvolvedores, que frustrados, têm realizado forks para continuidade desses projetos. Uma pesquisa recente estima que 96% do total das bases de código contém software open source. As informações são do site Computer World.",
+            "url": ""
+        },
+        {
+            "text": "PyPI precisou suspender temporariamente registro de novos usuários e criação de novos projetos para interromper uma campanha de malware: foram encontrados centenas de módulos que imitavam projetos legítimos e continham código malicioso dentro do arquivo “setup.py” que tentava acessar um servidor remoto. O malware tentava roubar informações armazenadas em navegadores web, como senhas e cookies. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Comunidade cripto manifesta descontentamento após sentença de 25 anos de prisão de Sam Bankman-Fried, fundador da FTX: uma comparação está sendo feita com a pena perpétua de Ross Ulbricht, criador do Silk Road – um marketplace para vendas anônimas, que foi usado para a distribuição de substâncias ilícitas e serviços de hacking. Bankman-Fried foi preso após uma fraude de bilhões de dólares relacionada ao colapso da exchange de criptoativos e tem a possibilidade de reduzir sua pena pela metade por bom comportamento. As informações são do site CNN Business.",
+            "url": ""
+        }
+    ]
+}
