@@ -1,0 +1,45 @@
+{
+    "title": "Backdoor grave no Linux / Ferramenta \"perigosa\" da OpenAI / Rust mais produtivo que C++",
+    "fps": 30,
+    "timestamp": 1711981633,
+    "width": 0,
+    "height": 0,
+    "date": "01/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Red Hat recomenda “cessar uso imediatamente” de sistemas Fedora 41 por causa de backdoor encontrado no XZ Utils: a biblioteca de compactação de dados é usada na maioria das distribuições Linux. A vulnerabilidade CVE-2024-3094, de criticidade 10/10, permite que códigos maliciosos sejam executados com privilégios de root em conexões SSH. O usuário “gpoleszuk” no TabNews fez uma excelente compilação de como a falha pode permitir acessos não autorizados em sistemas afetados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI considera sua ferramenta de clonagem de voz muito “perigosa” para ser lançada ao público: a partir de uma amostra de apenas 15 segundos, a Voice Engine pode reproduzir falas realistas e emotivas, além de leituras de textos em outros idiomas, preservando o sotaque. O modelo já está sendo usado pelo Spotify para dublagem de podcasts. Para liberar a tecnologia de forma mais geral, a startup estuda condições, como a eliminação gradual de métodos de autenticação baseada em voz, comuns em bancos ao redor do mundo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores Rust são duas vezes mais produtivos do que equipes de C++ no Google: Lars Bergstrom, diretor de engenharia do Google, destaca os benefícios da migração de projetos para Rust, evidenciando uma redução na quantidade de esforço necessário para construir e manter serviços em comparação com C++. Bergstrom também argumenta que houve uma mudança na conscientização nos últimos meses sobre o uso de linguagens seguras de memória, especialmente por autoridades governamentais que começaram a entender o papel que o ecossistema de desenvolvimento de software desempenha na infraestrutura crítica. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria planejando construir supercomputador para OpenAI: o projeto Stargate incluiria “milhões de GPUs” e custaria 115 bilhões de dólares, um valor muitas vezes superior aos maiores data centers do mundo. A intenção é que o supercomputador esteja operacional em 2028 e exigirá tanta energia que as duas empresas estariam até mesmo considerando fontes alternativas de energia, como nuclear. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está desenvolvendo interface gráfica para o Subsistema Windows para Linux do Windows: uma postagem no Dev Home do Windows no GitHub da Microsoft apresenta um mockup, permitindo que usuários gerenciem diferentes distribuições Linux sem a necessidade de executar comandos via terminal, e acompanhe o consumo de CPU e memória RAM do computador hospedeiro na execução dessas distribuições. Não há data prevista para lançamento. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Demis Hassabis, cofundador da DeepMind, acredita que videogames podem impulsionar a criatividade de crianças: ele defende o incentivo ao envolvimento com a tecnologia, citando o seu próprio sucesso resultante de experiências com jogos e programação na sua juventude – aos 17 anos, Hassabis foi lead programmer do jogo Theme Park, criado pelo famoso designer de jogos Peter Molyneux. Hassabis recebeu recentemente o título de cavaleiro do Reino Unido por suas contribuições à IA. As informações são da BBC e Wikipedia.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft decide remover Teams embutido em assinaturas do Office em todo o mundo: a decisão foi tomada após críticas da Comissão Europeia e do Slack, alegando que a empresa forçava a instalação do Teams por meio do pacote Office. A previsão é que novos pacotes de assinatura sejam apresentados a partir desta segunda-feira. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
