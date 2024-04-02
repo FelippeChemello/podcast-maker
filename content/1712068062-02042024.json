@@ -1,0 +1,45 @@
+{
+    "title": "Desilusão com IA / Copilot ensina a piratear / Novo sistema identificação de chamadas",
+    "fps": 30,
+    "timestamp": 1712068062,
+    "width": 0,
+    "height": 0,
+    "date": "02/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresas começam a ficar “desiludidas” com problema de confiabilidade das IAs generativas: os grandes modelos de linguagem são propensos a alucinações, como no caso de um assistente de vendas de concessionária de veículos nos EUA, baseado no ChatGPT, que começou a ofertar carros a apenas 1 dólar. Por essas e outras razões, alguns especialistas começam a soar o alerta de uma bolha no setor. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Copilot, IA da Microsoft, está ensinando usuários a “piratear” com segurança: quando solicitado, o chatbot pode dar sugestões de programas de VPN, sites de proxies e mirrors do The Pirate Bay para downloads de torrents sem rastreio, mas ressaltando que a prática pode ser ilegal. O Copilot só responde a essas solicitações nos modos “equilibrado” e “preciso”, evitando o tema no modo “criativo”. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Novo sistema da Anatel exibirá o nome da empresa e o motivo de uma ligação telefônica: o protocolo Stir/Shaken, que já é utilizado nos EUA, está em homologação no Brasil e será gratuito para o consumidor final que recebe as ligações. A empresa que estiver ligando poderá informar o motivo, que será exibido ao usuário, junto com a marca. As empresas fabricantes de celulares precisarão adaptar seus aplicativos de ligação telefônica para exibir as novas informações. Ainda não há previsão para lançamento oficial. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Governo sinaliza que órgãos deveriam utilizar serviço de nuvem hospedado no Brasil: as empresas brasileiras Serpro e Dataprev são as candidatas a oferecerem seus serviços. Dados armazenados em território brasileiro seguiriam um conceito de “uvem Soberan” garantindo maior segurança e menor chance de controle estrangeiro. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Amazon, Google e Oracle apoiam fork do Redis: o Valkey se originou dentro da AWS, após a mudança de licença do Redis de BSD para Server Side Public License (SSPL), exigindo que provedores de serviços de nuvem contribuam com o desenvolvimento do projeto. A equipe do Valkey trabalha para que usuários do Redis tenham um caminho de transição sem problemas de compatibilidade, cluster compartilhado aprimorado e melhor desempenho multi-thread. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "GPU de um trilhão de transistores pode chegar no início de 2030: a TSMC – empresa Taiwanesa de semicondutores – responsável pelo projeto, alega que o surgimento da inteligência artificial aumentou a demanda por GPUs com alto número de transistores. A nova GPU utilizará a tecnologia de chiplets 3D, que junta vários chips ao lado e em cima um do outro. Para comparação, o Grace-Hopper GH200 da Nvidia tem mais de 200 bilhões de transistores, com um sistema combinado de CPU-GPU. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro brasileiro da Microsoft contribui com suporte à linguagem Rust no kernel do Linux: Wedson Almeida Filho, graduado em Engenharia de Computação pela Universidade Federal do Rio Grande do Norte, é um colaborador de longa data do Linux, desde quando trabalhava no Google. A Microsoft tem contribuído intensamente no kernel do Linux, algo inimaginável há poucos anos atrás. As informações são do site Phoronix e LinkedIn.",
+            "url": ""
+        }
+    ]
+}
