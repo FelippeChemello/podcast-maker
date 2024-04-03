@@ -1,0 +1,45 @@
+{
+    "title": "Terremoto ameaça suprimento de chips / Tropeço na Tesla / Restrição a IAs abertas",
+    "fps": 30,
+    "timestamp": 1712154442,
+    "width": 0,
+    "height": 0,
+    "date": "03/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fabricação de chips da gigante TSMC comprometida após maior terremoto em Taiwan nos últimos 25 anos: a empresa evacuou funcionários e interrompeu sua produção. O terremoto, de magnitude 7,4, levanta preocupações no impacto da produção de semicondutores – estima-se que Taiwan seja fonte de 80% a 90% dos chips mais avançados, sendo a principal origem das  GPUs Nvidia e processadores dos iPhones. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Tesla registra primeira queda anual nas entregas de veículos no primeiro trimestre de 2024: as 386 mil unidades vendidas representam um declínio de 8,5%, atribuído à fase inicial da produção do Model 3 atualizado e paralisações provocadas pelo conflito no Mar Vermelho, e uma sabotagem à subestação de energia da Gigafactory na Alemanha. As ações da Tesla já registram queda de 33% neste ano, com preocupações sobre as perspectivas de crescimento da empresa num mercado de veículos elétricos cada vez mais competitivo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Ordem executiva do presidente dos EUA propõe restringir acesso aos pesos de modelos de aprendizado de máquina abertos, como LLaMa, Stable Diffusion e Mixtral: os pesos são fundamentais porque encapsulam o conhecimento adquirido pelo modelo a partir dos dados de treinamento, usados para fazer previsões ou classificações em novos dados. Em seu blog, o engenheiro de software Robert Brennan argumenta que modelos abertos promovem a transparência, segurança, inovação, competitividade econômica e nivelam o campo contra atores estatais e Big Techs. Uma sugestão seria regular o uso abusivo de IAs por meio de leis e regulamentos, preservando o acesso aberto para pesquisa e desenvolvimento. As informações são do blog de Robert Brennan.",
+            "url": ""
+        },
+        {
+            "text": "Telegram adiciona recursos focados em negócios para competir com Whatsapp: as novidades, disponíveis a usuários Premium, incluem páginas personalizadas, localização no mapa, horários de funcionamento, mensagem automática de ausência, gerenciamento e customização de bate-papos e acesso aos bots do Telegram para automatização de conversas. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta do Google Chrome impede que cookies sejam roubados: o Device Bound Session Credentials, vincula os cookies do navegador ao dispositivo do usuário, fazendo uso de um par de chaves pública/privada gerado pelo chip TPM, acessadas via API por servidores do Google, verificando a autoria dos dados e impedindo acessos indevidos. Em fase de testes, a ferramenta pode ser ativada em navegadores baseados no Chromium, através da flag “enable-bound-session-credentials”. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Interrupções em data centers estão diminuindo, mas ainda são graves: apenas 55% das empresas relataram interrupções nos últimos 3 anos, e apenas uma em cada dez foram relatadas como graves. Falhas na distribuição de energia, problemas de refrigeração e erros humanos costumam ser as principais causas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Billie Eilish, Katy Perry, Nicki Minaj e outros grandes nomes da música assinam carta aberta contra inteligência artificial: os artistas alegam que suas obras estão sendo utilizadas sem permissão para treinar modelos de IA. Empresas como Adobe e a Stability AI estão trabalhando em geradores de músicas com obras licenciadas. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
