@@ -1,0 +1,45 @@
+{
+    "title": "Robô da Apple / Discord quebra recorde / Streaming de músicas criadas por IA",
+    "fps": 30,
+    "timestamp": 1712240918,
+    "width": 0,
+    "height": 0,
+    "date": "04/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple estaria trabalhando em robôs domésticos pessoais: uma das ideias seria um robô móvel que segue o usuário pela casa – não foi revelado para qual função – e um dispositivo de mesa utilizado em chamadas do FaceTime, capaz de imitar movimentos da pessoa que está do outro lado da ligação, como acenos com a cabeça. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Discord quebra recorde de visualizações do YouTube acidentalmente, após piada de 1° de abril: o vídeo de apenas 17 segundos, anunciando a chegada de loot boxes à plataforma, alcançou 1,4 bilhão de visualizações em 24 horas, em comparação ao trailer de GTA 6 com 90 milhões de views no mesmo período. Um desenvolvedor do Discord explicou que um bot executou o vídeo da notificação da piada em loop, gerando visualizações não intencionais. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI cria canal no YouTube com streaming de músicas 24 horas por dia, geradas por seu novo modelo: o Stable Audio 2.0 possibilita a criação de faixas completas de alta qualidade e estrutura musical coerente com até três minutos em 44.1kHz estéreo (qualidade de CD). O modelo foi treinado exclusivamente em um conjunto de dados licenciado da biblioteca de música AudioSparx, com 800 mil amostras. As informações são do blog da Stability AI.",
+            "url": ""
+        },
+        {
+            "text": "Agora é possível editar imagens geradas pelo DALLE-3 diretamente no ChatGPT: o novo recurso permite apontar e explicar ao chatbot o que deve ser alterado na imagem. A atualização também inclui seleção de proporções e estilos pré-definidos. Por enquanto, somente disponível no plano Plus. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Opera é o primeiro navegador a permitir que usuários baixem modelos de IA diretamente para a máquina local: a lista de 150 LLMs disponíveis incluem o Llama da Meta e o Gemma do Google, e cada variante de modelo deve ocupar mais de 2GB de espaço de armazenamento. Por ora, o recurso só está disponível para usuários do Opera One. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Amazon descontinua tecnologia que prometia acabar com filas nos caixas de supermercados: o “Just Walk Out” permitia que os clientes pegassem produtos das prateleiras e saíssem da loja sem precisar passar por um caixa para pagar. O sistema era baseado em visão computacional, mas exigia 700 revisões humanas a cada 1000 vendas realizadas.. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores utilizam bússola de celular comum para medir níveis de glicose no sangue com excelente precisão: o magnetômetro consegue detectar os níveis de glicose presentes em um líquido por meio de pequenas cápsulas de hidrogel acopladas ao dispositivo, o que pode permitir medições da glicose por meio da saliva, em vez de amostras de sangue.. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
