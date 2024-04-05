@@ -1,0 +1,45 @@
+{
+    "title": "Open source pede dinheiro público / PIB das TICs cresce / Maior câmera digital",
+    "fps": 30,
+    "timestamp": 1712327368,
+    "width": 0,
+    "height": 0,
+    "date": "05/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Matrix Foundation, mantenedora do protocolo para comunicações descentralizadas, sugere modelo de financiamento público para projetos de código aberto: os ataques direcionados à infraestrutura open source, como o recente descoberto backdoor no projeto liblzma (XZ Utils) e  que atingiria boa parte do ecossistema Linux, evidenciaria a precariedade do modelo atual. A solução proposta seria no financiamento governamental não atrelado ao desenvolvimento de recursos específicos, mas apenas para garantir a segurança e viabilidade de projetos de infraestrutura digital. As informações são do blog da Matrix.",
+            "url": ""
+        },
+        {
+            "text": "Setor de Tecnologia da Informação e Comunicações cresceu 5,9% no Brasil em 2023: o setor produziu 707,7 bilhões, correspondendo a 6,5% do PIB, leve queda comparada aos 6,6% do ano anterior. Foram criados 29,2 mil empregos, ultrapassando os 2 milhões de postos de trabalho. Até 2027, são esperados investimentos de 729 bilhões no setor, um crescimento previsto de 19% ao ano. O Brasil destaca-se como o 10º maior mercado de TIC no mundo. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Observatório do Chile vai receber a maior câmera digital já construída, com 3.200 megapixels: a Legacy Survey of Space and Time será montada no Telescópio de Pesquisa Simonyi. Suas medidas incluem 3,73 metros de comprimento, 1,65 metros de altura e 2,8 quilos de peso, capaz de registrar uma foto com um tempo de exposição de 15 segundos, destinada para estudar a matéria escura do universo. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "TSMC indica que 70% dos equipamentos já estão em operação após terremoto em Taiwan: algumas fábricas subjacentes da empresa já estão 80% operacionais. Equipamentos críticos, como os de litografia ultravioleta, não foram afetados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Dataprev usa IA para encontrar vagas espalhadas pelo país e aumenta em 28% as ofertas de empregos disponíveis no Sistema Nacional de Emprego: o modelo foi programado para realizar uma busca pelas melhores oportunidades disponíveis por setor e região do Brasil. Os dados coletados foram enviados ao SINEs, que cadastrou as vagas no seu sistema. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "USP desenvolve novo chipset para Internet das Coisas: o componente inclui um circuito integrado gerenciador de energia e um microprocessador de 32 bits baseado na arquitetura de código aberto RISC-V. A característica open source do projeto permite novas colaborações de pesquisadores e desenvolvedores. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Anatel estuda implementação de roaming em todas as rodovias e áreas remotas do Brasil: a TIM defende que o acesso deve ser liberado pelas operadoras em regiões sem cobertura própria, e que os usuários possam realizar ligações telefônicas utilizando redes móveis. A Vivo contrariou a proposta, prevendo possíveis falhas técnicas com sobrecargas de antenas e problemas de competitividade entre concorrentes. As informações são do site Tecnoblog.",
+            "url": ""
+        }
+    ]
+}
