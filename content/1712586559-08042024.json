@@ -1,0 +1,45 @@
+{
+    "title": "Elon Musk critica STF / Big techs taxadas no Brasil / Táxi autônomo da Tesla",
+    "fps": 30,
+    "timestamp": 1712586559,
+    "width": 0,
+    "height": 0,
+    "date": "08/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk afirma que escritório do X/Twitter no Brasil pode ser fechado, após restrições impostas pelo STF: nas palavras do CEO, o Supremo realiza uma “censura agressiva” que viola “a lei e a vontade do povo”, citando, inclusive, funcionários da rede social ameaçados de prisão e que planeja reabrir contas suspensas pela justiça brasileira. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Propostas de taxação de big techs no Brasil serão enviadas ao Congresso Nacional pelo governo ainda este ano: na tentativa de igualar a carga tributária dessas empresas com outros países, as novas regras incluem cobrança por uso de rede, contribuição para o jornalismo, tributo sobre streaming e aumento nos impostos de renda. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Robotáxi da Tesla está em desenvolvimento e será anunciado no dia 8 de agosto: o veículo não deverá contar com pedais ou volantes. A empresa também tem planos de lançar uma atualização de software para que todos os seus carros se tornem completamente autônomos. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Máquina de ressonância magnética mais poderosa do mundo ajudará no tratamento de distúrbios, como o Alzheimer: a Iseult possui uma força de campo magnético de 11,7 Teslas, comparada a modelos convencionais de 1,5T e 3T, capaz de capturar imagens de até 0,2 mm do tecido cerebral e detectar assinaturas químicas que não poderiam ser vistas por máquinas regulares. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft pode estar trabalhando em uma tecnologia capaz de prever doenças e desastres naturais: o novo modelo seria capaz de reconhecer sons de tosse, dificuldades respiratórias e monitorar sons ambientais para antecipar possíveis ocorrências, dividindo os sinais sonoros em pequenos segmentos analisados por uma inteligência artificial. As informações são do site Windows Report.",
+            "url": ""
+        },
+        {
+            "text": "Melhorias na segurança do iOS e Android resultam no aumento de preços em ferramentas de exploração de zero-days: a startup Crowdfense, que oferece soluções de hacking para agências governamentais, anunciou que vai pagar entre 5 e 7 milhões de dólares para vulnerabilidades encontradas nesses sistemas, e entre 3 e 5 milhões se encontradas no WhatsApp e iMessage. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple libera inclusão de emuladores de jogos na App Store, após mudanças nas suas diretrizes: os títulos poderão ser baixados diretamente desses aplicativos, e os desenvolvedores precisam garantir que eles estejam em conformidade com as leis de direitos autorais. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
