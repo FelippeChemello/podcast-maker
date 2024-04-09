@@ -1,0 +1,49 @@
+{
+    "title": "Tráfego despenca com eclipse / Backdoor em NAS / Instagram supera YouTube",
+    "fps": 30,
+    "timestamp": 1712672844,
+    "width": 0,
+    "height": 0,
+    "date": "09/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Eclipse solar total na América do Norte tem efeito significativo no tráfego da internet: com milhões de pessoas acompanhando o fenômeno, estados nos EUA registraram uma queda de até 60% no tráfego durante as poucas horas do evento. Situação similar também foi registrada no Canadá e México, onde também era possível ver o eclipse. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Backdoor atinge mais de 92 mil dispositivos NAS antigos da D-Link: a vulnerabilidade – rastreada como CVE-2024-3273 – permite a execução de códigos arbitrários no sistema, abrindo acesso a informações confidenciais e modificação de configurações no dispositivo de armazenamento. Entre os equipamentos afetados está o DNS-320L, lançado no Brasil em 2012. As informações são dos sites Ciso Advisor e Techenet.",
+            "url": ""
+        },
+        {
+            "text": "Instagram gera mais receita com publicidade do que o YouTube: documentos judiciais disponíveis recentemente, mostram que a rede social arrecadou 32,4 bilhões de dólares com anúncios, contra os 28,8 bilhões do YouTube – os dados são de 2021. A diferença pode estar ligada ao fato do YouTube distribuir 55% da sua receita para criadores de conteúdo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Receita Federal lança ferramenta online para proteção de CPFs: a nova camada de segurança impede que o número seja incluído de forma indesejada em quadros societários de empresas, por causa do aumento das tentativas desse tipo de fraude. Basta acessar o Portal Nacional da Redesim e ativar a opção “Proteger meu CPF”. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novos dispositivos da Microsoft devem superar chips M3 da Apple: o processador Snapdragon X Elite da Qualcomm será mais rápido para tarefas de CPU, aceleração de IA e emulação de aplicativos x86. O Surface Pro 10 e Surface Laptop 6 virão equipados com o novo chip, mas não há informações sobre o seu lançamento no Brasil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Threads, concorrente do X, convida desenvolvedores para testarem sua nova API: há documentação com detalhes para publicação de postagens – com limite de 250 a cada 24 horas – especificações de mídia, utilização da ferramenta de métricas e dicas para resolução de problemas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Startup de Sam Altman, da OpenAI, e Jony Ive, ex-líder de design da Apple estaria avançando: os dois estariam projetando um novo dispositivo de IA, algo diferente de um smartphone. Altman e Ive querem levantar pelo menos 1 bilhão de dólares e uma das financiadoras seria Laurene Powell Jobs, viúva de Steve Jobs. Também não há indicação de que a OpenAI estaria diretamente envolvida nesta nova empresa de hardware. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Duas correções: na edição de sexta-feira passada (dia 5), a maior câmera digital já construída no Observatório do Chile pesa 2,8 toneladas e não 2,8 quilos como noticiado (obrigado leitores Venilson e Matheus!). Na edição desta segunda (dia 8), a atual CEO do X é Linda Yaccarino e não Elon Musk (obrigado Herbert e Jornando!).",
+            "url": ""
+        }
+    ]
+}
