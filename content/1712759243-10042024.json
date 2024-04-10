@@ -1,0 +1,45 @@
+{
+    "title": "Tecnologia ARM do Google / IA na rede 6G / Apple lidera crescimento",
+    "fps": 30,
+    "timestamp": 1712759243,
+    "width": 0,
+    "height": 0,
+    "date": "10/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia seu primeiro processador ARM com foco em data centers: o Axion garante um desempenho de 30% a mais aos de CPUs da Microsoft e AWS, com 60% de economia de energia superiores a arquitetura x86 e permite que workloads baseados em ARM sejam transferidos para o Google Cloud. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anatel abre consulta pública para estudar implementações de IA em telecom, com foco em redes e na tecnologia 6G: a empresa deseja tornar a inteligência artificial um componente nativo da próxima geração de redes móveis, automatizando o tráfego de dados com fornecimento sob demanda, melhorando o desempenho e a eficiência energética. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple lidera crescimento global de PCs no primeiro trimestre de 2024: um salto de 14,6% em relação ao mesmo período do ano passado, devido ao aumento de despachos do Mac. Contudo, a participação da empresa no mercado fechou com 8,1%, ficando atrás da Dell com 15,5%, HP com 20,1% e Lenovo com 23%. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de lei dos EUA quer exigir chamadas entre diferentes ferramentas de comunicação, como o Zoom e o Teams: aplicativos de mensagens de texto, agendamento e compartilhamento de arquivos também estão sendo considerados, e precisarão incluir criptografia de ponta a ponta. Inicialmente, a exigência se aplica somente a ferramentas utilizadas no governo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas criam aplicativo capaz de detectar insuficiência cardíaca, utilizando sensores de celulares: o programa baseado em aprendizado de máquina utiliza o acelerômetro e o giroscópio do dispositivo para medir pequenas vibrações cardíacas no peito do paciente, com 89% de precisão. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Meta, dona do Facebook, confirma lançamento do Llama 3 para o próximo mês: a nova atualização do modelo incluirá várias versões com capacidades diferentes e respostas mais precisas, alimentado com 140 bilhões de parâmetros, em comparação com os 70 bilhões do Llama 2. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk diz que precisará de 100 mil GPUs H100 da Nvidia para treinar o Grok 3: um datacenter com essa capacidade consumiria 100 megawatts de energia, equivalente a uma cidade pequena. Em comparação, o Grok 2 – ainda em fase de desenvolvimento – exigiu 20 mil GPUs H100 para ser treinado. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
