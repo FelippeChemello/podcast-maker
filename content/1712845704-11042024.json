@@ -1,0 +1,45 @@
+{
+    "title": "Maior hacker brasileiro preso / Rust: falha crítica / Dívida técnica do Threads",
+    "fps": 30,
+    "timestamp": 1712845704,
+    "width": 0,
+    "height": 0,
+    "date": "11/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Polícia Federal prende novamente hacker suspeito do maior vazamento de dados do Brasil: o homem de 24 anos, conhecido como “VandaTheGod”, cumpria prisão domiciliar, mas fugiu após romper sua tornozeleira eletrônica. Ele é acusado do vazamento de dados de 223 milhões de brasileiros em 2021 e também é suspeito de invadir diversos sites de órgãos públicos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Falha crítica no Rust permite injeção de comandos no Windows: a biblioteca não estava escapando corretamente os argumentos na invocação de arquivos batch. Qualquer versão anterior à 1.77.2 está vulnerável. A vulnerabilidade, chamada de BatBadBut e rastreada como  CVE-2024-24576 (severidade 10/10), também afeta outras linguagens como PHP, Node.js e Python, com patches vindo em breve. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Threads, concorrente do X, possui várias dívidas técnicas após sua produção de apenas 5 meses: os engenheiros da Meta  reutilizaram a arquitetura monolítica do Instagram para agilizar o processo de desenvolvimento. A equipe agora está trabalhando para separar gradualmente as duas redes, à medida que o Threads ganha novas funcionalidades.. As informações são do site InfoQ.",
+            "url": ""
+        },
+        {
+            "text": "BYD, fabricante chinesa de veículos elétricos, estuda adquirir a maior mineradora de lítio do Brasil: a Sigma Lithium também já esteve no radar da Tesla. A empresa está avaliada em 2,9 bilhões de dólares. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Governo quer que Ceitec, fabricante estatal de semicondutores, desenvolva chips para veículos elétricos e painéis fotovoltaicos: o Ministério da Ciência e Tecnologia deseja que o país reduza a dependência de importações da China. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia aplicativo de edição de vídeos com foco em apresentações que pode substituir o Slides: o Google Vids pode ser utilizado para a produção de demonstrações de produtos ou treinamentos, incluindo uma biblioteca de músicas, vídeos e imagens. O lançamento está previsto para junho, incluído no Google Workspace. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Com 31% de participação, AWS mantém-se líder no mercado global de nuvem: a Azure registra 24%, seguida pelo Google Cloud com 11%. O restante do mercado fica com Alibaba Cloud, Tencent, Salesforce, IBM e Oracle. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
