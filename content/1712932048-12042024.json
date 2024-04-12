@@ -1,0 +1,45 @@
+{
+    "title": "Brasil ultrapassa em TI / Google: vagas em SP / Falha crítica em TVs LG",
+    "fps": 30,
+    "timestamp": 1712932048,
+    "width": 0,
+    "height": 0,
+    "date": "12/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasil ultrapassa Coreia do Sul e Itália em investimentos de TI, ficando entre os 10 maiores em nível mundial: o país representou 37,2% dos investimentos da América Latina e 1,6% em todo o mundo, somando 50 bilhões de dólares em 2023. A Associação Brasileira de Software espera um crescimento de 6% de investimentos neste ano, com foco em internet das coisas, computação em nuvem e inteligência artificial. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google abrirá vagas para centro de engenharia em São Paulo: as posições são para Ciência de Dados, Engenharia de Software e Segurança. Interessados precisam ter formação na área e inglês fluente. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Quatro vulnerabilidades críticas afetam mais de 90 mil smart TVs da LG: entre os dispositivos afetados, está o LG43UM7000PLA, lançado no Brasil. A falha permite que contas arbitrárias sejam criadas no dispositivo através das portas 3000/3001, possibilitando acesso não autorizado e injeção de comandos. A LG já lançou uma atualização de segurança. As informações são do site Ciso Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Apple planeja lançar novos Macs com chip M4 no final deste ano: todas as linhas de computadores da empresa serão atualizados. A nova versão incluirá uma variante de entrada e duas de alto desempenho. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Salvy, startup nacional de operadora móvel, foi a única da América Latina no último fechamento de turmas da aceleradora de startups do Y Combinator: a escassez de empresas dessa região pode estar ligada ao foco do YC em startups focadas em IA. Contudo, o grupo já planeja mais eventos, investimentos e parcerias com organizações latino-americanas para reverter o cenário. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Carros elétricos 0km alcançam quase 3% de participação do mercado no país: foram registrados 14.118 emplacamentos entre janeiro e março de 2024, representando 2,9% do total de vendas. Em comparação, esse número foi de 0,9% no mesmo período de 2023. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Chip brasileiro detecta níveis de vitamina C e D no corpo humano em 20 minutos, com amostras de saliva: o dispositivo pode ser conectado a uma fonte pequena de energia, como um medidor de glicose, e utiliza sensores de partículas de carbono e ouro ligados a uma corrente elétrica. As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
