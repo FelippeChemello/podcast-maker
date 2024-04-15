@@ -1,0 +1,45 @@
+{
+    "title": "Telegram: falha crítica / Demissão global na Tesla / Primeiro SD de 4TB",
+    "fps": 30,
+    "timestamp": 1713191113,
+    "width": 0,
+    "height": 0,
+    "date": "15/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha no aplicativo desktop do Telegram permite burlar aviso de segurança e executar códigos Python no Windows: um erro de digitação no código-fonte, onde a extensão “.pyzw” foi escrita como “.pywz”, fez com que o software ignorasse a mensagem de aviso para arquivos executáveis desse tipo. Desenvolvedores do Telegram já realizaram a correção, mas ainda não há uma previsão de lançamento. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Tesla demite mais de 14 mil funcionários, 10% da sua força global dias antes, a empresa disse aos gerentes para identificarem membros críticos da equipe e cancelou avaliações anuais de alguns colaboradores. Elon Musk notificou as demissões através de um e-mail interno. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro cartão SD de 4TB é revelado pela SanDisk: o Extreme PRO SDUC UHS-1 será lançado em 2025, com velocidade de transferência de até 170 MB/s e escrita de 30 MB/s, permitindo gravação de vídeos em 8K. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Samsung abre inscrições para o Solve For Tomorrow Brasil de 2024: o programa permite que alunos e professores do ensino médio da rede pública possam criar projetos de Ciências, Tecnologia, Engenharia e Matemática para solucionar problemas da vida real. Interessados podem se inscrever no site oficial do programa até o dia 10 de julho. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple permitirá reparo de celulares com peças usadas no segundo semestre deste ano: apenas telas, baterias e câmeras de iPhones 15 poderão ser substituídas, o FaceID será incluído em algum momento futuro. A empresa não estabeleceu uma data exata para a liberação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Grok, concorrente do ChatGPT, receberá atualização para processar diferentes tipos de entradas: a xAI revelou que a versão 1.5V do modelo poderá interpretar imagens, documentos e diagramas, exemplificando um cenário onde usuários poderão enviar um fluxograma e solicitar que seja traduzido em código Python. A empresa não revelou uma data de lançamento. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia culpa Intel por erros de memória de vídeo relatados por usuários: os chips Raptor Lake e Raptor Lake Refresh da 13ª e 14ª geração enfrentam instabilidades com altas cargas de trabalho, como execução de jogos. Usuários foram orientados pela Nvidia a buscar páginas de suporte da Intel e um tutorial da Rad Game Tools que ensina a reduzir os limites de energia da CPU. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
