@@ -1,0 +1,45 @@
+{
+    "title": "API vulnerável em browsers / Brasil: bilhões em apps / Internet fixa, mas sem fio",
+    "fps": 30,
+    "timestamp": 1713277706,
+    "width": 0,
+    "height": 0,
+    "date": "16/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores encontram vulnerabilidade em navegadores que utilizam a API WebGPU: foi possível capturar informações como teclas digitadas e chaves de criptografia através de código JavaScript malicioso em sites – navegadores como Chrome, Edge e Firefox Nightly são vulneráveis e ainda não há previsão de correção. A WebGPU é uma API JavaScript que permite páginas da web utilizarem eficientemente a unidade de processamento gráfico de um computador. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros gastaram 1,7 bilhão de reais em aplicativos para celulares em 2023: o valor reflete um crescimento de 26,2% em relação a 2022, colocando o Brasil no 11º lugar do ranking mundial e em 4º lugar no número de downloads, com 10,2 bilhões de apps baixados. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Netylink é a primeira operadora de internet fixa sem fio disponível no Brasil: a empresa adota o formato Fixed Wireless Access para que o sinal chegue através do 4G/5G e seja distribuído pelo roteador sem utilização de cabos – a vantagem desse modelo é a possibilidade de conectar áreas sem cabeamento de internet. Inicialmente, o serviço está disponível apenas no estado de São Paulo, com planos a partir de 299 reais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Samsung ultrapassa Apple e retoma liderança nas vendas globais de celulares: a empresa registrou uma participação de 20,8% de mercado, superando os 17,3% da fabricante do iPhone. A Xiaomi – principal fabricante de smartphones da China – ocupa a terceira posição, com uma fatia de 14,1%. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "YouTube restringe viabilidade de aplicativos que utilizam sua API para reprodução de vídeos sem os anúncios: conteúdos acessados por esses apps apresentarão problemas de buffering ou ficarão indisponíveis. A empresa sugere que usuários assinem o YouTube Premium. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Gmail receberá nova ferramenta para gerenciar e cancelar mensagens de remetentes recorrentes: a seção “Gerenciar Inscrições” será adicionada no menu lateral do aplicativo, exibindo todas as listas de e-mails, como newsletters e promoções que o usuário recebe, e um botão para se desinscrever. Ainda não há uma data prevista de lançamento. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "CATL, maior fabricante mundial de baterias para veículos elétricos, lança sua primeira unidade de armazenamento de energia com zero degradação nos primeiros 5 anos: o TENER é um grande pacote de bateria alojado dentro de uma caixa metálica, abrigando 6,25 MWh de unidades e 430 Wh/L de energia, com uma vida útil de 20 anos e 15 mil ciclos de recarga. Em comparação, o Megapack da Tesla suporta até 3,9 MWh de baterias. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
