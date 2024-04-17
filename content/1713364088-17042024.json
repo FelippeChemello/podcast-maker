@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: cotas em streaming / API da Claro / Recarga por NFC",
+    "fps": 30,
+    "timestamp": 1713364088,
+    "width": 0,
+    "height": 0,
+    "date": "17/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Projeto de lei que exige cota nacional em serviços de streaming, como Netflix, YouTube e canais de televisão online, é aprovado pelo Senado: o PL 2.331/2022 exige que plataformas com faturamento anual acima de 96 milhões de reais mantenham entre 100 a 300 produções brasileiras no catálogo, paguem uma taxa de 3% para o Desenvolvimento da Indústria Cinematográfica Nacional e se credenciem à Ancine. O projeto segue para a Câmara dos Deputados. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Operadora Claro irá disponibilizar API para bancos e empresas financeiras validarem localização de clientes: a ferramenta pode ser utilizada para confirmar se um usuário está acessando um aplicativo de finanças no endereço aproximado onde ele afirma estar, contanto que ele dê seu consentimento.. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Android 15 poderá adicionar carregamento sem fio em dispositivos com antenas NFC: o recurso “NfcCharging”, ainda inativo, foi descoberto no código-fonte da versão beta do sistema, possibilitando que o celular carregue fones de ouvido e smartwatches por meio dos chips NFC. O Android 15 deverá ser lançado entre agosto e outubro deste ano. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Uber irá liberar gravação de viagens em vídeo para motoristas utilizando a câmera frontal do celular: o conteúdo ficará criptografado no telefone e só poderá ser acessado pela equipe do aplicativo. O recurso estará disponível dentro das próximas semanas para dispositivos Android, sem previsão para iOS. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Estudo do NIC Br conclui que apenas 1 a cada 5 brasileiros possuem acesso de qualidade à internet: adotando uma escala de 0 a 9 para conectividade significativa, 57% dos brasileiros se encontram na faixa de 2 a 4 e apenas 22% entre 7 e 9, com as regiões Norte e Nordeste tendo a internet mais fraca, e Sul e Sudeste a mais estável. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Primeira versão estável do Valkey, fork open-source do Redis, está disponível no GitHub: a release 7.2.5-rc1 inclui correções de bugs e mapeia todos os prefixos binários de “redis” para “valkey” ao migrar de um serviço para outro. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Ex-engenheiro da Microsoft critica desempenho do menu Iniciar do Windows 11: Andy Young relata que mesmo em uma máquina equipada com Intel Core i9 e 128GB de RAM, digitar algo na barra de pesquisa resulta em travamentos e lentidão. Usuários afirmam que o problema está relacionado à consulta online do Bing, que pode ser desabilitada pelo Editor do Registro. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
