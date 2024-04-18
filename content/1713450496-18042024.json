@@ -1,0 +1,45 @@
+{
+    "title": "Discord: scraping massivo / Raspberry Pi homologado / Tradutor de língua de sinais",
+    "fps": 30,
+    "timestamp": 1713450496,
+    "width": 0,
+    "height": 0,
+    "date": "18/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Serviço online faz scraping e vende dados de milhões de usuários do Discord: o Spy Pet possui um banco de dados com 3 bilhões de mensagens, 600 milhões de contas e 14 mil servers. O Discord está avaliando se o serviço viola seus termos de uso. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Empresas brasileiras iniciam encomendas de eVTOLs e compartilham seus planos para o futuro: as organizações possuem ideias em comum, como utilizar os mais de 300 veículos para viagens de turismo, táxis aéreos e tráfegos em áreas urbanas dos estados de SP, MG, CE, GO, SC e RS até 2026. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lenovo apresenta primeiro tradutor de libras em tempo real do Brasil: a ferramenta captura o movimento das mãos e dos dedos, traduzindo para texto e áudio em português. A empresa planeja implementar o recurso em dispositivos móveis e totens de atendimento. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Governo de São Paulo utilizará IA generativa na preparação de aulas da rede pública de ensino: a Secretaria da Educação planeja usar a ferramenta para aprimorar conteúdos já produzidos por professores curriculistas, que ficarão responsáveis pela avaliação dos materiais. O foco será em alunos do terceiro bimestre dos anos finais dos ensinos fundamental e médio. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry Pi 5 é homologado pela Anatel para venda em território nacional: não há detalhes sobre preço ou qual empresa deu início ao processo de aprovação técnica. O Raspberry Pi 5 pode ser encontrado em vários marketplaces a partir de 650 reais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Brasil é o 3º país mais afetado  por malware: no quarto trimestre de 2023 foram relatados 1.353 casos de ransomware. E-mails são o maior vetor de ataque, com um aumento de 222% em um ano, com 33,4% de todos as mensagens categorizados como spam. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 agora permite pesquisas online diretamente na área de trabalho, com suporte à busca do Google: o utilitário pode ser habilitado através na seção “Mais ferramentas” do navegador Edge, adicionando um widget na área de trabalho do usuário. Os resultados serão exibidos no browser da Microsoft. As informações são do site Windows Report.",
+            "url": ""
+        }
+    ]
+}
