@@ -1,0 +1,45 @@
+{
+    "title": "IA no WhatsApp / PF invadida / Chrome e Android: equipes unidas",
+    "fps": 30,
+    "timestamp": 1713536945,
+    "width": 0,
+    "height": 0,
+    "date": "19/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta lança assistente de IA para WhatsApp, Instagram e web: o Meta AI é baseado no Llama 3, novo LLM disponibilizado ontem pela empresa, com desempenho superior ao Gemini 1.5 Pro e Claude 3 Sonnet em benchmarks. Não há previsão para lançamento do assistente no Brasil, contudo o Llama 3 pode ser testado no site Hugging Face. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Federal suspende agendamento online de passaportes após tentativa de invasão: apenas agendamentos previamente realizados serão atendidos. Em caso de emergência, será necessário apresentar documentação em uma unidade física de emissão. Não há prazo para normalização do serviço. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google une equipes do Chrome, Android e hardware: todos os funcionários trabalharão unificados no novo setor “lataforma e Dispositivo” da empresa, que deseja realizar uma integração entre todos os seus ecossistemas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Voz clonada do CEO da LastPass foi utilizada na tentativa de enganar funcionário: o colaborador recebeu ligações e mensagens de áudio de uma conta falsa do empresário no WhatsApp, ignorando as solicitações e relatando o caso à equipe interna de segurança. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Google Maps poderá permitir compartilhamento de localização via satélite em áreas sem cobertura de rede: um trecho de código da versão beta 11.125 do aplicativo sugere que usuários poderão atualizar sua posição geográfica a cada 15 minutos, 5 vezes por dia – apenas em dispositivos que suportem conexão via satélite, incluindo iPhone 14 e Galaxy S23. As informações são do site Android Central.",
+            "url": ""
+        },
+        {
+            "text": "Pequenos provedores de internet nacionais lideram mercado em mais de 5 mil cidades, ultrapassando grandes operadoras: ao todo foram 25,5 milhões de clientes em 2023, em comparação com os 22,4 milhões da Claro, Oi, TIM, Vivo e Sky que lideraram em apenas 523 municípios. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Stability AI demite 20 funcionários, 10% da sua força de trabalho: em comunicado interno, a startup menciona corte de custos em suas operações. Não há informações sobre quais departamentos foram afetados. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
