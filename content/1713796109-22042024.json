@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: falha grave / Cirurgia no Brasil com Apple Vision Pro / Maior computador neuromórfico do mundo",
+    "fps": 30,
+    "timestamp": 1713796109,
+    "width": 0,
+    "height": 0,
+    "date": "22/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha na seção de comentários do GitHub permite distribuir malwares em repositórios confiáveis: ao comentar uma issue ou commit, o usuário pode anexar um arquivo que será associado permanentemente ao projeto através de uma URL contendo o nome do repositório e a conta associada a ele. O GitHub ainda não forneceu uma solução para o problema. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Médico brasileiro utiliza Apple Vision Pro para realizar cirurgia de ombro: o procedimento normalmente é realizado utilizando uma câmera dentro da articulação e uma tela externa. Com o dispositivo, o ortopedista Bruno Gobbato – do Hospital Jaraguá, em Jaraguá do Sul (SC) – conseguiu visualizar as imagens em alta resolução em paralelo com os exames do paciente, através de modelos 3D. As informações são do site MacMagazine.",
+            "url": ""
+        },
+        {
+            "text": "Intel revela maior computador neuromórfico do mundo com mais de um bilhão de neurônios artificiais: o Hala Point será utilizado em pesquisas de computação em larga escala e resolver problemas relacionados a áreas de física e ciência da computação.. O sistema – composto por 1.152 chips Loihi 2 – demonstra capacidades de processamento equivalentes às de GPUs e CPUs tradicionais, oferecendo eficiência energética notavelmente maior. As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Google e Ministério da Saúde firmam parceria para aprimorar acesso a informações de unidades básicas de saúde: o trabalho visa atualizar dados de 40 mil postos de saúde nos resultados de busca e no Google Maps, incluindo localização, contato, horário de funcionamento e calendário de vacinação. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta tecnologia capaz de criar vídeos de uma pessoa falando com apenas uma imagem estática e clipe de áudio: o VASA-1 se destaca pela sincronização perfeita entre os movimentos labiais e o áudio, além de capturar nuances faciais expressivas e movimentos naturais da cabeça. Por causa dos riscos envolvidos, não há planos de lançamento de produtos ou APIs com a tecnologia. As informações são do site Microsoft Research.",
+            "url": ""
+        },
+        {
+            "text": "Ciberataques no Brasil aumentam 38% no primeiro trimestre de 2024: setores de educação, pesquisa, governo e saúde estão entre os mais afetados. De forma global, o aumento foi de 28%. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bitcoin completa 4º halving com sucesso no bloco 840.000: a recompensa por cada bloco minerado será de  3,125 BTC – cerca de 1 milhão de reais na cotação desta segunda-feira – a metade do obtido anteriormente.. O próximo evento de halving – processo programado no protocolo Bitcoin que ocorre a cada 210.000 blocos minerados – está previsto para 2028. As informações são do site Coin Telegraph.",
+            "url": ""
+        }
+    ]
+}
