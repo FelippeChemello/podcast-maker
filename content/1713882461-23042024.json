@@ -1,0 +1,49 @@
+{
+    "title": "Governo: roubo de valores com invasão / Estudantes destaque em robótica / GPT-4 vs CVEs",
+    "fps": 30,
+    "timestamp": 1713882461,
+    "width": 0,
+    "height": 0,
+    "date": "23/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sistema de pagamentos do Governo é invadido e valores são transferidos sem autorização: o caso começou a ser apurado há duas semanas após criminosos terem conseguido burlar o método de autenticação da plataforma. Ainda não há informações oficiais sobre os valores desviados. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Estudantes brasileiros vencem maior torneio mundial de robótica: o evento foi realizado em Houston, nos EUA. A equipe “Los Atômicos” – da Escola SESI de Araras (SP) –  recebeu 9 medalhas pelo projeto de um tabuleiro de xadrez controlado por comandos de voz e construído com peças de Lego. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4 consegue explorar vulnerabilidades a partir da descrição de CVEs: o modelo obteve 87% de sucesso ao avaliar 15 falhas críticas existentes no mundo real. Outros modelos, como GPT-3.5 e Llama 2, não tiveram êxito em nenhuma das vulnerabilidades propostas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Portal GovBR lança assistente de voz para auxiliar no login biométrico do aplicativo: o recurso emite comandos a respeito do posicionamento do celular, lendo avisos como “nenhum rosto detectado” ou “aproxime a câmera do seu rosto”, facilitando o acesso para pessoas com deficiência ou que utilizam a câmera traseira do dispositivo. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Após 5 meses, engenheiros da NASA conseguem problema grave na Voyager 1: a equipe descobriu que um chip de memória responsável por armazenar dados do subsistema de voos não está funcionando. Como solução, dividiram o código afetado em várias seções realocadas em diferentes partes da memória que ainda estão operantes – a tarefa é dificultada devido à latência de 45 horas entre o envio dos comandos e o recebimento de uma resposta pela sonda. As informações são do site da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Horizon OS, sistema operacional do Meta Quest, é oficialmente liberado para outros fabricantes de headsets de realidade mista: Asus, Lenovo e Microsoft já confirmaram o desenvolvimento de dispositivos baseados no software, alguns voltados para jogos e outros para produtividade. O Meta Quest ainda não está disponível de forma oficial no Brasil. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança Phi-3, seu menor modelo de linguagem até o momento: com 3,8 bilhões de parâmetros, o sistema requer menos processamento para ser executado, sendo voltado para dispositivos móveis e aplicações personalizadas de empresas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Operadora Claro anuncia investimento de 40 bilhões de reais em fibra óptica e 5G no Brasil: o investimento será realizado pelos próximos cinco anos e visa expandir as duas tecnologias em território nacional e criar oportunidades de parcerias comerciais no setor de telecomunicações. As informações são do site Olhar Digital.",
+            "url": ""
+        }
+    ]
+}
