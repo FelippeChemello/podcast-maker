@@ -1,0 +1,45 @@
+{
+    "title": "Linus Torvalds: hype das IAs / Lucro da Tesla despenca / IA aberta igual a bombas nucleares",
+    "fps": 30,
+    "timestamp": 1713969070,
+    "width": 0,
+    "height": 0,
+    "date": "24/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Linus Torvalds diz ser “ilári” acompanhar o hype criado pelo avanço de inteligências artificiais: apesar dos benefícios trazidos pela tecnologia, como melhores ferramentas e forçar a participação da Nvidia no desenvolvimento do kernel Linux a fim de otimizar a execução de LLMs no sistema operacional, será necessário aguardar pelo menos uma década para se entender o real impacto da tecnologia. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Tesla registra queda de 55% dos seus lucros, totalizando 1,1 bilhão de dólares, no primeiro trimestre de 2024: a companhia aponta alguns fatores como redução de preços de veículos elétricos, conflitos geopolíticos e o incêndio na sua fábrica em Berlim. Contudo, suas ações registram alta de 11% na sessão pre-market da Nasdaq, com promessas de EVs mais acessíveis e o desenvolvimento do seu novo robotáxi. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Para Geoffrey Hinton, um dos mais importantes pesquisadores de IA, abrir grandes modelos de linguagem é equivalente a armas nucleares open source: além de ser “erigos” e uma “oucura complet”, Hinton “dorari” que os governos proibissem as empresas de abrirem seus modelos – uma posição contrária à de Yann LeCun, cientista-chefe de IA da Meta, e que, junto com Hinton, recebeu o Prêmio Turing em 2018. As informações são do canal do YouTube da University College Dublin.",
+            "url": ""
+        },
+        {
+            "text": "Bancos brasileiros investirão 47 bilhões de reais em tecnologia em 2024, 20% a mais do que no ano passado: os aportes ocorrerão em computação em nuvem, cibersegurança, moedas digitais, como o Drex, inteligência artificial e até mesmo computação quântica. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Zilog Z80, um dos processadores mais populares da história, será descontinuado após 48 anos de mercado: a CPU de 8 bits foi desenvolvida por Federico Faggin – conhecido por projetar o primeiro microprocessador comercial, o Intel 4004 – e foi equipado em vários computadores domésticos e consoles de jogos, incluindo o Master System e Game Boy. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Nova lei nos EUA visa proteger dados de ondas cerebrais coletados por dispositivos neurotecnológicos: a medida é aplicada apenas para interfaces cérebro-computador não invasivas, como headsets e outros dispositivos que realizam eletroencefalografia, exigindo que empresas peçam consentimento dos usuários. As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Android expande suporte ao codec AV1 para mais dispositivos, com decodificador baseado em software: aparelhos com a versão 12 ou superior do sistema operacional já receberam acesso à tecnologia através de uma atualização. A equipe utilizou o software “dav1d” da VideoLAN – criadora do VLC – para torná-lo acessível em dispositivos que não possuem especificações mínimas de hardware. O YouTube está adotando o AV1 como compressor padrão dos seus vídeos. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
