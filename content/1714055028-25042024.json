@@ -1,0 +1,45 @@
+{
+    "title": "TikTok: banido ou vendido / Distro Linux para carros / Ações da Meta despencam",
+    "fps": 30,
+    "timestamp": 1714055028,
+    "width": 0,
+    "height": 0,
+    "date": "25/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "EUA consideram TikTok uma “plicação controlada por adversário estrangeir” e será banido caso não seja vendido: a ByteDance, desenvolvedora da rede social, tem 9 meses para encontrar um comprador para o aplicativo ou será bloqueado por provedores de internet e não poderá mais ser oferecido nas lojas de apps do país. A empresa irá contestar a nova lei nos tribunais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Empresa lança primeira distro Linux em conformidade com requisitos de segurança da indústria automotiva: o “B corbos Linux for Safety Application”, da Elektrobit, é baseado no Ubuntu e pode ser utilizado como base para execução de sistemas de assistência de direção e condução autônoma. O sistema terá suporte garantido por 15 anos. As informações são do site da Elektrobit.",
+            "url": ""
+        },
+        {
+            "text": "Ações da Meta caem 15% antes da abertura do mercado após publicação do resultado trimestral e revisão de receitas futuras: os investidores desconsideram o crescimento de 117% no lucro líquido reportado no primeiro trimestre deste ano (12,3 bilhões de dólares). Além da expectativa de menores receitas, a empresa também espera maiores gastos com infraestrutura e na divisão de realidade virtual/mista neste ano. As informações são do site Yahoo Finance e da página de relação com investidores da Meta.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI, Anthropic e outras empresas de tecnologia utilizam plataforma Stainless para criar SDKs para suas APIs: o software criado por Alex Rattray, ex-funcionário da Stripe, possui uma equipe de apenas 10 pessoas e é capaz de gerar uma SDK de forma automática em uma variedade de linguagens de programação, incluindo Python, TypeScript, Kotlin, Go e Java, a partir da especificação de uma API. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nova tecnologia de display QDEL poderá substituir TVs OLEDs até 2026: desenvolvida pela Nanosys, a tecnologia – também conhecida como NanoLED – não requer retroiluminação, seus pontos quânticos eletroluminescentes emitem luz diretamente, sendo mais brilhantes, mais baratos de produzir e mais resistentes a burn-in. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple pode reduzir remessas do Apple Vision Pro pela metade por baixa demanda: um relatório do analista Ming-Chi Kuo prevê um corte de 700-800 mil unidades para 400-450 mil. Desde o lançamento, o aparelho tem enfrentado críticas devido ao seu alto preço e tamanho, que o torna desconfortável após várias horas de uso. As informações são do TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Hackers diminuem uso de phishing em invasões e apostam em vulnerabilidades de sistemas para obter acesso inicial à rede: a exploração de falhas de software aumentou para 38% do total em 2023. Contudo, o tempo médio de permanência do invasor, desde o comprometimento até a detecção, diminuiu de 16 dias para 10. As informações são do site CISO Advisor.",
+            "url": ""
+        }
+    ]
+}
