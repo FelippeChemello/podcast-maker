@@ -1,0 +1,45 @@
+{
+    "title": "Qualcomm acusada de trapaça / VP do Google faz alerta / TV por assinatura morrendo",
+    "fps": 30,
+    "timestamp": 1714141643,
+    "width": 0,
+    "height": 0,
+    "date": "26/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Qualcomm teria trapaceado em seus benchmarks dos novos chips Snapdragon X Elite e Plus: um relatório do grupo SemiAccurate afirma que nenhum fabricante de computador conseguiu reproduzir os testes de desempenho divulgados pela empresa na revelação do produto, ficando “muito abaixo de 50% dos números apresentados”. Em resposta, a Qualcomm garante a veracidade dos testes. As informações são do site da SemiAccurate e do Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Vice-presidente do Google faz alerta aos funcionários sobre o crescente desinteresse dos usuários por buscas tradicionais: para Prabhakar Raghavan, com a chegada da IA generativa a empresa está “gastando um monte a mais em máquinas” a fim de se manter competitiva ao lado da Microsoft e OpenAI. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Anatel reclassifica operadoras de TV por assinatura como prestadoras de pequeno porte, devido à queda de interesse e ascensão dos serviços de streaming: de acordo com a agência, a Sky, por exemplo, já chegou a ter 5,7 milhões de assinantes, mas perdeu 43% dos clientes, detendo atualmente menos de 5% de participação de mercado. A Netflix, em comparação, já conta com mais de 19 milhões de usuários. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lucro líquido da Alphabet/Google sobe 14% no primeiro trimestre de 2024, para 23,6 bilhões de dólares: as ações da companhia registram alta de 11% no pre-market da bolsa Nasdaq nesta manhã. A companhia atribui os resultados ao forte desempenho de suas plataformas de Busca, YouTube e Cloud. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança oito modelos pequenos de linguagem de código aberto que poderão ser executados diretamente no celular: os sistemas, batizados de OpenELM, possuem entre 270 milhões a 3 bilhões de parâmetros e estão disponíveis no site Hugging Face. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "TSMC anuncia tecnologia de processo A16, primeira em escala de medida de angstrom: além de uma densidade de transistores até 10% maior, há um novo sistema de energia que possibilita um aumento de até 10% na taxa de clock com a mesma voltagem e reduz o consumo de energia em até 20% para a mesma frequência. A produção em massa de chips começará no segundo semestre de 2026. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft e IBM liberam código-fonte do MS-DOS 4.00 sob a licença MIT: a iniciativa é parte de um esforço de preservação digital e oferece uma visão geral do desenvolvimento do sistema. O MS-DOS 4.0 pode ser testado em PCs modernos por meio de emuladores, como o PCem e 86box. O código está disponível no repositório “icrosoft/MS-DO” no GitHub. As informações são do blog Microsoft Open Source.",
+            "url": ""
+        }
+    ]
+}
