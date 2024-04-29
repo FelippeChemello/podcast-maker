@@ -1,0 +1,45 @@
+{
+    "title": "Novo imposto sobre software / Devs alvos de backdoor / Google vale 2 trilhões",
+    "fps": 30,
+    "timestamp": 1714400940,
+    "width": 0,
+    "height": 0,
+    "date": "29/04/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Governo planeja cobrar impostos na aquisição de software estrangeiro pela internet: o projeto de lei complementar 68/24 faz parte da reforma tributária e determina que empresas estrangeiras que vendem sistemas para o Brasil, sejam obrigadas a se registrarem como fornecedoras e recolham tributos no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores de software estão sendo alvos de novo backdoor em Python proveniente de falsas entrevistas de emprego: a campanha está sendo rastreada como “Dev Popper”. Os participantes são convidados a executar tarefas supostamente relacionadas ao processo seletivo, como baixar um arquivo ZIP do GitHub, contendo um pacote NPM, que executa comandos curl e baixa um script RAT em Python que coleta e envia informações para um servidor externo, incluindo tipo de sistema operacional, nome do host e dados de rede. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Alphabet/Google atinge, pela primeira vez, 2 trilhões de dólares em valor de mercado: os investidores ficaram animados com o bom resultado trimestral e anúncio do pagamento do seu primeiro dividendo. As ações da companhia registram alta de 23% neste ano e apenas Apple, Nvidia e Microsoft, possuem um valor de mercado acima de 2 trilhões. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Discord derruba Spy Pet, serviço online de scraping de mensagens e rastreamento de usuários: a equipe de segurança do aplicativo concluiu que a plataforma viola seus termos de serviço e diretrizes da comunidade. O Spy Pet possuía um banco de dados com 3 bilhões de mensagens e 600 milhões de contas do Discord. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anatel divulga novas medidas para combater excesso de ligações indesejadas de curta duração: empresas ficarão bloqueadas por 15 dias caso realizem mais de 100 mil chamadas curtas por dia – aquelas com apenas 3 a 6 segundos de duração – e serão obrigadas a utilizarem o prefixo 0303 para solicitarem doações ou cobranças. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Falha na plataforma de login da Apple desconecta usuários de dispositivos e os obriga a resetarem suas senhas: contas vinculadas em celulares, tablets e computadores da empresa foram desassociadas e impossibilitadas de serem reconectadas utilizando as credenciais já existentes. A Apple ainda não se pronunciou sobre o caso. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas advertem para monopólio tecnológico com a crescente dominância de empresas de serviços em nuvem, como Amazon, Google e Microsoft: cada vez menos organizações, governos e instituições acadêmicas estão gerenciando seu próprio hardware, optando por serviços oferecidos por gigantes da tecnologia. A longo prazo, essa tendência poderia levar à perda de habilidades e competências necessárias para gerenciar infraestruturas próprias e reduzir a diversidade de fabricantes independentes de chips, sistemas e armazenamento. As informações são do site The Next Platform.",
+            "url": ""
+        }
+    ]
+}
