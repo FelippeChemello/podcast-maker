@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: novo ambiente Dev / Xbox em queda / Intel culpa fabricantes de placas-mãe",
+    "fps": 30,
+    "timestamp": 1714573772,
+    "width": 0,
+    "height": 0,
+    "date": "01/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub anuncia Copilot Workspace, um novo ambiente de desenvolvimento: usuários poderão descrever, em linguagem natural, o objetivo da sua aplicação, e o sistema oferecerá sugestões sobre como iniciar o projeto, juntamente com um passo a passo de como configurar o ambiente, além de possibilitar testes e execução do código gerado. Por enquanto, o Copilot Workspace estará disponível somente através de uma lista de espera. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vendas do Xbox caem 30% no primeiro trimestre deste ano: em resposta, a Microsoft está explorando ideias, como levar franquias de seus jogos exclusivos para outros consoles – o jogo Sea of Thieves tem liderado as vendas na PS Store na última semana. As informações são do site da Kotaku.",
+            "url": ""
+        },
+        {
+            "text": "Intel culpa fabricantes de placas-mãe por problemas relatados em processadores i7 e i9: de acordo com a empresa, as montadoras estão aumentando os limites de energia e desativando salvaguardas para tentar extrair mais desempenhos das CPUs. A Intel se baseia em reclamações realizadas por donos de placas-mãe compatíveis com overclock. Os processadores afetados são i9-13900K, i9-14900K, i7-13700K e i7-14700K. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Ciência e Tecnologia deseja modernizar a sala limpa do Ceitec para exportação de chips: a compra de novos equipamentos deve acontecer ainda este ano. O mercado latino americano possui uma demanda crescente por semicondutores de média complexidade, especialmente no setor automotivo. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Nokia está desenvolvendo um sistema de comunicações LTE/4G que funcionará na Lua: o projeto faz parte da missão IM-2 da Intuitive Machine, prevista para este ano e visa tornar as comunicações mais rápidas entre astronautas e outros sistemas robóticos autônomos. As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Norton no Brasil indica que 32% dos cidadãos já sofreram prejuízo com ciberataques nos últimos 12 meses: o prejuízo médio foi de 3.039 reais e 29% são casos de malware, 24% são de acessos não autorizados em mídias sociais, e 22% em contas de e-mails, através de golpes por mensagens – em que o invasor se passa por alguém conhecido ou por uma instituição financeira. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Novo protocolo de segurança quântica do Google Chrome está causando problemas em conexões via TLS: usuários relatam problemas para acessar sites, servidores e firewalls. A versão 124 do navegador possui a configuração “TLS 1.3 hybridized Kyber support” ativada por padrão, utilizada na proteção contra futuras criptoanálises quânticas. O problema pode ser contornado desativando a flag \"#enable-tls13-kybe”. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
