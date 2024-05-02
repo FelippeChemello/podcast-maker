@@ -1,0 +1,45 @@
+{
+    "title": "Linux: \"sudo\" ganha substituto / GPU caseira / Windows 11 não é popular",
+    "fps": 30,
+    "timestamp": 1714660132,
+    "width": 0,
+    "height": 0,
+    "date": "02/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedor líder do systemd anuncia comando substituto para o “sudo” do Unix/Linux: o “run0” será implementado na versão 256 do sistema. Para Lennart Poettering, o comando oferecerá melhorias de segurança e prevenirá possíveis ataques relacionados às falhas de segurança do “sudo”. Não foi estimada uma data exata de lançamento e quais distribuições Linux adotarão o novo comando como padrão. As informações são do site Foss Outpost.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro sem experiência prévia constrói placa gráfica do zero em apenas duas semanas: Adam Majmudar decidiu realizar o projeto “tiny-gpu” para “prender sobre como as GPUs funciona”. O processo foi compartilhado no repositório “dam-maj/tiny-gp” no GitHub. A placa foi submetida para fabricação nos próximos meses. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 cai para 25% de participação de mercado em 2024, enquanto Windows 10 se mantém em 70%: os números são do mês de abril. Usuários relatam que a nova versão do sistema operacional oferece pouco ou nenhum benefício que justifique a atualização. A Microsoft está apostando em novos recursos de IA no Windows 11 na tentativa de aumentar a sua popularidade. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Governo abre concurso para 200 vagas temporárias de TI com remuneração de 8,3 mil reais: o tempo de duração do contrato será de 4 anos. Profissionais deverão ter cinco anos de experiência ou mestrado/doutorado nas áreas de Ciência de Dados, Desenvolvimento de Software, Gestão de Projetos, Segurança e Tecnologia da Informação. As inscrições podem ser realizadas pelo site do Instituto AOCP. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa revela que 2,81 milhões de repositórios do Docker Hub foram infectados com campanhas de malware e phishing: o número representa 18,7% de toda a base de dados da plataforma. As imagens contendo código malicioso promoviam conteúdo falso de cheats para videogames e e-books gratuitos. A equipe de segurança do Docker já removeu os repositórios infectados. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Barra de endereços do Chrome recebe tecnologia de aprendizado de máquina na versão 124: o modelo aprendeu a ajustar a relevância das sugestões de URLs com base no tempo desde a última navegação – em segundos, dias ou semanas – mas também considerando se o site visitado pelo usuário era o que ele realmente procurava. As informações são do blog do Chromium.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem placa de circuito impresso reciclável: a PCB é composta de um polímero, virando “ira uma gelei” ao ser imersa em um solvente orgânico e soltando facilmente os componentes eletrônicos, o que pode reduzir a quantidade de lixo eletrônico. PCBs tradicionais, feitas de fibra de vidro e resina epóxi, são difíceis de reciclar. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
