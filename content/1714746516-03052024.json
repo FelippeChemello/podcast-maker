@@ -1,0 +1,49 @@
+{
+    "title": "Inflação: PCs mais caros / Nvidia critica \"PCs de IA\" / Papagaios gostam de videochamadas",
+    "fps": 30,
+    "timestamp": 1714746516,
+    "width": 0,
+    "height": 0,
+    "date": "03/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Notebooks, placas de vídeo e outras peças de computador podem ficar mais caros devido ao aumento nos preços de metais preciosos, como o ouro, e outros usados industrialmente: o cobre, por exemplo, teve um salto de 66% de custo desde 2020. Fabricantes na China estão aumentando entre 10% e 20% os preços de seus componentes, o que deve impactar os custos de produção para empresas de hardware. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia critica o conceito de “PCs de IA” e os requisitos mínimos impostos pela Microsoft: para a empresa, a especificação de 45 TOPS (Trilhões de Operações Por Segundo) consegue suprir apenas tarefas básicas de inteligência artificial. A empresa também comparou o desempenho de chips NPU com as suas GPUs da série 40, que alcançaram pontuações entre 100 a 1300 TOPS em tarefas de edição de fotos, geração de imagens e assistências de codificação. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Estudo realizado por pesquisadores em interação animal-computador indica que papagaios de estimação preferem videochamadas ao vivo em vez de assistir a vídeos pré-gravados de outros pássaros: a pesquisa, realizada pela Universidade de Glasgow, visa explorar a criação de uma “nternet anima” para permitir sua interação com humanos. Um estudo anterior explorou o potencial das chamadas de vídeo e jogos digitais para reduzir a solidão em papagaios. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Hubble Network estabelece primeira conexão bluetooth diretamente com um satélite: a startup lançou dois equipamentos orbitais na missão Transporter-10 da SpaceX e confirmou que recebeu sinais dos chips de emparelhamento a mais de 600 quilômetros de distância. A tecnologia pode ser utilizada para rastreamento de gado, coleiras inteligentes para animais de estimação, relógios GPS para crianças ou monitoramento de temperatura do solo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido é o primeiro país do mundo a proibir senhas simples e previsíveis em dispositivos IoT: as fabricantes deverão aplicar atualizações de segurança em seus produtos para que não permitam palavras-chave como “admin” ou “12345”. O não cumprimento das regras poderá resultar em multas de até 10 milhões de libras ou 4% da receita global da empresa. As informações são do site The Record.",
+            "url": ""
+        },
+        {
+            "text": "Captchas, testes de verificação humana utilizados em logins, estão ficando mais complexos à medida que IAs se tornam mais inteligentes: os modelos de hoje em dia são capazes de resolver automaticamente testes de identificação de objetos e textos distorcidos, resultando no surgimento de mais testes de lógica para os usuários, como montar quebra-cabeças, girar um objeto ou identificar um espectro de um número escondido em uma paisagem. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Estudo revela que 30% das crianças com idades entre 5 e 7 anos utilizam TikTok, apesar da plataforma proibir cadastros para menores de 13: o uso de aparelhos móveis também é prevalente nessa faixa etária, com quase um quarto das crianças possuindo um smartphone e mais de três quartos um tablet, utilizando a internet por mais de 4 horas por dia. As informações são do site The Honest Broker.",
+            "url": ""
+        },
+        {
+            "text": "Play Store do Android passa a identificar aplicativos oficiais de governos: apps confiáveis terão o selo “Governo” atrelado a eles.  A medida visa diminuir golpes relacionados a cópias falsas dessas aplicações dentro da loja virtual. A novidade está disponível em 14 países, incluindo o Brasil. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
