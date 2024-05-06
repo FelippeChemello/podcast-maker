@@ -1,0 +1,45 @@
+{
+    "title": "Devs de IA com burnout / 1º carro elétrico do Brasil / Firefox com 7 mil abas abertas",
+    "fps": 30,
+    "timestamp": 1715005790,
+    "width": 0,
+    "height": 0,
+    "date": "06/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiros de IA relatam Síndrome de Burnout devido ao excesso de trabalho para se manterem competitivos no mercado: além das longas horas, os profissionais mencionam lançamentos de produtos sem testes adequados por parte de grandes companhias, como Amazon, Google e Microsoft, estendendo-se para startups e agências governamentais. Muitos funcionários consideram deixar seus empregos ou mudar de departamento devido a esse “ritmo insustentável”. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro carro elétrico brasileiro é liberado para testes e tem previsão de ser lançado até dezembro deste ano: o Lecar Model 459 consegue ir de 0 a 100km/h em 6,9 segundos e rodar até 400 quilômetros por carga. O veículo pode ser recarregado em uma tomada simples caseira de 220V em apenas 12 horas, ao custo de 45 reais por ciclo. O modelo está disponível para reserva no site da empresa por preços a partir de 279 mil reais. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Engenheira de software mantém 7.470 abas abertas no Firefox por mais de 2 anos: apesar do alto número de páginas, o desempenho do computador não é afetado – o arquivo de sessão do navegador em sua máquina ocupa apenas 70 MB, devido ao gerenciamento eficiente de memória do Firefox, que não carrega a página a menos que uma aba esteja ativa. Em comparação, 10 guias no Chrome podem ocupar mais de 12,5% de memória em um PC com 32 GB de RAM. As informações são do site PC Mag.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode revelar seu próprio motor de busca para competir com o Google nos próximos dias: a empresa estaria visando aproveitar sua parceria com a Microsoft para criar uma “experiência de pesquisa mais abrangente do que os mecanismos atuais”. O buscador poderá ser anunciado em um evento previsto para esta quarta-feira, dia 9. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft identifica falha crítica em aplicativos populares do Android, como WPS Office e o File Manager da Xiaomi: a vulnerabilidade rastreada como “irty Strea” permite execução de código arbitrário e acesso a arquivos sensíveis do aparelho, relacionada à maneira como o sistema mantém informações isoladas entre os apps utilizando o componente “content provider”, que pode criar brechas permitindo violar as restrições de leitura e escrita nos diretórios das aplicações. As duas empresas foram notificadas e já implementaram correções. As informações são do blog de segurança da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Velocidade da internet fixa no Brasil tem aumento de 5,89% no primeiro trimestre de 2024: a média nacional foi de 188,34 Mbps. Goiânia teve o melhor desempenho de banda larga entre as capitais com 247,45 Mbps, enquanto Recife teve o pior resultado com 100,61 Mbps. Entre as operadoras, a Claro foi a que melhor se destacou, com uma conexão média de 210,9 Mbps. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo exige remoção de 8.535 repositórios contendo código do emulador Yuzu no GitHub: a empresa alega que essas bibliotecas oferecem acesso ao software ou código baseado nele, permitindo a execução de cópias ilegais de jogos do Switch. O GitHub entrou em contato com os proprietários dos repositórios para que possam realizar alterações antes da remoção, fornecendo apoio legal. As informações são do site Games Industry.",
+            "url": ""
+        }
+    ]
+}
