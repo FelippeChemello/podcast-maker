@@ -1,0 +1,45 @@
+{
+    "title": "Stack Overflow + OpenAI / Pokémon Go muda mapas / Governo quer sua própria \"Netflix\"",
+    "fps": 30,
+    "timestamp": 1715091985,
+    "width": 0,
+    "height": 0,
+    "date": "07/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Stack Overflow fecha parceria com OpenAI para contribuir com modelos em tarefas de programação: a plataforma notou que cada vez mais desenvolvedores estão adotando ferramentas de IA, o que resultou em uma queda no tráfego do site desde o lançamento da tecnologia, forçando-o a cortar custos e licenciar seu conteúdo para empresas de IA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Jogadores de Pokémon Go burlam sistema de mapas, criando praias falsas para conseguirem capturar personagem raro: como o jogo utiliza a ferramenta de código aberto OpenStreetMaps, os usuários estão adicionando ambientes litorais a partir de quintais residenciais, campos de golfe, escolas, estacionamentos e faixas de terra sem saída para o mar, a fim de capturarem Pokémons específicos, como o Wigletts, que só aparece nesses tipos de cenários. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Governo estuda lançar plataforma própria e gratuita de streaming focada em filmes e séries nacionais no segundo semestre: a iniciativa busca facilitar o acesso a produções brasileiras – incluindo as que não são disponibilizadas em serviços pagos – e promover sua exibição nas escolas. O serviço ainda não teve seu nome revelado. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria trabalhando em LLM liderado por Mustafa Suleyman, co-fundador da DeepMind e ex-chefe de IA do Google: o MAI-1 contará com 500 bilhões de parâmetros e estaria sendo treinado com dados de várias fontes, incluindo textos gerados pelo GPT-4 e informações da internet pública. A empresa poderá apresentar uma prévia do modelo na sua conferência de desenvolvedores Build, programada para o dia 21 deste mês. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google simplifica processo de configuração de autenticação de dois fatores para suas contas pessoais e do Workspace: agora é possível adicionar diretamente um autenticador ou chave de segurança de hardware, no lugar de, primeiramente, um número de telefone para verificação de código por SMS, método considerado menos seguro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que humanos e bots já compartilham a internet de maneira igual, reforçando a teoria da “Internet Morta”: o estudo indica que grande parte do conteúdo online é gerado automaticamente e que o número de pessoas na web está diminuindo em comparação com as contas de robôs. No ano passado, 49,6% do tráfego da internet veio de postagens automatizadas. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Estudo revela que ferramentas de organização e trabalho estão entre as mais baixadas na Play Store do Android: os apps das categorias “Negócios” e “Produtividade” acumularam 4,7 e 55 bilhões de downloads, respectivamente, com o LinkedIn da Microsoft liderando a primeira, e o Google Drive à frente na segunda. Especialistas acreditam que os números foram impulsionados pelo aumento do trabalho remoto, empreendedorismo móvel e serviços sob demanda. As informações são do site TechRadar.",
+            "url": ""
+        }
+    ]
+}
