@@ -1,0 +1,45 @@
+{
+    "title": "VPN: falha gravíssima / Líder do LockBit / Satélite de defesa brasileiro",
+    "fps": 30,
+    "timestamp": 1715178462,
+    "width": 0,
+    "height": 0,
+    "date": "08/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vulnerabilidade grave afeta quase todos os aplicativos de VPN, permitindo que dados de usuários sejam expostos: a falha “TunnelVision” (CVE-2024-3661) permite que o invasor crie seu pŕoprio servidor DHCP, que terá prioridade sobre as regras de roteamento padrão por onde o tráfego é enviado, recebendo todos os dados em trânsito da rede de forma descriptografada. O único sistema operacional não afetado é o Android, por não implementar de forma completa a especificação do DHCP. As informações são do site Leviathan Security.",
+            "url": ""
+        },
+        {
+            "text": "EUA e Reino Unido identificam líder do grupo de ransomware LockBit: o hacker conhecido como “LockBitSupp” é um desenvolvedor russo de 31 anos, acusado de extorquir mais de 100 milhões de dólares em pagamentos de resgate. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Satélite de defesa e comunicação brasileiro atinge limite de capacidade e Telebras considera comprar ou alugar novas unidades: o SGDC-1 (Satélite Geoestacionário de Defesa e Comunicações Estratégicas 1), lançado em 2017, foi projetado para fornecer comunicações seguras e estratégicas do governo e militares. A expansão da cobertura satelital, especialmente para as regiões Norte e Nordeste, seria um investimento estratégico, segundo a estatal. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Linux consegue rodar em dispositivo com apenas 4 MB de memória RAM: o sistema foi testado no Microsoft Azure Sphere, um microdispositivo IoT, utilizado para monitorar utensílios domésticos inteligentes. O feito destaca a maleabilidade do Linux de funcionar em dispositivos extremamente compactos e de baixo desempenho. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Telefonia fixa no Brasil segue encolhendo, mas ainda conta com 24,5 milhões de linhas registradas: o país registrou uma queda de 8,5% na adesão do serviço em comparação com o ano passado. Atualmente são 13,3 milhões de linhas registradas por pessoas físicas e 11,8 milhões por jurídicas. Em comparação, hoje o Brasil conta com 258,2 milhões de linhas móveis. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Maior cidade tecnológica da Europa está em desenvolvimento com previsão de conclusão para 2037: a Ellinikon, localizada na Grécia, incluirá uma inteligência artificial para supervisionar serviços básicos, como resíduos e energia, e será construída do zero, incluindo arranha-céus, vilas, condomínios, escolas, parques, escritórios e lojas. As informações são do site da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Jogadores conseguem hackear jogo original de Tetris para o Nintendinho sem modificações ao cartucho: ao chegar no nível 155, o software começa a apresentar problemas de travamentos, fazendo com que o código do jogo “pule” para uma seção não intencional de sua memória RAM. Ao manter pressionada uma combinação específica de botões do controle, os usuários conseguem controlar onde esse salto ocorrerá na memória, introduzindo códigos personalizados o que permitie rodar pequenos programas, como ajustes no cálculo da pontuação. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
