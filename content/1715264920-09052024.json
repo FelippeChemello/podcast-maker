@@ -1,0 +1,45 @@
+{
+    "title": "Stack Overflow: protesto em massa / Dev Tools do Spotify / Site localiza pessoas no RS",
+    "fps": 30,
+    "timestamp": 1715264920,
+    "width": 0,
+    "height": 0,
+    "date": "09/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Usuários do Stack Overflow tentam protestar parceria com a OpenAI e tem suas contas suspensas por violar as regras do site: para evitar que seus dados sejam utilizados em treinamentos de modelos sem permissão, pessoas tentaram excluir ou editar suas publicações e respostas dentro da plataforma, que não permite esse tipo de ação em casos onde a solução é marcada como “aceita” em uma postagem, ou quando esta possui ao menos um reply. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Spotify lança plataforma corporativa de Dev Tools mais simples e de “aixo/zero códig”: o Spotify Portal é uma alternativa ao Backstage, seu projeto open source utilizado para onboarding de novos funcionários, documentação e organização geral de infraestruturas internas de desenvolvimento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Enchentes no Rio Grande do Sul destruíram cerca de 600 mil conexões de banda larga, 30% dos acessos de provedores de pequeno porte no estado: os recursos do FUST (Fundo de Universalização dos Serviços de Telecomunicações) poderão ser usados para reconstrução das redes que atendem municípios gaúchos de forma pré-aprovada para as áreas de calamidade, sem necessidade da apresentação de projetos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Microsoft e LinkedIn revela que 71% dos líderes empresariais preferem contratar um candidato menos técnico com habilidades de IA no lugar de alguém mais experiente sem esse tipo de conhecimento: a demanda por esses tipos de talentos aumentou em 323% nos últimos 8 anos. Funcionários estão aproveitando fontes como cursos online gratuitos para aprimorar suas habilidades, contudo, apenas 39% das pessoas em todo o mundo receberam treinamento em IA da sua própria empresa. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Dell passará a rastrear seus funcionários que trabalham de maneira remota ou híbrida: o monitoramento será realizado utilizando crachás eletrônicos, VPN e um sistema de cores, onde azul indicará “presença constante no escritório”, verde “regular”, amarela “moderada” e vermelha “limitada”. Colaboradores alegam que a medida é controversa, afirmando que escolher o modelo não presencial prejudicará o avanço na carreira e aumentará a chance de demissão. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 81% dos entrevistados acreditam que uma semana de trabalho de 4 dias aumentaria a produtividade da sua empresa: algumas organizações começaram a testar a nova jornada, relatando diminuição na exaustão dos funcionários e fortalecimento no desempenho dos negócios. Pesquisadores acreditam que, eventualmente, as companhias adotarão uma política de 4 dias no escritório seguidos por uma sexta-feira flexível. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "AWS estima que IAs generativas irão contribuir com um crescimento de 4,2% no PIB do Brasil até 2030: a empresa destaca o papel crescente da tecnologia na economia global, especialmente em setores vitais, como educação e saúde, otimizando processos existentes e capacitando profissionais a dedicarem mais tempo a tarefas de maior valor. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
