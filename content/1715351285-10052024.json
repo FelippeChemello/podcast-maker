@@ -1,0 +1,49 @@
+{
+    "title": "Neuralink com problema / Queda do Tinder / \"Slop\": novo termo para \"spam\" de IAs",
+    "fps": 30,
+    "timestamp": 1715351285,
+    "width": 0,
+    "height": 0,
+    "date": "10/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Primeiro implante da Neuralink apresenta problemas, mas startup restaura funcionalidade sem nova cirurgia: desde a sua instalação, em fevereiro, a taxa de transferência do dispositivo caiu de 8 bits por segundo para metade disso devido à retração de parte dos 64 filamentos que conectam o minicomputador ao cérebro. Uma mudança no algoritmo que capta os sinais neurais conseguiu restaurar a taxa de transferência para os valores iniciais. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Tinder apresenta queda de 9% de assinantes no primeiro trimestre de 2024, sexto período consecutivo: a empresa Match Group, dona do aplicativo, alega que, apesar dos números, o seu outro serviço Hinge registrou um aumento de 31%, a caminho de se tornar um negócio de receita de 1 bilhão de dólares. O declínio do Tinder teria a ver com uma mudança na cultura de aplicativos de namoro que ocorreu nos últimos anos, com usuários menos interessados em conexões casuais e mais interessados em relacionamentos sérios e de longo prazo, como os promovidos pelo Hinge. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "“Slop” está se tornando o termo para classificar conteúdos indesejados gerados por IA, semelhante ao “spam” para emails: a palavra pode ser utilizada em casos onde algo gerado por modelos é utilizado de forma não ética ou compartilhado com outros usuários sem que seja solicitado. As informações são do blog de Simon Willison.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI diz que os modelos utilizados hoje em dia serão “ridiculamente ruins” dentro dos próximos 12 meses: a empresa alega que no futuro a tecnologia será capaz de realizar trabalhos mais complexos, servindo como um “ótimo colega de equipe” para ajudar os usuários em qualquer problema que seja apresentado, e que o modelo mais avançado poderia, no mínimo, desempenhar o papel de um “comediante de stand-up”. A OpenAI pode lançar o GPT-5 entre junho e agosto deste ano. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "IA está transformando métodos de ensino da programação nas escolas e universidades: estudantes de Ciência da Computação estão utilizando a tecnologia para aprender a como programar e entender conceitos complexos. Como resultado, professores estão modificando suas estratégias de ensino, aprimorando as aulas introdutórias dos cursos para ensinar conceitos sobre testes, depuração e decomposição de problemas, em vez de focar apenas na sintaxe do código. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "AlphaFold 3 consegue modelar DNA, RNA e outras “oléculas da vida”: o modelo possui aplicações em medicina, agricultura e desenvolvimento de novos medicamentos. O AlphaFold será disponibilizado gratuitamente para uso acadêmico e não comercial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Descoberta não intencional de cientistas pode fazer baterias de veículos elétricos e celulares durarem muito mais: pesquisadores desenvolveram capacitores com densidade de energia até 19 vezes maior do que os atuais, com eficiência superior a 90%, reduzindo a velocidade com que a energia se dissipa sem afetar sua capacidade de carregar rapidamente. Se reproduzível em escala, a descoberta permitirá o armazenamento de energia rapidamente sob demanda – devido às características de um capacitor – mantendo as características de armazenamento de longo prazo. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição da Newsletter de segunda-feira (dia 06), noticiamos o Lecar Model 459 como sendo “ primeiro carro elétrico brasileir”. O título, entretanto, pertence ao Gurgel Itaipu E400, lançado em 1981. Agradecemos aos leitores pelo alerta e contribuição!",
+            "url": ""
+        }
+    ]
+}
