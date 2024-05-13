@@ -1,0 +1,49 @@
+{
+    "title": "Hoje: evento \"mágico\" da OpenAI / Tempestade solar extrema / 1,4 petabyte do cérebro humano",
+    "fps": 30,
+    "timestamp": 1715610517,
+    "width": 0,
+    "height": 0,
+    "date": "13/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI fará evento especial com novidades nesta segunda-feira – Sam Altman afirma que “arece mágic”: rumores anteriormente apontavam o lançamento de um mecanismo de busca ou o GPT-5, mas a expectativa agora é que sejam anunciados um assistente de voz conversacional, muito mais avançado do que Siri ou Alexa, “Agentes” – mini modelos de linguagem controlados por um LLM principal – e uma previsão para que o Sora fique disponível para o público geral. O evento “Spring Updates” será transmitido a partir das 14h, no canal do YouTube da OpenAI. As informações são do site Tom’s Guide.",
+            "url": ""
+        },
+        {
+            "text": "Tempestade solar “extrema” de nível G5, a maior em 20 anos, atingiu a Terra neste final de semana: o evento pode atrapalhar o funcionamento de redes de energia elétrica, internet e sistemas de comunicação via satélite, como a propagação de sinais de rádio e a precisão de navegação por GPS. As informações são do site Earth.",
+            "url": ""
+        },
+        {
+            "text": "Mapeamento de um milímetro cúbico do cérebro humano gera 1,4 petabyte de informações, o equivalente a 14 mil filmes em resolução 4K: estima-se que para mapear o cérebro inteiro, seria necessário 1,6 zettabyte de dados, custando cerca de 48 bilhões de dólares para armazená-los em discos rígidos comuns, o que torna o processo inviável neste momento. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores afirmam que estão trabalhando muito tempo para solucionar problemas de desempenho: uma pesquisa da Cisco revela que 85% dos profissionais relatam demandas crescentes para acelerar a velocidade das aplicações, com 77% enfrentando mais pressão para entregar “experiências digitais perfeitas”, o que os impede de dedicar horas suficientes em inovação e outros trabalhos produtivos. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Microsoft revela que 75% dos trabalhadores já utilizam IA generativa no trabalho: profissionais alegam que a tecnologia reduz as cargas de trabalho e aumenta a satisfação em seus empregos. 79% dos líderes acreditam que precisam utilizar IA para se manterem competitivos. As informações são do site da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige vulnerabilidade crítica do Chrome que permite acesso a outros programas do computador: a falha CVE-2024-4671 ocorre a partir do componente Visuals – responsável pela renderização de conteúdos no navegador – que continua usando um ponteiro depois que a memória para a qual ele aponta é liberada, permitindo que ela seja acessada enquanto é utilizada por outros softwares, resultando em vazamento de dados e execução de códigos arbitrários. O ajuste foi aplicado nas versões 124.0.6367.201/.202 para Mac, Windows e Linux. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Energia renovável representa 30% da eletricidade mundial consumida pela primeira vez: a energia eólica e solar foram os maiores contribuintes, o que deve levar a uma diminuição de 2% na geração global de combustíveis fósseis em 2024. Líderes mundiais pretendem aumentar o percentual de energias renováveis para 60% da eletricidade global até 2030. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Anatel estuda suspender certificação de equipamentos Wi-Fi 6E em revisão do uso da faixa de 6 GHz: a agência afirma que nenhum aparelho com a tecnologia foi instalado na casa dos consumidores pelas operadoras de internet desde que foi aprovado no Brasil. A Anatel também entende que a tecnologia é importante na implementação futura do 5,5G e 6G. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
