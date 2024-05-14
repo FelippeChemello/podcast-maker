@@ -1,0 +1,45 @@
+{
+    "title": "Hoje tem evento do Google / Internet aumenta bem-estar / App inspirado em Black Mirror",
+    "fps": 30,
+    "timestamp": 1715696930,
+    "width": 0,
+    "height": 0,
+    "date": "14/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Conferência anual de desenvolvedores Google I/O acontece hoje com novidades em relação ao Android 15 e ferramentas de IA: espera-se que a empresa anuncie mais detalhes a respeito do Wear OS, Google TV, Android TV, Android Auto e avanços em computação quântica. Um dos destaques será o Gemini AI, que provavelmente substituirá o Google Assistente. O evento será transmitido ao vivo no canal oficial da empresa no YouTube, a partir das 14h. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Acesso à internet estaria associado a um maior bem-estar em pessoas ao redor do mundo: dados analisados entre 2006 e 2021, com cerca de 2,4 milhões de participantes com 15 anos ou mais, revela que a relação entre o acesso à rede e satisfação dos usuários é positiva em 84,9% dos casos. O estudo não conseguiu estabelecer, entretanto, um efeito causal do uso da tecnologia e não analisou o tempo que as pessoas passavam conectadas. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria programa de código aberto para Windows que registra todas as ações realizadas no computador, inspirado em episódio da série Black Mirror: o Windrecorder funciona como um “mecanismo de busca de memória pessoal”, utilizando FFmpeg para gravar a atividade da tela em fragmentos de 15 minutos através de uma API local de OCR do sistema operacional. O software não requer uma conexão com a internet e os dados são mantidos na máquina local. O aplicativo está disponível no repositório “uka-friends/Windrecorde” do GitHub. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia modelo gratuito de IA conversacional capaz de processar áudio e imagens em tempo real: o GPT-4o (uma referência à palavra “omni” que significa “em todos lugares e formas) responde em cerca de 320 milissegundos – o tempo médio em um diálogo entre seres humanos – em mais de 50 idiomas, incluindo o português. A API do GPT-4o também estará disponível para desenvolvedores como um modelo de texto e visão, 2 vezes mais rápido, pela metade do preço e com limites de taxa 5 vezes maiores em comparação ao GPT4 Turbo, com desempenho superior em tarefas de raciocínio e codificação. Todas as funcionalidades do novo modelo estarão disponíveis de forma geral dentro das próximas semanas. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Apple e Google criam padrão para proteção contra rastreamento por dispositivos bluetooth indesejados: o “etecting Unwanted Location Tracker”, que estará disponível a partir do iOS 17.5 e Android 6.0, emitirá alertas caso seja detectado um dispositivo de rastreamento movendo-se com a pessoa. Empresas de tags bluetooth afirmam que adotarão o novo padrão em seus futuros projetos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Donald Chamberlin, um dos principais designers da especificação original do SQL, manifesta apoio ao movimento de bancos de dados não relacionais: para ele, o segundo modelo e suas linguagens de consulta podem ajudar a realizar tarefas para as quais os sistemas relacionais nunca foram projetados, ressaltando que o NoSQL é pensado para aplicações mais modernas, especialmente da Web, que necessitam de escalabilidade massiva e alta performance, algo que bancos relacionais nem sempre conseguem entregar. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Supercomputador Aurora da Intel ultrapassa barreira de exaescala, tornando-se a máquina mais rápida do mundo para IA: o desempenho total ainda não supera o do sistema Frontier – com CPUs e GPUs AMD – mas o Aurora está operando a 87% de sua capacidade. A Intel acredita que o sistema eventualmente será capaz de cruzar a barreira de 2 exaflops. As informações são do site Extreme Tech.",
+            "url": ""
+        }
+    ]
+}
