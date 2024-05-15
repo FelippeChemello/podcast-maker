@@ -1,0 +1,45 @@
+{
+    "title": "Renúncia na OpenAI / Google I/O: muita novidade / Retorno ao escritório afeta seniores",
+    "fps": 30,
+    "timestamp": 1715783368,
+    "width": 0,
+    "height": 0,
+    "date": "15/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cofundador e cientista-chefe da OpenAI renuncia ao cargo: Ilya Sutskever afirma que saiu para trabalhar em um projeto pessoal e compartilhará mais detalhes em breve. Sutskever foi peça central no drama da demissão de Sam Altman no final do ano passado ao ficar frustrado com o rápido lançamento de produtos pela startup sem atentar para segurança. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google I/O 2024 apresenta diversas novidades focadas em inteligência artificial: um novo modelo, Gemini 1.5 Flash, possui um desempenho similar ao Gemini 1.5 Pro, mas otimizado para “tarefas de alta frequência e baixa latência”; a janela de contexto do Gemini 1.5 Pro dobrou para 2 milhões de tokens; o “em” é um criador de chatbots personalizados; o “I Overview” (apenas nos EUA no momento) são resultados de buscas com respostas resumidas por IA; o modelo Gemini Nano será embutido no Chrome 126 para auxílio na geração de textos e no Android para proteção contra golpes por chamadas de telefone; o “ynthI” é um sistema de marca d'água e detecção de vídeos gerados por IA; foram apresentados o “roject Astr”, um assistente multimodal, e o “e”, modelo gerador de vídeos em 1080p, ambos sem data para lançamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Obrigação de retornar ao escritório afeta colaboradores seniores e os incentivam a buscarem outras empresas: Apple e Microsoft perderam entre 4% e 5% de seus trabalhadores de alto nível desde que adotaram a medida. Para a SpaceX, que exige que os funcionários permaneçam presenciais o tempo todo, a queda foi de 15%. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Para engenheiro de software, processos de revisão de código manuais são um gargalo para grandes equipes de desenvolvimento: segundo Ivan Kahl , times deveriam se concentrar cada vez mais em testes automatizados para identificar bugs e outros problemas de forma mais precisa, possibilitando a construção de uma base de código mais sólida no longo prazo. As informações são do blog da plataforma Aviator.",
+            "url": ""
+        },
+        {
+            "text": "Meta encerrará suporte para a versão corporativa do Facebook: o Workplace foi criado para competir com o Slack e Teams, permitindo que usuários tivessem contas separadas para gerenciar suas estações de trabalho. A decisão foi tomada para que a empresa possa se concentrar em IA e metaverso. O serviço permanecerá operacional até o final de agosto de 2025. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo Switch é hackeado para rodar o Windows 11 e instalação leva 3 horas para concluir: até mesmo tarefas básicas levam cerca de 10 segundos para responder. O experimento conclui que para obter uma melhor experiência de desempenho na arquitetura ARM do Switch, um sistema Linux seria mais recomendado. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "71% dos fundadores de startups priorizam trabalho em detrimento de suas vidas pessoais: a decisão é vista como necessária para alcançar sucesso nos negócios. Lazer, atividade física e passatempos são abandonados. Os entrevistados, com idade entre 18 e 60 anos, também relatam que sacrificar o tempo que passam com amigos e familiares resulta em um aumento do estresse, burnout e ansiedade. As informações são do site Startups Magazine.",
+            "url": ""
+        }
+    ]
+}
