@@ -1,0 +1,45 @@
+{
+    "title": "Google de antigamente / Brasil apoia NASA / Microsoft quebra metas climáticas",
+    "fps": 30,
+    "timestamp": 1715869752,
+    "width": 0,
+    "height": 0,
+    "date": "16/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google adiciona filtro “Web” em seu mecanismo de busca: a opção – escondida dentro da barra de ferramentas “ai” – elimina quase todo o conteúdo adicional na página de resultados, como postagens patrocinadas e listas de produtos da seção “Shopping”, apontando apenas links, praticamente voltando com a experiência de buscas do Google de antigamente. Por enquanto, a novidade está disponível apenas na versão desktop do buscador. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Brasil desenvolverá tecnologia capaz de cultivar alimentos fora do planeta Terra: a iniciativa é uma contribuição para o Programa Artemis da NASA que tem como objetivo voltar à Lua em 2026 e estabelecer uma presença sustentável no longo prazo. As informações são do site Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft quebra promessa e aumenta produção de gases de efeito estufa em 30% para treinar modelos de IA: ao todo, a empresa emitiu 15,3 milhões de toneladas métricas de dióxido de carbono no último ano fiscal, comparável à poluição anual de carbono em países como Haiti, devido ao fato de que data centers para treinar IA consomem mais energia do que os tradicionais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia novos recursos de acessibilidade para iOS 18 e seus outros sistemas operacionais: o Eye Tracking permite que usuários naveguem pelo dispositivo apenas com o olhar, permitindo que eles foquem em algum elemento da tela para realçá-lo ou selecioná-lo; o Music Haptics é projetado para ajudar deficientes auditivos a desfrutarem de músicas, utilizando motor háptico do iPhone para emitir toques e vibrações que sincronizam com o áudio; o Vehicle Motion Cues ajudará pessoas que sofrem de enjoo quando utilizam o celular em algum veículo em movimento, fazendo com que os elementos da tela sigam o balanço do carro; e o Vocal Shortcuts permite que usuários atribuam frases personalizadas para iniciar atalhos e executar ações complexas de várias etapas. As informações são do site da Apple.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla deseja aprimorar experiência de busca no Firefox monitorando atividade dos usuários na web: a coleta dos dados será anônima e não irá rastrear contas ou endereços IP, podendo ser desativada a qualquer momento. De início, o recurso está disponível apenas para usuários dos EUA. As informações são do blog da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "Meta pode estar trabalhando em fones de ouvido equipados com câmeras e inteligência artificial: o dispositivo – internamente chamado de “amerabud” – seria capaz de identificar objetos e traduzir vários idiomas em tempo real. Mark Zuckerberg, entretanto, não estaria satisfeito com nenhum dos designs apresentados, além da equipe apontar possíveis problemas, como cabelo comprido cobrindo a visão da câmera e superaquecimento por conta dos componentes internos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Pequenos reatores nucleares, uma grande esperança no combate às mudanças climáticas, têm se mostrado financeiramente inviáveis: o custo final por megawatt é cerca de 250% maior do que um reator convencional. Além disso, o custo do megawatt-hora de eletricidade produzido por usinas eólicas e solares pode ser até 80% mais barato. As informações são do site Cosmos.",
+            "url": ""
+        }
+    ]
+}
