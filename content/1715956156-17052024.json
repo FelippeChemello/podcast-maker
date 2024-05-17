@@ -1,0 +1,49 @@
+{
+    "title": "Anatel investiga Starlink / Reddit + OpenAI / Brasileiro do Instagram na Anthropic",
+    "fps": 30,
+    "timestamp": 1715956156,
+    "width": 0,
+    "height": 0,
+    "date": "17/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Anatel abre investigação contra Starlink por monopólio no Brasil: a empresa cresceu 260% entre maio de 2023 e fevereiro de 2024 no país, o que poderia impactar a concorrência de mercado. A agência também investiga a presença de satélites da Starlink em regiões que podem atrapalhar a visualização do espaço por astrônomos. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Parceria entre Reddit e OpenAI vai trazer conteúdo da rede social para dentro do ChatGPT: a OpenAI utilizará a API do Reddit para treinar seus modelos com conteúdo e informar sobre acontecimentos recentes. O Reddit também pretende trazer recursos de IA generativa para a sua plataforma. As informações são do Reddit.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiro cofundador do Instagram é contratado como diretor de produtos na Anthropic: Michel “ik” Krieger passou os últimos anos trabalhando no Artifact, um aplicativo de leitura de notícias baseado em IA, que foi adquirido pelo Yahoo. Inicialmente, Krieger irá supervisionar o desenvolvimento do Claude, chatbot da Anthropic. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo adotará sistema Cell Broadcast no Brasil que alerta pessoas sobre situações de emergência através do celular: o som emitido pelo aparelho é semelhante ao de uma sirene, mesmo que ele esteja no modo silencioso, e não há necessidade de cadastro. A ferramenta, ainda em fase de testes, será aplicada em, pelo menos, dez cidades brasileiras que ainda não foram divulgadas. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Salto no preço do Bitcoin aumenta em 300% a busca por empresas de recuperação de carteiras digitais: é comum investidores esquecerem a senha de suas contas ou perderem acesso ao dispositivo de autenticação de dois fatores. Geralmente, essas empresas cobram uma taxa de 20% sobre o conteúdo recuperado da carteira, que só é paga depois que o procedimento é concluído. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança plataforma gratuita para ajudar pessoas a desenvolverem seu primeiro aplicativo para a App Store: o Pathways possui uma coleção de vídeos e documentações dividido em 7 categorias, desde os primeiros passos até a publicação da aplicação na loja virtual. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Archie, primeiro motor de busca da internet, é restaurado e está funcionando novamente: a última cópia existente foi encontrada pelo grupo do canal The Serial Port no YouTube, que disponibilizou os arquivos publicamente e colocou o sistema para rodar em um Sun SPARCstation 5 emulado. O Archie foi criado em 1989 com o objetivo de indexar informações como nome e diretório dos arquivos de um servidor FTP, armazenando-as em um banco de dados pesquisável. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nova ferramenta consegue recompilar praticamente todos os jogos do Nintendo 64 para rodar nativamente em PCs, com melhorias gráficas, ray tracing e FPS destravado: apenas um arquivo ROM é necessário. O projeto está disponível no repositório “Mr-Wiseguy/N64Recomp” do GitHub. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
