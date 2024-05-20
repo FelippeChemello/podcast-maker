@@ -1,0 +1,49 @@
+{
+    "title": "Irmãos roubam Ethereum / OpenAI com problema grave / Linguagem nova por Dev brasileiro",
+    "fps": 30,
+    "timestamp": 1716215379,
+    "width": 0,
+    "height": 0,
+    "date": "20/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Dois irmãos roubam 25 milhões de dólares com falha no Ethereum em poucos segundos: a dupla – alunos Ciência da Computação do MIT – criou uma série de transações a fim atrair bots utilizados por traders para explorar uma vulnerabilidade no código da rede (que já foi corrigida). As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Membros do time de superalinhamento da OpenAI estão pedindo demissão em massa: Jan Leike, que também já passou pelo Google DeepMind, fez uma série de críticas públicas, afirmando que a OpenAI não está dando atenção necessária às questões de segurança da tecnologia e os meios técnicos para alinhar uma AGI (Inteligência Artificial Geral) a objetivos humanos. À equipe foi prometido 20% dos recursos computacionais da startup, mas nem uma fração disso seria atendida. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor brasileiro anuncia linguagem de programação de alto nível que utiliza threads de CPUs e GPUs para realizar operações paralelas: o Bend, criado por Victor Taelin, possui uma sintaxe similar ao do Python e utiliza o runtime HVM2 para trabalhar com rotinas complexas mais rápido. Uma soma paralela simples em um chip M3 Max com um único thread demorou 147 segundos para rodar, enquanto a mesma operação em uma Nvidia RTX 4090 levou apenas 0,82 segundo. O projeto pode ser visualizado no repositório “HigherOrderCO/Bend” do GitHub. As informações são do site Medium.",
+            "url": ""
+        },
+        {
+            "text": "Falha crítica em padrão Wi-Fi 802.11 afeta todos os sistemas operacionais, incluindo redes domésticas: o ataque “SID Confusion attac” (CVE-2023-52424) envolve falsificar o nome de uma rede confiável para confundir e interceptar o tráfego de dados das vítimas. Mitigações propostas incluem atualizar o padrão 802.11 para incluir o SSID na negociação de conexão segura. As informações são do site The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Chip de celular “irtua” poderá substituir eSIM e cartões SIM tradicionais: o iSIM é integrado diretamente ao processador do dispositivo, eliminando a necessidade de um módulo físico separado (como no caso do chip de celular tradicional) ou do eSIM (cartão físico soldado na placa-mãe do aparelho). A previsão é que já neste ano, mais de 800 mil aparelhos venham com a tecnologia embutida. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Evento de referência para a comunidade acadêmica brasileira apresentará duas tecnologias produzidas no país: o Metahealth atua como uma plataforma de realidade virtual para treinar profissionais de saúde, e o GuardAI identifica roubos, furtos e atividades suspeitas através de câmeras de vigilância. A 25ª edição do Workshop RNP está marcada para os dias 20 e 21, nos formatos presencial e online. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Winamp, primeiro reprodutor de arquivos MP3 popular para PCs, terá seu código-fonte aberto: a equipe atualmente está focada na portabilidade do programa para mobile e outras plataformas, mas alega que a decisão possibilitará novas experiências na versão tradicional de desktop. As informações são do site do Winamp.",
+            "url": ""
+        },
+        {
+            "text": "X adota novo domínio para todos os seus sistemas principais e encerra de vez o uso da marca Twitter: usuários relatam, entretanto, que algumas URLs antigas ainda estão funcionando e o navegador Safari não está fazendo o redirecionamento automático. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
