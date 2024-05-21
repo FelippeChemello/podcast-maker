@@ -1,0 +1,49 @@
+{
+    "title": "Atriz acusa OpenAI / Fortran e COBOL são destaque / Projetos open source restringem uso de IAs",
+    "fps": 30,
+    "timestamp": 1716301747,
+    "width": 0,
+    "height": 0,
+    "date": "21/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atriz do filme “l” acusa OpenAI de usar voz muito semelhante à sua na atualização recente do ChatGPT: Scarlett Johansson disse que Sam Altman tentou contratá-la no ano passado e novamente dois dias antes do lançamento da voz “k”, junto do modelo GPT-4o. A OpenAI afirma que a voz não é a da atriz e nunca teve a intenção de deixá-la semelhante – é difícil, entretanto, notar diferença entre a voz da atriz e da sintética Sky, gravada por uma profissional distinta. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Fortran e COBOL, tecnologias da década de 1950, voltam a aparecer na lista das 20 linguagens de programação mais populares do mundo no índice TIOBE: o Fortran, na 10ª posição, ainda possui uma grande influência na computação numérica e matemática, enquanto o COBOL, na 20ª posição, ainda é amplamente utilizado em sistemas legados para operações críticas de negócios, como bancos, seguros e saúde. As informações são do site I Programmer.",
+            "url": ""
+        },
+        {
+            "text": "NetBSD e Gentoo Linux restringem o uso de IA generativa no desenvolvimento de seus projetos: o código gerado pelos modelos de linguagem é visto como “contaminado” e necessita de supervisão humana antes que seja aprovado. Também há preocupações a respeito de conteúdos que infringem direitos autorais. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft mostra novidades no evento Surface que ocorreu ontem e promete mais anúncios na sua conferência anual de desenvolvedores de 2024, que acontece hoje: Copilot Plus é a nova categoria de PCs com IA, equipados com processadores Qualcomm (arquitetura Arm), sendo 58% mais rápidos do que um MacBook Air M3; Recall é uma ferramenta executada localmente no dispositivo e registra tudo o que o usuário faz no computador por meio de capturas de tela periódicas, permitindo que ele pesquise e recupere o conteúdo com o qual interagiu; o assistente Copilot receberá o modelo GPT-4o da OpenAI e irá fornecer sugestões no menu de configurações do Windows, editar arquivos do Explorer e responder a notificações; também foram anunciados os novos modelos Surface Pro e Laptop. O evento Microsoft Build 2024 acontece hoje e poderá ser assistido no canal Microsoft Developer do YouTube, a partir das 12h30. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Corte britânica decide que Craig Wright não é Satoshi Nakamoto, criador do Bitcoin: a ação foi movida pela Crypto Open Patent Alliance, cujos membros incluem a empresa de pagamentos Block de Jack Dorsey (fundador do Twitter) a fim de impedir que Wright processasse os desenvolvedores do Bitcoin. De acordo com o juiz do caso, ele teria forjado documentos ao afirmar ser o autor do white paper de 2008 que contém o texto fundador da moeda digital. Wright irá recorrer da decisão do tribunal. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Slack estaria coletando dados de conversas para treinar seus recursos de IA sem consentimento: usuários que desejam encerrar o compartilhamento precisam entrar em contato com a administração da organização onde trabalham, solicitando o envio de um e-mail ao Slack com o assunto “Pedido para não participar do modo global do Slack”. A empresa afirma que os dados são utilizados somente para treinar seus modelos de busca e recomendações. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores de jogos criticam restrições impostas pelo sistema do Apple tvOS: a quantidade máxima de armazenamento que um aplicativo pode utilizar é de 4 GB, e os dados podem ser excluídos do sistema a qualquer momento por serem considerados como arquivos temporários. Além disso, apenas 500 KB podem ser usados para arquivos persistentes, como configurações e saves. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Experimento prova que instalar o Windows XP e conectá-lo à internet nos dias de hoje resulta em vários vírus instalados automaticamente em poucos minutos: o YouTuber Eric Parker configurou uma máquina virtual com o sistema operacional e utilizou uma conexão de rede não segura (como as redes Wi-Fi públicas). Em pouco tempo, pelo menos oito vírus haviam sido instalados, incluindo trojans, backdoors, alteradores de DNS e adware. O suporte ao Windows XP foi encerrado em 2014. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
