@@ -1,0 +1,49 @@
+{
+    "title": "Google em \"pânico\" / Windows + Git / Trojan brasileiro poderoso",
+    "fps": 30,
+    "timestamp": 1716388127,
+    "width": 0,
+    "height": 0,
+    "date": "22/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Projetos de IA do Google são motivados por “ânic” de ficarem para trás em relação à concorrência, afirma ex-funcionário: Scott Jensen, designer sênior de UX por mais de 16 anos na empresa, reforça que os novos produtos não refletem uma verdadeira necessidade dos usuários, criticando a falta de direcionamento e comparando a situação atual com o lançamento do Google+ em resposta ao Facebook, em 2011. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro dia do Microsoft Build 2024 tem integração do File Explorer com o Git, tradução e dublagem automática de vídeos no YouTube pelo navegador Edge e outras novidades: o Explorador de Arquivos do Windows receberá uma integração com o Git para desenvolvedores acompanharem seus projetos; o navegador Edge está recebendo um recurso de dublagem em plataformas de vídeo; agentes de IA do Copilot poderão ser usados para realizar tarefas básicas, como monitoramento de e-mails e demais tarefas automatizadas; o Advanced Paste oferece a capacidade de converter conteúdo da área de transferência para outros formatos, como markdown ou JSON, utilizando atalhos de teclado ou prompts de texto. O segundo dia do evento acontece hoje e poderá ser acompanhado no canal Microsoft Developer do YouTube, a partir das 12h30. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Trojan brasileiro “randoreir”, derrubado no início de 2024 pela PF, volta com melhorias em novas campanhas de phishing: o vírus é capaz de realizar upload/download de arquivos, keylogging, manipulação do navegador através de JavaScript e análise detalhada do perfil da vítima indicando se o trojan poderá ou não ser executado em sua máquina. Os operadores estão mirando mais de 60 países e cerca de 1.500 bancos, incluindo usuários de Outlook e máquinas com Windows 7 onde nenhum antivírus está ativo. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central adotará medidas para regulamentar moedas digitais ainda neste ano: o processo será dividido em três etapas, com uma segunda consulta pública sobre normas gerais de atuação dos operadores no setor, criação de planejamento interno sobre a regulamentação de stablecoins e desenvolvimento de um conjunto de regras para as empresas de ativos digitais, conhecidas como VASPs. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Claro é multada em 1 milhão de reais pela Senacon por propaganda enganosa a respeito da sua internet 5G: o processo se refere à tecnologia 5G DSS, que utiliza o compartilhamento dinâmico de espectro e permite que a rede seja oferecida na mesma frequência do 4G. O órgão afirma que houve falha na prestação de informações corretas aos clientes. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Meta, Match Group e Coinbase anunciam coalizão para proteção contra fraudes em aplicativos de namoro, mídia social e moedas digitais: o grupo “ech Against Sca” surgiu com o objetivo das empresas compartilharem dados e educarem usuários, especialmente após o surgimentos das IAs, que possibilitou a criação de golpes mais convincentes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "38% de todas as páginas da internet que existiam entre 2013 e 2023 não estão mais acessíveis: a porcentagem de sites de notícias e governamentais com ao menos um link quebrado chegou a 21% e 23%, respectivamente. Esse número aumenta para 54% na seção de referências em artigos da Wikipédia. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Chrome DevTools passa a utilizar Gemini para auxiliar na compreensão de erros de JavaScript exibidos no console: o recurso está disponível a partir da versão 125 e somente para usuários que configurarem o idioma da ferramenta para inglês. Ao passar o mouse por cima de uma mensagem de erro, um botão com o ícone de uma lâmpada será exibido no canto superior direito, ao clicar sobre ele a IA fornecerá mais detalhes e possíveis soluções. As informações são do site Chrome for Developers.",
+            "url": ""
+        }
+    ]
+}
