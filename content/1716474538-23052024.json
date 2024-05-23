@@ -1,0 +1,49 @@
+{
+    "title": "\"IAs nunca superarão humanos\" / Carros elétricos mais perigosos / Drive USB que dura 200 anos",
+    "fps": 30,
+    "timestamp": 1716474538,
+    "width": 0,
+    "height": 0,
+    "date": "23/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cientista-chefe de IA da Meta afirma que os grandes modelos de linguagem nunca alcançarão a capacidade de raciocínio de um ser humano: para Yann LeCun, LLMs possuem uma compreensão limitada de lógica, memória impersistente e incapacidade de entender o mundo físico, reforçando que a tecnologia só consegue responder com precisão caso tenha sido treinada com os dados corretos, o que a torna insegura em alguns casos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Veículos elétricos são mais propensos a atingir pedestres do que carros movidos a combustão por serem mais silenciosos: em geral, o risco de colisão é 20% superior, mas esse número pode aumentar para 50% quando os automóveis estão trafegando em velocidade baixa ou realizando certas ações como virar em curvas ou andar em marcha à ré. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Drive USB com capacidade de apenas 8 KB dura mais de 200 anos: o Blaustahl é equipado com um chip de memória FRAM, suporta até 1 trilhão de ciclos de leitura/gravação e possui um editor de textos embutido que pode ser acessado através de programas como o PuTTY, sendo útil para armazenamento de notas, senhas e chaves de moedas digitais. Em comparação, um dispositivo USB comum pode durar até 20 anos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Amazon planeja atualizar Alexa com IA generativa por meio de uma assinatura mensal ainda este ano: a empresa planeja lançar uma versão mais conversacional do seu dispositivo, para competir com o ChatGPT. O preço da assinatura ainda não foi revelado, mas fontes internas sugerem que ela não será incluída no pacote Prime da Amazon. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google Cloud exclui indevidamente conta e backups de fundo de pensão australiano: os sistemas da UniSuper ficaram instáveis por duas semanas, afetando mais de 640 mil usuários. Os dados foram recuperados utilizando um backup de outro provedor. O problema teria sido causado por uma configuração incorreta durante o provisionamento dos serviços de nuvem privada da UniSuper. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Android 15 pode aumentar autonomia da bateria em até 3 horas: o tempo para o aparelho entrar no modo “inativo” – que restringe as atividades em segundo plano de aplicativos quando a tela está desligada por um período de tempo – acelerou em 50% na nova versão. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla afirma estar preocupada com o recém anunciado recurso Recall do Windows: embora os dados armazenados sejam criptografados, é possível que cibercriminosos se aproveitem da tecnologia como um novo vetor de ataque para operar golpes (apesar de não deixar claro como). A Mozilla também ressalta que o Edge permite que os usuários bloqueiem sites específicos de serem visualizados pelo Recall, como plataformas financeiras, mas outros navegadores ainda não possuem essa capacidade. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Recrutadora auxiliou desenvolvedores norte-coreanos a obterem empregos remotos em mais de 300 empresas dos EUA: eram utilizadas identidades roubadas de cidadãos americanos e proxies/VPNs para simular suas conexões a partir dos EUA. A penalização pelo crime pode chegar a até 97 anos de prisão. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
