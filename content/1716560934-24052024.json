@@ -1,0 +1,45 @@
+{
+    "title": "Rumor: Microsoft + Steam / Caixa preta das IAs / Programa \"Celular Seguro\" melhor",
+    "fps": 30,
+    "timestamp": 1716560934,
+    "width": 0,
+    "height": 0,
+    "date": "24/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rumor aponta que Microsoft estaria preparando proposta para aquisição da Valve e Steam por 16 bilhões de dólares: o valor seria o dobro da avaliação de mercado da Valve (que é uma empresa privada). A Microsoft está interessada em fortalecer a sua posição no mercado de jogos para PC com o portal de venda de jogos Steam e o dispositivo portátil Steam Deck – a Valve também é o estúdio por trás de franquias famosas como Half-Life e Counter-Strike. As informações são do site Guru3D.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Anthropic dá pistas sobre como a “aixa pret” de um grande modelo de linguagem funciona: as redes neurais por trás das IAs atuais ainda são um certo mistério até mesmo para quem trabalha na área. A pesquisa consegue parcialmente explicar como o modelo Claude 3 trabalha para criar suas respostas, com cada conceito sendo representado por muitos neurônios artificiais e cada um deles envolvido na representação de muitos conceitos. Entender como LLMs funcionam internamente é muito importante porque permitirá garantir ajustes e controle confiável dos comportamentos do modelo. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Com mais de 2 milhões de cadastros e 48 mil alertas disparados, Ministério da Justiça cria Comitê Gestor do programa Celular Seguro: um dos primeiros objetivos é a implementação de um alerta via WhatsApp disparado para o número do aparelho roubado quando ele for habilitado novamente – a medida, já em testes no Piauí, aumentou o índice de recuperação de aparelhos em 139%. As informações são do site GovBR.",
+            "url": ""
+        },
+        {
+            "text": "Recém lançado AI Overviews do Google, que usa IA generativa para buscas de usuários, está fornecendo respostas completamente incorretas: em um dos casos reportados, ao fazer uma pizza, o sistema sugere misturar cola ao queijo para que ele não desgrude da massa. O modelo está se baseando em postagens do Reddit, que podem ser humorísticas ou sarcásticas. A empresa afirma que irá refinar o modelo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros de software especializados em IA estão ganhando, em média, 100 mil dólares a mais por ano do que outros profissionais sem conhecimentos na área nos EUA: a diferença salarial saltou de 30% em 2022 para 50% neste ano, como resultado do crescimento exponencial no interesse pela tecnologia e a escassez de talentos técnicos. O salário médio desses profissionais é de 300 mil dólares por ano nos EUA. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Um dos servidores raiz da internet, essenciais para o sistema de tradução de nomes de domínios, ficou fora do ar por quatro dias: a Cogent, provedora responsável pela manutenção do c-root, não estava ciente do problema até terça-feira. A situação foi resolvida após 25 horas de trabalho, sem fornecer detalhes sobre o motivo da ocorrência. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft planeja descontinuar o VBScript para explorar alternativas mais modernas, como JavaScript e PowerShell: a linguagem surgiu em 1996 como um componente do Windows, oferecendo a capacidade de automatizar tarefas e desenvolver páginas web interativas, mas hoje é considerada insegura. A empresa descontinuará a linguagem por etapas, onde a primeira consiste em transformá-la em um recurso separado do Windows 11 24H2 no segundo semestre deste ano. As informações são do site The Hacker News.",
+            "url": ""
+        }
+    ]
+}
