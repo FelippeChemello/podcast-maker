@@ -1,0 +1,49 @@
+{
+    "title": "Brecha no WhatsApp / Computação calma / Fim do ICQ",
+    "fps": 30,
+    "timestamp": 1716820112,
+    "width": 0,
+    "height": 0,
+    "date": "27/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apesar da criptografia presente no WhatsApp, usuários são vulneráveis à vigilância de governos, alerta equipe de segurança: utilizando uma técnica de análise de tráfego, as agências conseguem monitorar quando, onde e quais indivíduos estão conversando uns com os outros, mesmo que o conteúdo da conversa não possa ser acessado. A Meta nega a existência de backdoors no WhatsApp e afirma que essa vulnerabilidade não é algo exclusivo do aplicativo. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Startup lança tablet que combina Kindle e iPad, baseando-se no princípio da “ecnologia calm”: o destaque do DC1, da Daylight Computer, é uma tela de 10,5 polegadas com a tecnologia inédita “LivePaper” – mistura do visual do E-Ink (similar ao do Kindle) com a taxa de atualização de 60 Hz e responsividade de um display LCD comum, além de backlight sem luz azul, iluminado apenas com a cor âmbar. Para o CEO Anjan Katta, \"é impossível fugir da tecnologi”, mas argumenta que é preciso “epensar o computado” para ser menos distrativo. O DC1 está previsto para ser lançado em junho e já está em pré-venda por 729 dólares, por enquanto sem disponibilidade no Brasil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "ICQ, aplicativo pioneiro de mensagens instantâneas, será encerrado após 28 anos: o serviço foi lançado em 1996 e em 2001 já contava com mais de 100 milhões de usuários globais, perdendo popularidade ao longo dos anos. Em 2023, o aplicativo foi suspenso das lojas digitais no Brasil após uma investigação da Justiça Federal, apesar de continuar funcionando no país. O ICQ será encerrado no dia 26 de junho. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "59% das cidades mais populosas do Brasil ainda não estão adaptadas para receber a tecnologia 5G: as operadoras não têm conseguido instalar novas estações devido à aplicação de restrições por parte desses municípios, como taxas e limites de localização. Na lista de melhores regiões para avanço do 5G, o Sul se manteve em primeiro lugar, enquanto o Nordeste permaneceu em último. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Startup xAI, de Elon Musk, planeja construir supercomputador quatro vezes mais potente do que o cluster de GPUs da Meta, o maior atualmente: o projeto “Gigafactory of Compute” consiste em uma máquina com 100 mil placas Nvidia H100 para treinar grandes modelos de linguagem. Há indícios de que Musk está considerando uma parceria com a Oracle para o projeto, mas ainda não há confirmação oficial. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Uber pretende disponibilizar serviço Uber Green para viagens com carros elétricos no Brasil: a companhia planeja que suas viagens tenham zero emissão de carbono até 2040. Outra novidade é o Uber Health, que permite que empresas de saúde solicitem viagens não emergenciais para pacientes em tratamentos médicos. Ainda não há uma data para lançamento dos serviços no país. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Anomalia do Atlântico Sul, região onde o campo magnético da Terra é mais fraco, cresce sobre o território brasileiro e está sendo estudado pela NASA: entre 2020 e 2024, estima-se que a área tenha aumentado em aproximadamente 7%. Ela é monitorada porque a radiação do Sol incidente na região pode danificar satélites e interferir nas comunicações por rádio, mas não apresenta riscos à saúde humana. As informações são do site da revista Exame.",
+            "url": ""
+        },
+        {
+            "text": "YouTube adiciona modo de busca por reconhecimento de músicas, melodias e cantorias em dispositivos Android: o recurso reconhece um som que está tocando por perto ou que uma pessoa está cantando, e utiliza o repertório do YouTube Music para exibir os resultados. Inicialmente a novidade foi liberada somente para dispositivos Android, sem previsão para chegar no iOS. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
