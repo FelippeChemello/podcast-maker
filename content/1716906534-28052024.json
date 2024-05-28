@@ -1,0 +1,49 @@
+{
+    "title": "\"GPT-5\" confirmado / Tecnologia quântica no Brasil / Copilot no Telegram",
+    "fps": 30,
+    "timestamp": 1716906534,
+    "width": 0,
+    "height": 0,
+    "date": "28/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI confirma que já está treinando sucessor do GPT-4: apesar de não identificá-lo como “PT-”, a empresa espera que o modelo traga “ próximo nível de capacidade” para chatbots, assistentes digitais, mecanismos de busca e geradores de imagens. Não há previsão para seu lançamento neste momento. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Ciência cria grupo de trabalho para discutir propostas de investimentos em tecnologia quântica: a iniciativa tem como objetivo fazer o país alcançar independência e competitividade no setor, incluindo segurança cibernética, semicondutores e nanotecnologia. O grupo tem o prazo de um ano para apresentar as propostas. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft disponibiliza Copilot no Telegram para todos os usuários: o chatbot pode ser encontrado ao digitar “@CopilotOfficialBot” na pesquisa do aplicativo. Essa versão do modelo utiliza apenas texto e não é capaz de gerar imagens, funcionando como um serviço de bate-papo. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "xAI, startup de IA de Elon Musk, levanta 6 bilhões de dólares em nova rodada de investimento: a empresa estava avaliada em 18 bilhões de dólares antes da captação. Os recursos serão utilizados no lançamento de novos produtos, desenvolvimento da infraestrutura e aceleração de pesquisas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apenas 29% das escolas públicas do Brasil disponibilizam computadores aos alunos: em média, há somente uma máquina para cada 10 estudantes. Quanto à conectividade, 89% têm acesso à internet, mas apenas 11% possuem velocidade acima de 1 Mbps por aluno. Essas informações são provenientes do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros propõem arquitetura que poderá possibilitar data centers do tamanho de uma caixa de sapato e 20 vezes mais potentes que o supercomputador mais poderoso do mundo atualmente: o instituto de pesquisa belga IMEC quer combinar propriedades fundamentais do material supercondutor nitreto de nióbio-titânio com métodos tradicionais de fabricação de semicondutores. Estima-se que 100 chips empilhados, em um pequeno volume de 20x20x12cm teriam um poder computacional de 20 exaflops. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT ainda produz muitas respostas incorretas para problemas de programação: pesquisadores analisaram 517 perguntas do Stack Overflow e compararam as respostas do modelo com humanos. 54% das soluções apresentadas continham erros de interpretação, 36% apresentaram imprecisões nos fatos, 28% erravam em lógica e 12% em terminologia. Além disso, o modelo muitas vezes gerava respostas muito longas e com mais dados do que o necessário. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Chip M4 da Apple supostamente teria adotado arquitetura ARMv9, permitindo a execução de tarefas complexas com mais eficiência: o M4 obteve altas pontuações nos testes do Geekbench 6, que registrou mais de 3.600 pontos em desempenho single-core e mais de 14.000 em multi-core. As informações são do site Wccftech.",
+            "url": ""
+        }
+    ]
+}
