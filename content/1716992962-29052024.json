@@ -1,0 +1,49 @@
+{
+    "title": "Google: vazamento massivo / Signal critica Telegram / Motivo da demissão de Sam Altman",
+    "fps": 30,
+    "timestamp": 1716992962,
+    "width": 0,
+    "height": 0,
+    "date": "29/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Suposto vazamento massivo de documentos sigilosos do Google pode explicar como seu motor de buscas realmente funciona: mais de 2.500 páginas detalham como os algoritmos da plataforma classificam os resultados e desmentem algumas das informações repassadas pela empresa ao longo dos anos, como o uso de dados do Chrome para a detecção de padrões de navegação e sugestões em buscas. O Google ainda não forneceu comentários a respeito da veracidade do vazamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Presidente do Signal critica a segurança do Telegram: Meredith Whittaker comenta que o aplicativo é “o menos seguro dos serviços de mensagens e mídia social que existem”, reforçando que o Signal utiliza criptografia de ponta a ponta em todos os seus serviços, enquanto o Telegram utiliza apenas para bate-papos secretos. Pavel Durov, fundador do Telegram, fez críticas à segurança do Signal, alegando que o serviço de mensagens não é seguro e tem ligações com agências de inteligência dos EUA. As informações são dos sites TechCrunch e The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ex-membro do conselho da OpenAI revela pela primeira vez os motivos que levaram à demissão de Sam Altman em novembro do ano passado: segundo Helen Toner, executivos descreviam uma “atmosfera tóxica” sob a liderança do atual CEO. Altman fornecia informações incorretas sobre os processos de segurança da empresa e não informou a respeito da sua propriedade do OpenAI Startup Fund. O lançamento do ChatGPT foi feito sem o conhecimento prévio do conselho, que ficou sabendo a respeito através de uma publicação no Twitter da eṕoca. Toner também afirma que foi alvo pessoal de Altman, após publicar um artigo de pesquisa “que o irritou”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic contrata Jan Leike, ex-membro do time de segurança da OpenAI que fez duras críticas ao pedir demissão da empresa: o pesquisador vai liderar uma nova equipe de superalinhamento focada em supervisão escalável – técnicas para controlar o comportamento de IAs em larga escala. Na OpenAI, com a saída de nomes importantes do time de segurança, Sam Altman decidiu que iria coordenar pessoalmente esse setor na startup. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Atari anuncia aquisição da Intellivision: ambas foram grandes concorrentes no setor de videogames na década de 70 e seria como a Nintendo comprar o catálogo de jogos do PlayStation ou Xbox atualmente. A Intellivision terá seus antigos jogos licenciados pela Atari, para que estejam disponíveis no lançamento do Amico, seu futuro console, ainda sem previsão de lançamento. As informações são do site Thurrott.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Google afirma que ainda não tem solução para as respostas sem sentido no recém lançado AI Overviews, que usa IA generativa para buscas de usuários: para Sundar Pichai, a alucinação é uma característica inerente dos grandes modelos de linguagem. Na semana passada, o sistema virou notícia após recomendar a mistura de cola ao queijo de pizzas para que não desgrudasse da massa. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Brasil torna-se o maior importador de carros elétricos chineses do mundo: em abril, foram importados mais de 40 mil unidades de veículos híbridos ou puros, e mais de 100 mil nos primeiros quatro meses deste ano. A alíquota, que em janeiro estava em 10% para elétricos e 12% para híbridos, passará a ser de até 25% a partir de julho. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativos Cortana e WordPad serão completamente removidos na atualização 24H2 do Windows 11: a assistente da Microsoft foi lançada há dez anos e será substituída pelo Copilot. O WordPad seria muito limitado e não estaria sendo utilizado regularmente pelos usuários, segundo a Microsoft. As informações são do site Bleeping Computer.",
+            "url": ""
+        }
+    ]
+}
