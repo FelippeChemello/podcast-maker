@@ -1,0 +1,49 @@
+{
+    "title": "\"Godmode\" no ChatGPT / Maior botnet da história / Golpe da Starlink no Brasil",
+    "fps": 30,
+    "timestamp": 1717165696,
+    "width": 0,
+    "height": 0,
+    "date": "31/05/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker faz jailbreak do ChatGPT: o “ODMODE GP” era capaz de responder a quase qualquer solicitação do usuário, sendo ela lícita ou não – contudo, uma hora após seu anúncio, o plugin foi retirado do ar pela OpenAI. O hacker burlou os sistemas de segurança do chatbot ao fazer ele falar “ee” (sistema de escrita que usa caracteres ASCII para substituir letras do alfabeto latino). As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Maior botnet de todos os tempos, com 19 milhões de endereços únicos de IP, é desativado após operação do FBI: os integrantes da “911 S5” criaram uma série de ferramentas gratuitas de VPN que infectavam os dispositivos dos usuários e os integravam ao botnet, que era utilizado por cibercriminosos para esconder suas identidades. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros estão sendo alvos de sites e propagandas falsas da Starlink na internet: criminosos estão utilizando plataformas de anúncios do Google, Facebook e Instagram para espalhar ofertas de antenas por preços mais atrativos e pagamento à vista via PIX, que não é oficialmente aceito pela empresa. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Torre de telefonia em miniatura pode ajudar equipes de resgate a encontrarem pessoas desaparecidas: o Lifeseeker permite que socorristas identifiquem a localização de celulares em um raio de até 20 quilômetros e enviem uma mensagem de texto para o aparelho da pessoa, aumentando a taxa de sucesso das missões de resgate em terrenos desafiadores. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores conseguem recuperar carteira com 43 BTC (15 milhões de reais) com senha perdida há 10 anos: após seis meses de trabalho, foi encontrada uma falha no gerador de números aleatórios do RoboForm, gerenciador utilizado para criar a senha da carteira, permitindo sua engenharia reversa. Todas senhas geradas pelo Roboform anteriores à versão 7.9.14 podem ser recuperadas e devem ser trocadas imediatamente. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria preocupada com possível acordo entre Apple e OpenAI: Sam Altman teria orientado os desenvolvedores da assistente Siri sobre como ela poderia ter as capacidades de um chatbot utilizando as APIs do ChatGPT. Satya Nadella tem receio de que a demanda por servidores cresça após a Apple lançar seus novos recursos – considerando que seus data centers são utilizados pela OpenAI – e aumente a concorrência com o Copilot. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft, Google, Meta, Intel e AMD juntam-se para criar alternativa ao padrão de interconexão NVLink proprietário da Nvidia, utilizado para treinar grandes modelos de linguagem: o UALink é capaz de conectar até 1.024 GPUs em mais de um servidor para trabalharem de forma simultânea em tarefas mais complexas. As informações do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mistral lança modelo de linguagem focado em ajudar desenvolvedores: o Codestral tem 22 bilhões de parâmetros e foi treinado em mais de 80 linguagens de programação, incluindo Python, Java, C++ e JavaScript. O modelo pode ser utilizado na plataforma online Le Chat da Mistral, mas sua licença proíbe aplicação comercial. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
