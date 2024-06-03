@@ -1,0 +1,49 @@
+{
+    "title": "Alerta no Stack Overflow / Chrome: Ad Blockers em risco / App brasileiro finalista em prêmio",
+    "fps": 30,
+    "timestamp": 1717425003,
+    "width": 0,
+    "height": 0,
+    "date": "03/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cibercriminosos estão se passando por pessoas que ajudam desenvolvedores no Stack Overflow para espalhar pacote Python malicioso: o “pytoileur”, hospedado no repositório PyPi, atua como um malware de roubo de informações que coleta cookies, senhas, histórico e dados de cartões de crédito do navegador. A conta “EstAYA G” do Stack Overflow estava sugerindo a instalação desse pacote como uma solução para bugs. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Chrome inicia nesta segunda-feira implementação da nova especificação para extensões do navegador e que pode impactar funcionalidade de bloqueadores de anúncios: usuários das versões Beta, Dev e Canary começarão a ver um banner de aviso ao visitar sua página de gerenciamento de extensões, informando-os de que as extensões baseadas no “anifest V” instaladas não serão mais suportadas em breve. O Manifest V3 será implementado como padrão na versão estável no início de 2025 e não permitirá mais que desenvolvedores carreguem código de servidores remotos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo brasileiro é finalista na disputa por prêmio de design da Apple: o SmartGym, desenvolvido por Mateus Abras de Minas Gerais, já havia levado o prêmio da categoria “Apple Watch” no final do ano passado. Agora, ele concorre em “Inovação” no WWDC 2024 – o evento para desenvolvedores da Apple acontece na próxima segunda-feira (dia 10). As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google implementa restrições no AI Overviews após modelo apresentar respostas sem sentido: o modelo irá detectar melhor conteúdos de humor e sátira, e limitará resultados baseados em fóruns e redes sociais. Liz Reid, chefe de busca do Google, afirma que a equipe testou extensivamente a ferramenta antes do lançamento, mas que “não há nada como ter milhões de pessoas usando o recurso”. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Meta está utilizando postagens de usuários do Instagram e Facebook para treinar modelos de IA: a empresa tem enviado e-mails e notificações por meio do Facebook apenas para usuários europeus, que podem optar por não participar, mas é necessário fornecer uma justificativa. Usuários de outras regiões não têm recebido o mesmo alerta e opção. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Dados de 560 milhões de clientes da TicketMaster, empresa responsável pela venda de ingressos de espetáculos ao redor do mundo, são comprometidos em ataque hacker:  a violação ocorreu no dia 20 de maio, mas a empresa só divulgou o ocorrido neste sábado. Não foram divulgadas mais informações sobre como o ataque ocorreu e quais dados foram vazados até o momento. A TicketMaster também oferece ingressos para espetáculos no Brasil, como o Rock in Rio. O Procon-SP notificou a empresa para entender se o vazamento de dados também afetou clientes brasileiros. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok estaria desenvolvendo versão exclusiva para os EUA a fim de evitar ser bloqueado ou vendido, conforme determinado por legisladores do país em abril:  fontes anônimas internas afirmam que centenas de engenheiros têm trabalhado na separação das milhões de linhas de código. A ByteDance, desenvolvedora do aplicativo, tem até 19 de janeiro de 2025 para vender as operações norte-americanas do TikTok, caso contrário, a rede será banida nos EUA. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Ataque cibernético em grande escala derrubou 600 mil roteadores de uma vez nos EUA em 2023:  o incidente, ocorrido entre 25 e 27 de outubro, não havia sido relatado na época. Hackers enviaram um pacote de firmware malicioso, conhecido como “Chalubo”, contendo um trojan de acesso remoto (RAT) que excluiu partes do código operacional dos aparelhos, que precisaram ser substituídos. As informações são do blog da Lumen.",
+            "url": ""
+        }
+    ]
+}
