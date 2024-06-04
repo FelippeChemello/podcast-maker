@@ -1,0 +1,49 @@
+{
+    "title": "Ex-funcionário alerta: \"desastre de segurança\" no Windows / 1º bioprocessador do mundo / Férias silenciosas",
+    "fps": 30,
+    "timestamp": 1717511378,
+    "width": 0,
+    "height": 0,
+    "date": "04/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ex-funcionário da Microsoft afirma que a recém anunciada ferramenta Recall, que realiza capturas de tela de tudo que o usuário faz no Windows, é “um desastre de segurança”: Kevin Beaumont descobriu que ele armazena informações no formato de texto simples, em um banco de dados SQLite localizado na pasta AppData, que pode ser acessada mesmo se o usuário não for um administrador do sistema. Para Beaumont, isso abre a possibilidade de invasores utilizarem malwares para extrair o banco de dados e seu conteúdo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Startup suíça desenvolve primeiro bioprocessador do mundo com 16 organoides cerebrais humanos e consumo de energia um milhão de vezes menor do que os chips digitais tradicionais: a Neuroplatform, da FinalSpark, oferece acesso remoto aos neurônios biológicos in vitro, alegando ser capaz de reduzir drasticamente a demanda de energia para treinar modelos de IA. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Trabalhadores remotos estão tirando “férias silenciosas” sem comunicar às empresas: funcionários estão viajando e utilizando VPNs e telas de fundo virtuais em reuniões de vídeo para não indicar sua real localização. Apesar da prática não ser ilegal, ela pode gerar problemas de conformidade, por exemplo, quando um colaborador sofre um acidente em uma viagem não autorizada e busca compensação por acidente de trabalho. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Vivo, Claro e TIM desejam taxar empresas que utilizam mais de 5% do volume de tráfego em suas redes, incluindo Meta, Google, Netflix e TikTok: a proposta, enviada à Anatel, sugere que cada operadora defina um preço por gigabyte excedente em suas redes fixa e móvel. As operadoras argumentam que merecem ser compensadas pelas grandes empresas de tecnologia por gerarem muito mais lucro do que o setor de telecomunicações, do qual dependem. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Instagram pode implementar anúncios de 3 a 5 segundos que não podem ser pulados: as propagandas seriam exibidas no feed e nos stories, após um determinado tempo em que o usuário estiver navegando. O recurso, chamado de “Ad Breaks”, ainda está em fase de testes e apenas alguns usuários notaram sua presença no aplicativo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Eric Yuan, CEO do Zoom, quer criar “êmeos digitai” para participarem de reuniões no lugar de pessoas: a ideia é, no futuro, cada usuário ter um “vatar deepfak” e LLM customizado próprio para auxílio na tomada de decisões. O gêmeo digital poderia ainda ter habilidades diferentes da pessoa sobre a qual é baseada, como ser um melhor vendedor e lidar melhor com clientes. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Teste de OpenRAN no Brasil com 5G desagregado alcança velocidade de 1 Gbps de transferência e 18 milissegundos de latência: o experimento foi realizado entre dois testbeds do Rio de Janeiro e Campinas, utilizando um link de 10 Gbps com latência de 10 milissegundos. O programa visa acelerar o desenvolvimento do ecossistema de redes abertas, permitindo que diferentes empresas forneçam os componentes necessários para a implementação de uma estação base de celular, aumentando a disponibilidade e reduzindo os custos da rede 5G em todo o país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Kaspersky anuncia ferramenta de antivírus gratuita para Linux: o “KVRT for Linux” verifica a memória e todos os arquivos do sistema operacional e não requer instalação, podendo ser executado em formato portátil via linha de comando ou interface gráfica. Sua base de dados é atualizada várias vezes ao dia, mas cabe ao usuário baixar o pacote da versão mais recente. As informações são do blog da Kaspersky.",
+            "url": ""
+        }
+    ]
+}
