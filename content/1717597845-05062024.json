@@ -1,0 +1,49 @@
+{
+    "title": "IA no lugar de CEO / Vazamento massivo no Telegram / Carta aberta pedindo proteção",
+    "fps": 30,
+    "timestamp": 1717597845,
+    "width": 0,
+    "height": 0,
+    "date": "05/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEOs poderiam ser substituídos por IAs na tomada de decisões lógicas e livres de preferências pessoais: para Anant Agarwal, ex-diretor do Laboratório de Ciência da Computação e IA do MIT, 80% do trabalho de um diretor executivo poderia ser substituído por modelos de linguagem. Como esses executivos tendem a receber altos salários, há um amplo incentivo financeiro nas empresas para substituí-los. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 360 milhões de contas a várias plataformas diferentes estão expostas em canais públicos do Telegram: credenciais do Gmail, Outlook e Yahoo, e outros serviços, como Epic Games, Netflix e lojas virtuais, estão distribuídos em pacotes que pesam mais de 120 GB. Usuários já podem acessar a plataforma “ave I Been Pwne” para verificar se suas credenciais foram expostas. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários antigos e atuais da OpenAI, Google DeepMind e Anthropic assinam carta aberta pedindo proteção contra retaliações por alertas sobre os riscos da inteligência artificial: os 13 signatários – alguns deles anônimos – afirmam que as companhias possuem amplos acordos de confidencialidade, impedindo que seus colaboradores expressem publicamente suas opiniões, mesmo quando não façam mais parte da equipe. A carta, inclusive, foi endossada por Geoffrey Hinton, um dos mais importantes pesquisadores de IA do mundo. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia chip Lunar Lake para notebooks com memória RAM embutida e design system-on-chip, semelhante à arquitetura Arm usada nos PCs da Apple: usuários poderão escolher entre 16GB ou 32GB de memória LPDDR5X integrada, sem possibilidade de expansão. Em comparação com o modelo anterior, Meteor Lake, o Lunar consegue ser 14% mais rápido na mesma frequência e consumir 40% a menos de energia, com mais de 40 TOPS de desempenho de IA, excedendo os requisitos impostos pela Microsoft para os PCs Copilot Plus. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anatel lança ferramenta gratuita para comparação de ofertas entre operadoras: o “natel Busca Oferta” lista preços, modos de pagamento, nome da empresa e serviço oferecido, sendo possível filtrar pelas modalidades de telefonia móvel, banda larga, TV por assinatura, telefonia fixa e combos. O serviço pode ser acessado pelo site oficial da Anatel. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Gemini, chatbot do Google, está ocasionalmente gerando respostas ilegíveis e sem sentido aos usuários, com palavras, frases e caracteres especiais aleatórios: os textos gerados pelo modelo não parecem ter relação com a mensagem enviada pelo usuário. O problema ocorre tanto na versão web como no aplicativo para celulares. O Google ainda não forneceu comentários. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários do Google com privilégios de administrador do YouTube podem estar relacionados com vazamentos de informações e trailers de jogos: o jogo Yoshi’s Crafted World, para o Nintendo Switch, foi exposto no Reddit antes da empresa anunciá-lo oficialmente. Outros vazamentos, como o trailer de GTA VI recentemente, também podem estar relacionados, mas ainda não há uma confirmação oficial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Eletrificação global de veículos pode exigir um aumento de 115% na mineração de cobre nos próximos 30 anos: uma solução alternativa seria a eletrificação parcial, considerando que a fabricação de veículos híbridos requer 29 kg de cobre, enquanto os elétricos baseados em bateria precisam de 60 kg. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
