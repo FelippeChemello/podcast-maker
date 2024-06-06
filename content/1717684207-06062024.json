@@ -1,0 +1,45 @@
+{
+    "title": "\"Metodologia Ágil\" questionada / Escassez crítica em TI / Nvidia passa Apple",
+    "fps": 30,
+    "timestamp": 1717684207,
+    "width": 0,
+    "height": 0,
+    "date": "06/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Projetos de software que adotam metodologias ágeis têm 268% mais chances de falhar, segundo estudo: o trabalho foi realizado com 600 engenheiros de software no Reino Unido e EUA. Para Junade Ali – líder do estudo e proponente da abordagem de desenvolvimento rival “Impact Engineering” – “é hora de questionar” a metodologia, considerando que “65% dos projetos adotando práticas ágeis não são entregues no prazo”. Além disso, a pesquisa também mostraria que “quando se trata de fornecer software de alta qualidade, no prazo e dentro do orçamento” é necessário um processo bem documentado, dando espaço para discussões com segurança quando problemas surgirem, tomando medidas para evitar o esgotamento de desenvolvedores. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Até 2026, 90% das empresas do mundo devem sofrer com escassez crítica de profissionais de TI, especialmente em desenvolvimento de software, IA generativa e nuvem: isso causará perdas da ordem de 5 trilhões de dólares com o atraso na entrega de novos produtos e perda de competitividade. Especialistas acreditam que as empresas deveriam reforçar internamente uma cultura de aprendizado, investindo em treinamentos, hackathons e laboratórios práticos. As informações são do site Computer World.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia ultrapassa a Apple e torna-se a segunda empresa mais valiosa do mundo, atrás apenas da Microsoft: a empresa está com um valor de mercado de 3,01 trilhões de dólares na bolsa de valores Nasdaq, ultrapassando os 3 trilhões da Apple. A Microsoft está avaliada em 3,15 trilhões de dólares. As informações são do site da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Startup japonesa de semicondutores apresenta primeiro protótipo de CPU sem fio do mundo: os chips da Premo utilizam a tecnologia proprietária “Dualibus”, permitindo que os componentes transmitam sinais utilizando campos magnéticos, reduzindo seu tamanho, eliminando a necessidade de placas de circuito impresso e fiação, e permitindo que tenham formatos flexíveis. Embora ainda exijam conexão física para energia, a tecnologia possui aplicações em dispositivos IoT e AR/VR. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "50% dos PCs Windows estarão equipados por chips com arquitetura Arm até 2029, prevê CEO: para Rene Haas, da Arm, a Microsoft está mais comprometida com a tecnologia do que nos últimos dois anos. Por outro lado, Kieren Jessop, analista da Canalys, prevê que 30% do mercado de PCs (incluindo aqui a Apple) será baseado na nova arquitetura até 2026, e só ultrapassaria esse patamar nos próximos 5 anos caso a Intel apresentasse seu próprio chip Arm, o que é improvável. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Google adquire Cameyo, empresa de virtualização de software, a fim de reforçar integração de aplicativos de desktop do Windows no ChromeOS: a estratégia é facilitar uma transição do sistema da Microsoft, especialmente no ambiente empresarial. No ano passado, as duas empresas já haviam anunciado uma parceria para criar uma experiência virtual de softwares do Windows por meio do Virtual App Delivery, incluindo um sistema de arquivos local e suporte aprimorado à área de transferência. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Hacker ético desenvolve ferramenta para extrair todos os dados capturados pelo recém anunciado recurso Recall para o Windows: o “TotalRecall”, criado por Alex Hagenah e distribuído no repositório “xaitax/TotalRecall” do GitHub, consegue localizar automaticamente o diretório do banco de dados e realiza uma cópia dos arquivos. Hagenah – que chama o novo recurso de “Trojan 2.0 embutido” – reforça que as informações são armazenadas em texto simples, sem criptografia, levando apenas 2 segundos para extrair dados de um dia, incluindo detalhes de sites visitados e conversas em aplicativos de mensagem. As informações são do site Wired.",
+            "url": ""
+        }
+    ]
+}
