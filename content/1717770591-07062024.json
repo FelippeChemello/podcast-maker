@@ -1,0 +1,49 @@
+{
+    "title": "Metodologia Ágil: dúvidas sobre estudo / Norma ABNT para IAs / Alerta sobre apps de VPN",
+    "fps": 30,
+    "timestamp": 1717770591,
+    "width": 0,
+    "height": 0,
+    "date": "07/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Leitores da Newsletter colocam em dúvida validade da pesquisa que trata de forma negativa desenvolvimento com métodos ágeis, reportada na edição de ontem: um dos argumentos é que o estudo – projetos que adotam metodologias ágeis teriam 268% mais chances de falhar – foi encomendado pela Engprax, empresa que presta serviços de consultoria utilizando uma abordagem alternativa, chamada “Impact Engineering” – essa informação não ficou clara o suficiente no texto da notícia que publicamos. Outro ponto levantado foi a “premissa falha” do estudo – métodos ágeis não serviriam para “cumprir prazo” e teriam como principais objetivos a interação entre pessoas, desenvolvimento e funcionamento contínuo de softwares, colaboração com clientes e respostas rápidas a mudanças. Agradecemos imensamente a todos que nos enviaram suas colocações, tanto aqui pelo email da Newsletter, como pelas redes sociais!",
+            "url": ""
+        },
+        {
+            "text": "ABNT publica norma com melhores práticas e padrões internacionais voltada à implementação de IAs por empresas: a “ABNT ISO/IEC TR 24027:2024” aborda todas as fases do ciclo de vida dos modelos, desde a coleta de dados até avaliação e uso. Para Carlos Reolon, coordenador da Comissão de Estudo de IA no Brasil, o trabalho visa “assegurar que um sistema de IA opere sem gerar riscos relevantes aos usuários, reduzindo as chances de causar prejuízos”. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativos gratuitos de VPN para Android, que juntos somam mais de 2,5 bilhões de downloads, têm falhas significativas de segurança e privacidade: entre 70% e 90% desses programas vazam dados de usuários na internet, utilizando criptografia legada e também solicitam permissões sem sentido, como acesso à câmera do celular e  arquivos do sistema. Uma recomendação seria aplicativos VPN no modelo freemium, que não dependem de anúncios para gerar receita, sendo mais confiáveis, apesar de suas limitações no plano gratuito. As informações são do site Top10VPN.",
+            "url": ""
+        },
+        {
+            "text": "Agências dos EUA estariam preparando investigações contra Nvidia, Microsoft e OpenAI para avaliar o domínio dessas empresas no setor de IA: a intenção seria agir antes que “concorrentes menores sejam excluídos do mercado”. De acordo com o relatório, uma questão a ser analisada seria o domínio da Nvidia em data centers e treinamentos de modelos, e acordos entre a Microsoft e startups do setor de IAs, como OpenAI e Inflection. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Brasil é o principal alvo do malware CatDDoS que transforma roteadores em bots para conduzir ataques de DDoS: o software malicioso explora mais de 80 falhas e tem como alvo provedores de nuvem, serviços de educação, pesquisa científica, administração pública e setores industriais, utilizando uma técnica de ataques de negação de serviço pulsantes (PDoS), ou DNSBomb, que envia rajadas intermitentes de tráfego malicioso em intervalos regulares, muito mais difícil de rastrear. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "DuckDuckGo anuncia AI Chat com quatro modelos (ChatGPT 3.5 Turbo, Claude 3 Haiku, Meta Llama 3 e Mixtral 8x7B): o recurso é gratuito e possui um limite diário de uso (que não foi especificado). As conversas são privadas e os dados não são utilizados para treinar os modelos de linguagem. A equipe planeja adicionar outros modelos no futuro. As informações são do blog do DuckDuckGo.",
+            "url": ""
+        },
+        {
+            "text": "Mercado Livre utiliza “aspiradores-robôs” para separar até 100 mil compras por dia no Brasil: os aparelhos, desenvolvidos pela chinesa Quicktron, são capazes de levantar até 600 quilos e 2,5 mil prateleiras diariamente, com autonomia de até 8 horas de bateria e sistema de recarga automática. A empresa afirma que os robôs reduzem em 20% o tempo de separação de mercadorias. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Equipe de engenheiros da japonesa Mitsubishi quebra recorde com robô que monta cubo mágico em apenas 0,305 segundos: o feito, registrado no Livro Guinness dos Recordes, enfrentou alguns desafios, como ajustar o robô para que o cubo pudesse acompanhar seus movimentos. O recorde de menor tempo para montar um cubo mágico, realizado por um ser humano, Max Park, em junho de 2023, é de 3,13 segundos. As informações são do site Guinness World Records.",
+            "url": ""
+        }
+    ]
+}
