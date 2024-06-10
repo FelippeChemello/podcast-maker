@@ -1,0 +1,49 @@
+{
+    "title": "Rust dobra, mas JS domina / Campanha criminosa no GitHub / Evento da Apple para Devs hoje",
+    "fps": 30,
+    "timestamp": 1718029858,
+    "width": 0,
+    "height": 0,
+    "date": "10/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Rust é a linguagem de programação que mais cresce, dobrando de tamanho nos últimos dois anos, para 4 milhões de desenvolvedores, mas JavaScript permanece dominante, com sua comunidade aumentando em 19%, para mais de 20 milhões de devs: de acordo com a pesquisa Developer Nation da SlashData, referente ao primeiro trimestre de 2024, a popularidade do JS é justificada pelo uso generalizado, desde sites até dispositivos IoT, com pelo menos 25% dos profissionais de todo o mundo utilizando a linguagem. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Nova campanha criminosa, identificada como “Gitloker”, está extorquindo contas do GitHub após deletar repositórios: todos os arquivos são substituídos por um único README, com informações de contato do Telegram dos invasores para entrega de um backup mediante pagamento. Supõe-se que as credenciais dos repositórios atacados tenham sido obtidas de invasões anteriores. A orientação é ativar a autenticação em dois fatores em contas do GitHub imediatamente. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Conferência Mundial de Desenvolvedores da Apple de 2024 será transmitida ao vivo nesta segunda-feira, com destaque para IA: além do esperado iOS 18, a empresa pode apresentar uma versão aprimorada da Siri em uma possível parceria com a OpenAI. A WWDC 2024 poderá ser assistida ao vivo no canal oficial da Apple no YouTube, a partir das 14h (horário de Brasília). As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Impressões em papel diminuíram 20% desde a pandemia: o trabalho remoto, soluções de compartilhamento de documentos e sistemas de assinatura eletrônica são as razões. Enrique Lores, CEO da HP, relata que as vendas de impressoras vêm diminuindo – sem citar números exatos – por nove trimestres consecutivos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft está reformulando a ferramenta Recall do Windows após críticas a respeito de problemas com segurança e privacidade: o recurso passará a ser opcional e virá desativado por padrão. Usuários precisarão utilizar o sistema de autenticação Windows Hello sempre que quiserem consultar seus dados, que agora serão criptografados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia registra 88% das vendas de GPUs no primeiro trimestre de 2024, seguida pela AMD com 12% e Intel com praticamente 0%: o crescimento de 10% na participação de mercado da Nvidia em relação ao trimestre anterior é resultado da demanda cada vez maior por esses componentes por empresas de tecnologia e pode afetar o fornecimento de GPUs voltadas para jogos. As informações são do site XDA Developers.",
+            "url": ""
+        },
+        {
+            "text": "Estudo prevê que dados públicos para treinamento de IAs irão se esgotar até 2032: projetos de IAs serão obrigados a utilizar informações confidenciais, como e-mails e mensagens de texto, ou dados sintéticos, gerados por seus próprios modelos de linguagem, dificultando a escalabilidade e aprimoramento no longo prazo. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Modelo da Microsoft consegue prever, com precisão, diversas variáveis climáticas, como temperatura e poluição do ar, em todo o mundo, em menos de um minuto: além de ser até 5 mil vezes mais eficiente do que sistemas de previsão comuns, o Aurora é muito mais versátil. O modelo foi treinado em mais de um milhão de horas de dados climáticos e suas previsões se estendem por cinco dias em uma resolução espacial de apenas 0.4º. As informações são do blog Microsoft Research.",
+            "url": ""
+        }
+    ]
+}
