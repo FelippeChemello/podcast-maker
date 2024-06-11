@@ -1,0 +1,49 @@
+{
+    "title": "Alerta no VS Code: extensões maliciosas / Pix por aproximação / Polêmica em retorno ao escritório",
+    "fps": 30,
+    "timestamp": 1718116176,
+    "width": 0,
+    "height": 0,
+    "date": "11/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores de segurança criam extensão falsa do VS Code para demonstrar falta de controles rigorosos e revisões segurança no Visual Studio Marketplace : o “Darcula” é uma versão maliciosa do tema “Dracula Official”, contendo um malware que rouba informações confidenciais, como nome do host e sistema operacional. A extensão até mesmo conseguiu o selo “verificado” após os criadores registrarem um domínio para ela na internet. A pesquisa revelou milhares de extensões maliciosas disponíveis no Marketplace, sendo que muitas delas ainda estão disponíveis para download, mesmo relatadas à Microsoft – o nome das extensões não foi revelado. Os pesquisadores lançarão na semana que vem uma ferramenta gratuita, chamada “ExtensionTotal”, para escanear a máquina de desenvolvedores em busca de possíveis ameaças. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Pix por aproximação de celular será lançado neste ano pelo Banco Central: o recurso permitirá o pagamento de compras por aproximação a máquinas em pontos de venda, assim como é feito com cartões de débito e crédito. O Pix poderá ser adicionado à carteira digital do dispositivo, atuando como um ITP (iniciador de transação de pagamento), sem precisar abrir o aplicativo da instituição. Não há data fixa para lançamento do recurso. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 25% dos executivos norte-americanos tentaram obrigar retorno ao escritório com a expectativa de que funcionários pedissem demissão voluntariamente: o estudo foi realizado pela BambooHR com 1.500 colaboradores e cerca de 500 profissionais de RH dos EUA. 42% dos funcionários entrevistados dizem comparecer ao escritório apenas para serem vistos por seus superiores. Essa cultura de desconfiança, entretanto, tem reduzido o índice de contentamento dos funcionários ao seu nível mais baixo no final de 2023. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ações da empresa Raspberry Pi fecham seu primeiro dia de negociação na bolsa de valores de Londres com valorização de 32%: a empresa está avaliada em 542 milhões de libras esterlinas. Conhecida por sua série de mini-computadores versáteis e de placa única, populares entre entusiastas de tecnologia, a Raspberry Pi já vendeu 60 milhões de unidades desde a sua fundação, em 2012. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia várias novidades no primeiro dia do WWDC 2024, sua conferência anual de desenvolvedores: como são muitas, vamos listar as que achamos mais interessantes – o Apple Intelligence é um conjunto de LLMs capaz de gerar textos e imagens no dispositivo, sem recorrer – em grande parte – a servidores externos, disponível no iOS 18, a partir do iPhone 15 Pro e macOS 15 em Macs com chip M1 ou superior; a assistente Siri passará a consultar o ChatGPT da OpenAI para tarefas mais complexas; a ferramenta de senhas, embutida nos Ajustes, ganha um aplicativo separado, semelhante ao LastPass e 1Password; o macOS 15 irá possibilitar o espelhamento de iPhones, permitindo ao usuário interagir com o seu dispositivo na tela do seu computador.. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Depois de grande polêmica entre criadores digitais, Adobe irá atualizar seus termos de serviço para esclarecer que projetos de usuários não serão utilizados em treinamentos de IA: o texto atual menciona que a empresa pode acessar conteúdos armazenados em sua nuvem para revisão por métodos “automáticos e manuais”. Alguns usuários ficaram particularmente preocupados nos casos de trabalhos desenvolvidos para clientes sob sigilo comercial acabassem sendo utilizados como dados de treinamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google está trabalhando na ferramenta “Memory”, semelhante ao Recall do Windows, para dispositivos Chromebook Plus: John Solomon, vice-presidente da empresa, afirma que o software é mais focado em privacidade, onde o usuário poderá decidir quando ele será utilizado e quais dados serão coletados. O Google ainda não forneceu uma data de lançamento do recurso. As informações são do site PC World.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros desenvolvem microchip capaz de “enxergar” objetos atrás de papelão e paredes finas, semelhante à uma visão de raio-x: a tecnologia emite radiação segura na faixa terahertz, refletindo contornos de objetos. O microchip foi pensado para caber em dispositivos móveis, podendo ser usado para identificar rachaduras em canos, visualizar conteúdos de pacotes e em operações médicas. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
