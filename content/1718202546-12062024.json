@@ -1,0 +1,49 @@
+{
+    "title": "Brasil: Google quer acabar com roubo de celulares / AGU contrata OpenAI / Desenvolver para iPhone ou Android",
+    "fps": 30,
+    "timestamp": 1718202546,
+    "width": 0,
+    "height": 0,
+    "date": "12/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google escolhe Brasil para ser o primeiro do país do mundo a testar sistema antirroubo de celulares com sistema operacional Android: o recurso utiliza IA para detectar movimentos abruptos indicando que o aparelho foi tomado à força e identifica se o mesmo está em uma localização pouco frequentada ou teve seu cartão SIM removido, realizando o bloqueio do dispositivo. Interessados em testar o recurso devem preencher um formulário no site oficial do Android no Brasil. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Advocacia-Geral da União, responsável pela defesa dos Poderes Executivo, Legislativo e Judiciário, vai utilizar modelos da OpenAI, por meio do Microsoft Azure, para acelerar triagem e análise de processos judiciais: o sistema sinalizará a necessidade de tomadas de decisão antes de decisões finais em processos, mapeando tendências e potenciais áreas de ação, a fim de evitar perdas judiciais que têm pesado no orçamento federal. Não foi divulgado quanto o Brasil pagará pelos serviços. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que aplicativos disponibilizados em múltiplas plataformas por desenvolvedores têm maiores chances de sucesso: a prática, conhecida como “multihoming”, pode aumentar o uso mensal de um software em até 18% na plataforma de lançamento original. Além disso, a prática melhora em até 5,3% as chances de destaque entre aplicações concorrentes. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Estudante de PhD do MIT, desenvolve algoritmo que pode aprender línguas humanas apenas assistindo a vídeos, sem depender de modelos de linguagem pré-treinados: o DenseAV, criado por Mark Hamilton, relaciona sons e imagens para prever o que está sendo falado e visto, conseguindo distinguir palavras de outros sons e ruídos, como latidos de cães, por exemplo. O método promete avançar a compreensão de línguas não escritas, como a comunicação de golfinhos e baleias. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "Apple pretende integrar outros modelos de IA, como o Google Gemini, nativamente ao iOS 18: a intenção é permitir que os usuários escolham entre diferentes sistemas, visando atender a preferências diversas, como escrita criativa ou programação. A decisão de se concentrar no ChatGPT inicialmente é porque a Apple acredita que o modelo da OpenAI seja “o melhor” atualmente. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Versão web do Outlook vai encerrar suporte a contas Gmail a partir do dia 30: serviços de e-mail que não utilizarem a janela de login própria da Microsoft também serão descontinuados no final deste ano, sem data informada. Ainda será possível integrar essas contas na versão de desktop do aplicativo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Criminosos usam torre de celular caseira para enviar mensagens SMS falsas de bancos no Reino Unido: o dispositivo utilizava dois componentes, um SMS Blaster, que envia uma única mensagem para vários destinatários simultaneamente, e o IMSI Catcher (Stingray), dispositivo que imita uma torre legítima e força a conexão de celulares por meio da rede 2G – essa função pode ser desativada em alguns aparelhos a partir do iOS 17 e Android 12, se disponibilizado pela fabricante. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Agentes autônomos baseados no GPT-4 conseguem hackear vulnerabilidades zero-day com uma taxa de sucesso de 53%: os bots utilizados na pesquisa possuíam a capacidade de se auto-propagarem e lidar com várias tarefas complexas simultaneamente. O ChatGPT não é capaz de realizar essas operações, devido às limitações impostas pela OpenAI. As informações são do site New Atlas.",
+            "url": ""
+        }
+    ]
+}
