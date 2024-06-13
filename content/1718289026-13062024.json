@@ -1,0 +1,45 @@
+{
+    "title": "PCs destruídos: disputa grave entre Arm e Qualcomm / Ex-funcionário exclui servidores / Foto real em concurso de IA",
+    "fps": 30,
+    "timestamp": 1718289026,
+    "width": 0,
+    "height": 0,
+    "date": "13/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Em disputa judicial com a Qualcomm, Arm exige que todos os PCs com chips Snapdragon X sejam destruídos: a Arm está acusando a Qualcomm de utilizar uma licença antiga, concedida a uma empresa que foi adquirida em 2021, a Nuvia. Em defesa, a Qualcomm afirma que possui os direitos necessários para construção dos chips para PCs. As informações são do site XDA Developers.",
+            "url": ""
+        },
+        {
+            "text": "Funcionário demitido, que excluiu 180 servidores virtuais da empresa onde trabalhava, é preso: o homem de 39 anos, que fazia parte da equipe de QA de uma empresa em Singapura, teve seu contrato rescindido por “mau desempenho no trabalho”. Seu notebook, apreendido pela polícia, continha o script utilizado para realizar a invasão e pesquisas no Google sobre “como excluir servidores virtuais”. Ele foi condenado a dois anos e oito meses de prisão. As informações são do site Channel News Asia.",
+            "url": ""
+        },
+        {
+            "text": "Foto real leva prêmio em concurso exclusivo para imagens geradas por IA: o registro de Miles Astray – um flamingo, cujo ângulo fazia parecer que o animal estava sem cabeça – ficou em terceiro lugar no 1839 Awards, sendo desclassificado mais tarde. O fotógrafo disse que “queria mostrar como a natureza ainda pode vencer a máquina e que ainda há mérito no trabalho real e de criadores reais”. As informações são do site PetaPixel.",
+            "url": ""
+        },
+        {
+            "text": "Yahoo Mail receberá recursos gratuitos de IA: o modelo será capaz de gerar um resumo da caixa de entrada do usuário ao destacar os tópicos mais relevantes, além de sugerir respostas rápidas, adicionar eventos no calendário e rastrear pacotes. Contas do Outlook e Gmail também poderão ser integradas ao serviço. O recurso será disponibilizado globalmente nos próximos meses, sem data definida. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Downtimes não planejados em sistemas de TI podem resultar em perdas anuais de 9% dos lucros das empresas: para as duas mil maiores empresas mundiais, essas perdas chegam a 400 bilhões de dólares por ano. Violações de segurança e problemas técnicos com software/infraestrutura estão entre as principais causas, resultando em multas regulatórias e penalidades por acordos não cumpridos. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Busca por profissionais freelancers em áreas de redação, codificação e produção de conteúdo visual diminuiu em até 21% desde o lançamento do ChatGPT: o Dr. Xinrong Zhu, coautor do estudo, comenta que “embora muitas organizações estejam utilizando IA generativa, resta saber se estão satisfeitas com a qualidade do trabalho que esses modelos oferecem”. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Empresa russa de tecnologia desenvolve ferramenta de código aberto que economiza em até 20% o processamento necessário para treinar grandes modelos de linguagem: a YaFSDP, desenvolvida pela Yandex, pode economizar recursos equivalentes a cerca de 150 GPUs e até 1,5 milhão de dólares por mês ao treinar um modelo de 70 bilhões de parâmetros, usando como exemplo o Llama 3 70B da Meta. A ferramenta foi disponibilizada publicamente no repositório “yandex/YaFSDP” do GitHub. As informações são do site da Yandex.",
+            "url": ""
+        }
+    ]
+}
