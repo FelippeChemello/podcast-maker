@@ -1,0 +1,49 @@
+{
+    "title": "Demissão polêmica no trabalho remoto / Injeção de anúncios no YouTube / Android + ChromeOS",
+    "fps": 30,
+    "timestamp": 1718375420,
+    "width": 0,
+    "height": 0,
+    "date": "14/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Banco norte-americano demite funcionários remotos que usavam dispositivos para simular movimentos do mouse e digitação no teclado: a demanda por esses aparelhos disparou em resposta à introdução de softwares de vigilância para o rastreamento da atividade dos funcionários. As empresas alegam que os chamados “bosswares” tem como objetivo aumentar a produtividade, mas essas ferramentas são muito criticadas por permitirem que os empregados sejam espionados em casa. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "YouTube está testando injetar anúncios diretamente no stream de vídeo para impedir ad blockers: a técnica consiste em unificar os dois fluxos de dados no servidor, impedindo que bloqueadores consigam remover as propagandas. Um dos desafios é evitar que isso afete a experiência de assinantes Premium. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "ChromeOS usará kernel e APIs do Android para adicionar recursos do Gemini e melhorar integração com celulares e acessórios: a ideia do Google é unificar partes fundamentais dos sistemas operacionais dos seus produtos, semelhante ao que a Apple faz com o iOS e macOS. A empresa não esclareceu o roadmap para as atualizações. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Modelo menor do Stable Diffusion 3, lançado nesta quarta-feira pela Stability AI, está gerando imagens desfiguradas de seres humanos: acredita-se que a decisão da empresa de filtrar conteúdo adulto no treinamento da IA limitou seus conhecimentos sobre a anatomia humana. O SD3 Medium pode ser testado gratuitamente na plataforma Hugging Face. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que modelo de trabalho híbrido aumenta em até 33% a taxa de retenção de funcionários nas empresas: a pesquisa, realizada com mais de 1.600 profissionais em uma empresa de tecnologia chinesa, observou um aumento na satisfação dos indivíduos, principalmente aqueles com longos deslocamentos até o escritório. A qualidade dos códigos escritos por engenheiros de software também não foi afetada. Além disso, os gerentes envolvidos no estudo revisaram sua percepção negativa para positiva sobre o impacto do modelo híbrido na produtividade. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp libera videochamadas com até 32 pessoas: também será possível compartilhar a tela e destacar um usuário como palestrante. A qualidade de áudio e vídeo também foi aprimorada com a implementação do codec MLow, desenvolvido pela Meta. O recurso será disponibilizado durante as próximas semanas para todos os usuários. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Raymond Chen, desenvolvedor de longa data do Windows, compartilha a origem dos protetores de tela 3D clássicos do sistema: na época em que o OpenGL era uma novidade, a equipe responsável participou de uma competição onde o melhor protetor de tela seria implementado ao Windows NT 3.5, a fim de demonstrar a tecnologia. Contudo, o setor de marketing gostou tanto de todas as versões criadas que decidiu incluir todas no sistema operacional. As informações são do blog da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Vrio, dona da Sky e DirecTV, anuncia acordo com Amazon para fornecer internet via satélite, concorrente da Starlink no país: a empresa pretende utilizar a tecnologia do Projeto Kuiper – rede de banda larga via satélite de baixa órbita terrestre da Amazon – para fornecer conexão “rápida e acessível” para mais de 380 milhões de indivíduos em países sul-americanos. Ainda não foram divulgadas informações sobre preços, velocidades e data de lançamento. As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
