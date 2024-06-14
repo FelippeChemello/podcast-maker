@@ -18,7 +18,7 @@ export default class GenerateTitleServce {
             log(`Generating title for: ${firstNews}`, 'GenerateTitleServce');
 
             const model = this.client.getGenerativeModel({
-                model: 'gemini-pro',
+                model: 'gemini-1.5-flash',
             })
 
             const prompt = `Gere um titulo que gere engajamento para o video com a seguinte descrição: ${firstNews}`
