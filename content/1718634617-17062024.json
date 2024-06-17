@@ -1,0 +1,49 @@
+{
+    "title": "C++ supera C / Usina polêmica realocada / IA reprocessa voz de clientes irritados",
+    "fps": 30,
+    "timestamp": 1718634617,
+    "width": 0,
+    "height": 0,
+    "date": "17/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pela primeira vez na história, C++ supera C e fica em segundo lugar no índice TIOBE: a tecnologia é amplamente utilizada em sistemas embarcados, desenvolvimento de jogos e softwares de negociação financeira. O Top 3 agora fica com Python na 1ª posição (com 15,4% de popularidade), seguido por C++ (10%) e C (9,2%). As informações são do site da TIOBE.",
+            "url": ""
+        },
+        {
+            "text": "Governo do Ceará decide realocar construção de usina de dessalinização para ficar mais longe dos cabos submarinos que respondem por 99% do tráfego de internet no Brasil: a instalação continuará localizada na Praia do Futuro, mas ficará a mais de um quilômetro do ponto previsto inicialmente. O projeto causou enorme preocupação quando foi anunciado no ano passado devido ao grande risco para a infraestrutura crítica de telecomunicações e internet de todo o país – a região abriga um importante hub digital com 17 sistemas de cabos submarinos e data centers. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Banco japonês desenvolve tecnologia que faz clientes irritados parecerem calmos em ligações por telefone: o sistema da SoftBank faz o reconhecimento de emoções e reprocessa a voz dos clientes, visando garantir o bem-estar psicológico dos funcionários. A instituição testará o recurso internamente durante o próximo ano e pretende comercializá-lo no futuro. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro brasileiro assume como diretor de PCs de IA da Intel para Américas: Ricardo Ferraz é integrante da empresa desde 2015 e ficará responsável por impulsionar a inteligência artificial no país e região, promovendo o uso de processadores com NPU integrada da Intel. As informações são da Intel Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Ex-chefe da Agência Nacional de Segurança dos EUA assume posição no conselho de administração da OpenAI, supervisionando atividades da organização: Paul Nakasone também fará parte do comitê de segurança, liderado por Sam Altman, contribuindo com os esforços da empresa em utilizar IA na detecção e resposta de ameaças cibernéticas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple afirma que não utilizará dados de usuários para treinar seus modelos: a empresa esclarece que utiliza um web scraper, chamado Applebot, para raspar conteúdo da internet, com filtros que ignoram informações confidenciais. Proprietários de domínios podem optar por não participar do treinamento, configurando o arquivo “robots.txt” com metatags que restringem o bot da Apple. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Chrome para Android recebe recurso que lê páginas em voz alta: é possível alterar a voz e o idioma de leitura, incluindo Português. O player conta com botões para pausar, avançar, retroceder e alterar a velocidade de reprodução. A funcionalidade está sendo liberada gradualmente aos usuários a partir da versão 125 do navegador. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4 consegue passar no Teste de Turing, que mede a capacidade de uma máquina de ser indistinguível de um ser humano: o experimento também envolveu outros dois modelos, GPT-3.5 e ELIZA. Os participantes do estudo conversavam por mensagens de texto com pessoas e os modelos por 5 minutos. Enquanto os outros modelos foram facilmente distinguíveis, participantes afirmaram era quase impossível diferenciar o GPT-4 de um humano. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
