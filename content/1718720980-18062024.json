@@ -1,0 +1,49 @@
+{
+    "title": "“Esperteza” da Amazon / OpenAI quer lucrar / Salto em baterias",
+    "fps": 30,
+    "timestamp": 1718720980,
+    "width": 0,
+    "height": 0,
+    "date": "18/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Funcionários da Amazon estão criando várias contas no GitHub para contornar limitações e fazer scraping de dados para treinamento de IAs: a plataforma possui uma restrição de 5.000 requisições por hora para cada conta. A Amazon, entretanto, assegura que a medida foi validada pelas suas equipes de segurança e jurídica. Contudo, há preocupações em relação ao acesso de informações sem consentimento dos proprietários de repositórios. As informações são do site Dataconomy.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman estaria planejando transformar OpenAI em uma empresa com fins lucrativos: a informação vem de uma fonte anônima que teria participado de uma conversa com o CEO. A mudança possibilitaria uma eventual oferta pública inicial das ações. A OpenAI dobrou sua receita anualizada para 3,4 bilhões de dólares nos últimos seis meses. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "TDK, maior fabricante de baterias para smartphones do mundo e principal fornecedora da Apple, anuncia célula com densidade de energia 100 vezes maior: a “CeraCharge” possui recargas mais rápidas, maior durabilidade e menor risco de danos por variações térmicas. A tecnologia é projetada para substituir as células tipo moeda utilizadas em dispositivos como fones de ouvido sem fio, smartwatches e aparelhos auditivos. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Asus lança atualização de firmware que corrige vulnerabilidade grave de desvio de autenticação em 7 modelos de roteadores: a falha, rastreada como CVE-2024-3080, permite que invasores remotos não autenticados assumam o controle do dispositivo. Um dos aparelhos afetados é o RT-AX88U, comercializado no Brasil. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Lamini, empresa focada em recursos para treinamento de IA, anuncia ferramenta capaz de melhorar em 95% a precisão de modelos de linguagem e reduzir alucinações para 5%: o Lamini Memory Tuning ajusta a memória da máquina para lidar com grandes volumes de dados, organizando-os em estruturas de rápido acesso — semelhante ao processo de indexação em bancos de dados — possibilitando ao modelo encontrar as informações que busca mais rapidamente. As informações são do blog da Lamini.",
+            "url": ""
+        },
+        {
+            "text": "84% dos profissionais de cibersegurança no mundo enfrentam crises de burnout, gerando prejuízo anual de mais de 620 milhões de dólares para empresas: 89% afirmam que sua carga de trabalho é muito pesada devido à escassez de profissionais. Segundo um executivo, os profissionais de cibersegurança estão “na linha de frente de uma batalha, sabendo que vão perder em algum momento”, sendo “apenas uma questão de tempo” para que isso aconteça. As empresas precisam trabalhar mais de perto com seus funcionários envolvidos em segurança, colocando o bem-estar mental como prioridade e fornecendo as ferramentas necessárias para um trabalho efetivo. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Vercel anuncia pausa do seu programa de patrocínio para projetos open-source, gerando debates entre desenvolvedores: a empresa enviou um e-mail aos proprietários dos projetos patrocinados avisando que o acordo seria encerrado no dia seguinte, eliminando o desconto de 100% sobre os custos de hospedagem e passando a oferecer 300 dólares de créditos mensais até o final deste ano. A falta de razões e o curto aviso prévio foram motivos de controvérsia na comunidade. As informações são do site da Vercel e do Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Meta libera acesso à API do Threads, permitindo que desenvolvedores criem aplicações próprias baseadas na rede social: será possível publicar conteúdo, gerenciar interações, realizar buscas e acessar métricas como visualizações, curtidas e citações. Um exemplo de caso de uso está disponível no repositório “bsamples/threads_ap” do GitHub. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
