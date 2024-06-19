@@ -1,0 +1,45 @@
+{
+    "title": "YouTube copia recurso do X / Nvidia é a maior do mundo / IA beneficiará setores financeiro e jurídico",
+    "fps": 30,
+    "timestamp": 1718807335,
+    "width": 0,
+    "height": 0,
+    "date": "19/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Youtube testará recurso “Notes” para alertar sobre inconsistências ou adicionar contexto a vídeos, semelhante ao Community Notes do X: as notas aparecerão abaixo de cada vídeo, mas apenas para usuários mobile e nos EUA inicialmente. Ao contrário do X, entretanto, o YouTube irá utilizar avaliadores terceirizados para classificar a utilidade e precisão das notas, pelo menos nesta fase inicial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia ultrapassa Microsoft e torna-se a empresa mais valiosa do mundo: o valor de mercado de 3,33 trilhões de dólares supera levemente os 3,31 trilhões da Microsoft. Estima-se que 80% do mercado de chips para IA pertença à Nvidia. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Empregos nos setores financeiro e jurídico poderão ser altamente beneficiados com aumento de produtividade por causa de IAs generativas, estima pesquisa: a substituição total de empregos também é improvável, especialmente para cargos com altos salários e responsabilidades (acima de 100 mil dólares anuais nos EUA). Para estudantes e recém graduados, o desafio será identificar as habilidades que terão maior demanda no futuro. Um analista do setor comparou o uso de IAs nesses setores com a transição das “máquinas de escrever para processadores de texto”. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Dispositivos com Alexa e Google Home estão entre os que mais coletam dados de usuários, segundo pesquisa: o estudo verificou 32 possíveis pontos de coleta, como endereço, localização, fotos, vídeos, dados de áudio e histórico de navegação. A Alexa coletou 28, e o Google Home 22. As informações são do site Firstpost.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA acusa Adobe de dificultar processo de cancelamento de seus planos: assinantes enfrentam um procedimento “oneroso e complicado”, com a taxa de rescisão podendo chegar a centenas de dólares — no Brasil, o cancelamento exige o pagamento do valor correspondente a 50% do saldo restante do plano. Usuários que tentam realizar o cancelamento por telefone ou chat também relataram que a conexão com o atendente é frequentemente interrompida. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google funde laboratório de pesquisa interno com DeepMind para focar na comercialização de tecnologias de IA: a consolidação, entretanto, pode tirar o fator de pesquisa fundamental de longo prazo da empresa. Os responsáveis pelo desenvolvimento seguro da tecnologia serão realocados para a DeepMind, a partir do qual os modelos, como o Gemini, são construídos. As informações são da Bloomberg e Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla adiciona camada extra de segurança para gerenciador de senhas do Firefox para celular e desktop: as credenciais serão protegidas por palavras-chave ou biometria, como impressão digital e reconhecimento facial. Contudo, o recurso não oferece proteção completa contra malwares, já que as senhas, apesar de criptografadas, são armazenadas localmente no disco, o que as torna vulneráveis a invasões e decodificações. As informações são do site TechRadar.",
+            "url": ""
+        }
+    ]
+}
