@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: verificação obrigatória nas redes sociais / Proton anuncia transição / Inspetores da Urna fazem sugestões",
+    "fps": 30,
+    "timestamp": 1718893733,
+    "width": 0,
+    "height": 0,
+    "date": "20/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Presidente da Anatel propõe cadastro obrigatório em redes sociais com nome completo, data de nascimento e CPF: o procedimento seria similar ao de criar uma conta em instituições bancárias, com as empresas de mídia digital realizando uma análise mandatória dos perfis, em contraste com a comercialização dos selos de verificação, a exemplo do Meta Verified. Apesar dos comentários do dirigente, a Anatel não teria nada formalizado em relação a essa verificação. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Proton, empresa pioneira de aplicativos focados em privacidade, realizará transição para modelo de fundação sem fins lucrativos: para o CEO Andy Yen, a Proton continuará a oferecer serviços pagos para não ser “subsidiada por bilionários (como o Signal), subsidiada pelo Google (como a Mozilla), subsidiada pelo governo (como o Tor), subsidiado por doações (como a Wikipedia)”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores da Controladoria-Geral da União (CGU) finalizam inspeção do código-fonte da urna eletrônica: foram observadas melhorias no código, incluindo uma camada extra de validação na totalização dos votos. Além disso, o hardware da urna também foi examinado. A equipe fez sugestões para melhorar a transparência por meio da validação dos votos, sugerindo aprimoramentos para garantir que a sociedade possa conferir a totalização dos votos a partir dos Boletins de Urna divulgados. As informações são do site do Tribunal Superior Eleitoral.",
+            "url": ""
+        },
+        {
+            "text": "Ilya Sutskever, ex-cientista chefe da OpenAI, anuncia sua própria startup: a Safe Superintelligence Inc tem como objetivo desenvolver um sistema de IA “seguro e poderoso”, que não seja afetado por “pressões comerciais”. Lembrando que no ano passado, Sutskever liderou o esforço para destituir Sam Altman como CEO da OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Hacker alega ter invadido sistemas internos da Apple: IntelBroker, notório por grandes vazamentos de dados, incluindo AMD, General Electric, AT&amp;T e agências governamentais, teria obtido o código-fonte de várias ferramentas, como o sistema de autenticação que dá acesso a aplicativos administrativos da empresa. A violação teria ocorrido neste mês, mas não há indícios de que dados de clientes tenham sido comprometidos. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Descarte de satélites estaria prejudicando a camada de ozônio da Terra: ao atingir o fim de sua vida útil, o dispositivo é enviado à atmosfera para ser queimado e destruído, liberando partículas de óxido de alumínio que afetam a camada de ozônio – a presença dessa substância aumentou em oito vezes entre 2016 e 2022. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "69% dos brasileiros acreditam que celulares “escutam” suas conversas: os números são de uma entrevista com mais de 850 cidadãos, dos quais 76% temem que os dados coletados pelos aparelhos sejam vendidos para empresas, sem seu consentimento. As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
