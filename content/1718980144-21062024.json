@@ -1,0 +1,49 @@
+{
+    "title": "CNPJ vai mudar / Estudo sério: IAs não são engraçadas / Anatel dá ultimato",
+    "fps": 30,
+    "timestamp": 1718980144,
+    "width": 0,
+    "height": 0,
+    "date": "21/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Receita Federal anuncia que CNPJ passará a incluir letras e números a partir de janeiro de 2026: a medida visa ampliar a capacidade de combinações possíveis, aumentando de aproximadamente 100 milhões para quase 1 trilhão. Os CNPJs já cadastrados continuarão válidos, mesmo após a mudança. Leitores do TabNews sugerem a medida causará a necessidade de alterações em regras de busca, validação e armazenamento do número do registro de empresas em softwares. As informações são dos sites Contábeis e TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Google DeepMind coloca comediantes para escreverem material utilizando ChatGPT e Gemini, mas resultado decepciona: a maioria dos participantes relatam que os LLMs são ineficazes como ferramentas de apoio à criatividade, produzindo piadas sem graça e de má qualidade, ressaltando o esforço humano necessário para alcançar um resultado satisfatório. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Anatel dá ultimato aos grandes marketplaces de vendas online por não implementarem medidas contra venda de celulares irregulares em suas plataformas: muitas empresas removeram aparelhos ilícitos de suas lojas, mas não implementaram regras que impedissem novas vendas. As companhias terão 15 dias para se regularizarem, sob pena de multa e correndo o risco de sairem do ar. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA decide proibir vendas de softwares antivírus da Kaspersky: autoridades acreditam que as soluções desenvolvidas pela empresa com sede em Moscou, na Rússia, representam um risco à segurança nacional. Em defesa, a Kaspersky afirma ser uma empresa de gestão privada e que irá recorrer legalmente da decisão. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Cerca de 50% dos funcionários da Dell recusaram proposta de retorno ao escritório: profissionais remotos não seriam elegíveis para promoções ou avanços de cargo na empresa. Contudo, esses colaboradores relatam aproveitar mais tempo livre e economizar com deslocamentos. Uma pesquisa observa que a queda de desempenho entre trabalhadores remotos é de apenas 10%, e que as vantagens da modalidade superam essa perda. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Carros autônomos são menos seguros durante entardecer e realizando curvas: uma pesquisa analisou os acidentes ocorridos entre 2016 e 2022 comparando veículos autônomos e conduzidos por humanos. O risco de colisões ocorridas em cenários com baixa luminosidade e desvios foi de até 5,25 vezes maior, em contraste com a direção autônoma durante o dia e sem trocar de faixa. Uma ressalva apontada pelo The Register é que o estudo pode não ter considerado a evolução tecnológica dos veículos autônomos após 2022. As informações são dos sites Nature e The Register.",
+            "url": ""
+        },
+        {
+            "text": "Brasil supera a média global de países que utilizam IA no trabalho: um estudo realizado com cerca de 50 mil funcionários em mais de 30 nações indica que 37% dos entrevistados brasileiros utilizam a tecnologia em suas funções, em comparação com a média de 30% mundial. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de linguagem de código aberto chega muito perto do GPT-4o em testes de codificação: o Coder V2, da chinesa DeepSeek, fica em segundo lugar nos benchmarks da categoria com 90,2 pontos. O GPT-4o lidera o ranking com 91 pontos, enquanto o GPT-4 Turbo permanece em terceiro com 88,2. As informações são do site VentureBeat.",
+            "url": ""
+        }
+    ]
+}
