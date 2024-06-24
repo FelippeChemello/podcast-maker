@@ -1,0 +1,49 @@
+{
+    "title": "Linux com suporte até o \"fim da era\" / Antena Starlink portátil / Extensões vulneráveis no Chrome",
+    "fps": 30,
+    "timestamp": 1719239381,
+    "width": 0,
+    "height": 0,
+    "date": "24/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "SUSE anuncia distribuição Linux com o tempo de suporte mais longo do mercado: o Linux Enterprise Server 15 Service Pack 6 garante atualizações até 2038 porque todos os sistemas operacionais baseados em Unix atingirão naquele ano o que é chamado de Epoch ou Era – quando o código de gerenciamento do tempo nesses sistemas 32 bits atinge o final dos segundos que vem contando desde o início do tempo (00:00:00 UTC em 1º de janeiro de 1970). As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Starlink anuncia antena compacta de internet por satélite do tamanho de um notebook: a Starlink Mini, com dimensões de 30 x 25 x 3,8 cm, possui um roteador embutido capaz de alcançar velocidades de até 100 Mbps, podendo ser operado pela energia de uma porta USB. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que extensões do Chrome representam grande risco aos usuários: softwares contendo malware ou código vulnerável podem permanecer na loja por até 1.200 dias, mesmo após a descoberta de falhas, com 60% nunca tendo recebido atualizações de segurança. O sistema de avaliação da loja também é criticado por ser incapaz de distinguir entre extensões benignas e maliciosas. O Google afirma estar trabalhando na transição das extensões baseadas no Manifest V2 para o V3 a fim de mitigar os problemas de segurança. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Internet Archive é forçado a remover mais de meio milhão de livros após derrota legal contra editoras: a Associação de Editores Americanos alega que o site distribui obras literárias globalmente sem o devido licenciamento. A organização afirma que irá recorrer da decisão, argumentando que o empréstimo de livros não prejudica o mercado e serve apenas para fins educacionais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de IA estão contornando padrões de segurança da Web, como protocolos de exclusão do arquivo “robots.txt”, para raspar conteúdos de sites sem permissão: o alerta vem de um relatório da startup de licenciamento de conteúdo “TollBit”, ganhando destaque após críticas recentes à startup Perplexity AI que estaria utilizando um endereço IP não divulgado para raspar a internet. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança API de tradução para desenvolvedores de aplicativos iOS: o recurso pode operar offline. Os idiomas baixados são compartilhados entre aplicativos que utilizam a API, reduzindo os requisitos de armazenamento. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Data centers de IA estão aumentando uso de combustíveis fósseis e adiando desligamento de usinas a carvão: uma busca realizada utilizando o ChatGPT consome quase 10 vezes mais eletricidade comparado ao Google. A previsão é que os data centers consumam 8% da eletricidade total dos EUA até 2030. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI realiza sua primeira aquisição ao comprar empresa Rockset: a compra dará à OpenAI experiência em processamento de dados em tempo real e busca vetorial, ampliando sua capacidade de acessar e analisar grandes volumes de informações de forma rápida e precisa. As informações são do site da OpenAI.",
+            "url": ""
+        }
+    ]
+}
