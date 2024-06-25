@@ -1,0 +1,45 @@
+{
+    "title": "Telegram: só 30 engenheiros / Elétricos desabam em valor / Microsoft desiste de data centers no mar",
+    "fps": 30,
+    "timestamp": 1719325879,
+    "width": 0,
+    "height": 0,
+    "date": "25/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Telegram emprega apenas 30 engenheiros e preocupa especialistas em segurança: Pavel Durov, CEO e fundador da plataforma, afirma que a estrutura é “super eficiente”, sendo o único gerente de produto. O número limitado de colaboradores, entretanto, poderia resultar em sobrecarga de trabalho, dificultando a atenção adequada às questões de privacidade dos usuários. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Desvalorização de veículos elétricos usados está muito superior a de veículos à combustão nos EUA: os preços caíram entre 30-39% no último ano, enquanto os veículos a gasolina caíram entre 3-7%. A motorização elétrica está sendo vista como fator negativo pelos consumidores neste momento – uma mudança significativa em relação a anos anteriores – especialmente com preocupações sobre a degradação da bateria ao longo do tempo nesses veículos. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft desiste de data centers submergidos no mar: o Project Natick surgiu em 2013 com o propósito de reduzir custos de resfriamento. Cerca de 850 servidores ficaram submergidos por mais de dois anos e apenas 0,7% ficaram inoperantes. O motivo para a desistência do projeto não foi revelado. As informações são do site DatacenterDynamics.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria estudando cobrar até 10 dólares mensais por versão avançada da Alexa com IA: de acordo com fontes internas, a empresa planeja lançar o recurso até agosto deste ano, e usuários não precisariam dizer “Alexa” antes de solicitar algo. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Instagram, Facebook e Threads estão rotulando fotos reais incorretamente como se fossem criadas por IAs: o motivo estaria relacionado à edição das imagens utilizando ferramentas como o Generative AI Fill da Adobe. A Meta afirma que está avaliando sua abordagem para que o rótulo “Made with AI” indique apenas que alterações foram realizadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "5G é até 30% mais rápido do que 4G no carregamento de páginas no Brasil: um estudo indicou que 40% dos usuários abandonam um site se levar mais de 3 segundos para carregar. O Brasil está bem avaliado em comparação com outras nações europeias e EUA, com o Canadá dominando no quesito velocidade – até 28% mais rápido do que o Brasil. As informações são do site da Ookla.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem método para tentar identificar alucinações em respostas geradas por modelos de IA: a abordagem envolve o uso de mais dois LLMs que analisam se uma resposta foi gerada incorretamente devido à falta de informações precisas. O estudo, realizado com modelos Llama 2, Mistral Instructor e Falcon, conseguiu identificar alucinações em até 80% das vezes. As informações são do site Nature.",
+            "url": ""
+        }
+    ]
+}
