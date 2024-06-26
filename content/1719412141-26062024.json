@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI: app para controlar o PC / Google desiste de rolagem infinita / ASIC específico para IAs",
+    "fps": 30,
+    "timestamp": 1719412141,
+    "width": 0,
+    "height": 0,
+    "date": "26/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI adquire app de compartilhamento de tela e controle remoto de computadores: especula-se que as tecnologias por trás do Multi permitirão que o app desktop do ChatGPT “assuma o controle” da máquina do usuário para executar ações com base em prompts de texto ou voz. O aplicativo Multi será descontinuado em julho, sem previsão para integração desses recursos pela OpenAI. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Google desiste de rolagem infinita na página de resultados da busca e volta com barra de paginação clássica: a medida visa deixar a pesquisa mais rápida. A empresa também afirma que adicionar mais resultados automaticamente não fez muita diferença na satisfação dos usuários. A mudança já está disponível para usuários de desktop e será implementada em dispositivos móveis nos próximos meses. As informações são do site Search Engine Land.",
+            "url": ""
+        },
+        {
+            "text": "Startup desenvolve ASIC especializado para modelos de IA baseado em transformers: o Sohu, da Etched, é um circuito integrado de aplicação específica (ASIC, na sigla em inglês) projetado especificamente para modelos de linguagem que lidam com tarefas complexas de processamento – a desvantagem é que o chip não consegue rodar outros tipos de arquiteturas de IA. A empresa estima que um servidor com 8 ASICs poderia substituir 160 GPUs H100 da Nvidia. As informações são do site da Etched.",
+            "url": ""
+        },
+        {
+            "text": "Plugins utilizados em mais de 30 mil sites do WordPress são infectados com backdoor: os códigos-fontes foram alterados incluindo scripts PHP que injetam spam de SEO e criam contas com privilégios administrativos, com os nomes “ption” e “luginAut”. Alguns plugins afetados já receberam correções de segurança e usuários devem atualizá-los imediatamente. A lista dos plugins afetados está disponível no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Apple planeja investir mais em automação para reduzir em até 50% os trabalhadores em linhas de montagem finais do iPhone: entre os obstáculos está o custo dos equipamentos. A proporção de pessoas substituídas por maquinário para dispositivos da empresa já estaria próximo de 30%. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria desenvolvendo chatbot concorrente do ChatGPT: o Metis seria equipado com o modelo Olympus, desenvolvido internamente e supostamente mais poderoso que o Titan da AWS, sendo capaz de gerar textos e imagens, buscar informações na Web e funcionar como um assistente. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Rimac, empresa responsável pelo carro elétrico mais rápido do mundo, anuncia produção de robotáxis: a plataforma Verne integrará tecnologia autônoma da Mobileye, de propriedade da Intel, dispensando volantes, pedais, limpadores de para-brisa e espelhos retrovisores laterais. O lançamento está previsto para 2026 na Croácia, sede da Rimac. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
