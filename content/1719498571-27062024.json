@@ -1,0 +1,45 @@
+{
+    "title": "Android mais seguro no Brasil / SpaceX vai destruir estação espacial / Provedora infecta clientes",
+    "fps": 30,
+    "timestamp": 1719498571,
+    "width": 0,
+    "height": 0,
+    "date": "27/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Android dificulta instalação de aplicativos de fontes desconhecidas no Brasil: o Play Protect bloqueará APKs baixados de navegadores, aplicativos de mensagens e que solicitam acesso à SMS, notificações e recursos de acessibilidade do aparelho. Para Eugene Liderman, diretor de estratégia de segurança do Android, 95% dos ataques feitos por malware originam-se de apps baixados de fontes não oficiais. A proteção já está habilitada para todos os usuários. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "NASA seleciona SpaceX para desenvolver veículo de desorbitação da Estação Espacial Internacional em 2030: o transportador irá garantir a destruição segura e controlada da estação – espera-se que o veículo também seja destruído durante o processo de reentrada na atmosfera terrestre. As informações são do site da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Provedora sul-coreana de internet é acusada de distribuir malware para 600 mil clientes por meio de torrents: investigações apontam que a KT desejava restringir serviços de compartilhamento de arquivos que utilizam BitTorrent, por consumirem muita largura de banda. Usuários afetados relatavam erros e downloads lentos. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Apple rejeita emuladores de PC para iPhones na App Store e confunde desenvolvedores: aplicativos, como iDOS 3 e UTM SE foram suspensos por violarem diretrizes que permitem apenas “emuladores de jogos retrô”. Contudo, a empresa não especifica quais tipos de softwares da categoria são aceitos. Supostamente, a Apple estaria aceitando apenas emuladores de consoles, mesmo que emuladores de PCs possam ser utilizados para executar jogos antigos de MS-DOS e Windows. As informações são do site Lifehacker.",
+            "url": ""
+        },
+        {
+            "text": "Banco australiano implementa tecnologia capaz de detectar golpes pela maneira como usuários seguram e utilizam seus celulares: são analisados parâmetros como ângulo de utilização do aparelho, pressionamento de teclas e biometria, bloqueando transações caso detecte inconsistências. As informações são do site PYMNTS.",
+            "url": ""
+        },
+        {
+            "text": "Firefox Nightly recebe interação com chatbots (ChatGPT, Google Gemini, HuggingChat e Le Chat Mistral) diretamente pelo navegador: a funcionalidade será totalmente opcional e não estará integrada aos recursos principais do Firefox. Usuários podem adicionar um modelo de preferência na barra lateral e utilizá-lo para resumir textos, simplificar escritas e gerar perguntas sobre o conteúdo. As informações são do blog da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia que Material Web Components não receberá futuras melhorias: a biblioteca permite a implementação de componentes do Material Design na estilização de sites e permanecerá no modo de manutenção, mas não será descontinuada. A equipe responsável passará a focar no desenvolvimento do Wiz, framework interno do Google utilizado no mecanismo de busca, por exemplo. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
