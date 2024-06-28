@@ -1,0 +1,45 @@
+{
+    "title": "“Estão criando Deus”: Zuckerberg faz crítica / Alerta para Polyfill JS / Sheets troca JavaScript",
+    "fps": 30,
+    "timestamp": 1719584957,
+    "width": 0,
+    "height": 0,
+    "date": "28/06/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mark Zuckerberg critica concorrentes de IA de código fechado – ”eles meio que pensam que estão criando Deus ou algo assim”: o CEO da Meta enfatizou a importância do open-source para criar maior acesso à tecnologia, de acordo com os diferentes interesses das pessoas, fazendo uma comparação com as múltiplas opções de aplicativos e conteúdos que existem atualmente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Polyfill JS, adquirida por uma empresa chinesa em fevereiro, infecta mais de 100 mil sites com malware: o código malicioso é ativado apenas em dispositivos móveis e redireciona usuários para páginas falsas de apostas. Recomenda-se que a biblioteca seja removida imediatamente dos projetos. Os domínios CDN do Polyfill foram derrubados pela Namecheap, sua principal registradora. As informações são do site da Sansec.",
+            "url": ""
+        },
+        {
+            "text": "Google Sheets migra mecanismo de cálculos de JavaScript para WasmGC, resultando em melhorias de desempenho: a tecnologia adotada, uma extensão do WebAssembly, permite compilar linguagens com coleta de lixo para a Web com desempenho quase nativo. A mudança estabeleceu um modelo para outras aplicações do Google adotarem a mesma solução. As informações são do site Web Dev.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Febraban indica que 79% das transações financeiras no Brasil são realizadas em dispositivos móveis: o uso de smartphones para interações bancárias cresceu 250% desde 2019. No período de 2022 a 2023, operações realizadas via aplicativos de mensagens, como WhatsApp, registraram aumento de 76%, enquanto o PIX cresceu 74%. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de verificação de identidades utilizado por grandes empresas, como PayPal, Uber, LinkedIn e TikTok, teve seus dados expostos por um ano: a AU10TIX publicou acidentalmente suas credenciais de administrador na internet que concediam acesso ao sistema de registro, incluindo documentos com foto, nomes, datas de nascimento e nacionalidades. Apesar de ter sido alertada, a empresa demorou para bloquear o acesso ao sistema comprometido. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI revela modelo projetado para encontrar erros de codificação em respostas do ChatGPT: quando pessoas recebem ajuda do CriticGPT, elas superam aquelas sem ajuda em 60% das vezes. O modelo foi treinado com códigos contendo falhas intencionais, mas ainda enfrenta desafios em tarefas complexas. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Posit, empresa responsável pelo RStudio, anuncia ambiente de desenvolvimento para R e Python: o Positron IDE é baseado no Visual Studio Code, com recursos para escrita de código, visualização de saída, depuração, extensões e suporte a projetos que combinam ambas as linguagens. A IDE já está disponível para download, ainda em fase beta. As informações são do site InfoWorld.",
+            "url": ""
+        }
+    ]
+}
