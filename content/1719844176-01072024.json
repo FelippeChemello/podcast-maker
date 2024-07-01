@@ -1,0 +1,45 @@
+{
+    "title": "IA no espaço / Tesla em trilhos de trem / Google Gemini questionável",
+    "fps": 30,
+    "timestamp": 1719844176,
+    "width": 0,
+    "height": 0,
+    "date": "01/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Europa planeja enviar data centers de IA ao espaço até 2036: o projeto ASCEND visa utilizar energia solar a fim de reduzir o consumo de eletricidade na Terra, que pode atingir mais de 1.000 terawatts-hora até 2026, equivalente ao consumo do Japão. No entanto, há receios em relação ao alto custo de combustíveis de foguetes necessários para manter os data centers em órbita. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Carro da Tesla dirige sobre trilhos de trem após confundi-los com estrada: o relato vem de um motorista da Califórnia. A polícia local emitiu um alerta lembrando a importância de pessoas se manterem vigilantes ao utilizar o recurso de piloto automático. Segundo o próprio site da Tesla, o Autopilot não substitui a necessidade de atenção do motorista. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que capacidade dos modelos Gemini para processar grandes volumes de dados podem não corresponder aos anúncios do Google: o Gemini 1.5 Pro alcançou cerca de 46,7% de precisão na avaliação de afirmações verdadeiras ou falsas sobre um livro de 260 mil páginas, enquanto o 1.5 Flash registrou apenas 20%. Além disso, o segundo modelo apresentou dificuldades para reconhecer números em imagens de apresentações de slides. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Plataformas de streaming poderão ser idênticas às TVs tradicionais no futuro com investimento em propagandas: em entrevistas com Ted Sarandos, co-CEO da Netflix, e Mike Hopkins, chefe do Amazon Prime Video, há planos para uma maior presença de anúncios nos serviços, incentivando assinaturas de planos mais acessíveis com suporte publicitário a fim de alcançar um público mais amplo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bots representam 42% do tráfego na web e 65% deles são maliciosos: o comércio eletrônico tem sido o mais afetado, com web scrapers coletando dados de imagens de produtos, descrições e informações de preços, a fim de criar campanhas de phishing com sites fraudulentos e roubar dados confidenciais de usuários, como cartão de crédito. As informações são do site PR Newswire.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de assinatura semanal de aplicativos está cada vez mais comum: uma pesquisa aponta que consumidores estão cada vez mais dispostos a pagarem menos por períodos mais curtos, ao invés do plano mensal padrão com 7 dias gratuitos. A modalidade já representa 55% do mercado. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores executam LLM de bilhões de parâmetros com apenas 13 watts de energia, suficientes para acender uma lâmpada: ao evitar o uso de multiplicação de matrizes, o modelo foi capaz de consumir 10 vezes menos memória, operar 25% mais rápido e atingir o mesmo desempenho que o Llama da Meta. As informações são do site UC Santa Cruz.",
+            "url": ""
+        }
+    ]
+}
