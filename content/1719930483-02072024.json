@@ -1,0 +1,45 @@
+{
+    "title": "OpenSSH: falha grave / Elétrico brasileiro “cancelado” / Meta na mira do Idec",
+    "fps": 30,
+    "timestamp": 1719930483,
+    "width": 0,
+    "height": 0,
+    "date": "02/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica no OpenSSH pode afetar cerca de 700 mil sistemas Linux: a vulnerabilidade “regreSSHion”, rastreada como CVE-2024-6387, é uma regressão da CVE-2006-5051 relatada em 2006, permitindo que invasores não autenticados executem códigos remotos em servidores SSH. A correção está disponível a partir da versão 9.8p1. Recomenda-se atualizar a ferramenta. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Lecar, montadora brasileira, muda planos e desiste de produzir carro totalmente elétrico no país: em comunicado, a empresa afirma que irá focar na fabricação de veículos híbridos com motor a combustão movido a etanol. Flávio Figueiredo, CEO da companhia, diz que esse tipo de automóvel é “mais vantajoso para a sociedade”, com os elétricos “chegando ao limite de suas tecnologias” e a tendência de que “se tornem um recurso transitório”. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Instituto de Defesa dos Consumidores deseja suspender coleta de dados da Meta, utilizados para treinar modelos de linguagem: a medida obrigaria a empresa a interromper o uso de informações de brasileiros e informá-los a respeito da decisão, até que esteja de acordo com a Lei Geral de Proteção de Dados. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem método para identificar textos gerados por LLMs: ao analisar 14 milhões de resumos de artigos publicados entre 2010 e 2024 e monitorar a frequência de palavras ao longo dos anos, foi possível observar um aumento no uso dos termos “abrangente”, “crucial”, “notavelmente” e “particularmente” a partir de 2023, quando a tecnologia já estava disponível. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Prótese acionada pelo sistema nervoso pode ajudar pessoas com amputação andarem de forma mais natural: a interface “AMI”, criada por pesquisadores do MIT, permite que pacientes sintam o movimento do membro protético, ajudando-os a caminhar mais rápido, melhorar a esquiva de obstáculos e reduzir a atrofia muscular. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "Deepfakes poderão causar prejuízo de 40 bilhões de dólares para organizações até 2027: serviços bancários e financeiros estão entre os alvos principais. A projeção é que esses incidentes aumentem entre 50% e 60% neste ano, com 140-150 mil casos previstos. Estima-se que 30% das empresas estejam despreparadas para identificar e se defender contra ataques desse tipo. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Anatel prevê que serviços digitais, como plataformas de streaming e computação em nuvem, podem criar oportunidades no setor de telecomunicações: operadoras podem buscar parcerias com empresas de tecnologia para agregar valor aos pacotes fornecidos, com serviços combinados de vídeo, música e jogos, além de realizar uma transição do modelo de negócios tradicional baseado em voz para um centrado em dados. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
