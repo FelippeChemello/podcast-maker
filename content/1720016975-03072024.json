@@ -1,0 +1,45 @@
+{
+    "title": "Devs questionam CVEs / Figma “plagia” Apple / Algoritmo ultrarrápido",
+    "fps": 30,
+    "timestamp": 1720016975,
+    "width": 0,
+    "height": 0,
+    "date": "03/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Devs de projetos open-source estão questionando veracidade de relatos de vulnerabilidades críticas: a biblioteca “node-ip” teve seu repositório do GitHub arquivado por seu desenvolvedor em resposta a um CVE “crítico” sobre sua incapacidade de identificar endereços IP privados em formatos não padrão. Fedor Indutny, responsável pelo projeto, argumenta que o problema não representa uma ameaça real. Relatórios falsos de CVEs podem resultar em alertas desnecessários e interrupções em builds. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Figma desabilita temporariamente sua ferramenta de IA por supostamente plagiar aplicativo Weather da Apple: a empresa é acusada de treinar o Make Design utilizando projetos reais. Dylan Field, CEO da empresa, nega as afirmações, mas reconhece falhas no processo de garantia de qualidade e baixa variabilidade da tecnologia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros desenvolvem algoritmo de fluxo de rede mais rápido do mundo: a tecnologia pode ser utilizada em ferrovias, estradas, eletricidade e internet, sendo capaz de calcular probabilidades de fluxo máximo com custo mínimo de forma quase instantânea. O algoritmo também é adaptável a redes dinâmicas, podendo lidar com fechamentos de túneis e estradas em tempo real. As informações são do site da ETH Zurich.",
+            "url": ""
+        },
+        {
+            "text": "WSL2 do Windows recebe atualização para kernel Linux 6.6 LTS: a transição adiciona compatibilidade com módulos carregáveis em arquiteturas x86_64 e ARM64. Patches de correção anteriormente mantidos pela Microsoft na versão 5.5 LTS foram integrados diretamente ao sistema. Mais detalhes estão disponíveis no repositório “icrosoft/WSL2-Linux-Kerne” do GitHub. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Meta faz alterações no rótulo “ade with A” do Instagram, Facebook e Threads: a etiqueta foi modificada para “AI Info”, com o objetivo de esclarecer aos usuários que a imagem pode ter sido criada ou modificada usando ferramentas baseadas na tecnologia, mas ainda não detalha a quantidade de alterações realizadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mt. Gox, corretora de bitcoins que declarou falência em 2014, irá reembolsar seus credores a partir deste mês: cerca de 9 bilhões de dólares em moedas digitais serão devolvidos, com um pagamento inicial de 21% do valor investido, podendo chegar a 23,6%. Os ativos retidos na plataforma valorizaram mais de 10.000% ao longo dos anos. As informações são dos sites CNBC e InvestNews.",
+            "url": ""
+        },
+        {
+            "text": "Emissões de carbono do Google aumentam 48% em cinco anos após investimentos em IA: o consumo de energia dos data centers cresceu 17% em 2023, representando 25% do total. A empresa havia estimado uma meta de emissão zero até 2030, e sugere que a adoção de unidades de processamento tensor (TPUs) poderia reduzir a energia necessária para treinar modelos de linguagem em até 100 vezes. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
