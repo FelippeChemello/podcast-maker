@@ -1,0 +1,45 @@
+{
+    "title": "Authy: +30 milhões afetados / Starlink lidera no Brasil / Linux no Google Drive",
+    "fps": 30,
+    "timestamp": 1720103363,
+    "width": 0,
+    "height": 0,
+    "date": "04/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Authy, plataforma de autenticação de dois fatores, sofre ataque hacker que expõe 33 milhões de números de telefone: invasores exploraram um endpoint de API desprotegido que retorna informações sobre contas de usuários. Um autor identificado como “ShinyHunters” publicou um arquivo CSV contendo dados vazados, que também incluem ID, status e contagem de dispositivos. Uma atualização de segurança foi lançada para Android (v25.1.0) e iOS (v26.1.0). Recomenda-se atualizar o aplicativo imediatamente. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Starlink lidera como maior provedora de internet por satélite do Brasil: dados divulgados pela Anatel mostram a empresa com 42,5% de participação de mercado e 200 mil clientes registrados em maio, seguida pela HughesNet com 179 mil. Em comparação, a Starlink havia registrado 57 mil clientes no mesmo período em 2023 e a HughesNet 195 mil. A internet via satélite ainda representa apenas 0,9% do mercado total, com a fibra óptica dominando com 75,5%. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor consegue rodar distribuição Linux completa no Google Drive: Sambhav criou um disco RAM usando FUSE (Filesystem in Userspace) dentro da plataforma para carregar componentes essenciais, aplicativos e binários de rede, permitindo inicializar um ambiente desktop da distribuição Arch Linux. Apesar de rodar de forma extremamente lenta, o desenvolvedor afirma que essa técnica pode ser útil na inicialização de sistemas em repositórios Git e conexões SSH. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Proton anuncia alternativa ao Google Docs focada em privacidade de usuários: o Proton Docs possui interface e funcionalidades semelhantes, incluindo barra de formatação no topo, edição colaborativa em tempo real com indicadores sobre quem está no documento, e suporte à multimídia. A aplicação já está disponível através do Proton Drive para web e desktop. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia de pagamentos por aproximação poderá ser capaz de realizar múltiplas tarefas no futuro: a implementação “ulti-Purpose Ta”, sugerida pelo NFC Forum, permitiria adicionar pontos de fidelidade ao comprar em lojas, enviar recibos por e-mail, verificar idade em compras restritas, aplicar descontos automaticamente e validar passagens de viagens. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Phil Schiller, ex-vice-presidente sênior de marketing da Apple e atual chefe da App Store, irá juntar-se ao conselho de administração da OpenAI: o papel de Schiller será de observador, podendo participar de reuniões sem direito a voto ou atuação como diretor. A posição permitirá que ele compreenda melhor o funcionamento interno da OpenAI, ajudando a melhorar a integração das tecnologias de IA com as plataformas da Apple. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros desenvolvem Nvidia GeForce RTX 4090 caseira com desempenho superior em 13% ao modelo base: o projeto, liderado por Ronaldo Buassali, combina hardware de outras GPUs, incluindo “RTX 5000 Ada” e “RTX 3090 Ti HOF”. A placa possui suporte para até 24 GB de VRAM, sendo equipada com memórias GDDR6X modificadas de até 24 Gbps de velocidade e arrefecimento líquido personalizado. Em testes com resfriamento a nitrogênio, houve um ganho de desempenho de até 40%. As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
