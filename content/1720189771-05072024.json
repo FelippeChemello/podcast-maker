@@ -1,0 +1,45 @@
+{
+    "title": "Browser totalmente do zero / Nintendo diz \"não\" à IA / Cloudflare: proteção contra web scrapers",
+    "fps": 30,
+    "timestamp": 1720189771,
+    "width": 0,
+    "height": 0,
+    "date": "05/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Navegador web construído totalmente do zero e financiado pelo cofundador do GitHub, não utilizará “nenhum código” de softwares rivais: o Ladybird é um projeto open-source, atualmente em estágio pré-alfa e com uma equipe de apenas três funcionários até o momento, que além dos desafios técnicos, precisará concorrer com Chrome, Safari e Edge, que juntos dominam 88% do mercado. Mais detalhes estão disponíveis no repositório “LadybirdBrowser/ladybird” do GitHub. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo afirma que não pretende utilizar IA generativa no desenvolvimento de seus jogos: Shuntaro Furukawa, presidente da empresa, reconhece o potencial criativo da tecnologia, mas ressalta que técnicas semelhantes já são utilizadas há muito tempo para controlar movimentos de personagens inimigos, e que há preocupações quanto a direitos de propriedade intelectual. As informações são do site CNET.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare anuncia ferramenta para proteger sites contra web scrapers de empresas de tecnologia: a funcionalidade está disponível como parte do CDN principal da plataforma, para versões gratuitas e pagas, sendo capaz de detectar tentativas automatizadas de extração de conteúdo e identificar bots que se disfarçam de navegadores. Um exemplo citado pela Cloudflare é um bot que coleta conteúdo para a Perplexity AI, fazendo requisições que aparentam ser de um usuário comum. As informações são do site SiliconANGLE.",
+            "url": ""
+        },
+        {
+            "text": "Indonésia é alvo de ataque hacker e descobre que 98% dos dados governamentais não possuem backup: o grupo “Brain Cipher” utilizou uma variante do malware LockBit 3.0 para extrair dados sensíveis e criptografar os servidores, afetando mais de 230 agências públicas, ministérios, serviços de imigração e operações em aeroportos. Um oficial do governo descreveu a falta de backups como uma “stupide”, destacando uma grave falha na governança e na política de TI. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT revela acidentalmente suas instruções internas que o fazem operar dentro dos limites de segurança: a descoberta foi feita pelo usuário “0XMaste” do Reddit, ao cumprimentar o modelo com um simples “Hi”, listando restrições como evitar emojis a menos que sejam solicitados, gerar apenas uma imagem por solicitação no DALL-E e selecionar fontes confiáveis na web ao fornecer informações. A OpenAI realizou uma correção para evitar acesso aos dados. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Rodney Brooks, professor emérito e pioneiro de robótica no MIT, acredita que IA generativa está sendo superestimada: para o cientista, embora a tecnologia seja perfeitamente capaz de executar um determinado conjunto de tarefas, atribuir habilidades humanas a ela seria “falho”, e que as pessoas costumam generalizar suas capacidades querendo utilizá-la para “aplicações que não fazem sentido”. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "IX BR, projeto brasileiro com maior conjunto de Pontos de Troca de Tráfego da internet global, está completando 20 anos: com 36 PTTs distribuídos em áreas metropolitanas do país, a iniciativa visa facilitar a interligação entre redes de comércio eletrônico, streaming de vídeos, redes sociais e instituições financeiras, permitindo que os serviços troquem pacotes de dados diretamente entre si, resultando em uma conexão mais rápida e eficiente. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
