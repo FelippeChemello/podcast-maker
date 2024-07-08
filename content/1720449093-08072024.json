@@ -1,0 +1,45 @@
+{
+    "title": "5.5G no Brasil: 10 Gbps / GPT 3-5 só 0,66% eficiente / Assistente de voz open-source",
+    "fps": 30,
+    "timestamp": 1720449093,
+    "width": 0,
+    "height": 0,
+    "date": "08/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Operadora Claro realiza teste com rede 5.5G ao ar livre e alcança velocidade de 10,4 Gbps: a prova de conceito foi realizada com uma antena comercial ativa no Lago Sul, em Brasília, com equipamentos fornecidos pela Huawei. A velocidade é 10 vezes superior à do 5G convencional. Estima-se que, quando comercialmente disponível, o 5.5G alcance velocidades entre 6 a 9 Gbps em dispositivos compatíveis. A TIM também havia conduzido testes com a tecnologia, alcançando 11,6 Gbps, porém, apenas em laboratório fechado. As informações são do site Minha Operadora.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que GPT-3.5 possui eficácia de apenas 0,66% para problemas difíceis de programação surgidos após 2021: o modelo foi desafiado com 728 questões de codificação nas linguagens C, C++, Java, JavaScript e Python. A taxa de sucesso para problemas de nível fácil foi de apenas 52%. O código gerado também apresentou vulnerabilidades, como falta de verificações de valores nulos, e a tecnologia foi incapaz de corrigir eficientemente seus próprios erros de lógica ou interpretação do problema. As informações são provenientes do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Startup francesa anuncia assistente de voz open-source semelhante à Alexa e Google Assistant: o Moshi, da Kyutai, é equipado com o LLM Helium 7B, capaz de fornecer conversas e interações naturais com 70 estilos emocionais e de falas distintos, além de suportar duas transmissões de áudio simultâneas, podendo ouvir e falar ao mesmo tempo. Uma demonstração do Moshi está disponível online no site oficial, sendo possível se inscrever para ter acesso antecipado ao modelo completo. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind anuncia tecnologia até 13 vezes mais rápida e eficiente em consumo de energia para treinar modelos de linguagem: o método JEST (Joint Example Selection) consiste em utilizar lotes completos de dados, onde um modelo menor avalia e compara a quantidade das informações de fontes altamente confiáveis com um conjunto mais amplo e de qualidade inferior, determinando quais dados são mais adequados para o treinamento de LLMs. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de resfriamento para computadores quânticos consegue alcançar temperaturas mais frias que espaço sideral: a tecnologia é capaz de atingir 100 milikelvins (273 ºC negativos), essencial para manter os qubits, que são sensíveis ao calor, abaixo de 1 Kelvin (272 ºC negativos). O sistema é feito de eletrônicos que podem ser fabricados de forma comum, podendo revolucionar futuras tecnologias de resfriamento. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Testes com banda ultralarga alcançam taxa de 402 Tbps de velocidade pela primeira vez: o feito foi alcançado por uma equipe do laboratório japonês NICT, conseguindo transmitir dados por mais de 50 km de distância utilizando fibra óptica projetada para suprimir picos de absorção de água, que degradam a qualidade do sinal. As informações são do site da NICT.",
+            "url": ""
+        },
+        {
+            "text": "Google deseja aumentar taxa de uso de seus aplicativos por proprietários de iPhones: atualmente, cerca de 30% das buscas realizadas no iOS surgem de apps da empresa, em comparação aos 25% de cinco anos atrás. O objetivo é aumentar esse número para 50%. Contudo, há desafios, como a presença do navegador Safari que vem pré-instalado em dispositivos da Apple. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
