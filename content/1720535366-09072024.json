@@ -1,0 +1,45 @@
+{
+    "title": "Signal: criptografia em TXT / Falha no Brasil afeta Cloudflare / Jogo de Game Boy Advance em 2024",
+    "fps": 30,
+    "timestamp": 1720535366,
+    "width": 0,
+    "height": 0,
+    "date": "09/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Signal, aplicativo de mensagens rival do WhatsApp e Telegram, armazena chaves de criptografia em texto simples na versão de desktop para macOS e Linux: pesquisadores de segurança utilizaram um script Python que copia o diretório de armazenamento local do mensageiro em um Mac e transfere os dados para uma instalação virtual do sistema operacional, permitindo clonar a sessão com todo o histórico de conversas, sem que o Signal emita qualquer aviso. No Windows, as chaves são armazenadas no arquivo “config.json” do diretório AppData. Recomenda-se que usuários desvinculem dispositivos desktop de suas contas. As informações são do site Stack Diary.",
+            "url": ""
+        },
+        {
+            "text": "Falha da Eletronet, empresa brasileira de telecomunicações, afeta serviço da Cloudflare e impacta cerca de 300 redes em 70 países: a companhia anunciou incorretamente uma rota para o endereço IP utilizado pelos serviços de DNS da Cloudflare, fazendo com que provedores de internet ao redor do mundo começassem a direcionar o tráfego para a Eletronet. O incidente durou 7 horas e meia até ser corrigido. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Jogo para Game Boy Advance que estava em desenvolvimento há 22 anos é finalmente lançado: o “Kien” foi criado em 2002 por usuários sem experiência com programação de jogos e recursos limitados. Fabio Balsanti, designer e último membro da equipe, contou com apoio da empresa Incube8 para lançar uma versão oficial em formato de cartucho e disponível para download em formato ROM, podendo ser executado facilmente em qualquer emulador. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Diretor de IA da Microsoft afirma que conteúdos na web são como “freewares” para treinar modelos de linguagem, a menos que proprietários de sites declarem explicitamente o contrário: para Mustafa Suleyman, há um entendimento de que os dados na internet são de “uso justo”, permitindo que qualquer pessoa copie, recrie e reproduza o material de maneira gratuita. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Ciência e Tecnologia irá adquirir supercomputador para o Instituto Nacional de Pesquisas Espaciais: os equipamentos serão instalados em Cachoeira Paulista (SP) e serão utilizados para previsões de clima e estudos ambientais, permitindo ao INPE gerar cenários de mudanças climáticas nacionais e globais. As máquinas atuais, CRAY-XE6 e XC-50, estão obsoletas e possuem altos custos de manutenção. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "YouTube anuncia ferramenta que utiliza IA para remover músicas protegidas por direitos autorais sem prejudicar vídeos: a novidade está disponível no Studio, com opções para silenciar, substituir ou remover o áudio por completo de forma precisa, sendo útil para criadores de conteúdo que dependem da monetização pelo programa de parceria do YouTube. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Maior reator de fusão nuclear do mundo está finalizado, mas não entrará em operação antes de 2039: a tecnologia utilizada no projeto ITER, localizado na França, ainda exige temperaturas extremamente altas para manter o plasma superaquecido estável o suficiente para que a fusão ocorra sem danificar o reator. Os testes iniciais estavam previstos para 2020. As informações são do site Live Science.",
+            "url": ""
+        }
+    ]
+}
