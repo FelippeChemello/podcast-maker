@@ -1,0 +1,45 @@
+{
+    "title": "Google + Dark Web: recurso gratuito / Grupos do WhatsApp mais seguros / Microsoft deixa conselho da OpenAI",
+    "fps": 30,
+    "timestamp": 1720621708,
+    "width": 0,
+    "height": 0,
+    "date": "10/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Serviço de monitoramento da Dark Web do Google passará a ser gratuito para todos os usuários: o recurso busca por vazamento de informações pessoais, como números de telefone e endereços físicos. Anteriormente, apenas assinantes do Google One tinham acesso. O serviço será liberado até o final deste mês, sem data definida, como parte da página “rivacidade nos resultados sobre você\". As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp anuncia funcionalidade para ajudar usuários a identificarem e saírem de grupos suspeitos: o “cartão de contexto” fornecerá detalhes adicionais sobre o chat, como criador, data de criação, descrição e se a pessoa foi adicionada por alguém da sua lista de contatos, além de incluir um botão para sair rapidamente do grupo. A novidade estará disponível nas próximas semanas, sem data definida. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft abandona posição de observadora no conselho da OpenAI: a saída ocorre em menos de oito meses após a empresa garantir a vaga. A Apple também não seguirá adiante com sua adesão à posição. A OpenAI mudará sua estratégia para engajar parceiros estratégicos, realizando reuniões regulares ao invés de oferecer assentos no conselho. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia desenvolvimento de modelo de linguagem compacto para smartphones e dispositivos com recursos limitados: o MobileLLM será uma base para tecnologias com menos de 1 bilhão de parâmetros, capazes de superar outras de tamanho semelhante em até 4,3%. Em testes, uma variante de 350 milhões de parâmetros demonstrou precisão comparável ao Llama 2 da Meta, com 7 bilhões, em tarefas de chamadas de API. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft admite limitações de PCs Copilot+ sobre incompatibilidade com drivers e softwares: a empresa explica que certos hardwares e aplicativos, como programas antivírus, só irão funcionar se forem projetados especificamente para Windows 11 com Arm. Jogos online também podem apresentar problemas para executar, devido à falta de compatibilidade com softwares anti-trapaça. Mais detalhes estão disponíveis na página de FAQ da Microsoft. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Dispositivos Android receberão suporte estendido com atualizações de segurança no kernel Linux: o período será estendido de 2 para 4 anos em versões LTS mantidas pelo Google. Aparelhos com os kernels “ndroid14-6.” e “ndroid15-6.”, ambos do Android 15, receberão atualizações até julho de 2029 e 2028, respectivamente. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Portal GovBR passará a aceitar denúncias e petições relacionadas à Lei Geral de Proteção de Dados: as reclamações poderão ser enviadas utilizando uma conta ou de forma anônima, podendo envolver casos sobre vazamento de dados, exigências abusivas de informações e situações onde empresas e órgãos públicos não respondem a uma solicitação de resgate dos dados armazenados. As informações são do site Tecnoblog.",
+            "url": ""
+        }
+    ]
+}
