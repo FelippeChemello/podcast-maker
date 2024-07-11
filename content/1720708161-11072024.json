@@ -1,0 +1,45 @@
+{
+    "title": "STJ condena Google Brasil / WordPress: +150 mil sites vulneráveis / Co-criador da Alexa quer IA mais “confiável”",
+    "fps": 30,
+    "timestamp": 1720708161,
+    "width": 0,
+    "height": 0,
+    "date": "11/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Superior Tribunal de Justiça obriga Google Brasil a pagar indenização por danos materiais e morais pela venda desleal de links patrocinados: o caso envolveu uma empresa que comprou a palavra-chave de uma marca concorrente, fazendo com que seu anúncio tivesse prioridade nas buscas. O STJ argumenta que o Google não é apenas um “hospedeiro neutro de conteúdo”, mas um fornecedor ativo de serviços de publicidade, tendo controle sobre as palavras-chave que vende, e que a marca de uma empresa não pode ser tratada como um termo comum. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Falha crítica em plugin de calendário do WordPress pode afetar mais de 150 mil sites: a vulnerabilidade, rastreada como CVE-2024-5441, trata da falta de validação do tipo de arquivo enviado para definir imagens de eventos criados pelo “Modern Events Calendar”, permitindo o upload de scripts maliciosos e execução remota de códigos em servidores. Uma correção de segurança foi disponibilizada na versão 7.12.0. Recomenda-se atualizar o plugin imediatamente. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Startup fundada por co-criador da Alexa planeja criar modelo de IA mais “confiável” e com menos “alucinações”: a Unlikely AI, de William Tunstall-Pedoe, utilizará uma abordagem “neuro-simbólica” no treinamento da tecnologia, combinando técnicas avançadas de redes neurais com arquiteturas mais tradicionais que utilizam regras lógicas, como em planilhas, onde os cálculos são 100% precisos. Entre os membros, destacam-se Tom Mason, ex-CTO da Stability AI e Fred Becker, diretor administrativo com experiência em plataformas como Skype e Symphony. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa realizada pela Comissão Federal de Comércio dos EUA indica que 76% dos serviços de assinatura implementam “dark patterns” em suas plataformas: a análise, que abrangeu 642 sites e aplicativos, identificou métodos utilizados pelas empresas, como impedir que renovações automáticas de assinaturas sejam desativadas, preenchimento obrigatório de informações de pagamento para participar de testes gratuitos e pré-seleção automática de opções mais lucrativas de assinatura. Os nomes dos serviços envolvidos não foram revelados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Organização do Tratado do Atlântico Norte (OTAN) estaria planejando direcionar tráfego da internet para sistemas de satélites, caso haja comprometimento de cabos submarinos: o objetivo é assegurar uma conexão ininterrupta. O custo total do projeto é estimado em 2,5 trilhões de dólares e receberá suporte adicional por instituições de pesquisa. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que ChatGPT e Gemini são capazes de passar em exames de hacking ético, mas não substituem especialistas humanos: o teste mediu a habilidade dos modelos de identificar e corrigir falhas de segurança. Ambos conseguiram explicar diferentes tipos de ataques e sugerir medidas adequadas, com o Gemini sendo ligeiramente mais preciso e o ChatGPT fornecendo respostas mais completas. Contudo, os chatbots frequentemente corrigiam falhas em suas respostas, quando solicitados a confirmá-las. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Rede social X, de Elon Musk, registra aumento de apenas 1,6% de usuários desde 2023: antes de sua aquisição em 2022, o Twitter registrava um crescimento anual de até 15%. Estima-se que a monetização de funcionalidades anteriormente gratuitas, restrição do acesso à API somente para assinantes e surgimento de concorrentes, como o Threads da Meta, podem ter contribuído para a desaceleração do crescimento. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
