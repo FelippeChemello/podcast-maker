@@ -1,0 +1,49 @@
+{
+    "title": "GitLab faz alerta / DeepMind: gatos superam IAs / Amazon contestada sobre energia limpa",
+    "fps": 30,
+    "timestamp": 1720794654,
+    "width": 0,
+    "height": 0,
+    "date": "12/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitLab alerta usuários sobre falha crítica de segurança em sua plataforma: a vulnerabilidade, rastreada como CVE-2024-6385, permite que invasores executem jobs de pipeline — processos automatizados de build, testes e implantação de código — utilizando uma conta de outra pessoa. Uma correção foi disponibilizada nas versões 17.1.2, 17.0.4 e 16.11.6. Recomenda-se atualizar a plataforma. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Google DeepMind afirma que modelos de IA atuais ainda não alcançam inteligência de gatos domésticos: para Demis Hassabis, a tecnologia também está distante de superar a expertise humana, apesar de se destacar em áreas específicas, como jogos. O CEO, inclusive, menciona o projeto Astra, iniciativa da empresa para criar um agente capaz de entender e interagir com situações, ambiente e preferências do usuário, superando as limitações dos chatbots atuais. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Amazon alega que 100% de seus data centers operam com energia limpa, mas funcionários contestam: os colaboradores argumentam que, com os dispositivos funcionando 24 horas por dia, não é garantido que eles utilizem energia renovável durante à noite, horário no qual aparelhos solares não operam, por exemplo. O grupo sugere que a Amazon adote a abordagem do Google, que busca utilizar energia livre de carbono 100% do tempo em todas as suas plantas. As informações são do site Fast Company.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 64% dos usuários são relutantes em relação ao uso de inteligência artificial no atendimento ao cliente: entre os 5.728 entrevistados, 60% temem que a tecnologia dificulte ainda mais o contato com um ser humano, e 53% considerariam mudar para uma marca concorrente se descobrissem que a IA estava sendo utilizada no atendimento. Sugere-se que os chatbots devam informar aos clientes que irão conectá-los a um atendente humano caso não consigam resolver o problema por conta própria. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro vertiporto para carros voadores da América Latina será projetado no interior de São Paulo: a estrutura será instalada em uma área conhecida como “run up”, atualmente utilizada para testes de motores no Aeroporto Internacional de São José dos Campos, administrado pela SJK Airport. As obras estão programadas para começar em 2025 e estarem concluídas até 2027. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "YouTuber atualiza Raspberry Pi 5 com 16GB de RAM e dispositivo apresenta problemas ao inicializar: Handyman Dan utilizou como base um aparelho com 4GB. A instalação do novo chip apresentou desafios, resultando na destruição de uma das placas. Com o procedimento concluído, o dispositivo não exibiu a tela de boot, indicando que o mesmo ainda não é compatível com essa quantidade de RAM. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Relatório da Anatel indica que preço de internet móvel no Brasil subiu 4,3% no primeiro trimestre de 2024: o uso desse tipo de conexão também cresceu, com uma média de 5,36 GB consumidos por mês, um aumento de 5,5% em relação ao mesmo período do ano anterior. Por outro lado, o custo dos planos de banda larga apresentou uma queda de 2,2%, com um consumo médio mensal de 290 GB. O relatório considera apenas dados de grandes operadoras, como Claro, TIM e Vivo. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de ontem (quinta-feira, dia 11), o valor correto do projeto da OTAN que pretende direcionar tráfego de internet para satélites está estimado em 2,5 milhões de dólares e não “2,5 trilhões” como informado.",
+            "url": ""
+        }
+    ]
+}
