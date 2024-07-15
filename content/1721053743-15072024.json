@@ -1,0 +1,45 @@
+{
+    "title": "Anatel quer restringir 2G e 3G / Extensão oculta do Chrome / OpenAI: raciocínio aprimorado de IA",
+    "fps": 30,
+    "timestamp": 1721053743,
+    "width": 0,
+    "height": 0,
+    "date": "15/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Anatel abre consulta pública para restringir homologação de celulares e equipamentos compatíveis apenas com tecnologia 2G ou 3G: a proposta não afeta os aparelhos já certificados e em uso no Brasil. O 2G é amplamente utilizado em dispositivos IoT e maquininhas de cartão de crédito, representando pouco mais de 15% do mercado de telefonia móvel, junto com o 3G. Os comentários poderão ser enviados até 19 de dezembro pelo Sistema Participa. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Chrome e outros navegadores baseados em Chromium, como Edge e Brave, possuem extensão oculta que coleta dados da CPU e GPU do usuário: a ferramenta, implementada em 2013, não pode ser desativada e permite que domínios do Google tenham acesso a informações sobre tipo de arquitetura, modelo específico e estatísticas de uso, persistindo mesmo quando o histórico de navegação é excluído ou no modo de janela anônima. A empresa afirma que utiliza a extensão para melhorar a experiência do usuário e mitigar problemas de desempenho. As informações são do site Stack Diary.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria desenvolvendo tecnologia para aprimorar capacidade de raciocínio dos modelos de IA: o projeto, de codinome “Strawberry”, permitirá que chatbots planejem e naveguem na internet de forma autônoma para realizar pesquisas profundas, melhorando sua capacidade de decisão e resposta. Em testes, modelos conseguiram alcançar uma pontuação acima de 90% em benchmark de problemas matemáticos. A OpenAI ainda não fez um pronunciamento oficial sobre o projeto. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Amazon Web Services anuncia ferramenta de desenvolvimento de aplicativos utilizando linguagem natural: o App Studio permite que usuários descrevam o software desejado, incluindo tarefas que deve realizar e tipos de dados utilizados. A ferramenta visa abordar preocupações com a escassez de talentos no setor, permitindo que empresas aumentem sua produtividade e reduzam a curva de aprendizado para o desenvolvimento de softwares. O App Studio já está disponível no site da AWS. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Robô de mesa da Apple será primeiro dispositivo doméstico da empresa com recursos de inteligência artificial: o dispositivo será capaz de mover seu display de acordo com os movimentos da cabeça durante uma sessão do FaceTime, e poderá focar em uma pessoa específica em meio a uma multidão. O aparelho dá início a uma nova categoria de produtos da Apple, sendo totalmente independente das linhas existentes, como o HomePod. Ainda não há previsão de lançamento. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia atualização para Programa de Proteção Avançada permitindo que usuários configurem chaves de acesso em seus aparelhos: a novidade possibilita que pessoas utilizem autenticação biométrica do celular, como impressão digital. Anteriormente, a empresa exigia duas chaves de segurança físicas para utilizar o recurso. O Google também exigirá métodos de recuperação alternativos, como um número de telefone, e-mail ou segunda chave caso o usuário fique impedido de acessar a conta. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvimento de aplicativos para Apple Vision Pro diminui drasticamente desde seu lançamento: o dispositivo possui cerca de 2 mil apps disponíveis. Em comparação, o iPad contava com mais de 20 mil, alguns meses após seu lançamento em 2010, e o iPhone cerca de 10 mil no final de 2008. Considera-se que desenvolvedores preferem dedicar seu tempo a plataformas com bilhões de usuários, em vez de uma com apenas milhares. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
