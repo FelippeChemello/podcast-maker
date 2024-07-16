@@ -1,0 +1,45 @@
+{
+    "title": "1º emulador de PC para iOS / Sony encerra Blu-rays virgens / Comunidade open-source “envelhecendo”",
+    "fps": 30,
+    "timestamp": 1721140249,
+    "width": 0,
+    "height": 0,
+    "date": "16/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após rejeição inicial, Apple aprova primeiro emulador de PC para iOS na App Store: o UTM SE permite execução de softwares e jogos clássicos, incluindo sistemas operacionais como Windows, Mac OS 9 e distribuições Linux. A aprovação do aplicativo foi possível devido à implementação do interpretador “QEMU TCTI”, essencial para a construção do programa sem compilação JIT (Just-In-Time). O emulador também está disponível para iPadOS e visionOS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Sony encerrará gradualmente produção de mídias Blu-ray virgens: a empresa afirma que o mercado de mídias de armazenamento a frio (cold storage) está operando “no vermelho” há anos, e que precisa “revisar sua estrutura de negócios para melhorar a lucratividade”. Discos comerciais de filmes e jogos continuarão a ser produzidos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Comunidade open-source está “envelhecendo” e precisa atrair novos desenvolvedores para revitalizar projetos, segundo artigo: durante a conferência “OSPO for Good” da ONU, uma jovem gerente de código aberto destacou a escassez de pessoas mais novas nesses tipos de eventos, com a maioria sendo frequentada por profissionais mais experientes, e sugerindo a adoção de hackathons como uma maneira de envolver jovens programadores. Comunidades de projetos Linux também destacam que a manutenção de código antigo pode ser desafiadora, esgotando profissionais experientes, enquanto jovens preferem criar coisas novas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Programa Bug Hunters do Google tem aumento no valor de recompensas: a empresa pagará uma quantia inicial de 101 mil dólares para falhas de execução remota de código em seus produtos mais sensíveis, podendo chegar a 151 mil para relatórios de vulnerabilidades considerados “excepcionais”. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Signal implementa solução de segurança para chaves de criptografia armazenadas em texto simples no aplicativo desktop: a empresa irá utilizar a API SafeStorage do Electron, que aproveita o mecanismo de criptografia e armazenamento do próprio sistema operacional. Contudo, ainda há limitações no Windows, onde a chave fica desprotegida contra programas ou malwares executados sob o mesmo contexto do usuário logado. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Profissionais de tecnologia estão descontentes com falta de entendimento sobre problemas de segurança por chefes de outras áreas: 60% dos líderes “não-TI” estão “muito” ou “extremamente” confiantes de que suas organizações são capazes de prevenir um ataque cibernético destrutivo nos próximos 12 meses, enquanto apenas 46% dos especialistas na área compartilham esse pensamento. Considera-se que líderes não técnicos estejam mais focados nos impactos financeiros e reputacionais de vulnerabilidades. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Histórias escritas com assistência de IA são mais criativas, elaboradas e agradáveis: 300 participantes foram designados para escrever uma “micro-história” de oito frases para um público-alvo de jovens adultos. O trabalho, avaliado por 600 pessoas, indica que a tecnologia ajuda os menos criativos a produzirem trabalhos até 26% melhor escritos e 15% menos entediantes. Embora o uso da IA tenha um efeito positivo na criatividade individual, há receios de que as histórias se tornem menos originais. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
