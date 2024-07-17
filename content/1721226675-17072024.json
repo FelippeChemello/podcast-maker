@@ -1,0 +1,45 @@
+{
+    "title": "Android Studio na Web / Windows: atualizações “checkpoint” / MySQL 9.0 “decepcionante”",
+    "fps": 30,
+    "timestamp": 1721226675,
+    "width": 0,
+    "height": 0,
+    "date": "17/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Android Studio será disponibilizado oficialmente para uso na Web: o lançamento será possível graças ao Project IDX, ambiente de desenvolvimento remoto do Google, permitindo utilizar a plataforma diretamente no navegador, além de incluir assistência de codificação com IA por meio do Gemini. Desenvolvedores interessados podem se inscrever em uma lista de espera para obter acesso antecipado no site oficial do Project IDX. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Atualizações “checkpoint” para Windows 11 e Server 2025 prometem ser mais rápidas e eficientes: a novidade estará disponível a partir do final de 2024 para dispositivos com versão 24H2 ou posterior, visando economizar largura de banda, espaço no disco rígido e tempo de instalação, entregando correções de segurança e novos recursos com atualizações incrementais menores, contendo apenas as mudanças feitas desde o último “checkpoint”. A funcionalidade pode ser testada no Windows Insider Preview Build 26120.1252. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Lançamento do MySQL 9.0 é “decepcionante”, segundo especialistas: dentre as críticas, destaca-se a falta de novidades, especialmente em relação à versão 8.0, cujo motivo pode estar relacionado ao foco atual da Oracle no HeatWave, um banco de dados de análises proprietárias, onde certas inovações, como suporte a vetores e procedimentos armazenados em JavaScript embutido, não estão disponíveis na edição gratuita do MySQL Community. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Claude, chatbot da Anthropic, está disponível via aplicativo para dispositivos Android: o app oferece funcionalidades semelhantes às versões web e iOS, com uma interface simplificada, modo offline para certas funções e integração com o menu de compartilhamento do sistema. Uma novidade é o Claude Vision, ferramenta que permite aos usuários enviar fotos para que o modelo descreva e analise. O aplicativo já pode ser baixado na Google Play Store. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "AI Overviews do Google está aparecendo em apenas 7% dos resultados de busca: acredita-se que a redução esteja relacionada a erros graves, como o incidente em que a tecnologia sugeriu adicionar cola na pizza. Inicialmente, mais de 80% das buscas incluíam o recurso para os testadores, caindo para cerca de 40-50% quando foi lançado em maio e 15% nas semanas seguintes. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Apple, Nvidia, Anthropic e outras empresas de tecnologia teriam utilizado mais de 170 mil vídeos do YouTube sem consentimento para treinar modelos de IA: as companhias utilizaram o dataset “The Pile”, que possui um subconjunto de dados de legendas chamado “YouTube Subtitles”, para coletar informações, incluindo conteúdo educacional e de grandes meios de comunicação como Wall Street Journal. Criadores famosos como MrBeast, Marques Brownlee e PewDiePie também tiveram seus vídeos usados sem autorização. A Anthropic afirma que as legendas cobrem apenas uma pequena parte do dataset. As informações são do site Proof.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft revela modelo de linguagem projetado para gestão e análise de planilhas: o Spreadsheet LLM é capaz de trabalhar com dados estruturados e não estruturados, podendo ser utilizado em áreas como finanças e projeções. Com o desenvolvimento do framework SheetCompressor, que comprime planilhas, a empresa conseguiu diminuir o uso de tokens em 96%, garantindo a eficiência da tecnologia. Ainda não há data prevista para o modelo estar disponível para uso público. As informações são do site The Stack.",
+            "url": ""
+        }
+    ]
+}
