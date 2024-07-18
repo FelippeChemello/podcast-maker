@@ -1,0 +1,45 @@
+{
+    "title": "Meta suspende IA no Brasil / 1Password ajuda Devs / API polêmica do Firefox",
+    "fps": 30,
+    "timestamp": 1721313251,
+    "width": 0,
+    "height": 0,
+    "date": "18/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta suspende recursos de IA e coleta de dados no Brasil: a decisão foi tomada em resposta à exigência da Autoridade Nacional de Proteção de Dados para que a empresa cessasse o uso de dados pessoais de usuários no treinamento de seus modelos, afetando plataformas e funcionalidades como criação de figurinhas no WhatsApp com a tecnologia. A Meta afirma estar em diálogo com a ANPD para garantir a conformidade com as normas de proteção de dados. As informações são dos sites Olhar Digital e Correio Braziliense.",
+            "url": ""
+        },
+        {
+            "text": "1Password ajudará desenvolvedores a verificar se usuários estão aptos a utilizarem passkeys em seus aparelhos: a ferramenta gratuita “Passkey Ready”, da plataforma Passage, oferece um código que pode ser implementado diretamente na aplicação, permitindo coleta de dados como tipo de dispositivo e versão do sistema operacional, a fim de verificar a compatibilidade com a tecnologia, que utiliza biometria e elimina a necessidade de criar e digitar senhas. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla introduz API experimental no Firefox que ajuda anunciantes, sem rastrear usuários, mas gera controvérsias: a Privacy Preserving Attribution (PPA) vem habilitada por padrão a partir do Firefox 128, e armazena no dispositivo do usuário, de forma criptografada e anônima, as “impressões” dos anúncios visitados, permitindo a geração de relatórios diretamente pelos sites dos anunciantes. Algumas pessoas veem o recurso como mais uma forma de rastreamento e publicidade disfarçada, argumentando que o recurso deveria vir desabilitado. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Google não irá mais indexar conteúdos de sites de maneira automática: a empresa adotará uma abordagem mais seletiva, onde o conteúdo será incluído apenas quando houver uma necessidade genuína, seguindo alguns critérios como sites altamente autoritativos e marcas conhecidas. A decisão pode dificultar que algumas informações sejam encontradas no Google, além de reduzir a visibilidade para criadores menores. As informações são do blog de Vincent Schmalbach.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic anuncia seu próprio fundo para startups de IA no valor de 100 milhões de dólares: o “Anthology Fund” tem como foco investir em iniciativas que utilizem a tecnologia para desenvolver ferramentas de segurança e aplicativos com benefícios sociais, como saúde, educação e pesquisa científica, oferecendo um financiamento inicial de 100 mil dólares. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Cerca de 7% do tráfego da internet é malicioso, segundo Cloudflare: ataques DDoS são os mais utilizados por cibercriminosos, representando mais de 37% do tráfego mitigado pela empresa, que bloqueou 4,5 milhões deles apenas no primeiro trimestre de 2024. Além disso, cerca de 38% das requisições HTTP processadas pela CloudFlare são provenientes de bots, com a maioria (93%) sendo utilizada para atividades maliciosas, como compras automáticas ou aquisição de ingressos para revenda. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Kaspersky decide encerrar operações nos EUA e demitir seus funcionários: a decisão ocorre após proibição imposta pelo Departamento de Comércio do país em junho deste ano, que a empresa planejava contestar judicialmente, mas voltou atrás ao avaliar o impacto das exigências legais. O encerramento das operações será gradual, a partir do dia 20 deste mês. As informações são do site Zero Day.",
+            "url": ""
+        }
+    ]
+}
