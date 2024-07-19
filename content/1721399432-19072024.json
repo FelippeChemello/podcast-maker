@@ -1,0 +1,45 @@
+{
+    "title": "Apagão global no Windows / OpenAI substitui GPT-3.5 / Google: fim dos links “goo-gl”",
+    "fps": 30,
+    "timestamp": 1721399432,
+    "width": 0,
+    "height": 0,
+    "date": "19/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atualização defeituosa da CrowdStrike, empresa de segurança cibernética, afeta máquinas Windows de organizações ao redor do mundo: os PCs ficaram presos em um loop de inicialização irrecuperável, provavelmente devido a uma falha na plataforma Falcon. Serviços afetados incluem companhias aéreas, bancos, telecoms, serviços de emergência, linhas de trem e a bolsa de valores de Londres. A empresa reverteu a atualização e implementou uma correção, sem esclarecer se a mesma funcionaria em máquinas já afetadas, além de fornecer uma solução temporária que envolve inicializar o Windows em modo de segurança e excluir um driver específico. Contudo, profissionais de TI relatam dificuldades, especialmente em instruir usuários a resolverem a situação remotamente. As ações da CrowdStrike caíram mais de 19% devido ao incidente. As informações são dos sites Engadget e The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI substitui GPT-3.5 pelo GPT-4o mini gratuitamente para todos os usuários: o novo modelo, uma versão menor do GPT-4o, é capaz de lidar com entradas de imagem, texto e, futuramente, áudio e vídeo, com limite de conhecimento até outubro de 2023. A tecnologia também é a primeira a utilizar a “hierarquia de instrução”, que prioriza certos comandos a fim de dificultar ataques de injeção de prompts, jailbreaks ou extração de códigos. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Google irá desativar links “goo-gl” em agosto de 2025: usuários que tentarem acessar as URLs irão se deparar com um erro 404 (não encontrado). Essa mudança pode impedir que redirecionamentos de sites sejam concluídos corretamente e que metadados sociais incorporados na página de destino sejam exibidos adequadamente. O Google aconselha desenvolvedores a migrarem seus links “goo-gl” o mais rápido possível para evitar essas interrupções. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Proton anuncia ferramenta de IA para auxiliar usuários na composição, redação e revisão de e-mails: o Proton Scribe é uma resposta ao recente lançamento do Google Gemini no Gmail. A tecnologia é baseada no modelo de código aberto Mistral 7B, podendo ser executada tanto no dispositivo local como nos servidores da Proton, com a garantia de que a empresa não mantém registros e nem compartilha dados com terceiros. O Proton Scribe está disponível para Proton Mail nas versões web e desktop, com planos de expansão para dispositivos móveis. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Startup britânica Briefly Bio arrecada 1,2 milhão de dólares para criar “GitHub” dos experimentos científicos: o objetivo é permitir que os resultados sejam replicados de forma consistente. A plataforma utiliza modelos de linguagem para transformar documentação de laboratório complexa em um formato mais organizado, facilitando o uso por outros cientistas, podendo também ser utilizada por profissionais que trabalham com automação, permitindo descrever fluxos de trabalho antes de programar robôs. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Mistral lança dois modelos de linguagem na nova arquitetura Mamba com capacidade para entradas maiores e tempo de resposta mais rápido: o Codestral Mamba 7B, voltado para geração de códigos, foi testado com entradas de até 256 mil tokens, o dobro do que o GPT-4o da OpenAI pode processar, superando outras tecnologias de código aberto em benchmarkings, como CodeLlama 7B e CodeGemma-1.17B. Já o Mathstral 7B é projetado especificamente para raciocínio matemático e pesquisas científicas. Ambos os modelos estão disponíveis na “la Plateforme” da Mistral e no site HuggingFace. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "NASA transmite música de hip-hop para Vênus na velocidade da luz: a canção percorreu mais de 250 milhões de quilômetros, levando apenas 14 minutos para alcançar seu destino. A transmissão foi realizada pela Deep Space Network, um sistema de antenas utilizado para comunicação com exploradores robóticos, sendo um prelúdio para três missões que estudarão Vênus em detalhes, com as sondas Davinci e Veritas programadas para lançamento em 2029 e 2031, respectivamente. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
