@@ -1,0 +1,45 @@
+{
+    "title": "Hackers exploram falha da CrowdStrike / Google fará “limpeza” na Play Store / Videogames mais inteligentes",
+    "fps": 30,
+    "timestamp": 1721658632,
+    "width": 0,
+    "height": 0,
+    "date": "22/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers estão oferecendo soluções falsas para infectar companhias que foram vítimas do problema da CrowdStrike: os criminosos estão se passando por representantes legítimos da empresa, utilizando e-mails falsos com domínios semelhantes ao original. Em uma das campanhas identificadas, um site de phishing que se passa por um portal interno de um banco oferece uma atualização de hotfix que infecta sistemas com o trojan de acesso remoto “Remcos”, enquanto outros atacantes estão distribuindo data wipers que sobrescrevem arquivos com bytes zero. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google removerá aplicativos de baixa qualidade da Play Store a partir de 31 de agosto: a empresa implementará uma nova política para garantir que os apps da loja ofereçam uma experiência estável e responsiva. Softwares que travam frequentemente, não possuem conteúdo adequado ou utilidade suficiente, como programas de papel de parede único ou que não carregam corretamente após a instalação, serão removidos da plataforma. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Startup canadense quer tornar personagens não jogáveis (NPCs) de videogames mais realistas com IA: a Artificial Agency, fundada por ex-pesquisadores do Google DeepMind, criou um motor de comportamento no qual os desenvolvedores atribuem a cada NPC um conjunto de motivações, regras e objetivos, permitindo interações mais dinâmicas e realistas. A startup arrecadou 16 milhões de dólares para o projeto, com a expectativa de que a tecnologia esteja disponível em 2025. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Chrome implementará avisos de página inteira para downloads arriscados: o navegador exibirá o alerta para arquivos desconhecidos ou maliciosos, oferecendo opções para excluir o item do histórico e verificar o motivo do bloqueio. O aviso também solicita que a pessoa forneça um motivo para querer baixar o arquivo, com opções como “eu criei o arquivo”, “confio na fonte” ou “estou disposto a aceitar o risco”. O recurso será disponibilizado gradualmente aos usuários. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT questionam inteligência de modelos como ChatGPT e Copilot em realizar tarefas que estejam fora do seu escopo de treinamento: o estudo indica que, embora a tecnologia seja excepcional em atividades familiares e rotineiras, seu desempenho tende a cair em operações inéditas, sinalizando uma dependência maior da memória do que do raciocínio, comparando o desempenho dos LLMs em tarefas complexas a “divinhações aleatórias em cenários desconhecido”. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Rede neural aprende a construir mapas complexos pela primeira vez utilizando dados do jogo Minecraft: gravações de um jogador explorando aleatoriamente os ambientes foram utilizadas para treinar a tecnologia, equipada com um algoritmo de codificação preditiva, que conseguiu aprender a organização dos objetos e prever quais ambientes surgiriam em seguida. O estudo permitirá que as redes neurais tornem-se mais inteligentes e resolvam problemas complexos de maneira similar aos humanos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft irá encerrar suporte ao.NET 6 em 12 de novembro: a plataforma não receberá mais atualizações de segurança ou suporte técnico. Os aplicativos desenvolvidos com a tecnologia continuarão funcionando, mas estarão vulneráveis a problemas de segurança. A Microsoft incentiva desenvolvedores a atualizarem seus programas para .NET 8. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
