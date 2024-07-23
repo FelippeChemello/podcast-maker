@@ -1,0 +1,45 @@
+{
+    "title": "Elon Musk: “IA mais poderosa do mundo” / Starlink: mais satélites no Brasil / Google volta atrás com cookies de terceiros",
+    "fps": 30,
+    "timestamp": 1721744998,
+    "width": 0,
+    "height": 0,
+    "date": "23/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "xAI, de Elon Musk, planeja treinar “IA mais poderosa do mundo em todos aspectos” utilizando cluster de treinamento mais potente atualmente: o Memphis Supercluster é composto por 100 mil GPUs H100 da Nvidia. A companhia planeja concluir seu projeto até dezembro deste ano. No entanto, acredita-se que a xAI precisará de um modelo realmente inovador para se manter competitiva no mercado contra empresas como OpenAI, Anthropic, Google e Meta. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Starlink solicita autorização à Anatel para adicionar 7,5 mil satélites na região do Brasil: atualmente, a empresa possui permissão para operar 4,4 mil dispositivos. A agência está conduzindo uma consulta pública para avaliar a solicitação, incluindo possíveis interferências em outros serviços e garantia de que a exploração dos satélites não prejudique a camada de ozônio. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google volta atrás e decide manter suporte a cookies de terceiros no Chrome: a mudança, que estava prevista para o final deste ano após vários adiamentos, foi inicialmente anunciada em janeiro de 2020. Agora, a empresa planeja adotar uma estratégia que consiste em permitir que os usuários façam escolhas informadas sobre o uso dos cookies, com a opção de ajustar essas preferências a qualquer momento, mas não revelou mais detalhes sobre a funcionalidade. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Deslizes de funcionários representam 54% das causas de ataques cibernéticos em empresas brasileiras, segundo pesquisa: os motivos incluem uso inadequado de sistemas e dispositivos, como acesso a sites não confiáveis e download de aplicativos maliciosos, além de ataques de phishing. Apesar disso, o Brasil apresenta uma taxa de aumento de ataques cibernéticos inferior à de outros países da região, como Colômbia (58%) e México (64%). As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "LLM open-source da Apple não consegue alcançar desempenho do modelo de linguagem compacto Phi-3 da Microsoft: o DCLM-7B, de 7 bilhões de parâmetros, obteve 63,7 pontos em testes de benchmarking da categoria MMLU — que avalia a capacidade da tecnologia em realizar múltiplas tarefas — enquanto o modelo da Microsoft obteve 69,9. Embora a Apple não tenha especificado qual versão do Phi-3 foi utilizada na comparação, a pontuação sugere que tenha sido o Phi-3 mini, com 3,8 bilhões de parâmetros. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft planeja aprimorar reprodução de vídeos embutidos em páginas para navegadores baseados em Chromium: atualmente, Edge e Chrome, por exemplo, apresentam problemas na execução de mídia incorporada — quando o conteúdo está inserido num “iframe” — que levam o áudio a tocar antes do vídeo ser carregado. A empresa propõe uma mudança que consiste em pausar a reprodução até que o elemento esteja completamente renderizado. A funcionalidade ainda está nos estágios iniciais de desenvolvimento. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem técnica para aprimorar habilidades de raciocínio em robôs: a abordagem “ECoT” (Embodied Chain-of-Thought Reasoning) é derivada do método “CoT” utilizado em LLMs, que divide a solução de problemas complexos em etapas, visando melhorar a capacidade de tomada de decisão e permitindo que as máquinas analisem o ambiente e as opções disponíveis ao realizar uma tarefa. Em testes, a abordagem aumentou em 28% o desempenho do OpenVLA, sistema criado pelo Google DeepMind para controle de robôs. As informações são do site VentureBeat.",
+            "url": ""
+        }
+    ]
+}
