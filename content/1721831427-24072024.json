@@ -1,0 +1,45 @@
+{
+    "title": "Maior IA open-source do mundo / Linux: sistema principal do Azure / 5G: multa milionária por “propaganda enganosa”",
+    "fps": 30,
+    "timestamp": 1721831427,
+    "width": 0,
+    "height": 0,
+    "date": "24/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta lança maior e mais avançado modelo de linguagem de código aberto já criado: o Llama 3.1 possui 405 bilhões de parâmetros e foi treinado com mais de 16 mil GPUs Nvidia H100, sendo capaz de superar concorrentes como GPT-4o da OpenAI e Claude 3.5 Sonnet da Anthropic em vários benchmarks, segundo a empresa, com um custo operacional reduzido. A Meta também está trabalhando com outras companhias, como Microsoft, Amazon, Google e Nvidia, para ajudar desenvolvedores a implantarem suas próprias versões do Llama 3.1. Mark Zuckerberg argumenta que modelos de IA de código aberto ultrapassarão tecnologias proprietárias, semelhante ao Linux que equipa a maioria dos smartphones e servidores atualmente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft afirma que Linux é o sistema operacional principal do Azure atualmente: a empresa testa mais de mil distribuições por mês na plataforma para garantir a integridade das aplicações executadas. O Linux representa mais de 60% (cerca de 20 mil) das ofertas do Azure Marketplace e dos núcleos de máquinas virtuais. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Secretaria Nacional do Consumidor aplica multas milionárias para operadoras TIM, Vivo e Oi por propaganda enganosa sobre 5G: o Senacon acusa as telecoms de confundir os consumidores, sendo levados a acreditar que estão recebendo a tecnologia mais avançada, quando na verdade trata-se de uma versão “non standalone”, sem antenas próprias e equipamentos dedicados. Os valores foram de 2 milhões de reais para a TIM, 1,4 milhão para a Vivo e 1,33 milhão para a Oi, que ainda podem recorrer da decisão. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Autoridades globais derrubam maior site voltado para ataques de DDoS do mundo: o DigitalStress disponibilizava ferramentas simples para que hackers iniciantes realizassem invasões com facilidade. O suposto administrador da plataforma foi preso no dia 2 deste mês, mas ainda não teve sua identidade revelada. Dados disponíveis sobre os membros dos canais de comunicação do site também serão analisados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Suíça exigirá que todo software utilizado pelo governo seja de código aberto: a lei EMBAG determina que todos os órgãos públicos divulguem o código-fonte do software desenvolvido por ou para eles, a menos que direitos de terceiros ou preocupações de segurança impeçam, com o objetivo de aumentar a transparência e segurança das operações governamentais, reduzir a dependência de fornecedores e diminuir os custos de TI. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Google Brasil disputa para fornecer inteligência artificial ao Supremo Tribunal Federal: o objetivo é utilizar a tecnologia para criar sumários automatizados de processos judiciais, a fim de reduzir o tempo necessário para realizar análises e tramitações. No total, 39 pessoas jurídicas foram habilitadas a apresentar soluções, com 22 companhias enviando os resumos gerados para avaliação. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Placas de vídeo RTX 40 da Nvidia produzidas por terceiros apresentam problemas de desempenho devido ao uso de pasta térmica de baixa qualidade: o material utilizado pelos fornecedores seria inadequado e mal aplicado, espalhando-se e deixando apenas uma camada fina, segundo o site de testes de hardware “Igor’s Lab”. Em demonstração, uma RTX 4080 Super apresentou um hotspot de 11 ºC mais quente do que a média do chip. A substituição por uma pasta de alta qualidade reduziu a temperatura em quase 30 ºC. As informações são do site PC Gamer.",
+            "url": ""
+        }
+    ]
+}
