@@ -1,0 +1,45 @@
+{
+    "title": "CrowdStrike explica apagão / Reddit bloqueia motores de busca / Brasil: ataque hacker afeta ministérios",
+    "fps": 30,
+    "timestamp": 1721917769,
+    "width": 0,
+    "height": 0,
+    "date": "25/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CrowdStrike fornece detalhes sobre causa do apagão cibernético ocorrido na semana passada: um bug no Content Validator, sistema que valida atualizações sobre novas ameaças, permitiu que um arquivo de 40 KB com “dados problemáticos” passasse pelos testes automáticos, realizando o deploy. A leitura do arquivo nas máquinas causou um vazamento de memória, ocasionando uma falha no sistema Windows. A CrowdStrike promete verificar atualizações de maneira mais rigorosa, incluindo testes em ambientes locais, de estresse e reversão. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Reddit decide bloquear motores de busca, com exceção do Google, por “uso indevido” do seu conteúdo: a plataforma atualizou seu arquivo “robots.txt”, devido ao aumento de tráfego em seu site por terceiros para o treinamento de IA. A decisão afeta serviços como Bing e DuckDuckGo, que podem exibir resultados incompletos ou desatualizados. Em fevereiro, o Google fechou um acordo de 60 milhões de dólares com o Reddit para utilizar seus dados no treinamento de modelos e exibir melhores resultados de buscas. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Ataque hacker afeta Sistema Eletrônico de Informações do governo utilizado por ministérios: o incidente também comprometeu algumas funcionalidades do Processo Eletrônico Nacional. Serviços oferecidos via GovBR não foram impactados. O SEI também é utilizado pela Casa da Moeda e pelo Conselho de Atividades Financeiras. Até o momento, não foi identificada nenhuma perda de dados. Equipes de TI estão trabalhando para restabelecer os serviços. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Supertempestade solar ocorrida em maio deste ano causou a maior “migração em massa” de satélites da história: o evento aumentou a densidade da atmosfera, fazendo com que os dispositivos perdessem altitude e acionassem seus propulsores simultaneamente, provocando chances de possíveis problemas, com os sistemas de prevenção de colisões tendo dificuldade em calcular as trajetórias alteradas dos satélites. As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "KnowBe4, empresa de treinamento em segurança cibernética, contrata por engano funcionário remoto de TI norte-coreano que se passava por cidadão dos EUA: o engenheiro de software utilizou credenciais roubadas e uma foto manipulada por IA, passando por verificações de antecedentes e quatro entrevistas de videoconferência. A fraude foi descoberta após uma detecção de malware, na qual o notebook do funcionário foi sinalizado. A KnowBe4 afirma que realizará avaliações mais rigorosas de identidade e treinará sua equipe para reconhecer sinais comuns desse tipo de ameaça. As informações são do site CyberScoop.",
+            "url": ""
+        },
+        {
+            "text": "Wiz, startup de cibersegurança, recusa proposta de aquisição pelo Google no valor de 23 bilhões de dólares: a empresa informa que continuará com sua meta de lançar uma Oferta Pública Inicial (IPO) e alcançar 1 bilhão de dólares em receita anual e recorrente. A escolha foi influenciada por preocupações com questões antitruste e potenciais impactos para investidores. A aquisição teria fortalecido a posição do Google na competição com a Microsoft no mercado de software de segurança. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 84% dos usuários de PC não estão dispostos a pagar mais caro por hardwares com capacidades de IA: apenas 7% dos 26 mil respondentes afirmam o contrário, enquanto 9% permanecem incertos, de acordo com dados da plataforma TechPowerUp. Recomenda-se que empresas de hardware reconsiderem as preferências de seu público-alvo. As informações são do site VideoCardz.",
+            "url": ""
+        }
+    ]
+}
