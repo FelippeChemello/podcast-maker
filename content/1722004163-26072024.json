@@ -1,0 +1,45 @@
+{
+    "title": "Falha crítica no Docker / Motor de busca da OpenAI / GitHub: distribuição massiva de malwares",
+    "fps": 30,
+    "timestamp": 1722004163,
+    "width": 0,
+    "height": 0,
+    "date": "26/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica no Docker Engine permite contornar plug-ins de autorização: a vulnerabilidade, rastreada como CVE-2024-41110, possibilita que invasores realizem uma solicitação via API com o campo “Content-Length” definido como “0”, fazendo com que o serviço encaminhe a solicitação sem corpo e seja aprovada incorretamente pelo AuthZ. A correção foi disponibilizada nas releases 23.0.14 e 27.1.0. A lista completa das builds afetadas está disponível no TabNews. Recomenda-se atualizar o Docker Engine imediatamente. As informações são do site The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia lançamento do seu próprio motor de busca: o SearchGPT retorna resultados em uma lista organizada e resumida, com links nomeados para melhor identificação da origem do conteúdo. Usuários também podem fazer perguntas relacionadas às respostas e acessar páginas relevantes a partir da barra lateral. Inicialmente, o recurso estará disponível apenas para 10 mil pessoas de forma gratuita, sem data prevista para lançamento global. Interessados podem se inscrever na lista de espera pelo site oficial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 3 mil contas falsas no GitHub estão sendo utilizadas para distribuição de malwares que roubam informações confidenciais: a estratégia do serviço Ghost Network, do grupo Stargazer Goblin, consiste em criar centenas de repositórios utilizando perfis “fantasmas” para hospedar arquivos protegidos por senha, que não podem ser escaneados por programas antivírus, sendo a primeira vez que uma rede em larga escala deste tipo é descoberta na plataforma. Usuários são aconselhados a serem cautelosos com download de arquivos em repositórios do GitHub. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Robôs humanoides da Tesla em breve ajudarão na produção de veículos elétricos: o Optimus será utilizado em operações internas a partir do próximo ano, sendo projetado para atividades inseguras, repetitivas e tediosas, com objetivo de reduzir os custos em toda a empresa. A produção em massa do robô para uso em outras companhias está prevista para 2026. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Mozilla indica que TikTok Lite expõe usuários a conteúdo prejudicial devido à falta de recursos de segurança: o aplicativo não possui algumas ferramentas presentes na versão original, como filtro de publicações ofensivas e controle de tempo de tela, além de não fornecer avisos ou banners para vídeos de pegadinhas perigosas, desinformações e conteúdos gerados por IA. A empresa responsável pelo TikTok se recusou a refutar as evidências apresentadas pela Mozilla. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft revela atualização do Bing com resultados de busca gerados por IA: o Generative Search utiliza modelos de linguagem grandes e pequenos que analisam milhões de fontes para fornecer dados precisos, juntamente com uma lista dos sites utilizados para gerar o conteúdo. Os resultados tradicionais continuarão sendo exibidos na lateral direita. A funcionalidade está disponível para um grupo restrito de usuários, com liberação gradual para mais pessoas nos próximos meses. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Versão gratuita do Google Gemini é atualizada para modelo Flash 1.5: a tecnologia é descrita como a mais rápida e versátil da empresa, com melhorias no raciocínio, compreensão de imagens e aprimoramentos gerais na qualidade e latência, além de uma janela de contexto de 32 mil tokens, permitindo conversas mais longas e complexas. O Gemini 1.5 Flash já está disponível para todos os usuários nas versões mobile e web. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
