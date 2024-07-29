@@ -1,0 +1,45 @@
+{
+    "title": "Sensação tátil na internet / Vulnerabilidade no WhatsApp / Brasil: TV aberta com padrão dos EUA",
+    "fps": 30,
+    "timestamp": 1722263424,
+    "width": 0,
+    "height": 0,
+    "date": "29/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Formato inédito de arquivo permitirá enviar sensações táteis pela internet da mesma forma que arquivos de vídeo: atualmente, são utilizados 4 mil pacotes de dados por segundo para transmitir feedbacks de toques, como em operações de braços robóticos, por exemplo. A nova solução, denominada “Haptic Codecs for the Tactile Internet” (HCTI), consegue reduzir essa taxa para apenas 100 pacotes, podendo transformar áreas como telemedicina, realidade virtual e controle remoto de dispositivos. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no WhatsApp para Windows permite execução de arquivos Python e PHP maliciosos sem aviso prévio: a falha foi relatada à Meta, mas a empresa alega que não considera isso um problema de sua responsabilidade e que não há planos para uma correção, apenas orientando usuários a não abrirem arquivos de fontes desconhecidas. A adição das extensões.pyz e .pyzw à lista de bloqueio do aplicativo poderia ajudar a prevenir possíveis explorações. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Emissoras recomendam adoção de padrão utilizado nos EUA para TV digital no Brasil: o ATSC 3.0 permitirá integração de serviços de internet (broadband) com transmissão tradicional de som e imagem (broadcast), possibilitando uso de aplicativos para interações e compras, por exemplo, além de poder quadruplicar a qualidade visual, especialmente para aparelhos que suportam resolução 8K. A implementação do padrão será gradual em todo o país, com previsão de operação a partir de 2025. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa revela que repositórios removidos do GitHub não são excluídos definitivamente: o método “ross Fork Object Referenc” permite que o fork de um repositório consiga acessar dados de outro, incluindo informações sensíveis como chaves de API, a partir de commits pendentes que permanecem na base de dados mesmo após a remoção de sua referência. Em resposta, o GitHub alega que o comportamento observado é intencional e documentado, não sendo uma falha. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Data centers poderão consumir cerca de 32% da energia total da Irlanda até 2026: atualmente, o país abriga 82 unidades, com 14 em construção e 40 planejadas para os próximos anos, consumindo 21% de sua capacidade energética e superando áreas urbanas (18%) e rurais (10%). Desde 2015, o uso de energia pelo setor aumentou de 290 para 1.661 (473%) gigawatts-hora. A Irlanda é considerada um importante pólo tecnológico para empresas globais. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Modelos do Google DeepMind conquistam medalha de prata em competição de matemática: AlphaProof e AlphaGeometry 2 conseguiram resolver quatro dos seis problemas apresentados, incluindo desafios em álgebra e geometria, na Olimpíada Internacional de Matemática (IMO), normalmente voltada para jovens talentos. A conquista é considerada algo inédito, pois geralmente os modelos de linguagem enfrentam dificuldades com cálculos complexos. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros criam jogo eletrônico para estudar funcionamento do cérebro humano: os participantes assumem o papel de um goleiro em uma disputa de pênaltis. Os resultados indicam que quando os erros dos jogadores são frequentes, o cérebro reage de maneira mais lenta após acertos, e quando as falhas são raras, o tempo de resposta é mais devagar após escolhas incorretas, sugerindo que o tempo de reação do cérebro não depende apenas das escolhas, mas também da previsibilidade da sequência de chutes. As informações são do site Olhar Digital.",
+            "url": ""
+        }
+    ]
+}
