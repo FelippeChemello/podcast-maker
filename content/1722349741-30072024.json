@@ -1,0 +1,45 @@
+{
+    "title": "Google: milhares afetados / Dano irreversível em CPUs da Intel / X na mira da ANPD",
+    "fps": 30,
+    "timestamp": 1722349741,
+    "width": 0,
+    "height": 0,
+    "date": "30/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers exploram falha no Google Workspace e afetam “algumas milhares” de contas, segundo a empresa: a vulnerabilidade permite que invasores utilizem endereços de e-mail de outras pessoas para registrar e verificar contas, conseguindo se passar por empresas e acessar serviços de terceiros que usam a opção “Sign in with Google” para autenticação. Engenheiros corrigiram a falha dentro de 72 horas após sua descoberta, afirmando que sua exploração começou no final de junho, embora sugira-se que a vulnerabilidade estivesse presente há mais tempo. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Intel afirma que patch de correção para travamentos em CPUs de 13ª e 14ª geração para desktop não irá reverter danos causados: os processadores podem apresentar instabilidade devido à exposição a tensões elevadas. A correção será disponibilizada em meados de agosto via atualização da BIOS, abordando a raiz do problema. No entanto, qualquer degradação já sofrida pela CPU é irreversível, com a substituição sendo a única solução viável. A empresa não realizará um recall desses componentes, não interromperá as vendas e nem retirará o inventário existente do mercado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados investiga rede social X por treinar modelos de linguagem com posts de usuários: a configuração foi ativada por padrão e de forma discreta pela plataforma, e só pode ser desativada na versão para navegador. A ANPD ainda não tomou uma decisão final sobre o caso da X Corp. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Minerador de Bitcoin consegue recompensa de 6,25 BTC (206 mil dólares) utilizando equipamento do tamanho da palma da mão: o Bitaxe é um circuito integrado de aplicação específica (ASIC, na sigla em inglês) de código aberto, com capacidade de 500 gigahashes por segundo de processamento. Em comparação, a rede Bitcoin opera em 552,4 exahashes por segundo. Portanto, a probabilidade de minerar um bloco com o equipamento seria de 1 em 1,1 bilhão a cada dez minutos, podendo levar mais de 20 mil anos para obter sucesso. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Xiaomi revela carro elétrico hiperesportivo projetado para ser o veículo de 4 portas mais rápido do mundo: o SU7 Ultra possui 1548 cavalos de potência, permitindo uma aceleração de 0 a 100 km/h em aproximadamente 2 segundos e uma velocidade máxima de 350 km/h. Estima-se que sua bateria possa ser carregada completamente em apenas 12 minutos ao utilizar um carregador de 897 V, sendo capaz de fornecer mais de 800 kW de potência mesmo com apenas 20% de carga. Informações sobre preço e disponibilidade ainda não foram divulgadas. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Governo da Malásia planeja implementar “interruptor de desligamento da internet”: a estratégia é parte de um esforço para melhorar a segurança digital, embora ainda não haja detalhes sobre o que será bloqueado ou em quais circunstâncias isso será permitido. O país deseja que as plataformas de mídia social e serviços de mensagens assumam mais responsabilidade pelo papel de seus produtos em crimes e fraudes online. Além disso, redes com oito milhões ou mais de usuários registrados na Malásia deverão solicitar uma licença ou enfrentar ações legais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que prática de GPS Spoofing teve aumento de 400% nos últimos meses, com impacto na segurança de voos: a técnica envolve o uso de sistemas e dispositivos que emitem sinais falsos para enganar aparelhos sobre a localização atual. O número de voos afetados subiu de uma média diária de 200 entre janeiro e março para cerca de 900 no segundo trimestre de 2024, com picos de até 1350. Um grupo de trabalho foi estabelecido para discutir o problema e produzir relatórios, com objetivo de  propor soluções e aumentar a conscientização sobre os riscos de segurança. As informações são do site OPSGROUP.",
+            "url": ""
+        }
+    ]
+}
