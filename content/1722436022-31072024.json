@@ -1,0 +1,45 @@
+{
+    "title": "Roubo massivo de SMS / Supercomputador e LLM brasileiros / Qualcomm: 5G mais acessível",
+    "fps": 30,
+    "timestamp": 1722436022,
+    "width": 0,
+    "height": 0,
+    "date": "31/07/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Campanha massiva de roubo de SMS infecta dispositivos Android em mais de 100 países: o malware é distribuído por páginas falsas da Play Store ou bots do Telegram, que automatizam a comunicação com as vítimas, prometendo aplicativos pirateados e solicitando o número de telefone para compartilhar um arquivo APK que rouba senhas de autenticação de dois fatores enviadas via SMS de mais de 600 serviços. O Brasil está entre os países afetados. Recomenda-se evitar o download de programas fora da loja oficial e garantir que o Play Protect esteja ativo no dispositivo. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Governo federal quer construção de supercomputador e modelos de linguagem adaptados ao país: a máquina, supostamente batizada de Santos Dumont, é projetada para ser uma das cinco mais potentes do mundo, com capacidade de 17 petaflops por segundo. O plano também inclui o desenvolvimento de modelos que compreendam e reflitam as características culturais e sociais brasileiras. Ao todo, o investimento será de 23 bilhões de reais até 2028. As informações são dos sites Canaltech e Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm anuncia processador para celulares de entrada que visa tornar 5G mais acessível globalmente: o Snapdragon 4s Gen 2 poderá proporcionar velocidades de até 1 Gbps para 2,8 bilhões de usuários em regiões selecionadas. Além disso, o componente promete uma eficiência energética robusta para maior duração da bateria, capacidades avançadas de câmera e desempenho aprimorado para multitarefas. A Xiaomi será a primeira a adotar a tecnologia, com o primeiro dispositivo previsto para ser lançado antes do final deste ano. As informações são do site da Qualcomm.",
+            "url": ""
+        },
+        {
+            "text": "“Celular mais chato do mundo” é homologado pela Anatel: o Boring Phone faz parte de uma campanha de marketing da Heineken, que visa incentivar as pessoas a evitarem o uso de smartphones em ambientes sociais. O dispositivo possui um visual retrô, câmera de 0,3 megapixel e funções básicas como chamadas, envio de SMS, alarme e lanterna, além de conectividade 4G, Bluetooth e dois slots para SIM cards, sem incluir aplicativos populares como WhatsApp. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Patente da Apple propõe substituir espelhos retrovisores de carros por câmeras: as imagens seriam projetadas diretamente no para-brisa. As vantagens desta tecnologia incluem a redução do arrasto, melhorando a eficiência de combustível e autonomia do veículo, ângulos de visão mais amplos, eliminando ou reduzindo pontos cegos, e melhor visibilidade em condições climáticas adversas, como chuva ou ao dirigir à noite. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Escassez de GPUs no mercado força Dataprev, estatal de TI do governo, a remodelar licitação: a empresa precisou modificar três vezes o prazo de entrega dos componentes, inicialmente estipulado em 40 dias e posteriormente estendido para 100, o qual fornecedores não conseguiram atender. Devido ao aumento na demanda por processamento de dados, a disponibilidade de GPUs no mercado tem se tornado um desafio, especialmente para sistemas de alto desempenho. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Robert Kennedy Jr., candidato presidencial dos EUA, afirma que faria governo comprar 615 bilhões de dólares em Bitcoin: a ideia é corresponder ao valor das reservas de ouro do país, que somam 8.134 toneladas. Para atingir esse montante, seria necessário comprar aproximadamente 9,4 milhões de BTC ao preço atual, representando quase 45% do total de Bitcoin que ainda existirá. A estratégia faria dos EUA o maior detentor do mundo da moeda digital. As informações são do site Decrypt.",
+            "url": ""
+        }
+    ]
+}
