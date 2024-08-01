@@ -1,0 +1,49 @@
+{
+    "title": "\"Mouse eterno\" da Logitech / W3C critica Google / Chaves de acesso superando senhas",
+    "fps": 30,
+    "timestamp": 1722522622,
+    "width": 0,
+    "height": 0,
+    "date": "01/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Logitech propõe conceito de “mouse eterno” que nunca precisará ser substituído: o dispositivo seria projetado com materiais de alta qualidade e durabilidade, recebendo correções e recursos por meio de atualizações de firmware. A empresa considera a possibilidade de uma assinatura paga, mas sem fornecer detalhes adicionais. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "W3C critica Google por manter cookies de terceiros no Chrome: segundo a organização, a decisão vai contra os esforços colaborativos para desenvolver tecnologias de anúncios focadas em privacidade, reforçando que esses tipos de cookies podem ser utilizados para fins de vigilância ou direcionamento de anúncios. O W3C espera que o Google reverta sua decisão e se comprometa novamente a melhorar a privacidade na web. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Dashlane, empresa de gerenciamento de senhas, relata aumento de 400% no uso de chaves de acesso desde o início de 2024: atualmente, 1 em cada 5 usuários ativos da plataforma possui pelo menos uma passkey, com mais de 100 sites oferecendo suporte à tecnologia. Setores de e-commerce, como Amazon e eBay, representam 42% desse tipo de autenticação. Estima-se que, em média, as pessoas abandonam compras e tentativas de login por senha tradicional quase quatro vezes por mês, um aumento de 15% entre 2022 e 2023. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Brasil enfrenta desafios para reter 90% dos alunos em cursos de tecnologia: de acordo com dados do Censo Escolar de 2022, foram oferecidas 2,3 milhões de vagas nas áreas de computação e TICs no país, mas apenas 595 mil resultaram em matrículas, e somente 61,7 mil alunos chegaram ao final. Acredita-se que ensinar tecnologia desde cedo pode formar profissionais mais bem posicionados no mercado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia digitaliza 42 milhões de documentos de veículos em plataforma de blockchain: a ação visa combater fraudes e permitir que residentes acessem ou transfiram os títulos de seus carros em minutos. É a primeira vez que um estado dos EUA implementa uma medida desse tipo. A próxima etapa é criar um aplicativo e uma carteira digital para que os usuários possam acessar seus títulos de forma mais conveniente, com previsão de disponibilização para o início de 2025. A tecnologia pode se expandir para outras áreas, como hipotecas e certidões de nascimento. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Grupo de ransomware recebe maior pagamento de resgate já registrado: o Dark Angels recebeu um montante de 75 milhões de dólares de uma empresa anônima do Fortune 50, para recuperar o controle de seus sistemas. O valor é quase o dobro do recorde anterior, de 40 milhões, pago pela seguradora CNA ao Evil Corp. Em setembro de 2023, o Dark Angels havia exigido um resgate de 51 milhões, mas sem sucesso. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia melhorias para Google Maps e Waze, tornando-os cada vez mais idênticos: o Maps permitirá relatar incidentes, como fechamentos de estrada e presença policial, de maneira mais fácil, com ícones maiores, e passará a identificar entradas de prédios, destacando-as em verde. O Waze permitirá relatar diferentes tipos de câmera de trânsito, como as que verificam se o motorista está dirigindo em faixas de ônibus, utilizando celular ou usando cinto de segurança. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Correção: n a edição de ontem, noticiamos que o governo planejava a construção de um supercomputador brasileiro chamado Santos Dumont. Contudo, a máquina já existe, e a proposta, na verdade, visa aprimorá-la. Além disso, mencionamos que sua capacidade de processamento era de 17 petaflops por segundo, mas o termo “or segund” é redundante, uma vez que FLOPS é uma sigla para “loating-point operations per secon”. Agradecemos aos leitores Rafael e Venilson pelos avisos e colaboração com a nossa Newsletter.",
+            "url": ""
+        }
+    ]
+}
