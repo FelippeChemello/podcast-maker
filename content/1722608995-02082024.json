@@ -1,0 +1,45 @@
+{
+    "title": "Devs: 80% insatisfeitos / “IA” prejudica vendas / Disrupção no Marketing Digital",
+    "fps": 30,
+    "timestamp": 1722608995,
+    "width": 0,
+    "height": 0,
+    "date": "02/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa anual do Stack Overflow indica que 80% dos desenvolvedores estão insatisfeitos com seus empregos: mais de 65 mil profissionais de 185 países foram entrevistados. Um em cada três afirmou estar infeliz com o seu trabalho, enquanto quase metade relata estar desmotivada (o termo em inglês é “omplacent at wor”). A dívida técnica foi apontada como a principal causa, junto com a pressão para cumprir prazos, reuniões intermináveis, demandas irrealistas e um esforço dos empregadores em trazer os funcionários de volta ao escritório. Apesar disso, 68% dos devs programam por hobby, e cerca de 40% para o desenvolvimento profissional, indicando que a codificação em si não é o problema. As informações são do site ShiftMag.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que uso do termo “inteligência artificial” reduz intenção de compra dos consumidores: o experimento foi realizado com mais de mil participantes. Produtos descritos como utilizando IA eram menos populares e diminuíam a confiança das pessoas, principalmente aqueles considerados de alto risco, como eletrônicos caros e dispositivos médicos. Sugere-se que empresas avaliem cuidadosamente como apresentam a tecnologia em suas descrições de produtos. As informações são do site WSU Insider.",
+            "url": ""
+        },
+        {
+            "text": "Estratégias de marketing digital envolvendo cliques e atribuições estão em queda, segundo artigo: redes sociais, como LinkedIn, Facebook e Instagram, estão cada vez mais interessadas em manter os usuários dentro de suas plataformas, penalizando links externos. Além disso, mudanças como remoção de cookies de terceiros em navegadores, leis de privacidade e adoção massiva de bloqueadores de anúncios, tornam o rastreamento de usuários praticamente impossível. A marca de arroz Acquerello é vista como um exemplo de sucesso, usando táticas como programas de afiliados, campanhas de boca a boca e parcerias com chefs e eventos, sinalizando que o marketing em 2024 deve apontar para audiência, momentos e lugares certos, semelhante às práticas do século XX. As informações são do site SparkToro.",
+            "url": ""
+        },
+        {
+            "text": "Ex-engenheiro do Google critica estado atual do desenvolvimento de softwares: para Avery Pennarun, desenvolvedores estão excessivamente preocupados com escalabilidade e complexidade desnecessárias, levando a um pensamento ilusório de que todos os sistemas precisam se expandir indefinidamente para lidar com demandas muitas vezes inexistentes, deixando programadores “atolados” em trabalhos extras e desnecessários. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Vendas de consoles Xbox Series X/S apresentam queda de 42%: estima-se que menos de 900 mil unidades foram comercializadas no trimestre encerrado em março, em contraste com as 4,5 milhões de unidades PS5 distribuídas no mesmo período. Por outro lado, a receita de conteúdo e serviços de jogos da Microsoft teve um aumento de 61%. A Microsoft está focando no serviço de assinatura Game Pass para sustentar os negócios do Xbox, sinalizando que o hardware físico possa se tornar uma peça menos central para a marca no futuro. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Claude, assistente virtual da Anthropic, é lançado no Brasil: o modelo é baseado na tecnologia mais recente da empresa, 3.5 Sonnet, podendo ser utilizado para tradução de conteúdos, redações, programação e revisão de código, e interpretação de imagens e gráficos. O Claude já está disponível via aplicativo para iOS e Android, pelo site Claude.ai e via API da Anthropic para desenvolvedores. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft decide remover anúncios do Skype após feedback negativo dos usuários: a mudança visa aprimorar a experiência de uso da plataforma, tornando-a menos distrativa. Além disso, espera-se que a empresa também leve em conta as críticas relacionadas aos anúncios no Windows, que têm sido considerados intrusivos por algumas pessoas. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
