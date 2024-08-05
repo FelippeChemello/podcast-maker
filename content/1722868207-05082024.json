@@ -1,0 +1,45 @@
+{
+    "title": "Windows: “plataforma mais frágil” / 2º implante da Neuralink / Intel: +15 mil demissões",
+    "fps": 30,
+    "timestamp": 1722868207,
+    "width": 0,
+    "height": 0,
+    "date": "05/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da Delta Airlines descreve Windows como “provavelmente a plataforma mais frágil”, em resposta ao apagão cibernético da CrowdStrike: a companhia registrou um prejuízo de 500 milhões de dólares em apenas cinco dias, e precisou reiniciar mais de 40 mil servidores fisicamente. Ed Bastian fez uma comparação com a Apple, questionando “quando foi a última vez que se ouviu falar de uma grande indisponibilidade” nos sistemas da empresa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Neuralink realiza implantação de chip cerebral em segundo paciente: o dispositivo visa ajudar pessoas com lesões na medula espinhal. A primeira pessoa a receber o implante conseguiu jogar videogames, navegar na internet, postar nas redes sociais e mover o cursor do computador usando apenas o pensamento. O segundo paciente já está com 400 dos 1.024 eletrodos funcionando. A Neuralink planeja realizar o procedimento em mais oito indivíduos ainda este ano, como parte dos ensaios clínicos. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia que planeja demitir mais de 15 mil funcionários ao redor do mundo até o final deste ano: atualmente, a empresa conta com mais de 125 mil profissionais. O plano é economizar 10 bilhões de dólares em 2025, incluindo redução de gastos com pesquisa e desenvolvimento, marketing e despesas de capital em mais de 20% neste ano. No segundo trimestre de 2024, a Intel havia reportado uma perda de 1,6 bilhão de dólares, com a maior parte vindo da divisão de fabricação de chips. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "StackExchange, plataforma de perguntas e respostas, é utilizada para promover pacotes Python maliciosos: invasores estão criando contas no site e deixando comentários em threads populares com links para arquivos do repositório PyPi, contendo scripts que roubam dados sensíveis de navegadores, aplicativos de mensagens, como Telegram e Signal, e carteiras de moedas digitais. Embora os pacotes já tenham sido removidos do repositório, eles foram baixados mais de 2 mil vezes. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI decide não implementar marca d’água em textos gerados pelo ChatGPT por receio de usuários deixarem de utilizá-lo: a empresa já havia desenvolvido um sistema com essa finalidade há cerca de um ano, que ajusta a maneira como o modelo prevê as palavras para criar um padrão detectável, sem afetar a qualidade do conteúdo. Contudo, 30% dos usuários afirmam que usariam menos a tecnologia caso a funcionalidade fosse implementada. A OpenAI está explorando métodos alternativos, como a incorporação de metadados criptograficamente assinados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "RomHacking, principal plataforma de modificações de arquivos ROM, anuncia encerramento após 20 anos de atividade: o site era referência para entusiastas que desejavam modificar jogos clássicos com versões alternativas, remakes, traduções e experimentos. Projetos notáveis hospedados no site incluem Star Fox rodando a 60 fps e Super Mario Land 2 em cores. O banco de dados da plataforma, com exceção das contas e perfis de usuários, foi transferido para o Internet Archive. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Netflix disponibiliza código-fonte de sua ferramenta interna para gerenciamento e visualização de fluxos de dados: o Maestro é utilizado por analistas, cientistas de dados e gerentes de negócios da empresa, capaz de completar até 2 milhões de tarefas em um único dia, sendo construído com várias tecnologias de código aberto, como Git e Java, podendo ser acionado via cURL e permitindo empacotar lógicas de negócios em imagens Docker, scripts bash, SQL e Python, gerando informações em formato JSON. Mais detalhes estão disponíveis no repositório “Netflix/maestro” do GitHub. As informações são do site The New Stack.",
+            "url": ""
+        }
+    ]
+}
