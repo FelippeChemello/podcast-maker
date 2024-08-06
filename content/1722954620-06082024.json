@@ -1,0 +1,45 @@
+{
+    "title": "Google acusado de monopólio / Falha no Microsoft Authenticator / Playground de LLMs no GitHub",
+    "fps": 30,
+    "timestamp": 1722954620,
+    "width": 0,
+    "height": 0,
+    "date": "06/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Justiça dos EUA declara que Google manteve monopólio ilegal nas buscas: o processo alega que a empresa sustentou sua posição dominante no mercado ao pagar bilhões de dólares para companhias, como Apple, Samsung e Mozilla, a fim de ser o motor de busca padrão em dispositivos e navegadores, impedindo concorrentes de atingirem uma escala necessária para competir. O Google argumenta que sua grande participação está ligada à qualidade de seus produtos, preferidos pelos consumidores, e ainda poderá recorrer da decisão. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Falha no Microsoft Authenticator pode inutilizar contas de usuários ao utilizar QR code para registrar novos acessos: o aplicativo sobrescreve registros que apresentam o mesmo username, que geralmente é o endereço de e-mail. A Microsoft reconhece a falha, mas classifica como uma característica, não um bug, argumentando que os usuários recebem uma mensagem de aviso antes de qualquer ação que possa sobrescrever as configurações da conta, mas afirma que pode considerar resolver o problema em futuras atualizações. As informações são do site CSO Online.",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia plataforma gratuita para desenvolvedores experimentarem diversos modelos de linguagem: o Models disponibiliza tecnologias como GPT-4o da OpenAI, Phi 3 da Microsoft e Llama 3.1 da Meta, com adições previstas para os próximos meses. A empresa garante que nenhum prompt ou saída será compartilhado com os provedores dos modelos, e os dados não serão utilizados para treiná-los. Interessados podem se inscrever no site oficial para testar a ferramenta. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "DARPA, agência do Departamento de Defesa dos EUA, planeja converter código legado em C para Rust: a ideia é usar aprendizado de máquina para realizar a transição, utilizando um sistema chamado TRACTOR, ainda em desenvolvimento, com o objetivo de melhorar a segurança e gerenciamento de memória dos softwares, considerando que a maioria das vulnerabilidades em grandes bases de código são causadas por bugs nessa área. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Hackers comprometem sistema de atualização automática de software e infectam dispositivos Mac e Windows: o grupo StormBamboo explorou protocolos inseguros, como HTTP, para alterar respostas de consultas DNS de um provedor de internet, inserindo malwares de backdoor nas máquinas e instalando extensões maliciosas no Chrome, que fazem o navegador enviar cookies e informações sensíveis a servidores de terceiros. O caso ressalta os riscos associados ao uso de protocolos inseguros em requisições de rede, especialmente em infraestruturas críticas. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Apple Intelligence apresenta dificuldades para diferenciar e-mails legítimos de phishing: a tecnologia está marcando mensagens de conteúdo malicioso como prioritárias, sugerindo que sua categorização pode estar sendo feita apenas com base no texto, sem considerar o remetente, por exemplo, o que pode levar usuários desavisados a tomar ações precipitadas e tornarem-se vítimas de golpes. O Apple Intelligence está disponível somente em inglês na versão beta do iOS 18.1. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 ultrapassa 30% de participação global de mercado pela primeira vez desde seu lançamento: o índice é do mês de julho. Em comparação, o sistema estava com 23,6% no mesmo período do ano passado. No Brasil, sua participação é de quase 32%. O Windows 10 caiu de 71,1% para 64,9%. As informações são dos sites Neowin e Statcounter.",
+            "url": ""
+        }
+    ]
+}
