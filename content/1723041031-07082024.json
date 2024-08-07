@@ -1,0 +1,45 @@
+{
+    "title": "Fim do Chromecast / OpenAI perde cofundador / Youtube: anúncios menos intrusivos",
+    "fps": 30,
+    "timestamp": 1723041031,
+    "width": 0,
+    "height": 0,
+    "date": "07/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google encerra produção do Chromecast: o dispositivo foi lançado em julho de 2013, permitindo transmitir conteúdos de smartphones para TVs. Os modelos atuais continuarão disponíveis até que os estoques sejam esgotados, e atualizações de software continuarão sendo fornecidas. O Chromecast será substituído pelo TV Streamer, com lançamento previsto para setembro por 99 dólares, ainda sem disponibilidade no Brasil. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "John Schulman, cofundador da OpenAI, anuncia saída da empresa para juntar-se à Anthropic: o profissional era responsável por liderar a equipe responsável pelo refinamento dos modelos de linguagem, além de orientar sobre tecnologias que poderiam apresentar ameaças no futuro. Schulman afirma que deseja focar “mais profundamente no alinhamento de IAs” e retornar ao “trabalho técnico prático”. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "YouTube está testando formato de anúncios menos intrusivos durante transmissões ao vivo: a ideia é que as propagandas sejam exibidas em uma pequena janela ao lado do vídeo, sem interromper a reprodução. Criadores de conteúdo poderão selecionar essa modalidade nas configurações de monetização de seus canais e defini-la como padrão. Especula-se que isso possa reduzir o uso de bloqueadores de anúncios. O teste será implementado nos próximos meses para usuários e dispositivos selecionados. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia raspa cerca de 80 anos de conteúdo de vídeo por dia para treinar seus modelos: a empresa coleta dados de plataformas como YouTube e Netflix, usando máquinas virtuais da AWS com IP rotativo para evitar detecção e possíveis bloqueios. Para contornar restrições de direitos autorais, a companhia utiliza registros marcados para uso acadêmico ou não comercial. O YouTube declara que a prática de raspagem de vídeos para treinamento de modelos viola suas barreiras técnicas e regulatórias. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Apple afirma que não há valor que Microsoft possa oferecer para substituir Google pelo Bing como motor de busca padrão no Safari: para a empresa, a ferramenta possui baixa qualidade de pesquisa e capacidade inferior de monetização. Satya Nadella, CEO da Microsoft, propôs pagar até 15 bilhões de dólares por ano e dividir 100% de sua receita do Bing com a Apple, que rejeitou a proposta, ressaltando que o Google “é o melhor mecanismo de busca”. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que sistemas macOS possuem lacunas significativas de segurança em comparação com Windows e Linux: mais de 130 milhões de simulações de ciberataques foram utilizadas para avaliar a eficácia dos sistemas, com o macOS prevenindo apenas 23% deles, em contraste com os 62% e 65% do Windows e Linux, respectivamente. Estima-se um aumento de 50% de malwares direcionados a Macs desde o início de 2023, devido à crescente adoção do sistema em ambientes de trabalho. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Brasil é o segundo país mais afetado por roubo online de cartões, segundo estudo da NordVPN: a empresa analisou mais de 600 mil dados roubados à venda em canais de hackers no Telegram, incluindo o tipo de malware utilizado e a região onde o incidente ocorreu. O “eadlin” foi identificado como o malware mais difundido, sendo distribuído por e-mails de phishing, anúncios enganosos e entradas USB comprometidas. Os EUA ficaram em primeiro lugar no índice. As informações são do site InfoMoney.",
+            "url": ""
+        }
+    ]
+}
