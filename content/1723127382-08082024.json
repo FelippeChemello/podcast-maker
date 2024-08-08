@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica: Dev BR e Stripe / Outlook burlado com CSS / Paywall no Reddit",
+    "fps": 30,
+    "timestamp": 1723127382,
+    "width": 0,
+    "height": 0,
+    "date": "08/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Dev brasileiro relata controvérsia com plataforma de pagamentos Stripe, que se recusou a pagar mais de 100 mil dólares pelas vendas do aplicativo NotchNook: o software, desenvolvido por Igor Marcossi e disponível para macOS, rendeu o montante em apenas 7 dias. A plataforma havia decidido suspender os pagamentos, alegando que não estava ciente da origem do dinheiro e fechando a conta sem aviso prévio. Em seu perfil no X, Marcossi explica que após a controvérsia gerada na internet, a Stripe solicitou fotos de sua identidade e rosto, e informou que o pagamento seria realizado nos próximos dias. As informações são do site iMore.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no Outlook permite burlar verificações de phishing com código CSS: a falha está relacionada ao “irst Contact Safety Ti”, que alerta usuários ao receberem e-mails de remetentes desconhecidos, sendo possível ocultar o aviso com códigos de estilização embutidos na mensagem. Além disso, pode-se utilizar HTML para falsificar ícones que o Outlook adiciona em e-mails criptografados e assinados, fazendo-os parecer seguros. A Microsoft está ciente do problema, mas optou por não corrigi-lo de imediato. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Reddit revela planos de fornecer acesso a conteúdos pagos na plataforma: a ideia faz parte de uma estratégia para aumentar as receitas, que também inclui a possibilidade de inserir anúncios em áreas atualmente sem publicidade, como páginas de conversação e comentários. O relatório de ganhos do Reddit para o segundo trimestre de 2024 revelou uma perda de 10,1 milhões de dólares, uma melhoria em relação aos 41,1 milhões no mesmo período do ano passado. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que Intel teve oportunidade de investir na OpenAI há sete anos, mas decidiu não prosseguir: na época, a startup era uma organização sem fins lucrativos. As negociações incluíam a aquisição de uma participação de 15% da OpenAI por 1 bilhão de dólares. Bob Swan, CEO da Intel até então, não acreditava que os modelos de linguagem chegariam ao mercado em breve e que o investimento seria rentável. Atualmente, a OpenAI está avaliada em cerca de 80 bilhões de dólares. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador de segurança mostra como é possível contornar medidas de proteção do Windows 10 e 11 para realizar downgrades permanentes: a ferramenta “Windows Downdate”, criada por Alon Leviev, permite reverter DLLs, drivers e o kernel do sistema, que após as alterações, reporta estar totalmente atualizado. Contudo, exige que o usuário tenha acesso físico à máquina. A Microsoft foi informada sobre a vulnerabilidade e está rastreando-a como “VE-2024-2130” e “VE-2024-3820”. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Televisões de LCD com bordas finas têm mais chances de estragar, segundo testes: ao simular o uso prolongado de 10 mil horas, 64% dos dispositivos edge-lit apresentaram problemas na iluminação, rachaduras no painel refletor e LEDs queimados, devido à sua dissipação de calor menos eficiente, em contraste com apenas 20% das TVs com direct-lit e FALD. Estima-se que 10 mil horas seja o tempo médio que um cidadão norte-americano passa em frente à televisão em 6 anos. No Brasil, o número fica em cerca de 11 mil, no mesmo período. As informações são dos sites Ars Technica e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Satélites de baixa órbita utilizados em serviços de telefone podem aumentar poluição luminosa, segundo estudo: estima-se que os dispositivos Direct to Cell (DTC) da Starlink, por exemplo, são, em média, 4,9 vezes mais brilhantes do que outros modelos da empresa, o que pode afetar a observação do céu noturno, prejudicando especialmente os astrônomos. Em 2023, o satélite BlueWalker 3 da AST SpaceMobile foi reportado como o objeto mais brilhante visível no céu à noite. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
