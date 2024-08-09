@@ -1,0 +1,45 @@
+{
+    "title": "5G: falha de segurança / Monetização no Chrome / Brasil: proteção de e-mails no Android e iOS",
+    "fps": 30,
+    "timestamp": 1723213824,
+    "width": 0,
+    "height": 0,
+    "date": "09/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha de segurança em basebands 5G permite que hackers espionem usuários de celulares sem serem detectados: esses componentes são responsáveis pela conexão dos dispositivos às redes móveis. A vulnerabilidade foi identificada nos modelos fabricados pela Samsung, MediaTek e Qualcomm. Em testes, pesquisadores conseguiram conectar smartphones vulneráveis a uma torre falsa, permitindo o envio de mensagens de phishing e redirecionamento para sites onde a vítima poderia ser induzida a fornecer suas credenciais em páginas enganosas de login. A Samsung já liberou patches de software para os celulares afetados. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Chrome permitirá que proprietários de sites recebam micropagamentos diretamente dos visitantes: o Web Monetization eliminaria a necessidade de anúncios ou assinaturas. Usuários poderão configurar carteiras digitais para efetuar pagamentos, e terão controle total sobre o processo, podendo escolher quais páginas desejam apoiar e quanto desejam pagar. Os sites precisarão incluir um elemento HTML em sua URL para indicar suporte ao recurso. Ainda não há previsão de lançamento. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Justiça solicita que Apple e Google implementem camada adicional de proteção por senha ou biometria em aplicativos de e-mail no iOS e Android: a medida visa aumentar a segurança das contas em casos de furtos ou roubos de celulares, onde criminosos tentam recuperar credenciais de aplicativos bancários utilizando o e-mail da vítima pela opção “esqueci minha senha”. Ainda não há confirmação de que as empresas implementarão essas mudanças. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic anuncia programa de recompensas de até 15 mil dólares para usuários que identificarem vulnerabilidades em seus modelos: o objetivo é aproveitar o conhecimento da comunidade para aprimorar a segurança das tecnologias, focando na identificação de “niversal jailbreak”, que são métodos capazes de contornar as medidas de segurança em áreas de alto risco, como ameaças químicas, biológicas, radiológicas, nucleares e de cibersegurança. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que criadores de conteúdo estão se afastando de plataformas tradicionais, como Instagram e TikTok, em busca de alternativas descentralizadas: a confiança nas grandes redes sociais tem diminuído devido a fatores como queda na receita e mudanças nas regras de publicidade. Em resposta, criadores estão explorando plataformas baseadas em blockchain, com sistemas de recompensas em moedas digitais. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Aumento no uso de dispositivos móveis e IoT também eleva riscos de segurança, segundo estudo: de acordo com 600 profissionais responsáveis pela gestão desses aparelhos, 95% das organizações os utilizam em áreas como saúde, energia e utilidades. Contudo, 53% dos operadores de infraestruturas críticas relatam ter enfrentado incidentes com deepfakes e phishing por SMS, resultando em perdas de dados e paralisações dos sistemas. Em resposta, 84% das empresas afirmam ter aumentado seus investimentos na segurança desses dispositivos. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI libera DALL-E 3 na versão gratuita do ChatGPT: o modelo é capaz de criar imagens a partir de textos em linguagem natural. O chatbot também poderá auxiliar na escrita dos prompts, entendendo as intenções dos usuários e formulando descrições mais detalhadas para facilitar o processo. Na versão gratuita, o limite será de 2 imagens por dia. A liberação está ocorrendo de forma gradual. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
