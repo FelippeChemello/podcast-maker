@@ -1,0 +1,45 @@
+{
+    "title": "Spam em pacotes npm / AMD: falha crítica em CPUs / Softwares \"afogados\" em dívidas de segurança",
+    "fps": 30,
+    "timestamp": 1723473132,
+    "width": 0,
+    "height": 0,
+    "date": "12/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa indica que cerca de 70% dos mais de 890 mil pacotes npm publicados nos últimos 6 meses são considerados spam: a maioria deles está relacionada ao protocolo Tea, criado para recompensar financeiramente contribuições a projetos de código aberto, onde indivíduos buscam remunerações sem oferecer colaborações relevantes. Embora os pacotes não contenham malware, eles poluem o repositório, dificultando a identificação de ameaças reais, além de introduzirem inúmeras dependências indesejadas ao serem instalados. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade de segurança afeta processadores da AMD lançados desde 2006: a falha conhecida como “Sinkclose” permite que invasores executem códigos em uma área altamente privilegiada do processador, conhecida como “System Management Mode” (SMM), fazendo com que o malware permaneça escondido de forma que programas de antivírus e reinstalações do sistema não consigam detectá-lo ou removê-lo. A AMD afirma que irá disponibilizar patches para os processadores afetados, mas nem todos os modelos serão abrangidos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Softwares estão “se afogando” em dívidas de segurança, segundo relatório: com base em cerca de 13 milhões de varreduras de código em 1 milhão de aplicativos, cerca de 42% dos programas apresentam falhas que não são corrigidas há mais de um ano. Tecnologias como Visual Basic 6, Perl e COBOL são citadas como as mais propensas a problemas, da mesma forma que componentes de código aberto com poucos contribuidores. Recomenda-se que devs integrem a segurança ao ciclo de vida do desenvolvimento de softwares, realizando varreduras para detectar ameaças e atualizando suas aplicações com frequência. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Alteração de apenas uma linha no kernel do Linux reduziu tempo de inicialização do sistema em 35 milissegundos: a modificação foi feita no código responsável pelo ACPI (Advanced Configuration and Power Interface), ativando a opção “SLAB_HWCACHE_ALIGN”, que otimiza o uso de memória durante o boot. Embora a melhoria possa parecer insignificante para usuários comuns, ela pode ser crucial para data centers e servidores que utilizam Linux e precisam operar indefinidamente. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Crescimento da computação em nuvem pode aumentar ocupação de hyperscalers em mais de 60% até 2029: empresas como Amazon e Microsoft têm visto um grande aumento em sua demanda nos últimos anos, impulsionado por serviços de redes sociais, e-commerce e jogos online. Em 2023, os hyperscalers já representavam 41% da capacidade total dos data centers globais, especialmente pela crescente adoção da inteligência artificial, por estarem melhor equipados para gerenciar operações em grande escala. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla afirma estar comprometida em revitalizar o Firefox após perder terreno para Chrome e Safari: Laura Chambers, CEO da empresa, reconhece que a mesma desviou o foco do navegador nos últimos anos, mas está concentrada em implementar melhorias futuras, como abas verticais, agrupamento de guias e instalação de sites como aplicativos de desktop. Atualmente, o Firefox detém apenas 2,7% do mercado, em comparação com seu auge de 31% em 2010. As informações são do site Fast Company.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI afirma que modelo GPT-4o apresenta risco de nível médio: antes do lançamento, a empresa contratou um grupo externo de especialistas em segurança para identificar possíveis ameaças, como a criação de clones de voz não autorizados, geração de conteúdo inapropriado e reprodução de áudio protegido por direitos autorais. A avaliação final foi realizada com base em quatro categorias distintas, sendo elas cibersegurança, ameaças biológicas, autonomia e persuasão, sendo esta a que apresentou o risco mais elevado. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
