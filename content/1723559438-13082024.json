@@ -1,0 +1,45 @@
+{
+    "title": "“Dark data” na nuvem / Microfone hacker espia notebooks / CrowdStrike: prêmio de “falha épica”",
+    "fps": 30,
+    "timestamp": 1723559438,
+    "width": 0,
+    "height": 0,
+    "date": "13/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo aponta que excesso de dados não utilizados na nuvem contribui para consumo de energia e crise climática: esses arquivos, chamados de “dark data”, incluem memes, vídeos, fotos e outros tipos de conteúdo compartilhados online. Segundo um pesquisador, cada pedaço de informação tem uma pegada de carbono associada, e os data centers que os armazenam consomem uma grande quantidade de energia. Pequenas mudanças de comportamento, como evitar o uso desnecessário do botão “esponder a todo” em e-mails e excluir fotos antigas, podem ajudar a reduzir o impacto ambiental. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Hacker cria microfone que utiliza laser infravermelho para captar palavras digitadas em notebooks: o dispositivo de Samy Kamkar detecta as vibrações geradas pelas teclas, que refletem de volta e permitem a reconstrução do texto. A técnica é eficaz mesmo sem uma linha direta de visão do teclado, contanto que o laser possa atingir uma superfície refletiva, como o logotipo da Apple em um MacBook. O intuito é alertar a respeito das capacidades de espionagem moderna e incentivar outros a explorarem vulnerabilidades físicas na segurança da informação. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "CrowdStrike aceita prêmio de “falha mais épica” por apagão global: a premiação ocorreu durante o evento Pwnie Awards. Michael Sentonas, presidente da empresa, reconhece que esse não é um prêmio para se orgulhar, mas enfatiza a importância de assumir tanto os sucessos quanto os erros, e afirma que o troféu será levado para a sede da CrowdStrike como um lembrete constante para a equipe de que sua principal missão é proteger as pessoas, e que falhas como essa não podem se repetir. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia anuncia parceria inédita com estado da Califórnia para treinar 100 mil residentes em inteligência artificial: a ideia é capacitar estudantes, educadores, trabalhadores e indivíduos que normalmente não teriam acesso a esses recursos. A empresa oferecerá orientação técnica, mentoria e acesso a hardware avançado, além de apoiar startups e promover o uso da tecnologia para resolver problemas como congestionamento de trânsito e acessibilidade linguística. O objetivo, a longo prazo, é posicionar a Califórnia como líder em tecnologia. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "KIOXIA, pioneira na criação da memória flash, anuncia desenvolvimento de SSDs com interface óptica: o componente é projetado para substituir os tradicionais cabos elétricos, permitindo a separação entre dispositivos de armazenamento e computação em até 40 metros, sem comprometer a eficiência. Em data centers, isso possibilitaria uma menor demanda de resfriamento. A previsão é que os SSDs ópticos sejam lançados juntamente com a chegada do PCIe Gen 6. As informações são do site TweakTown.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA propõe regra para que cancelamento de assinaturas e serviços seja tão simples quanto sua inscrição: a iniciativa visa proteger consumidores de práticas corporativas que dificultam o processo de encerramento, e também exige que clientes possam evitar sistemas automatizados complicados, permitindo que, com o pressionar de um único botão, possam falar diretamente com um atendente humano. A proposta se aplicaria a diversas indústrias, desde academias a empresas de telefonia e provedores de internet. As informações são do site ABC News.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia encerramento do Paint 3D: o aplicativo foi lançado em 2017 com o objetivo de substituir a versão clássica, mas não conseguiu conquistar uma base significativa de usuários. Ele será removido da Microsoft Store em novembro, enquanto o Paint tradicional continuará disponível e receberá novas atualizações, incluindo funcionalidades baseadas em inteligência artificial. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
