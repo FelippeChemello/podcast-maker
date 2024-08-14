@@ -1,0 +1,45 @@
+{
+    "title": "Criptografia pós-quântica / 1º tratado global de cibercrime / Anatel quer descentralizar cabos submarinos",
+    "fps": 30,
+    "timestamp": 1723645865,
+    "width": 0,
+    "height": 0,
+    "date": "14/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Instituto de Tecnologia dos EUA (NIST) publica primeiro conjunto de padrões para criptografia pós-quântica: os algoritmos foram projetados para serem altamente complexos, e serão fundamentais para proteger dados criptografados com o método RSA, utilizado em transações bancárias, por exemplo. Especialistas alertam que é necessário iniciar a preparação para a transição dos novos padrões, que será um processo longo e complexo. Mais detalhes estão disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro tratado global de cibercrime está previsto para ser ratificado pela ONU em setembro: o acordo exigirá que países criminalizem diversas práticas, como acesso ilegal a sistemas, interceptação e falsificação de dados digitais, e fraudes relacionadas a sistemas de informação. Entre os desafios está a disponibilidade de recursos para assistência técnica, especialmente em países em desenvolvimento. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Anatel anuncia planos para descentralizar instalação de cabos submarinos no Brasil: o objetivo é definir critérios sobre as praias que poderão receber a infraestrutura, incluindo o tipo de construção permitida nessas áreas, além de evitar sua concentração em um único local, promovendo uma distribuição mais equilibrada pelo território nacional. Entre os dias 14 e 18 de outubro, também serão realizadas simulações de problemas com cabos submarinos para testar a capacidade de resposta dos órgãos responsáveis e aprimorar a coordenação em caso de incidentes. As informações são do site Tele Síntese.",
+            "url": ""
+        },
+        {
+            "text": "Apple exige que Patreon, serviço de apoio financeiro a criadores de conteúdo, adote sistema de pagamentos do iOS: a medida deverá ser implementada até novembro. Em caso de descumprimento, o aplicativo será removido da App Store. A plataforma implementará um processo de migração de 16 meses para ajustar os planos de assinatura ao novo formato. Criadores terão a opção de reajustar os preços para os usuários que utilizam o aplicativo no iOS, permitindo um aumento para compensar a taxa de 30% cobrada pela Apple. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "SanDisk anuncia seus primeiros cartões microSD de 4 TB: os dispositivos serão fabricados no padrão “SDUC UHS-I”, projetado para suportar grandes volumes de dados com uma velocidade teórica de até 104 MB/s, adequada para a maioria das aplicações de fotografia e vídeo. Também há planos para um cartão SD de tamanho comum de 8 TB. Ainda não há previsão de lançamento. As informações são do site Liliputing.",
+            "url": ""
+        },
+        {
+            "text": "Veículos autônomos da Waymo estão buzinando repetidamente entre si, causando transtorno para moradores de São Francisco: a empresa alugou um estacionamento na região para abrigar seus carros fora de serviço. No entanto, durante a madrugada, por volta das 4 da manhã, os robô-táxis começam a buzinar enquanto tentam estacionar. A Waymo está ciente do problema e está trabalhando em uma solução. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Recrutadores relatam aumento de currículos gerados por modelos de IA: uma pesquisa global com 5 mil candidatos indica que 45% utilizam a tecnologia para redigir CVs, cartas de apresentação e concluir avaliações, dificultando a filtragem de talentos. Além disso, o uso dessas ferramentas reduz as barreiras para se candidatar às vagas, permitindo que qualquer indivíduo utilize respostas convincentes no processo seletivo. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
