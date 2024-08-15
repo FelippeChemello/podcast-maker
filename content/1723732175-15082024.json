@@ -1,0 +1,45 @@
+{
+    "title": "Futebol: iPhones no lugar de VAR / ChatGPT grita “Não!” / Brasil: 3º em cibersegurança",
+    "fps": 30,
+    "timestamp": 1723732175,
+    "width": 0,
+    "height": 0,
+    "date": "15/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "iPhones serão utilizados para substituir VAR em jogos de futebol da Premier League: o novo sistema “Dragon” tem como objetivo aprimorar a precisão na detecção de impedimentos e outras análises, utilizando câmeras de pelo menos 28 smartphones para capturar vídeos em até 200 quadros por segundo de diferentes ângulos durante as partidas, permitindo o rastreio de 7 a 10 mil pontos no corpo de cada jogador. A mudança ocorrerá a partir da temporada 2024/25. As informações são do site PhoneArena.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT grita “Não!” e começa a imitar voz de usuária durante testes internos da OpenAI: o caso foi revelado durante um processo de “red teaming” para identificar pontos fortes e riscos do GPT-4o, e tende a ocorrer em ambientes com muito ruído de fundo, como dentro de um carro em movimento. A empresa explica que isso se deve à dificuldade do modelo em compreender a fala distorcida nessas situações, e que já tomou medidas para mitigar o comportamento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa do LinkedIn mostra que Brasil ocupa terceira posição no crescimento do setor de cibersegurança: o número de profissionais da área aumentou em 4,5% entre maio de 2023 e 2024, superado pela Alemanha (4,7%) e Espanha (5,5%). Entretanto, um dos principais desafios enfrentados é a qualidade das vagas oferecidas, com o estresse relacionado à proteção de sistemas críticos contra cibercrimes levando quase um terço dos profissionais a abandonar seus cargos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple decide liberar acesso ao NFC do iPhone para desenvolvedores terceirizados: a tecnologia é utilizada em pagamentos por aproximação. Desenvolvedores interessados precisarão firmar um acordo comercial com a Apple, que incluirá a cobrança de taxas associadas. A empresa também vai permitir acesso ao Secure Element, um chip presente nos iPhones que armazena informações sensíveis de forma segura. A liberação ocorrerá no lançamento do iOS 18.1. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Jogador conecta 444 consoles em uma única TV e estabelece recorde mundial: o feito foi realizado por Ibrahim Al-Nasser, utilizando mais de 30 switchers RCA e mais de 12 switchers HDMI, além de conversores e outras conexões para dispositivos mais antigos, juntamente com uma planilha Excel para identificar qual switcher precisa ser ativado para cada aparelho específico. A coleção vai desde consoles clássicos, como o Magnavox Odyssey de 1972, até modernos como o PlayStation 5 Slim de 2023. As informações são do site Guinness World Records.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que 94% das planilhas utilizadas em tomadas de decisão empresariais contêm erros críticos: essas falhas podem levar a prejuízos financeiros e problemas operacionais. A situação é agravada pela quantidade crescente de indivíduos criando suas próprias planilhas sem treinamento formal em certas áreas, como desenvolvimento de softwares. Adotar uma abordagem de verificação de qualidade desde as fases iniciais de planejamento pode ajudar a mitigar riscos e melhorar a confiabilidade das ferramentas de decisão. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Apenas seis grupos de ransomware são responsáveis por mais de 50% dos ataques registrados no primeiro semestre de 2024, segundo relatório: o LockBit 3.0 continua sendo o grupo mais ativo, liderando o número de extorsões com 325 vítimas apenas na primeira metade do ano, apesar de uma ação policial que interferiu em suas operações há seis meses. A lista completa dos grupos e suas respectivas quantidades de vítimas está disponível no TabNews.",
+            "url": ""
+        }
+    ]
+}
