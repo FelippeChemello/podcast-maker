@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: tokens expostos / Brasil: WhatsApp perde maior ação judicial / Google: ex-CEO critica home office",
+    "fps": 30,
+    "timestamp": 1723818576,
+    "width": 0,
+    "height": 0,
+    "date": "16/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vulnerabilidade no GitHub expõe acidentalmente tokens de autenticação por meio de artifacts utilizados em actions de CI/CD: isso permite que invasores obtenham acesso não autorizado a projetos privados e insiram scripts maliciosos. O 'actions/checkout' foi citado como exemplo, que clona o repositório durante a execução do workflow e armazena o token em um diretório oculto local. Se o repositório for carregado como parte de um artifact, o token pode ser exposto. Recomenda-se evitar o upload de diretórios inteiros como artifacts e configurar permissões de tokens com o mínimo de privilégios necessários para minimizar os danos em caso de exposição. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp sofre derrota na maior ação judicial sobre privacidade de dados no Brasil: a decisão obriga que a plataforma ofereça uma opção clara e acessível para que usuários decidam se desejam ou não permitir o compartilhamento de seus dados com outras redes da Meta, como Instagram e Facebook. O prazo para adequação é de 90 dias, e em caso de descumprimento será aplicada uma multa diária de 200 mil reais. Essa ação é considerada a maior do país em termos de proteção de dados, com valor de causa acumulado em 1,7 bilhão de reais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Ex-CEO do Google afirma que baixo desempenho da empresa na área de inteligência artificial está relacionado às políticas de trabalho flexível: para Eric Schmidt, a companhia “decidiu que o equilíbrio entre vida pessoal e profissional eram mais importantes do que vencer”. Em resposta, o Sindicato dos Trabalhadores da Alphabet destacou outros fatores que impactaram a produtividade, como mudanças constantes de prioridades, demissões em massa e salários estagnados. Após a repercussão negativa, Schmidt disse que “ometeu um err” ao vincular o desempenho do Google ao trabalho remoto. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft habilitará criptografia com BitLocker por padrão no Windows 11 24H2: a ativação ocorrerá durante a primeira configuração do sistema em instalações limpas, com a chave de recuperação sendo armazenada na conta online do usuário ou pelo Entra ID. Contudo, o recurso pode impactar o desempenho de alguns SSDs, com testes indicando uma possível desaceleração de até 45%. A empresa ainda não se pronunciou publicamente sobre esses potenciais impactos. A versão 24H2 do Windows 11 será pré-instalada nos PCs da linha Copilot Plus e estará disponível para outros dispositivos a partir de setembro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WordStar 7.0d, última versão do clássico processador de texto para DOS, é relançada gratuitamente: Robert Sawyer, escritor canadense e grande entusiasta do software, foi responsável pela sua disponibilização, preparando um pacote que inclui a versão final do programa, documentação completa, ferramentas de conversão de documentos para formatos mais modernos e emuladores DOS para permitir a execução em sistemas Windows atuais. O WordStar também foi amplamente utilizado por autores famosos, incluindo George R. R. Martin. O download dos pacotes está disponível no blog de Robert Sawyer. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Uso de drones equipados com IA para realizar inspeções em casas dos EUA está resultando em cancelamentos inesperados de seguros residenciais: um proprietário afirma ter tido sua apólice revogada após a detecção de musgo em seu telhado. Outro caso foi citado na Califórnia, com o sistema identificando um “aumento de riscos com desordem ou condições insalubres” em uma propriedade. Estima-se que a prática de usar drones e outros dispositivos aéreos na inspeção de moradias está se expandindo, com programas de imagem cobrindo 99% da população americana, com projeção para alcançar 2,6 bilhões de dólares em investimentos até 2032. As informações são da SCNR.",
+            "url": ""
+        },
+        {
+            "text": "Google revela detalhes de sua ferramenta interna utilizada para transferir, em média, 1,2 exabytes de dados por dia: o Effingo tem como objetivo garantir que as informações estejam próximas dos locais onde serão acessadas, minimizando a latência de rede, e opera em clusters compartilhados compostos por milhares de máquinas. Apesar disso, o sistema enfrenta desafios, como lidar com um backlog global de 12 milhões de arquivos, que pode atingir picos de 12 petabytes de dados. Embora apenas 4,2% das transferências falhem, o Google continua a aprimorar o Effingo, especialmente no uso da CPU, que atualmente é de 99%. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
