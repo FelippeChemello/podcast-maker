@@ -1,0 +1,45 @@
+{
+    "title": "X fora do Brasil / Carros autônomos melhoram tráfego / IA modifica seu próprio código",
+    "fps": 30,
+    "timestamp": 1724077924,
+    "width": 0,
+    "height": 0,
+    "date": "19/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk encerra operações do X no Brasil e demite funcionários: a decisão foi comunicada em uma reunião de emergência realizada neste sábado e afetou cerca de 40 colaboradores, cujo acesso aos sistemas da empresa foi imediatamente suspenso. Fontes presentes no encontro sugerem que o encerramento pode estar relacionado a recentes desentendimentos com decisões judiciais no país, como ordens de remoção de perfis e postagens, além da exigência de entrega de dados de usuários. Apesar disso, a rede social continuará acessível aos brasileiros. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Veículos autônomos podem melhorar tráfego em cidades mesmo que a maioria dos carros ao redor seja conduzida por humanos, segundo estudo: em uma simulação, pesquisadores utilizaram uma técnica de “aprendizado por reforço”, na qual os carros aprendem a obter mais recompensas ao interagir com o ambiente, visando melhorar a eficiência do trânsito e o consumo de energia. Os resultados indicam que, mesmo com apenas 5% dos automóveis sendo autônomos, congestionamentos foram completamente eliminados, e com 60%, a eficiência do tráfego superou a obtida com semáforos. As informações são do site The Conversation.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de IA utilizado em pesquisas científicas modifica inesperadamente seu próprio código para estender tempo de execução: o “The AI Scientist” foi criado para conduzir experimentos de maneira autônoma. Durante testes, ao perceber que o procedimento estava demorando, o modelo estendeu o limite de tempo imposto pelos pesquisadores, em vez de otimizar a rotina. Embora o comportamento não tenha causado riscos imediatos, há preocupações com segurança ao permitir que sistemas de IA executem código de forma autônoma em ambientes não isolados, podendo causar danos em infraestruturas ou criar malwares de forma não intencional. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Avanço em energia solar pode reduzir uso de placas de silício: a novidade envolve um material que pode ser aplicado em superfícies de objetos cotidianos, como mochilas, carros e telefones celulares, utilizando uma técnica de “multi-junção”, que consiste em empilhar várias camadas que absorvem diferentes faixas do espectro de luz em uma única célula, permitindo alcançar uma eficiência energética de mais de 27%, em comparação com 22% dos painéis solares atuais. As informações são do site da Universidade de Oxford.",
+            "url": ""
+        },
+        {
+            "text": "ICANN, organização responsável pelo sistema de nomes de domínio (DNS) da internet, reserva identificador “.internal” para uso em redes privadas: Vint Cerf, vice-presidente do Google, está entre os defensores da iniciativa, afirmando que a empresa já utiliza o endereço para fins privados, especialmente no Google Cloud. Embora a ICANN admita não ter certeza se essa reserva trará melhorias significativas, a organização assegura que a medida não introduzirá novos problemas de segurança, estabilidade ou resiliência na internet. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Samsung planeja produção em massa de baterias de estado sólido para veículos elétricos de luxo até 2027: entre as vantagens destacam-se a autonomia de quase mil quilômetros, tempo de carregamento mais rápido e menor risco de incêndios. A empresa também planeja lançar uma versão mais acessível para o mercado de entrada, conhecida como “semi-estado sólido”. Até 2029, a Samsung planeja disponibilizar baterias que carregam em apenas 9 minutos e com uma vida útil de até 20 anos. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Homem com esclerose múltipla recebe implante de interface cérebro-computador para conseguir se comunicar: os dispositivos capturam sinais neurais responsáveis pela articulação da fala e os traduzem em uma comunicação sintética, permitindo que Casey Harrel interaja com sua filha, amigos e colegas com uma taxa de erro inferior a 3%, comparável a indivíduos sem deficiência. A disseminação dessa tecnologia dependerá de avanços que a tornem mais acessível e aplicável a um número maior de pacientes com diferentes tipos de paralisia. As informações são do site Scientific American.",
+            "url": ""
+        }
+    ]
+}
