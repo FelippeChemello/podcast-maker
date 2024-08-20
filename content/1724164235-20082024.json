@@ -1,0 +1,45 @@
+{
+    "title": "GitHub ajuda Devs em vulnerabilidades / Play Store encerra bug bounty / Procreate rejeita IA generativa",
+    "fps": 30,
+    "timestamp": 1724164235,
+    "width": 0,
+    "height": 0,
+    "date": "20/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub lança ferramenta para ajudar Devs a corrigirem vulnerabilidades em códigos: o Copilot Autofix é capaz de analisar rotinas em busca de falhas, como SQL Injection e Cross-Site Scripting, explicar a importância delas e oferecer sugestões para corrigi-las. O recurso é ativado automaticamente para clientes do GitHub Advanced Security que utilizam o GitHub Enterprise Cloud. A partir de setembro, a ferramenta será oferecida gratuitamente para solicitações de pull requests em projetos de código aberto. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Google decide encerrar programa de recompensas por vulnerabilidades em aplicativos populares do Android: os dados coletados pelo programa permitiram à empresa desenvolver verificações automáticas que escaneavam aplicativos na Play Store em busca de falhas semelhantes, ajudando mais de 300 mil desenvolvedores a corrigir mais de 1 milhão de aplicativos em 2019, resultando em pagamentos que totalizaram mais de 265 mil dólares na época. A decisão foi motivada pela diminuição no número de vulnerabilidades acionáveis relatadas, atribuída ao aumento geral na segurança do Android. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Procreate, aplicativo popular de design para iPad, promete nunca incorporar IA generativa em seus produtos: a empresa reconhece que o aprendizado de máquina seja “atraente”, mas acredita que a abordagem não é compatível com sua plataforma. James Cuda, CEO da companhia, afirma estar preocupado com o impacto da tecnologia sobre os artistas, e destaca que seus produtos são criados para serem ferramentas nas mãos de criadores humanos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft suspende temporariamente anúncios no Windows 10 que visavam convencer usuários a atualizarem para versão 11: o recurso gerou descontentamento entre usuários devido à sua natureza intrusiva, em forma de pop-ups de tela cheia e múltiplas páginas, com muitos expressando sua insatisfação com sua frequência e abordagem. No entanto, a empresa afirma que irá compartilhar “um novo cronograma nos próximos meses”, sugerindo a possível retomada dessa estratégia futuramente, especialmente à medida que se aproxima a data final de suporte para o Windows 10. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Startup é fundada com objetivo de ensinar IA a “sentir” cheiros: a ideia da Osmo é realizar pelo olfato o que ferramentas como ChatGPT e Gemini fazem por sons e imagens, ao classificar e identificar moléculas associadas a determinados aromas, onde o principal desafio está na mudança de estrutura das mesmas, que pode levar de “um aroma de rosas para o de ovo podre”, segundo o CEO, Alex Wiltschko. A tecnologia poderia ser aplicada na detecção de doenças, como câncer e diabetes, ou por empresas que utilizariam cheiros como parte de suas estratégias de marketing e branding. As informações são do site Cointelegraph.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem bateria tão fina quanto um fio de cabelo para energizar pequenos robôs: a inovação visa suprir a necessidade por fontes de energia dedicadas para sistemas avançados que realizam tarefas complexas, projetada com dimensões de 0,1 milímetro de comprimento e 0,002 milímetro de espessura, capaz de gerar até 1 volt de eletricidade, com potencial para diversas aplicações em robôs, como administração de medicamentos dentro do corpo humano e inspeção de vazamentos de gás em tubulações. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google expande AI Overviews para outros países, incluindo Brasil: a ferramenta terá suporte localizado, gerando resumos no idioma predominante de cada região. Outra novidade é a possibilidade de visualizar os links dos sites utilizados para gerar os textos, permitindo ampliar a visibilidade dessas fontes. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
