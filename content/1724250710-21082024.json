@@ -1,0 +1,45 @@
+{
+    "title": "“Direito de se desligar” para funcionários / Videogames melhoram saúde mental / Microsoft: foco em segurança",
+    "fps": 30,
+    "timestamp": 1724250710,
+    "width": 0,
+    "height": 0,
+    "date": "21/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Iniciativa “Right to Switch Off” do Reino Unido visa garantir que funcionários tenham direito de ignorar mensagens recebidas fora do horário de expediente: a proposta visa combater o esgotamento dos trabalhadores, garantindo que tenham tempo para descansar. No entanto, as regras não serão diretamente aplicáveis a todas as empresas, funções e setores, como a segurança cibernética, onde um ataque de ransomware em uma sexta-feira à noite pode exigir ação imediata. A expectativa é que as novas políticas permitam um acordo entre empregadores e funcionários sobre o que é considerado aceitável. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que videogames podem melhorar saúde mental: os dados foram obtidos durante a época de pandemia no Japão, envolvendo pessoas com idades entre 10 e 69 anos. Ao mesmo tempo que os jogos traziam benefícios, indivíduos que passavam mais de 3 horas em frente à tela demonstravam efeitos contrários. No entanto, o simples fato de possuir um console já mostrava um impacto positivo. O estudo ressalta que as circunstâncias da pandemia podem ter influenciado os resultados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft começará a avaliar desempenho dos funcionários com base no foco em segurança: o parâmetro será considerado em todas as atividades e poderá influenciar decisões sobre promoções, aumentos salariais e bônus. A empresa espera que a medida seja integrada desde o início do design de produtos e que as melhores práticas sejam seguidas ao longo de todos os projetos. A mudança faz parte da iniciativa “Secure Future” da Microsoft, cujo objetivo é aprimorar a proteção dos sistemas e redes da empresa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pagamentos por resgate em ataques de ransomware totalizam cerca de 460 milhões de dólares no primeiro semestre de 2024: em comparação, o valor foi de 449 milhões no mesmo período do ano passado. Estima-se que grupos estão focando em quantias maiores, mirando grandes operações, com o valor médio dos resgates subindo de aproximadamente 199 mil dólares no início de 2023 para 1,5 milhão em junho de 2024. Por outro lado, o número de organizações que cedem à extorsão diminuiu em 27,2% em relação ao ano anterior. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Crescente demanda por sistemas de IA está aumentando consumo de água para resfriamento de data centers: na Virgínia, região de maior concentração de instalações desse tipo no mundo, o uso aumentou cerca de 66,6% entre 2019 e 2023, passando de 4,2 bilhões de litros para 7 bilhões. Embora muitas unidades utilizem sistemas de reciclagem de água em circuito fechado, uma parte é destinada ao controle da umidade, o que pode resultar em evaporação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "AWS introduz suporte para macOS no serviço CodeBuild: a novidade permitirá testar e compilar aplicativos para iOS e Mac na infraestrutura de nuvem da empresa. As opções disponíveis incluem máquinas com configurações de 24 GB de RAM e 8 vCPUs a partir de 28,80 dólares, e de 32 GB e 12 vCPUs a partir de 51,84, além de ferramentas como Xcode, SDK, Node.js, Java e Python. No entanto, as instâncias devem ser utilizadas por 24 horas antes de serem liberadas, gerando custos contínuos enquanto estiverem provisionadas. A lista das regiões nas quais o recurso está disponível pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Agência Brasileira de Desenvolvimento Industrial planeja aplicativo para restringir uso do WhatsApp em comunicações internas: a iniciativa busca reforçar a segurança e prevenir o vazamento de informações sigilosas. A ideia é que o app seja desenvolvido por empresas nacionais. No entanto, detalhes específicos sobre a plataforma ainda não foram divulgados. As informações são do site Canaltech.",
+            "url": ""
+        }
+    ]
+}
