@@ -1,0 +1,45 @@
+{
+    "title": "Linux bate recorde / TI lidera aquisições no Brasil / Open-source: “trabalho desnecessário”",
+    "fps": 30,
+    "timestamp": 1724337122,
+    "width": 0,
+    "height": 0,
+    "date": "22/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Linux alcança participação recorde de mercado com 4,4% no segmento de desktops: os dados são do mês de julho da plataforma StatCounter. Em comparação, a adoção do sistema era de 3,1% no mesmo período do ano passado. Fatores que possivelmente contribuíram para o crescimento incluem o término do suporte ao Windows 10 em outubro de 2025, o uso de dados dos usuários para treinamento de IAs pela Microsoft e o lançamento do Steam Deck. Estima-se que o Linux possa alcançar uma participação de mercado de 5% ainda em 2024. As informações são do site OSTechNix.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de TI lideram movimento de fusões e aquisições no Brasil no segundo trimestre de 2024: o setor respondeu por 130 das 216 operações realizadas na área de Tecnologia, Mídia e Telecomunicações entre os meses de abril e junho, que, por sua vez, representou 51% das 426 transações no total. Outros setores incluem empresas de internet (71), telecomunicações e mídia (11), e publicidade e editoras (4). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Sourcegraph altera repositório principal da companhia para modelo privado e afirma que open-source adiciona “trabalho extra e desnecessário”: para Quin Slack, a decisão é uma estratégia para aprimorar o foco da empresa, ressaltando que, embora o código aberto seja benéfico para produtos de infraestrutura e ferramentas de cliente, não oferece as mesmas vantagens para aplicações de servidor. Eric Fritz, ex-engenheiro da companhia, expressou preocupações sobre os impactos negativos, como links quebrados em posts de blog e o fim de uma cultura de desenvolvimento amplamente aberta. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade em ferramenta de IA do Slack permite que dados de canais privados sejam expostos: utilizando prompt injection, um indivíduo mal-intencionado pode inserir uma instrução em uma conversa pública, solicitando uma URL com uma chave de API embutida como parâmetro HTTP, para que o modelo interprete e gere um link clicável que extrai os dados para o servidor do site fornecido pelo invasor. Arquivos carregados em chats também podem ser utilizados para explorar o problema. O Slack foi informado a respeito da vulnerabilidade, mas ainda não tomou medidas para corrigi-la, e afirma que a busca por mensagens em canais públicos é um comportamento intencional, não uma falha. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Atualização do Windows causa problemas de inicialização no Linux em máquinas com dual-boot: o update corrige uma vulnerabilidade no GRUB, boot loader de código aberto, que permitia burlar medidas de segurança do Secure Boot, projetado para impedir que firmwares e softwares maliciosos sejam carregados na inicialização. A Microsoft está ciente do problema e trabalhando em uma correção, acrescentando que a atualização não deveria ser aplicada caso um sistema Linux fosse identificado nas opções de inicialização. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nothing, fabricante britânica de eletrônicos, exige retorno ao escritório e sugere que funcionários insatisfeitos busquem outro emprego: a decisão é uma grande mudança em relação ao trabalho remoto adotado desde sua fundação em 2020. Carl Pei, CEO da empresa, afirma que o modelo híbrido “não é compatível com o alto nível de ambição e velocidade” que a companhia almeja, mas reconhece que “esta é uma decisão controversa que pode não ser adequada para todos”. A Nothing conta com 450 colaboradores, dos quais nenhum se manifestou até o momento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Bug em iPhones e iPads faz interface do iOS travar ao digitar apenas 4 caracteres: o problema ocorre ao inserir uma sequência de aspas de abertura, fechamento, e dois-pontos, seguido de qualquer outro caractere na barra de pesquisa do aplicativo de configurações ou da biblioteca de apps, fazendo com que a tela do dispositivo reinicie. Embora a falha cause uma interrupção temporária, pesquisadores indicam que ela não representa uma ameaça de segurança, pois não pode ser explorada remotamente por terceiros. A Apple ainda não se pronunciou a respeito do problema. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
