@@ -1,0 +1,45 @@
+{
+    "title": "Hacker forja óbito / AMD: recorde histórico / Ladybird adota Swift",
+    "fps": 30,
+    "timestamp": 1724423504,
+    "width": 0,
+    "height": 0,
+    "date": "23/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker norte-americano invade banco de dados estatal e forja sua própria morte para evitar pagamento de pensão alimentícia: o invasor conseguiu acessar o sistema de registros de óbitos, onde criou uma entrada falsa do seu próprio falecimento preenchendo um formulário de certificação e assinando digitalmente como se fosse o médico responsável. O impacto financeiro total de suas ações, incluindo os danos causados aos sistemas e a falta de pagamento da pensão alimentícia, foi estimado em mais de 190 mil dólares. A condenação pelo crime foi de 6 anos e 9 meses de prisão. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "AMD atinge recorde histórico de participação no mercado de servidores no segundo trimestre de 2024: a empresa alcançou o marco de 24,1%, um aumento de 0,5% em relação ao trimestre anterior e de 5,6% em comparação ao mesmo período do ano passado. A empresa gerou uma receita de 2,8 bilhões de dólares em vendas de chips para data centers, enquanto a Intel, com 75,9% de participação nesse mercado, alcançou 3 bilhões, sugerindo que os processadores da AMD têm um preço médio mais alto, possivelmente devido ao foco em servidores de alto desempenho. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Equipe de desenvolvimento do navegador de código aberto Ladybird adota Swift como principal linguagem de programação: a tecnologia se destacou especialmente devido aos recursos de segurança de memória e proteção contra corridas de dados (data race) a partir da versão 6. Além disso, o suporte robusto à orientação a objetos permite modelar mais de perto as especificações da Web e os componentes internos de um navegador. A adoção do Swift pela equipe está programada após a versão 6 sair da fase beta, visto que o compilador Clang presente na mesma ainda é incompatível com o C++, linguagem atualmente utilizada no desenvolvimento do Ladybird. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Anatel e NICbr anunciam ferramenta para comparar velocidade real de banda larga fixa com a prometida pela operadora: o objetivo é assegurar que o consumidor possa realizar uma verificação clara e objetiva da qualidade do serviço prestado e, caso seja constatada qualquer deficiência, tenha o direito de rescindir o contrato sem a imposição de multas ou necessidade de indenização. O recurso também fornecerá instruções e alertas sobre possíveis limitações que possam impactar a qualidade da conexão, como a capacidade do dispositivo e a proximidade do ponto de acesso Wi-Fi. Ainda não há previsão de lançamento. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Lux Capital, empresa norte-americana de capital de risco, realiza primeiro investimento no Brasil no valor de 4 milhões de dólares: o aporte foi destinado à fintech Magie, cujo sistema permite envio de dinheiro e pagamento de contas pelo WhatsApp, e que está desenvolvendo um assistente financeiro baseado em IA, capaz de oferecer serviços como orientação na escolha de empréstimos. Brandon Reeves, sócio da Lux, destacou a rápida adoção de novos produtos financeiros pelos brasileiros, como o Pix, lançado em 2020, e que somente em 2023, processou quase 42 bilhões de transações. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia ferramenta capaz de iniciar e organizar aplicativos automaticamente no Windows: o PowerToys Workspace permitirá que usuários configurem seu ambiente de trabalho com os programas organizados da forma desejada, podendo salvar os layouts personalizados como atalhos. O principal objetivo é a otimização do tempo, principalmente para desenvolvedores e outros usuários avançados que precisam gerenciar diversos aplicativos simultaneamente. A funcionalidade estará disponível em breve a partir da versão 0.84 do PowerToys. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Gartner, empresa mundial de consultoria, acredita que inteligência artificial geral está longe de ser uma realidade: para a companhia, a tecnologia está, no mínimo, a 10 anos de distância, podendo não ser um objetivo útil ou desejável na computação. Arun Chandrasekaran, vice-presidente da organização, ressalta que o simples aumento no tamanho dos modelos de linguagem não garante a chegada da AGI, e que seria necessário fazê-los aprender sobre o mundo de maneira semelhante aos humanos, por meio dos sentidos. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
