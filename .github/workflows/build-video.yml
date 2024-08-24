@@ -21,6 +21,7 @@ env:
     INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
     YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
     GOOGLE_MAKERSUITE_API_KEY: ${{ secrets.GOOGLE_MAKERSUITE_API_KEY }}
+    IMAGE_GENERATOR_URL: ${{ secrets.IMAGE_GENERATOR_URL }}
     #  ACTIONS_RUNNER_DEBUG: true
     #  ACTIONS_STEP_DEBUG: true
 
@@ -35,6 +36,11 @@ jobs:
               uses: actions/setup-node@v3
               with:
                   node-version: 18
+            
+            - name: Install pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: 8
 
             - name: podcast-maker CLI cache
               uses: actions/cache@v3
@@ -95,7 +101,9 @@ jobs:
                   node-version: 18
 
             - name: Install pnpm
-              run: npm install -g pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: 8
 
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
