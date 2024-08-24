@@ -25,7 +25,10 @@ jobs:
               with:
                   node-version: 18
 
-            - name: Global output and Yarn Config
+            - name: Install pnpm
+              run: npm install -g pnpm
+
+            - name: Global output
               id: global
               run: |
                   echo "formattedDate=$(date +%d/%m/%Y)"
@@ -39,13 +42,13 @@ jobs:
                       **/node_modules
                       dist
                       bin
-                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/pnpm.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
               run: |
-                  yarn
-                  yarn build
+                  pnpm
+                  pnpm build
 
             - name: Create SymLink from content directory (on code) to content directory (created by podcast-maker CLI)
               run: |

@@ -34,7 +34,7 @@ This project was developed using:
 
 ## ⚙️ Requirements
 
--   You need to install both NodeJS, Yarn, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/build-video.yml#L215-L223))
+-   You need to install both NodeJS, PNPM, FFMPEG and Full Google Chrome to run this project (To run it on as Server Side, check actions workflow [here](https://github.com/FelippeChemello/podcast-maker/blob/master/.github/workflows/build-video.yml#L215-L223))
 -   Access to YouTube API and/or Account on Instagram
 
 ## 💻 Getting started
@@ -50,13 +50,13 @@ $ git clone https://github.com/FelippeChemello/podcast-maker.git
 **Install dependencies**
 
 ```sh-session
-$ yarn
+$ pnpm
 ```
 
 **Build and configure**
 
 ```sh-session
-$ yarn build
+$ pnpm build
 $ ./bin/run configure
 ```
 
@@ -73,7 +73,7 @@ $ git clone https://github.com/FelippeChemello/podcast-maker.git && cd podcast-m
 **Install dependencies**
 
 ```sh-session
-$ yarn
+$ pnpm i
 ```
 
 **Copy .env.local to .env and edit environment variables or configure using CLI**
@@ -86,7 +86,7 @@ $ vim .env
 or
 
 ```sh-session
-$ yarn build
+$ pnpm build
 $ ./bin/run configure
 ```
 

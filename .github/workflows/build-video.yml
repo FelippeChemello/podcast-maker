@@ -44,13 +44,13 @@ jobs:
                       **/node_modules
                       dist
                       bin
-                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/pnpm.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
               run: |
-                  yarn
-                  yarn build
+                  pnpm i
+                  pnpm build
 
             - name: Move content file to be processed
               run: |
@@ -94,6 +94,9 @@ jobs:
               with:
                   node-version: 18
 
+            - name: Install pnpm
+              run: npm install -g pnpm
+
             - name: Install FFMPEG
               uses: FedericoCarboni/setup-ffmpeg@v1
 
@@ -105,13 +108,13 @@ jobs:
                       **/node_modules
                       dist
                       bin
-                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/yarn.lock') }}
+                  key: cli-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/pnpm.lock') }}
 
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
               run: |
-                  yarn
-                  yarn build
+                  pnpm
+                  pnpm build
 
             - name: Get tmp path
               id: tmp

@@ -20,7 +20,7 @@
     "scripts": {
         "build": "shx rm -rf dist && tsc -b",
         "postpack": "shx rm -f oclif.manifest.json",
-        "prepack": "yarn build && oclif manifest && oclif readme",
+        "prepack": "pnpm build && oclif manifest && oclif readme",
         "version": "oclif readme && git add README.md",
         "postbuild": "copyfiles -u 1 assets/**/* dist/assets",
         "dev": "./bin/dev"
