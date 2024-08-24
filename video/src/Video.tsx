@@ -21,7 +21,7 @@ const {
 
 export const RemotionVideo: React.FC = () => {
     if (!content || !durationInFrames) {
-        throw new Error(`Missing information. Content: ${!!content}, renderData: ${!!content.renderData}, durationInFrames: ${!!durationInFrames}`);
+        throw new Error(`Missing information. Content: ${!!content}, renderData: ${!!content?.renderData}, durationInFrames: ${!!durationInFrames}`);
     }
 
     return (

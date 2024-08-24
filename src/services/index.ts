@@ -12,6 +12,7 @@ import ValidatesContentService from './ValidatesContentService';
 import MailToJsonService from './MailToJsonService';
 import GetYoutubeInfoService from './GetYoutubeInfoService';
 import GenerateTitleServce from './GenerateTitleService';
+import GenerateImageService from './GenerateImageService';
 
 export {
     GetContentService,
@@ -28,4 +29,5 @@ export {
     MailToJsonService,
     GetYoutubeInfoService,
     GenerateTitleServce,
+    GenerateImageService,
 };

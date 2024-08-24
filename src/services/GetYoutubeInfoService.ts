@@ -17,14 +17,14 @@ export default class GetYoutubeInfoService {
         this.content = content;
 
         if (!process.env.GOOGLE_CLIENT_ID) {
-            error('Google Client ID is not defined', 'YoutubeUploadService');
+            error('Google Client ID is not defined', 'GetYoutubeInfoService');
             process.exit(1);
         }
 
         if (!process.env.GOOGLE_CLIENT_SECRET) {
             error(
                 'Google Client Secret is not defined',
-                'YoutubeUploadService',
+                'GetYoutubeInfoService',
             );
             process.exit(1);
         }
@@ -32,7 +32,7 @@ export default class GetYoutubeInfoService {
         if (!process.env.YOUTUBE_REFRESH_TOKEN) {
             error(
                 'Youtube Refresh Token is not defined',
-                'YoutubeUploadService',
+                'GetYoutubeInfoService',
             );
             process.exit(1);
         }
@@ -92,7 +92,7 @@ export default class GetYoutubeInfoService {
                         `Failed at refreshing youtube token \n${JSON.stringify(
                             err,
                         )}`,
-                        'YoutubeUploadService',
+                        'GetYoutubeInfoService',
                     );
                     return;
                 }

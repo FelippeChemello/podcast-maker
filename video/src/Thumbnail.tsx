@@ -76,6 +76,8 @@ export const Thumbnail: React.FC = () => {
         }
     } while (!hasFitText);
 
+    const hasImage = content.thumbnail_image_src !== undefined
+
     return (
         <div
             style={{
@@ -90,86 +92,138 @@ export const Thumbnail: React.FC = () => {
                     justifyContent: 'center',
                 }}
             >
-                <div
-                    style={{
-                        height: titleDivHeight,
-                        width: titleDivWidth,
-                        marginLeft: 100,
-                        display: 'flex',
-                        flexDirection: 'column',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                    }}
-                >
-                    <h1
+                {hasImage ? (
+                    <div
                         style={{
-                            fontSize: `${titleFontSize}px`,
-                            lineHeight: `${
-                                titleFontSize + spaceBetweenLines
-                            }px`,
-                            fontFamily: 'ProductSans',
-                            color: '#fff',
-                            textAlign: 'center',
-                            fontWeight: 400,
-                            margin: 0,
+                            position: 'absolute',
+                            top: 0,
+                            left: 0,
+                            width: videoConfig.width,
+                            height: videoConfig.height,
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            backgroundImage: `url(${content.thumbnail_image_src})`,
+                            backgroundSize: 'cover',
                         }}
-                        dangerouslySetInnerHTML={{
-                            __html: finalTitle.join('<br />'),
-                        }}
-                    ></h1>
-                </div>
-                <div
-                    style={{
-                        position: 'absolute',
-                        right: 20,
-                        top: 20,
-                        display: 'flex',
-                        alignItems: 'center',
-                    }}
-                >
-                    <img
-                        src={avatar}
-                        width={
-                            orientation === 'landscape'
-                                ? videoConfig.width / 7
-                                : videoConfig.width / 3
-                        }
-                        height={
-                            orientation === 'landscape'
-                                ? videoConfig.width / 7
-                                : videoConfig.width / 3
-                        }
-                        style={{
-                            borderRadius: 50,
-                            boxShadow: '0px 0px 30px -10px rgba(0,0,0,0.75)',
-                        }}
-                    />
-                </div>
-                <h2
-                    style={{
-                        position: 'absolute',
-                        bottom:
-                            orientation === 'landscape'
-                                ? 200
-                                : videoConfig.height - 350,
-                        margin: 0,
-                        right: orientation === 'landscape' ? 0 : 350,
-                        transform: 'translateX(-20%)',
-                        // @ts-ignore
-                        writingMode: `${
-                            orientation === 'landscape'
-                                ? 'vertical-rl'
-                                : 'horizontal-tb'
-                        }`,
-                        fontSize: orientation === 'landscape' ? 180 : 250,
-                        fontFamily: 'ProductSans',
-                        color: '#fff',
-                        textAlign: 'center',
-                        fontWeight: 'lighter',
-                    }}
-                >
-                    {date.split('/').slice(0, 2).join('/')}
-                </h2>
+                    >
+                        <div 
+                            style={{ 
+                                backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                                clipPath: 'polygon(0 0, 100% 0, 90% 100%, 10% 100%)',
+                                padding: '0 50px',
+                                width: '90%',
+                                display: 'flex',
+                                justifyContent: 'center',
+                                alignItems: 'center',
+                                position: 'absolute',
+                                bottom: 20
+                            }}
+                        >    
+                            <h1
+                                style={{
+                                    fontSize: 150,
+                                    lineHeight: '1',
+                                    fontFamily: 'ProductSans',
+                                    color: '#fff',
+                                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                                    textAlign: 'center',
+                                    fontWeight: 400,
+                                    margin: 0,
+                                    width: '95%',
+                                    padding: '20px 50px',
+                                    clipPath: 'polygon(0 0, 100% 0, 90% 100%, 10% 100%)',
+                                }}
+                            >
+                                {content.thumbnail_text}
+                            </h1>
+                        </div>
+                    </div>
+                ) : (
+                    <>
+                        <div
+                            style={{
+                                height: titleDivHeight,
+                                width: titleDivWidth,
+                                marginLeft: 100,
+                                display: 'flex',
+                                flexDirection: 'column',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                    zIndex: 10,
+                            }}
+                        >
+                            <h1
+                                style={{
+                                    fontSize: `${titleFontSize}px`,
+                                    lineHeight: `${
+                                        titleFontSize + spaceBetweenLines
+                                    }px`,
+                                    fontFamily: 'ProductSans',
+                                    color: '#fff',
+                                    textAlign: 'center',
+                                    fontWeight: 400,
+                                    margin: 0,
+                                }}
+                                dangerouslySetInnerHTML={{
+                                    __html: finalTitle.join('<br />'),
+                                }}
+                            ></h1>
+                        </div>
+                        <div
+                            style={{
+                                position: 'absolute',
+                                right: 20,
+                                top: 20,
+                                display: 'flex',
+                                alignItems: 'center',
+                            }}
+                        >
+                            <img
+                                src={avatar}
+                                width={
+                                    orientation === 'landscape'
+                                        ? videoConfig.width / 7
+                                        : videoConfig.width / 3
+                                }
+                                height={
+                                    orientation === 'landscape'
+                                        ? videoConfig.width / 7
+                                        : videoConfig.width / 3
+                                }
+                                style={{
+                                    borderRadius: 50,
+                                    boxShadow: '0px 0px 30px -10px rgba(0,0,0,0.75)',
+                                }}
+                            />
+                        </div>
+                        <h2
+                            style={{
+                                position: 'absolute',
+                                bottom:
+                                    orientation === 'landscape'
+                                        ? 200
+                                        : videoConfig.height - 350,
+                                margin: 0,
+                                right: orientation === 'landscape' ? 0 : 350,
+                                transform: 'translateX(-20%)',
+                                // @ts-ignore
+                                writingMode: `${
+                                    orientation === 'landscape'
+                                        ? 'vertical-rl'
+                                        : 'horizontal-tb'
+                                }`,
+                                fontSize: orientation === 'landscape' ? 180 : 250,
+                                fontFamily: 'ProductSans',
+                                color: '#fff',
+                                textAlign: 'center',
+                                fontWeight: 'lighter',
+                            }}
+                        >
+                            {date.split('/').slice(0, 2).join('/')}
+                        </h2>
+                    </>
+                )}
             </AbsoluteFill>
         </div>
     );

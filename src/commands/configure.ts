@@ -22,9 +22,10 @@ export default class Configure extends Command {
             CHROME_BIN: '',
             INSTAGRAM_EMAIL: '',
             INSTAGRAM_PASSWORD: '',
+            IMAGE_GENERATOR_URL: '',
         };
 
-        if (await confirm('Do you wanna configure TTS service?  [y/n]')) {
+        if (await confirm('Do you want to configure TTS service?  [y/n]')) {
             envs.AZURE_TTS_KEY = await prompt('Azure TTS key', {
                 required: true,
                 type: 'mask',
@@ -36,7 +37,7 @@ export default class Configure extends Command {
 
         if (
             await confirm(
-                'Do you wanna configure YouTube and Mail services?  [y/n]',
+                'Do you want to configure YouTube and Mail services?  [y/n]',
             )
         ) {
             envs.GOOGLE_CLIENT_ID = await prompt('Google client ID', {
@@ -56,7 +57,7 @@ export default class Configure extends Command {
             });
         }
 
-        if (await confirm('Do you wanna configure Instagram service?  [y/n]')) {
+        if (await confirm('Do you want to configure Instagram service?  [y/n]')) {
             envs.CHROME_BIN =
                 which('google-chrome') ||
                 (await prompt('Full path to chrome binary', {
@@ -73,8 +74,12 @@ export default class Configure extends Command {
         }
 
         envs.DEBUG = Number(
-            await confirm('Do you wanna enable debug mode?  [y/n]'),
+            await confirm('Do you want to enable debug mode?  [y/n]'),
         );
+
+        envs.IMAGE_GENERATOR_URL = await prompt('Image generator URL', {
+            required: true,
+        });
 
         await saveSecrets(envs);
     }

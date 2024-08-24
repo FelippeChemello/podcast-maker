@@ -1,6 +1,8 @@
 import { Command, Flags } from '@oclif/core';
-import { GetContentService } from '../services';
 import shell from 'shelljs';
+import fs from 'fs';
+
+import { GetContentService } from '../services';
 
 export default class Remotion extends Command {
     static description = 'Remotion framework related commands';
@@ -32,10 +34,10 @@ export default class Remotion extends Command {
         const { args, flags } = await this.parse(Remotion);
 
         const { content } = await new GetContentService().execute(flags.filename)
-        if (!content || !content.renderData) {
+        if (!content) {
             throw new Error('Content not found');
         }
-        const durationInFrames = Math.round(this.getFullDuration(content.renderData) * content.fps)
+        const durationInFrames = content.renderData ? Math.round(this.getFullDuration(content.renderData) * content.fps) : 1;
 
 
         const props = {
@@ -43,22 +45,28 @@ export default class Remotion extends Command {
             destination: 'youtube',
             durationInFrames,
         }
+
+        const propsPath = '/tmp/props.json';
+        fs.writeFileSync(propsPath, JSON.stringify(props));
+
         let command = '';
 
         switch (args.command) {
             case 'upgrade':
-                command = 'yarn remotion upgrade';
+                command = 'pnpm remotion upgrade';
                 break;
             case 'preview':
-                command = `yarn remotion preview video/src/index.tsx --props='${JSON.stringify(props)}'`;
+                command = `pnpm remotion preview video/src/index.tsx --props=${propsPath}`;
                 break;
             case 'render-example':
-                command = `yarn remotion render video/src/index.tsx Main out.mp4 --props='${JSON.stringify(props)}'`;
+                command = `pnpm remotion render video/src/index.tsx Main out.mp4 --props=${propsPath}`;
                 break;
             case 'render-thumb-example':
-                command = `yarn remotion still video/src/index.tsx Thumbnail thumb.png --props='${JSON.stringify(props)}'`;
+                command = `pnpm remotion still video/src/index.tsx Thumbnail thumb.png --props=${propsPath}`;
                 break;
         }
+
+        console.log(`Running command: ${command}`);
 
         shell.exec(command);
     }

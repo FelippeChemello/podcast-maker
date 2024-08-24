@@ -10,6 +10,7 @@ export default interface InterfaceJsonContent {
     fps: number;
     title: string;
     thumbnail_text?: string;
+    thumbnail_image_src?: string;
     duration?: number;
     date: string;
     renderData?: {

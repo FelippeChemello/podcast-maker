@@ -19,14 +19,19 @@ export default class GenerateTitleServce {
 
             const model = this.client.getGenerativeModel({
                 model: 'gemini-1.5-flash',
+                systemInstruction: "Act as an excellent title generator, your task is to generate a title for the provided news in less than 5 words. The title must be in portuguese.",
+                generationConfig: {
+                    temperature: 1,
+                    topP: 0.95,
+                    topK: 64,
+                    maxOutputTokens: 50,
+                    responseMimeType: 'application/json'
+                }
             })
 
-            const prompt = `Gere um titulo que gere engajamento para o video com a seguinte descrição: ${firstNews}`
+            const response = await model.generateContent(firstNews)
 
-            const response = await model.generateContent(prompt)
-
-            const titles = response.response.text()
-            const title = titles.split('\n')[0].replaceAll("\"", "")
+            const { title } = JSON.parse(response.response.text())
 
             log(`Title generated: ${title}`, 'GenerateTitleServce');
 
