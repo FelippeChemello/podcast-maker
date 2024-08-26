@@ -1,0 +1,49 @@
+{
+    "title": "CEO do Telegram preso / Counter-Strike com o pensamento / Google complica criadores de conteúdo",
+    "fps": 30,
+    "timestamp": 1724682654,
+    "width": 0,
+    "height": 0,
+    "date": "26/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pavel Durov, fundador do Telegram, é preso na França: segundo uma emissora do país, o CEO foi alvo de um mandado com base em uma investigação preliminar, alegando que a falta de moderação de conteúdo na plataforma e a recusa de cooperar com as autoridades fazem de Durov um cúmplice de atividades ilícitas realizadas dentro do aplicativo. Em comunicado, o Telegram declara que suas práticas de moderação estão “dentro dos padrões da indústria”, e argumenta que é “absurdo afirmar que uma plataforma ou seu proprietário são responsáveis pelo uso indevido” da mesma. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Segundo paciente a receber chip cerebral da Neuralink consegue jogar Counter-Strike 2 com o pensamento: Alex utiliza um controle operadora pela boca, chamado de QuadStick, para mover o personagem ou mirar a arma, mas não conseguia realizar ambas as ações ao mesmo tempo até receber o implante. Ele descreve a experiência como “insana”, destacando a satisfação de poder olhar em diferentes direções apenas com a mente. A Neuralink afirma estar trabalhando em maneiras de aprimorar os controles da tecnologia, além de possibilitar a interação com o mundo físico, permitindo que usuários se alimentem e se movam de forma mais independente, controlando um braço robótico ou sua cadeira de rodas. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Adoção de IA pelo Google em buscas coloca criadores de conteúdo em posição delicada: as respostas automáticas fornecidas pela tecnologia podem ser suficientes para muitos usuários, reduzindo a necessidade de clicar nos links que originam essas informações, resultando em uma queda no tráfego dos sites e impactando suas receitas. Embora os criadores possam impedir que seu conteúdo seja utilizado por IA, a mesma ferramenta que gera as respostas também é responsável por indexar as páginas nos resultados de busca, fazendo com que as mesmas corram o risco de não serem listadas. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Malware para Android rouba dados de cartões próximos ao celular via chip NFC: o NGate coleta informações que podem ser utilizadas para realizar pagamentos não autorizados ou saques em caixas eletrônicos. O ataque é realizado por meio de mensagens de texto, ligações pré-gravadas e anúncios enganosos, que induzem as vítimas a instalarem programas maliciosos disfarçados como atualizações urgentes de segurança, utilizando ícones e interfaces semelhantes às de bancos legítimos. Recomenda-se desativar o NFC quando não estiver em uso, analisar permissões solicitadas pelo aplicativo e somente instalar apps bancários de fontes oficiais. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Agência Nacional de Proteção de Dados exige salvaguardas para transferência internacional de informações pessoais: a Resolução 19/24 determina que a mesma só será permitida se o país de destino oferecer um nível de proteção equivalente ao da legislação brasileira. As empresas terão um prazo de 12 meses para se adequar às novas exigências, e deverão fornecer informações claras aos titulares dos dados sobre os motivos e métodos da transferência, incluindo detalhes sobre as medidas de segurança adotadas. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Startup em estágio inicial anuncia desenvolvimento de plataforma open-source para simulação de aplicações críticas de segurança: o NativeLink, da Trace Machina, tem como objetivo permitir que desenvolvedores testem, diretamente do hardware local, softwares de sistemas automatizados, como veículos autônomos e robôs de armazém, em cenários realistas antes de serem aplicados no mundo real. O projeto pode ser conferido no repositório “TraceMachina/nativelink” do GitHub. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que apenas 50% dos projetos que utilizam game engines são relacionados a jogos: o restante é direcionado para cinema, televisão, marketing e arte 3D. Entre os softwares mais populares, a participação da Unreal Engine aumentou de 45% em 2021 para 63% atualmente, sendo o motor preferido no setor de mídia e entretenimento, em contraste com a Unity, que presenciou uma queda de 50% em 2022 para 47% em 2024. No entanto, desenvolvedores relatam desafios, como problemas de lentidão com arquivos grandes, devido ao aumento nas resoluções e pela complexidade da tecnologia 3D. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Vazamento de dados de compensação de engenheiros da Microsoft revelam detalhes sobre remuneração: os salários anuais podem variar de aproximadamente 150 mil a 1,2 milhão de dólares. Os profissionais mais bem remunerados atuam na recém-formada organização de IA da empresa, com uma média superior a 370 mil dólares, em contraste com os 242 a 255 mil de outros colaboradores das áreas de nuvem, Azure, e experiências e dispositivos. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
