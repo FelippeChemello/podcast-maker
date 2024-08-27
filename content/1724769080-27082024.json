@@ -1,0 +1,49 @@
+{
+    "title": "Navegação sem GPS / DeepMind pressionada / Filosofia em pesquisas de IA",
+    "fps": 30,
+    "timestamp": 1724769080,
+    "width": 0,
+    "height": 0,
+    "date": "27/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bússola quântica poderá permitir navegação sem precisar de GPS: cientistas norte-americanos estão desenvolvendo um sensor de movimento extremamente preciso, baseado em uma técnica chamada de interferometria atômica, significativamente mais sensível do que os dispositivos de navegação atuais. A tecnologia será útil especialmente em lugares onde o sinal de GPS não está disponível, e também poderá ser utilizada na detecção de cavidades subterrâneas e recursos naturais, além de comunicações ópticas. As informações são do site SciTechDaily.",
+            "url": ""
+        },
+        {
+            "text": "Trabalhadores do Google DeepMind pressionam empresa para abandonar contratos com organizações militares: a carta, assinada por cerca de 200 colaboradores, expressa preocupação de que as tecnologias de IA desenvolvidas pela companhia sejam utilizadas por forças armadas, violando os princípios estabelecidos pelo Google, em que a mesma não deve contribuir com aplicações cuja principal função seja causar danos. A diretora de operações da DeepMind afirma que a organização não implantaria qualquer IA que fosse usada em armamentos ou vigilância em massa. No entanto, muitos funcionários continuam insatisfeitos com a falta de ação concreta e a resposta vaga da empresa. As informações são da TIME.",
+            "url": ""
+        },
+        {
+            "text": "Stephen Wolfram, renomado matemático e cientista, defende participação de filósofos em pesquisas sobre IA: segundo ele, questões como o estabelecimento de limites para a tecnologia envolvem decidir o que é “certo” ou “errado”, algo que cientistas tendem a evitar visto que eles fazem um “trabalho incremental” e não esperam ser “confrontados com uma maneira completamente diferente de pensar”, enquanto filósofos lidam melhor com grandes ideias e diferentes formas de reflexão. Wolfram defende que, à medida que a IA se torna mais avançada, é preciso fazer reflexões mais profundas sobre suas implicações para a humanidade. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Hacker responsável pelo roubo de quase 3 bilhões de dados pessoais dos EUA é identificado como brasileiro: o cibercriminoso seria o líder do grupo USDoD, conhecido por invadir diversas empresas ao redor do mundo, como Airbus, FBI e LinkedIn. A descoberta foi documentada em um relatório da CrowdStrike, que repassou informações detalhadas às autoridades, incluindo registro fiscal, domínios registrados, endereços IP, redes sociais e número de telefone. A identificação foi facilitada pelo uso recorrente de um mesmo e-mail em várias atividades, como a criação de contas em fóruns, edições no GitHub e registros de domínios. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que mais de 30% das crianças norte-americanas entre 7 e 9 anos possuem conta no X: acredita-se que isso possa estar relacionado à integração da plataforma com o Google, onde suas postagens aparecem diretamente nos resultados de busca ao procurar por algo de interesse pessoal. Para crianças de 10 a 12 anos, o uso da rede social sobe para 41%, e na adolescência, 44%. Estima-se que 13% de todo conteúdo do X seja voltado apenas para o público adulto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Aumento no tamanho de página de memória do Android pode melhorar seu desempenho em até 10%: o sistema passará a suportar 16 KB em CPUs ARM a partir da versão 15, em contraste com os 4 KB adotados atualmente. Dessa forma, o SO será capaz de realizar menos operações de gerenciamento de memória, concentrando-se mais em tarefas de alto nível, como exibição de vídeos e execução de jogos. Apps desenvolvidos com código nativo precisarão ser recompilados e testados para garantir compatibilidade com o novo tamanho. Desenvolvedores são incentivados a adaptar suas ferramentas e aplicações para aproveitar as melhorias. As informações são do blog Android Developers.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que muitas tecnologias automotivas são consideradas desnecessárias pelos consumidores: inovações como motores de partida e janelas elétricas tornaram-se expectativas básicas por resolverem problemas reais, assim como câmeras de ré e sensores de colisões. No entanto, outras soluções como sistemas de estacionamento automático e direção parcialmente automatizada são vistas como menos úteis. A tendência de incluir telas adicionais, como aquelas destinadas ao passageiro, também é criticada por muitos proprietários, que as consideram excessivas e desnecessárias. Por outro lado, recursos como o controle automático de temperatura têm ganhado popularidade entre os motoristas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Linus Torvalds expressa desapontamento com a lenta adoção do Rust no desenvolvimento do kernel Linux: para ele, desenvolvedores “antigos” acostumados com C não estão dispostos a aprender uma nova tecnologia que apresenta diferenças em “muitos aspectos”, e cuja infraestrutura “em si não é muito estável”. Em relação às novas soluções presentes no mercado, como nuvem e Kubernetes, Torvalds comenta que “a única coisa que importa é o kernel”. As informações são do site ZDNET.",
+            "url": ""
+        }
+    ]
+}
