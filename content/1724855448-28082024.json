@@ -1,0 +1,49 @@
+{
+    "title": "Atari 7800 Plus / Empresas evitam Copilot / Telefones falsos no Google",
+    "fps": 30,
+    "timestamp": 1724855448,
+    "width": 0,
+    "height": 0,
+    "date": "28/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atari anuncia versão atualizada do console clássico de 1986: o 7800 Plus é mais compacto comparado ao original, incluindo conexão HDMI, compatibilidade com cartuchos e opção de reproduzir conteúdo no formato 4:3 ou widescreen. O lançamento está previsto para o final deste ano, com pré-venda já disponível no site oficial por 129,99 dólares. A empresa também anunciou versões revisadas de títulos clássicos em formato de cartucho, acompanhado de um manual impresso. A lista desses jogos pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Empresas evitam Microsoft Copilot devido a preocupações com segurança e governança de dados, segundo entrevista: mais de 20 diretores de dados (CDOs) responderam que quase metade de suas corporações suspenderam ou limitaram o uso da ferramenta. Um dos principais motivos é o risco dela resumir e exibir informações confidenciais que alguns usuários não deveriam ter acesso, como valores salariais. Recomenda-se monitorar como os dados são acessados dentro de sistemas, garantindo que estejam devidamente organizados e seguros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que Google frequentemente exibe números de telefone falsos para empresas legítimas em suas buscas: esses registros podem ser utilizados por golpistas para enganar pessoas e roubar dinheiro, e são muitas vezes listados na seção “as pessoas também perguntam” com sinais claros de fraude, como fontes suspeitas e sites não afiliados às empresas reais. Um caso notável envolveu um indivíduo que, ao procurar pelo suporte ao cliente da Coinbase, acabou ligando para um impostor que lhe roubou 100 mil dólares. Recomenda-se cautela ao usar números de telefone encontrados no Google ou Google Maps e verificar cuidadosamente as informações de contato. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic divulga prompts de sistema que controlam seus modelos Claude: essas são instruções iniciais fornecidas à tecnologia para definir suas qualidades básicas e comportamentos, que normalmente são mantidas em sigilo por motivos competitivos e para impedir que usuários tentem contornar restrições. Os prompts revelados especificam, por exemplo, que os modelos Claude não podem abrir URLs, links ou vídeos, e devem agir como se fossem totalmente incapazes de reconhecer rostos. Além disso, devem tratar assuntos controversos com imparcialidade e objetividade. A decisão da Anthropic pode pressionar concorrentes do setor a seguirem o mesmo caminho. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA desliga “fazenda de laptops” utilizada por profissionais remotos de TI norte-coreanos: um indivíduo foi detido sob acusação de auxiliar na operação criminosa, utilizando a identidade roubada de um cidadão norte-americano, realizando lavagem de dinheiro e fornecendo um local para os notebooks enviados pelas empresas, para que os trabalhadores pudessem acessar remotamente as redes das companhias como se estivessem nos EUA. Entre julho de 2022 e agosto de 2023, cada profissional envolvido no esquema recebeu mais de 250 mil dólares pelo seu trabalho. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de inteligência artificial alcança 70% de precisão ao prever terremotos: a taxa de sucesso representa um avanço na tentativa de mitigar os riscos associados a esses eventos, incluindo perdas econômicas e humanas. A tecnologia foi treinada com um banco de dados contendo cinco anos de gravações sísmicas, e durante um período de sete meses conseguiu antecipar com sucesso 14 terremotos dentro de um raio superior a 320 quilômetros. A equipe planeja integrar o sistema com modelos baseados em física para melhorar a eficácia em regiões com dados limitados, além de criar uma ferramenta generalizada, similar ao ChatGPT, que possa ser aplicada globalmente. As informações são do site SciTechDaily.",
+            "url": ""
+        },
+        {
+            "text": "Ex-pesquisadores do Google enfrentam desafios na criação e gestão de suas próprias startups: muitas dessas empresas lidam com problemas operacionais e de negócios, como desacordos entre cofundadores, além de dificuldades em manter o impulso após a fase inicial de financiamento, e no relacionamento com investidores. Uma lista de exemplos recentes de startups que enfrentaram obstáculos pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft revisa documento que sugeria fim do Painel de Controle no Windows: a empresa havia mencionado que o software estava “em processo de descontinuação em favor do aplicativo Configurações, que oferece uma experiência mais moderna e simplificada”. Após a repercussão negativa, a companhia alterou o texto, agora indicando que “uitas das configurações no Painel de Controle estão em processo de migraçã”. No entanto, ainda não está claro se a Microsoft deseja ou não descontinuar a ferramenta. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
