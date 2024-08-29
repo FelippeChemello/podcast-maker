@@ -211,7 +211,7 @@ export const Intro: React.FC<{
 
 	return (
 		<>
-			<Audio src={audioSrc} placeholder="" />
+			<Audio src={audioSrc} />
 			<AbsoluteFill
 				style={{
 					alignItems: 'center',

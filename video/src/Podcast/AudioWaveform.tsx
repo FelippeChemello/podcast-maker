@@ -73,7 +73,7 @@ export const AudioWaveform: React.FC<{
 
 	return (
 		<>
-			<Audio src={audioSrc} placeholder="" />
+			<Audio src={audioSrc} />
 			<div
 				style={{
 					display: 'flex',

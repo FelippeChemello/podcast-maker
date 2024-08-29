@@ -45,7 +45,7 @@ export const Transition: React.FC<{}> = () => {
 
 	return (
 		<>
-			<Audio src={transitionAudioSrc} placeholder="" />
+			<Audio src={transitionAudioSrc} />
 			<Container>
 				<div
 					style={{

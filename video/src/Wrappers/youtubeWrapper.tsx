@@ -242,13 +242,13 @@ export const YoutubeWrapper: React.FC<WrapperProps> = ({children, title}) => {
 				from={47 + startClickAnimationAtFrame}
 				durationInFrames={Infinity}
 			>
-				<Audio src={clickSound} startFrom={30} placeholder="" />
+				<Audio src={clickSound} startFrom={30} />
 			</Sequence>
 			<Sequence
 				from={105 + startClickAnimationAtFrame}
 				durationInFrames={Infinity}
 			>
-				<Audio src={clickSound} startFrom={30} placeholder="" />
+				<Audio src={clickSound} startFrom={30} />
 			</Sequence>
 			<header
 				style={{
