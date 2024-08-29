@@ -1,0 +1,45 @@
+{
+    "title": "X bloqueado hoje? / Criador do Signal critica Agile / OpenAI: detalhes sobre “Strawberry”",
+    "fps": 30,
+    "timestamp": 1724941942,
+    "width": 0,
+    "height": 0,
+    "date": "29/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Supremo Tribunal Federal intima Elon Musk e ameaça bloquear acesso ao X no Brasil: o mandado foi publicado na conta oficial do STF na plataforma, ordenando que a empresa indique um novo representante legal no país dentro de 24 horas (considerando o horário da publicação, o bloqueio poderia entrar em efeito após às 20h desta quinta). A companhia já havia decidido encerrar suas operações e demitir seus funcionários no Brasil no último dia 17, devido a recentes desentendimentos com decisões judiciais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Moxie Marlinspike, criador do Signal, argumenta que metodologia Ágil compromete inovação no desenvolvimento de software: segundo ele, a abordagem cria “camadas de abstração” que afastam os programadores de um entendimento profundo do que estão construindo, limitando a capacidade de serem criativos e inovadores. Marlinspike também traça um paralelo entre desenvolvedores e pesquisadores de segurança, alegando que o segundo se preocupa em entender como “as coisas realmente funcionam”. Além disso, ele utiliza uma metáfora do mundo de Harry Potter, comparando o entendimento profundo do software à “magia”, capaz de “mudar o mundo”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Detalhes sobre modelo “Strawberry” da OpenAI são divulgados por fonte interna da empresa: segundo informações, a tecnologia é projetada para resolver problemas complexos com maior precisão logo na primeira tentativa, evitando “alucinações”, embora seja mais lenta em termos de tempo de inferência. O objetivo é que ela gere dados sintéticos de alta qualidade que serão utilizados para treinar o próximo grande modelo de linguagem da companhia, chamado “Orion”. Além disso, a OpenAI estaria trabalhando para simplificar e otimizar o Strawberry para que possa ser integrado ao ChatGPT até o final deste ano. As informações são do site LessWrong.",
+            "url": ""
+        },
+        {
+            "text": "Infosys, empresa indiana de TI, é acusada de “explorar” mais de 2 mil graduados com empregos prometidos há dois anos: as ofertas são para os cargos de Engenheiro de Sistemas e Engenheiro Especialista em Digital. Durante esse período, a companhia manteve essas pessoas ocupadas com treinamentos e avaliações, tanto virtuais como presenciais, com duração de até seis semanas, mas sem remuneração. O sindicato de TI do país alega que a organização está prejudicando o crescimento econômico da Índia, que enfrenta uma grande escassez de profissionais qualificados em áreas de tecnologia. O CFO da Infosys afirma que a mesma planeja contratar entre 15 e 20 mil novos graduados este ano, mas não esclarece se isso inclui os 2 mil em espera. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Relatório da Justiça dos EUA indica falhas no manuseio e destruição de componentes eletrônicos utilizados em investigações pelo FBI: discos rígidos e mídias removíveis contendo dados de segurança nacional e documentos sigilosos foram encontrados armazenados sem a devida rotulagem, aumentando o risco de perda ou roubo. Além disso, as caixas onde esses itens eram guardados frequentemente permaneciam abertas, expondo o conteúdo a quase 400 funcionários com acesso à instalação. Em resposta, o FBI afirma que já implementou medidas para mitigar os riscos, submetendo todos os contratados a verificações de segurança e cercando o local. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Open Source Initiative propõe definição clara para o termo “open-source AI”: a decisão é incentivada pelo fato de algumas organizações lançarem modelos de código aberto, como o Llama 3 da Meta, mas com restrições de uso. A OSI deseja alinhar o conceito aos princípios fundamentais de software livre, incluindo a liberdade de uso e modificação para qualquer finalidade, e a possibilidade de estudar o funcionamento do sistema. Segundo a definição sugerida, um sistema de IA open-source deve fornecer acesso ao código-fonte, peso do modelo e informações detalhadas sobre os dados de treinamento. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft transfere projeto Mono para desenvolvedores do WineHQ: a ferramenta permite o desenvolvimento de aplicativos multiplataforma, sendo uma implementação do.NET Framework baseada no padrões ECMA para a linguagem C# e o Common Language Runtime. O Wine é um software que permite a execução de aplicativos Windows em sistemas operacionais Unix-like, como Linux e macOS. A Microsoft reconhece o Mono como pioneiro na implementação do .NET em plataformas como Android e iOS. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
