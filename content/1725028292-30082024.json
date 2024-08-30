@@ -1,0 +1,49 @@
+{
+    "title": "Starlink de graça no Brasil / Tumblr migrando para WordPress / Llama: principal modelo open-source",
+    "fps": 30,
+    "timestamp": 1725028292,
+    "width": 0,
+    "height": 0,
+    "date": "30/08/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Starlink oferecerá internet gratuita no Brasil (temporariamente) após STF bloquear seus recursos financeiros para cobrar multas aplicadas ao X: a medida tomada pelo magistrado é baseada no entendimento de que ambas as empresas fazem parte de um mesmo grupo econômico. Elon Musk justifica sua decisão afirmando que muitas instituições, como escolas e hospitais em áreas remotas, dependem do serviço. As informações são dos sites Tecnoblog e CNN.",
+            "url": ""
+        },
+        {
+            "text": "Automattic, empresa proprietária do WordPress, anuncia migração do Tumblr com meio bilhão de blogs para sua infraestrutura: a companhia ressalta que a mudança será essencialmente técnica, garantindo que a experiência do usuário permanecerá inalterada, e reconhece que a mesma representa um desafio. O objetivo é aproveitar as vantagens de ambas as plataformas, permitindo a integração de ferramentas e recursos. A decisão é vista como um esforço para revitalizar o Tumblr, que vem enfrentando dificuldades financeiras, com perdas anuais de até 30 milhões de dólares. A Automattic não divulgou um cronograma específico para a conclusão do projeto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta destaca crescimento exponencial do Llama, consolidado como principal modelo open-source do mercado: a tecnologia alcançou 20 milhões de downloads somente no último mês, totalizando 350 milhões desde 2023, com destaque para a versão recém-lançada 3.1 405B. A empresa atribui esse sucesso ao seu compromisso com o código aberto, permitindo que uma comunidade diversificada de desenvolvedores inove e adapte os modelos para diferentes casos de uso, beneficiando tanto startups como grandes empresas, que utilizam os modelos para tarefas que vão desde atendimento ao cliente até jogos de realidade aumentada. As informações são do blog da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de tecnologia manifestam preocupações sobre reforma tributária no Brasil: a medida propõe uma redução de 60% nas alíquotas dos tributos IBS e CBS para companhias que possuem pelo menos 20% de capital nacional e prestam serviços à administração pública em áreas relacionadas à soberania e segurança nacional. As organizações argumentam que isso cria uma desvantagem competitiva para multinacionais de cibersegurança que operam no país, visto que a maioria são estrangeiras, possibilitando uma possível “reserva de mercado” para companhias nacionais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação provam, acidentalmente, que calor destrói emaranhamento quântico acima de certa temperatura: esse é um estado em que partículas, como átomos, perdem suas identidades individuais e entram em um estado coletivo. O grupo conseguiu demonstrar, em modelos matemáticos, um fenômeno conhecido como “morte súbita”, no qual o emaranhamento desaparece completamente. A descoberta é curiosa, pois os cientistas estavam originalmente focados no desenvolvimento de um algoritmo para sistemas quânticos. As informações são do site Quanta Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Federal investiga fintechs brasileiras que movimentaram mais de 7 bilhões de reais para organizações criminosas: as empresas InovePay e T10 Bank operavam sem autorização do Banco Central, com contas anunciadas como “invisíveis” ao sistema financeiro, que não apareciam em registros oficiais e estavam protegidas contra bloqueios, penhoras e rastreamento, funcionando por meio de  “contas bolsões”, sem conexão direta entre remetentes e destinatários. A operação da PF também impactou os bancos Rendimento e BS2, que prestavam serviços para essas fintechs. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI e Anthropic compartilharão seus modelos com governo dos EUA antes e após liberação pública: o objetivo é avaliar os riscos de segurança e mitigar potenciais problemas associados à tecnologia. A diretora do Instituto de Segurança de IA do país descreveu os novos acordos como um “importante marco”, destacando que essa colaboração é um passo crucial para promover um desenvolvimento seguro e responsável da inteligência artificial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google aumenta recompensa do programa de vulnerabilidades do Chrome, podendo chegar a meio milhão de dólares: o valor máximo para identificação de uma falha que permite execução remota de códigos foi elevado para 250 mil dólares. Além disso, a descoberta de uma vulnerabilidade funcional de alto impacto que contorne a proteção do “MiraclePtr” — desenvolvida para lidar com problemas de corrupção de memória — acompanhada de um relatório detalhado, pode resultar em uma recompensa de até 500 mil dólares. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
