@@ -1,0 +1,45 @@
+{
+    "title": "Bluesky: 1M de contas em 3 dias / Claude + Alexa / Google: nova sintaxe no SQL",
+    "fps": 30,
+    "timestamp": 1725287477,
+    "width": 0,
+    "height": 0,
+    "date": "02/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após banimento do X no Brasil, Bluesky registra 1 milhão de novos usuários em apenas três dias: a plataforma apresentou um aumento súbito de atividade, atingindo um marco de 1.000 eventos por segundo, o que pode resultar em quedas de desempenho, conforme apontado por um dos desenvolvedores. Em paralelo, o STF solicitou que a Bluesky exclua contas fraudulentas se passando pela própria Corte e disseminando notícias falsas na rede social. O pedido foi realizado de forma administrativa dentro da própria plataforma, permitindo que a empresa decida cooperar sem ser legalmente obrigada. As informações são dos sites The Verge e Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Amazon utilizará Claude da Anthropic na Alexa com IA: a decisão ocorreu após a empresa enfrentar problemas de desempenho com seus modelos proprietários, que levavam até 7 segundos para responder os comandos. Ainda não há uma data definida para o lançamento da nova Alexa. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do Google propõem introdução de nova sintaxe no SQL: o objetivo é simplificar o uso das consultas, permitindo que sejam escritas em qualquer ordem utilizando a expressão “|&gt;”. Em um exemplo citado, a cláusula “FROM” poderia aparecer antes de “SELECT”, refletindo uma lógica mais natural, visto que o segundo depende do primeiro para ser válido. Richard Hipp, criador do SQLite, expressou ceticismo em relação à proposta do novo operador, embora tenha gostado da sintaxe “FROM-first”. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Motion Pictures Association derruba Fmovies, considerada a maior rede de streaming pirata do mundo: Charles Rivkin, CEO da MPA, descreve a operação como uma “vitória impressionante” para a indústria cinematográfica global, destacando-a como um esforço para eliminar a “pirataria em sua raiz”, em contraste com a estratégia tradicional de derrubar sites individuais. O Fmovies atraiu mais de 6,7 bilhões de visitantes entre janeiro de 2023 e junho de 2024. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Após suspensão, Autoridade Nacional de Proteção de Dados autoriza Meta a coletar dados de usuários para treinar seus modelos: a empresa deverá comunicar de maneira clara a ação, utilizando notificações via e-mail, avisos de privacidade e banners específicos nos aplicativos, além de incluir um processo simplificado permitindo que as pessoas desativem o uso de seus dados. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia desenvolvimento de tecnologia projetada para detectar doenças respiratórias, como tuberculose: o HeAR utiliza o áudio captado pelos microfones dos smartphones, visando facilitar o diagnóstico em comunidades com acesso limitado a ferramentas avançadas. O modelo foi treinado com uma vasta base de dados, incluindo 300 milhões de peças de áudio, dos quais 100 milhões são sons de tosse. Estima-se que até 4 milhões de casos de tuberculose no mundo não são relatados, uma doença que, se não tratada, pode apresentar uma taxa de mortalidade superior a 50%. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "ALL TAX, empresa especializada em soluções fiscais e tributárias, adota plataforma de desenvolvimento low-code para superar desafios da Reforma Tributária no Brasil: a decisão foi feita devido à necessidade constante de ajustes e adaptações diante das mudanças nas regulamentações, oferecendo maior autonomia aos usuários ao permitir que eles respondam rapidamente a demandas internas sem depender totalmente de desenvolvedores. A ALL TAX atende grandes corporações no Brasil e, segundo o seu diretor de vendas, aproximadamente 8% do PIB do país vem de empresas que utilizam suas soluções fiscais. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
