@@ -9,6 +9,12 @@ on:
             - 'content/*.json'
             - '**.json'
     workflow_dispatch:
+        inputs:
+            debug_mode:
+                description: 'Debug with SSH'
+                type: boolean
+                required: false
+                default: false
 
 env:
     DEBUG: 1
@@ -140,6 +146,12 @@ jobs:
                 Tmp=$(./bin/run info tmp --dir)
                 echo "Linking $Tmp to public"
                 ln -sf $Tmp public
+
+            - name: Debug
+              if: ${{ inputs.debug_mode }}
+              uses: mxschmitt/action-tmate@v3
+              with:
+                  limit-access-to-actor: true
 
             - name: Create Youtube video
               run: ./bin/run create youtube --upload
