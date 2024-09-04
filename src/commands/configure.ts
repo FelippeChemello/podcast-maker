@@ -23,6 +23,7 @@ export default class Configure extends Command {
             INSTAGRAM_EMAIL: '',
             INSTAGRAM_PASSWORD: '',
             IMAGE_GENERATOR_URL: '',
+            IMAGE_GENERATOR_API_KEY: '',
         };
 
         if (await confirm('Do you want to configure TTS service?  [y/n]')) {
@@ -79,6 +80,11 @@ export default class Configure extends Command {
 
         envs.IMAGE_GENERATOR_URL = await prompt('Image generator URL', {
             required: true,
+        });
+
+        envs.IMAGE_GENERATOR_API_KEY = await prompt('Image generator API key', {
+            required: true,
+            type: 'mask',
         });
 
         await saveSecrets(envs);

@@ -36,7 +36,15 @@ export default class GenerateImageService {
 
             const encodedPrompt = encodeURIComponent(prompt)
             const url = `${process.env.IMAGE_GENERATOR_URL}/?prompt=${encodedPrompt}&width=1280&height=720`
-            const { data } = await this.client.get(url, { responseType: 'arraybuffer' })
+            const { data } = await this.client.get(
+                url, 
+                { 
+                    responseType: 'arraybuffer', 
+                    headers: {
+                        'x-api-key': process.env.IMAGE_GENERATOR_API_KEY
+                    }
+                }
+            )
             const base64 = Buffer.from(data, 'binary').toString('base64')
 
             log(`Generated image for prompt`, 'GenerateImageService');
