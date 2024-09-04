@@ -1,0 +1,49 @@
+{
+    "title": "Brasil: VPNs disparam em 1600% / MongoDB alfineta PostgreSQL / OMS: celular não causa câncer cerebral",
+    "fps": 30,
+    "timestamp": 1725460293,
+    "width": 0,
+    "height": 0,
+    "date": "04/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bloqueio do X no Brasil leva a aumento de 1600% no uso de VPNs: horas após a suspensão da rede social, já houve um crescimento de 469% no uso da ferramenta, apesar da possível multa diária de 50 mil reais para pessoas físicas e jurídicas imposta pelo STF. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "CEO do MongoDB afirma que ferramenta está ganhando cada vez mais terreno contra PostgreSQL: para Dev Ittycheria, o aumento de 13% da receita no segundo trimestre deste ano foi impulsionado por vitórias competitivas sobre o rival, destacando que o Mongo oferece um schema mais flexível e capaz de armazenar documentos em formato semelhante ao JSON, algo benéfico para aplicações que lidam com grandes conjuntos de dados. Apesar das afirmações do CEO, o PostgreSQL é utilizado por 52% dos desenvolvedores, segundo a pesquisa mais recente do Stack Overflow. Além disso, estima-se que a valorização do MongoDB tenha caído até 25% após a empresa reduzir suas expectativas de crescimento de receita para o restante do ano. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Uso de celulares não está associado ao câncer cerebral, segundo maior estudo já realizado sobre o tema encomendado pela OMS: o autor esclarece que esses dispositivos, assim como notebooks e TVs, emitem radiação eletromagnética de radiofrequência, e observa que a palavra “adiaçã” pode causar preocupação, sendo frequentemente associada à nuclear. Ao todo, foram analisados 63 estudos conduzidos entre 1994 e 2022. A equipe agora está trabalhando para investigar cânceres menos associados aos celulares, como leucemia e linfoma não-Hodgkin. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que coleta de dados biométricos preocupa 60% dos brasileiros: o uso de impressões digitais e reconhecimento facial estão entre as principais fontes de apreensão, especialmente se tratando de instituições financeiras, órgãos governamentais e transporte público. Apesar disso, 58% dos entrevistados disseram concordar com políticas de privacidade sempre ou quase sempre sem ler, e apenas 24% tomam a iniciativa de realizar reclamações, solicitações ou denúncias relacionadas a dados pessoais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Canva Teams pode enfrentar aumento de até 300% no valor da assinatura a partir do próximo ano: algumas pessoas relatam que o custo anual para até cinco usuários aumentou de 120 para 500 dólares. A companhia justifica a decisão devido ao lançamento de recursos de IA na plataforma. Outros planos, como Pro e Enterprise, aparentemente não foram afetados. Usuários insatisfeitos manifestaram a intenção de cancelar suas assinaturas e migrar para aplicativos da Adobe. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal dos EUA alerta sobre aumento de fraudes em caixas eletrônicos de Bitcoin: o golpe envolve o uso de chamadas telefônicas, mensagens e alertas de segurança falsos para convencer as vítimas de que estão em perigo e que precisam depositar seu dinheiro, onde o criminoso fornece um QR code para ser escaneado no caixa eletrônico, fazendo com que o valor seja adicionado em sua própria conta. De acordo com a FTC, as fraudes desse tipo aumentaram quase dez vezes desde 2020, e somente na primeira metade de 2024 foram roubados 66 milhões de dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Estudo realizado com Llama2-70B da Meta indica que modelos de linguagem são inferiores aos humanos no resumo de textos: os testes foram conduzidos pela Amazon no início deste ano para a agência governamental australiana ASIC, instruindo a tecnologia a resumir submissões sobre empresas de auditoria e consultoria, juntamente com outros dez funcionários de diferentes níveis de senioridade. A avaliação foi feita por um grupo de revisores que não tinham conhecimento do texto gerado pela IA. Com base em critérios como coerência, comprimento, e referência à regulamentações, os resumos feitos por humanos alcançaram uma pontuação geral de 81% em comparação com os 47% obtidos pelo modelo, que frequentemente incluía informações incorretas ou omitia dados relevantes. As informações são do site Crikey.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft confirma que Recall não poderá ser desinstalado do Windows 11: a opção de remoção da ferramenta foi identificada no painel de recursos do sistema, na atualização mais recente da versão 24H2. No entanto, a empresa afirma que trata-se de um bug que será corrigido futuramente. A Microsoft planeja lançar uma versão de preview do Recall no programa Windows Insiders para PCs Copilot Plus em outubro. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
