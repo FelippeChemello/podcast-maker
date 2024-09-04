@@ -1,0 +1,45 @@
+{
+    "title": "Google Brasil: 180 bi em receitas / Campanha maliciosa no GitHub / Coleta de voz em celulares",
+    "fps": 30,
+    "timestamp": 1725373929,
+    "width": 0,
+    "height": 0,
+    "date": "03/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Relatório indica que Google movimentou mais de 180 bilhões de reais no Brasil em 2023: as receitas são provenientes de produtos como Search, AdSense, Ads, Cloud, Play e YouTube, representando um aumento de 20% em relação ao ano de 2022. A região Sudeste registrou o maior volume de movimentação financeira com 93,5 bilhões de reais, seguida pelo Sul (33,9), Nordeste (32,2), Centro-Oeste (17,7) e Norte (11,2). Fábio Coelho, presidente do Google no Brasil, ressalta a importância do país para a empresa, afirmando que o mesmo está “ntre os cinco maiores para nossas principais plataforma”. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa no GitHub utiliza comentários em repositórios para espalhar malware “Lumma Stealer”: as mensagens fingem solucionar problemas relatados por outros usuários, direcionando-os a baixarem o arquivo “fix.zip” contendo um executável capaz de roubar cookies, senhas, informações de cartões de crédito e histórico de navegadores baseados em Chromium, além de carteiras de moedas digitais e chaves privadas. Estima-se que mais de 29 mil comentários desse tipo foram postados em apenas três dias. A plataforma já está tomando medidas para remover o conteúdo malicioso. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de marketing é criticada por utilizar tecnologia para coletar dados de voz de usuários pelo microfone do celular: a ferramenta de “active listening”, desenvolvida pela Cox Media Group, processa informações coletadas de mais de 470 fontes, incluindo Google, Facebook, Amazon e LinkedIn para fornecê-las a anunciantes, a fim de direcionar propagandas a consumidores em um raio de até 32 quilômetros. A Amazon informa que seu setor de publicidade “nunca trabalhou com a CMG”, enquanto o Google removeu a empresa do seu programa Partners. Em paralelo, a Meta iniciou uma revisão para investigar possíveis violações dos seus termos de serviço. As informações são do site It’s FOSS.",
+            "url": ""
+        },
+        {
+            "text": "AnandTech, renomado site de tecnologia, encerra operações após 27 anos: a plataforma é amplamente conhecida pelas análises aprofundadas de hardware. Em 2011, o fundador Anand Lal Shimpi havia expressado sua frustração com a tendência da mídia online de priorizar conteúdo “sensacionalista” e focado em cliques. Ryan Smith, último editor-chefe do site, afirma que havia chegado a “hora do AnandTech encerrar seu trabalho e deixar a próxima geração de jornalistas de tecnologia tomar seu lugar”. Apesar disso, conteúdos e fóruns da comunidade permanecerão acessíveis. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT alcança 200 milhões de usuários semanais, segundo OpenAI: o número representa o dobro do valor calculado em novembro de 2023. A empresa também revela que 92% das companhias listadas na Fortune 500 utilizam seus produtos. Sam Altman destaca que os usuários aplicam as ferramentas da OpenAI em diversas áreas, como saúde e educação, para auxiliar em tarefas rotineiras, “roblemas difícei” ou “iberar a criatividad”. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Ferramenta utilizada por desenvolvedores e pesquisadores de segurança é removida do Docker Hub a pedido da Apple: com 750 mil downloads, o “Docker-OSX” possibilitava a virtualização do macOS em sistemas Linux e Windows, podendo ser usado para testar softwares ou encontrar vulnerabilidades. O código-fonte do projeto ainda está disponível no repositório “sickcodes/Docker-OSX” do GitHub, mas sem conter os binários de instalação do macOS, o que poderia evitar futuros pedidos de remoção. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Experimento de web scraping com GPT-4o gera custo de 24 dólares em apenas dois dias: o modelo foi solicitado a extrair dados de uma string HTML, e apresentou desempenho satisfatório em tabelas simples e complexas, incluindo uma previsão meteorológica de 10 dias da plataforma Weather, mas enfrentou desafios ao lidar com informações de células combinadas. Apesar do desempenho geral positivo, o desenvolvedor responsável pelo experimento ressalta os custos envolvidos, tornando a abordagem impraticável para uso contínuo, onde até mesmo tabelas pequenas podem conter uma alta quantidade de caracteres. Mais detalhes podem ser conferidos no repositório “dublancas/post” do GitHub. As informações são do blog de Eduardo Blancas.",
+            "url": ""
+        }
+    ]
+}
