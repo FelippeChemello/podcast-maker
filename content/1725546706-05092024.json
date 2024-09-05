@@ -1,0 +1,45 @@
+{
+    "title": "Tensão: Linux, Rust e líder BR  / Sequestro de pacotes no PyPi / Empresas questionam preços da nuvem",
+    "fps": 30,
+    "timestamp": 1725546706,
+    "width": 0,
+    "height": 0,
+    "date": "05/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasileiro líder do projeto Rust for Linux anuncia sua saída: Wedson Almeida Filho afirma que, após quatro anos de trabalho, está “em a energia e o entusiasmo que tinha para responder a algumas bobagens não técnica” e que seria mais adequado deixar essa responsabilidade para outros interessados. Além disso, ele também destaca sua convicção de que o futuro dos kernels está em “inguagens seguras para memóri”, como o Rust, e alerta que, se o Linux não adotar essa abordagem, “lgum outro kernel pode fazer com ele o que ele fez com o Uni”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no PyPi permite sequestro de pacotes para espalhar malwares: a falha possibilita que um módulo seja carregado com o mesmo nome de outro previamente excluído, resultando em infecção automática caso ele seja baixado manualmente ou por ferramentas de integração contínua. Estima-se que 22 mil pacotes estejam vulneráveis, considerando que cerca de 300 são removidos do repositório mensalmente. Recomenda-se cautela por parte dos usuários e que as rotinas de CI/CD sejam configuradas para evitar a instalação de pacotes que já foram removidos. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que migração para nuvem não cumpre expectativas de custo-benefício para empresas: entre as companhias entrevistadas, mais de 33% questionam o valor e as promessas associadas aos serviços oferecidos. Comparações realizadas para uma configuração simples de três nós com 200 GB de armazenamento persistente e 5 TB de transferência de dados indicam aumentos de 14,1% nos preços do Azure, 12,9% no Google Cloud e 8,1% na AWS entre 2022 e 2024. Um analista da Gartner atribui essa mudança aos custos elevados de profissionais qualificados e de eletricidade. Microsoft e Google optaram por não comentar, enquanto a AWS alega ter reduzido seus preços várias vezes desde o lançamento de seus serviços. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Startup de Ilya Sutskever, ex-cientista-chefe da OpenAI, consegue arrecadar mais de 1 bilhão de dólares em investimentos: a Safe Superintelligence pretende utilizar esses recursos para adquirir poder de computação e contratar pesquisadores e engenheiros, embora não tenha revelado detalhes adicionais sobre as funções específicas de cada um. Estima-se que, após essa rodada de financiamento, a SSI seja avaliada em 5 bilhões de dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade de saúde da Suécia orienta que crianças menores de dois anos evitem uso de telas: a recomendação é de uma hora por dia para o público infantil de 2 a 5 anos, duas horas de 6 a 12, e três horas para adolescentes de 13 a 18. Estima-se que o tempo médio de exposição a aparelhos digitais por crianças suecas de 9 a 12 anos seja de quatro horas diárias, e mais de 7 horas para indivíduos de 17 a 18, sem incluir o tempo dedicado a trabalhos escolares. De acordo com o ministro dos Assuntos Sociais do país, o uso prolongado desses dispositivos “ode ter efeitos negativos na saúde, incluindo piora do sono e sintomas de depressã”. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Dados da Steam indicam que Windows 11 é o mais popular entre usuários da plataforma pela primeira vez desde seu lançamento: o sistema atingiu 49% de participação em agosto — um aumento superior a 3% em relação ao mês anterior — superando o Windows 10 com 47%, enquanto Linux e macOS mantiveram suas posições praticamente inalteradas no mesmo período. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI alega ser impossível treinar seus modelos de linguagem sem ter acesso a materiais protegidos por direitos autorais: de acordo com a empresa, limitar os dados a “livros e desenhos do domínio público criados há mais de um século pode resultar em um experimento interessante, mas não produzirá sistemas de IA que atendam às necessidades dos cidadãos de hoj”, visto que os direitos autorais abrangem praticamente todos os tipos de expressão humana, como postagens em blogs e fóruns, fotos, fragmentos de código e documentos governamentais. As informações são do site Futurism.",
+            "url": ""
+        }
+    ]
+}
