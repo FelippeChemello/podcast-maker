@@ -1,0 +1,49 @@
+{
+    "title": "Alerta: multas falsas do STF / Bluetooth 6.0 anunciado / Falha permanente em YubiKeys",
+    "fps": 30,
+    "timestamp": 1725633093,
+    "width": 0,
+    "height": 0,
+    "date": "06/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Supremo Tribunal Federal alerta para cobranças falsas de multas em e-mails e aplicativos de mensagens: criminosos têm enviado notificações fraudulentas, alegando a existência de ordens judiciais fictícias. A corte reforça que não emite boletos, não solicita transferências bancárias e não utiliza meios eletrônicos extraoficiais para requisitar pagamentos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Bluetooth 6.0 é oficialmente anunciado: entre as principais novidades está o “Channel Sounding”, que permite determinar a distância entre dois dispositivos com precisão de centímetros. A tecnologia também promete ser mais segura para chaves digitais usadas em portas de carros ou quartos de hotel, garantindo que o desbloqueio só ocorra quando o dispositivo autorizado estiver dentro de uma distância específica, mitigando o risco de ataques “an-in-the-middl”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no Yubikey 5, token de hardware mais utilizado em autenticação de dois fatores, permite clonar dados de acesso: a falha, conhecida como “side channel”, exige que o invasor tenha acesso físico ao dispositivo, e está presente em um microcontrolador disponível em vários dispositivos da categoria, como cartões inteligentes de bancos, passaportes eletrônicos e sistemas de controle de acesso a áreas seguras. A fabricante Yubico emitiu um comunicado reconhecendo o problema, relatando que todas as YubiKeys com firmware anterior à versão 5.7 são vulneráveis, mas que não será possível atualizá-lo, fazendo com que os dispositivos fiquem permanentemente vulneráveis. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Visual Studio Code está migrando seu código-fonte para módulos ECMAScript: a tecnologia é melhor suportada por navegadores modernos, em contraste com o padrão mais antigo — AMD (Asynchronous Module Definition) — que tem sido utilizado por vários anos. Uma versão Insiders com suporte a ESM deve ser lançada ainda este mês, com previsão de uma build estável em outubro. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comércio dos EUA recebe solicitação pública para que empresas informem por quanto tempo um produto receberá suporte: representantes pedem que as fabricantes forneçam orientações claras sobre quando o software do dispositivo ficará obsoleto, argumentando que, além da perda de funcionalidades críticas, esses aparelhos podem sofrer uma redução em seu valor de revenda quando suas capacidades são alteradas após a compra. Além disso, é solicitado que as empresas assegurem que a funcionalidade essencial de um produto continue operando mesmo sem conexão com a internet, ou quando o software deixa de receber atualizações. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "FBI desativa esquema de músico que utilizava canções geradas por IA para receber até 12 milhões de dólares em royalties de plataformas como Spotify: o esquema envolvia a criação de milhares de contas falsas de streaming com e-mails comprados, onde um software personalizado reproduzia as faixas em loop a partir de múltiplos computadores, simulando ouvintes de diferentes regiões. O próprio músico calculou que poderia realizar mais de 660 mil transmissões e gerar 3,3 mil dólares por dia, chegando a 1,2 milhão ao ano. O FBI afirma que este é o primeiro caso criminal nos EUA relacionado à manipulação artificial de streamings de música. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que empresas estão investindo cada vez menos em segurança: embora os gastos gerais com a área tenham aumentado 8% este ano, o crescimento ainda é menor do que os registrados em 2021 (16%) e 2022 (17%). Uma das razões sugeridas é que setores como a manufatura já tenham realizado grandes investimentos nesse setor nos últimos anos, reduzindo a necessidade de novos gastos significativos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Alunos que usam ChatGPT como assistente de estudo têm desempenho inferior em testes, segundo pesquisa: cerca de 1.000 estudantes foram submetidos a exercícios de matemática. Os resultados mostram que, embora aqueles com acesso à tecnologia conseguiram resolver 48% a mais de problemas práticos, eles obtiveram uma pontuação 17% inferior a respeito de um tópico específico que estavam aprendendo. Os pesquisadores sugerem que a causa pode estar na dependência excessiva dos alunos em relação ao chatbot, que fornece respostas diretas, impedindo o desenvolvimento das habilidades necessárias para a resolução independente de problemas. As informações são do site The Hechinger Report.",
+            "url": ""
+        }
+    ]
+}
