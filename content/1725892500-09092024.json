@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp + outros apps / YouTube contra deepfakes / Python, JS, Java: mais utilizadas",
+    "fps": 30,
+    "timestamp": 1725892500,
+    "width": 0,
+    "height": 0,
+    "date": "09/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta permitirá integração do WhatsApp e Messenger com aplicativos de mensagens de terceiros: usuários poderão configurar uma pasta específica para as conversas ou optar por uma caixa de entrada unificada. Recursos como reações, respostas diretas, indicadores de digitação e confirmações de leitura também estão previstos para serem integrados no futuro. A empresa planeja lançar uma funcionalidade de grupos para bate-papos de outras plataformas em 2025, e implementar chamadas de voz e vídeo em 2027. Além disso, será exigida criptografia de ponta a ponta para viabilizar a interoperabilidade, o que pode apresentar desafios técnicos. No entanto, ainda não está claro se grandes marcas como Telegram e Viber oferecerão suporte para a integração. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube anuncia desenvolvimento de ferramentas que auxiliarão criadores de conteúdo a combaterem deepfakes: o “synthetic-singing identification” permitirá que artistas detectem e gerenciem automaticamente materiais na plataforma que simulem suas vozes cantando, com previsão de um programa piloto no próximo ano. Outra ferramenta visa identificar cópias faciais de atores, músicos e atletas, mas ainda sem data de lançamento. Além disso, o YouTube está explorando formas de fornecer aos criadores mais controle sobre como outras empresas podem utilizar seu conteúdo, com mais detalhes a serem divulgados ainda este ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Python, JavaScript e Java são as linguagens mais amplamente utilizadas, de acordo com dados combinados de nove rankings de popularidade: as tecnologias são empregadas principalmente no desenvolvimento de IAs. Na sequência, destacam-se C++, C# e C, além de TypeScript e SQL. Linguagens Web mais antigas como HTML/CSS e PHP ainda figuram no ranking, enquanto o Swift da Apple aparece na última posição. A análise envolveu plataformas como PYPL, índice TIOBE, relatórios de uso do GitHub, rankings do Stack Overflow e IEEE Spectrum, a fim de minimizar os vieses e oferecer uma visão mais equilibrada. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Telegram revisa política de moderação de chats privados após prisão de CEO: a empresa alterou a seção da sua página de FAQ que trata da sinalização de conteúdo ilegal na plataforma, destacando a presença do botão “denunciar”, diferente da resposta anterior que dizia que a equipe não atendia solicitações relacionadas a conversas privadas no aplicativo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "PwC, empresa global de contabilidade, rastreará localização de seus 26 mil funcionários do Reino Unido para garantir cumprimento de dias no escritório: os colaboradores deverão cumprir horário presencial por pelo menos três dias na semana, ou 60% do tempo, e receberão todos os meses um relatório com “dados individuais de local de trabalho”. A sócia-gerente da companhia afirma que havia inconsistências na forma como os profissionais interpretavam a política de trabalho híbrido. Estima-se que o tempo médio de presença no escritório dos trabalhadores londrinos em geral seja de 2,7 dias por semana, menos do que os 3,1 solicitados pelos empregadores. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "IA da Receita Federal detecta fraude de 700 milhões de reais envolvendo moedas digitais: o caso envolvia a movimentação de grandes somas por empresas de fachada. Foram detectadas operações de importação e remessas internacionais que apresentavam fortes indícios de irregularidades fiscais e possível envolvimento em outros crimes. A plataforma utiliza algoritmos de aprendizado de máquina e análise de redes complexas, permitindo uma detecção mais eficiente de ilegalidades, maior segurança na tomada de decisões e um aumento na produtividade das atividades de fiscalização. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Dados indicam que assinatura eletrônica do GovBR ultrapassou 70 milhões de utilizações pelos brasileiros: ao todo, 69 sistemas de diferentes esferas administrativas já utilizam a ferramenta, que é classificada como avançada, onde qualquer modificação posterior é detectável, garantindo a mesma validade legal de uma assinatura física. Somente entre janeiro e agosto de 2023, foram contabilizados 28,6 milhões de registros. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
