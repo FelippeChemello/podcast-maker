@@ -1,0 +1,45 @@
+{
+    "title": "Fork do VS Code com ChatGPT / Google promove Rust / WhatsApp: falha na visualização única",
+    "fps": 30,
+    "timestamp": 1725978740,
+    "width": 0,
+    "height": 0,
+    "date": "10/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fork do Visual Studio Code com modelos de linguagem permite desenvolver aplicativos em poucos minutos utilizando linguagem natural: o Cursor emprega tecnologias como Claude 3.5 Sonnet e GPT-4o, e facilita que iniciantes da área consigam colocar um programa em funcionamento rapidamente. O CEO, Michael Truell, descreve a ferramenta como um “Google Docs para programadores”, e afirma que o objetivo é automatizar 95% do trabalho de um engenheiro de software, para que possam se concentrar nos aspectos criativos do desenvolvimento. O Cursor oferece um plano gratuito com recursos suficientes para criar código básico, além de uma modalidade Pro com um custo mensal de 20 dólares. As informações são do site Tom's Guide.",
+            "url": ""
+        },
+        {
+            "text": "Google incentiva desenvolvedores a adotarem Rust em vez C na programação de firmwares: engenheiros da empresa argumentam que a linguagem oferece uma solução eficaz para evitar falhas de memória, como estouros de buffer e uso após liberação, que representam a maioria das vulnerabilidades em grandes bases de código, além de oferecer interoperabilidade com C. A companhia reescreveu recentemente o firmware para máquinas virtuais protegidas no Android Virtualization Framework e já está expandindo essa abordagem para o projeto Chromium. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no WhatsApp Web permite contornar visualização única de fotos e vídeos: o recurso foi projetado para funcionar exclusivamente em celulares. No entanto, a falha permite salvar uma cópia da mídia enviada pela versão de navegador. A Meta já está ciente do problema e trabalhando em uma correção, ainda sem previsão de lançamento. Recomenda-se compartilhar esse tipo de conteúdo apenas com pessoas de confiança. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Carros elétricos podem demorar mais do que previsto para substituir veículos a gasolina, segundo projeção: o carregamento continua sendo um grande obstáculo para muitos consumidores, onde proprietários que podem instalar carregadores domésticos teriam uma vantagem em relação àqueles que dependem de estações públicas, consideradas pouco confiáveis. O preço médio de compra também é um fator limitante, que chegou a 56 mil dólares em julho, em contraste com os 48 mil de carros a gasolina no mesmo período. Além disso, estima-se que alguns modelos mais antigos de veículos elétricos podem perder até 50% do seu valor de revenda em apenas um ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que empresas que migram de código aberto para licenças proprietárias não obtêm retornos financeiros significativos: a análise envolveu casos como MongoDB e HashiCorp. Embora essas e outras companhias tenham registrado aumento de receita após a mudança, a taxa de crescimento foi similar à observada antes da transição. Acredita-se que o principal fator para a alteração da licença seja o uso de softwares open-source por fornecedores de nuvem, que oferecem esses produtos como serviço, lucrando com sua hospedagem sem repassar os benefícios aos desenvolvedores originais. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores afirmam que modelos na GPT Store da OpenAI coletam dados e facilitam rastreamento online de usuários: foram analisados cerca de 120 mil aplicativos disponíveis na loja, juntamente com mais de 2.500 actions — que convertem textos de linguagem natural em JSON para chamadas de API — indicando que apenas 5,8% delas divulgam claramente suas práticas de coleta de dados, que podem incluir informações sensíveis, como senhas, e serem incluídas em dados de treinamento, potencialmente resultando em vazamentos acidentais. A maioria (82,9%) das actions implementadas nos GPTs analisados são desenvolvidas por terceiros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que pessoas podem confiar excessivamente em IAs para tomar decisões: uma lista com oito fotos de alvos fictícios classificados como “amigos” ou “inimigos” foi apresentada aos participantes de um experimento, para que escolhessem se realizavam ou não um ataque simulado de drone em cada um. Em paralelo, um modelo fornecia uma segunda opinião de forma totalmente aleatória, sem que os indivíduos soubessem. Os resultados indicam que, apesar de serem alertados sobre a falibilidade dos sistemas de IA, 67% dos participantes mudaram suas decisões para concordar com a mesma, e 97% confirmaram suas escolhas quando eram iguais às do sistema. O estudo visa investigar a confiança exagerada na tecnologia em áreas críticas como medicina, policiamento e militar, ou mesmo em escolhas pessoais, ao comprar uma casa, por exemplo. As informações são do site The Engineer.",
+            "url": ""
+        }
+    ]
+}
