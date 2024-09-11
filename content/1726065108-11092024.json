@@ -1,0 +1,45 @@
+{
+    "title": "AMD prioriza IA / Anatel restringe ligações excessivas / Baterias com +50% de vida útil",
+    "fps": 30,
+    "timestamp": 1726065108,
+    "width": 0,
+    "height": 0,
+    "date": "11/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "AMD afirma que irá priorizar chips voltados para IA em vez de GPUs para jogos: em julho, os relatórios financeiros da companhia já indicavam um foco crescente nesse tipo de produto, com metade das vendas sendo direcionadas para data centers. Jack Huynh, chefe de computação e gráficos, explica que, no segmento para games, a empresa buscará aumentar a escala e participação de mercado em faixas de preço mais acessíveis, em vez de apostar em hardware de alto custo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anatel determina que todas as empresas que realizam mais de 10 mil ligações por dia utilizem código 0303: inicialmente, a norma era aplicável apenas ao ramo de telemarketing. A nova exigência entrará em vigor a partir de 5 de janeiro de 2025, e as organizações terão 60 dias para se adequar, sob pena de bloqueio no sistema de telecomunicações brasileiro em caso de descumprimento. Contudo, companhias que participarem do programa Origem Verificada serão isentadas, considerando que o cliente receberá informações detalhadas, como nome do contato e motivo da ligação. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que carregar baterias de íons de lítio pela primeira vez com correntes elevadas pode aumentar sua vida útil em 50%: com o auxílio de aprendizado de máquina, cientistas identificaram mudanças específicas nos eletrodos que contribuem diretamente na eficiência das células de energia, destacando a importância da temperatura e da corrente durante o carregamento. Além de aumentar a vida útil, o tempo da carga inicial diminui de 10 horas para apenas 20 minutos. Os resultados podem impactar positivamente a fabricação de baterias para veículos elétricos e outros aparelhos. As informações são do site EurekAlert.",
+            "url": ""
+        },
+        {
+            "text": "MariaDB torna-se uma empresa de capital fechado após ser adquirida por cerca de 37 milhões de dólares pela K1 Investment Management: desde sua entrada na bolsa de valores em 2022 a companhia vinha enfrentando desafios financeiros, onde seu valor de mercado, que já alcançou 445 milhões de dólares, despencou para menos de 12 milhões no início de 2024. A organização planeja continuar o desenvolvimento de suas soluções de banco de dados, especialmente para cargas de trabalho impulsionadas por IA e computação em nuvem. A MariaDB Foundation, que supervisiona o projeto de código aberto, segue ativa e recentemente atraiu a Amazon Web Services (AWS) como patrocinadora. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Austrália planeja implementar idade mínima para crianças acessarem redes sociais: o governo cita preocupações com a saúde mental e física. Contudo, o inquérito levantou preocupações sobre a viabilidade da restrição e os possíveis impactos negativos, como incentivar os jovens a ocultarem suas atividades online, levando-os a “espaços menos regulamentados” e de “menor qualidade”. A Austrália é um dos países mais conectados do mundo, com 80% de sua população de 26 milhões de pessoas conectada às redes, e 75% dos indivíduos entre 12 e 17 anos usando plataformas como YouTube ou Instagram. No Brasil, tramita um projeto de lei que propõe a idade mínima de 12 anos para criar uma conta em redes sociais. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Roblox anuncia ferramenta capaz de criar ambientes 3D a partir de simples comandos de texto: a tecnologia promete facilitar o trabalho de desenvolvedores com habilidades limitadas em design. Entretanto, devido à escassez de dados disponíveis para o treinamento, a empresa alerta que os resultados podem ocasionar situações em que objetos sejam gerados em posições inusitadas. Para mitigar esse problema, um segundo modelo treinado com imagens em 2D será utilizado para validar a consistência dos ambientes gerados. A Roblox também planeja disponibilizar a tecnologia em código aberto. Ainda não há data prevista de lançamento. As informações são do site MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "Analistas da Gartner preveem uma possível redução na demanda por GPUs à medida que a IA torna-se mais eficiente: Erick Brethenoux destaca a atual fase de “orça brut” da tecnologia, onde o hardware especializado é essencial devido à falta de refinamento das técnicas de programação, mas com o desenvolvimento de métodos mais eficientes, essa necessidade tende a diminuir. Além disso, ele critica o exagero em torno do hype da IA generativa, apontando que, embora esteja em evidência, representa apenas 5% dos casos de uso. Bern Elliot também ressalta que esses modelos ainda enfrentam limitações, como “alucinações”, e que devem ser empregados exclusivamente para geração de conteúdo, descoberta de conhecimento e interfaces conversacionais. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
