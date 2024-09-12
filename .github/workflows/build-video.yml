@@ -136,7 +136,7 @@ jobs:
               run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Download TTS files
-              uses: actions/download-artifact@v2
+              uses: actions/download-artifact@v3
               with:
                   name: audio-files
                   path: ${{ steps.tmp.outputs.tmpPath }}/
