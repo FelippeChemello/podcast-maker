@@ -1,0 +1,45 @@
+{
+    "title": "Google + Wayback Machine / Express.js 5.0 / 1º polo de data centers no Brasil",
+    "fps": 30,
+    "timestamp": 1726151632,
+    "width": 0,
+    "height": 0,
+    "date": "12/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia parceria com Internet Archive para exibir versões anteriores de sites nos resultados de busca: o sistema passará a ter um link direto para o Wayback Machine, que poderá ser acessado clicando no ícone de três pontos ao lado de qualquer resultado da busca, e depois selecionando a opção “ais sobre esta págin”. O recurso está sendo liberado gradualmente para todos os usuários. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Após 10 anos sem novidades significativas, Express.js anuncia release 5.0: entre as principais mudanças está a melhoria no tratamento de erros em funções assíncronas, onde, caso uma promise seja rejeitada, a mensagem será encaminhada ao middleware do framework, evitando o travamento da aplicação. Além disso, o objeto “pp.route” foi reintroduzido. A equipe está buscando mais colaboradores para ajudar com “ocumentação e o restante das dependências do ecossistem” antes de designar a release como uma versão de suporte de longo prazo (LTS). De acordo com uma pesquisa do Stack Overflow de 2024, o Express.js é o terceiro framework web mais popular, depois de React e Next.js. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Rio Grande do Sul receberá 3 bilhões de reais em investimentos para sediar primeiro distrito industrial de data centers no Brasil: o projeto é resultado de um acordo do governo do estado com a empresa Scala Data Centers, e tem como objetivo posicionar o país como um polo de desenvolvimento em IA. A estrutura será construída em uma área estratégica da Região Metropolitana de Porto Alegre, conhecida por sua segurança contra desastres naturais e oferta abundante de energia elétrica. A capacidade inicial será de 54 MW, superior à dos mercados da Argentina e do Uruguai. Devido ao clima mais ameno do estado, os data centers contarão com uma eficiência no uso de energia inferior a 1.2 PUE — o mais baixo da América Latina — e zero utilização de água, dando lugar ao resfriamento por fluido refrigerante. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "WordPress exigirá autenticação de dois fatores para desenvolvedores de plugins a partir de outubro: a decisão faz parte dos esforços da equipe para mitigar o risco de acessos não autorizados, que podem resultar em ataques à cadeia de suprimentos. Além disso, a plataforma introduziu senhas específicas para o gerenciador de versão SVN, que separam o acesso às modificações de código das credenciais da conta principal. Os autores de plugins que utilizam scripts de implantação, como GitHub Actions, precisarão atualizá-los para integrar as novas senhas específicas do SVN. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft irá forçar atualização de dispositivos com Windows 11 para versão 23H2 a partir do próximo mês: a medida se aplica a usuários das edições “Enterprise”, “Education” e “IoT Enterprise” da release 21H2, assim como da “Home” e “Pro” da 22H2. Dispositivos gerenciados por equipes de TI ficarão isentos. A 23H2 será a última a incluir recursos como o WordPad e a Realidade Mista, e introduz o Windows Copilot, que substitui a Cortana, auxiliando os usuários a ajustar configurações do sistema de maneira mais intuitiva. A versão também introduz uma ferramenta de backup na nuvem e melhorias na interface do Explorador de Arquivos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ford solicita patente para tecnologia que escuta conversas de motoristas para exibir anúncios personalizados: o “in-vehicle advertisement presentation” seria capaz de monitorar diálogos entre os ocupantes do veículo, assim como localização, velocidade, tipo de estrada e condições de trânsito, além de prever rotas e destinos — como uma consulta médica. De acordo com o documento, o sistema seria baseado em software, sem necessidade de novos equipamentos. Em resposta à divulgação da solicitação, a Ford afirma que “a submissão de patentes faz parte do processo normal de qualquer empresa sólida”, e que as ideias descritas “ão devem ser interpretadas como uma indicação de planos de negócios ou produtos futuro”. As informações são do site The Record.",
+            "url": ""
+        },
+        {
+            "text": "Brasil ocupa primeira posição da América Latina na adoção de moedas digitais, segundo estudo: o país está a frente da Venezuela, México e Argentina, e na 10ª posição do ranking global, liderado pela Índia. Entre o quarto trimestre de 2023 e o primeiro de 2024, a atividade global desses ativos digitais atingiu níveis superiores aos registrados durante o pico do mercado em 2021, principalmente em países de renda média-baixa. A aprovação dos ETFs de Bitcoin nos EUA estimulou um aumento em sua movimentação em várias regiões. No entanto, as stablecoins experimentaram o maior crescimento tanto em transferências de varejo quanto em transações de grande porte, inclusive na América Latina. A lista completa do ranking dos países está disponível no TabNews.",
+            "url": ""
+        }
+    ]
+}
