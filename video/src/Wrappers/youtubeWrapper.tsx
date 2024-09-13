@@ -39,9 +39,9 @@ const VideoWrapper = styled.div<VideoWrapperProps>`
 	background: #0c2d48;
 	display: flex;
 	flex-direction: column;
+    gap: 30px;
 	width: ${(props) => props.videoWidth}px;
 	height: ${(props) => props.videoHeight}px;
-	justify-content: space-between;
 	transform: scale(0.63) translate(-25%, -25%);
 	overflow: hidden;
 `;

@@ -17,9 +17,9 @@ const VideoWrapper = styled.div<VideoWrapperProps>`
 	background: #0c2d48;
 	display: flex;
 	flex-direction: column;
+    gap: 30px;
 	width: ${(props) => props.videoWidth}px;
 	height: ${(props) => props.videoHeight}px;
-	justify-content: space-between;
 	overflow: hidden;
 `;
 
@@ -29,7 +29,6 @@ export const Wrapper: React.FC<WrapperProps> = ({children, title, show}) => {
 	const {
 		width: videoWidth,
 		height: videoHeight,
-		durationInFrames,
 	} = useVideoConfig();
 
 	if (destination === 'youtube' && show) {
