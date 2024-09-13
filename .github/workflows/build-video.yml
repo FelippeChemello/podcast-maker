@@ -128,7 +128,7 @@ jobs:
             - name: Build
               if: steps.podcast-maker-cache.outputs.cache-hit != 'true'
               run: |
-                  pnpm
+                  pnpm i
                   pnpm build
 
             - name: Get tmp path
