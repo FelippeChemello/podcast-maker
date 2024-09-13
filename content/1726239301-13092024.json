@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI lança “Strawberry” / Demanda global por Devs BR / Windows: Microsoft quer restringir kernel",
+    "fps": 30,
+    "timestamp": 1726239301,
+    "width": 0,
+    "height": 0,
+    "date": "13/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança modelo “o1”, anteriormente referido como “Strawberry”, com habilidades de raciocínio aprimoradas: a tecnologia foi projetada para responder perguntas complexas, demonstrando melhorias na escrita de código e resolução de problemas multietapas. Em testes, o modelo obteve uma taxa de acerto de 83% em um exame de qualificação para a Olimpíada Internacional de Matemática, em contraste com os 13% do GPT-4o, e superou 89% dos participantes em competições de programação online, mas ainda apresenta conhecimento limitado sobre o mundo e não possui capacidade para navegar na web ou processar arquivos e imagens. Usuários dos planos “Plus” e “Team” já têm acesso ao “o1-preview” e ao “o1-mini”, enquanto os assinantes “Enterprise” e “Edu” poderão utilizá-los no início da próxima semana. A OpenAI planeja liberar o “o1-mini” gratuitamente no futuro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Demanda global por desenvolvedores brasileiros aumentou 40% no último ano, segundo relatório: estima-se que esses profissionais recebam um salário médio anual de 84 mil dólares, podendo chegar a 140 mil em cargos especializados ou mercados de alta demanda, considerando apenas a modalidade de trabalho remoto. O perfil dos programadores brasileiros tem atraído a atenção de empresas e recrutadores, devido à sua formação técnica e capacidade de se adaptar a diferentes cenários. Os candidatos mais jovens, na faixa de 25 a 34 anos, estão entre os mais requisitados do mercado. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft planeja restringir acesso ao kernel do Windows para prevenir incidentes semelhantes ao da CrowdStrike: o anúncio foi feito durante uma cúpula de segurança organizada pela companhia, na qual autoridades dos EUA e da Europa também participaram, a fim de discutir os principais requisitos da criação de uma plataforma que atenda às necessidades das empresas, incluindo exigências de desempenho e proteção contra adulteração de produtos. No entanto, o CEO da Cloudflare expressou preocupação de que a Microsoft possa conceder acesso privilegiado à sua própria solução de segurança, enquanto bloqueia outros fornecedores. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "API da Play Store permite que desenvolvedores identifiquem se seus aplicativos foram instalados pela loja oficial: a Play Integrity verifica se as interações e requisições feitas ao servidor são provenientes do binário original executado em um dispositivo Android autêntico. Além disso, ela é capaz de detectar sinais de modificação no app, execução em ambientes de software não confiáveis e se o Play Protect está ativado no aparelho. As informações são do Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Docker anuncia aumento de até 80% nos preços de assinaturas a partir do dia 15 de novembro: para justificar o reajuste, a empresa afirma que irá incluir uma gama ampliada de serviços, proporcionando um “acesso completo às capacidades” da plataforma, além de introduzir o recurso Docker Insights Dashboards e aumentar o limite de consumo do Docker Build Cloud, Scout e Hub. A lista completa dos valores pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Meta admite ter coletado dados de postagens públicas do Facebook e Instagram desde 2007 para treinar modelos de IA: a empresa já havia anunciado seus planos para utilizar essa estratégia, levantando questões sobre privacidade, mas nunca havia divulgado que isso vinha ocorrendo há muitos anos. A companhia ressalta que informações de menores de 18 anos não foram utilizadas, mas admite ter incluído fotos de crianças postadas nos perfis dos pais. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador do Google anuncia seu retorno à empresa e destaca que está trabalhando “praticamente todos os dias” com IA: Sergey Brin afirma que os recentes avanços da tecnologia são os mais empolgantes que já testemunhou, e que representam “um valor tremendo para a humanidade”. Além disso, ele acredita que o treinamento de IAs avançadas não exigirá um aumento muito grande na capacidade computacional, considerando as recentes melhorias na programação desses sistemas. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
