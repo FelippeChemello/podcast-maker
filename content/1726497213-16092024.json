@@ -1,0 +1,45 @@
+{
+    "title": "TV Box: +1M infectadas / Dev Linux sofre “swatting” ao vivo / Brasil: 2º em cibersegurança",
+    "fps": 30,
+    "timestamp": 1726497213,
+    "width": 0,
+    "height": 0,
+    "date": "16/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Malware infecta 1,3 milhão de TV Boxes globalmente, afetando principalmente o Brasil: o backdoor “Vo1d” foi detectado em mais de 200 países, com a maior concentração de casos em território nacional. Acredita-se que os dispositivos sejam vulneráveis por frequentemente utilizarem softwares desatualizados e versões de firmware não oficiais com acesso root integrado. Recomenda-se verificar e instalar atualizações assim que estiverem disponíveis, desconectar os dispositivos da internet se houver suspeita de exploração remota e evitar a instalação de apps Android a partir de sites de terceiros. A lista dos firmwares impactados pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Programador Linux sofre “swatting” durante transmissão ao vivo: René Rebe, um veterano com 25 anos de experiência em software livre e código aberto, foi detido em seu escritório na Alemanha durante uma sessão de desenvolvimento de sua distribuição personalizada, T2 Linux, e levado para interrogatório, onde permaneceu por cerca de uma hora. A ação foi motivada por uma denúncia anônima enviada por e-mail, e o responsável ainda não foi identificado. Pouco antes do ocorrido, René havia banido um espectador problemático da transmissão, que ele suspeita ser o autor da denúncia. Swatting é uma tática criminosa de assédio que consiste em enganar um serviço de emergência e enviar uma equipe de resposta para o endereço de uma pessoa. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Brasil ocupa 2º lugar entre países das Américas no Índice Global de Segurança Cibernética de 2024: em comparação com edições anteriores, o país subiu da sexta posição em 2018 e terceira em 2021. A Anatel foi responsável pela coordenação e apresentação dos dados brasileiros, em colaboração com o NICbr e outros órgãos do governo. Entre os destaques que justificam o avanço do Brasil estão a criação do Comitê Nacional de Cibersegurança (CNCiber), o Programa Hackers do Bem e os Atos de Certificação da Anatel com requisitos mínimos de segurança cibernética. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Profissionais insatisfeitos no trabalho podem reduzir PIB global em até 9%, segundo relatório: o baixo engajamento dos funcionários pode ocasionar um impacto econômico de 8,9 trilhões de dólares, de acordo com uma entrevista com 120 mil trabalhadores em mais de 140 países, onde cerca de 20% relatam sentir-se solitários, irritados ou tristes, e 41% afirmam experimentar altos níveis de estresse. EUA e Canadá aparecem em segundo lugar entre os que enfrentam sobrecarga diária (49%), atrás do Oriente Médio e Norte da África (52%), enquanto a Europa demonstra o menor nível de engajamento (13%). As informações são da CNN.",
+            "url": ""
+        },
+        {
+            "text": "Ex-funcionários da CrowdStrike afirmam que empresa negligenciava controle de qualidade em seus processos internos: segundo relatos, a companhia priorizava o lançamento rápido dos produtos, e diversas tentativas de alertar a liderança sobre esses problemas foram ignoradas. Em resposta, a organização afirma que as alegações são provenientes de ex-colaboradores “descontentes, alguns dos quais foram demitidos por violações claras das políticas da empresa”, e que está comprometida em garantir a resiliência de seus produtos “por meio de testes rigorosos”. As informações são do site Semafor.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 9 em cada 10 brasileiros acreditam que redes sociais representam riscos para crianças e adolescentes: de acordo com uma entrevista realizada com cerca de 2 mil indivíduos de 16 anos ou mais, 97% defendem que as empresas responsáveis pelas plataformas deveriam adotar medidas, como exigir comprovação de identidade, proibir publicidade direcionada ao público infantil e limitar o tempo de uso. Além disso, 93% concordam que os jovens estão ficando viciados em redes sociais, e 86% afirmam que os conteúdos são inadequados para a faixa etária. As informações são da Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "HDDs da indústria musical de 1990 estão se deteriorando, segundo empresa de recuperação de arquivos: o alerta foi emitido pela Iron Mountain, que atende companhias de entretenimento, observando que 20% dos discos rígidos enviados a eles dessa época estão completamente ilegíveis. O problema afeta músicos e estúdios que buscam recuperar arquivos antigos para remasterizar faixas, por exemplo. Acredita-se que confiar em um único meio de armazenamento não seja seguro, sendo necessário realizar cópias frequentes para diferentes dispositivos. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
