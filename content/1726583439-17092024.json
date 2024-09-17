@@ -1,0 +1,41 @@
+{
+    "title": "Alerta para Devs Python / C++ mais seguro / Google contra incêndios florestais",
+    "fps": 30,
+    "timestamp": 1726583439,
+    "width": 0,
+    "height": 0,
+    "date": "17/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers estão atraindo desenvolvedores Python com ofertas de emprego para infectá-los com malware: o ataque é comandado pelo grupo norte-coreano Lazarus, se apresentando como grandes instituições financeiras dos EUA pelo LinkedIn. O processo seletivo consiste em identificar e corrigir uma falha em um gerenciador de senhas, cujo README instrui as vítimas a executarem um script que aciona um módulo ofuscado em base64 capaz de conectar-se a um servidor de comando e controle (C2), e de buscar e executar outros malwares. Recomenda-se verificar a identidade do recrutador e confirmar a veracidade do processo seletivo com a empresa, além de executar qualquer código somente em ambientes seguros, como máquinas virtuais ou sandboxing. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Comunidade do C++ propõe novas ferramentas para aprimorar segurança de memória da linguagem: a ideia é incorporar mecanismos já presentes no Rust, como o borrow checker e a análise de inicialização. Dessa forma, ao invés de reescrever grandes bases de código em outra tecnologia, os desenvolvedores poderiam adotar as soluções de maneira gradual. O projeto, apelidado de “Safe C++”, ainda está em fase de desenvolvimento, e o próximo passo é ampliar a cobertura de segurança de memória para outras funcionalidades da linguagem. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Projeto financiado pelo Google visa utilizar satélites para prevenir incêndios florestais: o sistema será capaz de monitorar o planeta a cada 20 minutos e detectar focos tão pequenos quanto uma sala de aula, em comparação com a tecnologia atual que só consegue identificar quando o fogo atinge uma proporção de 8 a 12 mil metros quadrados, equivalente a dois campos de futebol. O primeiro satélite está previsto para ser lançado no início de 2025, com mais três espaçonaves programadas para 2026. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador da Oracle prevê um futuro com vigilância controlada por IA para garantir o cumprimento das leis: Larry Ellison acredita que a tecnologia poderia monitorar constantemente a população por meio de uma vasta rede de câmeras, incluindo as de segurança, corporais e de painéis de veículos, reportando qualquer irregularidade às autoridades competentes. Além disso, ele acredita que drones equipados com IA substituirão veículos policiais em perseguições de alta velocidade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que vazamentos de dados em sistemas governamentais aumentaram 506% nos últimos oito meses: entre janeiro e agosto deste ano, foram identificados mais de 4 mil incidentes, marcando um crescimento de 1.314% em relação aos 349 casos registrados em 2020. O governo federal informa que os números incluem também as esferas estaduais e municipais. O CTIR Gov e o Centro Integrado de Segurança Cibernética alertaram os órgãos públicos sobre o aumento da venda ilegal de credenciais válidas, que facilitam o acesso não autorizado aos sistemas e possibilitam disseminação de phishing, malwares, e ataques de ransomware. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Artigo sugere que emissões de carbono de data centers podem ser 662% maiores do que as divulgadas pelas big techs: empresas como Google, Microsoft e Apple alegam utilizar eletricidade limpa ao adquirir certificados de energia renovável (RECs), que nem sempre refletem a quantidade realmente consumida. Além disso, as companhias costumam divulgar emissões “aseadas no mercad”, enquanto as “baseadas na localização” — efetivamente geradas nos locais dos centros de dados — podem ser mais elevadas. A Meta, por exemplo, havia relatado oficialmente 273 toneladas de CO2, seguindo o primeiro tipo de métrica, enquanto a medição baseada na segunda foi de 3,8 milhões. As informações são do site The Guardian.",
+            "url": ""
+        }
+    ]
+}
