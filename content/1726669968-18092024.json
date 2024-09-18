@@ -1,0 +1,45 @@
+{
+    "title": "Intel fora do PS6 / FBI e CISA alertam Devs / Brasil: recuo de 2,5% em cibersegurança",
+    "fps": 30,
+    "timestamp": 1726669968,
+    "width": 0,
+    "height": 0,
+    "date": "18/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fontes internas relatam que Intel perdeu contrato com a Sony em 2022 para desenhar e fabricar chip do PlayStation 6: a empresa competiu com a AMD e TSMC no processo de licitação. As negociações emperraram devido a divergências sobre a margem de lucro que a companhia obteria por cada chip fornecido, além do risco da perda de compatibilidade com jogos das gerações anteriores, uma característica recorrente nos consoles atuais. Com o contrato, estima-se que a Intel conseguiria uma demanda estável por mais de cinco anos, com receitas de até 30 bilhões de dólares. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "FBI e Agência de Segurança Cibernética dos EUA solicitam que desenvolvedores eliminem vulnerabilidades de Cross-Site-Scripting: os órgãos argumentam que a falha oferece oportunidades de exploração por indivíduos mal-intencionados, permitindo que scripts maliciosos sejam injetados em aplicações web para manipular e roubar dados em diferentes contextos. A CISA também recomenda a abordagem “safe by design” — onde a segurança é incorporada desde o início do processo de desenvolvimento — além do uso de frameworks web modernos. Vulnerabilidades de XSS ficaram em segundo lugar na lista das 25 falhas de software mais perigosas de 2021 e 2022, atrás da “out-of-bounds write”. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Vagas de cibersegurança estão em queda, com recuo de 2,5% no Brasil, segundo estudo: entre os mais de 15 mil profissionais entrevistados ao redor do mundo, 39% apontam a falta de orçamento como o principal motivo para essa diminuição, enquanto 25% relatam demissões. Estima-se que há um déficit global de 4,8 milhões de pessoas capacitadas no setor, com uma demanda projetada de 10,2 milhões. No Brasil, a expectativa é que o número de profissionais ativos cresça apenas 0,4% neste ano. Em comparação, o aumento foi de 0,1% em 2023. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia criação de conselho de segurança independente com autoridade para adiar lançamentos de modelos: a decisão surgiu após uma revisão de 90 dias dos processos e salvaguardas da empresa. Os integrantes terão acesso a informações periódicas sobre questões relacionadas à integridade das tecnologias de IA. A companhia também afirma que buscará ampliar a transparência sobre suas práticas de segurança e oferecerá mais oportunidades para testes independentes de seus sistemas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários da Amazon criticam política de retorno ao escritório imposta pelo CEO Andy Jassy: a determinação exige que todos os colaboradores estejam na empresa cinco dias por semana a partir de janeiro, e que o trabalho remoto será reservado apenas para situações emergenciais, como doenças. Profissionais descontentes se manifestaram nas redes sociais e no canal interno de Slack da companhia, enquanto outros atualizaram seus status no LinkedIn para “Open to Work”. Um funcionário comenta que prefere “voltar para a escola do que trabalhar em um escritório novamente”. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no Apple Vision Pro permite rastrear caracteres digitados pelo usuário no teclado virtual: a falha, apelidada de “GAZEploit”, explora o comportamento do avatar virtual (Persona), que pode ser utilizado em chamadas por Zoom, Teams e FaceTime, por exemplo, e que reflete os movimentos oculares da pessoa. Utilizando aprendizado de máquina e cálculos geométricos para estimar a posição e o tamanho do teclado virtual, pesquisadores conseguiram prever as letras corretas em até cinco tentativas, com uma precisão de 92,1% para mensagens, além de senhas (77%), PINs (73%), e-mails, URLs e páginas da web (86,1%). A Apple disponibilizou uma correção, impedindo o compartilhamento do Persona durante o uso do teclado virtual. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que 56% dos brasileiros consideram anúncios exibidos durante streamings de filmes e séries como intrusivos: na sequência, 24% dos espectadores apontaram a publicidade exibida antes do conteúdo, enquanto 23% mencionaram a que aparece ao pausar o vídeo, estratégia adotada pelo YouTube em alguns casos. Em contraste, anúncios no menu, utilizados por empresas como Samsung e LG em suas smart TVs, são os que menos incomodam. O estudo foi baseado em entrevistas com mais de 2 mil brasileiros. As informações são do site Tecnoblog.",
+            "url": ""
+        }
+    ]
+}
