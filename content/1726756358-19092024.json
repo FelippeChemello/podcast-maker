@@ -1,0 +1,45 @@
+{
+    "title": "X: confusão no desbloqueio / LinkedIn usa dados sem aviso / YouTube quer ajudar canais pequenos",
+    "fps": 30,
+    "timestamp": 1726756358,
+    "width": 0,
+    "height": 0,
+    "date": "19/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "X volta a ficar indisponível no Brasil após contornar bloqueio utilizando proxy reverso da Cloudflare: o recurso atuava como um filtro de tráfego, direcionando-o para um servidor intermediário que utiliza um sistema de resolução de endereços (DNS) distinto e, consequentemente, IPs diferentes, sendo frequentemente empregado como medida de segurança para prevenir ataques de negação de serviço (DDoS). No entanto, com o apoio da Cloudflare, a Anatel conseguiu isolar o tráfego do X sem impactar outros serviços que utilizam a mesma rede. As informações são dos sites Convergência Digital, Olhar Digital e G1.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn está coletando dados de usuários para treinar modelos de IA sem atualizar previamente seus termos de serviço: a ação é considerada incomum, visto que o documento é a principal forma de esclarecer às pessoas como seus conteúdos são utilizados pela plataforma. A empresa, que confirmou a decisão, afirma que atualizará os termos “em breve”. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "YouTube anuncia ferramenta para ajudar criadores menores a expandirem seu alcance: o recurso “Hype” estará disponível para canais com menos de 500 mil inscritos, e permitirá que os espectadores contribuam para elevar um vídeo no ranking dos mais populares. O novo botão será exibido abaixo do “curtir”, e poderá ser utilizado três vezes por semana, a fim de evitar abusos. Futuramente, também será possível que os usuários comprem “hypes” adicionais, embora os preços ainda não tenham sido divulgados. Além disso, canais com poucos inscritos vão se beneficiar de um multiplicador de pontos, visando equilibrar a competição com criadores maiores. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Noruega torna-se a primeira nação do mundo a registrar mais veículos elétricos do que movidos à gasolina: atualmente, dos 2,8 milhões de carros particulares registrados na região, 754.303 são totalmente elétricos, enquanto 753.905 utilizam gasolina. O país já havia estabelecido como meta que todos os novos automóveis vendidos sejam de emissão zero até 2025. Em agosto, os veículos elétricos alcançaram um recorde de 94,3% de novas inscrições, impulsionados pelo Tesla Model Y. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI ameaça banir usuários que tentarem desvendar “raciocínio” do modelo recém-lançado “o1”: a empresa está alertando por e-mail aqueles que utilizarem técnicas de jailbreak ou prompt injection, com o objetivo de enganar a tecnologia para revelar informações confidenciais. A OpenAI justifica a decisão de não exibir o raciocínio bruto do sistema aos usuários com base em alguns fatores, incluindo garantir uma experiência controlada e manter uma vantagem competitiva, mas reconhece que a abordagem apresenta desvantagens. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Direito ao trabalho remoto aumenta produtividade e lealdade dos colaboradores, segundo Partido Trabalhista do Reino Unido: uma professora comenta que esse modelo pode ser especialmente benéfico para cuidadores não remunerados, principalmente por reduzir a necessidade de deslocamento. No entanto, ela também ressalta o perigo das tarefas profissionais se misturarem com as pessoais, e a possibilidade dos gerentes ignorarem trabalhadores remotos ao aplicar promoções. Além disso, o secretário de negócios do Partido afirma que existem momentos em que a presença física é crucial para aprender com colegas mais experientes. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Discord implementa criptografia de ponta a ponta em chamadas de voz e vídeo: isso garante que nem mesmo a empresa tenha acesso ao conteúdo das conversas. No entanto, a medida não se aplica às mensagens privadas ou de grupos, que continuarão sujeitas à moderação padrão da plataforma, e a companhia ainda não tem planos de estender o recurso para essas funcionalidades. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
