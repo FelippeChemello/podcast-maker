@@ -1,0 +1,49 @@
+{
+    "title": "X vai voltar? / PF derruba +600 sites piratas / Mercado de TI nos EUA",
+    "fps": 30,
+    "timestamp": 1726842695,
+    "width": 0,
+    "height": 0,
+    "date": "20/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "X indica representantes legais no Brasil na tentativa de reverter bloqueio: a empresa comunicou ao Supremo Tribunal Federal os advogados André Zonaro Giacchetta e Sérgio Rosenthal. No entanto, o STF exigiu que a companhia comprove as contratações, solicitando o envio de um documento da Junta Comercial que formalize a nomeação. O prazo é de 24 horas, com término nesta sexta-feira. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Polícia Federal desativa mais de 600 sites e 14 aplicativos de streaming pirata: a ação faz parte da sétima etapa da Operação 404, que está ativa desde 2019 e conta com colaboração internacional. Conteúdos como jogos, músicas e vídeos foram removidos, e as páginas que os hospedavam foram desindexadas de mecanismos de busca. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mercado de trabalho em tecnologia nos EUA enfrenta escassez de vagas, segundo artigo: estima-se que os cargos de desenvolvimento de software tenham caído mais de 30% desde fevereiro de 2020, e que as companhias tenham cortado cerca de 137 mil empregos no geral desde janeiro deste ano. A retração ocorre após anos de contratações em alta, e reflete uma mudança na estratégia do setor, deixando de lado o crescimento a qualquer custo para adotar uma abordagem mais focada na geração de receita, com empresas cortando vagas de nível inicial e redirecionando recursos para sistemas de IA, especialmente após o lançamento do ChatGPT. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comércio dos EUA acusa plataformas de streaming e redes sociais de coleta massiva de dados: ao todo, foram nove organizações investigadas durante quatro anos, incluindo Twitch, Meta, YouTube, X, TikTok e Discord. As companhias teriam retido, indefinidamente, informações de usuários registrados e visitantes, utilizando-as para lucrar bilhões de dólares anualmente com a venda de espaços publicitários. Outra preocupação levantada pela agência é a ausência de proteção adicional para o público jovem, que é tratado da mesma maneira que os adultos pelas empresas. Além disso, os dados coletados são utilizados para treinar modelos de IA, sem a possibilidade de revisão, correção ou exclusão. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo de rede social permite que usuários interajam exclusivamente com IAs, sem a presença de humanos: o “SocialAI” permite escolher o tipo de perfil dos seguidores, com categorias como “apoiadores”, “nerds” e “céticos”, que respondem a postagens com comentários e reações sobre uma ampla gama de tópicos, incluindo textos aleatórios como “Lorem Ipsum”. Michael Sayman, criador da plataforma, afirma ter usado uma “istura personalizad” de modelos, mas não revelou quais tecnologias específicas foram empregadas. O aplicativo está disponível para iOS. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Segunda geração de satélites da Starlink emite 32 vezes mais radiação eletromagnética comparada à anterior: a emissão interfere nas observações realizadas por telescópios de rádio, dificultando a detecção de sinais provenientes do espaço. Além disso, segundo cientistas, a radiação dos satélites V2 é até 10 milhões de vezes mais intensa do que a de fontes astrofísicas fracas. Astrônomos têm solicitado ajuda à SpaceX para mitigar o problema, mas não está claro se soluções eficazes serão implementadas, visto que os vazamentos podem estar relacionados ao design dos dispositivos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google adiciona sincronização de passkeys no gerenciador de senhas do Chrome: o recurso está disponível nas versões de Windows, macOS, Linux e Android, com suporte para iOS previsto em breve. O navegador também solicitará um PIN quando o usuário utilizar suas passkeys em um novo dispositivo, podendo, inclusive, utilizar o código de bloqueio da tela do celular. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Ministério da Justiça solicita esclarecimento de fabricantes de celular sobre aplicativos de apostas supostamente pré-instalados: empresas como Samsung, Motorola e Xiaomi têm um prazo de dez dias para responder à Secretaria Nacional do Consumidor, que argumenta que a implementação de tais apps sem o consentimento do usuário pode configurar uma prática abusiva, especialmente quando afeta grupos vulneráveis, como crianças e idosos. A Samsung ressalta que, na fase de configuração inicial, as aplicações mais baixadas são sugeridas aos usuários, mas as instalações só ocorrem mediante autorização. As informações são do site Tecnoblog.",
+            "url": ""
+        }
+    ]
+}
