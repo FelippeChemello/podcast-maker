@@ -1,0 +1,45 @@
+{
+    "title": "Tumblr cresce ~350% / Zuckerberg critica Apple / Data centers: -50% de energia",
+    "fps": 30,
+    "timestamp": 1727102009,
+    "width": 0,
+    "height": 0,
+    "date": "23/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Tumblr registra aumento de quase 350% de usuários após bloqueio do X no Brasil: a plataforma também relatou um crescimento de aproximadamente 223% nas comunidades. Além do alto tráfego, muitos dos novos visitantes estão criando contas, e a empresa afirma que o número de brasileiros ativos diariamente subiu 30%, fazendo com que sua participação nas comunidades seja cinco vezes maior que a média global. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg critica abordagem da Apple no lançamento de seus produtos: para o CEO, as tecnologias da empresa são lançadas após um longo processo de refinamento, enquanto a Meta segue uma estratégia mais ágil, permitindo que suas soluções cheguem ao mercado mais rapidamente, mesmo que nem sempre estejam perfeitas, sendo uma base para oportunidades de aprendizado e melhorias em versões futuras. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Consumo energético de data centers pode ser reduzido em até 50% utilizando perfis de energia integrados ao sistema operacional, segundo artigo: a ativação dos estados de C do processador — responsáveis por desligar partes do chip durante períodos de inatividade — também pode diminuir o gasto em quase 20%. No entanto, esses recursos geralmente estão desativados por padrão devido a preocupações com desempenho e aumento de latência. Um analista ressalta que, com exceção de cargas de trabalho sensíveis, como computação técnica, transações financeiras e análises de alta velocidade, a ativação desses mecanismos tem pouco ou nenhum impacto. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft planeja utilizar usina nuclear desativada em 2019 com capacidade de 837 megawatts para energizar sistemas de IA: a empresa firmou um acordo estratégico com a Constellation, proprietária da Three Mile Island, que também investirá 1,6 bilhão de dólares no projeto. O reator seria capaz de abastecer mais de 800 mil residências. Caso seja aprovado pelos órgãos reguladores, isso garantirá à Microsoft direitos exclusivos sobre 100% da produção de energia, cuja retomada está prevista para 2028. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Disney decide abandonar Slack após vazamento de 1TB de dados: o incidente ocorreu em julho, quando um hacker conhecido como “NullBulge” expôs mensagens e arquivos de quase 10 mil canais internos da empresa, revelando informações sobre projetos futuros e dados financeiros. A companhia afirma que já iniciou a migração para novas ferramentas de comunicação, e que o processo será concluído até o final do próximo trimestre fiscal. No entanto, ainda não está claro se a Disney adotará outra plataforma empresarial ou um software desenvolvido internamente. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA indicia dois indivíduos pelo roubo de mais de 4.100 Bitcoins (230 milhões de dólares) de uma única vítima: cadeias de “peel” foram utilizadas como parte do processo de lavagem dos recursos, que consiste na realização de várias transações pequenas a partir de uma carteira e na transferência dos fundos entre diferentes exchanges, convertendo-os em outros ativos, como Ethereum, visando dificultar sua detecção. O crime foi descoberto após os fundos serem lavados para adquirir itens de luxo, como carros, relógios, jóias e viagens internacionais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Centro de Pesquisa e Desenvolvimento em Telecomunicações testa conexão via satélite para dispositivos IoT: a ideia é combinar o protocolo “Narrowband IoT” com a transmissão por redes não terrestres (NTN), visando expandir a cobertura global e garantir conectividade contínua para esses aparelhos em áreas remotas. A solução busca beneficiar setores como agronegócio, manufatura, mineração e energia, permitindo rastrear veículos ou monitorar rebanhos em regiões isoladas, por exemplo. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
