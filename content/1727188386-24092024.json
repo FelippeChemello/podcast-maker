@@ -1,0 +1,49 @@
+{
+    "title": "3 bi de e-mails expostos / Código aberto + fechado / AWS: clientes deixando nuvem",
+    "fps": 30,
+    "timestamp": 1727188386,
+    "width": 0,
+    "height": 0,
+    "date": "24/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker expõe mais de 3 bilhões de e-mails únicos na internet: o indivíduo identificado como “Addka72424” revela ter compilado os dados a partir de diversas violações públicas e fóruns online. Ele destaca que sua iniciativa não faz parte de atividades criminosas, mas foi um experimento para demonstrar a quantidade de informações publicamente disponíveis atualmente, com o objetivo exclusivo de pesquisa, e que nenhum dos e-mails foi obtido a partir de vazamentos privados. Recomenda-se redefinir senhas de serviços críticos e ativar a autenticação de dois fatores. As informações são do site Hackerdose.",
+            "url": ""
+        },
+        {
+            "text": "Startups adotam conceito “fair source” que visa combinar código aberto com proprietário: a iniciativa conta com o apoio da Sentry, uma startup avaliada em 3 bilhões de dólares, e da GitButler, fundada por um dos criadores do GitHub. Os softwares devem ser publicamente acessíveis para leitura, permitirem que terceiros usem, modifiquem e redistribuam com “restrições mínimas”, e incluírem uma cláusula que os transforma em “open-source” após um período predefinido. No entanto, o gerente geral da Open Infrastructure Foundation adverte que a adoção dessas licenças poderia criar incertezas legais, bem como reduzir e impactar inovações futuras. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "AWS afirma que cada vez mais clientes estão abandonando nuvem para retornar à infraestrutura local: segundo a companhia, a decisão pode ser motivada por diversos fatores, como realocação de recursos financeiros ou maior controle sobre dados e segurança. Um exemplo notável foi o de uma empresa que, após receber uma fatura de 3,2 milhões de dólares por serviços de nuvem, optou por retornar ao modelo local, economizando cerca de 1 milhão em um ano. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Telegram irá compartilhar endereço IP e número de telefone de usuários com autoridades caso receba uma solicitação legal válida: de acordo com a nova política de privacidade, a plataforma atenderá ao pedido apenas após a emissão de uma ordem judicial confirmando que o indivíduo é suspeito de envolvimento em atividades criminosas que infrinjam seus Termos de Serviço. Os dados divulgados serão incluídos em um relatório de transparência trimestral, publicado no canal “Transparency Reports” do Telegram. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla encerrará seu servidor na rede social Mastodon em 17 de dezembro: a instância “Mozilla.social” é relativamente pequena, com cerca de 270 participantes ativos. Em comparação, a mais popular, “Mastodon.social”, conta com mais de 240 mil usuários mensais. Segundo a empresa, a decisão faz parte de uma estratégia para concentrar seus esforços no desenvolvimento do Firefox e em sistemas de IA. Além disso, a medida surge em um contexto de queda de participação de mercado do navegador, que atualmente detém apenas 2,74%, de acordo com dados de agosto do StatCounter. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Exigir trabalho presencial cinco dias por semana para fortalecer cultura da empresa não é eficiente, segundo relatório da PwC: em uma entrevista realizada com mais de 20 mil líderes empresariais, diretores de recursos humanos e colaboradores, 74% dos funcionários híbridos relatam estar engajados, em comparação com 72% dos totalmente presenciais e 63% dos remotos. Especialistas destacam que a flexibilidade de ir ao escritório apenas alguns dias na semana permite aos trabalhadores aproveitar melhor os momentos sociais e otimizar a colaboração. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Tetris pode reduzir sintomas de transtorno de estresse pós-traumático (TEPT), segundo pesquisa: o distúrbio é caracterizado por memórias intrusivas ou flashbacks, onde indivíduos relembram eventos traumáticos de forma vívida. Um experimento dividiu 164 pessoas em dois grupos, onde o primeiro foi instruído a jogar o videogame, enquanto o segundo foi submetido a atividades não visuais, como ouvir uma rádio. Nos resultados, o primeiro grupo relatou uma média de apenas um flashback por semana, em comparação com os 5 relatados pelo segundo. Além disso, os benefícios do tratamento persistiram por seis meses. As informações são do site Legal Reader.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia utiliza antenas de vidro para transformar janelas em estações de rede 5G: o dispositivo é discreto, e pode ser fixado na parte interna de edifícios, convertendo o espaço externo em uma área de serviço sem comprometer a estética urbana ou a aparência do prédio. Além disso, ele é otimizado para frequências entre 3,7 e 4,5 GHz. A inovação pode contribuir para a expansão da cobertura 5G, aumentando o número de locais disponíveis para estações base e facilitando a escolha da altura de instalação adequada. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
