@@ -1,0 +1,45 @@
+{
+    "title": "Android: 11M infectados / Falha no ChatGPT / Cloudflare: cobrança por scraping",
+    "fps": 30,
+    "timestamp": 1727274835,
+    "width": 0,
+    "height": 0,
+    "date": "25/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Malware “Necro” para Android infecta 11 milhões de dispositivos por meio de aplicativos legítimos na Play Store: de acordo com a Kaspersky, o trojan foi distribuído por meio de SDKs de publicidade maliciosos. Ele foi identificado no app “Wuta Camera”, da empresa “Benqu” — uma ferramenta de edição e embelezamento de fotos — que acumula mais de 10 milhões de downloads, corrigido a partir da versão 6.3.7.138. Outro software comprometido foi o “Max Browser”, da “WA message recover-wamr”, que contava com 1 milhão de downloads antes de ser excluído da loja oficial, após a divulgação do malware. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no ChatGPT para macOS expõe dados de usuários por meio da memória do modelo: o recurso armazena informações de conversas anteriores e as utiliza como contexto em interações futuras. Em uma prova de conceito, o pesquisador de segurança Johann Rehberger conseguiu fazer o modelo enviar uma cópia exata de todas as entradas e respostas para um servidor sob seu controle, ao instruir o modelo a acessar um link contendo uma imagem maliciosa. Recomenda-se revisar regularmente as memórias armazenadas, verificando a presença de dados suspeitos ou não confiáveis. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare anuncia ferramenta para proprietários de sites cobrarem bots de IA pela raspagem de conteúdo: o recurso visa dar aos editores mais controle sobre como e quando os modelos acessam suas páginas, sendo possível bloqueá-los ou permitir o acesso de alguns, caso existam acordos, por exemplo. A plataforma está prevista para ser lançada no próximo ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman acredita que superinteligência artificial estará disponível em “alguns milhares de dias”: o termo se refere a um nível hipotético de inteligência de máquina que supera drasticamente a capacidade humana em qualquer tarefa intelectual. O CEO da OpenAI prevê que assistentes de IA se tornarão cada vez mais capazes, eventualmente formando “equipes pessoais” que auxiliarão indivíduos em praticamente qualquer atividade, incluindo educação, saúde e desenvolvimento de software. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anatel exige ações das operadoras para combater golpes por ligação: a agência quer proibir o uso de múltiplos números aleatórios para chamadas originadas de um mesmo ponto, uma prática comum no mercado de telemarketing que dificulta a identificação e o bloqueio por parte dos destinatários. Além disso, as operadoras deverão implementar processos para identificar e bloquear ligações que utilizem números não autorizados ou irregulares. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google atualizará imagens do Street View em quase 80 países, incluindo Brasil: os aplicativos Maps e Earth também receberão registros de satélite “mais brilhantes e vibrantes”, graças a uma ferramenta de IA que remove nuvens, sombras e neblina. Além disso, a empresa afirma que sua câmera mais portátil, lançada em 2022, permitirá capturar “ainda mais lugares no futuro”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Associação Brasileira de Provedores de Internet e Telecomunicações solicita que Supremo Tribunal Federal recuse acesso a dados pessoais de usuários caso não exista uma ordem judicial: a instituição aponta que autoridades têm solicitado informações sensíveis, como endereços de IP e datas de navegação, diretamente aos provedores, sem a devida autorização. A Abrint também destaca que o Marco Civil da Internet foi criado para equilibrar o direito à privacidade com a necessidade de investigações criminais, permitindo que apenas dados básicos, como nome e endereço, possam ser fornecidos sem ordem judicial. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
