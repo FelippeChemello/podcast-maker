@@ -1,0 +1,49 @@
+{
+    "title": "Meta anuncia novidades / Winamp no GitHub / James Cameron + Stability AI",
+    "fps": 30,
+    "timestamp": 1727361280,
+    "width": 0,
+    "height": 0,
+    "date": "26/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta anuncia várias novidades em seu evento Connect 2024, conduzido por Mark Zuckerberg: o novo óculos de realidade aumentada “Orion AR” utiliza projetores Micro LED embutidos na armação para exibir imagens nas lentes através de guias de ondas, e pode conectar-se a um dispositivo de computação sem fio e a uma “pulseira neural”, capaz de responder a gestos. O produto ainda não tem previsão de lançamento; o headset “Quest 3S VR” será lançado por 299 dólares, o mesmo valor inicial do Quest 2, oferecendo funcionalidades semelhantes às da versão mais cara do Quest 3, e sendo equipado com o mesmo processador Snapdragon XR2 Gen 2 e controles Touch Plus, mas com algumas exceções, incluindo a ausência do sensor de profundidade, telas de menor resolução, campo de visão mais estreito e um design menos compacto; os óculos “Ray-Ban Meta” também receberão atualizações de software, incluindo um recurso de lembretes, que ajudará os usuários a organizarem suas tarefas, como listas de compras, e permitirá tradução de fala em tempo real no futuro; o recém-lançado Llama 3.2 é capaz de processar imagens, e também está disponível em versões menores, projetadas para dispositivos móveis. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Winamp, icônico reprodutor de mídia, publica seu código-fonte no GitHub: ferramentas de construção e bibliotecas associadas ao aplicativo também foram disponibilizadas, permitindo que outros desenvolvedores contribuam para o projeto, oferecendo correções de bugs e novos recursos. Em menos de 24 horas após sua publicação, o repositório “WinampDesktop/winamp” alcançou 2.500 estrelas e 600 forks. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "James Cameron, renomado cineasta, junta-se ao conselho de diretores da Stability AI: Prem Akkaraju, CEO da empresa, destaca sua chegada como uma “declaração monumental” para a indústria, caracterizando-o como alguém que “vive no futuro”. Cameron menciona sua longa história de experimentação com tecnologias emergentes como um dos fatores que o motivaram a se unir à companhia, e destaca que a “interseção da IA generativa com a criação de imagens via CGI” será a próxima revolução na indústria cinematográfica. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Reddit está expandindo ferramenta de tradução automática para 35 países, incluindo Brasil: o recurso se aplica a postagens e comentários da plataforma, possibilitando uma conversa natural entre pessoas que falam diferentes idiomas em um subreddit. Os usuários das regiões contempladas pela funcionalidade verão um novo ícone no menu, permitindo visualizar o conteúdo em seu idioma de preferência. O serviço já está disponível para usuários brasileiros. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Sistema “Full Self Driving” da Tesla requer intervenção humana a cada 21 km em média, segundo testes: o recurso foi avaliado em ruas urbanas, rodovias rurais de pista dupla, estradas montanhosas e rodovias interestaduais. Durante o experimento, o FSD demonstrou capacidades avançadas de direção, como manobrar para abrir espaço para um veículo que se deslocava em sentido contrário, e deslocar-se lateralmente para ceder passagem a pedestres aguardando na faixa. No entanto, também ultrapassou sinais vermelhos e invadiu a pista de contramão em uma estrada sinuosa enquanto outro carro se aproximava. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google investe quase 3 bilhões de dólares para recontratar especialista em IA: Noam Shazeer deixou a empresa em 2021 para fundar a Character.AI após a companhia recusar o lançamento de um chatbot desenvolvido por ele. No entanto, a startup enfrentou problemas internos, levando o Google a licenciar sua tecnologia e reintegrar Shazeer à sua equipe. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia exigirá cancelamento de assinaturas com apenas um clique: a lei determina que empresas que oferecem compras e renovações automáticas de seus serviços de maneira simples, adotem o mesmo método para encerrá-los. A medida visa acabar com a abordagem de companhias que, apesar de oferecerem facilidade na contratação, exigem que clientes preencham formulários ou naveguem por várias páginas antes de concluir o cancelamento. A nova regulamentação entrará em vigor em 1º de janeiro de 2025. As informações são do site TheDesk.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia ferramenta para corrigir alucinações de modelos de linguagem: o “Correction” utiliza duas tecnologias, onde a primeira fica responsável por detectar possíveis erros, enquanto a segunda realiza ajustes com base em “documentos de referência” predefinidos. Segundo a empresa, o recurso pode ser aplicado a qualquer modelo que gera textos, como o Llama, da Meta, e ChatGPT, da OpenAI. No entanto, especialistas alertam que essa abordagem não soluciona a causa raiz das alucinações, e pode criar uma falsa impressão de precisão nas respostas. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
