@@ -147,7 +147,6 @@ export default class YoutubeUploadService {
         return `${minutes}:${paddedSeconds}`;
     }
 
-
     private async uploadVideo(
         auth: OAuth2Client,
         videoPath: string,
