@@ -1,0 +1,49 @@
+{
+    "title": "X pede pra voltar / OpenAI perde CTO / Microsoft: ~15 bi no Brasil",
+    "fps": 30,
+    "timestamp": 1727447622,
+    "width": 0,
+    "height": 0,
+    "date": "27/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "X solicita permissão ao Supremo Tribunal Federal para retomar operações no Brasil: representantes da plataforma apresentaram os documentos adicionais requisitados pela corte, afirmando ter cumprido todas as exigências, incluindo a nomeação de um representante legal no país, o bloqueio de perfis de nove investigados pelo STF e o pagamento das multas aplicadas por descumprimento de ordens judiciais. O STF ainda não se manifestou sobre o pedido. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI perde sua CTO e outros dois membros-chave da equipe: Mira Murati atuou brevemente como CEO durante a demissão e posterior recontratação de Sam Altman no ano passado. Embora não tenha dado muitos detalhes sobre sua decisão, ela afirma que “este é o momento certo” e que deseja “criar tempo e espaço” para suas próprias “explorações”. Além de Murati, Bob McGrew, Diretor de Pesquisa, e Barret Zoph, Vice-Presidente de Pesquisa, também estão deixando a empresa, sem maiores explicações sobre suas saídas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia investimento de quase 15 bilhões de reais no Brasil: o montante será aplicado ao longo de três anos, com uma parte sendo destinada à expansão da infraestrutura de data centers da empresa no país, visando impulsionar diversos setores com o uso de tecnologia avançada. Além disso, a companhia está lançando o programa “ConectAI”, cujo objetivo é treinar 5 milhões de brasileiros em habilidades relacionadas à IA, oferecendo acesso gratuito a mais de 130 trilhas de aprendizagem. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "WordPress bloqueia acesso da WP Engine, afetando sites hospedados: a decisão impede que as páginas acessem alguns recursos, como temas e plugins, e alguns desenvolvedores alertam que a restrição também pode prejudicar atualizações de segurança. A plataforma de hospedagem está sendo acusada de utilizar as marcas registradas do WordPress e do WooCommerce sem pagar pelas taxas de licenciamento. A WP Engine afirma que está trabalhando para resolver a situação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Instituto Nacional de Padrões e Tecnologia dos EUA propõe revisão de regras de senhas: o objetivo é simplificar exigências que, segundo o órgão, não contribuem para a segurança e podem até enfraquecê-la. Entre as mudanças sugeridas está a eliminação da obrigatoriedade de redefinir credenciais periodicamente, além da dispensa de regras que exijam ou restrinjam o uso de determinados caracteres, como números, símbolos e letras maiúsculas e minúsculas. O NIST argumenta que tais exigências acabam incentivando a criação de senhas mais fracas, por serem mais fáceis de memorizar. Uma lista mais detalhada das regras propostas está disponível no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo falso para Android rouba 70 mil dólares em moedas digitais: o app se disfarçava como o legítimo protocolo WalletConnect — utilizando o logotipo oficial — e orientava as vítimas a vincular suas carteiras sob a suposição de que era uma ferramenta mais segura e fluida para as aplicações web3. Os usuários eram direcionados a um site malicioso que roubava informações como blockchain e endereços conhecidos, permitindo que as transferências fossem realizadas para a carteira dos criminosos, priorizando ativos mais valiosos. Apesar de acumular 10 mil downloads, estima-se que cerca de 150 vítimas foram afetadas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Residentes de uma cidade britânica assinam compromisso para não darem smartphones aos filhos até o fim do 9º ano escolar: os moradores de Hitchin estão se unindo à iniciativa da William Ransom Primary School, que solicitou a colaboração de todas as 25 escolas primárias locais. O diretor argumenta que as crianças são “muito novas para ficarem presas a uma tela” e que precisam de “experiências da vida real”, ressaltando os riscos associados ao uso de celulares por jovens que ainda não desenvolveram habilidades de comunicação adequadas, podendo prejudicar amizades ao interpretarem comentários de maneira equivocada, por exemplo. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "PCs com IA dominarão mercado em 2026, segundo analistas: estima-se que essas máquinas representem 43% do total disponível até 2025, com remessas projetadas em 114 milhões de unidades, um aumento de 165,5% em relação aos 43 milhões deste ano. Enrique Lores, CEO da HP, prevê um crescimento de 5% a 10% no preço médio de venda desse setor, e espera que os PCs com IA representem cerca de 50% das remessas em 2027. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
