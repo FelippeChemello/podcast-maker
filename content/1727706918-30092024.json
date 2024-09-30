@@ -1,0 +1,45 @@
+{
+    "title": "IA vs CAPTCHA / Hugging Face bate recorde / Califórnia regula vendas digitais",
+    "fps": 30,
+    "timestamp": 1727706918,
+    "width": 0,
+    "height": 0,
+    "date": "30/09/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores projetam IA capaz de superar 100% dos desafios de CAPTCHA do Google: utilizando métodos avançados de aprendizado de máquina, a tecnologia conseguiu resolver os quebra-cabeças com um número de tentativas semelhante ao de humanos. Em resposta ao aumento da capacidade dos bots de resolver tais problemas, empresas têm investido na sofisticação de suas soluções. Entretanto, a introdução de desafios mais complexos pode torná-los inconvenientes para as pessoas, fazendo-as desistir. As informações são do site Decrypt.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face atinge quantidade recorde de 1 milhão de modelos pela primeira vez: o CEO Clément Delangue destaca que o site abriga tecnologias de destaque, como Llama, Gemma, Phi, Mistral, Stable Diffusion e Grok, e atribui esse sucesso à possibilidade de implementá-las para usos específicos, além da prática de ajuste fino, permitindo que um sistema existente receba treinamento adicional para tarefas distintas. Delangue afirma que um novo repositório é criado a cada 10 segundos na plataforma. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia restringe vendas de bens digitais temporários após escândalos envolvendo Sony e Ubisoft: a legislação visa proteger os consumidores de produtos virtuais, como eBooks, filmes e videogames. Vendedores deverão informar de forma clara quando alguém está adquirindo uma licença, em vez de uma compra vitalícia. Os acontecimentos que motivaram a criação dessa lei incluem a revogação de licenças pela Ubisoft para o jogo “The Crew” em abril, e o fato da Sony ter cogitado remover mais de 1.300 programas da Discovery da biblioteca dos usuários em 2023. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Hackers estão intensificando violações a sistemas de controle industrial, alerta Agência de Segurança Cibernética e de Infraestrutura dos EUA: os invasores estão utilizando métodos considerados “não sofisticados”, como ataques de força bruta, para acessar dispositivos por meio de credenciais padrão, muitas vezes comprometendo sistemas de saneamento, resultando em potenciais danos físicos aos processos de tratamento, distribuição e pressão da água. Uma pesquisa realizada pela Fortinet indica que quase 73% das empresas enfrentaram violações desse tipo neste ano, em comparação com 49% em 2023. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Biblioteca pirata “Libgen” deve 30 milhões de dólares a autores de livros, mas identidade dos proprietários permanece desconhecida: a decisão visa apoiar editores que acusam a plataforma de violação intencional de direitos autorais, após o site ignorar completamente a queixa. Além do valor a ser pago, a justiça dos EUA determinou uma ampla ordem de restrição, impedindo qualquer pessoa de participar ativamente ou colaborar com quem esteja ligado à biblioteca. A falta de clareza sobre a identidade dos administradores levanta dúvidas sobre a possibilidade da quantia ser paga. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Zuckerberg nega relação entre redes sociais e saúde mental de adolescentes: o CEO menciona que “a maioria das pesquisas de alta qualidade” sustentam essa posição, e defende que a melhor abordagem é fornecer ferramentas para que os pais limitem o uso das plataformas por seus filhos, já que cada família tem diferentes formas de educar suas crianças. Zuckerberg também argumenta que a responsabilidade pela verificação de idade deve recair sobre as lojas de aplicativos. Apesar disso, ele afirma que a Meta seguirá diretrizes governamentais e leis, caso sejam aprovadas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman afirma que não tem planos para receber “uma grande participação acionária” na OpenAI, segundo fonte interna: a fala surgiu durante uma reunião exclusiva com os funcionários, na qual o CEO classificou a informação como “simplesmente falsa”. O presidente, Bret Taylor, afirma que, embora o conselho tenha discutido o assunto, nenhum valor específico está sendo considerado. Contudo, durante a conferência, Altman e a diretora financeira mencionaram preocupações por parte dos investidores acerca da falta de participação do CEO nos lucros da empresa. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
