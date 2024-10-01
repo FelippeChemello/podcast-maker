@@ -1,0 +1,45 @@
+{
+    "title": "Valve + Arch Linux / Fim da WWW Foundation / Reino Unido sem usinas a carvão",
+    "fps": 30,
+    "timestamp": 1727793234,
+    "width": 0,
+    "height": 0,
+    "date": "01/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Valve irá colaborar com desenvolvimento do Arch Linux: o sistema é a base para o SteamOS 3, utilizado pelo Steam Deck. A empresa fornecerá uma infraestrutura de build e um ambiente de execução seguro e isolado para a distribuição. Segundo Levente Polyak, principal desenvolvedor do Arch Linux, essa colaboração acelerará o progresso do projeto, permitindo avanços que, de outra forma, dependeriam exclusivamente do tempo livre dos voluntários. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "World Wide Web Foundation, de Sir Tim Berners-Lee, encerra suas atividades após 15 anos: em uma carta publicada no site da organização, os cofundadores afirmam que passarão a enfrentar novos desafios. Berners-Lee pretende focar na criação do Protocolo Solid, que permite armazenar informações com segurança em “Pods” — repositórios descentralizados que podem ser controlados pelo próprio usuário ou provedor — visando restaurar o controle dos indivíduos sobre seus dados, em resposta ao modelo de negócios das redes sociais. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez desde 1882, Reino Unido não terá mais usinas elétricas movidas a carvão: a Ratcliffe-on-Soar, última planta a ser encerrada e com uma capacidade de 2.000 megawatts, estava em funcionamento desde 1968. A decisão foi impulsionada por diversos fatores, incluindo o crescimento das usinas de gás natural e fontes de energia renovável, políticas de controle de poluição, precificação do carbono e a meta governamental de alcançar emissões líquidas zero de gases de efeito estufa até 2050. O carvão foi responsável por mais de 90% da eletricidade gerada no país até 1956. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta é multada em 101 milhões de dólares por autoridades da Irlanda sob acusação de armazenar senhas de usuários em texto puro: a falha foi divulgada pela empresa em 2019. As credenciais eram armazenadas em um banco de dados acessado por cerca de 2 mil engenheiros, que o consultaram coletivamente mais de 9 milhões de vezes. A companhia ressaltou na época que não encontrou evidências de acesso indevido por terceiros. As melhores práticas de segurança para armazenamento de senhas recomendam o uso de algoritmos criptográficos, como “Bcrypt”, “PBKDF2” ou “SHA512crypt”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Nokia é contratada para melhorar desempenho do IX BR, considerado o maior conjunto de Pontos de Troca de Tráfego de Internet do mundo: a decisão foi tomada pelo Núcleo de Informação e Coordenação do Ponto BR, em meio ao crescente aumento do tráfego de rede no Brasil, que pode atingir 218,5 milhões de usuários e mais de 50 terabits por segundo nos próximos cinco anos. Parte da infraestrutura atual será substituída pelos roteadores Nokia 7250 e 7750, que operam com interfaces de 400/800G e utilizam Ethernet VPN, proporcionando maior eficiência e escalabilidade. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Discord libera criação de atividades interativas para todos os desenvolvedores: isso permite que qualquer um possa elaborar jogos ou experiências musicais por meio do SDK de Aplicativos Embutidos, e que podem ser utilizados pelos usuários durante conversas de voz ou texto. Além disso, programadores dos EUA, Reino Unido e União Europeia terão acesso a um sistema de monetização, possibilitando a oferta de compras ou assinaturas dentro das atividades. Esse recurso também estará disponível globalmente no futuro. As informações são do blog do Discord.",
+            "url": ""
+        },
+        {
+            "text": "X perdeu quase 79% de seu valor de mercado desde aquisição por Elon Musk, segundo gestora de investimentos: atualmente, a participação da Fidelity na plataforma é avaliada em 4,19 milhões de dólares, comparada ao valor de 19,66 milhões na época da compra. Os dados foram divulgados no mais recente relatório financeiro do fundo Blue Chip Growth da administradora, com informações de até 30 de agosto, sem considerar o bloqueio do X no Brasil, ocorrido no mesmo dia. Com essa queda, estima-se que o valor total do X esteja em cerca de 9,4 bilhões de dólares, uma redução em relação ao valuation de 44 bilhões na época da aquisição. As informações são dos sites TechCrunch e Tecnoblog.",
+            "url": ""
+        }
+    ]
+}
