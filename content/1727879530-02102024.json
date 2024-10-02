@@ -1,0 +1,45 @@
+{
+    "title": "Semicondutores em risco / Vulnerabilidade em carros Kia / Cofundador da OpenAI na Anthropic",
+    "fps": 30,
+    "timestamp": 1727879530,
+    "width": 0,
+    "height": 0,
+    "date": "02/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Furacão Helene atinge comunidade dos EUA e ameaça cadeia global de suprimentos de microchips e painéis solares: a cidade de Spruce Pine, com uma população de pouco mais de 2 mil habitantes, é conhecida por ter as maiores reservas e o melhor nível de pureza de quartzo do mundo, material essencial para a fabricação de semicondutores, devido à sua capacidade de suportar altas temperaturas e manter níveis extremos de limpeza. O furacão causou o transbordamento do rio por onde passa a linha ferroviária principal que transporta o quartzo extraído. Embora fabricantes de semicondutores possuam estoques do material para evitar uma interrupção imediata, especialistas temem que o impacto possa ser significativo a longo prazo. As informações são da NPR.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de segurança conseguem hackear veículos da Kia utilizando apenas sua placa de registro: a falha afeta quase todos os carros fabricados após 2013, permitindo que invasores acessem informações sensíveis da vítima, incluindo nome, telefone, e-mail e endereço físico, que podem ser usados para alterar o titular principal da conta sem o conhecimento do proprietário, e executar comandos arbitrários, como destrancar, dar partida ou buzinar. Segundo os especialistas, esses ataques poderiam ser executados remotamente em qualquer veículo com o hardware necessário em aproximadamente 30 segundos. A Kia corrigiu o problema em agosto. As informações são do site The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic contrata cofundador da OpenAI: Durk Kingma afirma que trabalhará na maior parte do tempo de forma remota, mas sem especificar qual setor ele irá integrar ou liderar. Ele atuou por vários anos como bolsista de doutorado no Google antes de integrar o grupo de fundadores da OpenAI como cientista de pesquisa, chegando a liderar a equipe responsável por desenvolver técnicas e métodos para modelos como DALL-E 3 e ChatGPT. Kingma saiu da empresa em 2018. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry Pi e Sony lançam módulo de câmera com IA: o componente permite que usuários desenvolvam soluções de aprendizado de máquina que processam dados visuais de forma simplificada. Ele é compatível com todos os computadores de placa única Raspberry Pi e combina o microcontrolador RP2040 com o sensor de imagem IMX500 da Sony, eliminando a necessidade de aceleradores ou GPUs. A câmera possui 12,3 megapixels e pode gravar vídeos de até 40 quadros por segundo, além de possuir um campo de visão de 76 graus e medir 25 x 24 x 11,9 mm. O novo módulo custa 70 dólares no site oficial, mas ainda não está disponível no Brasil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Microsoft deixa Recall mais seguro e permite que ele seja removido do Windows: a ferramenta incluirá um filtro automático de proteção para informações sensíveis, como senhas e números de cartões de crédito. As capturas de tela serão criptografadas, com as chaves sendo protegidas pelo Módulo de Plataforma Confiável (TPM), vinculado às credenciais do Windows Hello e à identidade biométrica do usuário. O recurso também incluirá proteções contra malware, incluindo limitação de tentativas e medidas contra acessos sucessivos. Além disso, o Recall poderá ser completamente removido pelos recursos opcionais do Windows. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Reddit obriga que moderadores solicitem aprovação para alterar status de comunidades: a medida surge após o uso desse recurso para protestar contra mudanças na plataforma, o que afetava sua usabilidade e buscas no Google. Agora, moderadores que quiserem alterar os subreddits de uma comunidade de público para privado, ou de “seguro para o trabalho” (SFW) para “não seguro para o trabalho” (NSFW), deverão solicitar aprovação de um administrador do Reddit, que avaliará o pedido em até 24 horas. Comunidades com até 5 mil membros ou criadas há, no máximo, 30 dias terão suas solicitações aprovadas automaticamente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple desiste de investir na OpenAI: a empresa estava em negociações para participar de uma rodada de financiamento, estimada em aproximadamente 6,5 bilhões de dólares. A Microsoft deve contribuir com cerca de 1 bilhão, e a Nvidia também estaria em negociações para participar. Estima-se que essa nova captação poderia elevar a avaliação da OpenAI a mais de 100 bilhões de dólares. Os motivos que levaram à desistência da Apple não foram divulgados. As informações são do site MacRumors.",
+            "url": ""
+        }
+    ]
+}
