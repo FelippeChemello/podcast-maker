@@ -1,0 +1,45 @@
+{
+    "title": "Headband para TDAH / Tor Project + Tails OS / Artista de IA quer direitos autorais",
+    "fps": 30,
+    "timestamp": 1727966017,
+    "width": 0,
+    "height": 0,
+    "date": "03/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Faixa de cabeça promete aliviar sintomas de TDAH com apenas 20 minutos de uso diário: o dispositivo, desenvolvido pela startup australiana Neurode, visa oferecer uma alternativa ao uso de medicamentos. Ele utiliza uma leve estimulação elétrica no córtex pré-frontal, área do cérebro responsável pela função executiva e foco. A Neurode afirma que os testes iniciais mostraram resultados positivos, com a maioria dos participantes relatando ausência de efeitos colaterais ou sensação durante o uso. As informações são do site BGR.",
+            "url": ""
+        },
+        {
+            "text": "Tor Project anuncia fusão com Tails OS, sistema operacional focado em privacidade: a integração permitirá uma redução nos custos e expansão dos programas de educação, visando beneficiar usuários vulneráveis ao rastreamento online, reunindo recursos tecnológicos e de pessoal das duas plataformas. Segundo a diretora executiva do Tor Project, a fusão também possibilitará uma rápida integração de novos recursos de uma ferramenta para outra. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Artista que venceu competição com imagem gerada por IA afirma estar perdendo dinheiro devido ao roubo de suas criações: Jason Allen, autor da obra “Théâtre D’opéra Spatial”, está tentando registrar sua “pintura” como protegida por direitos autorais. Em resposta, o Escritório de Direitos Autorais dos EUA determinou que trabalhos derivados de máquinas “não contêm autoria humana”. Allen argumenta que sua “contribuição criativa”, que envolveu “inserir comandos, ajustar a cena, selecionar porções e ditar o tom da imagem”, deve ser reconhecida como passível de proteção. Além disso, ele alega que suas obras estão sendo roubadas, com pessoas “ncorporando a peça inteira em novos trabalho” ou vendendo-as em versões impressas. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa indica que 24% dos brasileiros foram vítimas de golpes digitais nos últimos 12 meses: ao todo, foram mais de 21 mil entrevistados. O estado de São Paulo registrou a maior incidência (30%), seguido por Mato Grosso (28%), Distrito Federal e Roraima (27%), enquanto as regiões com o menor número de casos foram Sergipe (19%), Piauí (18%) e Ceará (17%). As fraudes com perda financeira foram mais comuns em cidades com população entre 50 mil e 500 mil habitantes, representando 41% dos casos. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor do uBlock Origin Lite remove extensão da loja do Firefox e critica revisões da Mozilla: a empresa havia sinalizado todas as versões do aplicativo por supostas violações de suas políticas, alegando que o mesmo coletava dados de usuários e continha “código minificado, concatenado ou gerado por máquina”. Raymond Hill contestou as afirmações, ressaltando que as mesmas “não fazem sentido”. Apesar de ter recebido um e-mail da Mozilla admitindo o erro, Hill decidiu remover a extensão da loja e transferi-la para uma versão auto-hospedada no GitHub. O uBlock Origin original para Firefox continua disponível. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "79% dos CEOs norte-americanos acreditam que o trabalho remoto acabará em até 3 anos, segundo pesquisa: além disso, 86% afirmam que recompensariam funcionários que vão ao escritório com atribuições de alto valor, aumentos e promoções, sugerindo uma intenção de restringir esses benefícios apenas ao pessoal presencial. Acredita-se que esse retrocesso no modelo híbrido em grandes empresas pode criar oportunidades para startups, permitindo que elas recrutem profissionais com habilidades desejadas ao oferecer benefícios que atendem suas vontades. As informações são do site Inc.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerra produção do HoloLens 2 e não planeja substituto: a empresa informa que o suporte para o dispositivo, incluindo atualizações de segurança, será encerrado em 31 de dezembro de 2027, e em 10 de dezembro deste ano para o modelo anterior. Embora a companhia não tenha esclarecido se versões futuras do aparelho serão lançadas, ela insinua que uma “atualização significativa” no hardware poderá ocorrer quando o momento for considerado apropriado. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
