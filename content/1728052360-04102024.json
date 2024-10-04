@@ -1,0 +1,49 @@
+{
+    "title": "Maior DDoS da história / ChatGPT Canvas / Intel: 0% no mercado de GPUs",
+    "fps": 30,
+    "timestamp": 1728052360,
+    "width": 0,
+    "height": 0,
+    "date": "04/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare bloqueia maior ataque DDoS já registrado, atingindo 3,8 Tbps: a campanha teve como alvo organizações dos setores de serviços financeiros, internet e telecomunicações. De acordo com pesquisadores de segurança da empresa, os dispositivos infectados, incluindo roteadores domésticos da Asus, sistemas MikroTik, DVRs e servidores web, estavam espalhados por todo o mundo, com uma concentração de 4,7% no Brasil. Além disso, os invasores utilizaram o protocolo UDP em uma porta fixa, que permite transferências rápidas de dados sem a necessidade de estabelecer uma conexão formal. O pico de 3,8 Tbps durou 65 segundos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia interface “Canvas” para ChatGPT, voltada para projetos de escrita e codificação: o recurso abre uma janela separada ao lado da conversa, permitindo que usuários destaquem trechos de texto específicos para que o modelo faça correções. A ferramenta será aberta automaticamente quando o chatbot identificar que um espaço de trabalho distinto seria mais útil, mas também será possível acessá-la manualmente ao selecionar a opção correspondente no menu de modelos, ou ao digitar “use canvas” na mensagem. A interface já está disponível aos assinantes do ChatGPT Plus e Teams, e será liberada para usuários Enterprise e Edu na próxima semana. A OpenAI planeja expandir o recurso para a versão gratuita após o término do período beta. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Intel tem 0% de participação no mercado de placas gráficas no segundo trimestre de 2024, segundo analistas: desde o lançamento de sua primeira Add-In Board dedicada — Arc Alchemist — a empresa não conseguiu estabelecer-se de forma significativa no setor, como a Nvidia, que domina com 88%, e a AMD, com cerca de 12%. No anúncio de suas GPUs Arc, a Intel havia prometido desafiar o duopólio das duas companhias, assegurando que seus produtos seriam acessíveis para todos. No entanto, durante o lançamento, houveram contratempos técnicos, incluindo instabilidade dos drivers e problemas de desempenho. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia sanciona lei que poderá exigir carregamento bidirecional em veículos elétricos no futuro: a legislação concede à Comissão de Energia do país a autoridade para implementar a medida quando achar viável. A ideia é que os carros não apenas consumam energia da rede, mas também forneçam eletricidade de volta, o que ajudaria a suprir a demanda durante os picos de consumo. O estado estima que isso pode gerar uma economia de 1 bilhão de dólares por ano. Apesar disso, a adição do carregamento bidirecional depende de um ecossistema completo, e muitos consumidores podem não estar dispostos a pagar mais caro por isso ou manter o veículo sempre conectado à rede. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "MongoDB afirma que seu banco de dados está preparado para lidar com cargas de trabalho críticas: a declaração foi feita durante o lançamento da versão 8.0, que traz um aumento de 32% na capacidade de processamento e uma redução de 56% no tempo de gravações em massa. No entanto, o CEO da Cockroach Labs afirma que, embora o MongoDB seja excelente para aplicações móveis e web, seu formato de armazenamento semiestruturado tende a tornar-se mais difícil de gerenciar ao longo do tempo. Ele também aponta que bancos de dados relacionais, com schemas melhor definidos, podem oferecer suporte a casos de uso complexo por até 10 anos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador do Xbox é contratado pela Amazon: James Allard assumiu o cargo de Vice-Presidente na equipe de dispositivos e serviços da empresa, e reportará diretamente a Panos Panay, ex-chefe do Windows e Surface. Com mais de 20 anos de experiência na Microsoft, Allard foi responsável pelo lançamento da rede Xbox Live e pelo desenvolvimento do Xbox 360, além de supervisionar o projeto do Zune, concorrente do iPod. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "40% dos usuários não estão dispostos a pagar mais caro por rede móvel via satélite, segundo pesquisa: os dados são de uma entrevista realizada com mais de 1.000 participantes em dez países. Acredita-se que um fator-chave para a falta de interesse dos indivíduos pelo serviço é a qualidade da cobertura em suas áreas, com 94% deles classificando-a como “bom” ou “excelente”. Além disso, sugere-se que a demanda por redes via satélite deve ser mais alta em países em desenvolvimento, como África do Sul e Brasil. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "PayPal completa sua primeira transação comercial utilizando sua própria stablecoin: a fatura, cujo valor não foi divulgado, foi paga utilizando a PYUSD, que possui uma capitalização de mercado atual de quase 700 milhões de dólares. De acordo com o vice-presidente sênior do grupo de blockchain da PayPal, o ambiente empresarial é propício para ilustrar um exemplo de transação com stablecoins, destacando que as transferências business-to-business, especialmente as que cruzam fronteiras, costumam ser longas, caras e, em alguns casos, arriscadas. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
