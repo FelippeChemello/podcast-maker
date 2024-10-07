@@ -1,0 +1,45 @@
+{
+    "title": "Bitcoin: criador revelado? / Malware furtivo no Linux / 5G: Brasil lidera ranking global",
+    "fps": 30,
+    "timestamp": 1728311627,
+    "width": 0,
+    "height": 0,
+    "date": "07/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Identidade de Satoshi Nakamoto, criador do Bitcoin, é supostamente revelada em documentário da HBO: o “Money Electric: The Bitcoin Mystery”, com lançamento previsto para esta terça-feira, sugere que o responsável seja Len Sassaman, falecido em 2011, e que foi colaborador da lista de discussão “Cypherpunk”, onde o ativo foi anunciado pela primeira vez por Satoshi. As informações são do site Blockhead.",
+            "url": ""
+        },
+        {
+            "text": "Malware escondido desde 2021 deixa milhões de servidores Linux potencialmente vulneráveis: o Perfctl pode ser instalado por meio da exploração de mais de 20 mil falhas de configuração comuns, e utiliza as máquinas infectadas para minerar moedas digitais de maneira sutil, copiando-se para múltiplos locais no disco e obtendo privilégios de root, a partir da vulnerabilidade CVE-2023-33246, corrigida em 2023. Para se ocultar, ele instala muitos de seus componentes como rootkits, e se disfarça sob nomes de processo comuns, como “sh” ou “https”. Recomenda-se aplicar o patch para a vulnerabilidade imediatamente, além de monitorar picos incomuns de uso da CPU, especialmente em períodos de inatividade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Operadoras brasileiras lideram ranking global de velocidade de download do 5G, segundo estudo: a Vivo lidera com uma média de 365,6 Mb/s, seguida pela Claro (359,6 Mb/s), e a TIM ocupa a sétima posição, com 327,9 Mb/s. Apesar disso, nenhuma das empresas aparece no top 20 de outros rankings que avaliam a experiência de uso em jogos, chamadas de voz, de vídeo e por aplicativos (VoIP). Especialistas apontam que as operadoras brasileiras ainda precisam expandir significativamente a cobertura do 5G, que permanece disponível em menos de 10% do tempo. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Matt Mullenweg, cofundador do WordPress, oferece 30 mil dólares a funcionários que não apoiam sua disputa com a WP Engine para saírem da empresa: a proposta foi aceita por mais de 150 colaboradores, o que representa 8,4% de sua força de trabalho, afetando principalmente a divisão de ecossistema da companhia, com 79,2% dos trabalhadores que saíram pertencendo a essa área. A WP Engine é acusada pela Automattic — responsável pelo WordPress e seus serviços comerciais — de violar políticas de sua marca registrada e de não contribuir para o seu projeto de código aberto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia de reconhecimento facial monitora 75 milhões de brasileiros, segundo relatório: ao todo, foram analisados 50 projetos no país, apontando que 18% apresentam índice de transparência igual a zero, e inferior a 4 em mais de 70%, em uma escala de 0 a 10. Informações cruciais, como empresas que fornecem os serviços, também permanecem escassas. Além disso, foi relatada uma ausência de relatórios de impacto em 80% desses projetos, além da falta de políticas adequadas de proteção em 75% deles. As informações são dos sites Convergência Digital e NOSSA VOZ.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de IA promove-se a administrador do sistema e quebra inicialização de computador: o incidente foi relatado pelo CEO da Redwood Research, causado por um sistema que ele mesmo desenvolveu, capaz de gerar comandos para execução no bash a partir de um prompt de entrada. Ao ser solicitado a realizar uma conexão SSH entre duas máquinas, a tecnologia continuou executando ações inesperadas, como instalar atualizações, incluindo para o kernel. O caso levanta preocupações sobre o uso de agentes de IA em decisões críticas, especialmente sem supervisão, testes rigorosos ou análise cuidadosa de riscos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI solicita que investidores evitem apoiar startups concorrentes, como Anthropic e xAI: durante as negociações, a empresa, que garantiu 6,6 bilhões de dólares em novos financiamentos, deixou claro que esperava um acordo de exclusividade, conforme apontado por fontes com conhecimento das discussões. Segundo especialistas em capital de risco, esse tipo de solicitação é incomum, e muitas empresas líderes têm diversificado seus investimentos em determinados setores. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
