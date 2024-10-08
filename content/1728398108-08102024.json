@@ -1,0 +1,45 @@
+{
+    "title": "“Padrinho da IA” ganha Nobel / Jovem “zera” Tetris / Lojas de terceiros na Play Store",
+    "fps": 30,
+    "timestamp": 1728398108,
+    "width": 0,
+    "height": 0,
+    "date": "08/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Geoffrey Hinton e John Hopfield recebem Prêmio Nobel de Física por contribuições ao aprendizado de máquina: Hinton, amplamente reconhecido como o “padrinho da IA”, deixou o Google em 2023 e, desde então, tem alertado sobre os riscos de máquinas que possam superar a inteligência humana. Ele reconhece o impacto de suas pesquisas com redes neurais, que abriram caminho para tecnologias como o ChatGPT. Já John Hopfield é renomado por suas contribuições à neurobiologia e à física teórica, sendo o responsável pelo desenvolvimento de um modelo de rede neural que simula o funcionamento do cérebro humano. As informações são da BBC e do G1.",
+            "url": ""
+        },
+        {
+            "text": "Adolescente atinge recorde mundial ao ultrapassar nível 255 do Tetris para Nintendinho e voltar ao nível zero: Michael Artiaga, de 16 anos, tornou-se a primeira pessoa a alcançar esse feito, superando Willis Gibson, de 13, que “venceu” o videogame após alcançar 1.511 linhas e 157 níveis, fazendo-o travar. Em pouco mais de 80 minutos, Artiaga completou 3.300 linhas para atingir o que é considerado o primeiro “renascimento” do Tetris. Para evitar o mesmo travamento de Gibson, Artiaga usou uma versão modificada, pois o algoritmo original de cálculo de pontuação apresenta uma ineficiência que aumenta a probabilidade de falhas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google deverá permitir lojas concorrentes na Play Store por três anos, conforme determina Justiça dos EUA: a empresa terá um prazo de oito meses para implementar um sistema que permita que terceiros tenham acesso ao catálogo completo de aplicativos, mas que também ofereça aos desenvolvedores a possibilidade de não listarem seus apps em outras lojas do Android. A medida entrará em vigor a partir de 1º de novembro, mas não está claro se a companhia precisará acatá-la imediatamente. O Google recorrerá da decisão, a fim de tentar uma suspensão imediata das mudanças exigidas. Detalhes adicionais sobre as obrigações da empresa podem ser conferidas no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Falha no CUPS, sistema de impressão open-source, permite amplificar ataques DDoS em até 600 vezes: a vulnerabilidade, rastreada como CVE-2024-47176, permite que o invasor envie um único pacote UDP a uma máquina com o módulo instalado, enganando-a para tratar um alvo como uma impressora a ser adicionada, a fim de gerar solicitações IPP/HTTP direcionadas, consumindo largura de banda e CPU. O ataque exige recursos mínimos e pode ser executado em questão de segundos. Pesquisadores estimam que mais de 58 mil dispositivos estejam expostos, muitos dos quais executam versões desatualizadas do CUPS, datando de até 2007. Recomenda-se aplicar patches já disponíveis para a vulnerabilidade ou desativar o serviço “cups-browsed” para mitigar riscos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Bot de scraping da ByteDance, dona do TikTok, pode ser o mais agressivo da internet, segundo analistas: o Bytespider seria capaz de operar a uma taxa de aproximadamente 25 vezes maior que a do GPTbot da OpenAI, e até 3 mil vezes a do ClaudeBot, da Anthropic. Além disso, ele desconsidera o arquivo “robots.txt”, utilizado para impedir que sistemas de scraping coletem dados de sites. Fontes próximas à empresa afirmam que as informações serão utilizadas em um novo modelo de linguagem, que deve expandir a função de busca do TikTok. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Taiwan, com participação de 68% no mercado global de produção de chips, pode enfrentar crise energética no futuro, segundo artigo: o país é altamente dependente de combustíveis fósseis importados, que representam 90% de sua matriz atual, e enfrenta dificuldades na expansão de fontes de energia renováveis, devido à falta de espaço para a instalação de painéis solares — um obstáculo significativo para atender à crescente demanda de energia, impulsionada por indústrias como a TSMC, que consome cerca de 9% da eletricidade do país. O governo pretende fechar suas usinas nucleares até 2025, o que, segundo especialistas, pode agravar a escassez energética. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia ferramenta de geração de vídeos com IA: o Movie Gen é capaz de produzir mídia em alta definição com som a partir de entradas de texto, e também permite editar filmagens ou imagens estáticas, ajustando o estilo, transições e adicionando elementos. O áudio também é gerado por máquina, incorporando ruído ambiente, efeitos e trilha sonora. No entanto, segundo a empresa, o recurso ainda não está disponível para o público, devido ao alto custo operacional e tempo de processamento prolongado. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
