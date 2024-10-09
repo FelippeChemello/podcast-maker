@@ -1,0 +1,49 @@
+{
+    "title": "Retorno do X / Rust na Volvo / Linus: mensagens coesas em PRs",
+    "fps": 30,
+    "timestamp": 1728484400,
+    "width": 0,
+    "height": 0,
+    "date": "09/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Supremo Tribunal Federal autoriza volta do X no Brasil: a decisão foi tomada após a confirmação do pagamento de 28,6 milhões de reais em multas, devido ao descumprimento de ordens judiciais. A Anatel recebeu um prazo de 24 horas do STF — com término previsto para às 17 horas desta quarta-feira — para adotar as medidas necessárias. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Volvo adota Rust em seus veículos elétricos, segundo arquiteto de software da empresa: a tecnologia está sendo utilizada na Unidade de Controle Eletrônico de baixo consumo em modelos como EX90 e Polestar 3. O profissional menciona que identificou o potencial da linguagem para substituir C e C++, frequentemente suscetíveis a bugs de memória, destacando que ela oferece maior segurança e qualidade no desenvolvimento, reduzindo erros e retrabalho. No entanto, ele também reconhece que o Rust pode não ser a melhor opção para prototipagem rápida, devido às exigências do compilador, que demanda atenção a detalhes desde o início. As informações são do site Tweede golf.",
+            "url": ""
+        },
+        {
+            "text": "Linus Torvalds pede que desenvolvedores do kernel escrevam mensagens mais coesas em pull requests: os mantenedores deveriam adotar a voz ativa e o modo imperativo ao descrever as alterações. Como exemplo, ele sugere que, em vez de utilizar a expressão “x foi corrigido”, seria mais adequado escrever “corrige x”, argumentando que mensagens simples e diretas são preferíveis. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Smart TVs são um “cavalo de troia digital”, segundo relatório: os fabricantes e serviços de streaming estariam criando um sistema de vigilância que compromete o sigilo de dados dos consumidores, utilizando técnicas de rastreamento que visam atender aos interesses dos anunciantes. Além disso, as políticas de privacidade listadas por essas empresas seriam “enganosas” em suas promessas de não coletar nem compartilhar informações pessoais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Declínio no uso de hiperlinks ameaça estrutura da internet e da indústria de notícias, segundo jornalista: para Matt Pearce, plataformas como Facebook, Instagram, TikTok e X têm se mostrado contrárias ao recurso, desvalorizando postagens que o utilizam, o que contribuiria para a proliferação de conteúdo de baixa qualidade nas redes sociais, resultando em uma experiência “estacionária” da internet, onde um modelo de IA absorve e resume todas as informações disponíveis, evitando que o usuário precise sair da página atual. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Vendas globais de semicondutores atingem valor recorde de 53,1 bilhões de dólares em agosto: isso representa um aumento de 20,6% em relação ao ano anterior, impulsionado por uma recuperação robusta e uma demanda crescente em setores como IA, computação em nuvem e indústria automotiva. A América do Norte lidera o índice, com um crescimento de 43,9%, enquanto a Europa registrou um declínio de 9%. Apesar disso, a indústria ainda enfrenta desafios, incluindo interrupções na cadeia de suprimentos e tensões geopolíticas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "YouTube estaria testando ocultar contagem regressiva de anúncios no Android, segundo relatos: o botão para pular a propaganda está sendo exibido somente após um determinado período de tempo, sem que o usuário possa acompanhar os segundos. A plataforma ainda não se pronunciou oficialmente sobre o assunto. As informações são do site Android Police.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de segunda-feira, noticiamos que o documentário “Money Electric: The Bitcoin Mystery”, da HBO, sugeria que Len Sassaman seria o criador do Bitcoin. No entanto, a reportagem aponta para Peter Todd, conhecido por ter se comunicado publicamente com Satoshi antes de seu desaparecimento nos fóruns de moedas digitais em 2010. Apesar da alegação, Todd nega ser o criador do ativo. As informações são dos sites POLITICO e BBC.",
+            "url": ""
+        }
+    ]
+}
