@@ -1,0 +1,45 @@
+{
+    "title": "Meta AI no Brasil / Domínio “.io” em risco / EUA quer ruptura do Google",
+    "fps": 30,
+    "timestamp": 1728570762,
+    "width": 0,
+    "height": 0,
+    "date": "10/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta AI é lançado no Brasil: o assistente está disponível no site oficial e nas plataformas Facebook, Instagram, WhatsApp e Messenger, acessível por meio de um ícone no formato de um disco azul e roxo. Mark Zuckerberg afirma que a ferramenta já possui quase 500 milhões de usuários em todo o mundo e que o chatbot está a caminho de se tornar o assistente mais utilizado globalmente até o final do ano. A liberação para o público brasileiro ocorrerá de forma gradual. As informações são dos sites TechCrunch e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Domínio “.io”, amplamente utilizado por startups de tecnologia, pode ser descontinuado após acordo geopolítico: o Território Britânico do Oceano Índico, atual controlador do registro, terá sua soberania transferida para as Ilhas Maurício. Com isso, a extensão poderia ser removida pela ISO e pela IANA, entidade responsável pela administração dos domínios de topo. O sufixo é utilizado globalmente por milhares de empresas, devido à sua associação com o termo “Input/Output”. As informações são dos sites The Verge e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA considera forçar Google a vender parte de seus negócios em caso antitruste: a medida poderia resultar na primeira grande desagregação corporativa em quatro décadas. Entre as opções avaliadas estão a restrição ou eliminação de acordos de busca padrão, pré-instalações e compartilhamento de receitas, além da separação de produtos, como Chrome, Play Store e Android da companhia. Em resposta, o Google classifica a proposta como “radical e abrangente”, alertando sobre possíveis “consequências negativas” para os consumidores. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem método para reduzir consumo de eletricidade de IAs em até 95%: a técnica consiste em utilizar a Multiplicação de Complexidade Linear (L-Mul), que substitui multiplicações em ponto flutuante, tradicionalmente exigentes em termos de energia, por adições de números inteiros mais simples. Testes em processamento de linguagem natural, tarefas de visão e raciocínio mostraram uma redução média de desempenho de apenas 0,07%. Estima-se que o ChatGPT consuma 564 MWh diariamente, e que a indústria do setor possa chegar a um consumo anual entre 85 e 134 TWh até 2027. As informações são do site Decrypt.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas do Reino Unido convocam moradores a reciclar eletrônicos inutilizados para enfrentar escassez de cobre no país: os componentes podem incluir cabos antigos, carregadores de celular e outros equipamentos que muitas vezes são descartados ou armazenados. Estima-se que há aproximadamente 823 milhões de itens tecnológicos não usados ou quebrados em lares britânicos, que podem conter mais de 38 mil toneladas de cobre, suficiente para fornecer 30% do material necessário para a transição planejada do Reino Unido para uma rede elétrica descarbonizada até 2030. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Moradores do Texas processam empresa de mineração de Bitcoin devido ao ruído constante: residentes de Granbury afirmam que o zumbido persistente vindo da Marathon Digital está afetando negativamente sua qualidade de vida, com muitos relatando problemas de saúde, como vertigem, perda auditiva, enxaquecas, fadiga e ansiedade. Mais de 20 mil computadores da instalação são resfriados por uma combinação de imersão líquida e ventiladores, sendo esses a causa do barulho. A companhia informa que já converteu 30% das máquinas para resfriamento a líquido silencioso e planeja alcançar 50% até o final do ano, e argumenta que não possui conhecimento de nenhuma base científica que comprove que suas operações estejam causando problemas de saúde. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Diretores de Segurança ameaçam sair do emprego a fim de receberem aumento de salário, segundo pesquisa: cerca de 700 profissionais entrevistados dos EUA e Canadá relatam que seus pagamentos subiram no último ano para uma média de 565 mil dólares. Segundo eles, a estratégia mais eficaz tem sido mudar de empresa ou ameaçar fazê-lo, para obter uma contraproposta do empregador atual, o que pode resultar em um acréscimo médio de 31% do salário. Outro método seria retornar parcialmente ao escritório, com trabalhadores híbridos ou presenciais recebendo um aumento médio superior a 6% no último ano, em comparação com os menos de 5% de profissionais remotos. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
