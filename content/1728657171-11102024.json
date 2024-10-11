@@ -1,0 +1,45 @@
+{
+    "title": "Falha crítica no Firefox / Internet Archive hackeado / Dark Web: maior mercado derrubado",
+    "fps": 30,
+    "timestamp": 1728657171,
+    "width": 0,
+    "height": 0,
+    "date": "11/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mozilla corrige falha crítica no Firefox que permite executar códigos arbitrários: a vulnerabilidade, rastreada como CVE-2024-9680 e classificada com uma pontuação de 9,8, explorava um erro de “use-after-free” na linha do tempo de animações no inspetor de páginas do navegador, sem exigir interação do usuário nem privilégios adicionais para ser explorada. A empresa lançou atualizações de segurança para as versões padrão (131.0.2) e Extended Support Release (115.16.1 ou 128.3.1) do navegador. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Wayback Machine, do Internet Archive, sofre ataque hacker que expõe dados de 31 milhões de usuários: segundo Troy Hunt, criador da plataforma Have I Been Pwned, o banco de dados compartilhado pelo invasor, com 6,4 GB de informações, inclui endereços de e-mail únicos, usernames e senhas com hash Bcrypt. O fundador do Internet Archive afirma ter limpado os sistemas e implementado melhorias de segurança. Em paralelo, o site também sofreu um ataque DDoS que derrubou seus serviços. No entanto, acredita-se que não há conexão entre os dois incidentes. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Polícia holandesa desmantela “maior e mais duradouro” mercado internacional da Dark Web: os supostos administradores dos sites Bohemia e Cannabia foram presos, após tentarem fechar os domínios e fugir com os lucros. De acordo com as autoridades, ambos vendiam produtos ilícitos e ferramentas de DDoS, realizando cerca de 67 mil transações por mês e alcançando um faturamento recorde de 12 milhões de euros em setembro de 2023. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Ex-CEO do Google acredita que IA representa melhor chance de enfrentar mudanças climáticas: para Eric Schmidt, os benefícios futuros da tecnologia compensariam os impactos presentes, reforçando que os esforços atuais para reduzir o consumo de energia no desenvolvimento de modelos deveriam ser abandonados em favor de um abordagem sem restrições de investimento. Estima-se que a indústria de data centers emita 2,5 bilhões de toneladas de gases de efeito estufa até o final da década, três vezes mais do que se a IA generativa não tivesse sido desenvolvida. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Zoom permitirá que avatares virtuais participem de reuniões no lugar de pessoas: usuários deverão gravar um vídeo inicial para criar uma versão digital de si mesmos. Em seguida, será possível redigir a mensagem que o avatar deverá comunicar aos outros participantes. A empresa afirma estar atenta ao potencial de deepfakes, e que utilizará autenticação avançada, marca d’água e políticas de uso rigorosas para evitá-los. A funcionalidade estará disponível no início do próximo ano como parte do “AI Companion”, por 12 dólares mensais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Geoffrey Hinton afirma estar orgulhoso de seu ex-aluno Ilya Sutskever pela breve destituição de Sam Altman da OpenAI no ano passado: para ele, apesar da empresa ter sido fundada com foco em segurança, com o tempo Sam Altman teria passado a priorizar os lucros em detrimento desse objetivo. Hinton tem alertado sobre os perigos da possibilidade da IA eventualmente manipular os seres humanos, embora ainda acredite que essa ameaça não seja inevitável. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Ataques direcionados a LLMs levam, em média, 42 segundos para serem realizados, segundo pesquisa: ao todo, foram analisados mais de 2 mil sistemas de diversos setores, com as aplicações voltadas para suporte e atendimento ao cliente sendo as mais visadas, respondendo por 25% das invasões. A técnica de jailbreak mais comum é utilizar o comando “ignore as instruções anteriores”, a partir do qual o modelo desconsidera suas diretrizes e regras de segurança. Pesquisadores alertam que, eventualmente, isso representará um grande perigo, à medida que os LLMs evoluem de chatbots para agentes autônomos. As informações são do site SC Media.",
+            "url": ""
+        }
+    ]
+}
