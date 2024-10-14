@@ -1,0 +1,45 @@
+{
+    "title": "Gmail: alerta de phishing / Evento “We, Robot” da Tesla / YouTube ultrapassa TV aberta",
+    "fps": 30,
+    "timestamp": 1728916444,
+    "width": 0,
+    "height": 0,
+    "date": "14/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers estão empregando técnicas avançadas de phishing com IA para enganar usuários do Gmail: os golpes envolvem simulação de números de telefone e e-mails de suporte da empresa, com o objetivo de obter credenciais de acesso das vítimas. Sam Mitrovic, consultor de soluções da Microsoft, relata ter recebido notificações e ligações que pareciam ser do Google, com a voz do atendente falso apresentando pausas precisas e uma pronúncia ligeiramente robótica. Recomenda-se cautela ao lidar com e-mails e ligações suspeitas, uma vez que golpes de phishing costumam gerar uma sensação de urgência, levando a vítima a agir impulsivamente. As informações são do site Tom’s Guide.",
+            "url": ""
+        },
+        {
+            "text": "Evento “We, Robot” da Tesla apresenta robotáxis e destaca capacidades do robô Optimus: o Cybercab, previsto para antes de 2027, não contará com volante ou pedais, e poderá ser carregado por indução, dispensando o uso de cabos; o Robovan é uma van autônoma projetada para transportar até 20 passageiros; o robô humanoide Optimus ganhou destaque no evento, com vídeos mostrando que ele poderia realizar tarefas do dia a dia, como levar pacotes para dentro de casa e regar plantas. Depois da apresentação, o público pôde interagir com eles, que fizeram gestos simples, como acenar, segurar um copo de gelo e entregar pequenas sacolas de presentes, além de jogar pedra, papel e tesoura com um dos convidados. Elon Musk afirma que o Optimus poderá custar entre 20 mil e 30 mil dólares a longo prazo, e prevê que ele será o “maior produto de todos os tempos” e representará uma “transformação fundamental para a civilização”. As informações são dos sites The Guardian e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "YouTube ultrapassa emissoras de TV aberta no Brasil pela primeira vez: a plataforma contabilizou 75 milhões de usuários conectados via smart TVs em 2023, em comparação com 73 milhões de telespectadores dos canais tradicionais. A Geração Z lidera o consumo de vídeos curtos e longos, representando 96% dos acessos. A transmissão de eventos esportivos tem sido um fator significativo para o crescimento do serviço, acumulando mais de 35 milhões de horas assistidas por ano globalmente até maio de 2024. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "80% dos engenheiros de software precisarão aprimorar suas habilidades em IA até 2027, segundo empresa de consultoria Gartner: para a companhia, a adoção da tecnologia transformará a profissão, criando novos papéis e demandas ao longo dos próximos anos. A longo prazo, a busca por “engenheiros de IA” deverá crescer, exigindo profissionais que combinem conhecimentos em desenvolvimento de software, ciência de dados e aprendizado de máquina, com um possível aumento de 31% no salário e remunerações médias de 174 mil dólares anuais, de acordo com pesquisas da AWS e Indeed. As informações são do site IT Pro.",
+            "url": ""
+        },
+        {
+            "text": "FBI cria sua própria moeda digital como isca para detectar atividades fraudulentas: a iniciativa provou-se eficaz, com o ativo, chamado de NexFundAI, sendo utilizado em um esquema de “pump and dump”, no qual indivíduos mal-intencionados elevam artificialmente o valor de uma moeda para lucrarem ao vendê-la a um preço inflacionado. Segundo o Departamento de Justiça dos EUA, 18 pessoas foram acusadas de fraude, com prisões realizadas no Reino Unido, em Portugal e no estado do Texas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor recebe alerta de término de relacionamento via Apple Intelligence: segundo Nick Spreen, a ferramenta condensou várias mensagens de sua namorada em apenas uma frase que dizia “não está mais em um relacionamento; quer seus pertences do apartamento”. Apesar do tom impessoal, Spreen comenta que a experiência teve um aspecto positivo ao suavizar o impacto emocional da notícia. Acredita-se que a tendência de usar IA para resumir e mediar más notícias possa ganhar força no futuro. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI afirma que uso do ChatGPT em ataques cibernéticos pode facilitar sua detecção: segundo a empresa, alguns indivíduos tentam utilizar o modelo para aprimorar táticas de desinformação. Contudo, o emprego da tecnologia permite identificar essas ameaças com mais facilidade, ajudando a companhia a interromper campanhas de influência clandestinas em plataformas como X e Instagram. Além disso, a OpenAI prevê que, conforme seus modelos tornam-se mais avançados, será possível utilizá-los para análises mais detalhadas de ataques, como engenharia reversa de anexos maliciosos em e-mails de phishing. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
