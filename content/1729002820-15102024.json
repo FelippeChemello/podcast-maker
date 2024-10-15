@@ -1,0 +1,45 @@
+{
+    "title": "Internet Archive de volta / Transferência de passkeys / Califórnia: polícia rejeita carros Tesla",
+    "fps": 30,
+    "timestamp": 1729002820,
+    "width": 0,
+    "height": 0,
+    "date": "15/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após ataque DDoS, Internet Archive está online novamente em modo de “somente leitura”: o fundador da plataforma anunciou que o site voltou a funcionar, embora possa necessitar de manutenção adicional. Os usuários já podem acessar a Wayback Machine, mas, por enquanto, não é possível registrar novas páginas. A equipe do Internet Archive tem trabalhado na restauração gradual dos serviços, incluindo e-mails e crawlers para bibliotecas nacionais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "FIDO Alliance anuncia especificação que permitirá importar e exportar passkeys entre diferentes gerenciadores de senhas: segundo a companhia, isso permitirá que usuários escolham livremente qual plataforma utilizar. A transferência será realizada de forma criptografada, sendo mais segura que arquivos CSV, comumente usados atualmente. Empresas como 1Password, Dashlane, Bitwarden, NordPass e Google também colaboraram com a FIDO Alliance no projeto. As novas especificações ainda estão em fase de rascunho e precisarão de revisão por parte da indústria. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Polícia da Califórnia rejeita uso de carros elétricos da Tesla para patrulha: segundo as autoridades, os veículos não atendem às exigências da corporação. Os problemas mencionados incluem espaço interno limitado, dificuldade de transportar suspeitos por longas distâncias devido à necessidade de paradas em estações de carregamento, e a ausência de um bloco de motor, considerado essencial para proteção durante tiroteios. As informações são do site SFGATE.",
+            "url": ""
+        },
+        {
+            "text": "Grupo hacker “GoldenJackal” desenvolve ferramentas capazes de infectar dispositivos desconectados da internet: esses aparelhos são frequentemente utilizados em operações críticas, como controle industrial e geração de energia. O ataque consiste em primeiro infectar uma máquina conectada à rede — por meio de um método não identificado — que então infecta qualquer unidade externa que seja conectada à ela. Quando essa unidade é inserida em um sistema isolado (air-gapped), ela coleta e armazena dados de interesse, podendo ser plugada novamente a outro dispositivo online e transferindo as informações para um servidor controlado pelo invasor. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Editores da Wikipedia formam grupo para combater conteúdos gerados por IA: de acordo com os membros, o objetivo é proteger o site contra desinformação, que já está afetando resultados de busca no Google, livros na Amazon e revistas acadêmicas. Para isso, o grupo detecta conteúdos que apresentam sinais claros de serem artificiais, focando em termos comumente utilizados pelos modelos. Um exemplo é o artigo sobre o Chester Mental Health Center, que, em novembro de 2023, incluía a frase “Até a minha última atualização de conhecimento em janeiro de 2022”. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia série de processadores Core Ultra 200S com foco em eficiência: pela primeira vez, a linha contará com uma NPU integrada para otimizar tarefas de IA em desktops de alto desempenho, com capacidade de processamento de até 13 TOPS. No quesito energia, os componentes foram projetados para reduzir o consumo em até 50%. Em comparação com o Core i9-14900K, o modelo Ultra 9 285K economiza até 165 watts em jogos, com uma redução de aproximadamente 13 °C na temperatura de operação. A série, de codinome Arrow Lake S, será lançada no dia 24 deste mês, com preços entre 309 e 589 dólares. Informações adicionais e especificações técnicas estão disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Estudo realizado pela Apple indica que LLMs são falhos e não conseguem realizar raciocínios básicos: segundo os cientistas da empresa, pequenas alterações na formulação das perguntas podem gerar respostas significativamente diferentes, resultando em uma diminuição de até 65% na precisão. Em um exemplo prático, os modelos foram desafiados a resolver uma questão em que “Oliver colhe 44 kiwis na sexta-feira. Depois, colhe 58 kiwis no sábado. No domingo, ele colhe o dobro da quantidade que pegou na sexta-feira. Quantos kiwis Oliver tem?”. Uma cláusula adicional afirmava que “cinco deles eram um pouco menores que a média”. Tanto o ChatGPT como o Llama3-8b subtraíram os cinco kiwis menores do total. As informações são do site AppleInsider.",
+            "url": ""
+        }
+    ]
+}
