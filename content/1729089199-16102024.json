@@ -1,0 +1,45 @@
+{
+    "title": "Intel + AMD / TikTok “criado para viciar” / Google usará energia nuclear",
+    "fps": 30,
+    "timestamp": 1729089199,
+    "width": 0,
+    "height": 0,
+    "date": "16/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Intel e AMD anunciam parceria com empresas de tecnologia para reformular arquitetura x86: o objetivo é melhorar a compatibilidade, reduzindo inconsistências na execução de certas instruções e facilitando o desenvolvimento de softwares. Para isso, ambas as companhias estabeleceram um grupo consultivo com grandes corporações, incluindo Dell, Google, Meta, Microsoft e Oracle, além de figuras proeminentes, como Linus Torvalds e Tim Sweeney, da Epic Games. Intel e AMD também pretendem enfrentar a crescente concorrência de CPUs compatíveis com ARM, cada vez mais presente em data centers. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "TikTok reconhece impacto prejudicial do aplicativo em adolescentes, segundo ação judicial dos EUA: a investigação, conduzida por procuradores-gerais de 13 estados norte-americanos mais o distrito federal, alega que a plataforma foi projetada para viciar jovens, aproveitando-se de seus cérebros em desenvolvimento e baixa capacidade de autocontrole. Além disso, as ferramentas de tempo de tela seriam propositalmente ineficazes, buscando apenas melhorar a percepção e confiança pública dos usuários. A rede social também teria ciência dos impactos negativos dos filtros de beleza na autoestima dos adolescentes, e estaria privilegiando usuários “mais atraentes” em seu feed. As informações são do site NPR.",
+            "url": ""
+        },
+        {
+            "text": "Google assina acordo com Kairos Power para utilizar energia nuclear em seus data centers: a empresa acredita que isso poderá desempenhar um papel fundamental no seu crescimento sustentável e no suporte às tecnologias de IA, dada a necessidade de fontes de eletricidade limpa e confiável. A companhia irá utilizar os reatores nucleares modulares pequenos da Kairos, e a expectativa é que o primeiro núcleo esteja operacional até 2030, com a adição de mais unidades até 2035, totalizando 500 megawatts. Segundo o Google, suas emissões aumentaram quase 50% em relação a 2019, em parte devido ao maior consumo de energia de seus data centers. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses realizam primeiro ataque quântico bem-sucedido contra algoritmos avançados de criptografia: o grupo utilizou o D-Wave Advantage, computador originalmente voltado para aplicações práticas, como em logística e finanças, para explorar a técnica de “recozimento quântico”, que permite resolver rapidamente problemas matemáticos complexos. Os algoritmos testados incluem Present, Gift-64 e Rectangle, que são uma base para padrões avançados como o AES, amplamente utilizado em sistemas militares e financeiros. Apesar do avanço, os cientistas apontam limitações, como interferência ambiental e hardware subdesenvolvido, além da dificuldade de criar um método de ataque universal para múltiplos sistemas criptográficos. As informações são do site The Quantum Insider.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade em chatbots permite usar caracteres invisíveis para inserir instruções maliciosas e exfiltrar dados confidenciais: a falha consiste em utilizar o padrão de codificação Unicode para criar uma estrutura esteganográfica, misturada com um texto visível para o usuário. Johann Rehberger, pesquisador de segurança, criou exemplos de ataque utilizando a técnica “ASCII smuggling” contra o Microsoft 365 Copilot — já mitigado pela Microsoft — para buscar dados sensíveis na caixa de entrada de um usuário, induzindo-o a expressar esses segredos em caracteres invisíveis, anexando-os a uma URL e instruindo o usuário a visitá-la, fazendo com que as informações fossem transmitidas secretamente para o servidor de Rehberger. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido considera adotar USB-C como padrão único de carregamento de dispositivos: o governo abriu uma consulta pública para avaliar o impacto dessa medida e os potenciais benefícios ambientais, como a redução de resíduos eletrônicos, e a conveniência para os consumidores, que poderiam utilizar um único carregador para vários aparelhos. Além disso, fabricantes poderiam vender equipamentos sem a fonte de alimentação, incentivando o reaproveitamento de acessórios já existentes. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google Play disponibilizou mais de 200 aplicativos maliciosos, com quase 8 milhões de downloads, ao longo de um ano, segundo relatório: os dados são de junho de 2023 até abril de 2024. A ameaça mais prevalente foi o Joker, representando 38,2% dos casos, sendo responsável por roubar informações e sequestrar mensagens SMS para inscrever vítimas em serviços premium sem consentimento. Cerca de metade dos apps detectados foi publicada em categorias como ferramentas, personalização, fotografia, produtividade e estilo de vida. Os países mais afetados foram Índia (28%) e EUA (27%), enquanto o Brasil apresentou um índice de 3%. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
