@@ -1,0 +1,49 @@
+{
+    "title": "Hacker BR preso / Spotify mantém home office / 1º Kindle colorido",
+    "fps": 30,
+    "timestamp": 1729176465,
+    "width": 0,
+    "height": 0,
+    "date": "17/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Polícia Federal prende hacker brasileiro suspeito de invadir seus sistemas e de outras instituições internacionais: o criminoso é conhecido por vazar grandes bases de dados de empresas e órgãos, incluindo Airbus e a Agência de Proteção Ambiental norte-americana. Segundo as autoridades, o indivíduo também alegava em suas redes sociais que havia divulgado informações sensíveis de 80 mil membros da InfraGard, uma parceria entre o FBI e entidades privadas do setor de infraestrutura dos EUA. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Spotify mantém política de trabalho remoto e afirma que funcionários “não são crianças”: segundo a Diretora de Recursos Humanos, não há motivos para forçar o retorno ao escritório, visto que o modelo híbrido não teria afetado a produtividade. Contudo, os profissionais são incentivados a participarem de uma “semana central” designada para colaboração presencial e discussões estratégicas, onde projetos podem ser desenvolvidos com menos latência do que em videoconferências. As informações são do TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia primeiro Kindle com tela colorida e outros modelos atualizados: o Colorsoft inclui uma tela de 7 polegadas, com desempenho rápido e contraste aprimorado, além de suporte para carregamento sem fio Qi, até oito semanas de duração de bateria e ajuste automático de luz. O dispositivo está disponível para pré-venda por 280 dólares, mas ainda sem lançamento no Brasil, embora a Amazon tenha confirmado sua chegada ao país em breve. Outros modelos anunciados e seus respectivos preços podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Winamp remove repositório do GitHub, um mês após ser publicado: a liberação do código-fonte teria sido marcada por controvérsias. Inicialmente, o software foi enviado sob uma licença personalizada, denominada Winamp Collaborative License (WCL), cuja cláusula proibia a criação, manutenção ou distribuição de forks. Usuários do GitHub apontam que essa restrição viola os termos de serviço da plataforma, e faz com que o aplicativo não seja exatamente open source. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Médicos britânicos criticam tecnologias “da idade da pedra” do NHS, um dos maiores sistemas públicos de saúde do mundo: segundo eles, a gestão das listas diárias de pacientes exige que dois profissionais se revezem duas vezes por dia para atualizar os registros, enviá-los para seus próprios e-mails e, então, imprimi-los. Em alguns departamentos, ainda há uma combinação de registros eletrônicos e de papel, prejudicando a eficiência do trabalho. Os profissionais alertam para riscos à segurança dos pacientes devido à falta de interoperabilidade entre sistemas de registros e de laboratórios, o que já resultou em rotulação incorreta de amostras de sangue e até perda de resultados de exames. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Preços de SSDs podem cair até 10% antes do final do ano, segundo analistas: a queda seria impulsionada por uma combinação de aumento na produção e demanda enfraquecida. Outro segmento de armazenamento, que inclui eMMC e UFS, comumente empregado em dispositivos móveis, pode registrar uma diminuição de até 13% nos preços no quarto trimestre de 2024. Por outro lado, SSDs de classe empresarial, voltados para aplicações de alto desempenho, podem enfrentar um leve aumento percentual de um único dígito. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Vendas globais de carros elétricos alcançam recorde de 30,5% em setembro: ao todo, foram comercializadas 1,69 milhão de unidades nesse período. A China lidera os números com 1,12 milhão (aumento de 47,9%), seguida pelos EUA e Canadá (0,15 milhão — 4,3%), e Europa (0,3 milhão — 4,2%). No caso desta última, estima-se que as vendas possam chegar a 3,78 milhões de unidades em 2025 e 9,78 milhões em 2030. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de quarta-feira, noticiamos que uma equipe de cientistas chineses teria realizado um ataque bem-sucedido a algoritmos avançados de criptografia utilizando um computador quântico da D-Wave. No entanto, segundo um leitor da Newsletter, pesquisador em computação quântica e que trabalha diretamente com a D-Wave, afirma que a máquina possui limitações e não teria potência suficiente para comprometer esse nível de segurança.",
+            "url": ""
+        }
+    ]
+}
