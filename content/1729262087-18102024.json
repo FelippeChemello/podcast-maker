@@ -1,0 +1,45 @@
+{
+    "title": "Golpe no Google Meet / Pentágono quer perfis falsos / Fim definitivo do Windows 7",
+    "fps": 30,
+    "timestamp": 1729262087,
+    "width": 0,
+    "height": 0,
+    "date": "18/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers utilizam erros falsos do Google Meet para espalhar malware que rouba informações: a campanha, denominada ClickFix, é direcionada a sistemas operacionais Windows e macOS. Os invasores enviam e-mails que parecem convites legítimos para conferências online. Ao acessar a página, a vítima se depara com um pop-up informando sobre um problema técnico no microfone ou fones de ouvido, e solicitando a abertura do terminal. Ao clicar no botão para corrigir o problema, um comando é copiado para a área de transferência, e ao ser executado, realiza a infecção. No macOS, o malware é inserido como um arquivo “.dmg” chamado “Launcher_v194”. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pentágono planeja utilizar IA para criar usuários falsos na internet: o Comando Conjunto de Operações Especiais (JSOC, na sigla em inglês) está buscando empresas para auxiliar na criação de perfis em plataformas de mídia e rede social, projetados para serem tão realistas que não seriam identificáveis por humanos ou sistemas computacionais. De acordo com o pedido oficial, as tropas de operações especiais usariam essa tecnologia para coletar informações de fóruns públicos online. Contudo, especialistas temem que o uso desse método pelos EUA possa incentivar sua proliferação e normalizá-lo como ferramenta para outros governos. As informações são do site The Intercept.",
+            "url": ""
+        },
+        {
+            "text": "Última versão suportada do Windows 7 chega ao fim da vida útil: a edição “POSReady”, destinada a dispositivos de ponto de venda, como caixas registradoras e totens de pedidos em restaurantes, não receberá mais atualizações. Apesar disso, acredita-se que muitos estabelecimentos continuarão utilizando o sistema, uma vez que sua principal função é simplesmente gerenciar pedidos e o caixa. A versão original do Windows 7 foi encerrada em 14 de janeiro de 2020. As informações são dos sites The Register e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Preços de baterias para veículos elétricos podem cair quase 50% até 2026, segundo empresa de investimentos: para a Goldman Sachs, essa tendência deve ser impulsionada por avanços tecnológicos que aumentam a densidade energética dos componentes, juntamente com a queda nos preços dos metais utilizados na produção. Dessa forma, acredita-se que os veículos elétricos possam alcançar paridade de custos com os movidos a combustão nos EUA. As informações são do site TheDriven.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA acusa irmãos de realizarem ataques DDoS contra algumas das maiores empresas de tecnologia do mundo: conhecida como Anonymous Sudan, a dupla mirou grandes companhias, incluindo Microsoft, PayPal, Steam, Netflix, Reddit, GitHub e Cloudflare, além dos departamentos de Justiça, Defesa e Estado dos EUA, o FBI e sistemas de saúde. Ao todo, foram mais de 35 mil ataques entre janeiro de 2023 e março de 2024. Os irmãos também ofereciam sua ferramenta DDoS em formato de assinatura, com pacotes variando de 100 dólares por um dia de acesso a 1.700 dólares por um mês. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "TSMC, maior fabricante de semicondutores do mundo, anuncia aumento de 36% em receitas no terceiro trimestre de 2024: o crescimento é em relação ao mesmo período do ano passado, e também representa uma alta de 12% comparado ao trimestre anterior, impulsionado pela forte demanda por silício voltado para smartphones e IA. Wendell Huang, Vice-Presidente Sênior, destaca as tecnologias de 3 nm e 5 nm como líderes de mercado e principais motores desse desempenho, com empresas como a Nvidia utilizando-as em seus produtos mais avançados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comunicações dos EUA exigirá que celulares e aparelhos auditivos sejam 100% compatíveis entre si: o objetivo é eliminar a preocupação de pessoas com perda auditiva sobre quais telefones são compatíveis com seus acessórios. A FCC também obrigará que as etiquetas dos dispositivos em pontos de venda informem claramente sobre a compatibilidade com aparelhos auditivos, e se eles atendem aos requisitos de conexão Bluetooth ou por telecoil. As informações são do site Engadget.",
+            "url": ""
+        }
+    ]
+}
