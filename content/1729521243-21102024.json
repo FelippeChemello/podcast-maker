@@ -1,0 +1,45 @@
+{
+    "title": "Isca para hackers / Coleta de dados no X / Brasil: 5G só 11% do tempo",
+    "fps": 30,
+    "timestamp": 1729521243,
+    "width": 0,
+    "height": 0,
+    "date": "21/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft utiliza locatários falsos no Azure para atrair cibercriminosos e coletar dados estratégicos: a iniciativa visa entender melhor as táticas usadas em ataques, interromper campanhas em grande escala, identificar os criminosos e reduzir significativamente suas atividades. A abordagem envolve a inserção de credenciais dos locatários em sites de phishing identificados pelo Microsoft Defender, com informações realistas sobre a companhia. Os dados coletados incluem endereços IP, navegadores, localização, padrões de comportamento, uso de VPNs, e as ferramentas utilizadas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "X permitirá que terceiros utilizem postagens de usuários para treinar modelos de IA: a decisão foi registrada em uma atualização dos Termos de Serviço e da Política de Privacidade, sem dar mais detalhes de como desativar a opção, embora espera-se que ela venha desativada por padrão. As novas regras entrarão em vigor em 15 de novembro. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "5G está disponível apenas cerca de 11% do tempo no Brasil, segundo estudo da Opensignal: em abril, o índice era de 10%. A empresa aponta que, no país, 99% das medições indicam que os smartphones estão conectados em frequências mais altas, como 3,5 GHz, o que contribui para um menor alcance do sinal. O relatório também compara o cenário brasileiro com o da Índia, na qual o 5G está disponível 52,1% do tempo, mas onde 16% das conexões utilizam a frequência de 700 MHz. Com isso, a velocidade média de download do 5G no Brasil é de 349 MB/s, em comparação com os 243,3 MB/s registrados na Índia. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "FBI prende hacker responsável por manipular preço do Bitcoin por meio de uma postagem falsa: em janeiro, o indivíduo publicou uma mensagem no X utilizando a conta da Comissão de Valores Mobiliários dos EUA, em nome do presidente Gary Gensler, alegando que ETFs do ativo haviam sido aprovados. A informação fez com que o valor da moeda digital subisse temporariamente mais de 1.000 dólares. Para realizar a postagem, o acusado teria enganado a AT&amp;T, operadora de telefonia móvel, obtendo um chip SIM associado ao número de telefone da vítima e inserindo-o em um iPhone adquirido por ele, que posteriormente foi devolvido à loja. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Administração Nacional de Segurança Rodoviária dos EUA investiga colisões causadas pelo “ull Self-Drivin” da Tesla em condições de visibilidade reduzida: a medida foi tomada após quatro relatos de incidentes desse tipo, incluindo um ocorrido em novembro passado, no Arizona, onde um Model Y atropelou fatalmente um pedestre. A agência informa que buscará avaliar a capacidade do sistema de detectar e reagir adequadamente nessas condições, além de verificar se houve outros acidentes semelhantes nessas circunstâncias e as possíveis causas que contribuíram para isso. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador utiliza modelo Gemini para extrair dados de vídeo, destacando seu baixo custo e alta precisão: Simon Willison desejava somar seus gastos com um serviço de nuvem, cujos valores e datas de pagamento estavam espalhados por diversos e-mails. Ele gravou sua tela por 35 segundos enquanto acessava as mensagens, e processou o vídeo na ferramenta AI Studio do Google, solicitando que ela extraísse os dados e os organizasse em um formato JSON. Willison destaca o custo extremamente baixo da operação — menos de um décimo de centavo, utilizando o Gemini 1.5 Flash. Além disso, ele acredita que a gravação de vídeo não é afetada por autenticações de sites ou tecnologias anti-scraping, o que amplia suas possibilidades. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Netflix afirma que assinantes passam, em média, duas horas por dia na plataforma: em paralelo, a audiência domiciliar aumentou em comparação ao ano anterior, conforme o relatório de resultados do terceiro trimestre de 2024. A companhia afirma que atualmente representa pouco menos de 10% do total de uso de TV em seus principais mercados, mas acredita que “há uma grande oportunidade de ampliar essa participação” com o lançamento contínuo de séries e filmes. A empresa também está investindo em conteúdo ao vivo e expandindo consideravelmente sua biblioteca de jogos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
