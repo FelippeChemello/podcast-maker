@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT no Windows / OSI critica Meta / On-premise economiza 2M",
+    "fps": 30,
+    "timestamp": 1729607623,
+    "width": 0,
+    "height": 0,
+    "date": "22/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança aplicativo do ChatGPT para Windows: além das funcionalidades já conhecidas na versão web, o software permite acesso a uma prévia do modelo “o1” — capaz de realizar “raciocínio” — e abertura rápida utilizando as teclas Alt + Espaço. No entanto, o app ainda não inclui alguns recursos, como o modo avançado de voz. Usuários assinantes do ChatGPT já podem baixar o programa, ainda em fase de testes, pela Microsoft Store, e a OpenAI planeja liberá-lo para todos os usuários até o final do ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Open Source Initiative critica Meta por descrever seu modelo Llama como código aberto: segundo o diretor Stefano Maffulli, a empresa estaria “confundindo” os usuários e “poluindo” o termo ao utilizá-lo para classificar sua tecnologia, que, embora possa ser baixada gratuitamente, não garante acesso ao processo completo de desenvolvimento, nem à capacidade de construir outros produtos derivados a partir dela. A OSI defende que as empresas deveriam divulgar os algoritmos de treinamento e demais softwares usados no desenvolvimento. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Empresa economiza quase 2 milhões de dólares em 1 ano após abandonar nuvem: a 37signals decidiu migrar suas aplicações e dados de clientes da AWS para sua própria infraestrutura, investindo cerca de 700 mil dólares em equipamentos. A companhia também planeja substituir o sistema de armazenamento de dados AWS S3 por uma configuração de data centers duplos com capacidade combinada de 18 petabytes. Até janeiro de 2023, a empresa somava gastos de 3,2 milhões de dólares com serviços de nuvem, e planeja economizar até 7 milhões em cinco anos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem ferramenta open-source capaz de identificar vulnerabilidades zero-day em códigos Python: o Vulnhuntr, criado pela equipe da Protect AI, utiliza o modelo Claude, da Anthropic, para analisar arquivos que podem lidar com entradas remotas de usuários. Para cada falha encontrada, a tecnologia solicita, de forma inteligente, funções, classes e variáveis de outras partes do código, até mapear completamente a cadeia de chamadas. A ferramenta foca em sete tipos de vulnerabilidades, incluindo XSS, IDOR, SQL Injection e RCE. O Vulnhuntr será lançado gratuitamente no GitHub, ainda sem data definida. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm cancela seu mini PC com Windows on Arm: o Snapdragon Dev Kit estava inicialmente previsto para ser lançado em junho. A empresa afirma que o dispositivo não atendeu aos seus “adrões usuais de excelênci” e que todos os pedidos serão reembolsados. Acredita-se que um dos fatores que podem ter contribuído para o cancelamento é a ausência de uma entrada HDMI. Além disso, Jeff Geerling, um desenvolvedor que teve acesso antecipado ao kit, afirma que, embora ele tenha um desempenho comparável ao M3 Pro da Apple, a falta de suporte ao Linux e restrições quanto à revenda do produto tornaram o hardware uma oportunidade desperdiçada. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Testes com 6G atingem velocidade de transmissão de 938 Gb/s: esse é um valor quase 5 mil vezes superior ao de uma boa conexão 5G, que gira em torno de 200 Mbps. Os pesquisadores combinaram ondas de rádio e luz para transmitir os dados, utilizando o maior espectro de frequências já registrado em testes, entre 5 GHz e 150 GHz. A equipe supostamente está em contato com fabricantes de smartphones e provedores de rede para avançar com essa tecnologia, que visa atender às demandas de transmissão de 100 Gbps nas futuras estações base do 6G. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney planeja plataforma online de edição de imagens: a ferramenta permitirá aos usuários modificar aspectos como textura, cor e detalhes, a partir de instruções de texto. Segundo o CEO David Holz, o recurso será inicialmente restrito a um “ubconjunto da comunidade atua”, com moderação humana reforçada, a fim de evitar abusos. A empresa está buscando feedback da comunidade por meio de uma enquete, que ajudará a decidir quais usuários terão acesso prioritário. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
