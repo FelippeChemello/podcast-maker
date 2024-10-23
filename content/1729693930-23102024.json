@@ -1,0 +1,45 @@
+{
+    "title": "Estagiário sabota ByteDance / IA que controla PC inteiro / Diagnóstico de câncer com IA",
+    "fps": 30,
+    "timestamp": 1729693930,
+    "width": 0,
+    "height": 0,
+    "date": "23/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ByteDance, proprietária do TikTok, demite estagiário por sabotar projeto de IA: segundo a empresa, o funcionário “interferiu maliciosamente” no treinamento de um de seus modelos, sem fornecer detalhes adicionais, destacando que ele fazia parte da equipe de tecnologia e não tinha experiência com o setor de IA. Contudo, a companhia rejeita alegações sobre a gravidade dos danos causados, como um potencial prejuízo de 10 milhões de dólares devido à interrupção do sistema, composto por milhares de GPUs. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Claude, modelo da Anthropic, recebe atualização que permite controlar computador do usuário: a versão aprimorada do 3.5 Sonnet agora consegue entender e interagir com qualquer aplicativo de desktop, por meio da API “Computer Use”, atualmente em beta aberto, podendo simular pressionamentos de teclas, cliques de botões e movimentos do mouse. No entanto, o modelo ainda enfrenta dificuldades com ações básicas, como rolar a página ou aplicar zoom. Desenvolvedores podem testar a funcionalidade por meio da API da Anthropic, do Amazon Bedrock e da plataforma Vertex AI do Google Cloud. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "CERN, maior laboratório científico do mundo, quer melhorar diagnóstico do câncer de mama com IA: a instituição está desenvolvendo uma ferramenta que promete ser 50% mais precisa na detecção da doença — comparado ao modelo atual de triagem, o GAIL — ao combinar múltiplos fatores, como dieta, consumo de álcool, estilo de vida e histórico médico da paciente. Além disso, o laboratório visa aprimorar os aceleradores lineares de radioterapia com a tecnologia, tornando-os mais fáceis de operar e acessíveis em países de baixa e média renda, onde o acesso ao tratamento é limitado devido ao custo elevado e pela falta de especialistas capacitados para operar o equipamento. As informações são do site EL PAÍS.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia substituição do executivo responsável pelo setor de busca: em um memorando enviado à equipe, o CEO Sundar Pichai comunicou que Prabhakar Raghavan assumirá o papel de Tecnologista Chefe, dando seu lugar à Nick Fox — que também fazia parte da equipe de liderança e ajudou no lançamento de produtos como o Google Fi e a mensagem RCS. Além do setor de busca, Raghavan liderou vários outros, incluindo o de pagamentos, anúncios e Google Assistente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Worldcoin, startup de moeda digital de Sam Altman, muda nome para World e anuncia nova versão do Orb: o dispositivo, do tamanho de uma bola de basquete, é projetado para escanear a íris de uma pessoa e verificar se ela é realmente humana. O design atualizado possui 30% menos componentes, o que reduz custos e facilita sua ampla produção e disponibilização. O Orb também estará disponível em mais países, incluindo o Brasil. A World afirma ter verificado quase 7 milhões de “humanos únicos” até o momento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Funcionários da Apple acreditam que empresa está dois anos atrás no desenvolvimento de IA, segundo jornalista: em um estudo interno da companhia, foi constatado que o ChatGPT é aproximadamente 25% mais preciso que a Siri, e capaz de responder cerca de 30% mais perguntas. O Apple Intelligence depende principalmente de modelos executados diretamente no dispositivo, o que também impõe requisitos elevados — um chip A17 ou M1, ou posterior, e pelo menos 8 GB de memória RAM. Contudo, essa abordagem limita a quantidade de informações que podem ser processadas localmente. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Estado de Arkansas possui reservas de lítio suficientes para atender demanda mundial por veículos elétricos, segundo estudo: estima-se que a região contenha entre 5 e 19 milhões de toneladas do material, o que poderia suprir até nove vezes a quantidade necessária para a produção de baterias automotivas em 2030. Com isso, empresas ao redor do mundo estão desenvolvendo tecnologias para viabilizar a extração do lítio de forma econômica, como a ExxonMobil, multinacional do setor de petróleo e gás, que planeja iniciar a produção em 2027 e já perfurou poços exploratórios na região. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
