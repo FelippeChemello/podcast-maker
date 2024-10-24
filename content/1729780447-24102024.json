@@ -1,0 +1,45 @@
+{
+    "title": "JavaScript dividido? / Qualcomm ameaçada / Ex-Casa Branca na OpenAI",
+    "fps": 30,
+    "timestamp": 1729780447,
+    "width": 0,
+    "height": 0,
+    "date": "24/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro do Google propõe dividir JavaScript em duas linguagens: Shu-yu Guo e sua equipe argumentam que novos recursos da tecnologia, como a propriedade “species” e o tipo de dado “BigInt”, têm impactado negativamente os usuários, potencialmente afetando a segurança, estabilidade e desempenho. A proposta defende que a base do JS deve permanecer simples, onde o núcleo seria chamado de “JS0” — implementado pelo motor de execução — enquanto a variante compilada seria o “JSSugar”, no qual futuras funcionalidades seriam atribuídas. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Arm ameaça cancelar licença de design de chips da Qualcomm: a empresa enviou um aviso formal de 60 dias sobre a revogação do contrato arquitetural, o qual permite à Qualcomm criar seus próprios chips baseados nos padrões da Arm. A medida foi tomada após a Qualcomm anunciar planos de incorporar o design da Nuvia em seus chips Snapdragon. Em resposta, a companhia acusa a Arm de tentar “coagir um parceiro de longa data” e considera a ação uma tentativa de atrapalhar o devido processo legal entre as partes. Esse impasse pode impactar significativamente os mercados de smartphones e computadores pessoais. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI contrata ex-funcionário da Casa Branca como seu primeiro economista-chefe: Aaron Chatterji foi coordenador do programa CHIPS, que aplicou 52,7 bilhões de dólares em subsídios para a produção e pesquisa de semicondutores nos EUA. Ele será responsável por conduzir estudos sobre os potenciais efeitos da IA no crescimento econômico e na geração de empregos, fornecendo insights sobre tendências de longo prazo no mercado de trabalho. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Baidu acredita que alucinações em modelos de linguagem não são mais um problema: segundo Robin Li, a mudança mais significativa nos últimos 18 a 20 meses foi o aumento da precisão nas respostas, onde, ao interagir com chatbots baseados em “modelos de ponta”, o usuário pode praticamente confiar nas informações fornecidas. Além disso, ele descreve o setor de IA como uma “bolha inevitável”, e que, de maneira semelhante às empresas de internet dos anos 90, apenas 1% dessas companhias se destacará, gerando um “valor tremendo para a sociedade”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp passa a criptografar e sincronizar contatos entre dispositivos: a partir de agora, os registros estarão vinculados à conta do usuário, e não mais ao aparelho. Para garantir a segurança, a plataforma implementou o sistema “Identity Proof Linked Storage”, um mecanismo de armazenamento focado em privacidade, e que assegura que todos os contatos sejam criptografados de ponta a ponta, impedindo interceptações ou acesso por funcionários mal-intencionados da própria Meta. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Vendas de celulares básicos crescem no Reino Unido, segundo operadora: pais e responsáveis estariam optando por esses dispositivos em vez de smartphones, visando proteger seus filhos dos riscos das redes sociais e dos aplicativos de mensagens instantâneas. Um analista aponta que essa medida também pode indicar uma resposta ao “uso excessivo” dos aparelhos modernos atualmente. Além disso, o preço seria um fator atraente, uma vez que os celulares comuns mais caros custam menos do que os smartphones mais baratos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity AI lança ferramenta para acompanhar mercado de ações: o Finance oferece um conjunto de funcionalidades para explorar dados financeiros de empresas, incluindo cotações em tempo real, histórico de lucros e comparações com concorrentes do setor. Para evitar alucinações, as informações são fornecidas pela API da Financial Modeling Prep. O recurso está disponível para assinantes do Perplexity Pro, que custa 20 dólares mensais. Para utilizá-lo, o usuário pode pesquisar o termo “stock” seguido do nome da empresa. As informações são do site ZDNET.",
+            "url": ""
+        }
+    ]
+}
