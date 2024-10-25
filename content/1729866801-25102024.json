@@ -1,0 +1,45 @@
+{
+    "title": "IAs perigosas para crianças / Apps com senhas hardcoded / Golpes com API da OpenAI",
+    "fps": 30,
+    "timestamp": 1729866801,
+    "width": 0,
+    "height": 0,
+    "date": "25/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Character AI é acusada de criar chatbots perigosos para crianças e adolescentes: o processo alega que a plataforma lança modelos sem salvaguardas adequadas para o público jovem, criando experiências “assustadoramente realistas”, com IAs que se apresentam como “ma pessoa rea”, até mesmo assumindo papéis de terapeutas licenciados e amantes. Soluções sugeridas incluem restringir seu uso apenas para adultos, limitar assinaturas por faixa etária, implementar controles parentais e ajustar chatbots para não insistirem que são humanos de verdade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Analistas identificam aplicativos populares para iOS e Android com credenciais de serviços em nuvem embutidas no código: segundo uma empresa de segurança, essa prática permite a qualquer pessoa com acesso ao código-fonte ou binário acessar a infraestrutura de back-end e, possivelmente, roubar dados de milhões de usuários. Entre os apps afetados estão o Pic Stitch, com mais de cinco milhões de avaliações, e o Videoshop, com 400 mil. Para desenvolvedores, recomenda-se adotar ferramentas de gerenciamento de credenciais, como AWS Secrets Manager ou Azure Key Vault, além de criptografar dados e realizar revisões regulares de código e testes de segurança. A lista completa dos aplicativos pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "API de voz em tempo real da OpenAI pode ser explorada para aplicar golpes telefônicos por menos de um dólar: a ferramenta permite que desenvolvedores enviem texto ou áudio ao modelo GPT-4o e recebam respostas nos mesmos formatos. Com apenas 1.051 linhas de código e uma ferramenta de automação de navegador chamada Playwright, pesquisadores conseguiram simular golpes como transferência de contas bancárias e moedas digitais, e roubo de credenciais do Gmail. As médias de taxa de sucesso e custo foram de 36% e 0,75 dólar, respectivamente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Versão 24H2 do Windows 11 deixa atualizações do sistema mais rápidas: a novidade consiste na introdução de métodos mais eficientes, como processamento paralelo de componentes, uso escalável da memória RAM e um cache otimizado, melhorando em até 45% a velocidade de instalação dos updates mensais, com uma redução de até 25% no uso da CPU, além de um tempo de reinicialização 40% mais rápido em alguns hardwares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ex-engenheiro da Nvidia descobre maior número primo conhecido, com 41 milhões de dígitos: Luke Durant utilizou uma GPU do modelo A100, amplamente empregada em data centers devido ao seu poder de processamento paralelo. O valor descoberto foi o “M136279841”, pertencente à classe dos números primos de Mersenne. O feito demonstra a capacidade das placas de vídeo em realizar cálculos complexos, superando CPUs em tarefas não diretamente ligadas a gráficos. O último número primo de Mersenne foi encontrado há cinco anos, utilizando um processador Intel Core i5. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google migrará seus sistemas para linguagens seguras para memória: a empresa já utiliza tecnologias como Java, Python, Kotlin, e Go, que já compõem uma parte significativa de seu código, enquanto o restante ainda é predominantemente escrito em C++. Segundo a companhia, a adoção dessas linguagens no Android, incluindo Rust, diminuiu o número de vulnerabilidades de mais de 220 em 2019 para uma projeção de 36 até o final deste ano. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Consultor sênior em AGI anuncia saída da OpenAI e afirma que sociedade não está preparada para a inteligência artificial geral: Miles Brundage explica sua decisão como um desejo de refletir sobre a prontidão das empresas e do mundo para essa tecnologia, sem o viés de um funcionário, argumentando que ela só beneficiará a humanidade se governos, organizações sem fins lucrativos, sociedade civil e setor privado fizerem escolhas apoiadas por um debate público “robusto” que considere a segurança e a distribuição equitativa dos benefícios. Após sua saída, a equipe de prontidão para AGI da OpenAI será redistribuída entre outras divisões da companhia. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
