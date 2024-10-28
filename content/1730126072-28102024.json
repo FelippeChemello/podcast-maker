@@ -1,0 +1,49 @@
+{
+    "title": "Falhou: voltar ao escritório não deu certo / Campanha para open source / Adobe: artistas devem adotar IA",
+    "fps": 30,
+    "timestamp": 1730126072,
+    "width": 0,
+    "height": 0,
+    "date": "28/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ordens de retorno ao escritório não atendem expectativas, segundo pesquisa: enquanto 60% dos gestores esperam que os empregados estejam presenciais três ou mais dias por semana, apenas 51% relatam que os funcionários seguem essa frequência. Além disso, apesar de 80% das empresas no continente americano terem estabelecido políticas de retorno, somente 17% monitoram a conformidade dessas normas, supostamente evitando regras rígidas e descontentamentos. Acredita-se que, no futuro, os líderes podem focar mais na realização de objetivos em equipe do que na frequência diária no escritório. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "Grupo usa outdoors em rodovias dos EUA para pressionar empresas que não apoiam projetos de código aberto: as placas, criadas pela iniciativa Open Source Pledge, pedem que companhias que utilizam software livre contribuam anualmente com dois mil dólares para cada desenvolvedor que emprega. Até o momento, 25 organizações aderiram, e a equipe espera que, nos próximos cinco anos, gigantes como Microsoft, Google e Meta também se juntem à causa, embora o cofundador admita que o processo será gradual. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Executivos da Adobe afirmam que artistas devem adotar IA para acompanhar mercado: para eles, os criadores terão dificuldade em prosperar “nesse novo mundo” sem o uso dessa tecnologia, e que não há planos de lançar produtos sem ela para aqueles que se opõem ou prefiram métodos manuais. Contudo, a empresa reforça que seu objetivo é potencializar a criatividade dos artistas, não substituí-los, tornando as ferramentas mais eficientes e eliminando tarefas repetitivas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Grupo hacker se passa por suporte de TI no Microsoft Teams para distribuir malware: a tática, usada pelo Black Basta, envolve sobrecarregar a caixa de entrada de um funcionário com e-mails e, em seguida, entrar em contato para ajudar com o suposto problema de spam, convencendo a vítima a instalar o AnyDesk ou iniciar o Quick Assist. Uma vez conectados, os criminosos instalam cargas maliciosas, como o Cobalt Strike, que proporciona controle total sobre a máquina. Recomenda-se restringir a comunicação de usuários externos no Microsoft Teams e habilitar registros de atividades, como o ChatCreated, para detectar conversas suspeitas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Apple oferece até 1 milhão de dólares para pesquisadores que encontrarem vulnerabilidades em sua IA: a empresa está convidando especialistas para investigar o sistema Private Cloud Compute, responsável por pedidos mais complexos do Apple Intelligence, que não rodam diretamente no dispositivo. Como auxílio, a companhia oferece um guia de segurança com detalhes técnicos sobre o PCC, código-fonte no GitHub com “componentes-chave”, e um “Ambiente de Pesquisa Virtual”, o qual exige um Mac com Apple Silicon, 16 GB de memória adicional e o macOS Sequoia 15.1 Developer Preview. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI nega lançamento do modelo Orion para este ano: a empresa desmentiu rumores recentes sobre seu suposto roadmap, confirmando que pretende, em vez disso, “lançar várias outras grandes tecnologias”. Acredita-se que a declaração deixa margem para interpretações, incluindo que a companhia pode lançar um novo modelo até dezembro, mas com capacidades inferiores às previstas para o Orion. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry Pi anuncia linha própria de SSDs: a decisão visa solucionar problemas de compatibilidade com as placas de expansão M.2 HAT. A empresa cobra 30 dólares pela versão de 256 GB, com 40/70 IOPS (operações de entrada/saída por segundo), e 45 dólares pela de 512 GB, com 50/90 IOPS. Usuários sem uma placa de expansão podem adquirir kits para ambas as versões, custando 40 e 55 dólares, respectivamente. Os produtos ainda não estão disponíveis oficialmente em lojas brasileiras. As informações são do site OMG! Ubuntu.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de sexta-feira, noticiamos que o ex-engenheiro da Nvidia, Luke Durant, descobriu o maior número primo conhecido, utilizando uma GPU do modelo A100. No entanto, foram necessárias milhares de unidades de processamento gráfico em 24 data centers espalhados por 17 países.",
+            "url": ""
+        }
+    ]
+}
