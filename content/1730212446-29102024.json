@@ -1,0 +1,45 @@
+{
+    "title": "“Inchaço” no Git / Aumento de ataques “quishing” / Malware importante desmantelado",
+    "fps": 30,
+    "timestamp": 1730212446,
+    "width": 0,
+    "height": 0,
+    "date": "29/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiro da Microsoft detecta falha no Git que provoca “inchaço” em repositórios grandes: segundo Jonathan Creamer, o problema está atribuído ao fato de a ferramenta confundir arquivos com o mesmo nome, como “CHANGELOG.md”, em diferentes pacotes, levando-a a interpretar mudanças triviais como substanciais. Em um exemplo, ao clonar um repositório de múltiplos projetos, com mais de 20 milhões de linhas de código, o tamanho atingiu 178 GB. Após uma correção — submetida pelo pull request #5171 no “git-for-windows/git” do GitHub — o valor diminuiu para apenas 5 GB. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Santander e HSBC alertam para aumento de ataques de “quishing”: essa é uma nova forma de phishing que utiliza QR codes em vez de links tradicionais, enviados por email em anexos PDF, visando burlar os sistemas de cibersegurança das empresas. A estratégia explora a dificuldade em interpretar a identificação de links fraudulentos antes do redirecionamento. Embora smartphones exibam uma prévia da URL, pesquisadores apontam que essa medida muitas vezes é insuficiente para garantir a segurança. As informações são do site PYMNTS.",
+            "url": ""
+        },
+        {
+            "text": "Polícia holandesa desmantela infraestrutura de operação do Redline, um dos principais malwares de roubo de dados: o software malicioso, juntamente com sua versão aprimorada “Meta”, era amplamente utilizado para capturar informações sensíveis armazenadas em navegadores, como credenciais, cookies de autenticação, chaves SSH e carteiras de moedas digitais. Estima-se que, somente em 2024, Redline e Meta tenham roubado aproximadamente 227 milhões de credenciais, e que a primeira versão tenha, sozinha, comprometido quase um bilhão desde 2020. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA podem produzir resíduos eletrônicos equivalentes a 10 bilhões de iPhones por ano até 2030, segundo estudo: a projeção é que a quantidade possa aumentar de 2,6 mil toneladas anuais em 2023 para entre 400 mil e 2,5 milhões até 2030. Estratégias para reduzir o impacto incluem reaproveitar servidores, reutilizar componentes — como módulos de comunicação e fontes de energia — e aprimorar softwares para prolongar a vida útil de chips e GPUs. Dessa forma, o volume de resíduos eletrônicos poderia ser reduzido em até 86%. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Redditors britânicos manipulam busca do Google para afastar turistas de restaurantes locais: preocupados com a superlotação e a perda da autenticidade dos estabelecimentos, moradores têm exagerado positivamente nas avaliações de uma rede de restaurantes de baixa popularidade, na expectativa de que a IA aumente a visibilidade da rede nos resultados. Um usuário do Reddit relata que influenciadores “arruinaram” uma famosa lanchonete, onde turistas agora fazem longas filas para tirar fotos, muitas vezes descartando o lanche em seguida. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Startup desenvolve sistema de “Internet das Árvores” para detectar incêndios florestais antecipadamente: o recurso, criado pela ForestGuard e também chamado de “WoodWideWeb”, emprega sensores instalados diretamente nos troncos das árvores, que monitoram alterações no ar ao redor com precisão de milissegundos, sendo capaz, inclusive, de diferenciar entre atividades não relacionadas a incêndios, como fumaça de cigarro ou emissões de veículos próximos. Ao detectar mudanças suspeitas, os dispositivos enviam sinais para satélites geoestacionários, que retransmitem os dados para as autoridades competentes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Relatório indica que crescimento global de redes móveis está desacelerando: entre 2015 e 2021, cerca de 200 milhões de usuários por ano passaram a ter acesso à conexão, entretanto, esse número teria caído para aproximadamente 160 milhões em 2023. Acredita-se que 95% das pessoas que permanecem sem acesso à internet móvel vivem em países de baixa e média renda, e por isso teriam menos condições de obter aparelhos e planos de dados, mesmo que a maioria (90%) resida em áreas com cobertura. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
