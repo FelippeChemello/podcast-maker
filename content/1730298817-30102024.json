@@ -1,0 +1,45 @@
+{
+    "title": "GitHub Spark + novidades / Buscador da Meta? / Microsoft acusa Google",
+    "fps": 30,
+    "timestamp": 1730298817,
+    "width": 0,
+    "height": 0,
+    "date": "30/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub anuncia diversas novidades no evento Universe 2024 para desenvolvedores: como são muitas, vamos listar as mais interessantes — o GitHub Spark facilita a criação de aplicativos e projetos pessoais pequenos utilizando prompts em linguagem natural; o GitHub Copilot agora oferece opções para escolha de modelos de IA, incluindo Claude 3.5 Sonnet (Anthropic), Gemini 1.5 Pro (Google) e o1-preview/o1-mini (OpenAI); o Copilot Code Review permite automatizar revisões de código em pull requests, ajudando a identificar e corrigir erros rapidamente; a introdução de runners Arm64 no GitHub Actions possibilita realizar builds, testes e deploys para essa arquitetura; a assistência do Copilot foi disponibilizada no Xcode da Apple e no Terminal do Windows. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Meta pode estar desenvolvendo motor de busca baseado em IA: segundo fontes internas, o objetivo da empresa é reduzir sua dependência dos sistemas do Google e Bing, e fornecer respostas conversacionais sobre eventos atuais e notícias por meio do Meta AI, chatbot integrado ao WhatsApp, Instagram e Facebook, visando integrar buscas e interações em uma única interface. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft acusa Google de promover “campanha secreta” para prejudicá-la no mercado de nuvem: segundo a empresa, a gigante de buscas estaria formando uma “Open Cloud Coalition” na Europa, composta por especialistas independentes e pequenos provedores, com o objetivo de criticá-la e defender os próprios interesses junto aos reguladores, diante das investigações que a acusam de monopólio. Em resposta, o Google argumenta que suas preocupações são centradas nas práticas “anticompetitivas” da Microsoft, que aumenta os preços de migração para outras plataformas de nuvem em até 400%. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de transcrição de fala da OpenAI inventa palavras que não foram ditas, segundo pesquisadores: embora a empresa já alerte contra o uso do Whisper em áreas de “alto risco”, hospitais e clínicas têm adotado a ferramenta em consultas médicas. Os erros foram observados em situações com pausas, ruídos de fundo e música, mesmo em gravações curtas e de boa qualidade. Em 40% dos casos, o conteúdo inventado tinha potencial prejudicial, alterando o tom da transcrição para algo violento ou criando medicamentos que não existem, por exemplo. As informações são do site The Associated Press.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros chineses utilizam Raspberry Pi para monitorar falhas estruturais em túnel ferroviário de 600 metros: o sistema proposto utiliza os pinos de Entrada/Saída de Propósito Geral da placa, onde o pino 2 fornece corrente e o 34 aterra o circuito. Dessa forma, a interrupção da transmissão indica a presença de um vazio no concreto, enquanto o fluxo contínuo sugere o contrário. Os dados são transmitidos via 5G para a nuvem, e armazenados em um banco de dados MySQL, permitindo que os engenheiros acessem as informações remotamente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo de fitness expõe movimentação de líderes estrangeiros e suas equipes de segurança: o Strava, amplamente utilizado por corredores e ciclistas, permite que usuários registrem e compartilhem suas atividades com a comunidade. Uma investigação indica que agentes do Serviço Secreto dos EUA, e membros das equipes de segurança dos presidentes da França e da Rússia, possuem contas públicas no app, permitindo a rastreabilidade dos locais que visitam. A agência dos EUA informa que os profissionais afetados foram notificados e que está avaliando a necessidade de treinamento adicional. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor anuncia plataforma de código aberto concorrente do TikTok para fediverso: o Loops, de Daniel Supernault, permite compartilhar vídeos curtos, sendo destinado a usuários a partir de 13 anos. A rede social se compromete a não vender dados das pessoas a anunciantes, nem utilizar conteúdos para treinar modelos de IA. O financiamento será obtido por meio de doações em plataformas como Patreon, Open Collective e Liberapay. Interessados poderão testar o aplicativo por meio de uma APK para Android, enquanto a versão para iOS será disponibilizada via TestFlight. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
