@@ -1,0 +1,45 @@
+{
+    "title": "Multa absurda do Google / 1º lucro do Reddit / Fork do Flutter",
+    "fps": 30,
+    "timestamp": 1730385210,
+    "width": 0,
+    "height": 0,
+    "date": "31/10/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google acumula multa de 20 decilhões de dólares na Rússia: o montante supera o PIB global, estimado em cerca de 100 trilhões de dólares, e é considerado impagável, visto mais como uma ferramenta de pressão política. O caso teve início em 2020, quando o YouTube começou a banir canais russos, incluindo um ligado ao Ministério da Defesa do país. A penalidade original foi de 100 mil rublos, cerca de 1.025 dólares, por dia, e o valor dobrou semanalmente, com juros compostos. Em 2022, o Google anunciou sua retirada da Rússia, citando o confisco de suas contas bancárias como razão. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Reddit registra lucro pela primeira vez em quase 20 anos de história: a empresa divulgou o valor de 29,9 milhões de dólares, com uma receita de 348,4 milhões, neste terceiro trimestre — um aumento de 68% em relação ao ano anterior. A plataforma também observou o número de usuários diários aumentar para 97,2 milhões nos últimos meses. Segundo o CEO Steve Huffman, “Reddit” é a sexta palavra mais pesquisada no Google em 2024 nos EUA até agora. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ex-desenvolvedor do Google anuncia fork do Flutter e critica falta de atenção da empresa à linguagem: segundo Matt Carroll — que deixou a companhia em 2020 e criou o site Flutter Bounty Hunters — o objetivo do Flock não é substituir a tecnologia original, mas sim oferecer correções de bugs e novos recursos. Ele ainda argumenta que, apesar de o Flutter ser um projeto open source, muitos consideram a comunicação com a equipe responsável “frustrante, senão inviável”. Além disso, a priorização do Google em IA teria impactado as versões para desktop da linguagem. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia parceria com TSMC e Broadcom para produzir primeiro chip próprio voltado para IA: o componente será inicialmente dedicado a tarefas de inferência, nas quais um modelo já treinado processa dados para gerar respostas ou previsões. O objetivo é reduzir custos e garantir maior autonomia no fornecimento de hardware. A produção deve começar em 2026, embora o cronograma possa ser ajustado de acordo com o andamento do projeto. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Malware para Android redireciona chamadas bancárias para criminosos: o caso foi reportado na versão mais recente do já conhecido trojan “FakeCall”. Instalado via APK, o software pede permissão ao usuário para se configurar como o gerenciador de chamadas padrão do celular, utilizando uma interface falsa que, inclusive, exibe nomes e informações de contatos legítimos. Quando a pessoa tenta ligar para seu banco, o malware intercepta a chamada e a redireciona para o número dos criminosos, enquanto exibe o número real na tela. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Funcionário demitido é acusado de hackear menus de restaurantes da Disney World e alterar informações sobre alergias: o indivíduo teria invadido repetidamente um software proprietário de uma empresa terceirizada, fazendo com que alimentos que contenham amendoim fossem erroneamente classificados como seguros para pessoas alérgicas. Além disso, ele teria inserido palavrões e mudado a fonte utilizada para “Wingdings”. A Disney afirma que detectou as alterações antes que os materiais fossem distribuídos aos restaurantes. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia diversas novidades na “Mac week”: o novo iMac agora conta com o chip M4 atualizado, equipado com CPU e GPU de até 10 núcleos, uma tela de 24 polegadas e disponível em sete cores; o MacBook Pro foi atualizado e está disponível nas versões com M4 padrão, M4 Pro e M4 Max, em modelos de 14 e 16 polegadas; o novo Mac Mini, com apenas 12,7 centímetros de comprimento e largura, oferece duas portas USB-C e uma entrada de áudio na parte frontal, além de conexões ethernet, HDMI e Thunderbolt USB-C na parte traseira; a Apple também incorporou USB-C em todos os acessórios para Mac, incluindo o Magic Keyboard, Magic Trackpad e Magic Mouse; o Apple Intelligence começa a ser disponibilizado aos usuários, trazendo ferramentas de escrita com IA e uma nova Siri, com integração ao ChatGPT prevista para dezembro; todos os modelos de Macs agora estão equipados com 16 GB de RAM, incluindo o novo MacBook Air. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
