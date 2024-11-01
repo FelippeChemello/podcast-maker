@@ -1,0 +1,45 @@
+{
+    "title": "Git: credenciais expostas / ChatGPT + busca na Web / Google usando códigos de IA",
+    "fps": 30,
+    "timestamp": 1730471569,
+    "width": 0,
+    "height": 0,
+    "date": "01/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers roubam 15 mil credenciais de nuvem por meio de arquivos de configuração expostos do Git: em uma campanha conhecida como “EmeraldWhale”, os indivíduos utilizam ferramentas automatizadas para escanear intervalos de endereços IP em busca de registros como “.git/config” e “.gitlab-ci.yml” que contenham tokens de autenticação. Estima-se que 67 mil URLs com arquivos de configuração expostos tenham sido identificadas, das quais 2 mil credenciais foram confirmadas como ativas. Recomenda-se utilizar ferramentas dedicadas e variáveis de ambiente para lidar com dados sensíveis. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança motor de busca integrado ao ChatGPT: a funcionalidade tem capacidade para decidir automaticamente quando usar resultados da web, mas também pode ser ativada manualmente. Durante uma apresentação, foi demonstrada a possibilidade de exibir gráficos interativos de ações, informações financeiras e mapas com recomendações. Uma das vantagens em relação à busca do Google seria a ausência de anúncios nos resultados. O recurso está disponível para assinantes em todas as plataformas, e será liberado aos demais usuários nas próximas semanas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Google afirma que mais de 25% do código recém-criado na empresa é gerado por modelos de linguagem: segundo Sundar Pichai, o resultado é submetido à revisão e aprovação dos engenheiros de software antes de ser integrado aos produtos. A tecnologia é uma prioridade estratégica para a companhia, evidenciada pelo lançamento de recursos como chatbots personalizados, chamados de “Gems”, a criação automática de notas no Google Meet, e ferramentas para criadores no YouTube. Além disso, a empresa afirma que a IA está ampliando as possibilidades de busca para usuários. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia que cobrará 30 dólares para estender suporte ao Windows 10: mediante pagamento, usuários domésticos poderão adiar a migração para a versão 11 por mais um ano, por meio do programa de Atualizações de Segurança Estendidas, cuja inscrição estará disponível próximo à data de encerramento do suporte, marcado para 14 de outubro de 2025. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Forças Armadas dos EUA confirmam primeira aquisição de tecnologia da OpenAI para uso militar: um documento de aquisição indica que o Comando dos EUA para a África considera o acesso aos recursos da empresa “essencial” para o cumprimento de sua missão, devido à sua “capacidade de suportar cargas de trabalho avançadas”, como busca, processamento de linguagem natural, aprendizado de máquina e análise unificada para processamento de dados. O contrato foi firmado com a Microsoft, que possui direito de revenda dos modelos da OpenAI. As informações são do site The Intercept.",
+            "url": ""
+        },
+        {
+            "text": "Computadores quânticos não estão prontos para quebrar criptografias robustas, segundo especialistas: embora essas máquinas prometam um grande avanço em processamento, não há consenso sobre quando elas estarão disponíveis, podendo levar décadas. Em um exemplo, é explicado que para romper a cifra RSA de 2048 bits, amplamente utilizada em transações digitais, seria necessário um computador quântico com cerca de 20 milhões de qubits operando por oito horas. Atualmente, os sistemas mais avançados possuem apenas um pouco mais de 1.000 qubits. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mark Zuckerberg prevê aumento “empolgante” de conteúdo gerado por IA em plataformas sociais da Meta: o CEO menciona a criação de uma nova categoria de conteúdo, que inclui postagens geradas e resumidas pela tecnologia. Ele também destaca que o modelo Llama desempenhará um papel crescente em várias áreas da empresa, especialmente em ferramentas para clientes corporativos e anunciantes. As informações são da Fortune.",
+            "url": ""
+        }
+    ]
+}
