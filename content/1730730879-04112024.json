@@ -1,0 +1,45 @@
+{
+    "title": "Python ultrapassa JS / Caso inédito de pirataria / Prejuízo histórico da Intel",
+    "fps": 30,
+    "timestamp": 1730730879,
+    "width": 0,
+    "height": 0,
+    "date": "04/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Python ultrapassa JavaScript como linguagem mais popular no GitHub: conforme o relatório “State of the Octoverse” de 2024, o avanço da linguagem reflete “o aumento da ciência de dados e aprendizado de máquina”. Também foi observado um interesse crescente em agentes de IA e modelos menores que demandam menos poder computacional. Em relação ao número de desenvolvedores, os EUA ocupam o primeiro lugar, enquanto o Brasil permanece em quarto. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Caso inédito de pirataria resulta na prisão de três homens por transcreverem filmes e divulgarem conteúdo na web: as informações continham a história completa, incluindo nomes dos personagens, diálogos, ações, cenas e desenvolvimento narrativo. Segundo o grupo antipirataria japonês CODA, sites que reproduzem textos extraídos de obras protegidas prejudicam a disposição do público em pagar “um preço justo” pelo conteúdo, e constitui uma violação grave. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Intel registra maior prejuízo de sua história: a empresa anunciou um déficit de 16,6 bilhões de dólares no terceiro trimestre de 2024, ao contabilizar mais de 18 bilhões em custos relacionados à reestruturação e desvalorização de ativos. Em contrapartida, as receitas do período alcançaram 13,3 bilhões, um aumento de 4% em relação ao trimestre anterior. O CEO Pat Gelsinger ressalta que a companhia está bem encaminhada para “completar uma das reestruturações mais significativas de sua história”, e que as mudanças já implementadas foram essenciais para retomar a capacidade de lucro no longo prazo. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft alerta para botnet com mais de 8 mil dispositivos usados para sequestrar contas do Azure: a rede maliciosa, denominada Botnet-7777, utiliza milhares de roteadores TP-Link, câmeras e outros aparelhos conectados à internet para realizar ataques de “password spraying” — técnica que testa várias senhas comuns. Cada equipamento limita as tentativas de login, o que torna a campanha difícil de ser detectada. Não está claro como os dispositivos foram inicialmente infectados, mas especialistas apontam que a maioria deles perde o malware após uma reinicialização, pois o código não é gravado no armazenamento permanente. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Open Source Initiative divulga definição oficial de IA de código aberto: segundo as diretrizes estabelecidas, esses sistemas devem fornecer acesso a informações detalhadas sobre os dados utilizados no treinamento, ao código completo empregado em sua construção e execução, bem como às configurações e pesos. Essas normas desafiam diretamente o Llama da Meta, que é amplamente promovido como o maior modelo open source, mas não atende a esses requisitos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Universal Music Group anuncia desenvolvimento de gerador de música “ético”: a companhia firmou uma parceria com a Klay Vision, para criar um “Modelo de Música em Larga Escala” denominado “KLayMM”, com previsão de apresentação ao público nos próximos meses. Ambas as empresas afirmam que o modelo será criado “em colaboração com a indústria musical e seus criadores”, e que não pretendem competir com catálogos de artistas em serviços de streaming tradicionais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Meta está desenvolvendo sensores robóticos capazes de “sentir” toques: o Digit 360 lembra a ponta de um dedo humano, e utiliza cerca de 18 “recursos de sensoriamento” para captar e digitalizar sinais táteis, detectando alterações no ambiente ao seu redor. A empresa vislumbra o uso desses sensores para impulsionar a pesquisa em IA, permitindo que sistemas “compreendam e modelem melhor o mundo físico”. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
