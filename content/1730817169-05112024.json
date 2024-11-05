@@ -1,0 +1,45 @@
+{
+    "title": "Falha grave em GPUs Nvidia / Bitwarden altera licença / Brasil vs TikTok",
+    "fps": 30,
+    "timestamp": 1730817169,
+    "width": 0,
+    "height": 0,
+    "date": "05/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha de segurança afeta todas as GPUs Nvidia GeForce e outras linhas: a Nvidia emitiu um alerta listando oito vulnerabilidades, todas classificadas com nível de gravidade “Alto”, que permitem que invasores obtenham acesso total ao sistema, podendo executar códigos maliciosos na máquina e roubar dados pessoais. A correção está disponível no driver 566.03 para Windows e nas versões 565.57.01, 550.127.05 e 535.216.01 para Linux. Para as linhas RTX, Quadro e NVS, recomenda-se a instalação das releases 566.03, 553.24 e 538.95. As informações são do site PCWorld.",
+            "url": ""
+        },
+        {
+            "text": "Bitwarden altera licença de seu gerenciador de senhas e SDK para GPL-3: a decisão ocorre após relatos de que a plataforma não seria mais totalmente de código aberto. Com a mudança, desenvolvedores poderão compilar o projeto sem erros, o que não acontecia anteriormente. Além disso, o código-fonte passa a ficar totalmente acessível. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados determina que TikTok não exiba feed para usuários sem cadastro: a decisão da agência visa garantir que crianças e adolescentes não acessem a rede social sem uma conta e a confirmação de idade. A ANPD estabeleceu o cumprimento da exigência em até 10 dias úteis, a partir da última segunda-feira. Além disso, o TikTok deverá apresentar um plano de conformidade em até 20 dias úteis, detalhando como pretende impedir que jovens cadastrem-se ou utilizem a plataforma de forma inadequada. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI afirma que falta de capacidade computacional está atrasando novos produtos: segundo Sam Altman, as tecnologias estão cada vez mais complexas, e a equipe enfrenta limitações na alocação do seu poder de computação entre os vários projetos. Consequentemente, a inclusão da capacidade de visão no recurso de voz avançada do ChatGPT precisou ser adiada. Além disso, a próxima versão do DALL-E ainda não possui data de lançamento, e o Sora, ferramenta de geração de vídeo, está com seu desenvolvimento atrasado. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Hackers roubam dados de meio milhão de pessoas em cidade dos EUA: o ataque, ocorrido em julho e de autoria do grupo “Rhysida”, impactou vários serviços e a conectividade de TI entre agências públicas do município de Columbus, capital de Ohio. Os invasores afirmam ter obtido 6,5 terabytes de dados, incluindo credenciais de funcionários e gravações de câmeras de vídeo da cidade. Moradores foram alertados que informações comprometidas poderiam conter dados sensíveis, como nome completo, data de nascimento, endereço e informações bancárias. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia substituirá Intel no índice Dow Jones Industrial Average, que representa ações de empresas líderes do mercado: a mudança reflete o crescimento exponencial da IA e uma transformação significativa na indústria de semicondutores. As ações da Nvidia apresentaram um aumento superior a 170% em 2024, e seu valor de mercado atingiu 3,3 trilhões de dólares, posicionando-se como a segunda maior entre as empresas de capital aberto, atrás da Apple. A Intel, por outro lado, viu suas ações caírem mais de 50% neste ano. A substituição será efetivada em 8 de novembro. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comunicações dos EUA prevê futuro onde internet via satélite e redes terrestres estejam integradas: o objetivo é garantir conectividade em qualquer lugar, permitindo uma “conexão de backup no céu” quando sistemas em solo falharem ou estiverem indisponíveis durante desastres. Entre os desafios está a manutenção, montagem e fabricação em órbita, além da mitigação de problemas com detritos espaciais. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
