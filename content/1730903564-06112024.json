@@ -1,0 +1,45 @@
+{
+    "title": "“Vagas fantasmas” no LinkedIn / Pacotes falsos no NPM / AMD ultrapassa Intel",
+    "fps": 30,
+    "timestamp": 1730903564,
+    "width": 0,
+    "height": 0,
+    "date": "06/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "“Vagas fantasmas” prejudicam profissionais de tecnologia, segundo pesquisa: a prática envolve o anúncio de posições inexistentes, publicadas, em sua maioria, no LinkedIn e em sites corporativos. Em entrevista com mais de 1.600 gestores de contratação norte-americanos, constatou-se que 40% dos empregadores anunciaram vagas falsas em 2024. Alguns admitem que essa estratégia visa avaliar a substituibilidade dos funcionários, enquanto outros afirmam que isso torna a companhia mais atrativa. Especialistas recomendam que profissionais façam networking constante e mantenham conexões pessoais em empresas para confirmar a real existência das vagas. As informações são do site SFGATE.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa carrega centenas de pacotes infectados no repositório NPM: o ataque utiliza a abordagem “typosquatting”, fazendo com que as dependências tenham nomes que parecem legítimos. Após a instalação, o malware é executado na memória do dispositivo e se configura para rodar sempre que o sistema for reiniciado. Ele se conecta ao endereço da rede Ethereum e começa a coletar informações do sistema, como detalhes sobre a CPU, GPU, quantidade de memória e nome de usuário. Recomenda-se atenção ao verificar nomes de pacotes antes de instalá-los. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "AMD ultrapassa Intel no mercado de datacenters pela primeira vez: no terceiro trimestre de 2024, a empresa alcançou uma receita de 3,5 bilhões de dólares no setor, em contraste com os 3,3 bilhões de sua rival. Estima-se que os servidores de maior valor estão cada vez mais adotando os processadores EPYC da AMD, forçando a Intel a vender seus chips Xeon com descontos substanciais, impactando sua receita e margens de lucro. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Agências Federais dos EUA sugerem que softwares críticos abandonem C e C++ até 2026: o documento, emitido pela CISA e o FBI, alerta fabricantes sobre o uso de linguagens inseguras para memória, que representam um risco à segurança nacional, econômica e à saúde pública. As empresas devem estabelecer planos para eliminar vulnerabilidades em componentes de risco, como módulos de rede, e em operações sensíveis, incluindo criptografia. O relatório é voltado para softwares usados no suporte de infraestrutura crítica, que abrangem serviços em nuvem e SaaS. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Empresa multinacional testa modelo híbrido com cerca de 1.600 funcionários e vê resultados positivos: o experimento durou seis meses, com trabalhadores chineses da Trip. Os participantes foram divididos em dois grupos, onde o primeiro trabalhou presencialmente por cinco dias úteis, enquanto o segundo compareceu ao escritório somente 3 vezes na semana. Os resultados indicaram que a produtividade não foi afetada, e os funcionários híbridos apresentaram maior satisfação, especialmente mulheres e aqueles que se deslocavam por 1,5 hora até o escritório. As informações são do Harvard Business Review.",
+            "url": ""
+        },
+        {
+            "text": "Autoridades canadenses prendem hacker supostamente envolvido em vazamento de dados de 560 milhões de clientes da Ticketmaster em maio: o indivíduo também teria participado de ataques direcionados a mais de 160 outras empresas que utilizam os serviços de nuvem da Snowflake. Os invasores usaram, em parte, senhas roubadas de computadores de funcionários infectados com malware, que não adotavam autenticação de múltiplos fatores. Um analista descreve o hacker como “um dos criminosos mais importantes de 2024”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores processam Apple e Google por remoções indevidas de aplicativos: o software da Musi foi retirado da App Store após uma denúncia do YouTube a respeito da sua interface, enquanto o “Reely”, da Sarafan Mobile — na Play Store — foi acusado de plagiar o logo do “Reels” do Instagram. Especialistas apontam a necessidade de um processo mais transparente, onde os acusados tenham a possibilidade de defesa. Ambos os reclamantes alegam que os aplicativos foram removidos sem provas suficientes de infração. As informações são da Bloomberg.",
+            "url": ""
+        }
+    ]
+}
