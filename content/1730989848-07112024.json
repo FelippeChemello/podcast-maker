@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT: novo domínio / Llama no exército / Satélite de madeira",
+    "fps": 30,
+    "timestamp": 1730989848,
+    "width": 0,
+    "height": 0,
+    "date": "07/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI adquire um dos domínios mais antigos da web: usuários que acessarem o “chat[.]com” serão agora redirecionados para o ChatGPT. Registrado originalmente em 1996, o domínio foi comprado no ano passado por Dharmesh Shah, cofundador da HubSpot, por 15,5 milhões de dólares, uma das maiores transações desse tipo já registradas – em uma postagem no X, Shah dá a entender que trocou o domínio por ações da OpenAI. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta permitirá que militares dos EUA utilizem modelo Llama: a empresa afirma estar trabalhando com grandes companhias como Amazon, Microsoft, IBM e Oracle para disponibilizar a ferramenta ao governo. Segundo ela, a tecnologia poderá ser utilizada em tarefas como simplificação de logísticas e planejamentos complexos, além de reforço nas defesas cibernéticas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro satélite de madeira é lançado ao espaço: o LignoSat vai orbitar a Terra a 400 quilômetros de altitude. Durante seis meses, ele permitirá estudos sobre a viabilidade do material no ambiente espacial, onde a ausência de água e oxigênio pode protegê-lo do fogo e deterioração. Cientistas esperam que a madeira (de magnólia), produzida de forma sustentável, possa substituir materiais metálicos em satélites e reduzir poluentes, como partículas de óxido de alumínio liberadas na reentrada atmosférica. Caso obtenham sucesso, planejam apresentar o projeto à SpaceX. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft incentiva mantenedores de pacotes.NET a revisarem pontuação de segurança no OpenSSF Scorecard: a ferramenta, criada pela Open Source Security Foundation, realiza avaliações automáticas de segurança em repositórios de código aberto do GitHub e GitLab, por meio de cerca de 20 verificações, como exigência de revisão de código, padrões de workflows no GitHub Actions, e presença de dependências fixadas em versões específicas. Em uma análise em mais de mil repositórios de C# e F#, foram constatadas pontuações médias baixas em vários critérios. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla Foundation encerra divisão que promovia web livre e aberta: a decisão é parte de uma demissão de aproximadamente 30% dos funcionários, devido a uma “onda implacável de mudanças no mundo da tecnologia”, segundo a empresa, ressaltando que “colocar as pessoas antes do lucro parece cada vez mais radical”. Esta é a segunda rodada de cortes na Mozilla em 2024; em fevereiro, dezenas de funcionários do Firefox foram dispensados. As informações são dos sites The Verge e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google revela que processa 2,5 bilhões de solicitações anuais para remover links com conteúdo pirata: os pedidos são enviados por detentores de direitos autorais por meio de “notificações de DMCA”. Desde que começou a divulgar esses dados, a empresa já acumulou um total de 10 bilhões de solicitações. Em 2017, o volume diminuiu devido a algoritmos que tornaram o conteúdo pirata menos visível nas buscas. No entanto, nem todos os links reportados são removidos, uma vez que algumas notificações são incorretas ou sem fundamento. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Apple afirma que novos produtos podem não ser tão lucrativos quanto o iPhone: a declaração foi feita no último relatório anual da empresa aos investidores, destacando que o lançamento de serviços e tecnologias podem substituir ou superar ofertas atuais, porém com receitas e margens de lucro potencialmente menores. O Vision Pro, por exemplo, não teria vendido bem, supostamente devido ao preço elevado de 3.499 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
