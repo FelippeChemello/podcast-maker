@@ -1,0 +1,45 @@
+{
+    "title": "Nvidia ultrapassa Apple / Ação coletiva contra Intel / Alternativa ao “Have I Been Pwned”",
+    "fps": 30,
+    "timestamp": 1731076367,
+    "width": 0,
+    "height": 0,
+    "date": "08/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nvidia ultrapassa Apple e torna-se a maior empresa do mundo em valor de mercado: atualmente, a companhia está com uma capitalização de 3,65 trilhões de dólares, superando os cerca de 3,44 trilhões da Apple, e responde por cerca de um quarto do ganho de 21% do índice S&amp;P 500 — que acompanha o desempenho das 500 maiores empresas de capital aberto nos EUA — este ano. Entre seus principais clientes estão Microsoft, Amazon e Alphabet. As informações são dos sites The Business Times e CompaniesMarketcap.",
+            "url": ""
+        },
+        {
+            "text": "Consumidor move ação coletiva contra Intel por supostamente esconder problemas em CPUs: Mark Vanvalkenburgh busca uma indenização de milhões de dólares, sob a alegação de que a empresa promoveu seus processadores de 13ª e 14ª gerações de forma enganosa, e que ela tinha conhecimento dos defeitos desde o final de 2022, quando as taxas de devolução começaram a subir. A ação representa todos os compradores norte-americanos dos supostos componentes defeituosos. Segundo relatos, os processadores causavam apagões repentinos de tela, reinicializações aleatórias da máquina, travamentos e tela azul da morte. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Empresa anuncia alternativa ao site Have I Been Pwned: o DataBreach, da Atlas Privacy, permite que usuários consultem uma variedade de dados além do e-mail, como nome completo, endereço físico, número de telefone e endereço IP, alertando sobre possíveis vazamentos. Troy Hunt, CEO do Have I Been Pwned, afirma que sua plataforma não inclui esses campos porque prioriza a acessibilidade a uma base global de usuários, e que os endereços de e-mail atuam como uma “chave primária” para a identidade digital. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft atualiza emulador Prism para ampliar compatibilidade de softwares e jogos no Windows on Arm: a partir da Build 27744 do Windows 11 Insider Preview, disponível no canal Canary, os chips da Qualcomm poderão rodar aplicativos que ainda não possuem versões nativas para ARM64, oferecendo suporte à emulação para programas x86 de 64 bits e possibilitando o uso de extensões de processador como AVX, AVX2, BMI, FMA e F16C. No entanto, softwares de 32 bits ainda poderão apresentar incompatibilidades. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Austrália propõe proibição de redes sociais para menores de 16 anos: o governo é o primeiro do mundo a testar um sistema de verificação de idade por biometria ou documento de identificação, sem exceções para menores com autorização dos pais ou que já possuam contas nas plataformas. Por outro lado, a diretora-gerente da Digital Industry Group argumenta que seria essencial adotar uma abordagem equilibrada para diferentes faixas etárias. Caso contrário, a medida poderia levar os jovens a explorarem partes menos regulamentadas e potencialmente perigosas da internet. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Atualização inesperada do Windows Server impacta 7% dos consumidores de empresa de segurança: a Heimdal, que oferece serviços de gerenciamento de patches, depende da Microsoft para rotular corretamente as atualizações, garantindo que sejam aplicadas aos softwares corretos no momento adequado. Um de seus clientes notou que, após um update que deveria ser apenas um patch de segurança, o sistema operacional migrou da versão 2022 para a 2025, pois a Microsoft havia rotulado incorretamente a atualização como KB5044284, associada ao Windows 11. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "63% dos funcionários acreditam que seus CEOs evitam IA por incompetência técnica, segundo pesquisa: os entrevistados, provenientes de diversos países e de setores não relacionados à tecnologia, relatam gastar, em média, seis horas semanais em tarefas manuais que poderiam ser facilmente automatizadas. Além disso, estima-se que alguns recorrem à IA de forma discreta, sem informar colegas ou superiores, devido à incerteza sobre regras e expectativas quanto ao uso da ferramenta no ambiente corporativo. As informações são do site Yahoo Finance.",
+            "url": ""
+        }
+    ]
+}
