@@ -1,0 +1,45 @@
+{
+    "title": "Pacote rouba senhas AWS / “Pior implantação de ERP” / Hackers fingem ser autoridades",
+    "fps": 30,
+    "timestamp": 1731335570,
+    "width": 0,
+    "height": 0,
+    "date": "11/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pacote PyPI com mais de 37 mil downloads rouba credenciais da AWS: o “fabrice” está disponível desde 2021, acumulando um número elevado de downloads devido ao nome parecido com o legítimo e popular “fabric”. Ele foi desenvolvido para atuar de forma distinta dependendo do sistema operacional em que é executado, e utiliza o “boto3” — SDK oficial da AWS para Python — para capturar as credenciais da sessão inicializada e transferi-las para um servidor VPN, dificultando o rastreamento do destino. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Maior conselho municipal da Europa é criticado pela “pior implantação de ERP” já vista: o projeto, iniciado em 2022, visa substituir o sistema SAP — em operação desde 1999 — da prefeitura de Birmingham pelo Oracle Fusion. Após 18 meses da implementação, o órgão ainda não conseguiu estabilizar a plataforma, e não tem sido capaz de produzir contas auditáveis. Com isso, o custo do projeto disparou de quase 19 milhões de libras para 131 milhões. Atualmente, há um plano de reimplementação em andamento, com previsão de conclusão até 2026. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Hackers se passam por autoridades governamentais para enviar solicitações emergenciais de dados a empresas de tecnologia, segundo FBI: quando realizados de forma legítima, esses pedidos não necessitam de autorização judicial e são usados em situações de risco imediato, como ameaça à vida. Os criminosos estão utilizando e-mails comprometidos. Entre os alvos estão grandes companhias como Apple, Google e Meta. As informações roubadas são utilizadas em práticas ilícitas, como doxing — exposição de dados privados na internet — e fraudes financeiras. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Operação desativa mais de 22 mil endereços IP maliciosos em todo o mundo: a “Operation Synergia II”, coordenada por diversas agências de segurança globais e três organizações privadas, incluindo a Kaspersky, culminou na prisão de 41 pessoas e na desativação de 1.037 servidores e infraestruturas ativas, além de busca e apreensão a dispositivos eletrônicos. O foco da operação foi os malwares de phishing, infostealers e de ransomware. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Amazon, Microsoft, Meta e Alphabet devem somar, juntas, mais de 200 bilhões de dólares investidos em IA neste ano: os montantes são destinados à aquisição de chips, construção de data centers e parcerias com fornecedores de energia. Amazon e Alphabet superaram as expectativas de lucro, impulsionadas pelo seus negócios de computação em nuvem. Por outro lado, investidores e analistas alertam sobre os gastos elevados da Meta, enquanto a Microsoft enfrenta desafios de capacidade para atender à alta demanda de seus serviços. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Policiais dos EUA afirmam que iPhones em custódia reiniciam sozinhos e bloqueiam acesso de investigadores: segundo um documento oficial, o comportamento foi identificado após cerca de 24 horas em que os dispositivos são desconectados da rede móvel. Após o reboot, eles entram no estado de “Before First Unlock”, bloqueando o acesso a dados. As autoridades especulam que a causa possa estar relacionada a uma nova funcionalidade de segurança. A Apple não comentou sobre o caso, mas uma pesquisadora aponta que uma “reinicialização por inatividade” foi introduzida no iOS 18.1 para proteção em caso de roubo. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft introduz edição de texto com IA no Bloco de Notas do Windows: o Rewrite, disponível em versão prévia para participantes do programa Insiders, permitirá reformular frases, ajustando o tom e o comprimento do texto. Para usá-lo, o usuário poderá destacar o trecho desejado, clicar com o botão direito e selecionar a opção correspondente, que oferecerá três sugestões de reescrita. Inicialmente, o Rewrite não estará disponível para usuários do Brasil. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
