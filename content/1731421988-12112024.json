@@ -1,0 +1,45 @@
+{
+    "title": "Programar: ainda vale aprender? / “Orion” avança pouco / Bitcoin ultrapassa 80k",
+    "fps": 30,
+    "timestamp": 1731421988,
+    "width": 0,
+    "height": 0,
+    "date": "12/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Vice-Presidente do Google defende importância de aprender a programar na era da IA: para Yossi Matias, aprender disciplinas fundamentais continua sendo tão relevante quanto sempre foi, e que, apesar do avanço dos modelos, eles não estão substituindo o processo de desenvolvimento. Matias argumenta que, mesmo para aqueles que não desejam tornar-se engenheiros de software, é fundamental entender como a tecnologia funciona, assim como as pessoas precisam entender matemática, apesar dos computadores realizarem os cálculos mais complexos. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "“Orion” da OpenAI mostra avanços pequenos em relação ao GPT-4, segundo relatório: o modelo não estaria superando seu antecessor de forma consistente em áreas como programação. A empresa destaca a falta de dados de treinamento de alta qualidade como uma das razões, uma vez que a maioria dos textos e dados públicos já foi utilizada. As informações são do site The Decoder.",
+            "url": ""
+        },
+        {
+            "text": "Preço do Bitcoin ultrapassa 80 mil dólares pela primeira vez: esse aumento elevou o valor estimado de mercado das moedas digitais em geral, que atingiu mais de 2,7 trilhões de dólares, de acordo com dados do CoinMarketCap. Além disso, a valorização beneficiou ações de empresas do setor, como a MicroStrategy — que possui reservas de Bitcoin avaliadas em mais de 16 bilhões de dólares ao final do terceiro trimestre — e a Coinbase Global. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Hackers utilizam concatenação de arquivos ZIP para evitar detecção em ataques: os indivíduos criam múltiplos registros compactados, escondendo a carga maliciosa em apenas um deles. Em seguida, eles são concatenados, combinando seus dados binários em um só. A fase subsequente do ataque explora como diferentes programas analisam esse tipo de conteúdo. O 7zip, por exemplo, lê apenas o primeiro pacote, que geralmente é inofensivo, enquanto o WinRAR exibe todos os arquivos, revelando, inclusive, a carga maliciosa. Recomenda-se usar soluções de segurança que ofereçam suporte à descompactação recursiva. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA prende responsável pelo maior esquema de lavagem de moedas digitais da dark web: estima-se que o serviço Bitcoin Fog tenha processado cerca de 1,2 milhão de Bitcoins, avaliados em aproximadamente 400 milhões de dólares na época do seu encerramento, em 2021. O criminoso foi condenado a restituir 395,6 milhões. Segundo promotores, grande parte da riqueza do condenado foi obtida por meio de atividades ilícitas, como cibercrimes e roubo de identidade. A sentença imposta ao operador é de 12 anos e seis meses de prisão. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "X testa versão gratuita do Grok: o modelo, inicialmente exclusivo para assinantes premium da plataforma, está sendo liberado para alguns usuários em certas regiões não especificadas. Segundo um pesquisador, a versão sem custos permite até 10 consultas a cada duas horas com o “Grok-2”, 20 consultas com o “Grok-2 mini” no mesmo período, e três análises de imagem diárias. Para ter acesso, o perfil precisa ter pelo menos sete dias de existência e estar vinculado a um número de telefone. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Autoridades federais dos EUA acusam Apple de ameaçar funcionários por discussões sobre salário e trabalho remoto: de acordo com a denúncia, um colaborador foi pressionado com “represálias não especificadas” caso falasse sobre seu bônus de desempenho em uma pesquisa salarial, criada por uma engenheira de software que, segundo a queixa, foi forçada a deixar a empresa. Em paralelo, outro trabalhador foi instruído a excluir uma publicação nas redes sociais sobre a continuidade do trabalho remoto. A denúncia defende que os funcionários exerciam seus direitos de discutirem sobre o ambiente de trabalho. Os incidentes teriam ocorrido em 2021. As informações são do site MSN.",
+            "url": ""
+        }
+    ]
+}
