@@ -1,0 +1,45 @@
+{
+    "title": "D-Link: falha crítica / Flutter burla macOS / Google: dominância ameaçada",
+    "fps": 30,
+    "timestamp": 1731508390,
+    "width": 0,
+    "height": 0,
+    "date": "13/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "D-Link afirma que não corrigirá falha crítica que afeta mais de 60 mil dispositivos NAS antigos: a vulnerabilidade, identificada como CVE-2024-10914, possui uma gravidade de 9,2 de 10, e permite que um invasor não autenticado execute comandos arbitrários ao enviar requisições via HTTP GET. A empresa recomenda que usuários substituam os equipamentos vulneráveis ou, ao menos, isole-os da internet pública e configurem restrições mais rigorosas de acesso. Entre os aparelhos afetados estão os DNS-320 e DNS-340L, que já foram comercializados no Brasil. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Hackers norte-coreanos criam apps em Flutter para contornar segurança do macOS: os aplicativos simulam funções inofensivas, como blocos de notas ou jogos de campo minado, e são assinados e autenticados com um ID de desenvolvedor legítimo da Apple, permitindo que sejam executados sem restrições. O malware embutido é ocultado em uma biblioteca dinâmica (dylib), e permite rodar scripts a partir de um servidor de comando e controle (C2). A Apple já revogou as assinaturas dos softwares. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Participação do Google no mercado de anúncios em buscas nos EUA pode cair abaixo de 50% pela primeira vez em mais de uma década: de acordo com um estudo, as gerações mais jovens estão adotando ferramentas de IA para fazer buscas. As empresas estariam aproveitando a situação para aprimorar suas soluções e atrair anunciantes. A Perplexity, por exemplo, afirma que seu mecanismo processou 340 milhões de consultas em setembro e atraiu o interesse de diversas empresas de “alto nível” interessadas em anunciar seus produtos na plataforma. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de IA reconhecem que métodos atuais de treinamento chegaram ao limite: segundo fontes próximas, as companhias enfrentam dificuldades para construir uma tecnologia que supere o GPT-4, lançado há quase dois anos. Entre os fatores estão a falta de dados, uma vez que os modelos já exauriram quase todas as fontes de fácil acesso, e a escassez energética. Para superar esses desafios, pesquisadores têm apostado na técnica de “raciocínio”. Segundo um cientista da OpenAI, um bot que “pensa” por 20 segundos em uma rodada de pôquer apresentou o mesmo ganho de desempenho que um modelo escalado em 100 mil vezes e treinado por esse mesmo fator em tempo. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Apple permitirá compartilhar localização do AirTag com outras pessoas: o recurso “Share Item Location” possibilitará ao usuário gerar um link no app “Buscar” que, ao ser acessado, abrirá um mapa interativo com a posição em tempo real do item perdido, incluindo informações de data e hora da última movimentação. O compartilhamento poderá ser interrompido a qualquer momento, mas será expirado automaticamente após sete dias ou caso o objeto seja encontrado. A funcionalidade está disponível no beta público do iOS 18.2, e será liberada para mais usuários “em breve”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Steam encerra suporte ao Windows 7 e 8 em atualização mais recente: a Valve recomenda que os usuários desses sistemas migrem para versões mais atuais. Como alternativa, é possível fazer a transição para Linux ou macOS. De acordo com uma pesquisa da própria Steam, aproximadamente 0,28% das pessoas ainda utilizam o Windows 7 na plataforma, o que corresponde a cerca de 350 mil indivíduos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Gartner prevê que escassez de energia restringirá 40% dos data centers de IA até 2027: o rápido crescimento da tecnologia poderá impulsionar um aumento expressivo na demanda de até 160% nos próximos dois anos. Metas de emissão zero de carbono também podem ser prejudicadas, uma vez que essas estruturas precisam funcionar 24 horas, uma exigência que fontes renováveis não conseguem atender 100% do tempo. A Gartner recomenda que empresas foquem na diminuição do poder computacional e na viabilidade de modelos de linguagem menores. As informações são da Gartner.",
+            "url": ""
+        }
+    ]
+}
