@@ -1,0 +1,45 @@
+{
+    "title": "Controveso: Brasil investiga projeto de CEO da OpenAI / Senha mais usada no mundo / IA dispensa frameworks",
+    "fps": 30,
+    "timestamp": 1731594812,
+    "width": 0,
+    "height": 0,
+    "date": "14/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "World, projeto controverso de identificação e de moeda digital de Sam Altman, CEO da OpenAI, é lançado no Brasil: a startup já está usando o Orb – esfera metálica do tamanho de uma bola de basquete – para escanear a íris de pessoas e realizar a verificação de prova de humanidade em dez pontos da cidade de São Paulo. Como incentivo, os participantes recebem 25 tokens Worldcoin, que valem cerca de 300 reais na cotação de hoje. A Autoridade Nacional de Proteção de Dados já abriu um processo de fiscalização sobre o funcionamento do projeto no país. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Senha “123456” é a mais usada no mundo pelo segundo ano consecutivo: os dados são da lista anual de palavras-chave mais populares globalmente, da NordPass. A credencial ocupou o topo em cinco das seis edições da pesquisa, sendo desbancada apenas pela “password” em 2022. A empresa afirma que utilizou um banco de dados de 2,5 TB proveniente de fontes publicamente disponíveis, incluindo algumas obtidas na dark web. A companhia destaca que muitas dessas senhas podem ser descobertas por hackers em milissegundos. Uma lista com as 10 credenciais mais utilizadas pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Líder da equipe de Relações com Desenvolvedores do Chrome questiona necessidade de frameworks no futuro: Paul Kinlan comenta que cria aplicativos utilizando modelos de linguagem. Segundo ele, a IA gera apenas Python e JavaScript puros, frequentemente duplicando a mesma lógica em diferentes telas, e com exceção do back-end com Flask, não utiliza nenhum outro framework. Kinlan acredita que, no futuro, usuários não precisarão manipular o código diretamente, uma vez que os modelos podem lidar com tarefas de desenvolvimento de forma simplificada. As informações são do blog do Paul Kinlan.",
+            "url": ""
+        },
+        {
+            "text": "Meta enfrenta processo da Comissão Federal de Comércio dos EUA que pode levar à separação do Instagram e WhatsApp: a queixa alega que a empresa adquiriu as plataformas para eliminar a concorrência de mercado. Caso a ação seja bem-sucedida, a companhia pode ser obrigada a desmembrar as redes sociais. Em sua defesa, a Meta afirma estar confiante de que o julgamento demonstrará que as aquisições foram “benéficas” para os consumidores, e destaca que há diversas evidências de que seus serviços competem com outras plataformas, como YouTube, TikTok, X e iMessage, da Apple. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Material oferece até 72% mais resfriamento comparado à pasta térmica convencional: com uma combinação de metal líquido Galinstan e nitreto de alumínio cerâmico, a substância conseguiu dissipar até 2.760 watts de calor em uma área de apenas 16 centímetros quadrados. O avanço é especialmente relevante para data centers — que consomem cerca de 8 terawatts-hora anualmente apenas com resfriamento — podendo reduzir o gasto total de energia das estruturas em pelo menos 5%. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Membro da Guarda Aérea Nacional dos EUA é condenado a 15 anos de prisão por vazar documentos confidenciais no Discord: o indivíduo atuava como operador de defesa cibernética. Investigações apontam que ele acessou materiais além de seu nível de segurança. O acusado admite que buscava informações sigilosas na base, anotava os dados e imprimia os arquivos usando uma “impressora isolada e raramente utilizada”. A prisão foi realizada após o Discord fornecer seu endereço às autoridades. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode lançar agente de IA com capacidade para controlar computador do usuário: segundo fontes internas, o “Operator” é projetado para realizar ações como escrever código e fazer reservas de viagem. Em uma reunião com a equipe, a liderança teria revelado planos de disponibilizar o recurso em janeiro, inicialmente como uma prévia de pesquisa, acessível por meio da API voltada para desenvolvedores. As informações são do site Yahoo Finance.",
+            "url": ""
+        }
+    ]
+}
