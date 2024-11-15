@@ -1,0 +1,33 @@
+{
+    "title": "Alerta de aumento de preço / ChatGPT supera Chrome / Banners de cookies",
+    "fps": 30,
+    "timestamp": 1731681217,
+    "width": 0,
+    "height": 0,
+    "date": "15/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT já estaria superando o Google Chrome em uso mensal: a plataforma atingiu 3,7 bilhões de visitas globais mensais, superior aos 3,45 bilhões de usuários mensais estimados do Chrome – a comparação não é exatamente equivalente, mas mostra um sinal. A ferramenta teve um crescimento anual de 115,9% em tráfego, impulsionado com a migração para o domínio “hatgpt[.]co” e a introdução do modo de busca “hatGPT Searc” para respostas em tempo real. As informações são do site Digital Trends.",
+            "url": ""
+        },
+        {
+            "text": "Europeus gastam cerca de 575 milhões de horas anuais clicando em banners de cookies: as notificações, exigidas por lei, resultam em um custo econômico de cerca de 14 bilhões de euros, equivalente a 0,10% do PIB da União Europeia. Apesar de visarem proteger a privacidade, os banners oferecem benefícios mínimos e contribuem para a perda de produtividade e frustração dos usuários. Um recente relatório propõe uma revisão urgente da legislação para isentar pequenas e médias empresas. As informações são do site Legiscope.",
+            "url": ""
+        },
+        {
+            "text": "Perder prazos faz com que resultado do trabalho entregue seja julgado de forma mais severa: pesquisas com milhares de profissionais nos EUA e Reino Unido revelam entregas fora do prazo são avaliados como de menor qualidade, mesmo sendo idênticos aos entregues no prazo – a descoberta também sugere que esforços extras podem não ser apreciados pelos colegas se vierem às custas de uma entrega pontual. As pessoas que recebem os trabalhos em atraso tendem a questionar a integridade dos funcionários que os produziram, não importando o tamanho do atraso (um dia ou uma semana) e se o atraso fosse comunicado com antecedência. O estudo também indica que entregar trabalhos antecipadamente não melhora sua avaliação. A única instância que não impacta a avaliação é quando atraso estava além do controle de quem produzia o trabalho. As informações são do The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Wi-Fi 8 focará em melhorar a experiência do usuário em vez de aumentar velocidades de transmissão máxima: previsto para ser finalizado em 2028, a padrão também denominada “02.11bn Ultra High Reliabilit” manterá características do Wi-Fi 7 – como a taxa máxima teórica de transferência de 23 Gbps – mas implementará diversas tecnologias para aprimorar a eficiência e confiabilidade das conexões. As informações são do site PC World.",
+            "url": ""
+        }
+    ]
+}
