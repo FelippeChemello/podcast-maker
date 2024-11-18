@@ -1,0 +1,45 @@
+{
+    "title": "IA: dificuldade com código legado / Android mais seguro / Jogos retrô “para sempre”",
+    "fps": 30,
+    "timestamp": 1731940541,
+    "width": 0,
+    "height": 0,
+    "date": "18/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ferramentas de IA enfrentam dificuldades com bases de código complexas e legadas: para Evan Doyle, CTO da Gauge Technologies, a tecnologia pode gerar saídas imprecisas em ambientes com “alta dívida técnica”. Isso também dificulta a formulação de prompts coerentes pelos programadores. Ele recomenda que, em vez de forçar o uso dos modelos em problemas complexos, especialistas deveriam assumir o trabalho de refatorar o código, ou criar novos módulos que a IA possa lidar mais facilmente. As informações são do blog da Gauge.",
+            "url": ""
+        },
+        {
+            "text": "Play Protect detectará aplicativos maliciosos em tempo real no Android: o recurso foi projetado para monitorar softwares com malwares difíceis de identificar, buscando por sinais de comportamento suspeito mesmo após a instalação, e alertando o usuário para tomar as devidas providências. A funcionalidade já está disponível para dispositivos Pixel 6 e deverá ser expandida para aparelhos de outros fabricantes “nos próximos meses”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Programa de preservação da GOG, plataforma de jogos, busca manter títulos clássicos jogáveis “para sempre”: a ideia é garantir a compatibilidade de games antigos com sistemas atuais e futuros, e oferecer a melhor e mais completa versão disponível, com manuais, conteúdos bônus, expansões e recursos ausentes em outras edições, além de suporte técnico para resolução de problemas. Inicialmente, o projeto contará com um catálogo de 100 títulos, incluindo Diablo, System Shock 2 e Resident Evil 1-3, com mais lançamentos planejados para os próximos meses. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Bluesky afirma que não utilizará postagens de usuários para treinar IA: a empresa esclarece que a tecnologia é limitada à moderação de conteúdo e aos algoritmos que organizam o feed de descoberta. Contudo, a plataforma reconhece que seu arquivo “robots.txt” não impede que companhias como OpenAI e Google acessem os dados das pessoas, embora esteja explorando maneiras de contornar isso. O anúncio foi feito no mesmo dia em que os novos termos de serviço do X entraram em vigor, permitindo que terceiros utilizem postagens de usuários para treinar IA. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Spotify pagará criadores de conteúdo por vídeos populares: a remuneração acontecerá com base no engajamento dos assinantes da plataforma. Os produtores terão acesso aos detalhes pelo hub “Spotify for Creators”, que também ajudará a determinar a elegibilidade para receber pagamentos. No entanto, ainda não há detalhes sobre valores. As mudanças entrarão em vigor em 2 de janeiro de 2025, inicialmente nos EUA, Reino Unido, Austrália e Canadá. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT para macOS recebe integração com aplicativos de terceiros: o modelo agora pode acessar programas como VS Code e Terminal, inclusive de forma simultânea. Em uma demonstração, a IA foi capaz de entender o código de um projeto no Xcode e fornecer sugestões sem que o usuário precisasse copiar e colar o conteúdo no aplicativo. O recurso está disponível apenas para Mac e assinantes do ChatGPT. A OpenAI planeja disponibilizá-lo para todos os usuários futuramente, além de expandir a integração com mais ferramentas. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo do Google Gemini é lançado para iPhone: o app oferece uma interface simples, com uma janela de chat e uma lista das conversas anteriores. Também é possível utilizar o modo Live, que oferece uma experiência mais interativa e conversacional, semelhante ao modo de voz do ChatGPT. Contudo, o modelo possui acesso limitado às configurações do dispositivo e só pode interagir com outros aplicativos do Google. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
