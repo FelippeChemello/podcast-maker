@@ -1,0 +1,49 @@
+{
+    "title": "Falha crítica em plugin WordPress / Fins de semana: um “erro”? / SVG em phishing",
+    "fps": 30,
+    "timestamp": 1732026955,
+    "width": 0,
+    "height": 0,
+    "date": "19/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica em plugin de segurança amplamente utilizado expõe milhões de sites WordPress: a vulnerabilidade “CVE-2024-10924”, identificada na extensão “Really Simple Security”, permite que invasores remotos obtenham acesso administrativo às páginas vulneráveis, quando a autenticação de dois fatores está ativada. O problema reside na manipulação inadequada da autenticação do usuário pela API REST. A falha impacta as versões 9.0.0 até 9.1.1.1, e foi corrigida na 9.1.2. Recomenda-se aplicar a atualização imediatamente. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador da Infosys defende semana de trabalho de 70 horas e afirma que fins de semana são um “erro”: para o indiano Narayama Murthy, seu país precisa de muito esforço para alcançar um maior desenvolvimento, e o equilíbrio entre vida pessoal e profissional pode ser deixado em segundo plano. Murthy afirma que dedicou-se cerca de 14 horas diárias antes de se aposentar. Argumenta-se que jornadas extensas podem ser aceitáveis para empresários, mas não são ideais para trabalhadores assalariados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Hackers utilizam anexos SVG em e-mails de phishing para evitar detecção: esses arquivos podem conter elementos como gráficos, HTML e JavaScript, possibilitando criar campanhas mais sofisticadas. Em um exemplo, um SVG disfarçado de planilha Excel apresentava um formulário de login que, ao ser preenchido, enviava os dados diretamente aos criminosos. Como esses itens são representações textuais de imagens, eles geralmente não são detectados por ferramentas de proteção. Recomenda-se cautela com e-mails que contenham anexos nesse formato. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Rust Foundation quer melhorar interoperabilidade entre Rust e C++: o objetivo é facilitar a integração por meio de mecanismos como incorporação em linha, que possibilitam “compilação integrada”, ou o uso de interfaces de função externa (FFI). A fundação destaca que isso é essencial para alcançar segurança e desempenho de maneira sustentável, e que, embora avanços de compatibilidade tenham sido feitos em bibliotecas, o suporte no nível de linguagem e compilador permanece praticamente inalterado desde os primeiros dias do Rust. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "AlphaFold3, modelo avançado de IA para modelagem de proteínas e ganhador do prêmio Nobel, tem código-fonte liberado: isso permite que cientistas utilizem a ferramenta para fins não comerciais. Inicialmente, ela estava acessível apenas por meio de um servidor web, que limitava o número e o tipo de previsões possíveis. O Google DeepMind, responsável pela tecnologia, justifica que isso visava equilibrar o acesso à pesquisa com a proteção de interesses comerciais. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Homem é condenado a cinco anos de prisão por roubo e lavagem de quase 120 mil Bitcoins: os ativos foram furtados da corretora virtual Bitfinex, em 2016. O réu e sua esposa, que também participou do esquema, conseguiram lavar cerca de 21% do montante, por meio de transações complexas para mascarar sua origem. O indivíduo, que ajudou na devolução de mais de 96% dos Bitcoins roubados, após sua prisão preventiva em 2022, expressa o desejo de usar sua experiência para combater crimes cibernéticos quando for libertado. As informações são do site The Associated Press.",
+            "url": ""
+        },
+        {
+            "text": "FFmpeg, projeto open source de decodificação de vídeo, alcança desempenho até 94 vezes maior com implementação de instrução AVX-512: a tecnologia permite o processamento paralelo de grandes blocos de dados, possibilitando maior eficiência ao lidar com conteúdos multimídia em hardwares potentes. No entanto, o suporte à instrução foi desativado nos processadores Core de 12ª, 13ª e 14ª geração da Intel, enquanto a série Ryzen 9000 da AMD conta com uma FPU AVX-512 totalmente habilitada. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Facebook adotará visualizações como métrica principal para avaliar desempenho de publicações: a medida será aplicada tanto para vídeos quanto outros formatos, como fotos e postagens de texto. Adam Mosseri, chefe do Instagram — que já adota esse tipo de abordagem —, destaca que isso visa oferecer um indicador mais consistente em toda a plataforma, facilitando para os criadores compreenderem a performance de seus conteúdos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
