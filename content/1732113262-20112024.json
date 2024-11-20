@@ -1,0 +1,61 @@
+{
+    "title": "Google forçado a vender o Chrome / Supercomputador mais rápido / Mini-PC da Microsoft",
+    "fps": 30,
+    "timestamp": 1732113262,
+    "width": 0,
+    "height": 0,
+    "date": "20/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Curiosidade para o dia 20 de novembro: em 1984, era fundada a SETI, instituição para pesquisas e buscas por inteligência extraterrestre.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA força o Google a vender o navegador Chrome como solução para monopólio em buscas online: não se avaliou, entretanto, o impacto no Chromium — projeto de código aberto no qual muitos outros navegadores são baseados — e se o Google poderia continuar contribuindo com o seu desenvolvimento. Outras propostas incluem desvincular o Android da loja de aplicativos Google Play e permitir que sites indexados em buscas optem por não participar de treinamentos de IA. Uma decisão final é esperada para agosto do ano que vem. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "EUA anunciam o supercomputador mais rápido do mundo: instalado no Lawrence Livermore National Laboratory – uma espécie de sucessor do Projeto Manhattan, que desenvolveu as primeiras bombas atômicas durante a 2ª Guerra Mundial – o El Capitan possui um desempenho de 1,7 exaflop/s, superando o recordista anterior, o Frontier (com 1,3 Eflop/s). A máquina será utilizada para modelar e prever o desempenho e a segurança de armas nucleares, além de apoiar pesquisas em fusão nuclear e inteligência artificial. As informações são dos sites IEEE Spectrum e TOP500.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft introduz mini-PC desktop que roda Windows exclusivamente via cloud: o Windows 365 Link foi apresentado na conferência Microsoft Ignite 2024 e conta com 8 GB de RAM e 64 GB de armazenamento. O dispositivo custa 349 dólares e exige assinatura do Windows 365, sendo voltado principalmente para empresas, prometendo maior segurança ao armazenar dados exclusivamente online, mas é dependente de conexão à internet para funcionamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google estaria trabalhando na migração do Chrome OS para Android: a iniciativa seria uma forma de otimizar recursos de engenharia e melhorar o posicionamento da empresa no mercado de tablets. O plano inclui adicionar recursos do Chrome OS ao Android, como suporte a extensões no Chrome e aplicativos Linux, além de suporte avançado para teclado, mouse e múltiplos monitores. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "→ O curso hoje já está com um preço promocional de pré-lançamento ( 47% sobre o valor estimado quando for finalizado).",
+            "url": ""
+        },
+        {
+            "text": "→ Após o dia 30/nov, ele passará por um ajuste de preço , então, neste momento, o preço atual é o menor valor histórico do curso daqui para a frente.",
+            "url": ""
+        },
+        {
+            "text": "→ Se você estiver sem limite no cartão de crédito, sem problemas, automaticamente será utilizado apenas o valor de uma única parcela por mês (similar a um pagamento recorrente ).",
+            "url": ""
+        },
+        {
+            "text": "→ Esta oferta ainda conta com o benefício de Acesso Vitalício e não possui necessidade de renovação! Ao pagar uma única vez, você terá acesso para sempre. Uma hora este benefício deixará de ser ofertado.",
+            "url": ""
+        },
+        {
+            "text": "→ Eu ofereço 30 dias de Garantia com uma Política de Reembolso 100% amigável e sem pegadinhas.",
+            "url": ""
+        },
+        {
+            "text": "→ A todo momento você poderá contar com um Suporte Técnico Avançado que é realizado por mim e por outros programadores de verdade.",
+            "url": ""
+        }
+    ]
+}
