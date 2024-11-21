@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: atualize seu iPhone e Mac / ChatGPT supera médicos / Windows mais robusto",
+    "fps": 30,
+    "timestamp": 1732199715,
+    "width": 0,
+    "height": 0,
+    "date": "21/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple alerta para exploração de falhas zero-day no macOS e iOS: as vulnerabilidades CVE-2024-44308 e CVE-2024-44309 afetam Macs com processadores Intel. A primeira, relacionada ao JavaScriptCore, permite a execução arbitrária de código, enquanto a segunda, vinculada ao WebKit, pode resultar em ataques de Cross-site scripting (XSS). A empresa recomenda com urgência a atualização para o macOS Sequoia 15.1.1, e iOS 17.7.2 e 18.1.1. As informações são do site SecurityWeek.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT supera médicos em diagnósticos clínicos: em um experimento, 50 profissionais foram desafiados a realizar seis exames diferentes. Os resultados indicam que aqueles que não tiveram ajuda da IA alcançaram uma pontuação média de 74%, enquanto os que usaram a tecnologia obtiveram 76%. O modelo, sozinho, registrou 90%. Segundo um doutor que colaborou no estudo, isso ocorreu porque muitos médicos não confiavam no ChatGPT quando ele apresentava diagnósticos diferentes. Além disso, havia uma falta de experiência com o uso da IA. As informações são do site Quartz.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia projeto para reforçar segurança do Windows e evitar incidentes críticos como da CrowdStrike: o “Resiliency Initiative” inclui recursos como o “Quick Machine Recovery”, que permite aos administradores enviarem correções remotamente para dispositivos, mesmo quando estes não conseguem inicializar corretamente, além de controles mais rígidos sobre quais aplicativos e drivers podem ser executados. A empresa também exigirá que fornecedores de segurança incluam processos mais robustos de testes e atualizações. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Spotify é usado para promover softwares piratas e cheats de jogos: indivíduos inserem palavras-chave e links maliciosos em nomes de playlists e descrições de podcasts, explorando sua indexação em mecanismos de busca. Em um exemplo, uma lista de reprodução estava intitulada como “Sony Vegas Pro 13 Crack”. Em outros casos, podcasts afirmam fornecer códigos de trapaça para games populares, como Fortnite e Valorant. O Spotify está ciente do problema e já removeu alguns desses conteúdos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Teams permitirá clonagem de voz para tradução em tempo real em reuniões: o “Interpreter” possibilitará imitar o timbre do usuário em nove idiomas, incluindo Português. A Microsoft assegura que a ferramenta não armazena dados biométricos e não altera os sentimentos transmitidos pela locução, mantendo apenas o tom “naturalmente presente”. O recurso, previsto para o início de 2025, estará disponível exclusivamente para assinantes do Microsoft 365. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comércio dos EUA registra queda de 67% em reclamações sobre chamadas de telemarketing: em 2024, o órgão recebeu 1,1 milhão de denúncias, em contraste com os 3,4 milhões em 2021. A FTC atribui essa redução a ações rigorosas, como o serviço “National Do Not Call Registry” (DNC), que atingiu 254 milhões de inscrições em setembro. De acordo com as regras, empresas de telemarketing devem atualizar suas listas de contatos e remover números inscritos no DNC pelo menos a cada 31 dias. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Empresa japonesa transforma piada de 1º de abril em gabinete de computador inspirado nos anos 80: a postagem original da SilverStone na plataforma X gerou enorme interesse do público, dando origem ao FLP-01, baseado no clássico NEC PC-9800, com detalhes como tampas falsas de disquetes que ocultam unidades de disco óptico reais, e LEDs de energia e atividade de disco na parte frontal. Além disso, ele é reforçado para suportar o peso de um monitor. Inicialmente, o produto estará disponível somente no Japão, pelo preço equivalente a 130 dólares. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
