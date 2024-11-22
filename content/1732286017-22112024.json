@@ -1,0 +1,45 @@
+{
+    "title": "Windows: anúncio em tela cheia / Vercel adquire Grep / “Reset” do Instagram",
+    "fps": 30,
+    "timestamp": 1732286017,
+    "width": 0,
+    "height": 0,
+    "date": "22/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft exibe alerta em tela cheia incentivando usuários do Windows 10 a comprarem um novo PC: a mensagem indica que, com uma máquina compatível, é possível desfrutar da “melhor experiência” da versão mais recente do sistema. Ao clicar em “Saiba mais”, a pessoa é redirecionada a um site promocional. Essa recomendação da empresa para a troca do hardware em vez da simples atualização do software se dá provavelmente porque apenas CPUs lançadas a partir de 2018 são compatíveis com o Windows 11. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vercel adquire Grep, mecanismo de busca de código: a ferramenta permite que desenvolvedores pesquisem códigos-fonte rapidamente em mais de 500 mil repositórios públicos do Git, possibilitando identificar a origem de mensagens de erro, e buscar exemplos de uso de métodos. Com a aquisição, o fundador do Grep, Dan Fox, passará a integrar a equipe de IA da empresa. As informações são do blog da Vercel.",
+            "url": ""
+        },
+        {
+            "text": "Instagram permitirá redefinir algoritmo de recomendações: o recurso é voltado para usuários que consideram o atual conteúdo desalinhado com seus interesses, e afeta as seções Explorar, feed inicial e Reels. Também será possível revisar e excluir perfis que não são mais do interesse da pessoa. Adam Mosseri, chefe do Instagram, aconselha o uso moderado da funcionalidade, já que a experiência pode se tornar “menos interessante” até que o algoritmo seja reconfigurado com base nas novas interações. O recurso será disponibilizado globalmente “em breve”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mini Apps do Telegram agora suportam tela cheia no celular: com a atualização 2.0, esses programas poderão ser executados tanto em modo retrato quanto paisagem. Eles também poderão ser adicionados à tela inicial, e acessar informações do processador e memória RAM do aparelho para otimizar o desempenho e oferecer suporte a controles como giroscópio. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ferramenta de fuzzing do Google identifica vulnerabilidades ignoradas por testes humanos: essa é uma técnica de teste automatizado que insere dados inválidos ou aleatórios em um software para buscar erros. O projeto “OSS-Fuzz” utiliza IA para procurar falhas em repositórios de código, e já detectou uma de nível crítico (CVE-2024-9143) na popular biblioteca OpenSSL. Segundo a empresa, o modelo de linguagem empregado consegue realizar as quatro primeiras etapas de fuzzing tradicional, e futuramente será capaz de sugerir patches para as vulnerabilidades identificadas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz recurso de memória no modelo Gemini: isso permite que o sistema retenha informações fornecidas pelo usuário para oferecer respostas mais personalizadas, semelhante à funcionalidade presente no ChatGPT. A novidade está disponível apenas para assinantes do Plano IA Premium do Google, exclusivamente na versão web do Gemini, e suporta apenas interações em inglês. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança curso gratuito sobre ChatGPT voltado para professores: o guia, com duração de uma hora e no idioma inglês, é projetado para educadores do ensino fundamental e médio, com o objetivo de capacitá-los a integrarem o modelo em suas salas de aula. Contudo, alguns profissionais expressam preocupações quanto às implicações éticas do uso da tecnologia na educação, e da privacidade dos dados. A OpenAI reforça que o ChatGPT não substitui a relação direta entre professores e alunos. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
