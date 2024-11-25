@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp: transcrição de áudio / Rust: recompensa para Devs / Browser da OpenAI?",
+    "fps": 30,
+    "timestamp": 1732545348,
+    "width": 0,
+    "height": 0,
+    "date": "25/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp permitirá transcrição de mensagens de áudio: a novidade busca melhorar a comunicação por voz, que, embora seja mais prática do que digitar mensagens longas, pode ser inconveniente em deslocamentos ou ambientes barulhentos. Por padrão, a funcionalidade estará desativada e poderá ser habilitada na seção “Conversas” das configurações. O texto será exibido logo abaixo do áudio. O recurso será lançado “nas próximas semanas” no Android e iOS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "AWS recompensará desenvolvedores que melhorarem segurança da biblioteca padrão do Rust: a empresa destaca que, mesmo sendo escrita apenas com código seguro, a maioria das aplicações ainda depende dessa biblioteca, que possui cerca de 7,5 mil funções inseguras, e teve 57 problemas de consistência e 20 CVEs relatados nos últimos três anos. O projeto, apoiado pela Rust Foundation, está hospedado no repositório “model-checking/verify-rust-std” do GitHub, com um fork do código da linguagem e uma lista inicial de 13 desafios, que pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode estar desenvolvendo navegador com ChatGPT para competir com Chrome: embora os detalhes do projeto ainda sejam escassos e a iniciativa esteja em estágios iniciais, um relatório indica que a empresa contratou Ben Goodger e Darin Fisher, dois profissionais considerados peças-chave no desenvolvimento do Chrome durante seu tempo no Google. Além disso, a companhia estaria mantendo conversas e parcerias com diversas organizações para aprimorar recursos de busca em sites de segmentos como viagens, alimentos, imóveis e varejo. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Android permitirá login instantâneo em aplicativos ao trocar de celular: o “Restore Credentials” exigirá que os desenvolvedores dos apps criem uma credencial de restauração vinculada à conta do usuário, que será armazenada localmente e sincronizada com a nuvem — desde que o backup do Google esteja ativado. Ao configurar um novo aparelho, as aplicações poderão solicitar a recuperação dessa credencial, permitindo um login automático. O recurso, ainda em fase de preview, está disponível para Android 9 ou superior. As informações são do site Ars Technica e do blog de desenvolvedores do Android.",
+            "url": ""
+        },
+        {
+            "text": "Estudo indica que baterias de carros elétricos duram mais que o esperado: ao todo, foram 7 mil veículos analisados. Os resultados apontam que, nos primeiros 30 mil quilômetros, a capacidade das células de energia apresenta uma queda mais acentuada, com o Estado de Saúde (SoH, na sigla em inglês) diminuindo de 100% para aproximadamente 95%. Contudo, à medida que a quilometragem aumenta, o ritmo de degradação desacelera, com os automóveis mantendo um SoH médio de cerca de 90% até 100 mil, e 87% entre 200 mil e 300 mil. As informações são do site Ecomento.",
+            "url": ""
+        },
+        {
+            "text": "Meta utiliza IA para identificar causas de incidentes em seus sistemas com 42% de precisão: a empresa implementa o Llama-2 7B para acelerar a análise de causas raízes logo no início, com os desenvolvedores recebendo sugestões automáticas, ranqueadas em tempo real, permitindo que se concentrem nas mudanças de código mais relevantes, sem perder tempo examinando milhares de possibilidades. Esse avanço significa que, em quase metade dos casos, o tempo médio de resolução pode ser potencialmente reduzido de horas para segundos. As informações são do blog da Parity.",
+            "url": ""
+        },
+        {
+            "text": "Algoritmo do Threads dará mais destaque a contas seguidas pelos usuários: Adam Mosseri, chefe do Instagram, explica que essas publicações serão posicionadas mais próximas ao topo do feed. Ele ressalta que a mudança ainda está em desenvolvimento e que encontrar o equilíbrio entre ajudar criadores a alcançar seguidores e promover engajamento continua sendo um desafio. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
