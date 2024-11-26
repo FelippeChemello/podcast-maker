@@ -1,0 +1,45 @@
+{
+    "title": "Firefox preocupado / Menos produtividade com IA / Siri aprimorada",
+    "fps": 30,
+    "timestamp": 1732631783,
+    "width": 0,
+    "height": 0,
+    "date": "26/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mozilla teme que ação judicial contra Google possa prejudicar navegadores menores, como o Firefox: o Departamento de Justiça dos EUA quer impedir que a gigante de buscas ofereça incentivos financeiros para que empresas terceiras definam seu mecanismo como padrão em softwares e dispositivos. Contudo, a Mozilla, que obteve cerca de 86% de sua receita em 2022 por meio de acordos de royalties com o Google, alerta que limitar essas parcerias prejudicaria uma internet aberta e acessível, além de não gerar benefícios significativos para a concorrência no mercado de buscas. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "PCs com IA tornam usuários menos produtivos, segundo Intel: um estudo com 6 mil participantes de diferentes países indica que, em média, as pessoas perdem quase 15 horas semanais em “tarefas digitais” que poderiam ser automatizadas por chatbots, como escrever e-mails. No entanto, os indivíduos frequentemente gastam tempo ajustando as instruções enviadas para o modelo, às vezes por falta de conhecimento sobre o uso. Recomenda-se que empresas de IA forneçam mais tutoriais para suas soluções. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria desenvolvendo versão aprimorada da Siri para competir com ChatGPT: o modelo, conhecido internamente como “LLM Siri”, é capaz de oferecer interações mais naturais e conversacionais, além de aprimorar a capacidade da assistente para lidar com tarefas complexas. A tecnologia também poderá utilizar o framework “App Intents” para interagir com aplicativos de terceiros. Acredita-se que a Apple anuncie o produto em 2025. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores utilizam soro de leite para recuperar ouro de lixo eletrônico: o processo envolve desnaturar as proteínas do produto, criando nanofibras em forma de gel que são posteriormente transformadas em uma esponja. Em testes com 20 placas-mãe antigas, foi possível absorver 90,8% de ouro, e a pepita resultante apresentou pureza equivalente a até 22 quilates. O custo total do processo foi 50 vezes menor que o valor do metal recuperado. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Ferramenta de IA da Nvidia pode criar sons “nunca antes ouvidos”: o Fugatto é capaz de gerar música, efeitos sonoros e fala a partir de entradas de texto e áudio, e com base em comandos inusitados, como “um saxofone uivando”. Além disso, a ferramenta permite transformar vozes, alterando sotaques ou ajustando o tom para transmitir emoções, como calma ou irritação, e oferece recursos avançados de edição musical, como isolar vocais, adicionar instrumentos ou alterar uma melodia. A Nvidia não divulgou quando ou se o recurso será disponibilizado ao público. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Câmera do tamanho de um grão de sal apresenta qualidade de imagem semelhante aos dispositivos convencionais: a inovação foi possível devido ao uso de metassuperfícies — materiais artificiais ultrafinos e planos, com apenas meio milímetro de largura. A tecnologia abre portas para câmeras ultra pequenas com alta fidelidade de imagem, podendo ser usadas, por exemplo, em endoscópios ultracompactos para capturar imagens de áreas de difícil acesso, e em smartphones e headsets de realidade virtual, tornando-os mais leves e atraentes. As informações são do site Communications of the ACM.",
+            "url": ""
+        },
+        {
+            "text": "Data centers de IA poderão consumir mais eletricidade que grandes cidades: empresas responsáveis pelo desenvolvimento dessas estruturas alertam que, entre 2030 e meados da década de 2040, é esperado que elas demandem 500 megawatts de energia, e, eventualmente, um gigawatt — comparável ao gasto médio anual de cerca de 700 mil residências ou de um município com aproximadamente 1,8 milhão de habitantes. Atualmente, data centers de grande porte operam em torno de 40 megawatts. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
