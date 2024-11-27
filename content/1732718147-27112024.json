@@ -1,0 +1,45 @@
+{
+    "title": "Marca “JavaScript” disputada / Cade obriga Apple / Zoom muda foco",
+    "fps": 30,
+    "timestamp": 1732718147,
+    "width": 0,
+    "height": 0,
+    "date": "27/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Escritório de Patentes e Marcas dos EUA recebe petição para cancelar marca registrada “JavaScript” da Oracle: o pedido, feito pela Deno Land, argumenta que a empresa abandonou a marca, pois não comercializou nenhum produto nem prestou serviços relacionados à tecnologia desde que a adquiriu da Sun Microsystems em 2009. A ação segue uma carta aberta, que já conta com mais de 14 mil assinaturas, incluindo a de Brendan Eich, criador do JavaScript. A Oracle tem até 4 de janeiro de 2025 para responder à petição. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Conselho Administrativo de Defesa Econômica exige que Apple permita meios de pagamento de terceiros no iOS: a decisão é resultado de uma queixa aberta pelo Mercado Livre em 2022, na qual a empresa alega que a Apple impõe restrições que limitam ou impedem compras dentro de aplicativos utilizando serviços concorrentes, como o Mercado Pago. A Apple tem um prazo de 20 dias — a partir desta terça-feira — para implementar os ajustes necessários, sob pena de multa diária de 250 mil reais em caso de descumprimento. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Zoom se reposiciona como uma empresa focada em IA: a companhia mudou seu nome para “Zoom Communications Inc.” (sem o termo “Video”). Segundo o CEO Eric Yuan, a plataforma agora será reconhecida por oferecer “soluções modernas para o trabalho híbrido”. O objetivo é ir além das videoconferências, especialmente em um cenário de retorno aos escritórios e diante da crescente competição de empresas como Google, Microsoft e Slack. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Sony estaria desenvolvendo console portátil para competir com Nintendo: o dispositivo seria capaz de rodar títulos do PS5 de forma nativa, diferente do recém-lançado PlayStation Portal, que transmite jogos via Wi-Fi a partir da nuvem. No entanto, o lançamento do aparelho pode estar “a alguns anos de distância”, caso a Sony decida avançar com o projeto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "App do Google para iOS agora insere links em sites de terceiros: segundo a empresa, o recurso identifica e destaca “entidades interessantes” presentes nas páginas, criando URLs de forma automática que, ao serem clicadas, direcionam o usuário para uma busca no Google sobre o assunto, com os resultados sendo exibidos em uma janela pop-up. A funcionalidade também oferece uma opção de exclusão dos links pelos proprietários dos sites por meio de um formulário, podendo levar até 30 dias para ser efetivada. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA acusa homem de hackear redes para oferecer serviços de cibersegurança: o indivíduo esteve envolvido em pelo menos três incidentes neste ano. Em um deles, o acusado invadiu os sistemas de uma academia e enviou um e-mail a um dos proprietários informando sobre o ocorrido, e oferecendo sua consultoria em segurança. Além disso, ele reduziu sua mensalidade para apenas 1 dólar, apagou sua foto do banco de dados e roubou o crachá de um funcionário. Se condenado, o réu pode enfrentar até 15 anos de prisão. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança ferramenta para integrar sistemas de IA a conjuntos de dados: o Model Context Protocol, de código aberto, permite conectar modelos diretamente às informações necessárias para aprimorar suas respostas ou executar tarefas, oferecendo um suporte universal para diferentes tipos de fontes. Softwares como Replit, Codeium e Sourcegraph já começaram a adotar o recurso para criar agentes capazes de realizar tarefas em nome dos usuários. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
