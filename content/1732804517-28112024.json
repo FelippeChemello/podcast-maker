@@ -1,0 +1,45 @@
+{
+    "title": "Devs “fantasmas” / 5G em todo Brasil / Modelo da OpenAI vazado?",
+    "fps": 30,
+    "timestamp": 1732804517,
+    "width": 0,
+    "height": 0,
+    "date": "28/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisador afirma que quase 10% dos engenheiros de software são “fantasmas”: o estudo, conduzido por Yegor Denisov-Blanch, envolveu mais de 50 mil profissionais de “centenas de empresas”, onde um modelo analisou repositórios de código internos para avaliar a qualidade dos commits, com base em critérios subjetivos como tempo necessário para implementação e complexidade do código. Os resultados indicam que cerca de 9,5% dos devs não realizaram contribuições significativas, embora recebam remunerações generosas. Denisov-Blanch complementa que somente a quantidade de commits não reflete com precisão a produtividade de um profissional. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Anatel autoriza operação do 5G na frequência de 3,5 GHz em todo Brasil: isso permite que operadoras como Claro, TIM, Vivo e regionais expandam seus serviços de alta velocidade. A restrição anterior existia devido à utilização da banda pelo serviço de TV aberta via satélite. A tecnologia 5G na faixa de 3,5 GHz já é acessível em 820 cidades, ao menos por uma operadora. No entanto, um estudo aponta que, mesmo nos locais onde já está presente, essa rede fica disponível apenas 11% do tempo. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Artistas afirmam ter vazado modelo de vídeo Sora da OpenAI em ato de protesto: a tecnologia teria sido publicada na plataforma HuggingFace, antes que a empresa bloqueasse o acesso. Os indivíduos, que são integrantes de um grupo de testadores beta da ferramenta, argumentam que o programa de acesso antecipado usa a credibilidade artística para legitimar um produto corporativo, prática descrita como “art washing”. O apelo inclui um pedido para que a OpenAI adote uma postura mais transparente, amigável aos artistas e comprometida com o apoio às artes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "TikTok bloqueará filtros de beleza para menores de 18 anos devido a preocupações com saúde mental: a mudança entrará em vigor nas próximas semanas. Opções populares, como o “Bold Glamour”, realiza transformações faciais impossíveis de serem replicadas até mesmo com maquiagem. Pesquisas indicam que muitos usuários de redes sociais não percebem o impacto psicológico de comparar sua aparência real com imagens altamente editadas, o que pode contribuir para sentimentos de insatisfação pessoal. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Startup anuncia processador “universal” que integra CPU e GPU de forma inédita: o componente, da Ubitium, é baseado na arquitetura RISC-V, e permite que seus transistores sejam reutilizados para qualquer função. A empresa afirma que ele será menor, mais eficiente em termos de consumo de energia e mais acessível. Até o momento, a startup levantou 3,7 milhões de dólares para o projeto, e prevê seu lançamento para 2026. Para o CEO Hyun Shin Cho, o Universal Processor representa a solução ideal para atender às demandas da era da IA. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores hackeiam robôs controlados por IA com 100% de taxa de sucesso: a equipe desenvolveu um algoritmo chamado RoboPAIR, que utiliza um LLM para enviar comandos ao sistema autônomo, analisando as respostas e ajustando os prompts até que consiga contornar os filtros de segurança. Com isso, os robôs foram convencidos a realizarem ações como colidir com pedestres e encontrar locais para detonar bombas. Essa descoberta reforça a importância da supervisão humana, uma vez que as IAs não têm uma verdadeira compreensão das consequências de suas ações. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Instagram anuncia recurso de compartilhamento de localização: a plataforma destaca que a funcionalidade pode ser útil para coordenar horários de chegada ou ajudar a localizar amigos em ambientes lotados. Usuários encontrarão o recurso em chats privados e grupos, e a localização irá expirar automaticamente após uma hora, sem opção de alterar esse tempo. A novidade já está disponível em “países selecionados”, segundo a empresa. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
