@@ -1,0 +1,65 @@
+{
+    "title": "Linux: malware inédito / Conteúdo de IA no LinkedIn / GitHub financia open-source",
+    "fps": 30,
+    "timestamp": 1732890876,
+    "width": 0,
+    "height": 0,
+    "date": "29/11/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores descobrem primeiro UEFI Bootkit para Linux: esse é um tipo de malware, até então exclusivo para Windows, que compromete o firmware responsável pela inicialização do sistema operacional, sendo difícil de detectar e remover. O “Bootkitty” ainda apresenta algumas falhas e é incapaz de infectar distribuições além do Ubuntu, e não consegue contornar as proteções do Secure Boot. Portanto, acredita-se que ele ainda é uma prova de conceito. Apesar disso, os pesquisadores enfatizam a importância de se preparar para possíveis ameaças futuras. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "54% dos textos longos no LinkedIn são gerados por IA, segundo estudo: ao todo, foram analisados mais de 8,7 mil postagens entre janeiro de 2018 e outubro de 2024, que continham 100 palavras ou mais. Foi identificado um aumento significativo no uso de modelos após o lançamento do ChatGPT em 2022, com um crescimento de 189% entre janeiro e fevereiro de 2023. Em resposta, o LinkedIn afirma que busca limitar a visibilidade de postagens de baixa qualidade, e que o conteúdo identificado no estudo era “assistido por IA”, e não inteiramente criado por essas ferramentas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia fundo para apoiar projetos de código aberto focados em segurança: o Secure Open Source Fund tem um aporte inicial de 1,25 milhão de dólares, financiado por empresas como 1Password, Shopify, Stripe, Microsoft e Vercel. A iniciativa visa reforçar o papel da plataforma como o “lar do código aberto” e sua responsabilidade em garantir que o ecossistema continue a prosperar. O valor será distribuído entre 125 projetos, com cada um recebendo 10 mil dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "API do Bluesky permite extrair postagens de usuários para treinar modelos de linguagem: Daniel van Strien, especialista em curadoria de machine learning da Hugging Face, conseguiu utilizar a API Firehose da própria plataforma para extrair um milhão de posts públicos, a fim de viabilizar pesquisas e estudos relacionados ao aprendizado de máquina. O Bluesky afirma que está explorando formas de permitir que os usuários expressem externamente suas preferências de consentimento quanto ao uso de informações, e promete divulgar mais detalhes “em breve”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comércio dos EUA afirma que quase 89% dos dispositivos inteligentes não informam por quanto tempo receberão suporte: ao todo, foram 184 produtos analisados, incluindo aparelhos auditivos e câmeras de segurança. A falta de transparência preocupa pois a descontinuidade das atualizações de software pode comprometer ou inutilizar esses gadgets. A FTC orienta os consumidores a avaliarem se o investimento em um dispositivo inteligente compensa, verificando previamente o período de suporte oferecido pelo fabricante. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Ex-líderes do Android anunciam desenvolvimento de sistema operacional para agentes de IA: David Singleton, cofundador e CEO da startup “/dev/agents”, afirma que essas tecnologias exigirão novos padrões de interface do usuário, e que o setor necessita de algo “semelhante ao Android”. A ideia é que o sistema seja baseado em nuvem, projetado para “agentes confiáveis” que possam operar de forma integrada em diferentes dispositivos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft testa suporte a chaves de acesso de terceiros no Windows 11: a empresa informa que “nos próximos meses” será possível autenticar-se no sistema utilizando a mesma passkey criada em dispositivos móveis. A novidade já está disponível para participantes do programa Windows Insiders do Canal Beta. A Microsoft também publicou o código-fonte da API WebAuthn no repositório “microsoft/webauthn” do GitHub, permitindo que desenvolvedores criem plugins para suporte a suas próprias plataformas de chaves de acesso. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "→ Após o dia 30/nov, o curso passará por um ajuste de preço, então, neste momento, o preço atual é o menor valor histórico do curso daqui para a frente.",
+            "url": ""
+        },
+        {
+            "text": "→ Se você estiver sem limite no cartão de crédito, sem problemas, automaticamente será utilizado apenas o valor de uma única parcela por mês (similar a um pagamento recorrente).",
+            "url": ""
+        },
+        {
+            "text": "→ Esta oferta ainda conta com o benefício de Acesso Vitalício, com acesso a todas as atualizações para sempre. Uma hora este benefício deixará de ser ofertado.",
+            "url": ""
+        },
+        {
+            "text": "→ Eu ofereço 30 dias de Garantia com uma política de reembolso 100% amigável (e sem pegadinhas).",
+            "url": ""
+        },
+        {
+            "text": "→ A todo momento você poderá contar com um Suporte Técnico Avançado que é realizado por mim e por outros programadores de verdade.",
+            "url": ""
+        }
+    ]
+}
