@@ -1,0 +1,49 @@
+{
+    "title": "Aliança contra Microsoft / Cabo ao redor do mundo / Termo do ano",
+    "fps": 30,
+    "timestamp": 1733150182,
+    "width": 0,
+    "height": 0,
+    "date": "02/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google, Opera e Vivaldi acusam Microsoft de limitar escolha do usuário com navegador Edge: as empresas formaram a Browser Choice Alliance, e afirmam que a Microsoft utiliza padrões obscuros e restrições técnicas, como dificultar a escolha de outro software padrão no Windows. O grupo solicita à Comissão Europeia que classifique o Edge como um serviço “Gatekeeper” — plataforma dominante com potencial de controlar o acesso dos consumidores a outros serviços, e dificultar a entrada de novos concorrentes. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Meta estaria planejando cabo submarino que dá volta ao mundo: segundo fontes próximas, esse é um projeto de mais de 40 mil quilômetros, estimado em mais de 10 bilhões de dólares em investimentos, sendo inteiramente de propriedade e uso exclusivo da empresa. A rota preliminar formaria um “W” ao redor do globo, partindo da costa leste dos EUA e retornando à costa oeste. Isso permitiria à empresa um canal dedicado para tráfego de dados global. A expectativa é que a Meta apresente detalhes mais concretos no início de 2025. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "“Brain rot” é eleito termo do ano pela Oxford e reflete uso “trivial” da internet: o termo, que pode ser traduzido como “degradação mental”, destaca preocupações relacionadas à rolagem infinita nas redes sociais e ao consumo de conteúdos pouco relevantes ou desafiadores. Casper Grathwohl, presidente da Oxford Languages, afirma ser “fascinante” observar como o termo foi adotado pelas gerações Z e Alpha, que, em grande parte, produzem e consomem esse tipo de material. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Reddit busca expandir sua presença em mais países, incluindo Brasil: segundo Jen Wong, diretora de operações, quase metade dos usuários da plataforma está localizada internacionalmente. Como parte da estratégia, a companhia está implementando traduções automáticas por IA para diferentes línguas, incluindo português, e deve abranger cerca de 30 idiomas até o final do ano. Além do Brasil, os mercados que mais crescem em número de usuários no Reddit são Reino Unido, Filipinas e Índia. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Operação da Interpol atinge recorde de 5.500 prisões e apreensão de 400 milhões de dólares em ativos virtuais: a “HAECHI V” reuniu forças policiais de 40 países, territórios e regiões para combater sete tipos de fraudes cibernéticas, incluindo as de investimento e jogos de azar online. Entre os destaques está a desarticulação de um grupo cujos membros se passavam por agentes da lei para aplicar golpes de phishing de voz, causando perdas financeiras estimadas em 1,1 bilhão de dólares e prejudicando quase 2 mil vítimas. As informações são do site da INTERPOL.",
+            "url": ""
+        },
+        {
+            "text": "Panasonic cria clone de IA inspirado em seu falecido fundador: Konosuke Matsushita é frequentemente lembrado como um dos empresários mais respeitados do Japão, e conhecido por transformar a empresa em uma líder global de eletrônicos de consumo. O modelo foi treinado utilizando seus escritos, discursos e mais de 3 mil gravações de voz, sendo capaz de simular sua fala e pensamento. Segundo a Panasonic, o objetivo é que a tecnologia ofereça suporte em decisões empresariais no futuro. As informações são do site The Japan Times.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft afirma que loja de jogos do Xbox para Android está pronta, mas que não consegue disponibilizá-la: segundo a empresa, o lançamento depende de uma decisão judicial que exige mudanças na Play Store, como permitir maior concorrência e eliminar a obrigatoriedade de utilizar seu próprio sistema de faturamento. Em resposta, o Google afirma que a Microsoft sempre teve a possibilidade técnica de permitir a compra e o acesso a jogos do Xbox pelo Android. Outras lojas, como Steam e PlayStation Store, já oferecem esse tipo de funcionalidade. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de quinta-feira (28/nov), noticiamos um estudo realizado com mais de 50 mil engenheiros de software, o qual aponta que 9,5% deles não realizam contribuições significativas em seus commits. Contudo, não destacamos o fato de que alguns profissionais foram desconsiderados desse índice, especialmente aqueles cujas funções vão além da escrita de código, como líderes técnicos ou arquitetos de software.",
+            "url": ""
+        }
+    ]
+}
