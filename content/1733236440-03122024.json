@@ -1,0 +1,45 @@
+{
+    "title": "Ceticismo com IAs / CEO da Intel renuncia / Apple espiando funcionários",
+    "fps": 30,
+    "timestamp": 1733236440,
+    "width": 0,
+    "height": 0,
+    "date": "03/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Candidatos a emprego demonstram ceticismo quanto ao impacto da IA no ambiente de trabalho: segundo um estudo realizado com 1.000 indivíduos norte-americanos, 69% duvidam da capacidade dos modelos de melhorar seu desempenho profissional, enquanto 62% não acreditam que a tecnologia poderá reduzir o volume das demandas. Além disso, apenas 34% demonstram preocupação de serem substituídos por bots, e somente 30% acreditam que a IA aumentará a competição por empregos ou pressionará os salários. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia saída do CEO Pat Gelsinger: os executivos David Zinsner e Michelle Holthaus foram nomeados co-CEOs interinos, enquanto o conselho da empresa busca por um sucessor permanente. Gelsinger ingressou na companhia aos 18 anos. Aos 32, tornou-se o mais jovem vice-presidente da história da organização, assumindo posteriormente o cargo de CTO em 2001, no qual liderou avanços como Wi-Fi, USB e as linhas de chips Core e Xeon. As ações da Intel subiram cerca de 2,66% após a saída de Gelsinger. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Funcionário acusa Apple de espionar colaboradores fora do ambiente de trabalho: o monitoramento estaria sendo realizado por meio de dispositivos e contas pessoais do iCloud. Segundo o processo, a empresa afirma ter o direito de realizar “vigilância física, por vídeo e eletrônica”, mesmo fora do expediente ou após o término do vínculo empregatício, podendo acessar dados como localização, e-mails e fotos. Além disso, a companhia “desencoraja ativamente” o uso de contas separadas para trabalho e pessoal. As informações são do site Semafor.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA fracassam em benchmark matemático mais difícil do mundo: o FrontierMath, da Epoch AI, reúne centenas de questões originais de nível avançado que exigem raciocínio profundo e criatividade, abrangendo temas como teoria computacional dos números e geometria algébrica abstrata. Em uma avaliação com seis sistemas, incluindo GPT-4o, Gemini 1.5 Pro e Claude 3.5 Sonnet, nenhum conseguiu resolver mais de 2% dos desafios. Um pesquisador de IA reforça a dificuldade do benchmark, afirmando que “quase ninguém” conseguiria pontuar acima de 0%. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Roteador Wi-Fi de código aberto permite executar qualquer firmware: o OpenWrt One, da Software Freedom Conservancy, foi projetado como um dispositivo que não depende de atualizações de empresas privadas e não perde suporte ao longo do tempo. Ele oferece suporte ao padrão Wi-Fi 6 nas bandas de 2,4 GHz e 5 GHz, e está disponível oficialmente no AliExpress por 89 dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Tesla busca formar equipe para desenvolver sistema de controle remoto para seus robotáxis: segundo uma oferta de emprego, o objetivo é possibilitar acesso aos veículos e robôs da companhia em ambientes desafiadores. O anúncio destaca a necessidade de um software de transmissão de dados confiável e de baixa latência, otimizado para lidar com redes de transporte não confiáveis no mundo real. Além disso, os teleoperadores utilizariam equipamentos de realidade virtual para operar os sistemas. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Recurso do Chrome permitirá verificar confiabilidade de sites: o “Store Reviews” utiliza IA para gerar um resumo de avaliações provenientes de plataformas como Trust Pilot e ScamAdvisor, disponível no balão de detalhes sobre a página, no botão ao lado da URL. O objetivo é ajudar usuários a avaliar a credibilidade de um site sem a necessidade de consultar diversas fontes manualmente. O recurso está em desenvolvimento e não possui previsão de lançamento. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
