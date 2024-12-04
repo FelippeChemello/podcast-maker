@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT com anúncios / Meta reconhece erro / Intel lança GPUs",
+    "fps": 30,
+    "timestamp": 1733323065,
+    "width": 0,
+    "height": 0,
+    "date": "04/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI estaria considerando introduzir anúncios em seus produtos: Sarah Friar, diretora financeira, ressalta que a empresa será “cuidadosa” ao decidir quando e onde implementar essa abordagem, a qual também apresenta desvantagens, incluindo uma possível mudança no foco da companhia — deixar de atender usuários para agradar anunciantes. As principais fontes de receita da OpenAI são o acesso à sua API e a venda de assinaturas individuais e empresariais do ChatGPT. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Meta reconhece que conteúdo “inofensivo” está sendo removido de suas plataformas: segundo o presidente de Assuntos Globais da empresa, as taxas de erro na moderação das postagens são “muito altas”, com muitas pessoas sendo “penalizadas injustamente”. Entre os exemplos citados estão publicações relacionadas à pandemia e temas políticos. A Meta se compromete em melhorar a “precisão e exatidão” do seu sistema. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia GPUs para desktop que competem com Nvidia e AMD: as Arc B570 e B580 são baseadas na arquitetura Xe2, com até 12 GB de memória de vídeo dedicada e atingindo 190 W de potência. De acordo com a empresa, a B580 oferece desempenho 10% superior à RTX 4060 em jogos a 1440p com configurações gráficas no “ultra”, desde que usada em conjunto com um processador Core i9-14900K. Ela será lançada no dia 13 deste mês, por 249 dólares, enquanto a B570 sairá em 16 de janeiro por 219 dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Instituto Nacional de Padrões e Tecnologia dos EUA treina IA para prever explosões de baterias: utilizando gravações de 38 células de energia em processo de combustão, os pesquisadores manipularam o tom e a velocidade para gerar mais de 1.000 amostras de áudio, a fim de que a tecnologia reconheça o som específico da ruptura da válvula de segurança, que se parece com o de uma garrafa de refrigerante sendo aberta. O sistema conseguiu emitir o alerta em 94% dos testes e com dois minutos de antecedência. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Falha no ChatGPT impede que ele escreva nomes específicos: o modelo encerra a conversa ao se deparar com termos como “Brian Hood”, “Jonathan Zittrain” e “Jonathan Turley”. A empresa já corrigiu o problema para um deles — “David Mayer” — esclarecendo que sua ferramenta sinalizou erroneamente o texto, impedindo que ele fosse exibido na saída. Usuários suspeitam que o bloqueio ocorre devido a impasses com acusações falsas sobre esses nomes. Uma lista completa deles, com mais detalhes sobre cada um, pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia seu próprio conjunto de modelos de IA: denominada “Nova”, a linha será integrada à biblioteca Bedrock da AWS. Entre as tecnologias anunciadas estão “Micro”, voltada para processamento de texto; “Canvas”, focada na geração de imagens; e “Reel”, especializada na criação de vídeos. Além disso, a empresa está treinando o “Premier”, previsto para o início de 2025, considerado o “modelo multimodal mais capaz para tarefas de raciocínio complexas”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Coinbase anuncia integração com Apple Pay para compra de moedas digitais em aplicativos de terceiros: o recurso estará disponível de forma automática em apps que utilizam a “Coinbase Onramp”, plataforma que facilita a conversão de dinheiro tradicional em ativos virtuais. Entre as vantagens estão maior rapidez no processamento de pagamentos, simplicidade no processo de verificação de identidade, e taxas reduzidas para certos tipos de transações. As informações são dos sites TechCrunch e MacMagazine.",
+            "url": ""
+        }
+    ]
+}
