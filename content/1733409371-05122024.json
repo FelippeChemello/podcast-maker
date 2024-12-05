@@ -1,0 +1,45 @@
+{
+    "title": "Bitcoin bate recorde / SearchGPT impreciso / Facebook lidera interrupções",
+    "fps": 30,
+    "timestamp": 1733409371,
+    "width": 0,
+    "height": 0,
+    "date": "05/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bitcoin atinge recorde histórico de 100 mil dólares: é a primeira vez que o ativo chega a esse valor, desde sua criação há 15 anos. Estimativas apontam que ele valorizou mais de 45% a partir de 5 novembro, e seus preços mais que dobraram no acumulado do ano. Acredita-se que um número crescente de investidores está vendo o Bitcoin como um meio de proteção contra riscos geopolíticos, incluindo desvalorizações cambiais causadas pela inflação. As informações são da NBC News.",
+            "url": ""
+        },
+        {
+            "text": "Resultados de pesquisa do ChatGPT são imprevisíveis e imprecisos, segundo pesquisadores: em um experimento, o modelo foi solicitado a identificar a origem de 200 citações de 20 publicações. Em 153 das respostas fornecidas, ele apresentou informações parcial ou totalmente erradas, raramente admitindo a falta de dados sobre os detalhes apresentados, ou que não foi possível localizar o artigo exato. A OpenAI afirma que continuará aprimorando a ferramenta. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Facebook lidera ranking das maiores interrupções globais de serviços em 2024: segundo dados da plataforma DownDetector, com base no volume de queixas de usuários, a rede social teve um pico de 11,1 milhões de reclamações registradas no mundo todo em apenas um dia, seguida pela CrowdStrike com 5 milhões. Ela também apareceu em primeiro lugar em quatro regiões, incluindo a América Latina (845 mil), na qual o WhatsApp ocupa a segunda posição, com 420 mil. As informações são do site da Ookla.",
+            "url": ""
+        },
+        {
+            "text": "Autoridades sul-coreanas prendem CEO e cinco funcionários por venderem receptores de satélite com funcionalidade DDoS: os dispositivos foram encomendados por uma empresa, supostamente para combater ataques de uma concorrente. O recurso foi pré-instalado em 98 mil dos 240 mil aparelhos entregues entre janeiro de 2019 e setembro de 2024, com o restante recebendo-o via atualização de firmware. Usuários comuns desses receptores participaram involuntariamente dos ataques, possivelmente enfrentando redução no desempenho. Estima-se que a empresa tenha lucrado 4,3 milhões de dólares com esse esquema. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google lança versão prévia de seu modelo gerador de vídeos: o Veo é capaz de criar conteúdo na resolução 1080p em diversos estilos visuais, utilizando prompts baseados em texto ou imagem. A empresa garante que ele possui salvaguardas para evitar resultados prejudiciais ou violações de direitos autorais, além de contar com uma marca d’água invisível por meio da tecnologia SynthID do DeepMind. O modelo está disponível para clientes selecionados do Google Cloud, na plataforma Vertex AI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla adiciona opção para definir Firefox como navegador padrão na instalação: a nova tela de configuração também permite fixar o ícone na barra de tarefas e importar dados de outros browsers, com todos os checks vindo ativados por padrão. A própria empresa já havia criticado a Microsoft por adotar essa abordagem no Edge. A novidade está sendo testada nas versões Nightly e Beta do Firefox, e deve ser amplamente disponibilizada na versão 135. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Coreia do Sul é primeira do mundo a substituir 10% de sua força de trabalho por robôs: o país agora possui 1.102 máquinas para cada 10 mil funcionários, utilizadas em diversos setores, incluindo saúde e gastronomia. A transição faz parte de uma estratégia do governo para enfrentar as baixas taxas de natalidade. Há planos de abranger mais setores estratégicos, incluindo agricultura, logística e segurança social, além de aumentar a taxa de fabricação local de peças essenciais de robôs de 44% para 80% até 2030. As informações são do site The Business Standard.",
+            "url": ""
+        }
+    ]
+}
