@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT de mil reais/mês — Dev questiona Copilot — Avanço: regras no Brasil para IA",
+    "fps": 30,
+    "timestamp": 1733495731,
+    "width": 0,
+    "height": 0,
+    "date": "06/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança assinatura mensal de 200 dólares para ChatGPT, cerca de 1,2 mil reais/mês: o plano “Pro”, dez vezes mais caro que o “Plus”, oferece acesso ilimitado a todos os modelos da empresa, incluindo uma versão “pro mode” do “o1”, descrito como sendo “mais rápido, mais poderoso e mais preciso” em áreas como codificação e resolução de problemas matemáticos, além de poder processar imagens. Segundo um membro da equipe técnica, o público-alvo são usuários que já utilizam os sistemas no limite de suas capacidades em tarefas complexas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor questiona qualidade do código gerado pelo GitHub Copilot: segundo um estudo da empresa, usuários que utilizaram o modelo tiveram 56% mais chances de passar em testes unitários e escreveram, em média, 13,6% mais linhas sem erros. Contudo, Dan Cîmpianu aponta que os participantes desenvolveram um aplicativo CRUD básico, algo não muito desafiador para a ferramenta. Além disso, a definição de “erros” limitava-se a problemas de estilo ou avisos de linters. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Comissão do Senado aprova regulamentação da IA no Brasil: o PL 2.338/2023 busca regulamentar o uso da tecnologia no país, definindo limites, prevendo punições para práticas inadequadas e garantindo direitos aos usuários. Entidades que descumprirem as regras poderão ser multadas em até 50 bilhões de reais ou 2% do faturamento anual, com risco de suspensão parcial ou total de suas tecnologias. Caso seja sancionada, a maior parte das exigências terá um prazo de dois anos para entrar em vigor. Uma lista com as regras pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Backdoor invade biblioteca JavaScript e rouba cerca de 155 mil dólares em moedas digitais: presente nas versões 1.95.6 e 1.95.7 da “solana-web3.js”, amplamente usada por desenvolvedores de aplicativos descentralizados para interagir com o blockchain Solana, o malware coleta chaves privadas e endereços de carteiras de apps que manipulam essas informações diretamente. Recomenda-se atualizar a biblioteca para a release 1.95.8 ou superior. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta modelo meteorológico mais preciso e econômico que sistemas tradicionais: o GenCast foi treinado com dados climáticos históricos, e é capaz de oferecer previsões para até 15 dias e gerar um conjunto de 50 ou mais projeções que representam diferentes trajetórias possíveis do clima em apenas 8 minutos, utilizando um único núcleo TPU v5 do Google Cloud. O modelo tem potencial de mitigar os impactos de eventos climáticos severos, ajudando empresas e comunidades a se prepararem melhor para condições adversas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Chrome para Android oferecerá suporte para leitura de arquivos PDF: o recurso elimina a necessidade de instalar ferramentas externas. Além de exibir o conteúdo do documento, ele permite buscar textos e fazer anotações. Embora ainda não tenha sido lançada oficialmente, a funcionalidade pode ser ativada manualmente na página de “flags” do navegador, a partir das opções “Open PDF Inline on Android” (Android 15) e “Open PDF Inline on Android pre-V” (Android 12 ou posterior, na versão beta 132 do Chrome). As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft reitera que TPM 2.0 é “inegociável” para Windows 11: a empresa afirma que não planeja flexibilizar os requisitos do sistema para aumentar sua taxa de adoção. Essa versão do módulo — incompatível com hardwares mais antigos — armazena chaves e executa funções criptográficas. Embora seja possível instalar o Windows 11 sem ele, isso pode limitar ou impedir a instalação de atualizações importantes, e a Microsoft se reserva o direito de bloqueá-las a qualquer momento nessas máquinas. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
