@@ -1,0 +1,53 @@
+{
+    "title": "Busca do Google vai mudar / Novo console da Steam / OpenAI muda conceito de AGI",
+    "fps": 30,
+    "timestamp": 1733755035,
+    "width": 0,
+    "height": 0,
+    "date": "09/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO do Google afirma que seu mecanismo de busca mudará “profundamente” em 2025: segundo Sundar Pichai, o sistema será capaz de lidar com “questões mais complexas” e trará recursos inéditos que surpreenderão os usuários. Ele também deseja realizar comparações lado a lado com as tecnologias da Microsoft, afirmando que ela utiliza a IA “de outra pessoa”, em referência à parceria com a OpenAI. Detalhes específicos sobre as inovações não foram divulgados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Valve estaria planejando ecossistema de hardware para competir com Xbox, PlayStation e Meta: os projetos incluem um headset VR sem fio, de codinome “Deckard”; controles de movimento conhecidos como “Roy”; uma segunda geração do Steam Controller, chamado de “Ibex”; e um console de mesa, apelidado de “Fremont”. Além disso, a empresa estaria considerando a possibilidade de permitir que parceiros desenvolvam hardware de terceiros para o SteamOS. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI minimiza expectativas sobre chegada da inteligência artificial geral (AGI): para Sam Altman, a tecnologia acontecerá mais cedo do que o previsto e seu impacto será menos transformador para a sociedade do que se imagina. O que era considerado anteriormente como AGI, agora é classificado como “superinteligência”, que virá gradualmente nos próximos anos. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "Grok, chatbot de Elon Musk, é liberado de forma gratuita no X: usuários podem enviar até 10 mensagens a cada duas horas. Essa decisão pode fortalecer a posição do modelo no mercado, colocando-o em competição com outras tecnologias que também não cobram por acesso, como ChatGPT, Gemini e Copilot. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Android permitirá que aplicativos verifiquem se dispositivos estão com atualizações de segurança em dia: a API Play Integrity dirá ao desenvolvedor se o aparelho não recebeu um patch do sistema operacional por mais de um ano, sendo especialmente útil para apps bancários, governamentais e corporativos, que poderão limitar o acesso a funcionalidades relacionadas a dados pessoais importantes. O recurso já está sendo distribuído e deve ser disponibilizado em todos os dispositivos com Android 13 ou superior até maio de 2025. As informações são dos sites Android Police e Android Developers Blog.",
+            "url": ""
+        },
+        {
+            "text": "Justiça Federal suspende decisão do Cade que obrigava Apple a permitir meios de pagamento de terceiros no iOS: o órgão considera a medida “desproporcional” e “desnecessária”, destacando que as mudanças exigidas impactariam de maneira “sensível e estrutural” a organização dos negócios da companhia. Além disso, a ausência de concorrência no ecossistema não justificaria a urgência da implementação das alterações. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Meta investirá 10 bilhões de dólares na construção do seu maior data center de hiperescala: a estrutura será projetada para atender às demandas crescentes relacionadas à IA. A empresa também está explorando o uso de energia nuclear para atender às metas ambientais, com planos de aumentar entre 1 e 4 gigawatts a capacidade de geração a partir do início da década de 2030, época na qual o data center deve estar pronto, com as obras tendo início neste mês. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Copilot ganha recurso para “enxergar” páginas da web: o Vision, integrado ao navegador Edge, permite que o usuário interaja com o modelo a partir de perguntas sobre textos, imagens ou produtos exibidos na tela. A empresa garante que os dados não são utilizados para treinamento, e que, inicialmente, a funcionalidade estará restrita para sites específicos. O recurso, ainda em fase beta, está disponível apenas para alguns assinantes do Copilot Pro nos EUA. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de sexta-feira (06/dez), noticiamos que entidades que descumprissem as regras do PL 2.338/2023, que busca regulamentar o uso da IA no Brasil, pagariam até 50 bilhões de reais em multas. Contudo, o valor correto é de 50 milhões. Agradecemos à leitora Dora pelo aviso.",
+            "url": ""
+        }
+    ]
+}
