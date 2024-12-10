@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI lança Sora / Discordância sobre AGI / Chip quântico do Google",
+    "fps": 30,
+    "timestamp": 1733841445,
+    "width": 0,
+    "height": 0,
+    "date": "10/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança Sora, IA geradora de vídeos: o modelo está disponível para assinantes do ChatGPT, incluindo o Brasil. A assinatura Plus permite resoluções de até 720p e duração de 5 segundos, enquanto a Pro oferece 1080p e 20 segundos. Todo conteúdo produzido terá uma marca d’água visível e metadados para indicar que foi gerado por IA. Antes de enviar imagens ou vídeos para a plataforma, usuários devem concordar com termos que proíbem conteúdos explícitos, protegidos por direitos autorais ou que incluam menores de 18 anos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CEO da divisão de IA da Microsoft discorda de Sam Altman sobre inteligência artificial geral (AGI): para Mustafa Suleyman, é inviável alcançar essa tecnologia com o hardware disponível atualmente — em contraste com a afirmação de Altman — e que esse objetivo pode levar até dez anos para se concretizar. Suleyman também acredita que é possível desenvolver sistemas que aprendam a operar bem em uma ampla gama de cenários, mas isso não implica necessariamente alcançar a AGI. Ele enfatiza que sua prioridade, no momento, é criar modelos úteis para a humanidade. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Chip quântico do Google realiza em 5 minutos tarefa que levaria 10 septilhões de anos para um supercomputador: o Willow, com 105 qubits, destaca-se por sua capacidade de mitigar erros quânticos, um dos principais desafios dessa área. O resultado é fruto do benchmark RCS, ao qual o componente foi submetido, e que avalia o desempenho em comparação com máquinas tradicionais. Apesar do avanço, a empresa reconhece que o desempenho obtido no teste, embora expressivo, não tem aplicação direta no mundo real. As informações são dos sites Ars Technica e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry lança Pi 500 e monitor dedicado: o dispositivo é um computador integrado em um teclado e, assim como seu antecessor, permite conectar uma tela e um mouse. Ele conta com um processador Arm quad-core de 64 bits, com 8 GB de RAM, e acompanha um cartão SD de 32 GB pré-carregado com o Raspberry Pi OS. O Pi 500 está disponível por 90 dólares. Já o Raspberry Monitor, de 15,6 polegadas e resolução de 1080p, pode ser adquirido por 100 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Instagram restringe acesso de aplicativos de terceiros à sua antiga API: a mudança na “Instagram Basic Display API” afeta apps populares como Tinder, Hinge, Day One, Spotlight e SnapWidget, pois perdem a capacidade de importar o perfil e as publicações dos usuários. Desenvolvedores são orientados a migrar para a “Instagram API” para manter a funcionalidade de seus serviços. No entanto, apenas contas comerciais da plataforma poderão ser consultadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Reddit anuncia ferramenta de busca baseada em IA: o “Answers” responde às consultas com resumos e links diretos para as fontes, eliminando a necessidade de recorrer ao Google. Inicialmente, o recurso será disponibilizado para um “número limitado de usuários” nos EUA, exclusivamente em inglês, via web e iOS, com uma versão para Android em desenvolvimento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Criador de Doom e Wolfenstein prevê futuro onde GPUs funcionam de forma independente de PCs: John Carmack sugere a possibilidade de conectar uma placa de vídeo diretamente a um monitor e uma fonte de energia, sem a necessidade de um processador. Ela também poderia contar com uma distribuição Linux, oferecer alguns aplicativos e utilitários, e suportar um teclado por meio de uma conexão DisplayPort, eliminando a dependência de portas USB. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
