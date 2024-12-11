@@ -1,0 +1,45 @@
+{
+    "title": "Firefox remove “Não rastrear” / OpenAI libera Canvas / Rótulo em redes sociais",
+    "fps": 30,
+    "timestamp": 1733927807,
+    "width": 0,
+    "height": 0,
+    "date": "11/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Firefox remove opção de “Não Rastrear”: a funcionalidade envia um cabeçalho HTTP específico aos sites, visando impedir que usuários sejam rastreados durante a navegação. A Mozilla afirma que muitas páginas não respeitam essa configuração, e recomenda que, como alternativa, seja utilizada a já existente “dizer aos sites para não vender nem compartilhar meus dados”. A mudança entrará em vigor a partir da versão 135 do Firefox. As informações são do site WindowsReport.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza Canvas para todos usuários do ChatGPT: o recurso está acessível na versão web, e foi integrado nativamente ao GPT-4o. A interface exibe uma janela de chat à esquerda e uma aba à direita com os projetos em andamento. Ela também permite a execução direta de código Python, possibilitando realizar tarefas de depuração. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia pode tornar-se primeiro estado do mundo a exigir rótulos de advertência em redes sociais: o projeto de lei visa alertar sobre os riscos potenciais dessas plataformas para crianças e adolescentes. Caso aprovado, as empresas serão obrigadas a exibir um “aviso em caixa preta” durante os primeiros 90 segundos de uso inicial para qualquer usuário, independentemente da idade, devendo ser reapresentado pelo menos uma vez por semana. O procurador-geral da Califórnia critica essas companhias por promoverem “recursos viciantes” e conteúdo prejudicial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft adotará data centers com resfriamento sem reposição contínua de água: o design utiliza um sistema de “circuito fechado” que recicla o líquido inicialmente adicionado durante a construção. Segundo a empresa, isso evitará o consumo de mais de 125 milhões de litros de água por ano em cada instalação. A previsão é que as estruturas adotem essa solução a partir de 2026. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Instagram permitirá que criadores publiquem Reels de teste: esse conteúdo não será exibido para os seguidores, e fornecerá dados de engajamento após cerca de 24 horas. Ele aparecerá ao lado dos rascunhos, e ficará oculto na grade principal e na aba de Reels. Usuários poderão configurar o compartilhamento automático com seguidores nas primeiras 72h, com base nas visualizações. O recurso estará disponível globalmente nas próximas semanas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Grok, chatbot de Elon Musk, recebe novo modelo de geração de imagens: o Aurora foi treinado com bilhões de exemplos retirados da internet, sendo destacado por sua capacidade de “renderização fotorrealística” e pela precisão em seguir instruções baseadas em texto. A xAI, empresa responsável, enfatiza que sua tecnologia supera limitações comuns de outros sistemas semelhantes. O modelo será lançado globalmente no período de uma semana. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube testa jogos multiplayer em sua plataforma “Playables”: a funcionalidade permite que usuários participem de partidas em tempo real com outras pessoas em títulos selecionados. Os primeiros a oferecer suporte ao modo multijogador são Ludo Club e Magic Tiles 3. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
