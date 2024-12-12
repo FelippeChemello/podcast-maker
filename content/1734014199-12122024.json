@@ -1,0 +1,45 @@
+{
+    "title": "Gemini 2.0 + novidades / Starlink para celulares / Armazenamento em diamante",
+    "fps": 30,
+    "timestamp": 1734014199,
+    "width": 0,
+    "height": 0,
+    "date": "12/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google apresenta Gemini 2.0 e outras novidades: a versão “Flash” do modelo superou o “1.5 Pro” em benchmarks de tarefas gerais, codificação e matemática, e já está disponível para todos os usuários da versão web; o Deep Research, disponível na assinatura “Advanced”, utiliza raciocínio avançado para atuar como um assistente de pesquisa, explorando tópicos complexos e compilando relatórios detalhados; O Project Astra agora suporta idiomas mistos, compreensão aprimorada de sotaques e palavras incomuns, e possui latência próxima a de uma conversa humana; o Project Mariner é um protótipo que compreende informações na tela do navegador, como texto, código e imagens, e pede confirmação antes de realizar ações sensíveis, como compras; o Jules é um agente experimental que se integra ao fluxo de trabalho do GitHub, sendo capaz de criar planos detalhados para corrigir bugs, modificar arquivos e abrir Pull Requests automaticamente. Desenvolvedores poderão testá-lo em 2025, com suporte inicial para Python e JavaScript. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX lança primeiros satélites da Starlink para comunicação direta com celulares: a iniciativa possibilita que assinantes em qualquer lugar do planeta tenham acesso a serviços de SMS, com suporte a voz, dados e dispositivos IoT previsto para 2025. Os satélites utilizam protocolos LTE/4G, compatíveis com a maioria dos telefones. Por ora, a largura de banda está limitada a cerca de 10 Mb. O custo do serviço ainda não foi divulgado. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Diamantes podem armazenar dados por milhões de anos: segundo pesquisadores chineses, a técnica envolve o uso de lasers ultrarrápidos para deslocar átomos de carbono e criar espaços precisos dentro da estrutura cristalina do diamante. Em testes, a taxa de leitura rápida do armazenamento demonstrou uma fidelidade superior a 99%. Por outro lado, a produção em massa é inviável, devido à escassez do material e aos altos custos dos equipamentos necessários. As informações são do site ReadWrite.",
+            "url": ""
+        },
+        {
+            "text": "Devin, primeiro engenheiro de software de IA, é disponibilizado ao público geral: o modelo está disponível por meio de uma assinatura mensal de 500 dólares, direcionada a equipes de desenvolvedores, a qual inclui acesso ilimitado, integração com o Slack, e ferramentas como IDE e API. A Cognition, empresa responsável, destaca que a tecnologia pode ser aplicada em diversas áreas, e recomenda seu uso para resolver bugs de frontend e realizar refatorações de código. O Devin também interage de forma automática em comentários de Pull Requests no GitHub. As informações são do blog da Cognition.",
+            "url": ""
+        },
+        {
+            "text": "65% dos funcionários ignoram políticas de segurança cibernética em prol da eficiência: segundo um estudo com cerca de 14 mil trabalhadores de diversos países, muitos deles consideram os protocolos incômodos e uma barreira à produtividade, como a exigência de senhas complexas, logins frequentes e autenticação multifator. Como resultado, muitos reutilizam e compartilham credenciais, por exemplo. Recomenda-se que empresas invistam em treinamentos para conscientizar os colaboradores sobre a importância da segurança digital. As informações são da Forbes e do site Help Net Security.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros desenvolvem conjunto massivo de dados para design aerodinâmico de carros: o DrivAerNet++, de código aberto, reúne mais de 8 mil modelos de veículos em formato 3D, baseados nos tipos mais comuns atualmente, e inclui simulações que mostram como o ar flui ao redor dos automóveis. A expectativa é que ele treine sistemas de IA para gerar designs inéditos, levando a avanços como carros a gasolina mais econômicos e elétricos com maior autonomia. Ao todo, o conjunto possui 39 terabytes de dados. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "Empresa que desenvolve robô para crianças autistas declara falência: como consequência, o Moxie, vendido por 799 dólares, deixará de funcionar em “poucos dias”. Ele possui um design amigável para o público infantil, e utiliza modelos de linguagem na nuvem para conversar. A empresa não oferecerá reembolsos, reparos ou suporte, e disponibilizou orientações para ajudar pais e cuidadores a explicarem a situação às crianças, adaptando a conversa conforme a idade. As informações são do site Aftermath.",
+            "url": ""
+        }
+    ]
+}
