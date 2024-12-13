@@ -1,0 +1,45 @@
+{
+    "title": "Go ultrapassa Node.js / WordPress: “danos irreparáveis” / YouTube expande dublagem",
+    "fps": 30,
+    "timestamp": 1734100549,
+    "width": 0,
+    "height": 0,
+    "date": "13/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Go ultrapassa Node.js como principal linguagem para clientes de APIs: segundo o relatório “Radar Year in Review” da Cloudflare, que compila dados de diversas fontes relacionadas ao uso de seus serviços, a tecnologia representa 11,8% na construção dessas bibliotecas, seguida pelo Node.js (10%) e Python (9,6%). Em 2023, o terceiro lugar era ocupado pelo Java, com 7%. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Automattic, controladora do WordPress, é ordenada a restaurar acesso da WP Engine: a juíza responsável destaca que as ações da Automattic e de seu CEO Matt Mullenweg prejudicam as relações comerciais da WP Engine — que sofreria “danos irreparáveis” sem a liminar — e impactam negativamente os membros da comunidade. A companhia também terá que suspender uma lista na internet que rastreia clientes da WP Engine, e um checkbox que solicita aos usuários do WordPress confirmarem que não são afiliados à empresa durante o login. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "YouTube expande dublagem automática para conteúdos educativos: o recurso foi lançado no ano passado, mas estava sendo testado em um número limitado de canais. Para utilizá-lo, os criadores precisam apenas carregar um vídeo normalmente, e o sistema, baseado no Gemini, irá detectar automaticamente o idioma original, gerando versões traduzidas para outras línguas, incluindo inglês, alemão, espanhol e português. O YouTube alerta que a funcionalidade ainda está em estágio de desenvolvimento e pode apresentar inconsistências. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple integra ChatGPT à Siri e outras novidades no iOS 18.2: a assistente poderá solicitar ao chatbot que forneça respostas para perguntas que ela não consegue processar. O recurso não exigirá login e a OpenAI não armazenará as conversas. Outros anúncios incluem o Image Playground (aplicativo dedicado para criação de imagens com IA), o Genmoji (criação de emojis personalizados) e o lançamento da Visual Intelligence para obter informações sobre o que está sendo exibido na câmera do dispositivo (limitado à linha iPhone 16). Apesar de ser possível interagir com o ChatGPT em português, todas as suas respostas são limitadas ao inglês. As informações são do site Blog do iPhone.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI adiciona recurso de visão ao modo de voz avançado do ChatGPT: a funcionalidade permite que os usuários apontem a câmera do celular para objetos e recebam respostas quase em tempo real do modelo. Além disso, o sistema é capaz de interpretar o conteúdo exibido na tela do dispositivo, incluindo explicação de menus de configurações ou resolução de problemas matemáticos. O recurso está disponível para assinaturas Plus, Team e Pro. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Skype encerra venda de créditos e números de telefone: a plataforma focará agora em assinaturas, que permitem chamadas para celulares e linhas fixas em diferentes países. No Brasil, os planos vão até cerca de 30 reais por mês. Os números já adquiridos continuarão funcionando, e os créditos existentes poderão ser usados normalmente até acabarem. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Universidade de Harvard anuncia conjunto público de dados para treinamento de IA: o aglomerado, criado pela Institutional Data Initiative, reúne quase um milhão de livros digitalizados pelo Google Books, abrangendo uma ampla variedade de gêneros, idiomas e épocas. O objetivo é oferecer conteúdo cuidadosamente revisado e de qualidade para pesquisadores individuais e novos participantes da indústria, que até então era restrito a grandes empresas de tecnologia. As informações são do site Candid Technology.",
+            "url": ""
+        }
+    ]
+}
