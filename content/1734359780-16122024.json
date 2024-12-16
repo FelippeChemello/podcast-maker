@@ -1,0 +1,45 @@
+{
+    "title": "WordPress: roubo de credenciais / ChatGPT e JS em 1º / WhatsApp melhora chamadas",
+    "fps": 30,
+    "timestamp": 1734359780,
+    "width": 0,
+    "height": 0,
+    "date": "16/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Campanha maliciosa expõe mais de 390 mil credenciais do WordPress: atribuída ao agente de ameaças “MUT-1244” e com duração de um ano, ela foi direcionada a hackers e pesquisadores de segurança. A invasão foi conduzida por meio de repositórios GitHub trojanizados, como o “/hpc20235/yawpp”, que continha código malicioso na dependência “@0xengine/xmlrpc”. A biblioteca já foi removida do NPM. Além das credenciais, foram exfiltradas chaves privadas SSH e de acesso da AWS de centenas de vítimas. As informações são dos sites BleepingComputer e The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT e JavaScript são ferramentas mais populares entre desenvolvedores: segundo uma pesquisa global realizada pela JetBrains com mais de 23 mil indivíduos, o modelo lidera o ranking das IAs, sendo utilizado regularmente por 49% dos participantes, seguido pelo Copilot (26%) e Gemini (7%). Já o JS ocupa o primeiro lugar em linguagens, adotado por 61% dos profissionais, seguido por Python (57%) e HTML/CSS (51%). As informações são do site da JetBrains.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp anuncia novidades para chamadas: ao iniciar uma ligação em grupo, os usuários poderão selecionar participantes específicos, evitando envolver todos os integrantes. No aplicativo para desktop, será possível criar um link para a ligação e enviá-lo a outras pessoas. A qualidade dos vídeos em chamadas também foi melhorada, oferecendo imagens mais nítidas. As informações são do blog do WhatsApp.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia sistema operacional para óculos inteligentes e headsets VR: o Android XR é projetado especificamente para dispositivos de “realidade estendida”. Ele permitirá uma experiência imersiva em aplicativos como Maps, Fotos, YouTube e Chrome, e será compatível com programas já existentes da Play Store. Além disso, a integração com o Gemini permitirá realizar capturas de áudio e vídeo em tempo real nos aparelhos. O primeiro protótipo a usar o sistema é um headset de codinome “Project Moohan” da Samsung, previsto para 2025. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CharacterAI implementa mudanças para maior segurança de menores: entre as medidas está um modelo de linguagem totalmente voltado para jovens, que bloqueia conteúdo sensível nas respostas e impede que comandos inapropriados sejam enviados. Bots que se apresentam como “terapeutas” ou “médicos” exibirão um aviso de que são incapazes de oferecer aconselhamento profissional. E o controle parental, previsto para o primeiro trimestre de 2025, permitirá que pais e responsáveis monitorem o tempo de uso e identifiquem os personagens frequentemente acessados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "LG anuncia fim da produção de leitores Blu-ray: a decisão afeta os modelos UBK80 e UBK90, lançados em 2018 e comercializados no Brasil. Os produtos estarão à venda apenas enquanto durarem os estoques. A decisão reflete uma tendência crescente entre os consumidores, que têm priorizado mídias digitais. Até o momento, a Panasonic é a única empresa a continuar fabricando leitores Blu-ray. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia Phi-4 para competir com GPT-4o mini e Gemini 2.0 Flash: com 14 bilhões de parâmetros, o modelo promete desempenho superior em diversas áreas, particularmente na resolução de problemas matemáticos. A empresa atribui esse avanço em parte ao uso de “conjuntos de dados sintéticos de alta qualidade” no treinamento. O Phi-4 está disponível em acesso limitado na plataforma Azure AI Foundry, sendo restrito a fins de pesquisa. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
