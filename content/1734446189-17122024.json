@@ -1,0 +1,45 @@
+{
+    "title": "Grande mudança em IAs / Precisão em emergências / Novo padrão HDMI",
+    "fps": 30,
+    "timestamp": 1734446189,
+    "width": 0,
+    "height": 0,
+    "date": "17/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cofundador da OpenAI prevê grandes mudanças em como IAs são criadas: Ilya Sutskever, que também é ex-cientista-chefe da empresa, afirma que a atual forma de desenvolvimento dos modelos enfrenta limitações devido à escassez de dados disponíveis para treinamento, o que forçará a indústria a adotar novas abordagens. Como consequência, sistemas futuros serão mais avançados, com habilidades como raciocínio em tempo real, maior autonomia na tomada de decisões, e resolução de problemas “passo a passo”. As informações são do site Exame.",
+            "url": ""
+        },
+        {
+            "text": "Anatel lança ferramenta de localização mais precisa para situações de emergência: o Advanced Mobile Location, desenvolvido em parceria com Apple e Google, utiliza uma combinação de antenas de celular, redes Wi-Fi, GPS e sensores integrados ao smartphone, sendo ativado automaticamente quando o usuário liga para serviços de emergência, como polícia, bombeiros ou serviços médicos. O serviço é compatível com Android 5.0 ou superior, e iOS 18.2 ou mais recente, e não é necessário instalar um aplicativo adicional. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Novo padrão HDMI será revelado no próximo mês: a tecnologia, supostamente chamada de “HDMI 2.2”, permitirá resoluções mais altas, taxas de atualização superiores e uma qualidade de transmissão aprimorada. Especula-se que ela suportará até 10K a uma frequência superior a 120 Hz, em comparação com os 8K e 60 Hz do modelo atual, e poderá ser compatível com as futuras GPUs RTX 50 da Nvidia e Radeon RX 8000 da AMD. O novo padrão será apresentado em 6 de janeiro no evento CES. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "TikTok, Uber, Telegram e outras 17 empresas serão investigadas pela Autoridade Nacional de Proteção de Dados: segundo a agência, as organizações não indicaram um encarregado pelo tratamento de dados pessoais (Data Protection Officer), conforme o artigo 41 da LGPD, e algumas não oferecem canais de comunicação para usuários acessarem, corrigirem ou excluírem suas informações. Caso não cumpram essas exigências, as companhias estarão sujeitas a multas de até 2% do faturamento anual, com um limite de 50 milhões de reais. Uma lista completa das empresas pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Google afirma que seu chip quântico Willow não representa ameaça à criptografia moderna: segundo a empresa, apesar do componente superar o supercomputador mais rápido do mundo em testes de amostragem de circuito aleatório, ele possui apenas 105 qubits físicos, e seriam necessários aproximadamente 4 milhões para comprometer sistemas como o RSA, algo que pode levar pelo menos 10 anos para tornar-se viável. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Grok, chatbot do X, fica “três vezes mais rápido” com atualização, segundo xAI: a versão mais recente apresenta melhorias em precisão, capacidade de seguir instruções e suporte a múltiplos idiomas. Além disso, um novo “botão do Grok” foi adicionado às postagens, permitindo aos usuários acessar contexto relevante, compreender eventos em tempo real e explorar discussões sobre tendências de maneira mais aprofundada. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza ChatGPT Search para todos os usuários: o recurso permite ao modelo realizar buscas automáticas na web — ou de forma manual, clicando no ícone correspondente próximo ao campo de texto — oferecendo respostas resumidas com base em fontes online, inclusive com imagens e vídeos do YouTube. A OpenAI destaca que a ferramenta foi otimizada para maior desempenho, e também está sendo integrada ao modo de voz avançado do ChatGPT. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
