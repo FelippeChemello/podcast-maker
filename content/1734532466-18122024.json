@@ -1,0 +1,45 @@
+{
+    "title": "PCs com Snapdragon fracassam / ANPD notifica X / IA não é popular no celular",
+    "fps": 30,
+    "timestamp": 1734532466,
+    "width": 0,
+    "height": 0,
+    "date": "18/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "PCs com Snapdragon X registram apenas 0,8% em vendas no 3º trimestre de 2024, segundo relatório: na prática, para cada 125 notebooks vendidos, apenas um conta com o chip da Qualcomm. De forma geral, o mercado de PCs com IA registrou um crescimento de 49% nesse período, liderado pela Microsoft com uma parcela de 53% desse segmento. Contudo, as máquinas com Snapdragon X atingiram menos de 1,5% de participação. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados determina que X suspenda treinamento de IA com dados de menores de 18 anos: a companhia tem um prazo de cinco dias para cumprir a determinação — a partir desta segunda-feira — e também deverá incluir em sua Política de Privacidade o “não tratamento” dessas informações. Além disso, a ANPD exige que a plataforma remova a expressão “para qualquer finalidade” nos Termos de Uso, que pode ser interpretada como uma autorização genérica para o tratamento de dados pessoais, contrariando o princípio da especificidade. As informações são do site GovBR.",
+            "url": ""
+        },
+        {
+            "text": "Proprietários de iPhone e Samsung não enxergam valor em ferramentas de IA: segundo uma pesquisa com mais de 2 mil usuários de smartphones, 73% dos que utilizam iPhone e 87% daqueles que usam dispositivos da Samsung acreditam que esses recursos agregam “pouco” ou “nada” à experiência com o celular. Acredita-se que essa perspectiva mude com o lançamento do iOS 18.2, que inclui recursos como integração com o ChatGPT e emojis personalizados. As informações são dos sites 9to5Mac e SellCell.",
+            "url": ""
+        },
+        {
+            "text": "YouTube permitirá que criadores decidam se conteúdo pode ser utilizado no treinamento de modelos de terceiros: a nova configuração, que estará presente no Studio, incluirá uma lista com 18 companhias que poderão ser selecionadas individualmente, como OpenAI, Anthropic, Apple, Meta e Microsoft. Por padrão, todas as opções estarão desmarcadas. Apesar disso, o Google esclarece que continuará treinando seus próprios modelos em determinados conteúdos da plataforma, conforme os acordos existentes com os criadores. O recurso estará disponível nos próximos dias. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem antena que muda de forma para atender diferentes necessidades: o dispositivo utiliza uma espiral dupla construída com uma liga de níquel e titânio, capaz de alterar sua geometria quando aquecida ou resfriada. Em testes, o formato plano apresentou melhor desempenho em frequências baixas, enquanto o cônico foi melhor para faixas mais altas — a variação foi de 4 a 11 gigahertz. A antena poderia ser utilizada na conexão 6G, por exemplo, que demanda aparelhos capazes de operar em múltiplas bandas. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind anuncia modelo de vídeo para competir com Sora da OpenAI: o Veo 2 promete gerar conteúdo com mais de 2 minutos de duração e resolução 4K quando for lançado oficialmente. Por ora, a versão de pré-visualização ainda está limitada a 720p e oito segundos — o Sora suporta 1080p e até 20 segundos. Segundo a companhia, a tecnologia apresenta uma melhor compreensão da física e controle de câmeras em relação ao antecessor, além de oferecer texturas aprimoradas e imagens mais nítidas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia multa Meta em 251 milhões de euros por falha de segurança no Facebook que afetou 29 milhões de usuários em 2018: o montante equivale a mais de 1,5 bilhão de reais. O incidente ocorreu quando agentes mal-intencionados conseguiram utilizar o recurso “Ver como” — que permite visualizar o próprio perfil como se fosse outra pessoa — para roubar tokens de acesso e assumir controle total das contas. Três milhões dos usuários afetados eram da União Europeia. Em resposta, a Meta declara que, na época, tomou medidas imediatas para corrigir o problema, notificando proativamente os afetados e o órgão regulador. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
