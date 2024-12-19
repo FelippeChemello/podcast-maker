@@ -1,0 +1,45 @@
+{
+    "title": "Presencial afasta seniores / ChatGPT no WhatsApp / GitHub Copilot gratuito",
+    "fps": 30,
+    "timestamp": 1734618852,
+    "width": 0,
+    "height": 0,
+    "date": "19/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresas que exigem retorno ao escritório aumentam saída de funcionários qualificados e experientes: segundo um estudo que analisou o LinkedIn de mais de 3 milhões de trabalhadores, divididos em 54 companhias dos setores de “alta tecnologia e financeiro”, a taxa média de rotatividade dos colaboradores cresceu 14% após as organizações começarem a impor o modelo presencial, especialmente entre seniores. Além disso, essa decisão prejudica a atração de novos talentos, com o tempo para preencher vagas aumentando em 23%, e as contratações diminuindo em 17%. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza ChatGPT no WhatsApp: há suporte apenas para mensagens de texto no Brasil no momento. Não há necessidade de login para acesso, mas há um limite de uso (ainda não divulgado). A OpenAI afirma que está desenvolvendo novos recursos para a integração, como análise de imagens e pesquisa na web. Para utilizar o recurso, é preciso adicionar um número específico aos contatos (esse número pode ser conferido no site do TabNews).",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia versão gratuita do Copilot: o plano oferece 2.000 sugestões de código por mês, independentemente de serem aceitas ou não, e acesso aos modelos Claude 3.5 Sonnet e GPT-4o. Segundo o CEO Thomas Dohmke, a iniciativa busca expandir o acesso ao desenvolvimento de software em todo o mundo, especialmente em países onde o custo de 10 dólares mensais representa uma parcela significativa da renda média. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tráfego global da internet cresceu 17,2% em 2024, segundo Cloudflare: o relatório, baseado em dados dos serviços administrados pela empresa, também destaca que os EUA foram responsáveis por 34,6% do fluxo de bots, proveniente de empresas como AWS (12,7%) e Google (7,8%); a navegação em dispositivos móveis representou cerca de 41,3% do total; o Chrome foi o navegador mais popular, respondendo por 65,8% das solicitações, seguido pelo Safari (15,5%), Edge (6,9%) e Firefox (4%); o Google liderou em motores de busca com 88%, e o Bing registrou 2,6%. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia exigirá impressão digital de motoristas do Uber para transportar adolescentes: o objetivo é identificar históricos criminais ou prisões que desqualificariam o condutor. Em resposta, a empresa defende seu próprio sistema de triagem, baseado em nomes e realizado pela Checkr, e afirma que apenas os motoristas mais experientes e bem avaliados são designados para viagens com menores. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Austrália determina que algoritmos de criptografia sejam substituídos até 2030: a decisão foi motivada pelos avanços da computação quântica e é direcionada a sistemas que lidam com informações sensíveis. Tecnologias afetadas incluem SHA-256, RSA, ECDSA e ECDH, amplamente utilizadas na internet. O prazo é mais curto do que o estipulado por outros países, como o Instituto Nacional de Padrões e Tecnologia dos EUA, que também planeja descontinuar certos padrões até 2030, mas apenas desautorizá-los em 2035. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "YouTube testa funcionalidade para criadores responderem comentários com voz: o botão, com ícone de onda sonora, está disponível para um “pequeno número” de pessoas no aplicativo para iOS, e somente em vídeos do próprio canal daquele usuário. Apesar de a resposta ser em áudio, outros podem interagir com ela como se fosse um texto convencional. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
