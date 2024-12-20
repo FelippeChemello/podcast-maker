@@ -1,0 +1,45 @@
+{
+    "title": "Download de apps diminui / YouTube contra clickbait / IA de raciocínio do Google",
+    "fps": 30,
+    "timestamp": 1734705116,
+    "width": 0,
+    "height": 0,
+    "date": "20/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Taxa de download de aplicativos móveis diminuiu 2,3% em 2024: acredita-se que isso esteja relacionado à estratégia das empresas de oferecer assinaturas contínuas em apps já existentes — as quais representaram 48% da receita no ano passado —, em vez de incentivar o download de novas aplicações. Por outro lado, os gastos globais com aplicativos móveis atingiram 127 bilhões de dólares este ano — um aumento de 15,7% em relação a 2023 —, e o Brasil registrou um crescimento de 73%, destacando-se como o mercado que mais avançou nesse quesito. As informações são dos sites TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube começará a reprimir vídeos com clickbait: a medida será aplicada especialmente para conteúdos que abordem notícias de última hora ou eventos atuais, com foco em títulos e miniaturas enganosos. Inicialmente, a plataforma removerá o clipe sem emitir um strike contra o criador. Os primeiros testes ocorrerão na Índia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind anuncia seu próprio modelo de IA de raciocínio: o “Gemini 2.0 Flash Thinking Experimental” é descrito como capaz de lidar com problemas complexos de programação, matemática e física. Ele adota uma abordagem semelhante ao “o1” da OpenAI, verificando fatos antes de fornecer uma resposta final, reduzindo a incidência de alucinações e erros comuns em sistemas tradicionais. O modelo está disponível em preview na plataforma AI Studio do Google. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Seagate lança HDD de 32 TB com tecnologia proprietária: os novos discos rígidos da série Exos M utilizam a técnica HAMR — gravação magnética assistida por calor —, que aumenta significativamente a densidade de bits por disco, oferecendo maior capacidade de armazenamento. Os componentes com computadores atuais, o que favorece a adoção em massa. Contudo, ainda não há informações sobre preços ou regiões onde o produto estará disponível. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Fundador da iRobot, conhecida pelos aspiradores automáticos Roomba, planeja desenvolver novo tipo de robô doméstico: Colin Angle, que também foi CEO da empresa por 33 anos, anunciou sua startup Familiar Machines &amp; Magic, a qual está desenvolvendo um bot com foco em saúde e bem-estar, e que poderá assumir a forma de um animal de estimação ou um familiar. A equipe também inclui Chris Jones, ex-CTO da iRobot, e Ira Renfrew, que trabalhou no Scout da Amazon. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Carros vendidos nos EUA deverão incluir alertas aprimorados para uso do cinto de segurança: a regulamentação, imposta pela Administração Nacional de Segurança Rodoviária (NHTSA), exige que veículos novos incluam avisos sonoros obrigatórios nos assentos dianteiros e traseiros até 1º de setembro de 2027. Quase metade das 41 mil fatalidades ocorridas nas estradas do país em 2023 são de pessoas que não utilizavam o acessório. A NHTSA prevê que a medida poderá evitar até 500 ferimentos graves ao ano. As informações são do site Car and Driver.",
+            "url": ""
+        },
+        {
+            "text": "ChromeOS introduz formatação que preserva dados e aplicativos: o Safety Reset, disponível a partir da versão M131, oferece uma alternativa menos drástica de restauração comparado ao já disponível Powerwash, sendo recomendado para usuários que estejam enfrentando comportamentos como pop-ups suspeitos ou sinais de infecção por vírus. O recurso pode ser ativado pressionando as teclas CTRL + Shift + Search + R ou na seção “Segurança e Privacidade”. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
