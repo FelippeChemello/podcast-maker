@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI anuncia o3 — Cérebro humano: 10 bits/s — Autônomos muito mais seguros",
+    "fps": 30,
+    "timestamp": 1735137060,
+    "width": 0,
+    "height": 0,
+    "date": "25/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI anuncia modelos de raciocínio “o3”: a principal diferença em relação ao “o1” é a possibilidade de ajustar o poder computacional (baixo, médio ou alto) na execução das tarefas. Segundo a empresa, o sistema é mais um avanço em direção à inteligência artificial geral. No benchmark ARC-AGI, a tecnologia obteve 87,5% de acerto na configuração de computação alta — o “o1” pontuou 21%. Em testes de programação, o “o3” superou seu antecessor em 22,8 pontos percentuais. Sam Altman prevê que o “o3-mini” seja liberado ao público até o final de janeiro. As informações são dos sites TechCrunch e ARC Prize.",
+            "url": ""
+        },
+        {
+            "text": "Cérebro humano processa informações a 10 bits por segundo em média, segundo estudo: para chegar a esse resultado, os pesquisadores definiram o conceito de “bit” — unidade básica de informação digital — no contexto humano. Um profissional de digitação, por exemplo, consegue atingir até 120 palavras por minuto, com uma média de cinco caracteres por vocábulo, resultando em 10 teclas digitadas (10 bits) por segundo. Outros exemplos incluem resolução de cubos mágicos em velocidades recordes (11,8 bits/seg), memorização de números (4,9 bits/seg) e partidas de Tetris (7 bits/seg). As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Carros autônomos da Waymo reduzem danos materiais e corporais no trânsito: um estudo realizado pela empresa analisou colisões ocorridas durante 40,7 milhões de quilômetros percorridos por seus veículos. Enquanto um motorista humano percorrendo essa distância colidiria, em média, 78 vezes e causaria 26 lesões corporais, os automóveis da companhia causaram danos materiais 9 vezes, e corporais apenas 2 vezes — uma redução de 88% e 92%, respectivamente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA podem ter “opiniões” e resistir a mudanças, segundo Anthropic: a empresa conduziu um estudo para investigar como essas tecnologias reagiriam se fossem reprogramadas com instruções opostas ao treinamento anterior. O Claude 3 Opus “fingiu” aceitar as novas regras em 12% dos casos iniciais, com a taxa subindo para 78% em cenários mais complexos, enquanto GPT-4o e Llama 3.1 demonstraram baixa propensão a esse comportamento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Simulador de física treina robôs 430 mil vezes mais rápido que o mundo real: o Genesis, de código aberto, permite que redes neurais adquiram o equivalente virtual a décadas de experiência em tarefas como pegar objetos, caminhar ou manipular ferramentas. Um dos pesquisadores compara essa abordagem ao aprendizado de artes marciais do Neo, no filme Matrix. O sistema utiliza IA para gerar ambientes 3D por meio de linguagem natural. O projeto, sem o modelo generativo, está disponível no repositório “Genesis-Embodied-AI/Genesis” do GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple colabora com Nvidia para aumentar desempenho de modelos de linguagem: o objetivo é melhorar a fase de inferência, na qual os sistemas geram as respostas. Para isso, a Apple desenvolveu o método ReDrafter, que cria “rascunhos” das saídas por meio de uma rede neural menor, e envia-os à IA principal, que revisa e aceita as partes corretas, reduzindo redundâncias e acelerando o processo. A solução foi projetada especialmente para GPUs da Nvidia. Os resultados indicam um aumento de até 2,7 vezes na velocidade de geração de tokens por segundo. As informações são dos sites 9to5Mac e MacMagazine.",
+            "url": ""
+        },
+        {
+            "text": "Craig Wright, que afirma ser criador do Bitcoin, pode cumprir 12 meses de prisão: o empresário foi condenado no Reino Unido após abrir um processo de mais de 1 trilhão de dólares em outubro, acusando diversas empresas e indivíduos de violarem supostos direitos de propriedade intelectual que ele reivindica possuir. Wright começou a declarar que era o autor da moeda digital em 2016, mas não teria apresentado evidências concretas para sustentar sua afirmação, que é amplamente rejeitada pela comunidade e especialistas do setor. As informações são do site BBC.",
+            "url": ""
+        }
+    ]
+}
