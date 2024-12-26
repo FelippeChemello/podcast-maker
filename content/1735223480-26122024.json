@@ -1,0 +1,49 @@
+{
+    "title": "WordPress pausa serviços / GPT-5 atrasado / Microsoft promove passkeys",
+    "fps": 30,
+    "timestamp": 1735223480,
+    "width": 0,
+    "height": 0,
+    "date": "26/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WordPress pausará serviços gratuitos durante festas de fim de ano: segundo o CEO Matt Mullenweg, a medida inclui a criação de novas contas e o envio de novos plugins, temas e fotos. Apesar da interrupção, serviços de localização e o fórum da plataforma continuarão funcionando normalmente. O restante retornará em algum momento no início de 2025. As medidas não se aplicam à WP Engine. As informações são do site WordPress.",
+            "url": ""
+        },
+        {
+            "text": "GPT-5 da OpenAI está com prazo estourado e pode não surpreender, segundo relatório: o modelo, de codinome Orion, estaria em desenvolvimento há 18 meses. A Microsoft esperava uma versão funcional da tecnologia ainda no meio deste ano. Uma das operações de treinamento do sistema teria apresentado desempenho abaixo do esperado. A companhia teria contratado pessoas para gerar novos dados ao desenvolver códigos ou resolver problemas matemáticos, além de utilizar informações sintéticas geradas pelo o1. As informações são dos sites TechCrunch e PYMNTS.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft quer convencer seus usuários a utilizarem chaves de acesso: a empresa defende que as passkeys oferecem um método de login mais seguro e até oito vezes mais rápido, eliminando vulnerabilidades e riscos comuns associados às credenciais tradicionais. No entanto, a companhia alerta que, caso uma conta aceite tanto uma senha quanto uma chave de acesso válida, ela permanece suscetível a ataques de phishing. Dados da FIDO Alliance indicam que a conscientização sobre essa tecnologia cresceu de 39% em 2022 para 57% em 2024. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria desenvolvendo campainha inteligente com Face ID: o dispositivo seria capaz de integrar-se a fechaduras eletrônicas de terceiros já disponíveis no mercado que utilizam o HomeKit. Seu funcionamento incluiria a abertura automática da porta ao reconhecer o rosto dos moradores por meio da câmera, de maneira semelhante ao desbloqueio de um iPhone. As informações biométricas seriam armazenadas no chip Secure Enclave, que processa dados de forma isolada do restante do hardware. O lançamento estaria previsto para o fim de 2025, no mínimo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Intel encerra iniciativa x86S: apresentada em maio de 2023, ela tinha como objetivo simplificar a arquitetura ao remover suporte para sistemas legados. A empresa reconhece que mudanças significativas no conjunto de instruções exigem alinhamento com a AMD e outras companhias do setor. Apesar disso, a Intel continua investindo em outras iniciativas para o futuro do x86, como o Flexible Return and Event Delivery (FRED) e a nova especificação AVX10. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Code Assist do Google ganha integração com ferramentas de terceiros: o serviço, voltado para empresas, utiliza o modelo Gemini para auxiliar no trabalho com grandes blocos de código. Segundo o diretor e o gerente de produtos da empresa, as novas funcionalidades permitem, por exemplo, resumir comentários recentes de problemas registrados no Jira ou identificar a última pessoa que realizou um merge de alterações em um arquivo no git. Entre as ferramentas disponíveis no lançamento para integração estão o GitLab, GitHub e Google Docs. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Xerox anuncia aquisição da Lexmark por 1,5 bilhão de dólares: a compra fortalecerá a posição da Lexmark, formada a partir da IBM em 1991, no segmento de impressão colorida A4, um dos poucos nichos em crescimento no setor, amplamente impactado pela transição para documentos digitais. A Xerox enfrenta queda na receita por cinco trimestres consecutivos devido à redução na demanda por seus produtos e à concorrência com empresas como HP e Canon. A transação está prevista para ser concluída no segundo semestre de 2025. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft adquiriu mais que o dobro de chips Nvidia que qualquer de seus concorrentes em 2024: a empresa comprou 485 mil componentes da linha Hopper este ano — em comparação, a Meta obteve 224 mil. A companhia mais que triplicou seu volume de consumo em relação a 2023, a fim de expandir sua infraestrutura de IA. Além disso, ela está desenvolvendo seus próprios chips personalizados, chamados de Maia, com objetivo de sustentar soluções como o Copilot e reduzir sua dependência de terceiros. As informações são dos sites TechCrunch e Forbes.",
+            "url": ""
+        }
+    ]
+}
