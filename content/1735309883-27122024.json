@@ -1,0 +1,45 @@
+{
+    "title": "1º lucro do Telegram / Videogames aumentam QI / Upload de habilidades no estilo Matrix",
+    "fps": 30,
+    "timestamp": 1735309883,
+    "width": 0,
+    "height": 0,
+    "date": "27/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Telegram atinge lucratividade pela primeira vez na história: a empresa obteve uma receita total superior a 1 bilhão de dólares em 2024, e encerrará o ano com mais de 500 milhões em reservas de caixa. Os principais contribuintes incluem o plano premium, que já acumula 12 milhões de assinantes, e a quitação de uma “parte significativa” da dívida de 2 bilhões de dólares, segundo o CEO Pavel Durov. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Crianças que jogam videogame tem aumento de 2,5 pontos no QI, segundo estudo: o resultado foi medido com base no desempenho em tarefas como compreensão de leitura, processamento visual-espacial e memória, e envolveu mais de 5 mil participantes norte-americanos com idades entre 9 e 10 anos, levando em consideração seus tempos de tela. Assistir TV e utilizar redes sociais não demonstraram efeitos positivos ou negativos. As informações são do site ScienceAlert.",
+            "url": ""
+        },
+        {
+            "text": "No estilo do filme Matrix, pesquisadores demonstram “upload” de habilidade ao cérebro humano: os participantes foram colocados em uma máquina de ressonância magnética funcional, que exibia formas abstratas em uma tela, programadas para oscilar de acordo com seus padrões cerebrais, e receberam a instrução de parar o movimento apenas com a mente. Quando a atividade cerebral correspondia ao padrão, o movimento cessava. Dessa forma, os participantes aprenderam a reconhecer novas categorias visuais sem qualquer consciência prévia. A descoberta pode acelerar o aprendizado em indivíduos com dificuldades cognitivas. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria considerando desenvolver robôs humanoides: a informação foi divulgada por duas fontes com “conhecimento direto” das discussões internas da empresa. Detalhes sobre o projeto, incluindo cronogramas e possíveis aplicações, ainda não foram apresentados. Em maio, a companhia restabeleceu seu grupo de pesquisa em robótica, que havia sido encerrado em 2021, e já realizou investimentos estratégicos em startups do setor, como Figure AI e 1X. Contudo, as fontes ressaltam que robôs são um foco secundário da OpenAI. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia exige que Apple garanta interoperabilidade com terceiros: a medida obriga a empresa a oferecer aos desenvolvedores e empresas compatibilidade gratuita com recursos de hardware e software controlados por seus sistemas operacionais. A decisão surge após conclusões preliminares de uma investigação conduzida sob a Lei dos Mercados Digitais, que suspeita que a companhia esteja limitando a concorrência para favorecer produtos próprios, como AirPods e Apple Watch. Em resposta, a Apple argumenta que isso pode inibir a inovação. As informações são do site Euronews.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA decide que Qualcomm não violou acordos com Arm: um júri do tribunal federal determinou que os chips desenvolvidos com a tecnologia da Nuvia, fundamentais para a entrada da Qualcomm no mercado de computadores pessoais, estão devidamente licenciados e podem continuar sendo comercializados. A juíza responsável pelo caso incentiva ambas as companhias a optarem por mediação para resolver suas divergências, observando que nenhuma das partes alcançaria uma vitória definitiva. A Arm afirma que buscará um novo julgamento. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google estaria utilizando Claude, da Anthropic, para aprimorar Gemini: e-mails internos indicam que contratados da empresa comparam as respostas de ambos os modelos com base em critérios como precisão e verbosidade. Em alguns casos, as saídas do Claude foram elogiadas por priorizarem configurações mais rigorosas de segurança, enquanto algumas do Gemini foram consideradas inadequadas. O Google não esclareceu se obteve autorização da Anthropic, enquanto esta não se pronunciou sobre o assunto. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
