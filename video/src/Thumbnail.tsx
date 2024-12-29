@@ -93,50 +93,43 @@ export const Thumbnail: React.FC = () => {
                 }}
             >
                 {hasImage ? (
-                    <div
-                        style={{
-                            position: 'absolute',
-                            top: 0,
-                            left: 0,
-                            width: videoConfig.width,
-                            height: videoConfig.height,
-                            display: 'flex',
-                            alignItems: 'center',
-                            justifyContent: 'center',
-                            backgroundImage: `url(${content.thumbnail_image_src})`,
-                            backgroundSize: 'cover',
-                        }}
-                    >
-                        <div 
-                            style={{ 
-                                backgroundColor: 'rgba(0, 0, 0, 0.5)',
-                                clipPath: 'polygon(0 0, 100% 0, 90% 100%, 10% 100%)',
-                                padding: '0 50px',
-                                width: '90%',
-                                display: 'flex',
-                                justifyContent: 'center',
-                                alignItems: 'center',
+                    <div style={{ position: 'relative', display: 'flex', width: videoConfig.width, height: videoConfig.height }}>
+                        <div style={{ width: '37%', zIndex: 10, backgroundColor: '#0C2D48', clipPath: 'polygon(0% 0%, 100% 0, 80% 100%, 0% 100%)' }} />
+                        <div
+                            style={{
                                 position: 'absolute',
-                                bottom: 20
+                                zIndex: 5,
+                                right: 0,
+                                width: '70%',
+                                height: '100%',
+                                backgroundImage: `url(${content.thumbnail_image_src})`,
+                                backgroundSize: 'cover',
+                                backgroundPosition: 'center'
                             }}
-                        >    
+                        />
+                        <div
+                            style={{
+                                position: 'absolute',
+                                width: '50%',
+                                height: '100%',
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center'
+                            }}
+                        >
                             <h1
                                 style={{
-                                    fontSize: 150,
+                                    fontSize: 180,
                                     lineHeight: '1',
                                     fontFamily: 'ProductSans',
                                     color: '#fff',
-                                    backgroundColor: 'rgba(0, 0, 0, 0.7)',
-                                    textAlign: 'center',
                                     fontWeight: 400,
                                     margin: 0,
-                                    width: '95%',
-                                    padding: '20px 50px',
-                                    clipPath: 'polygon(0 0, 100% 0, 90% 100%, 10% 100%)',
+                                    padding: 20,
+                                    zIndex: 10,
                                 }}
-                            >
-                                {content.thumbnail_text}
-                            </h1>
+                                dangerouslySetInnerHTML={{ __html: content.thumbnail_text! }}
+                            />   
                         </div>
                     </div>
                 ) : (
