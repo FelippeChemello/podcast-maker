@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: falsas estrelas / Preços de RAM vão cair / Valve supera gigantes",
+    "fps": 30,
+    "timestamp": 1735828284,
+    "width": 0,
+    "height": 0,
+    "date": "02/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "3,1 milhões de estrelas falsas no GitHub foram usadas para aumentar popularidade de repositórios maliciosos: pesquisadores utilizaram a ferramenta StarScout para analisar 20 TB de dados do GHArchive, que abriga mais de 6 bilhões de eventos da plataforma desde julho de 2019 até outubro de 2024. Inicialmente, identificaram 4,5 milhões de estrelas suspeitas, atribuídas a 1,3 milhão de usuários em quase 23 mil projetos — para chegar ao resultado final, foram considerados apenas aqueles com picos anômalos em um único mês. O GitHub já removeu os repositórios e contas suspeitos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Preços de memórias RAM devem cair no primeiro trimestre deste ano: segundo projeções, as reduções serão de 8% a 13% para o segmento de PCs, e de 5% a 10% para servidores e VRAM — utilizadas em placas de vídeo. Essa queda foi atribuída ao excesso de oferta combinado com a baixa demanda do consumidor.  As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Valve supera Amazon, Microsoft, Apple e Google em lucro por funcionário: os dados foram compartilhados por um colaborador. Embora os números exatos sejam confidenciais, a empresa aparece em primeiro lugar em uma comparativa com outras grandes organizações. A Meta ocupa a segunda posição, com 780,4 mil dólares por empregado, e a Amazon aparece em último, com uma força de trabalho superior a 1,5 milhão de pessoas e uma receita de 15,9 mil dólares por cada uma — estima-se que a Valve possuía 336 funcionários em 2021. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Google afirma que 2025 será um ano “crítico” para a empresa: Sundar Pichai destaca o aumento da concorrência, obstáculos regulatórios e os rápidos avanços no mercado de IA. Ele aponta como prioridade máxima “construir um grande e novo negócio”, com destaque para o aplicativo Gemini, considerado pelos executivos como o próximo grande produto da empresa com potencial para atingir meio bilhão de usuários — atualmente, a companhia possui 15 aplicativos que alcançaram essa marca. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia fornecerá tecnologia para robôs humanóides: a companhia planeja atuar como uma fornecedora subjacente para “centenas de milhares” de fabricantes do setor no mundo, em vez de competir diretamente com empresas como a Tesla. Para isso, ela fornecerá uma nova geração de computadores compactos, chamada de Jetson Thor, que compõe camadas de software para treinamento e chips de processamento, com lançamento previsto para meados deste ano. As informações são dos sites TechCrunch e Adrenaline.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA poderão influenciar tomadas de decisão na internet, segundo pesquisadores: o estudo destaca o surgimento da chamada “economia da intenção”, na qual esses sistemas compreendem, preveem e manipulam intenções humanas, vendendo essas informações para empresas que buscam monetizá-las. Por exemplo, um modelo poderia oferecer a compra de ingressos para um filme caso identificasse que o usuário está “sobrecarregado” durante a conversa. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI falha em promessa de lançar ferramenta prevista para antes de 2025: em maio, a empresa anunciou o desenvolvimento do Media Manager, que permitiria aos criadores especificar como seus trabalhos seriam utilizados em treinamentos de IA. No entanto, segundo fontes próximas, o projeto nunca foi tratado como prioridade, e desde então, não houve mais declarações públicas sobre a ferramenta. Até o momento, a OpenAI não forneceu uma nova data de lançamento. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
