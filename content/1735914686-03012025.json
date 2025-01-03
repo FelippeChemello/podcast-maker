@@ -1,0 +1,49 @@
+{
+    "title": "Vulnerabilidade em servidores de e-mail / Telegram reforça verificação / Ação contra OpenAI ganha reforço",
+    "fps": 30,
+    "timestamp": 1735914686,
+    "width": 0,
+    "height": 0,
+    "date": "03/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mais de 3 milhões de servidores de e-mail sem criptografia estão vulneráveis a ataques de sniffing: segundo uma empresa de segurança, esses sistemas estão operando serviços POP3/IMAP sem TLS, expondo nomes de usuários e senhas em texto simples durante a transmissão pela internet. Além disso, a falta de proteção permite realização de ataques de força bruta para adivinhação de credenciais. No Brasil, foram identificados 41 mil servidores nessas condições. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Telegram introduz verificação de terceiros para combater golpes e desinformação: o recurso permite que serviços oficiais atribuam ícones para figuras públicas e organizações. Em vez de exibir a marca de seleção azul padrão, essas contas terão um ícone exclusivo à esquerda do nome — como o de uma cenoura, para redes de alimento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "“Padrinho da IA” apoia Elon Musk em ação judicial contra OpenAI: Geoffrey Hinton destaca que a empresa foi originalmente fundada como uma organização sem fins lucrativos e com foco declarado em segurança. Segundo ele, abandonar esses princípios por conveniência envia uma mensagem negativa para o restante do ecossistema. A companhia está avançando com planos para tornar-se uma organização com fins lucrativos neste ano, algo que Musk deseja impedir, acusando-a de desviar-se de sua missão ao firmar parceria com a Microsoft. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Tesla registra primeira queda em entregas em mais de uma década: no total acumulado de 2024, a empresa distribuiu 1,79 milhão de veículos, uma queda de 1,1% em comparação a 2023, e abaixo da previsão de 1,8 milhão. Para alcançar a meta de crescimento de 20% a 30% em 2025, analistas destacam que a companhia precisará oferecer versões mais acessíveis de seus modelos atuais, além de fortalecer as vendas do Cybertruck, que apresenta sinais de fraqueza na demanda. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Chips M5 da Apple podem abandonar memória unificada, segundo analista: esse modelo tem sido um diferencial nos componentes da Apple, sendo um dos principais responsáveis pelo alto desempenho e eficiência energética dos seus dispositivos. Os novos chips devem iniciar a produção neste ano. A mudança para um design separado de CPU e GPU pode também otimizar a inferência de IA. As informações são do site Notebookcheck.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia adquire Run:ai e irá liberá-la como código aberto: embora o valor da compra não tenha sido divulgado, relatórios estimam a transação em 700 milhões de dólares. A ferramenta permite o agendamento remoto de recursos de GPUs Nvidia para aplicações de IA na nuvem. Torná-la open source poderá ampliar sua compatibilidade. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "88,9% dos novos carros vendidos na Noruega em 2024 foram elétricos: isso aproxima o país de sua meta de ter apenas esse tipo de automóvel circulando nas ruas este ano. Em 2023, a proporção era de 82,4%. As marcas mais vendidas, em ordem, são Tesla, Volkswagen e Toyota. Segundo a presidente da associação norueguesa de veículos elétricos, a nação será a primeira do mundo a praticamente eliminar a venda de novos carros com motores a gasolina e diesel. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Comissão de Segurança de Produtos de Consumo dos EUA exige que Apple inclua etiqueta de advertência para crianças em AirTags: o objetivo é atender a Lei de Reese, que exige alertas em produtos com baterias tipo botão ou moeda, devido ao risco de ingestão. Com isso, o compartimento da célula de energia incluirá um “símbolo de aviso”. Além disso, no aplicativo Buscar, a empresa revisou as instruções exibidas ao usuário durante a substituição da bateria. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
