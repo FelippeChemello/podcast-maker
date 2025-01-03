@@ -29,8 +29,6 @@ export const Title: React.FC<{
                     textRef.current.scrollHeight > containerHeight &&
                     currentFontSize > 10
                 ) {
-                    console.log(textRef.current.scrollHeight, containerHeight);
-
                     currentFontSize -= 1;
                     textRef.current.style.fontSize = `${currentFontSize}px`;
                 }

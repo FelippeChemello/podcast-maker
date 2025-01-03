@@ -50,24 +50,6 @@ export const Thumbnail: React.FC = () => {
             if (height < titleDivHeight && width < titleDivWidth) {
                 hasFitText = true;
                 finalTitle = lines.map(line => line.words.join(' '));
-
-                console.log(titleFontSize);
-                console.log(
-                    height,
-                    titleDivHeight,
-                    width,
-                    titleDivWidth,
-                    titleToMeasure,
-                );
-                console.log(lines);
-            } else {
-                console.log(
-                    height,
-                    titleDivHeight,
-                    width,
-                    titleDivWidth,
-                    titleToMeasure,
-                );
             }
         }
 
@@ -114,7 +96,7 @@ export const Thumbnail: React.FC = () => {
                                 height: '100%',
                                 display: 'flex',
                                 alignItems: 'center',
-                                justifyContent: 'center'
+                                justifyContent: 'start'
                             }}
                         >
                             <h1
