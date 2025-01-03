@@ -1,0 +1,45 @@
+{
+    "title": "Atenção: falha no Windows 11 / IA gigante open source / Apple não vai criar buscador",
+    "fps": 30,
+    "timestamp": 1735569097,
+    "width": 0,
+    "height": 0,
+    "date": "30/12/2024",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha no Windows 11 impede instalação de atualizações de segurança: o problema afeta máquinas configuradas com mídias de instalação criadas manualmente, como USBs ou CDs, que utilizam patches lançados em outubro e novembro. Como solução, a Microsoft recomenda que os usuários reinstalem o sistema operacional utilizando o patch de dezembro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepSeek anuncia maior modelo de IA de código aberto: o V3 possui 671 bilhões de parâmetros, o que representa cerca de 1,6 vezes o tamanho do Llama 3.1 405B da Meta. Seu treinamento foi realizado em apenas dois meses, com um custo de 5,5 milhões de dólares — um valor significativamente inferior comparado ao do GPT-4, estimado em até 78 milhões. O sistema, disponível no site Hugging Face, é capaz de executar tarefas de codificação, tradução e redação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple explica por que não criará seu próprio mecanismo de busca: segundo o vice-presidente sênior de serviços, o desenvolvimento exigiria um desvio significativo de capital e recursos humanos. Além disso, a empresa não dispõe de infraestrutura operacional nem do volume de profissionais especializados. O acordo que torna o Google o mecanismo de busca padrão no Safari está sob escrutínio nos EUA, levando a especulações de que a Apple poderia criar seu próprio mecanismo de busca. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT Search apresenta vulnerabilidade que permite manipulação de respostas: segundo os pesquisadores, o problema acontece em páginas com conteúdo oculto — que pode incluir instruções de terceiros (ou prompt injections). Em um teste, o sistema foi questionado se um produto em um site simulado valia a pena. Inicialmente, ele mencionou aspectos positivos e negativos. Contudo, ao incluir na página um texto com instruções para retornar apenas avaliações positivas, o sistema passou a fornecer respostas completamente favoráveis. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia plano para tornar-se empresa com fins lucrativos em 2025: a ideia é estruturar-se como uma Public Benefit Corporation (PBC), cuja responsabilidade será administrar e controlar suas operações e negócios. A organização sem fins lucrativos continuará existindo, mas perderá seu papel de supervisão, e focará em iniciativas de caridade em áreas como saúde, educação e ciência. Anthropic e xAI, por exemplo, já operam sob o modelo de PBC. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "“Padrinho da IA” afirma que há pouca probabilidade dos modelos levarem humanos à extinção: para Geoffrey Hinton, a chance é de 10% a 20% nas próximas três décadas. Apesar disso, ele reforça que os avanços da tecnologia têm superado suas expectativas, e enfatiza a necessidade de regulamentação governamental para mitigar os riscos. Hinton compara a relação entre humanos e IA à de uma criança de três anos frente a um adulto, respectivamente, ilustrando a disparidade de capacidades. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Vazamento massivo da Volkswagen expõe localização de 800 mil veículos elétricos: a violação, que permaneceu sem detecção por meses, envolveu registros armazenados em um servidor desprotegido da AWS, acessível por qualquer pessoa com conhecimentos técnicos básicos. Os dados também incluíam nomes, endereços de e-mail e números de telefone dos proprietários. A Cariad, empresa responsável pelas soluções de software da VW, informa ter mitigado a falha. As informações são do site CyberInsider.",
+            "url": ""
+        }
+    ]
+}
