@@ -1,0 +1,45 @@
+{
+    "title": "Siri ouviu conversas privadas / Perfis de IA no Instagram / Vision Pro interrompido",
+    "fps": 30,
+    "timestamp": 1736174277,
+    "width": 0,
+    "height": 0,
+    "date": "06/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple concorda em pagar 95 milhões de dólares após Siri gravar conversas privadas: o processo destaca ativações “não intencionais” da assistente após a introdução do comando “Hey, Siri”. Os registros teriam sido compartilhados pela empresa com terceiros para anúncios direcionados. Se o acordo for aprovado, a companhia notificará e compensará clientes afetados com até 20 dólares por dispositivo habilitado para Siri adquirido entre 17 de setembro de 2014 e 31 de dezembro de 2024. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta planeja inserir mais perfis de IA no Facebook e Instagram: essas contas incluirão biografia, imagem de exibição e capacidade de postar conteúdos gerados por modelos. A empresa já havia anunciado essa iniciativa em 2023. No entanto, usuários forneceram feedbacks negativos após a introdução da funcionalidade. Consequentemente, a companhia excluiu todos os perfis de IA das plataformas. Os novos bots devem ser incorporados neste ano. As informações são dos sites SocialMediaToday e Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple teria interrompido produção do Vision Pro devido à baixa demanda: segundo um relatório, a empresa tomou a decisão após acumular um grande estoque do dispositivo, suficiente para atender à demanda prevista para 2025. Estima-se que as vendas do aparelho não ultrapassaram 500 mil unidades em 2024. Entre os possíveis fatores estão o preço elevado de 3.499 dólares, quantidade limitada de aplicativos, e relatos de desconfortos após o uso. A Apple não confirmou se novas edições do Vision Pro continuam em desenvolvimento. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Novo tipo de ataque explora cliques duplos para sequestrar contas: o “DoubleClickjacking” consiste em criar uma página com um botão chamativo que, ao ser acionado, exibe um pop-up com captcha que exige um clique duplo, no qual o primeiro fecha a janela sobreposta, e o segundo realiza uma ação num site legítimo (carregado em segundo plano), como autorizar um aplicativo OAuth ou instalar um plugin. O método pode ser usado contra extensões de navegador, carteiras de moedas digitais e dispositivos móveis. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Claude não poderá usar letras de músicas protegidas por direitos autorais, após processo judicial: a Anthropic firmou um acordo com as gravadoras Universal Music Group, Concord Music Group e ABKCO, que haviam acusado a empresa de violar materiais protegidos ao treinar seu modelo com conteúdos de, pelo menos, 500 canções de artistas como Katy Perry, Beyoncé e Rolling Stones. O documento também prevê que as detentoras podem intervir caso as proteções não funcionem conforme o esperado. As informações são do site The Hollywood Reporter.",
+            "url": ""
+        },
+        {
+            "text": "Samsung e Google anunciam tecnologia de código aberto para competir com Dolby Atmos: o Eclipsa Audio oferecerá experiências de som tridimensional em determinados vídeos do YouTube ainda em 2025, e estará disponível em toda a linha de TVs e soundbars da Samsung lançada no mesmo ano. Segundo a empresa, a solução será capaz de ajustar-se conforme a localização e a intensidade da frequência sonora. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft planeja investir 80 bilhões de dólares em data centers no ano fiscal de 2025: as estruturas atenderão às crescentes demandas de processamento dos modelos de IA — a tecnologia foi responsável por 12 pontos percentuais dos 33% da receita da empresa em serviços de nuvem, como o Azure, entre julho e setembro de 2024. Mais da metade do investimento será direcionado aos EUA. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
