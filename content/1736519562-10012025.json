@@ -1,0 +1,45 @@
+{
+    "title": "Perdidos: 8 mil Bitcoins / IA em videogames / Raspberry com muita RAM",
+    "fps": 30,
+    "timestamp": 1736519562,
+    "width": 0,
+    "height": 0,
+    "date": "10/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após uma década de disputa, Tribunal do País de Gales rejeita processo de engenheiro de TI para resgatar 8 mil Bitcoins em aterro sanitário: James Howells descartou acidentalmente o disco rígido em 2013. Atualmente, os ativos estão avaliados entre 700 e 750 milhões de dólares. Na ação, o indivíduo solicitava acesso ao local — com 1,4 milhão de toneladas de resíduos — ou uma compensação de 495 milhões de libras, oferecendo parte das moedas digitais recuperadas ao conselho e à comunidade local. As informações são do site Crypto News.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia apresenta personagens autônomos para jogos multiplayer: o PUBG será o primeiro videogame a receber a funcionalidade. O avatar, que utiliza pequenos modelos de linguagem multimodais, terá capacidade de interagir com jogadores, oferecer recomendações estratégicas em tempo real, buscar e compartilhar equipamentos, dirigir veículos e enfrentar outros oponentes humanos. Além disso, ele conseguirá interpretar sons de passos ou a presença de inimigos. A Nvidia planeja expandir o recurso para outros títulos, como Naraka: Bladepoint, inZOI e MIR5. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Raspberry Pi anuncia Pi 5 com 16 GB de RAM: a empresa destaca que o aumento de desempenho do dispositivo ao longo dos anos possibilitou novos casos de uso, incluindo a execução de LLMs. Sistemas operacionais mais robustos, como o Ubuntu, também se beneficiarão desse avanço. O aumento de memória foi viabilizado pelo processador Broadcom BCM2712. O aparelho já está disponível a partir de 120 dólares. As informações são do site da Raspberry Pi.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores manipulam Chrome Web Store para promover extensões fraudulentas ou de baixa qualidade: segundo um pesquisador de segurança, isso é feito utilizando palavras-chave na descrição do complemento em idiomas menos populares, como Bengali, Armênio e Filipino, que aparecem nos resultados de pesquisa do Google, mas não são visíveis em inglês. Por exemplo, ao buscar por “Norton Password Manager”, é retornada a ferramenta oficial juntamente com outras não relacionadas. Ao todo, foram identificadas 920 extensões suspeitas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple nega que Siri coleta dados de conversas para direcionamento de anúncios: a declaração está relacionada a ação judicial que levou a empresa a concordar com o pagamento de 95 milhões de dólares para resolver um processo envolvendo gravações feitas pela assistente. A companhia afirma que nunca utilizou informações da ferramenta para disponibilizá-las para publicidade ou vendê-las a terceiros. Além disso, ela ressalta que apenas retém conversas caso o usuário permita explicitamente nas configurações, com a única finalidade de melhorar a Siri. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "VLC ultrapassa 6 bilhões de downloads e anuncia ferramenta de legendas automáticas: a funcionalidade utiliza modelos de código aberto que operam localmente no dispositivo do usuário, eliminando a necessidade de conexão com a internet e garantindo maior privacidade. Além disso, o recurso permitirá traduzir as legendas para diversos idiomas. Ainda não há previsão de lançamento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Resumo de notificações da Apple pode reescrever e-mails e mensagens fraudulentas, fazendo-os parecer legítimos: o recurso pode omitir detalhes importantes que ajudariam a identificar golpes. Um caso citado por um usuário envolveu um alerta priorizado sobre uma falsa declaração para o escritório de impostos da Austrália, no valor de 751,23 dólares australianos. A Apple afirma que planeja incluir uma indicação clara de que o texto exibido é um resumo gerado por IA. As informações são do site Crikey.",
+            "url": ""
+        }
+    ]
+}
