@@ -1,0 +1,45 @@
+{
+    "title": "Oracle segura “JavaScript” / ChatGPT em robô sentinela / Disparou: “como excluir Facebook”",
+    "fps": 30,
+    "timestamp": 1736778834,
+    "width": 0,
+    "height": 0,
+    "date": "13/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Oracle recusa-se a ceder voluntariamente sua marca registrada “JavaScript”: a informação foi divulgada pela Deno Land, que em novembro apresentou uma petição ao Escritório de Patentes e Marcas dos EUA para cancelar a propriedade da empresa sobre o registro comercial, alegando que este foi abandonado e que sua liberação permitiria o uso do termo “JavaScript” sem restrições legais. Ryan Dahl, cofundador da Deno Land e criador do NodeJS, espera uma resposta formal da Oracle até 3 de fevereiro. Caso contrário, a disputa judicial pela marca terá início em março. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro desenvolve robô sentinela com ChatGPT e OpenAI revoga seu acesso à API: o indivíduo, conhecido como STS 3D, criou um robô capaz de interpretar comandos para mirar e disparar um rifle com alta velocidade e precisão. A empresa justifica que o projeto viola suas políticas de uso. Apesar de ter autorizado recentemente o uso de sua tecnologia por forças armadas dos EUA, a política da OpenAI não permite aplicações que possam “causar danos a si mesmo ou a outros”. As informações são do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Após fim da checagem de fatos, buscas sobre como excluir Facebook e Instagram disparam 5.000% nos EUA: termos relacionados atingiram o nível máximo de interesse (100/100) no Google Trends no país. Além disso, houve um aumento na pesquisa por alternativas como Bluesky (99/100) e Mastodon. No Brasil também foi detectado um leve crescimento nas buscas de como excluir as contas, mas o interesse nos termos já retornou ao nível padrão. As informações são dos sites TechCrunch e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Automattic, dona do WordPress, reduz em 98,9% sua contribuição ao projeto de código aberto: o tempo investido pela empresa diminuirá de 3.988 para 45 horas semanais, destinadas à segurança e atualizações críticas. A companhia justifica a decisão devido ao gasto de recursos com a disputa legal em andamento com a WP Engine, além de “críticas intensas” de membros da comunidade que pedem o afastamento do CEO Matt Mullenweg e outros líderes do projeto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google firma parceria com Linux Foundation para financiar projetos do Chromium: o fundo “Supporters of Chromium-Based Browsers” é descrito como um espaço “neutro” para apoiar iniciativas relacionadas ao ecossistema, e conta com a participação de empresas como Meta, Microsoft e Opera. O Google também ressalta seus esforços no desenvolvimento do projeto de código aberto, apontando mais de 100 mil commits realizados em 2024. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "59% das empresas globais não planejam reduzir sua força de trabalho devido à IA: uma pesquisa com mais de 1.000 empregadores de 22 setores indica que 77% das companhias planejam aprimorar suas equipes até 2030 para otimizar o uso dessas tecnologias. Além disso, cerca de 70% desejam contratar profissionais especializados na construção de modelos. As informações são da CNN.",
+            "url": ""
+        },
+        {
+            "text": "iPhone apresenta falhas no despertador, segundo relatos de usuários: em um dos casos, uma configuração programada para às 10h30 disparou às 12h42. Outra pessoa afirma que o aparelho “tocou” por 40 minutos sem emitir som ou vibração, enquanto um terceiro relata que o alerta programado para às 7h só funcionou às 17h. Os problemas têm sido registrados nas versões 17 e 18 do iOS. Embora a Apple tenha reconhecido a falha em abril de 2024, não houve novos comentários ou atualizações por parte da empresa desde então. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
