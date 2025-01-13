@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI sabe fazer AGI / Nvidia anuncia RTX 50 / Bing imita Google",
+    "fps": 30,
+    "timestamp": 1736264890,
+    "width": 0,
+    "height": 0,
+    "date": "07/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da OpenAI afirma que empresa já sabe como desenvolver inteligência artificial geral: Sam Altman prevê que agentes de IA, capazes de executar tarefas de forma autônoma, poderão começar a impactar significativamente a produtividade das organizações ainda este ano. Segundo ele, o próximo objetivo da companhia é alcançar uma “superinteligência no verdadeiro sentido da palavra”, com potencial de acelerar descobertas científicas e inovações tecnológicas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia anuncia GPUs da série RTX 50: a nova linha é baseada na arquitetura Blackwell. Todas as placas utilizam o padrão PCIe Gen 5 e suportam conectores DisplayPort 2.1b, permitindo conectar monitores de até 8K a 165 Hz. Outras novidades incluem as tecnologias RTX Neural “Materials” e “Faces”, que utilizam IA para aprimorar texturas e rostos em jogos, e o DLSS 4, capaz de aumentar as taxas de quadros em até 8 vezes. A versão mais robusta, RTX 5090, conta com 32 GB de memória GDDR7 e é duas vezes mais rápida que a 4090, segundo a empresa. Ela estará disponível por 1.999 dólares a partir de 30 de janeiro. Especificações e preços dos outros modelos podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft imita visual do Google no Bing: ao buscar por “Google” sem estar conectado a uma conta da Microsoft, o mecanismo exibe uma interface personalizada com um campo de busca centralizado e uma imagem semelhante ao Doodle. Além disso, um scroll para baixo é realizado automaticamente para ocultar a barra de pesquisa do Bing. Acredita-se que essa estratégia seja direcionada a usuários que configuram novos PCs e realizam buscas pelo Google no navegador Edge, numa tentativa de mantê-los dentro do ecossistema da Microsoft. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm apresenta chip para notebooks e desktops mais acessíveis: o Snapdragon X promete “vários dias” de duração da bateria e desempenho robusto. Ele é equipado com a CPU Oryon, que inclui oito núcleos de até 3 GHz, e uma unidade de processamento neural para acelerar tarefas de IA. Outros recursos incluem compatibilidade com Bluetooth 5.4 e Wi-Fi 7, e capacidade de gerenciar até três monitores 4K externos a 60 Hz. O chip permitirá a comercialização de dispositivos na faixa dos 600 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "HDMI 2.2 é oficialmente anunciado e exigirá cabo “Ultra96”: este será capaz de suportar uma taxa de transferência de 96 Gbps, o dobro da capacidade do 2.1b, o que permitirá resoluções mais altas e taxas de atualização aprimoradas. A nova versão também introduz o “Latency Indication Protocol”, projetado para melhorar a sincronização entre áudio e vídeo. Ainda não há previsão de disponibilidade no mercado, uma vez que fabricantes aguardam o recebimento das especificações completas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Carro autônomo da Waymo circula sem parar ao redor de aeroporto com passageiro a bordo: Mike Johns relata que não conseguiu interromper o trajeto do veículo, mesmo após entrar em contato com o suporte. Além disso, ele afirma que o atendimento demonstrou falta de empatia e gerou dúvidas sobre estar sendo realizado por uma pessoa ou IA. A companhia informa que a falha de software foi corrigida e que o passageiro não foi cobrado pela viagem. As informações são da CBS News.",
+            "url": ""
+        },
+        {
+            "text": "Meta encerra vendas do headset Quest Pro: a decisão ocorre pouco mais de dois meses após a descontinuação do produto — na época, a empresa havia informado que continuaria disponibilizando o aparelho até o final de 2024 ou enquanto os estoques durassem. A página oficial do dispositivo recomenda que usuários adquiram o Quest 3 como alternativa. Os controles Touch Pro, compatíveis com o Quest 2 e 3, continuam sendo comercializados. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}

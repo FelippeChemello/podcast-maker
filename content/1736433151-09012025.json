@@ -1,0 +1,45 @@
+{
+    "title": "Desabou: Stack Overflow / MPF questiona Meta / Nvidia e Lei de Moore",
+    "fps": 30,
+    "timestamp": 1736433151,
+    "width": 0,
+    "height": 0,
+    "date": "09/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Novas perguntas no Stack Overflow desabam em 60%: os dados são do Stack Exchange Data Explorer para o ano de 2024. Um desenvolvedor, que integrou o grupo de 1% dos principais contribuintes do site, sugere que ele tem “menos de um ano de vida”, destacando que as publicações diminuíram cerca de 76% desde o lançamento do ChatGPT. Em paralelo, ele também atribui a situação à cultura da plataforma, relatando que uma de suas contribuições, descrita como uma “pergunta bem formatada”, foi fechada sob a justificativa de ser duplicada e baseada em opinião. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Ministério Público Federal questiona Meta sobre fim da checagem de fatos nos EUA: o órgão busca esclarecimentos sobre as implicações da decisão, especialmente no contexto brasileiro, e se essa mudança estará em conformidade com a legislação nacional. Desde 2019, a empresa é signatária do programa de enfrentamento à desinformação do Tribunal Superior Eleitoral. O MPF concedeu 30 dias úteis, a partir desta quarta-feira, para o escritório da Meta no Brasil se manifestar. As informações são dos sites Tecnoblog e Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Nvidia afirma que seus chips de IA avançam mais rápido que Lei de Moore: Jensen Huang afirma que o mais recente GB200 NVL72 para data centers é até 40 vezes mais rápido do que o H100, amplamente utilizado por empresas do setor, e que esses avanços tornarão mais acessíveis modelos de linguagem de alto desempenho. Ele compara esse progresso à Lei de Moore, que desempenhou um papel fundamental na redução dos custos da computação ao longo da história da tecnologia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "AMD anuncia sua linha mais recente de processadores e placas de vídeo: o Ryzen 9 9950X3D, modelo topo de linha para computadores, é direcionado a “jogadores e criadores” e conta com 16 núcleos baseados na arquitetura Zen 5, atingindo clocks de até 5,7 GHz. Segundo a empresa, ele é em média 8% mais rápido em games que seu antecessor; as GPUs Radeon RX 9070 e 9070 XT são baseadas na arquitetura RDNA 4, oferecendo melhorias em desempenho de Ray Tracing, codificação de mídia e aceleração de IA. Ambos estarão disponíveis no primeiro trimestre de 2025. Outros modelos anunciados e suas especificações podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "CEO do UFC é nomeado para conselho de diretores da Meta: Mark Zuckerberg destaca sua apreciação por Dana White como empreendedor e proprietário de uma marca “altamente admirada”. Além dele, o grupo receberá John Elkann — CEO da Exor — e Charlie Songhurst — ex-executivo da Microsoft. Com isso, o conselho da empresa passa a contar com 13 integrantes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Microsoft reverte modelo de geração de imagens no Bing: o mais recente DALL-E 3 “PR16”, da OpenAI, prometia criar conteúdos “duas vezes mais rápido” e com “maior qualidade”. No entanto, usuários afirmam que as saídas do sistema são menos realistas e “sem vida”, com falta de detalhes e acabamento. Diante disso, a empresa decidiu voltar ao “PR13”, enquanto trabalha em correções. A companhia destaca que o processo de reversão é gradual e deve levar tempo para ser concluído. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA podem aprimorar códigos gerados quando solicitados, segundo experimento: o modelo Claude, da Anthropic, foi encarregado de desenvolver um script Python para calcular a diferença entre dois números, cujos dígitos somam 30, utilizando uma lista de um milhão de inteiros aleatórios entre 1 e 100.000. A solução inicial levou, em média, 657 milissegundos para ser executada num Apple M3 Pro. Ao ser solicitado a melhorar a rotina, o sistema gerou versões otimizadas que foram de 2,7 a 99,7 vezes mais rápidas. No entanto, o cientista responsável destaca que algumas iterações resultaram em um maior número de erros. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}

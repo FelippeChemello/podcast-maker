@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica na Meta / Super PC da Nvidia / Novos chips da Intel",
+    "fps": 30,
+    "timestamp": 1736346765,
+    "width": 0,
+    "height": 0,
+    "date": "08/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta encerra checagem de fatos em suas redes sociais nos EUA: o recurso será substituído por um sistema de Notas da Comunidade, similar ao utilizado no X. Com essa mudança, a responsabilidade pela verificação de informações não ficará mais concentrada em organizações independentes. A empresa justifica que esses especialistas possuem inclinações e perspectivas próprias, e que os esforços para moderar o conteúdo em suas plataformas resultaram em “muitos erros”. Não foi divulgada uma data para a implementação do novo sistema em outros países. As informações são dos sites TechCrunch e CNN.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia anuncia supercomputador para uso pessoal: o Project Digits é voltado para pesquisadores de IA, cientistas de dados e estudantes. Ele é equipado com o superchip GB10 Grace Blackwell, capaz de oferecer até um petaflop de desempenho, 128 GB de memória RAM e até 4 TB de armazenamento flash. Segundo a empresa, uma única unidade do dispositivo pode executar modelos com até 200 bilhões de parâmetros. O aparelho estará disponível a partir de maio por 3.000 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Intel apresenta nova geração de chips Arrow Lake: os processadores Core Ultra 200 integram os modelos H (para notebooks finos e leves), HX (notebooks gamer), V (aplicações comerciais), e S e U (desktops e notebooks compactos). A versão topo de linha, Core Ultra 9 285HX, oferece 24 núcleos e frequência de até 5,5 GHz. Segundo a empresa, a unidade de processamento neural presente no Core Ultra 9 285H possibilita executar o Llama 3, da Meta, três vezes mais rápido que sua geração anterior. Modelos e especificações podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Google está formando equipe para desenvolver IA capaz de simular mundo físico: Tim Brooks, ex-colíder de desenvolvimento do Sora, da OpenAI, liderará o time que, segundo as vagas de emprego divulgadas, colaborará com os grupos responsáveis pelos projetos Gemini, Veo e Genie da empresa. Uma das descrições de cargo destaca que os chamados “modelos de mundo” terão aplicações em diversos domínios, incluindo raciocínio visual e entretenimento interativo em tempo real. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Dell encerra linhas XPS e Inspiron de computadores: a partir de agora, as máquinas comercializadas serão agrupadas sob três marcas principais — Dell (estudos e trabalho), Dell Pro (produtividade de nível profissional) e Dell Pro Max (desempenho máximo). A segunda, de acordo com a empresa, incluirá dispositivos capazes de suportar até três vezes mais ciclos de dobradiça, quedas e impactos em comparação aos concorrentes, além do aumento de 20% no fluxo do ar. A Dell justifica que uma “marca unificada” facilitará o processo de escolha pelos consumidores. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Sony revela headset de “realidade estendida” para produção de jogos, filmes e animações em 3D: o Xyn, projetado para criar objetos tridimensionais, conta com telas OLED 4K, recurso de passagem de vídeo e compatibilidade com softwares de design, modelagem e produção de terceiros. Ainda não há informações sobre preço e disponibilidade do dispositivo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "IA do Instagram pode gerar imagens automáticas dos usuários: a funcionalidade faz parte de um teste, confirmado pela Meta, que está sendo realizado a partir do “Imagine Yourself”, no qual a pessoa carrega múltiplas selfies, tiradas de diferentes ângulos, permitindo que o modelo crie fotos personalizadas. Uma vez ativado, o sistema pode gerar novas imagens do usuário de forma autônoma em cenários aleatórios, e publicá-las, de forma privada, em seu feed, podendo ser compartilhadas com amigos e familiares posteriormente. As informações são do site 404 Media.",
+            "url": ""
+        }
+    ]
+}
