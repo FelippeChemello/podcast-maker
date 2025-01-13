@@ -76,13 +76,19 @@ export const Thumbnail: React.FC = () => {
             >
                 {hasImage ? (
                     <div style={{ position: 'relative', display: 'flex', width: videoConfig.width, height: videoConfig.height }}>
-                        <div style={{ width: '37%', zIndex: 10, backgroundColor: '#0C2D48', clipPath: 'polygon(0% 0%, 100% 0, 80% 100%, 0% 100%)' }} />
+                        <div 
+                            style={{ 
+                                width: '100%',
+                                zIndex: 10, 
+                                background: 'linear-gradient(90deg, #0C2D48 0%, rgba(12,45,72,0) 100%)', 
+                            }} 
+                        />
                         <div
                             style={{
                                 position: 'absolute',
                                 zIndex: 5,
                                 right: 0,
-                                width: '70%',
+                                width: '100%',
                                 height: '100%',
                                 backgroundImage: `url(${content.thumbnail_image_src})`,
                                 backgroundSize: 'cover',
@@ -101,14 +107,15 @@ export const Thumbnail: React.FC = () => {
                         >
                             <h1
                                 style={{
-                                    fontSize: 180,
-                                    lineHeight: '1',
+                                    fontSize: 160,
+                                    lineHeight: 0.9,
                                     fontFamily: 'ProductSans',
                                     color: '#fff',
                                     fontWeight: 400,
                                     margin: 0,
                                     padding: 20,
                                     zIndex: 10,
+                                    textShadow: '4px 4px 8px rgba(0, 0, 0, 0.9), 2px 2px 6px rgba(0, 0, 0, 0.7)'
                                 }}
                                 dangerouslySetInnerHTML={{ __html: content.thumbnail_text! }}
                             />   
