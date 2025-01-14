@@ -1,0 +1,45 @@
+{
+    "title": "“DDoS” da OpenAI / Pirataria no Llama / WordPress desativa contas",
+    "fps": 30,
+    "timestamp": 1736865393,
+    "width": 0,
+    "height": 0,
+    "date": "14/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bot da OpenAI derruba site ao realizar atividade semelhante a ataque DDoS: a página de e-commerce da Triplegangers possui mais de 65 mil produtos de modelos 3D realistas de humanos, cada um com uma página própria e pelo menos três fotos. Segundo o CEO Oleksandr Tomchuk, o robô da OpenAI estava tentando raspar o conteúdo, enviando “dezenas de milhares” de solicitações com 600 endereços IP diferentes. O empresário não conseguiu determinar o que foi extraído. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Llama, da Meta, teria sido treinado com conteúdo de biblioteca pirata: segundo uma ação judicial, Mark Zuckerberg permitiu que a equipe responsável pelas primeiras versões do modelo utilizasse e-books e artigos da plataforma LibGen. Além disso, um engenheiro da companhia teria escrito um script para remover informações relacionadas a direitos autorais. A companhia também foi acusada de ter feito torrents dos arquivos da biblioteca, e de ter tentado minimizar a quantidade de seeds, com o intuito de esconder suas atividades. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "CEO do WordPress desativa contas de cinco contribuidores do projeto: segundo Matt Mullenweg, alguns membros estavam planejando um fork da plataforma, em decorrência dos processos judiciais com a WP Engine. Um dos indivíduos afetados, Joost de Valk — criador do Yoast e ex-líder de marketing e comunicação da WordPress Foundation — nega as acusações, dizendo que sua ideia era voltada a cópias do repositório para criação de temas e plugins. Outro sugeriu que Mullenweg estivesse agindo dessa forma devido a objeções anteriores à sua governança. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Empresário demite equipe inteira de programadores para substituí-la por IA, mas volta atrás: Wes Winder afirma que a tecnologia permite a entrega de resultados “100 vezes mais rápida” com um código “10 vezes mais limpo”. Os funcionários deram lugar aos sistemas o1, Lovable e Cursor. No entanto, o plano não teve o sucesso esperado — posteriormente, Winder recorreu ao LinkedIn para anunciar a necessidade de desenvolvedores em sua empresa. Especialistas argumentam que, apesar dos benefícios da IA, ela não possui capacidade de substituir completamente o trabalho humano. As informações são do site TechGig.",
+            "url": ""
+        },
+        {
+            "text": "Rede social Mastodon será controlada por organização sem fins lucrativos: o objetivo é garantir que a plataforma “não seja de propriedade ou controlada por um único indivíduo”, diferente do modelo adotado por Mark Zuckerberg e Elon Musk, por exemplo. O CEO Eugen Rochko assumirá uma nova função focada na estratégia de produtos. A transição não deve impactar os usuários. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ataque hacker em empresa de geolocalização expõe milhões de pessoas globalmente: o invasor alega ter roubado 17 TB de conteúdo da Gravy Analytics, extraídos de aplicativos populares de seus clientes, como Tinder, Uber e Candy Crush — a companhia afirma monitorar mais de um bilhão de dispositivos diariamente por meio de registros coletados de apps de terceiros. O material divulgado inclui mais de 30 milhões de pontos de localização, incluindo a Casa Branca e bases militares. Não há evidências de vazamento no Brasil. As informações são dos sites TechCrunch, The Verge e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp permitirá criação de chatbots personalizados: a funcionalidade foi identificada na versão beta 2.25.1.26 do aplicativo para Android, apesar de ainda não estar disponível para uso. Semelhante ao AI Studio do Instagram (não disponível no Brasil), os usuários poderão especificar as características do bot virtual, incluindo seu foco principal, como produtividade, entretenimento ou assistência pessoal — por exemplo, um assistente que auxilia na academia ou em compromissos. As informações são dos sites 91mobiles e WABetaInfo.",
+            "url": ""
+        }
+    ]
+}
