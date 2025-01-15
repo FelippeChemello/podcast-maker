@@ -1,0 +1,45 @@
+{
+    "title": "Brasil restringe celular em escolas / Lembretes no ChatGPT / Rede social “livre de bilionários”",
+    "fps": 30,
+    "timestamp": 1736951507,
+    "width": 0,
+    "height": 0,
+    "date": "15/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Lei que restringe uso de dispositivos eletrônicos em escolas é sancionada no Brasil: a legislação de número 15.100/2025 proíbe o uso de celulares, tablets e smartwatches durante aulas, recreios e intervalos, abrangendo pré-escola, ensino fundamental e médio. Os alunos poderão levar os aparelhos, mas somente utilizá-los em condições específicas, como emergências de saúde ou para fins pedagógicos, sob orientação dos professores. As instituições poderão implementar as novas regras a partir de fevereiro. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT permitirá agendar lembretes e tarefas recorrentes: com o Tasks, usuários poderão configurar desde alertas simples, como o vencimento de um passaporte, até um resumo diário de notícias às 7h da manhã ou um plano de fim de semana baseado na localização e previsão do tempo toda sexta-feira. O modelo também poderá fazer sugestões com base nas conversas. A funcionalidade será disponibilizada gradualmente para assinantes Plus, Team e Pro esta semana. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Projeto busca criar rede social “resistente à influência bilionária”: o Free Our Feeds pretende arrecadar 30 milhões de dólares ao longo de três anos, com objetivo de desenvolver um ecossistema baseado no AT Protocol, utilizado pelo Bluesky. A iniciativa será gerida por um grupo de nove custodiantes, incluindo dois da Mozilla Foundation. Entre os apoiadores estão Mark Ruffalo — o Hulk do universo cinematográfico da Marvel — e Jimmy Wales, fundador da Wikipedia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm contrata arquiteto-chefe de CPUs Xeon da Intel: Sailesh Kottapalli também foi responsável pelo desenvolvimento do microprocessador Itanium da empresa. Não está claro qual será seu papel na Qualcomm, mas especula-se que ele possa trabalhar no desenvolvimento de chips para servidores, competindo com Nvidia, AMD e Intel ao oferecer alternativas com maior eficiência energética. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia divisão de IA liderada por ex-executivo da Meta: Jay Parikh assumirá como vice-presidente do grupo “CoreAI – Platform and Tools”, o qual combinará as equipes “Dev Div” e alguns membros do “Office of the CTO” da empresa, e que terá como foco o desenvolvimento de ferramentas para uso interno e de seus clientes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia pode apresentar seu primeiro System-on-a-Chip para máquinas Windows este ano: o N1X pode ser lançado até o final de 2025, com uma versão adicional, N1, prevista para 2026, a fim de competir com Intel, AMD e Qualcomm. A empresa teria firmado uma parceria com a MediaTek para a produção. Acredita-se que os componentes sejam apresentados durante o evento Computex em maio, juntamente com mais detalhes sobre a arquitetura. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Plataforma Não Me Perturbe atinge quase 12,5 milhões de cadastros em 2024: o serviço permite aos usuários bloquear chamadas indesejadas, como de telemarketing. No período, foram registrados mais de 460 mil novos números na base de dados, um crescimento de 4% em comparação com 2023. De janeiro a novembro do ano passado, houve uma redução de 5% nas reclamações de telecomunicações registradas pela Anatel. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
