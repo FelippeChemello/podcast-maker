@@ -1,0 +1,45 @@
+{
+    "title": "TikTok: últimos dias nos EUA / Meta cortará “menos produtivos” / Mitos da segurança online",
+    "fps": 30,
+    "timestamp": 1737037875,
+    "width": 0,
+    "height": 0,
+    "date": "16/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "TikTok estaria se preparando para encerrar operações nos EUA a partir de domingo: a proibição estabelecida pela Suprema Corte do país, marcada para o dia 19, impede que lojas de aplicativos permitam o download da rede social. No entanto, segundo fontes familiarizadas com o assunto, a plataforma prevê uma paralisação total, exibindo uma mensagem pop-up aos norte-americanos que tentarem acessar o app. Dessa forma, a empresa poderia restabelecer rapidamente os serviços caso o banimento seja revertido. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Meta planeja demitir 5% dos funcionários a partir de fevereiro, com foco nos “menos produtivos”: em um memorando interno, Mark Zuckerberg destaca que 2025 será um ano “intenso” para a empresa, e que a decisão é necessária para garantir que permaneçam os “melhores talentos” na equipe. No entanto, nem todos os colaboradores com desempenho abaixo do esperado serão demitidos, especialmente se a companhia enxergar potencial de melhoria. As informações são da CNBC e CNN.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Kaspersky aponta mitos sobre segurança online: ao todo, foram 10 mil entrevistados, de 18 a 40 anos de idade, em diferentes países, incluindo o Brasil. 40% dos participantes acreditam que o uso do modo anônimo do navegador os torna totalmente “invisíveis”. Além disso, 22% afirmam erroneamente que dispositivos com iOS são totalmente imunes a ataques hacker, e 39% julgam ser totalmente seguro conectar-se à uma rede Wi-Fi pública. As informações são do site da Kaspersky.",
+            "url": ""
+        },
+        {
+            "text": "FBI hackeia mais de 4 mil computadores pessoais nos EUA para desinstalar malware: o PlugX, de origem chinesa, infecta máquinas Windows por meio de portas USB, e permite que invasores acessem e executem scripts remotamente. A agência obteve acesso ao servidor de comando e controle com o qual os dispositivos estabeleciam comunicação, identificando endereços IP comprometidos e enviando instruções para que o malware excluísse seus próprios arquivos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará suporte do Office no Windows 10 em 14 de outubro: empresas e consumidores que utilizam esses aplicativos precisarão migrar para a versão 11 do sistema operacional. Os programas continuarão funcionando após essa data, mas a empresa alerta para possíveis “problemas de desempenho e confiabilidade” ao longo do tempo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pixelfed, alternativa descentralizada ao Instagram, lança aplicativo para Android e iOS: a plataforma opera com o protocolo ActivityPub, o mesmo que sustenta redes como Mastodon. Ela permite que usuários compartilhem e explorem fotos e vídeos, além de enviar mensagens diretas. No entanto, se diferencia por ser livre de anúncios, de código aberto, e por adotar feeds cronológicos como padrão. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Parallels Desktop permite executar Windows e Linux x86 em Macs com chip M da Apple: a novidade está presente na versão 20.2. Anteriormente, somente sistemas operacionais baseados em ARM podiam ser virtualizados nessas máquinas. Apenas SOs de 64 bits são suportados. Portas USB e o WSL2 não funcionarão. Além disso, o desempenho é reduzido, uma vez que as instruções x86 precisam ser traduzidas, resultando em tempos de inicialização do Windows de 2 a 7 minutos. As informações são do site HowToGeek.",
+            "url": ""
+        }
+    ]
+}
