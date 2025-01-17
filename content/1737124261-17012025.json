@@ -1,0 +1,45 @@
+{
+    "title": "Brasileiro gosta de IA / Gmail: Gemini liberado / Nintendo Switch 2",
+    "fps": 30,
+    "timestamp": 1737124261,
+    "width": 0,
+    "height": 0,
+    "date": "17/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasil supera média global no uso de IA em 2024, segundo pesquisa do Google: ao todo, foram entrevistadas 21 mil pessoas em 21 países. A adoção da tecnologia pelos brasileiros no período chegou a 54%, em contraste com os 48% do resto do mundo. No país, os modelos são utilizados principalmente para escrita (78%), brainstorming (78%), resolução de problemas (87%), simplificação de documentos extensos (72%) e entendimento de informações complexas (78%). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Google libera Gemini no Gmail e outros aplicativos do Workspace gratuitamente: anteriormente, o modelo estava disponível somente a partir de uma assinatura Business por 20 dólares mensais. Agora, ele pode ser utilizado no plano básico em programas como Documentos, Planilhas e Apresentações. Usuários terão acesso a resumos automatizados de e-mails, designs, anotações inteligentes para reuniões, acesso ao assistente NotebookLM, e ferramentas de escrita. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo Switch 2 é oficialmente anunciado: o console mantém a essência do original, mas com dimensões maiores. Os controles Joy-Con agora se conectam ao dispositivo de forma fixa nas laterais, em vez de deslizar como na versão anterior. Na parte superior do aparelho, foi adicionada uma porta USB-C ao lado do conector de fone de ouvido. Além disso, o Switch 2 será compatível com jogos físicos e digitais do primeiro console. Mais detalhes serão revelados no Nintendo Direct, agendado para 2 de abril. O lançamento está confirmado para este ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Executivos da Meta estão determinados em superar GPT-4 da OpenAI: a informação foi divulgada por um tribunal dos EUA, que investiga o uso de conteúdo protegido por direitos autorais da biblioteca LibGen no treinamento do Llama 3. Em mensagens internas, Ahmad Al-Dahle, Vice-Presidente de IA Generativa da empresa, enfatiza a importância de “vencer a corrida” contra concorrentes. A companhia Mistral também é citada como “insignificante” nas conversas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft exclui interface do Bing que imitava Google: a tela era exibida para usuários que buscavam por “Google” no Edge sem estar conectado a uma conta. Ela incluía uma barra de pesquisa personalizada, um visual semelhante ao Doodle, e ocultava informações sobre o Bing. A Microsoft fez a remoção de forma discreta e não forneceu comentários. A chefe do Chrome classificou a prática como “mais uma tática” para “restringir as escolhas” dos usuários. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn lança ferramenta gratuita de IA para candidatos: o Job Match apresenta um resumo detalhado das qualificações do usuário em relação à descrição do cargo. O objetivo é ajudar pessoas a priorizar vagas para as quais estejam realmente qualificadas. Rohan Rajiv, gerente de produtos da empresa, aponta que 5 milhões de usuários estão com o “Open to Work” ativado, um crescimento de 40% em relação a um ano atrás. As informações são dos sites TechCrunch e The Indian Express.",
+            "url": ""
+        },
+        {
+            "text": "Cerca de 46% dos norte-americanos consideram pedir demissão caso não possam trabalhar de casa: a pesquisa foi realizada com mais de 5 mil adultos nos EUA. Esse número inclui os 26% que disseram ser “altamente improvável” permanecerem no cargo atual nessas condições, enquanto 17% ficaram indecisos. Mulheres (49%) são mais propensas do que homens (43%) a resistir ao retorno ao escritório, assim como indivíduos com menos de 50 anos (50%) preferem trabalhar remotamente em maior proporção do que aqueles que ultrapassam essa idade (35%). As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
