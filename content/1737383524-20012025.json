@@ -1,0 +1,45 @@
+{
+    "title": "IA de 1960 reativada / Google exige JavaScript / FTC notifica GoDaddy",
+    "fps": 30,
+    "timestamp": 1737383524,
+    "width": 0,
+    "height": 0,
+    "date": "20/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ELIZA, primeiro chatbot do mundo da década de 1960, é reativado: o programa, criado pelo professor Joseph Weizenbaum do MIT, marcou o início das interações entre humanos e máquinas por meio de linguagem natural. Ele simulava conversas utilizando um script chamado DOCTOR, que fazia o sistema atuar como um psicoterapeuta. O código original, com apenas 420 linhas, foi considerado perdido por décadas, até que em 2021 um cientista e um arquivista do MIT o encontraram nos arquivos de Weizenbaum. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Google exige que JavaScript esteja ativado para realizar buscas: a empresa explica que a mudança busca proteger o serviço contra atividades maliciosas, como bots e spam, além de melhorar a experiência geral. Sem o JS ativado, alguns recursos não funcionarão corretamente e a qualidade dos resultados pode ser prejudicada. O Google estima que menos de 0,1% das buscas diárias são realizadas com o JavaScript desativado, o que pode representar milhões, considerando que a plataforma processa cerca de 8,5 bilhões de pesquisas por dia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Federal de Comércio dos EUA notifica GoDaddy por falhas graves em segurança: segundo o órgão, a empresa teria se mostrado alheia às vulnerabilidades e ameaças em seu ambiente de hospedagem. A reclamação aponta a ausência de autenticação multifator (MFA) e de softwares capazes de detectar riscos. A FTC agora exige que a companhia implemente um programa robusto de proteção, juntamente com um avaliador terceirizado independente, e a obrigatoriedade de MFA para todos os clientes e funcionários. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pacote Python malicioso rouba tokens de autenticação do Discord: o “pycord-self” imita a biblioteca legítima “discord.py-self”, a qual acumula quase 28 milhões de downloads. Os registros capturados permitem que invasores assumam o controle das contas das vítimas sem a necessidade de credenciais ou autenticação em dois fatores. O pacote somou 885 downloads até ser identificado como malicioso. Seu publicador havia passado pelo processo de verificação do PyPI, levantando preocupações sobre a eficácia das medidas de segurança da plataforma. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI treina modelo com objetivo de estender vida humana em 10 anos: o GPT-4b micro, construído em parceria com a startup Retro Biosciences, é programado para reprojetar um grupo específico de proteínas conhecidas como fatores de Yamanaka, que têm o potencial de transformar células da pele em células-tronco com características rejuvenescidas. Ambas as empresas planejam publicar os resultados de suas pesquisas. As informações são dos sites TechCrunch e MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador do Android afirma que sistema foi criado para impedir que Microsoft dominasse mercado de dispositivos móveis: para Rich Miner, isso teria sufocado a inovação, assim como ocorreu no segmento de PCs, que atualmente é liderado pelo Windows. O executivo destaca que suas preocupações surgiram durante seu trabalho no desenvolvimento do primeiro Windows Phone, com o Android sendo projetado como uma alternativa mais aberta e acessível. Em uma entrevista recente, Bill Gates admitiu o fracasso da Microsoft em conquistar o mercado de smartphones, custando à empresa cerca de 400 bilhões de dólares. O Windows Phone foi descontinuado em 2019. As informações são do site Mashable.",
+            "url": ""
+        },
+        {
+            "text": "Laser elétrico baseado em materiais baratos pode permitir chips mais acessíveis no futuro: a solução foi desenvolvida utilizando silício, germânio e estanho, o que poderá reduzir custos e simplificar a integração nos processos de fabricação já existentes, especialmente porque ela é compatível com a tecnologia CMOS, amplamente empregada na construção de chips. A inovação também é uma resposta para a crescente demanda por hardware de alto desempenho e baixo consumo de energia, impulsionada por tecnologias como IA e dispositivos IoT. As informações são do site SciTechDaily.",
+            "url": ""
+        }
+    ]
+}
