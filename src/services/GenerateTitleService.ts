@@ -35,7 +35,7 @@ export default class GenerateTitleServce {
 
             log(`Title generated: ${title}`, 'GenerateTitleServce');
 
-            this.content.thumbnail_text = title
+            this.content.thumbnail_text = title.trim().length > 0 ? title : this.content.title.split("/")[0]
         } catch (err) {
             log(`Failed at generating title \n${JSON.stringify(err)}`, 'GenerateTitleServce');
             this.content.thumbnail_text = this.content.title.split("/")[0]
