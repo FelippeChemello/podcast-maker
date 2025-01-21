@@ -1,0 +1,49 @@
+{
+    "title": "Office mais caro no Brasil / Terremoto interrompe produção de chips / “Super-agentes” da OpenAI",
+    "fps": 30,
+    "timestamp": 1737470256,
+    "width": 0,
+    "height": 0,
+    "date": "21/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft 365 fica até 41,7% mais caro no Brasil: a assinatura mais básica do serviço passa de 36 para 51 reais por mês. Já a edição Family terá custo mensal de 60 reais, um aumento de 33,3%. A Microsoft justifica o reajuste com a inclusão do modelo Copilot, integrado a aplicativos como Word, Excel, PowerPoint e Outlook. Na versão Family, apenas o titular terá acesso às ferramentas de IA. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "TSMC, maior fabricante de chips do mundo, interrompe produção após terremoto de magnitude 6,4 em Taiwan: o evento ocorreu às 00h17 no horário local. O epicentro do tremor foi em uma região montanhosa do país, mas seus efeitos foram sentidos próximos às cidades de Tainan e Taichung, ambas abrigando plantas de fabricação da empresa. A companhia estaria agora realizando inspeções para verificar possíveis danos aos equipamentos. Fontes familiarizadas com a situação indicam que pode levar vários dias para que a produção seja totalmente retomada. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode anunciar “super-agentes” em breve: essas ferramentas poderiam resolver problemas complexos e interdisciplinares do mundo real, com capacidade de sintetizar grandes volumes de informações e analisar diferentes opções de resolução. O CEO Sam Altman teria agendado uma reunião privada com autoridades norte-americanas no dia 30 para discutir o avanço da tecnologia, que tem potencial para transformar setores como saúde, ciência e educação. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores projetam proteínas que bloqueiam toxinas do veneno de cobras: o experimento foi realizado com a ajuda de modelos como o AlphaFold2, do Google. O tratamento atual para picadas baseia-se em anticorpos extraídos de animais expostos a doses não letais de veneno, o que exige refrigeração e possui validade curta. O avanço permite uma alternativa mais eficiente e acessível, especialmente em áreas rurais. No entanto, até o momento, as proteínas desenvolvidas em laboratório são eficazes apenas contra dois tipos de toxinas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia aplicativo de edição de vídeo para competir com CapCut da ByteDance: essa é a mesma empresa proprietária do TikTok. Ambas as aplicações foram alvos de restrições nos EUA. Adam Mosseri, chefe do Instagram, afirma que o app será lançado no próximo mês para iOS, e posteriormente para Android. Ele contará com abas dedicadas para inspiração e organização de ideias, além de uma câmera com recursos avançados. Mosseri enfatiza que o Edits foi projetado para criadores de conteúdo, em vez de usuários casuais interessados em edição de vídeo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Domínios abandonados de startups podem expor contas do Google Workspace: o problema ocorre quando o serviço não é encerrado corretamente após o fechamento da empresa e o domínio é disponibilizado para revenda. Dessa forma, aplicativos externos que utilizam o recurso “Entrar com o Google”, como Slack, ChatGPT, e Zoom, podem ser acessados pelo novo titular. Estima-se que cerca de 50% das startups utilizam o Workspace, e que 90% delas eventualmente encerram suas atividades. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Instagram aumenta duração dos Reels para 3 minutos: esse é o dobro do limite anterior de 90 segundos. Segundo Adam Mosseri, chefe da plataforma, a mudança foi motivada pelo feedback dos usuários, que consideravam o tempo anterior “muito curto” para suas necessidades criativas. Em 2024, Mosseri havia declarado que a plataforma não pretendia priorizar vídeos mais longos, temendo que isso comprometesse sua essência de conectar pessoas com amigos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pentágono afirma que IA está otimizando sua “cadeia de ataque”: o termo “kill chain” descreve o processo militar de identificar, rastrear e eliminar alvos, envolvendo uma complexa integração de sensores. Segundo a diretora digital, a tecnologia está proporcionando uma vantagem significativa nessa abordagem. Contudo, por questões de segurança, as decisões de empregar força continuam sendo tomadas por humanos. Não está claro qual sistema específico está sendo empregado pelo Pentágono. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
