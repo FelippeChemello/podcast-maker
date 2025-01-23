@@ -1,0 +1,49 @@
+{
+    "title": "Tecnologia menos distrativa / Recorde: DDoS de 5 Tbps / Data centers da OpenAI",
+    "fps": 30,
+    "timestamp": 1737642743,
+    "width": 0,
+    "height": 0,
+    "date": "23/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Certificação busca reconhecer empresas por tecnologias menos distrativas: a “Calm Tech” abrange critérios como luz da tela, som, interface de usuário e desativação de notificações não cruciais. Alguns dispositivos certificados foram apresentados na CES 2025, como o reMarkable Paper Pro, um tablet com tela e-Ink colorida focado em escrita e organização de notas, que não possui funcionalidades como navegador, loja de aplicativos e widgets, e sequer exibe o horário. A Calm Tech Institute planeja publicar a especificação da certificação em breve. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare mitiga ataque DDoS recorde de 5,6 Tbps: a ação foi conduzida em outubro do ano passado por uma rede de 13 mil dispositivos comprometidos, e teve como alvo um provedor de internet no Leste Asiático. Apesar da magnitude, não houve impacto significativo. A Cloudflare observa que, no quarto trimestre de 2024, a frequência dos ataques DDoS superiores a 1 Tbps disparou — no mesmo período, a empresa mitigou uma investida de 3,8 Tbps, que detinha o recorde até então. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI, em parceria com Oracle e Softbank, investirá até 500 bilhões de dólares em data centers: a joint venture, chamada Stargate Project, começará seus projetos no Texas e expandirá para outros estados norte-americanos eventualmente. Microsoft, Nvidia e Arm também participarão. A expectativa é que, até 2029, a iniciativa conte com até 20 instalações em operação. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade expõe localização aproximada de usuários do Discord e Signal: a falha “0-click deanonymization” utiliza informações enviadas pelos CDNs (ex: Cloudflare), como o código do data center mais próximo, que é incluído nas respostas HTTP ao acessar recursos armazenados em cache. Dessa forma, é possível deduzir a posição física da pessoa que processou os dados a uma distância aproximada de 400 quilômetros. A Cloudflare corrigiu o problema, mas ainda é possível explorá-lo com VPNs. Signal e Discord afirmam que a mitigação da vulnerabilidade seria de responsabilidade dos usuários e dos CDNs. As informações são do GitHub Gist do usuário “hackermondev”.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity lança API de busca na web por IA: o “Sonar” permite que desenvolvedores incorporem a ferramenta em aplicativos próprios. A versão base utiliza um modelo leve, com custo de 5 dólares para cada 1.000 buscas, além de 1 dólar por 750 mil palavras digitadas no sistema e pela mesma quantidade de palavras geradas nas respostas. Já o Sonar Pro, para tarefas avançadas, cobra 5, 3, e 15 dólares, respectivamente, pelas mesmas quantidades. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "30% dos desenvolvedores de jogos acreditam que IA está impactando negativamente a indústria: os dados são de uma pesquisa anual com mais de 3 mil profissionais da área. O número representa um aumento de 12 pontos percentuais em relação ao ano anterior. Entre as preocupações apontadas está o roubo de propriedade intelectual, alto consumo de energia e redução na qualidade do conteúdo. Em contrapartida, 13% dos entrevistados acreditam no impacto positivo da tecnologia, e 51% afirmam ter um efeito misto. As informações são do site Game Developers Conference.",
+            "url": ""
+        },
+        {
+            "text": "Google permitirá controlar Chromebooks com expressões faciais: o recurso é voltado para pessoas com deficiências motoras. O cursor pode ser movido com movimentos da cabeça, enquanto o clique com o botão esquerdo é acionado ao torcer o canto dos lábios para a esquerda. O gesto de abrir a boca inicia o reconhecimento de voz, permitindo o preenchimento de formulários. O recurso está disponível a partir do ChromeOS 132. As informações são dos sites The Verge e 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição de quarta-feira (22/jan) informamos que a DeepSeek introduziu um modelo de raciocínio com eficiência 95% superior em comparação ao o1 da OpenAI. É importante destacar que a “eficiência” referida se relacionava ao custo operacional e não diretamente ao desempenho do sistema. Agradecemos ao leitor Renan pelo aviso.",
+            "url": ""
+        }
+    ]
+}

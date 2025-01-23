@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica com OpenAI / Abelha robô / Google: anúncios maliciosos",
+    "fps": 30,
+    "timestamp": 1737556340,
+    "width": 0,
+    "height": 0,
+    "date": "22/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI financiou secretamente benchmark associado ao modelo o3: há possibilidade do sistema ter sido treinado com informações do FrontierMath, o que compromete a validade de suas altas pontuações. Tamay Besiroglu, diretor associado da Epoch AI, proprietária do benchmark, confirmou as alegações, mas destaca que um conjunto de dados separado foi mantido confidencial da OpenAI, a fim de permitir avaliações independentes. A empresa está conduzindo uma investigação para analisar o caso. As informações são do site Search Engine Journal.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT desenvolvem “abelha” mecânica para polinização em fazendas internas: o inseto robótico, que pesa menos que um clipe de papel, integra um conceito de agricultura vertical, onde frutas e vegetais seriam cultivados em armazéns de múltiplos andares. O dispositivo, projetado para habitar colmeias artificiais, consegue pairar no ar por até 17 minutos e demonstra alta capacidade de manobra. No entanto, a equipe reconhece que o desempenho das abelhas naturais ainda é inigualável, graças ao sofisticado sistema de músculos que controlam suas asas. As informações são do site The Debrief.",
+            "url": ""
+        },
+        {
+            "text": "Hackers utilizam anúncios maliciosos no Google para roubar moedas digitais de usuários: o ataque consiste em divulgar versões falsas de programas legítimos, como o Homebrew, exibindo-as no topo dos resultados de busca. Ao acessar a página, o usuário é instruído a executar comandos maliciosos, que acessam cookies, senhas e extensões do navegador relacionadas a ativos digitais. Além disso, o script incita a pessoa a digitar a senha da carteira. Recomenda-se evitar clicar em anúncios nos resultados de busca, e preferir carteiras físicas para armazenar moedas digitais. As informações são da página Scam Sniffer no X.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA adia banimento do TikTok por 75 dias: a medida, assinada nesta segunda-feira, estende o prazo anteriormente estabelecido para que a plataforma seja desvinculada da ByteDance. Durante esse período, o Departamento de Justiça não poderá impor penalidades relacionadas a qualquer descumprimento. No último domingo, o TikTok sofreu uma breve interrupção nos EUA e foi removido da App Store e Google Play. Apesar de a rede social estar acessível no país, o aplicativo ainda não voltou para as lojas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepSeek anuncia modelo de código aberto 95% mais eficiente que o1 da OpenAI: o R1 é capaz de alcançar desempenho notável em tarefas de matemática, programação e raciocínio. Em testes, o sistema pontuou 79,8% no AIME 2024, 97,3% no MATH-500 e superou 96,3% dos desenvolvedores humanos no Codeforces. Em comparação, os números do o1 foram de 79,2%, 96,4% e 96,6%, respectivamente. O modelo está disponível no site da DeepSeek, na variante “DeepThink”. Seu código pode ser conferido no Hugging Face. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Extensões maliciosas do Chrome contornam medidas de segurança do Manifest V3: essa especificação proíbe a execução de código baixado remotamente. Segundo um estudo conduzido por Wladimir Palant, criador do Adblock Plus, plugins como “Volume Booster”, “Sweet VPN” e “Adblock all advertisements” conseguem burlar as restrições impostas pelo Google utilizando diferentes métodos, como injeção de código HTML em sites e exibição de anúncios disfarçados de resultados de busca. As informações são do blog de Wladimir Palant.",
+            "url": ""
+        },
+        {
+            "text": "Meta manterá checagem de fatos fora dos EUA “por enquanto”: a empresa não descarta planos de encerrar o serviço em outras regiões no futuro, subsituindo-o pelo sistema de notas da comunidade, semelhante ao usado pelo X. Segundo a chefe de negócios globais, a decisão será avaliada ao longo de 2025. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
