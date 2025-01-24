@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI lança Operator / Sensor de câmera 24K / Mastercard: erro de DNS",
+    "fps": 30,
+    "timestamp": 1737729090,
+    "width": 0,
+    "height": 0,
+    "date": "24/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança agente autônomo para executar tarefas no computador: O Operator é capaz de controlar o navegador e realizar ações como reservas em restaurantes e compras online. O sistema combina a visão avançada do GPT-4o com as habilidades dos modelos de raciocínio da empresa. Por segurança, a tecnologia solicita confirmação do usuário antes de enviar um e-mail, por exemplo, e exige supervisão direta para realizar tarefas sensíveis, como transações bancárias. Inicialmente, o recurso está disponível apenas para usuários dos EUA que assinam o plano Pro. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Canon anuncia sensor de câmera com resolução recorde de 24K: o componente de 35 mm conta com 410 megapixels. Segundo a empresa, este é o maior número de pixels já alcançado em um sensor full-frame deste tamanho. A tecnologia é pensada para aplicações que demandam imagens extremamente nítidas, como vigilância e medicina. Além disso, a inovação permitirá a miniaturização de equipamentos de filmagem. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mastercard corrige erro de DNS despercebido por quase 5 anos: a falha poderia ter permitido a interceptação ou o desvio do tráfego de internet da empresa. Todos os nomes de servidores DNS da Akamai, utilizados pela Mastercard, deveriam terminar em “akam[.]net”, mas um deles foi configurado erroneamente como “akam[.]ne”. A companhia argumenta que, apesar do ocorrido, nunca houve ameaça real à segurança de suas operações. As informações são do site KrebsonSecurity.",
+            "url": ""
+        },
+        {
+            "text": "Atualização de firmware pode transformar milhões de lâmpadas inteligentes em sensores de movimento: a tecnologia Sensify, da Ivani, detecta perturbações em frequências de rádio ou em sinais de Wi-Fi e Bluetooth. Ela pode ser implementada em qualquer dispositivo que utilize o protocolo Zigbee, como a linha Hue da Philips. Contudo, sua precisão pode ser inferior — as luzes podem desligar caso a pessoa permaneça imóvel no local. A previsão de lançamento é para os próximos meses, embora ainda não tenham sido divulgadas quais empresas adotarão a novidade. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Postman disponibiliza ferramenta para criação de agentes autônomos: o recurso integra grandes modelos de linguagem, como GPT-4, Gemini e Llama. Segundo o CEO Abhinav Asthana, há um número crescente de usuários não desenvolvedores interessados em criar aplicativos simples baseados em APIs. Inicialmente, os agentes focarão em interações com operações de back-end. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity lança assistente para Android: o sistema pode realizar ações em outros aplicativos do smartphone, como solicitar uma viagem no Uber ou pesquisar uma música no Spotify, além de realizar buscas na web e lembrar o usuário de um evento em sua agenda. O modelo também pode utilizar a câmera ou a tela do celular para responder perguntas. O Perplexity Assistant está disponível por meio do aplicativo oficial da empresa. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn é acusado de permitir treinamento de IAs com mensagens privadas de usuários Premium: a ação judicial, movida em um tribunal da Califórnia, alega que a plataforma violou o Contrato de Assinatura, que garante aos pagantes a proteção de informações confidenciais, ao supostamente liberar acesso de terceiros à conversas do InMail, as quais podem conter dados sensíveis, como detalhes de emprego e remuneração. Contudo, ainda não foram apresentadas evidências concretas, e o LinkedIn nega as acusações. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
