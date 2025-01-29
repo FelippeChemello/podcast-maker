@@ -1,0 +1,45 @@
+{
+    "title": "Facebook: Linux é ameaça? / DeepSeek supera DALL-E 3 / Retorno do Pebble",
+    "fps": 30,
+    "timestamp": 1738161120,
+    "width": 0,
+    "height": 0,
+    "date": "29/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Facebook estaria classificando tópicos sobre Linux como “ameaça à segurança cibernética”: a plataforma está sinalizando algumas postagens em referência ao sistema operacional como violações de seus Padrões da Comunidade. O site DistroWatch foi o primeiro a identificar o problema, que teria começado no dia 19. Alguns usuários também relatam bloqueios e limitações de suas contas. O DistroWatch destaca que o Facebook opera grande parte de sua infraestrutura utilizando Linux e, frequentemente, publica vagas de emprego para desenvolvedores especializados no sistema operacional, demonstrando que deve haver algum problema com o sistema de moderação da plataforma. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "DeepSeek lança gerador de imagens para competir com DALL-E 3 da OpenAI: o Janus Pro 7B superou ligeiramente a tecnologia da OpenAI, em termos de precisão, nos benchmarks GenEval (80% contra 67%) e DPG-Bench (84,2% contra 83,5%). A empresa afirma ter utilizado apenas algumas centenas de GPUs Nvidia A100, e seu treinamento levou entre 7 e 14 dias. O código base do modelo, incluindo sua versão menor 1B, está disponível no site Hugging Face sob uma licença própria da DeepSeek. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pioneiro do smartwatch moderno anuncia retorno dos relógios Pebble: segundo Eric Migicovsky, o dispositivo será fiel ao original, incluindo tela e-Ink — a mesma utilizada no Kindle — com funcionalidade “always-on” e visibilidade sob luz solar direta. Outro diferencial é o software “hackeável”, permitindo que desenvolvedores criem mostradores e opções de customização próprios. O anúncio ocorre logo após o Google ter disponibilizado o Pebble OS no repositório “google/pebble” do GitHub. Ainda não há informações sobre preço e disponibilidade. As informações são dos sites The Verge e Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft manterá contas conectadas a partir de fevereiro: isso significa que usuários permanecerão logados em aplicativos como Outlook, a menos que optem por sair manualmente ou utilizem o modo de navegação anônima. A mudança exige atenção especial, sobretudo ao utilizar computadores públicos. A empresa também oferece a opção de desconectar remotamente a conta em todos os dispositivos e aplicativos por meio de sua página oficial. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Meta AI expande recurso de “memória” e usará informações do Facebook e Instagram: a funcionalidade permite que o modelo se recorde de certos detalhes sobre o usuário, como preferências alimentares e interesses, para utilizá-los em conversas futuras, semelhante ao ChatGPT. Além disso, a tecnologia também poderá acessar dados das redes sociais da pessoa, oferecendo recomendações mais relevantes. Por exemplo, usar a localização residencial listada no perfil para sugerir atividades familiares próximas. Inicialmente, o recurso estará disponível nos EUA e Canadá. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pessoas com menos conhecimento sobre IA são mais propensas a utilizá-la, segundo estudo: o padrão foi identificado a partir de uma análise envolvendo 27 países. Indivíduos menos técnicos enxergam a tecnologia como algo quase “mágico”, capaz de realizar tarefas tradicionalmente vistas como exclusivas dos seres humanos, o que aumenta sua receptividade. Já usuários com maior conhecimento são atraídos pela precisão e eficiência dos modelos, em atividades como análise de dados. As informações são do site The Conversation.",
+            "url": ""
+        },
+        {
+            "text": "World, de Sam Altman, quer integrar agentes autônomos à identidade digital dos usuários: o objetivo é permitir confirmar quando um modelo estiver agindo em nome de uma pessoa, visando atender a necessidade de distinguir ações humanas de interações realizadas pela tecnologia. Um exemplo prático seria um bot com verificação (como um selo azul) efetuando uma compra em nome de alguém. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
