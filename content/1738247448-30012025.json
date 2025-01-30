@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: mais React / Armadilha para IAs / Jato civil supersônico",
+    "fps": 30,
+    "timestamp": 1738247448,
+    "width": 0,
+    "height": 0,
+    "date": "30/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub revela planos para tornar-se “mais parecido com um aplicativo”: segundo o desenvolvedor Joel Hawksley, as razões para essa mudança incluem a competição crescente com soluções como Linear e Cursor, além do aumento do uso de dispositivos móveis. Para isso, a plataforma está adotando o React para desenvolver novas funcionalidades. Por outro lado, usuários argumentam que a interface do GitHub está excessivamente carregada de recursos, e que não há necessidade de focar em dispositivos móveis, uma vez que a maioria dos desenvolvedores utilizam desktops. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria armadilha para IAs que ignoram “robots.txt”: o Nepenthes direciona crawlers para um labirinto infinito de páginas falsas, onde podem ficar presos por meses, consumindo recursos computacionais sem obter dados úteis. A abordagem, chamada de “tarpitting”, é tradicionalmente utilizada para dificultar a atuação de spammers. A iniciativa inspirou outras ferramentas semelhantes, como a “locaine”, de Gergely Nagy, que, segundo ele, reduziu em 94% o tráfego de bots em seu site. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Jato civil privado é primeiro do mundo a quebrar barreira do som: o XB-1, da startup americana Boom, manteve velocidade supersônica por cerca de quatro minutos, atingindo Mach 1,1. O CEO Blake Scholl destaca que essa é a primeira vez que uma aeronave desse tipo foi desenvolvida sem o apoio direto de um governo, diferente do Concorde. O XB-1 é um protótipo do avião Overture da Boom, que promete reduzir o tempo de viagens intercontinentais. Um voo entre Miami e Londres, por exemplo, que hoje dura cerca de dez horas, poderia ser concluído em cinco. As informações são dos sites TechCrunch e G1.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança ChatGPT para agências governamentais dos EUA: a versão Gov oferece acesso a modelos avançados como GPT-4o, e inclui recursos já disponíveis na assinatura Enterprise, incluindo a criação de bots personalizados e um console administrativo para gerenciamento por equipes de TI. Segundo a empresa, a iniciativa busca ampliar o uso de suas ferramentas para o processamento de dados sensíveis não públicos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidades em processadores da Apple permitem acessar dados sigilosos de usuários: a falha SLAP afeta CPUs M2 e A15, enquanto a FLOP está presente nos modelos M3, M4 e A17. Ambas exploram endereços de memória para acessar informações sensíveis como e-mails, localização no Google Maps e eventos no Calendário do iCloud. Pesquisadores alertaram a Apple sobre as falhas, recomendando que o recurso “Data Independent Timing” seja ativado nos processadores para mitigar a FLOP. Em paralelo, a empresa está trabalhando em uma solução para a SLAP.  As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Play Protect revogará automaticamente permissões de aplicativos prejudiciais no Android: o objetivo é impedir que programas maliciosos acessem informações sensíveis no dispositivo, como armazenamento, fotos e câmera. Usuários poderão restaurar as permissões, mas o Google solicitará uma confirmação prévia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "X anuncia parceria com Visa para introduzir serviço de pagamento: o serviço “X Money Account” incluirá suporte a uma carteira digital na plataforma e transações vinculadas aos cartões de débito dos usuários, com a possibilidade de transferir fundos para uma conta bancária. O recurso, que deve ser lançado neste ano, estará inicialmente disponível nos EUA. A iniciativa está alinhada com a visão de Elon Musk de criar um “aplicativo para tudo”. As informações são do site The Associated Press.",
+            "url": ""
+        }
+    ]
+}
