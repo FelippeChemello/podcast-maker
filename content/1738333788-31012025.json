@@ -1,0 +1,49 @@
+{
+    "title": "Brecha na DeepSeek / Google: atualização irreversível / Rede móvel avança no Brasil",
+    "fps": 30,
+    "timestamp": 1738333788,
+    "width": 0,
+    "height": 0,
+    "date": "31/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "DeepSeek expõe banco de dados na internet com dados sensíveis de usuários: segundo uma empresa de segurança, o acesso não exigia autenticação. Entre as informações estavam históricos de conversas com o chatbot, chaves de API, dados operacionais do backend e registros internos. Os pesquisadores também demonstraram ser possível executar comandos SQL diretamente pelo navegador. Após ser notificada, a DeepSeek corrigiu a vulnerabilidade. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google prejudica bateria do Pixel 4a com atualização irreversível: o patch tinha como objetivo otimizar a autonomia de energia. No entanto, diversos usuários relataram o oposto. Em um caso, a carga do dispositivo caiu de 100% para 2% em apenas cinco horas, apesar de um uso inferior a 20 minutos de tela. O Google está oferecendo compensações pelo ocorrido, incluindo uma substituição gratuita da bateria, um pagamento de 50 dólares, ou 100 dólares de desconto para a compra de um novo Pixel, que podem ser solicitados na página oficial de suporte do aparelho. As informações são do site Android Central.",
+            "url": ""
+        },
+        {
+            "text": "Velocidade média da rede móvel cresce no Brasil, segundo relatório: de acordo com a Opensignal, o aumento foi de 30% a 50% nos downloads e de 10% a 20% nos uploads, impulsionado pela maior disponibilidade do 5G, favorecida pela liberação da frequência de 3,5 GHz pela Anatel. A Vivo lidera na experiência de velocidade de download com uma média de 40,2 Mbps, seguida pela Claro (37,4) e TIM (34,5). As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI afirma ter evidências de que DeepSeek treinou modelos com dados de sua API: pesquisadores de segurança da Microsoft teriam identificado, no final de 2024, a exfiltração de grandes volumes de dados por meio de contas do tipo “developer”, supostamente ligadas à concorrente. A OpenAI também alega ter indícios de que a DeepSeek empregou a técnica de destilação, onde um modelo é treinado extraindo conhecimento de outro mais avançado, o que pode reduzir custos. A empresa não revelou detalhes sobre as evidências encontradas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Play Store destacará aplicativos de VPN confiáveis: o selo aparecerá tanto na página de detalhes da aplicação quanto nos resultados de pesquisa. Para obter a certificação, os programas devem cumprir alguns critérios, incluindo totalizar pelo menos 10 mil instalações e 250 avaliações, estar disponível na loja há pelo menos 90 dias, e fornecer informações transparentes sobre a coleta de dados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple pode anunciar “HomePod” com tela de sete polegadas em 2025: segundo o jornalista Mark Gurman, o aparelho, parecido com uma versão menor do iPad, seria capaz de controlar lâmpadas e fechaduras inteligentes, além de realizar chamadas pelo FaceTime. Uma versão premium pode incluir um braço robótico capaz de girar e inclinar automaticamente o display, para que o usuário permaneça enquadrado em ligações de vídeo enquanto se move pela casa. As informações são do site Digital Trends.",
+            "url": ""
+        },
+        {
+            "text": "Tesla pretende lançar direção autônoma sem supervisão humana em junho: o recurso estará disponível no serviço de robotáxi da empresa, cujos veículos chegarão ao local de embarque sem ninguém ao volante, inicialmente em Austin, no Texas. A empresa afirma que os seus clientes já acumularam cerca de 5 bilhões de quilômetros dirigindo com o sistema Full Self-Driving (FSD), versão que ainda exige atenção dos motoristas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple rejeitou Intel para seus chips em 2011 porque a empresa não tinha a mentalidade necessária para produzir componentes para clientes externos: Tim Cook, CEO da empresa, afirmou na época que a Intel tinha dificuldade em se adaptar a demandas específicas, sempre priorizando o desenvolvimento de seus próprios processadores. A informação foi divulgada por Morris Chang, fundador da TSMC, a qual também estava em negociação com a Apple naquele ano, e hoje é sua principal fabricante. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
