@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI: o3-mini gratuito / JavaScript Temporal / Meta quer Facebook “raiz”",
+    "fps": 30,
+    "timestamp": 1738593140,
+    "width": 0,
+    "height": 0,
+    "date": "03/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança modelo de raciocínio o3-mini gratuitamente: segundo a empresa, o sistema oferece respostas mais precisas e 24% mais rápidas em comparação com o o1-mini, e também supera o o1 em tarefas de programação e raciocínio. Usuários poderão testá-lo clicando no botão “Refletir” abaixo do campo de texto, com limite de uso semelhante ao do GPT-4o. Assinantes dos planos Plus e Team poderão enviar 150 mensagens por dia, enquanto o Pro, de 200 dólares por mês, permite acesso ilimitado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "JavaScript introduz objeto que substitui “Date” ao lidar com datas e horários: o Temporal foi criado para superar limitações atuais, como falta de suporte a fusos horários, comportamento imprevisível ao realizar parsing de datas e dificuldades nos cálculos envolvendo o horário de verão. Seu suporte ainda está em fase experimental em navegadores como Firefox Nightly, mas desenvolvedores interessados podem testá-lo no console de qualquer browser, acessando a página da proposta no site do comitê TC39. A documentação pode ser conferida no MDN. As informações são do blog da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "Meta pretende resgatar experiência do “Facebook original” neste ano: embora tenha se tornado uma opção secundária para muitos, Mark Zuckerberg ressalta que a rede social conta atualmente com mais de 3 bilhões de usuários ativos mensais. Ele não detalhou especificamente quais mudanças serão implementadas, mas afirma que pretende recuperar a maneira como a plataforma era utilizada em sua fase inicial. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Direitos Autorais dos EUA estabelece diretrizes para proteção de conteúdos gerados por IA: resultados elaborados exclusivamente a partir de prompts de texto, mesmo que altamente detalhados, não serão assegurados, assim como as próprias instruções fornecidas ao modelo. Por outro lado, o uso da tecnologia como ferramenta de apoio, como para oferecer um rascunho de um livro ou ideias para uma música, pode ser protegido, contanto que o conteúdo seja substancialmente modificado por um humano posteriormente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "NordVPN lança protocolo capaz de contornar bloqueadores de VPN: o NordWhisper foi desenvolvido para simular tráfego regular da internet, de modo que provedores e sites não consigam distingui-lo. No entanto, a empresa reconhece que o recurso pode não funcionar perfeitamente em todas as situações, e alerta que seu uso pode resultar em maior latência. Inicialmente, o protocolo está disponível para Windows, Linux e Android, com planos de expansão no futuro. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk admite que será necessário substituir hardware de carros da Tesla para integrar direção totalmente autônoma: a empresa está trabalhando em uma versão mais recente do software Full Self-Driving, projetada para veículos com o hardware mais novo (HW4), incluído nos modelos 3, Y, e nos S e X de 2023 em diante. Isso contrasta com uma afirmação da companhia em 2016 de que todos os seus automóveis estariam equipados com o hardware necessário para atingir a condução totalmente autônoma. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google disponibiliza Gemini 2.0 Flash como padrão para todos os usuários: o modelo está disponível no aplicativo móvel e na web, e promete aprimorar a experiência em tarefas como escrita, estudo e brainstorming. A empresa afirma que as variações Flash e Pro da versão 1.5 ainda permanecerão acessíveis por algumas semanas. O Gemini 2.0 Flash foi anunciado originalmente em dezembro, em fase experimental. As informações são do blog do Google e do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Apple Intelligence receberá suporte para mais idiomas, incluindo português: no lançamento, a tecnologia tinha compatibilidade somente com o inglês americano, expandindo posteriormente para outras variações da mesma língua. A partir de abril, usuários também poderão fornecer instruções em francês, alemão, italiano, espanhol, japonês, coreano e chinês simplificado. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
