@@ -80,7 +80,7 @@ jobs:
               run: ./bin/run create tts
 
             - name: Save TTS files in Artifacts
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@v4
               with:
                   name: audio-files
                   path: |
@@ -136,7 +136,7 @@ jobs:
               run: echo "tmpPath=$(./bin/run info tmp --dir)" >> $GITHUB_OUTPUT
 
             - name: Download TTS files
-              uses: actions/download-artifact@v3
+              uses: actions/download-artifact@v4
               with:
                   name: audio-files
                   path: ${{ steps.tmp.outputs.tmpPath }}/
@@ -158,7 +158,7 @@ jobs:
 
             - name: Save video in Artifacts
               if: ${{ failure() }}
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@v4
               with:
                   name: youtube-video-assets
                   path: |
@@ -169,7 +169,7 @@ jobs:
                   retention-days: 2
 
             - name: Save content in Artifacts
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@v4
               with:
                   name: content-file
                   path: |
