@@ -1,0 +1,45 @@
+{
+    "title": "Histórico: Nvidia despenca / Linux mais eficiente / Sony encerra Blu-ray",
+    "fps": 30,
+    "timestamp": 1738074732,
+    "width": 0,
+    "height": 0,
+    "date": "28/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nvidia perde 600 bilhões de dólares em valor em um único dia, maior queda da história para uma empresa: as ações despencaram 17%, levando a uma retração de 3,1% no índice Nasdaq. A principal razão foi o lançamento do LLM da chinesa DeepSeek, que foi treinado – supostamente – em apenas dois meses, a um custo inferior a 6 milhões de dólares, por meio dos chips H800 da Nvidia, menos poderosos que os H100 utilizados pela OpenAI e Meta. Isso gerou incertezas no mercado, levantando temores de que a demanda por GPUs mais robustas possa ser impactada. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Alteração de trinta linhas no código do Linux pode reduzir consumo de energia em data centers em até 30%: uma dupla de cientistas da computação descobriu que o método tradicional de processamento de pacotes de tráfego de rede era ineficiente. Ao reorganizar algumas operações do script, sem adicionar nada, conseguiram otimizar o uso dos caches de CPU nos servidores. A solução foi submetida para análise e incluída na versão 6.13 do kernel Linux, lançada este mês. As informações são do site Data Center Dynamics.",
+            "url": ""
+        },
+        {
+            "text": "Após 18 anos, Sony encerrará produção de mídias Blu-ray: a empresa já havia descontinuado a fabricação para consumidores em meados de 2024, mantendo-a para clientes empresariais. Contudo, a baixa demanda, decorrente da crescente preferência do público por serviços de streaming, tornou o negócio insustentável. A decisão também impacta mídias MiniDisc e MiniDV. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Autoridade Nacional de Proteção de Dados proíbe World, de Sam Altman, de recompensar brasileiros por escaneamento da íris: a medida determina que a oferta da moeda digital WLD ou qualquer outra compensação financeira seja suspendida. Ela também exige que a Tools for Humanity, empresa por trás do projeto, disponibilize em seu site a identificação do encarregado pelo tratamento de dados pessoais. A ANPD considera que oferecer pagamentos pode comprometer a liberdade de decisão das pessoas, influenciando aqueles em situações de vulnerabilidade. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Sites falsos do Reddit e WeTransfer disseminam malware Lumma Stealer: a campanha é promovida por métodos como malvertising e envenenamento de SEO. A página apresenta a discussão de um tópico específico, onde um usuário solicita ajuda para baixar uma ferramenta, enquanto outro compartilha o arquivo por meio de um link que, ao ser clicado, direciona a vítima para uma cópia enganosa do WeTransfer, na qual o botão de download leva ao payload do malware. Ao todo, foram identificadas 529 páginas falsas do Reddit e 407 do WeTransfer. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode armazenar dados excluídos do Operator por até 90 dias: isso inclui conversas e capturas de tela associadas. Segundo a empresa, a política tem como objetivo combater o uso indevido da ferramenta, permitindo que uma equipe autorizada investigue e revise possíveis vetores de abuso. A medida é semelhante à aplicada ao ChatGPT, embora, nesse caso, o período de retenção seja de 30 dias. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta permitirá vincular conta do WhatsApp ao Instagram e Facebook: a novidade estará disponível por meio do hub Central de Contas, localizado nas configurações do aplicativo. Isso possibilitará que usuários compartilhem Stories em várias plataformas simultaneamente, por exemplo, e realizem login de forma unificada. A funcionalidade está sendo lançada globalmente, mas a empresa ressalta que pode levar alguns meses para que todos tenham acesso. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}

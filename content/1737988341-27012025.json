@@ -1,0 +1,45 @@
+{
+    "title": "Hackers hackeados / IA super compacta / Perigo em smartwatches",
+    "fps": 30,
+    "timestamp": 1737988341,
+    "width": 0,
+    "height": 0,
+    "date": "27/01/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker infecta mais de 18 mil dispositivos de outros hackers novatos: o ataque foi realizado por meio de uma versão gratuita e trojanizada de uma ferramenta para criação de malwares do tipo RAT (Trojan de Acesso Remoto). Ao utilizar o software, um backdoor era implantado nas máquinas, que permitia ao autor original controlá-las remotamente. O programa malicioso foi distribuído em plataformas como GitHub, Telegram, YouTube, sites e serviços de hospedagem de arquivos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face lança modelos de IA que operam com menos de 1 GB de RAM: os sistemas SmolVLM 256M e 500M são capazes de executar tarefas como descrição de imagens e videoclipes, bem como responder a perguntas relacionadas a PDFs, incluindo texto digitalizado e elementos gráficos. Ambos estão disponíveis online e podem ser baixados diretamente no site Hugging Face sob a licença Apache 2.0. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple é acusada de usar “produtos químicos eternos” em pulseiras de smartwatches: a denúncia tem como base um estudo que identificou altas concentrações de per- e polifluoroalquil (PFAS) em algumas versões do produto. Essas substâncias são conhecidas por sua baixíssima taxa de degradação e alta resistência ao suor e óleos da pele. Em exposições excessivas, podem acarretar em sérios problemas de saúde, como câncer, doenças autoimunes, disfunções hormonais e complicações durante a gestação. Em resposta, a Apple afirma que as pulseiras do Watch são seguras para uso e que realiza testes rigorosos para assegurar a qualidade e segurança dos materiais utilizados. As informações são dos sites The Register e Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Bun 1.2 é lançado com avanços na compatibilidade com Node.js: as novidades incluem uma API para o serviço de armazenamento S3, um cliente Postgres integrado — com suporte para MySQL previsto no futuro — e um arquivo de lock baseado em texto (bun.lock), que agora é utilizado pelo comando “bun install”. O desempenho do framework Express também foi otimizado, ficando três vezes mais rápido. Além disso, diversos módulos do Node.js já atingem mais de 90% de aprovação em testes realizados. As informações são do blog do Bun.",
+            "url": ""
+        },
+        {
+            "text": "Brave Search lança recurso para personalizar resultados de busca: o Rerank, localizado no lado direito da tela, permite que usuários priorizem ou não determinados sites, aumentando ou diminuindo a classificação de páginas específicas, ou mesmo eliminando aquelas que não atendem às expectativas de qualidade. As preferências são armazenadas localmente e transmitidas ao mecanismo de busca por meio de um cookie que não é usado para rastreamento. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google permite que empresas recomendem extensões confiáveis do Chrome para funcionários: o recurso, disponível na versão Enterprise do navegador, permite que as companhias destaquem plugins considerados legítimos em uma página personalizada da Chrome Web Store. A iniciativa visa mitigar riscos de segurança associados à instalação de complementos maliciosos. Ainda este ano, as empresas poderão remover remotamente extensões já instaladas nos browsers dos colaboradores e bloquear futuros downloads. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Google DeepMind prevê início de testes clínicos com medicamentos projetados por IA até final de 2025: Demis Hassabis destaca que a tecnologia possibilita vislumbrar um futuro de medicina personalizada, onde tratamentos seriam otimizados para o metabolismo específico de cada indivíduo. Por outro lado, Hassabis reconhece os desafios relacionados ao uso de IA na área médica, incluindo a escassez de dados de treinamento de alta qualidade. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
