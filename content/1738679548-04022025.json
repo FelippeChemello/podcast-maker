@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp interrompe spyware / Deep Research da OpenAI / Criptografia com hologramas",
+    "fps": 30,
+    "timestamp": 1738679548,
+    "width": 0,
+    "height": 0,
+    "date": "04/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp interrompe campanha de spyware que visava jornalistas e membros da sociedade civil: segundo a empresa, cerca de 100 indivíduos foram “possivelmente comprometidos” por um software espião desenvolvido pela Paragon Solutions chamado de Graphite, o qual permite acesso total ao dispositivo, incluindo a leitura de mensagens criptografadas. A localização das vítimas não foi divulgada, e ainda não está claro quem esteve por trás da investida. O WhatsApp enviou à Paragon uma notificação extrajudicial e está avaliando possíveis medidas legais. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia agente capaz de realizar buscas avançadas: o Deep Research, segundo a empresa, é capaz de planejar e executar várias etapas para encontrar informações na internet. O processo é exibido em uma barra lateral, e o tempo estimado para a formulação das respostas varia entre 5 e 30 minutos. No Benchmark Humanity’s Last Exam, o modelo atingiu 26,6% de precisão, superando os 13% do recém-lançado o3-mini. O sistema está disponível no plano Pro, de 200 dólares mensais, com um limite de 100 consultas por mês. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam hologramas para criar sistema de criptografia óptica avançada: a tecnologia utiliza redes neurais para recuperar informações que foram completamente e aleatoriamente embaralhadas por um laser de alta potência interagindo com um pequeno tubo contendo etanol, que gera turbulência térmica e intensifica a desordem do feixe de luz. O sistema atingiu uma taxa de recuperação entre 90% e 95%. O avanço também pode abrir caminho para a próxima geração de telecomunicações seguras. As informações são do site Optica.",
+            "url": ""
+        },
+        {
+            "text": "Algoritmo desenvolvido na China aumenta em até 800 vezes o desempenho de GPUs Nvidia: a instrução foi elaborada para melhorar a eficiência de simulações baseadas na peridinâmica, método utilizado em setores como engenharia civil para analisar materiais sujeitos a fraturas e falhas. Para isso, pesquisadores utilizaram a tecnologia CUDA da Nvidia para otimizar o gerenciamento de memória do chip. Os testes foram conduzidos em uma RTX 4070, o que pode eventualmente reduzir a dependência de clusters de alto desempenho e custo elevado. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "PyPI introduz arquivamento de projetos para evitar atualizações maliciosas: o Project Archival permite que desenvolvedores sinalizem que seus programas não receberão mais atualizações, ainda que possam ser baixados. O PyPI recomenda que os mantenedores publiquem uma versão final antes do arquivamento, fornecendo detalhes sobre o motivo e, se possível, sugerindo alternativas. O objetivo é prevenir ataques em que hackers sequestram contas de desenvolvedores para enviar atualizações maliciosas a projetos populares, mas descontinuados. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Modelo o1 da OpenAI é disponibilizado gratuitamente no GitHub Copilot: o sistema pode ser acessado por meio do botão “Think Deeper”, e levará cerca de 30 segundos para processar a resposta de uma solicitação, oferecendo saídas passo a passo para questões complexas, com foco especial na criação de código. O modelo já estava disponível no Copilot Labs desde outubro para assinantes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft integra modelo Copilot ao Paint: a ferramenta pode ser acessada por meio de um botão localizado na barra de tarefas do programa, que exibe um menu suspenso com opções como criação de imagens, remoção de objetos e a capacidade de transformar esboços em arte gerada por IA. A novidade já está disponível para usuários do programa Windows Insider nos canais Canary e Dev. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
