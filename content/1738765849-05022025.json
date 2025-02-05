@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI do “lado errado” / Facebook admite erro / Swift Build open source",
+    "fps": 30,
+    "timestamp": 1738765849,
+    "width": 0,
+    "height": 0,
+    "date": "05/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sam Altman admite que OpenAI pode estar do “lado errado da história” em relação ao open source: o CEO reconhece que a crescente concorrência da DeepSeek reduziu a liderança da empresa, e que ela precisa reconsiderar sua estratégia para o desenvolvimento de tecnologias abertas. Kevin Weil, diretor de produtos, afirma que a companhia avalia a possibilidade de tornar públicos modelos mais antigos que já não são considerados de última geração. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Facebook admite erro e remove bloqueio sobre postagens de Linux: o problema havia sido identificado pela DistroWatch no dia 19 de janeiro. O portal confirmou que agora pode novamente publicar conteúdos relacionados ao sistema. A rede social não forneceu detalhes sobre a causa, mas assegura que “discussões sobre Linux são permitidas”. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Apple disponibiliza Swift Build como código aberto: esse é o mecanismo utilizado pelo Xcode para a construção de aplicações em Swift no macOS. O recurso conta com plugins para suportar outros sistemas como Android, Linux e Windows, e oferece compatibilidade com diversos tipos de projetos, incluindo bibliotecas e aplicativos de linha de comando, além de otimizações para construção paralela com código C. A ferramenta está disponível no repositório “swiftlang/swift-build” no GitHub. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Meta afirma que pode interromper desenvolvimento de uma IA caso apresente riscos: a empresa diferencia entre sistemas de “alto risco” e “risco crítico”. Ambos poderiam auxiliar em ataques cibernéticos, químicos ou biológicos. Contudo, enquanto o primeiro faria isso de forma limitada, o segundo apresentaria um potencial “catastrófico e impossível de mitigar”, tornando sua liberação inviável até que se torne menos perigoso. Por segurança, a companhia também aplicará medidas para evitar a exfiltração desses modelos de seu ambiente interno. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança sistema avançado que protege modelos contra jailbreaking: o Constitutional Classifiers opera com base em regras de linguagem natural que definem categorias amplas de conteúdos permitidos e proibidos, atuando tanto na entrada quanto na saída dos dados. No entanto, sua utilização aumenta em 23,7% o uso computacional. Interessados podem testar as proteções do sistema até 10 de fevereiro no site oficial, ao tentar obter respostas para oito perguntas sobre armas químicas. A empresa divulgará qualquer tentativa bem-sucedida. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare facilita identificação de imagens autênticas na internet: a plataforma está integrando sua infraestrutura com o Content Credentials da Adobe, que aplica metadados digitais a mídias online para rastrear sua origem, local de publicação e possíveis edições, inclusive por sistemas de IA. O recurso já está disponível para todos os usuários da rede global da companhia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft descontinuará VPN do Windows Defender incluída no Microsoft 365: o recurso havia sido disponibilizado sem custo adicional em 2023 para assinantes Personal e Family. A empresa declara que direcionará seus investimentos para “novas áreas que se alinham melhor” às necessidades dos usuários. A ferramenta estará indisponível a partir do dia 28 deste mês. As informações são do site Windows Central.",
+            "url": ""
+        }
+    ]
+}
