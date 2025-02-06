@@ -1,0 +1,49 @@
+{
+    "title": "DeepSeek: prisão por download / Bitcoin: país volta atrás / Navegador para saúde mental",
+    "fps": 30,
+    "timestamp": 1738852283,
+    "width": 0,
+    "height": 0,
+    "date": "06/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Senador dos EUA propõe pena de prisão para usuários que baixarem modelo DeepSeek: o projeto de lei prevê até 20 anos de encarceramento e/ou multa de um milhão de dólares para usuários individuais, e de 100 milhões para empresas norte-americanas que conduzirem pesquisas na China ou em parceria com companhias chinesas. No entanto, não está claro se aqueles que baixarem o sistema sem saber que se trata de um produto chinês seriam afetados. O senador justifica que dados fornecidos para IAs chinesas podem ser utilizados contra os EUA. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "El Salvador deixa de considerar Bitcoin como moeda oficial: a decisão foi tomada para garantir um empréstimo do Fundo Monetário Internacional, em meio a dificuldades econômicas. Com a mudança, empresas locais não são mais obrigadas a aceitar o ativo em transações, e o governo deixará de recebê-lo como pagamento de impostos e dívidas públicas. O país foi o primeiro do mundo a adotar o Bitcoin como moeda de curso legal em 2021. Contudo, estima-se que, em 2024, 92% da população não o utilizava. As informações são dos sites The Tico Times e Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Opera lança navegador com foco no bem-estar mental: com um design semitransparente, o Air inclui lembretes para pausas, exercícios de alongamento e respiração, além de paisagens sonoras e batidas binaurais — frequências ligeiramente diferentes tocadas em cada ouvido — para auxiliar na concentração e no alívio do estresse. Ele também conta com VPN gratuita, bloqueador de anúncios e a assistente Aria. O browser já está disponível para Windows e Mac. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia Gemini 2.0 Pro e introduz raciocínio avançado ao modelo: o sistema está disponível nas plataformas Vertex AI e AI Studio. Segundo a empresa, ele se destaca em programação e processamento de prompts complexos. Além disso, é capaz de realizar buscas e executar códigos. Sua janela de contexto de 2 milhões de tokens permite o processamento de quase 1,5 milhão de palavras. A companhia também apresentou o “2.0 Flash Thinking”, voltado para raciocínio, e o “2.0 Flash-Lite”, otimizado para eficiência de custo e desempenho, superando o 1.5 Flash. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Sistemas de IA com “risco inaceitável” serão proibidos na União Europeia: a legislação “AI Act” visa bloquear tecnologias que, por exemplo, manipulam decisões de usuários de maneira enganosa, realizam coleta biométrica em locais públicos, e tentam interpretar emoções de pessoas em ambientes de trabalho ou escolares. Empresas que utilizarem esses modelos na UE poderão ser penalizadas em até 35 milhões de euros ou 7% de sua receita no ano fiscal anterior, independentemente do local onde estejam sediadas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft remove instruções de como contornar TPM 2.0 no Windows 11: anteriormente, o texto informava que, embora a empresa recomendasse a instalação em hardware compatível, usuários poderiam modificar chaves de registro para contornar os requisitos. Agora, a página orienta que máquinas não suportadas retornem ao Windows 10 “imediatamente”. Além disso, a ferramenta de terceiros Flyby11, que permite fazer a atualização em PCs incompatíveis, passou a ser sinalizada como um malware, apesar de poder ser utilizada com segurança. As informações são do site XDA.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic pede que candidatos não utilizem IA em seu processo de recrutamento: a empresa afirma que deseja avaliar de forma genuína as habilidades de comunicação de cada indivíduo. Essa solicitação aparece antes de perguntas tradicionais, como “Por que você deseja trabalhar conosco?”, e é incluída na maioria das ofertas de emprego da companhia. Apesar disso, a organização incentiva o uso da tecnologia para aumentar a produtividade no seu ambiente de trabalho. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança aplicativo para criar convites personalizados: o Convites conta com recursos como escolha de fotos pré-definidas ou da galeria do dispositivo, integração com Mapas e Tempo para fornecer direções e previsões climáticas, playlist colaborativa, e uso do Image Playground e da ferramenta de escrita do Apple Intelligence. A criação do convite requer uma assinatura do iCloud+, mas qualquer pessoa pode confirmar presença, independentemente de ter uma conta ou dispositivo Apple. O app já está disponível para iPhones com iOS 18 ou superior, e na web. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
