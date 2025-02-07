@@ -1,0 +1,45 @@
+{
+    "title": "Devs Go: atenção / Novidades no GitHub Copilot / 1ª vez: AMD supera Intel",
+    "fps": 30,
+    "timestamp": 1738938733,
+    "width": 0,
+    "height": 0,
+    "date": "07/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Serviço de proxy do Google serviu backdoor para desenvolvedores Go por mais de três anos: o Go Module Mirror armazena em cache pacotes de código aberto provenientes de várias fontes, com objetivo de acelerar downloads. Em novembro de 2021, uma versão maliciosa do módulo “boltdb/bolt”, chamada “boltdb-go/bolt”, havia sido hospedada no GitHub, sendo posteriormente revertida para a biblioteca legítima. Contudo, o serviço continuou hospedando, em cache, o pacote falso desde então, o qual já foi removido pelo Google. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia modo agente e outras novidades para o Copilot: o Agent Mode permite que o sistema seja capaz de detectar e corrigir erros de seu próprio código automaticamente, além de sugerir comandos de terminal e analisar falhas de execução. A ferramenta está disponível no VS Code Insiders; o Copilot Edits agora está acessível para todos os usuários do VS Code, permitindo que desenvolvedores realizem alterações interativas em múltiplo arquivos, podendo revisá-las e, posteriormente, aceitar ou rejeitar as edições; O Project Padawan, previsto para ser lançado neste ano, é projetado para auxiliar engenheiros de software em tarefas como geração, revisão, refatoração e otimização de código, além de automação de testes e pipelines de CI/CD. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "AMD supera Intel em vendas para data centers pela primeira vez na história: os dados são dos resultados financeiros do quarto trimestre de 2024. A receita total da empresa no período foi de 7,65 bilhões de dólares, um crescimento de 24% em relação ao ano anterior, com o segmento de data centers atingindo um lucro líquido recorde de 3,8 bilhões, em comparação com os 3,4 bilhões da Intel. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Arm teria desistido de barrar licença de chips da Qualcomm: segundo o último relatório financeiro trimestral da Qualcomm de 2024, a Arm informou no dia 8 de janeiro que não estava mais buscando o encerramento do Contrato de Licença de Arquitetura. A informação também foi reforçada pelo CEO da Qualcomm, Cristiano Amon. Por outro lado, a Arm declara em um processo regulatório deste mês que moções pós-julgamento foram apresentadas por ambas as partes para esclarecer a situação legal após os veredictos do júri, e um novo julgamento pode ser solicitado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia domínio para criadores de conteúdo: o “.channel” é voltado para aqueles que desejam construir lojas online de produtos digitais e físicos, além de fortalecer a conexão com seu público. Ele já está disponível para registro em acesso antecipado até o dia 11, mediante uma taxa única adicional, que diminui progressivamente a cada dia. Após essa data, o domínio será disponibilizado ao público em geral por um preço anual base. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face clona Deep Research da OpenAI apenas 24 horas após lançamento: o Open Deep Research adiciona uma camada de “agente” a um modelo de linguagem existente, como o GPT-4o, permitindo a execução de tarefas em múltiplas etapas, como coleta de informações e geração de relatórios detalhados. No benchmark General AI Assistants, o sistema atingiu 55,1% de precisão, em contraste com os 67,3% da OpenAI. A ferramenta também permite alternar entre diferentes tecnologias, incluindo o o1 e o recém-lançado o3-mini. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "DeepSeek teria investido 1,6 bilhão de dólares para treinar IA: segundo a empresa SemiAnalysis, a companhia chinesa possui uma infraestrutura com 50 mil GPUs Nvidia, incluindo as versões H800, H100 e H20. A DeepSeek afirma ter treinado o modelo R1 a um custo de 6 milhões de dólares, utilizando 2.048 placas gráficas. No entanto, de acordo com a análise, os gastos mencionados referem-se apenas ao tempo de uso de GPUs para o pré-treinamento, não incluindo despesas com pesquisa, refinamento, processamento de dados e infraestrutura. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
