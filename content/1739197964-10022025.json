@@ -1,0 +1,49 @@
+{
+    "title": "Google quebra promessa / Malware Android e iOS / Reino Unido: exigência polêmica",
+    "fps": 30,
+    "timestamp": 1739197964,
+    "width": 0,
+    "height": 0,
+    "date": "10/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google remove compromisso de não desenvolver armas com IA: a empresa revisou seu documento “AI Principles”, eliminando a seção que visava não utilizar a tecnologia de formas “que causem ou provavelmente causem danos gerais”. Segundo o CEO do DeepMind, Demis Hassabis, a colaboração entre empresas e governos pode permitir a criação de sistemas que protejam a população, impulsionem o crescimento global e apoiem a segurança nacional. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Malware embutido em aplicativos para Android e iOS visa carteiras de moedas digitais: o “SparkCat” procura por frases de recuperação (mnemonics) em vários idiomas, incluindo inglês e português, utilizando o Google ML Kit, um sistema de reconhecimento óptico de caracteres, para analisar imagens da galeria do usuário em busca de palavras-chave relacionadas a ativos digitais. Aplicativos infectados foram baixados mais de 242 mil vezes na Play Store. Google e Apple foram notificadas, e removeram as aplicações de suas respectivas lojas. As informações são do site da Kaspersky.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido teria ordenado que Apple concedesse acesso a backups criptografados do iCloud de usuários globais: o governo supostamente emitiu uma Notificação de Capacidade Técnica à empresa — com base na Lei dos Poderes de Investigação — o que torna ilegal a revelação da exigência. Além disso, a companhia não poderia notificar as pessoas sobre a perda de segurança de suas informações. Autoridades britânicas argumentam que a criptografia de ponta a ponta facilita atividades criminosas, dificultando o monitoramento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria baixado 81,7 TB de dados pirateados via torrent para treinar modelo Llama: segundo um processo judicial, as informações são provenientes das bibliotecas online Z-Library e LibGen, que incluem milhões de livros e artigos. Em e-mails internos tornados públicos, um engenheiro de pesquisa da empresa expressa desconforto com os possíveis riscos legais. O processo alega que isso comprova que a companhia tinha ciência da ilegalidade da prática. A Meta, por sua vez, defende que os dados são de “uso justo”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores clonam o1 da OpenAI por menos de 50 dólares: o s1 apresenta desempenho comparável a outros modelos avançados, incluindo o R1 da DeepSeek, em testes de matemática e programação. A equipe utilizou como base o Qwen, do Alibaba, e aplicou a técnica de destilação a partir do Gemini 2.0 Flash Thinking Experimental. O treinamento levou apenas 30 minutos e foi realizado utilizando 16 GPUs Nvidia H100. Seu código pode ser conferido no repositório “simplescaling/s1” do GitHub. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tailândia corta energia e internet na fronteira com Mianmar para combater golpes cibernéticos: a região é conhecida por abrigar complexos utilizados para executar fraudes online e por telefone em vítimas de todo o mundo, potencialmente gerando bilhões de dólares anualmente. A medida foi viabilizada por uma cláusula contratual que permite a interrupção do fornecimento de eletricidade por motivos de segurança nacional. As informações são do blog do Bitdefender.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam sal para aumentar vida útil de baterias de alumínio: o fluoreto de alumínio — diferente do cloreto de sódio (sal de cozinha) — possui uma estrutura porosa que permite maior mobilidade dos íons, aumentando a condutividade do material e evitando vazamentos. Em testes, a célula de energia manteve 99% de sua capacidade original após 10 mil ciclos de carga e descarga, enquanto uma bateria típica de íons de lítio retém apenas 80% após 300 a 500 ciclos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia pode obrigar empresas de IA a lembrarem crianças de que chatbots não são pessoas: segundo o senador responsável pela proposta, a medida busca proteger os jovens dos aspectos “viciantes, isolantes e influentes” da tecnologia. Além disso, o projeto ordenaria que as companhias apresentassem relatórios anuais ao Departamento Estadual de Serviços de Saúde sobre sinais de comportamento preocupante entre esses usuários, como tendências autodestrutivas, e o número de vezes em que os modelos abordaram temas sensíveis. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
