@@ -1,0 +1,45 @@
+{
+    "title": "Oferta hostil: Musk quer OpenAI / “TikTok” da Wikipédia / JavaScript: Oracle rebate",
+    "fps": 30,
+    "timestamp": 1739284386,
+    "width": 0,
+    "height": 0,
+    "date": "11/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk faz oferta hostil de 97,4 bilhões de dólares pela OpenAI: a intenção é resgatar o compromisso original da companhia com transparência no desenvolvimento de IAs. Esse tipo de proposta é conhecida no mercado financeiro como “oferta hostil”, quando a empresa alvo não está à venda e não tem interesse de trocar o seu comando. Após o anúncio, Sam Altman, CEO da OpenAI e também membro do conselho de administração da companhia, respondeu com um “não, obrigado” e, em tom irônico, se ofereceu para comprar o X por 9,74 bilhões de dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria feed infinito da Wikipédia como alternativa às redes sociais: o WikiTok, de Isaac Gemal, permite deslizar verticalmente por um fluxo de artigos aleatórios do site, obtidos por meio de sua API, incluindo uma imagem correspondente e um texto breve sobre o assunto. Diferente de outras plataformas, o programa não utiliza algoritmos para personalizar o conteúdo com base nos interesses do usuário. O serviço pode ser acessado em navegadores móveis e de desktop, e o código-fonte está disponível no repositório “IsaacGemal/wikitok” do GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Oracle solicita que cancelamento da marca “JavaScript” seja rejeitado: em resposta à acusação de ter usado um print do site do Node.js para renovar a propriedade em 2019, a empresa afirma que também apresentou como evidência uma página do Oracle JET, o que, segundo ela, seria suficiente para a aprovação. Ryan Dahl, criador do Node.js e do Deno, acusa a companhia de usar esse argumento para atrasar o processo em andamento e desviar a discussão central — se “JavaScript” deveria ser uma marca registrada. As informações são do blog do Deno.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft introduz bloqueador de scareware ao Edge: a tecnologia, que roda em PCs com Windows, emprega visão computacional de IA para detectar tanto ataques já conhecidos quanto ameaças emergentes em páginas da web. Segundo a empresa, o modelo opera inteiramente no dispositivo, sem armazenar ou enviar prints da tela para a nuvem. O recurso já está disponível na versão estável mais recente do navegador. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Satélite do tamanho de uma mala captura imagens de alta qualidade da Terra: o CubeSat ONGLAISAT, da empresa japonesa ArkEdge Space, tirou fotos a 410 quilômetros de altitude, com uma resolução espacial de 2,5 metros. Segundo a companhia, esses são, provavelmente, os registros de maior fidelidade já obtidos por um equipamento desse porte, que foi capaz de revelar detalhes como edifícios e estradas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo DeepSeek para iOS transmite dados não criptografados para servidores da ByteDance: isso permite que invasores monitorem o tráfego. Além disso, hackers mais sofisticados podem manipular as informações enquanto estão em trânsito. A Apple recomenda que desenvolvedores de apps para iPhone e iPad utilizem o módulo ATS para impedir transmissões inseguras via HTTP. No entanto, essa proteção não é obrigatória e está desativada na aplicação da DeepSeek. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pagamentos de ransomware diminuíram 35% em 2024, segundo relatório: ao todo, foram 814 milhões de dólares registrados no período, comparados ao recorde de 1,25 bilhão do ano anterior. Além disso, de julho a dezembro, os valores diminuíram para 321 milhões, em contraste com os 492 milhões do primeiro semestre — a maior queda já registrada entre dois períodos consecutivos de seis meses. Acredita-se que a redução esteja ligada a aplicação de punições mais rigorosas pelas autoridades, e ao aumento da conscientização global sobre ransomwares. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
