@@ -1,0 +1,45 @@
+{
+    "title": "Brave: injeção de JS / Chip da OpenAI chegando / TikTok libera sideload",
+    "fps": 30,
+    "timestamp": 1739370755,
+    "width": 0,
+    "height": 0,
+    "date": "12/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brave libera injeção de JavaScript personalizado em sites: o recurso permite que usuários avançados personalizem sua experiência de navegação, programando ações como ocultar barras laterais e anúncios, forçar o modo escuro, ajustar cores e tamanho de fonte, e configurar atalhos de teclado personalizados. A funcionalidade deve ser habilitada na seção “Filtragem de conteúdo” das configurações, no item “Modo de desenvolvedor”, e já está disponível a partir da versão 1.75 do navegador. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pode finalizar primeiro design de chip personalizado este ano: segundo fontes próximas, a previsão de conclusão é para os próximos meses. O objetivo da empresa é reduzir sua dependência da Nvidia. Após finalizar essa etapa, a companhia enviará o projeto para fabricação — processo conhecido como “taping out” — que será realizado pela TSMC. O chip será capaz de treinar IA, mas inicialmente será implantado para execução dos modelos. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "TikTok disponibiliza download de aplicativo fora da Play Store: a mudança ocorre após a remoção da plataforma da loja do Google nos EUA. A página oficial agora oferece tanto a variante padrão quanto a Lite — otimizada para conexões de internet mais lentas — e a empresa garante que a instalação é segura. A versão para iOS não está disponível, uma vez que a Apple permite sideload de aplicativos somente na União Europeia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple corrige falha no iPhone e iPad que permitia ataques “extremamente sofisticados”: a vulnerabilidade CVE-2025-24200, mitigada no iOS e iPadOS 18.3.1, permite desativar o Modo Restrito USB em aparelhos bloqueados. Esse modo impede que um dispositivo envie dados por uma conexão via cabo caso não tenha sido desbloqueado nos últimos sete dias. Segundo a empresa, o ataque exigia acesso físico ao celular. Ainda não está claro quem pode ter explorado a falha, como ela foi utilizada ou quem foi afetado. As informações são dos sites TechCrunch e Apple.",
+            "url": ""
+        },
+        {
+            "text": "Homem que perdeu HD com 8 mil Bitcoins considera comprar aterro sanitário: James Howells afirma que o conselho municipal de Newport anunciou planos para fechar e restringir o acesso ao local, e obteve permissão para a instalação de uma fazenda solar em parte da área. Diante desse cenário, Howells afirma que está em discussão com investidores sobre a possibilidade da aquisição. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Google prevê aplicações comerciais de computação quântica em até cinco anos: a afirmação vem de Hartmut Neven, chefe do setor na empresa. As possíveis soluções mencionadas pela companhia incluem avanços na ciência dos materiais — como o desenvolvimento de baterias mais eficientes para veículos elétricos —, e criação de medicamentos e alternativas energéticas. A Nvidia, por outro lado, acredita que essas possibilidades só se tornarão viáveis dentro de duas décadas. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores integram IA em robô para ajudá-la a compreender o mundo real: o dispositivo foi equipado com uma câmera, um braço mecânico e uma garra, que interagia com objetos coloridos em uma mesa ao seguir instruções como “mova o vermelho para a esquerda” ou “coloque o vermelho sobre o azul”. A iniciativa busca superar uma limitação dos modelos de linguagem atuais, que sabem utilizar palavras, mas não compreendem plenamente seus significados. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
