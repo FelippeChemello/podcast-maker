@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI cancela o3 / CPUs: 1ª queda em 20 anos / Pop-ups em veículos",
+    "fps": 30,
+    "timestamp": 1739457170,
+    "width": 0,
+    "height": 0,
+    "date": "13/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI cancela lançamento do modelo o3 e focará no GPT-5: a decisão visa simplificar a oferta de produtos da empresa, eliminando a necessidade de escolha entre diferentes sistemas dentro do chatbot. O GPT-5 permitirá acesso ilimitado a todos os usuários, integrando voz, tela, busca e pesquisa profunda, enquanto assinantes Plus e Pro terão acesso a níveis superiores de inteligência. Antes disso, a companhia lançará o GPT-4.5, codinome Orion, nas próximas semanas. Segundo Sam Altman, essa será a última tecnologia da empresa sem capacidade de raciocínio. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "PassMark registra primeira queda no desempenho médio de CPUs em 20 anos: a empresa desenvolve benchmarks para avaliação de hardwares, e publica resultados quinzenais. No último levantamento de 2025, a pontuação para notebooks apresentou uma queda de 3,4%, enquanto a de desktops recuou 0,5%, ambas em comparação ao ano anterior. Segundo a companhia, possíveis fatores incluem a preferência dos consumidores por máquinas mais acessíveis, limitações de desempenho no Windows 11, e bloatware — softwares pré-instalados que consomem recursos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Stellantis introduz anúncios pop-up em veículos Jeep e frustra proprietários: os donos relatam a exibição recorrente de propagandas sempre que o carro está parado. Em resposta, a empresa explica que isso faz parte de um acordo contratual com terceiros, e sugere que motoristas fechem as notificações tocando no botão “X”. Em paralelo, usuários mais técnicos estão explorando formas de desativar os pop-ups permanentemente, com uma espécie de “AdBlock” automotivo. As informações são do site Techstory.",
+            "url": ""
+        },
+        {
+            "text": "Google usará aprendizado de máquina para estimar idade de usuários e oferecer experiências mais adequadas: o modelo analisará dados como sites visitados, tipos de vídeos assistidos no YouTube e o tempo de existência da conta. Caso a pessoa seja identificada como menor de 18 anos, a empresa fará ajustes automáticos em seu perfil, e fornecerá opções para verificação de idade por selfie, cartão de crédito ou documento de identidade. Inicialmente, o recurso será implementado nos EUA, com planos de expansão para outros países no futuro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança carteira de Bitcoin para todos os usuários: o Wallet funciona como uma plataforma autocustodial, dando aos indivíduos total controle sobre seus fundos, sem a necessidade de intermediários como bancos ou corretoras. Os recursos incluem criptografia de ponta a ponta, envio de BTC apenas com o e-mail do destinatário, e rotação automática de endereços para dificultar rastreamentos. O serviço está disponível para Android, iOS e web. O código-fonte das aplicações pode ser acessado no perfil “ProtonWallet” do GitHub. As informações são do blog da Proton.",
+            "url": ""
+        },
+        {
+            "text": "YouTube agora é mais assistido na TV do que no celular: segundo o CEO Neal Mohan, espectadores estão consumindo mais de 1 bilhão de horas de conteúdo da plataforma diariamente em televisões. Acredita-se que isso esteja relacionado a melhorias no aplicativo, como a possibilidade de exibir comentários e descrições dos vídeos sem interromper a reprodução. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "BuzzFeed planeja rede social livre de algoritmos: o projeto “Island” consiste em uma plataforma desenvolvida com o propósito de “resgatar a diversão na internet” e oferecer um “refúgio” aos usuários contra o “doomscrolling” — hábito compulsivo de navegar indefinidamente por conteúdos negativos ou prejudiciais. Usuários interessados podem se inscrever para acesso antecipado no site oficial. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
