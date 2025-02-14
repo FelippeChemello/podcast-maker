@@ -1,0 +1,45 @@
+{
+    "title": "“Atrofia cognitiva” por IA / Satélites vulneráveis / Musk: Grok-3 supera todos",
+    "fps": 30,
+    "timestamp": 1739543500,
+    "width": 0,
+    "height": 0,
+    "date": "14/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Confiança excessiva em IA pode comprometer raciocínio crítico, segundo estudo da Microsoft: ao todo, foram mais de 300 profissionais entrevistados, que detalharam ferramentas e prompts utilizados em cerca de 930 casos de uso. Os resultados indicam que aqueles que acreditam cegamente nos modelos têm sua capacidade de resolver problemas por conta própria prejudicada, o que, segundo denominado pelos pesquisadores, pode levar a uma espécie de “atrofia cognitiva”. Segundo a equipe, a tecnologia em si não é o problema, mas a forma como é utilizada. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Falha em satélites da Iridium permite interceptar localização e mensagens de usuários: hackers éticos conseguiram utilizar equipamentos básicos, incluindo um Raspberry Pi, para rastrear funcionários do Departamento de Defesa dos EUA, e mapear seus dispositivos em cerca de 4 quilômetros de precisão. A tecnologia da Iridium também é utilizada por embarcações, pilotos de aeronaves e dispositivos IoT. Estima-se que dezenas ou centenas de milhares de seus aparelhos ainda utilizam o protocolo de rádio da primeira geração, que não possui criptografia. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk afirma que Grok-3 supera todos os chatbots atuais: segundo ele, o modelo está na fase final de desenvolvimento e é “assustadoramente inteligente”, com capacidades de raciocínio “muito poderosas”. A inovação está no uso de dados sintéticos no treinamento, permitindo que o sistema reflita sobre erros e busque consistência lógica ao analisar os próprios dados. Musk afirma que a tecnologia deve ser lançada em uma ou duas semanas. As informações são da Reuters e do site Techco.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige falha que expunha endereços de e-mail de usuários do YouTube: a vulnerabilidade era explorada ao tentar bloquear alguém no chat ao vivo da plataforma, que realizava uma requisição e retornava o Gaia ID do alvo — um identificador interno da empresa que não deveria estar acessível publicamente. A partir daí, outra falha na ferramenta Pixel Recorder permitia inserir o registro e obter o endereço de e-mail correspondente. O Google corrigiu ambos os problemas e afirma que não há indícios de exploração por hackers. As informações são do site Bleeping Computer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI quer reconsiderar como seus modelos abordam temas controversos: em uma nova versão do documento Model Spec, que define o comportamento de suas tecnologias, a empresa deseja que elas “descubram a verdade junto com os usuários”, mantendo, ao mesmo tempo, uma postura clara contra desinformação e tópicos prejudiciais. Além disso, há a possibilidade de permitir certos tipos de conteúdo adulto em contextos apropriados. As informações são dos sites The Verge e AIbase.",
+            "url": ""
+        },
+        {
+            "text": "Apple libera transferência de compras entre contas de um mesmo usuário: dessa forma, aplicativos, filmes e músicas adquiridos em um login secundário podem ser migrados para outro primário. O processo ocorre na seção “Mídia e Compras” das configurações do iPhone e do iPad. Ambas as contas devem estar conectadas no mesmo dispositivo, configuradas para a mesma região, com o sistema operacional atualizado e a autenticação de dois fatores ativada. Além disso, o usuário deve esperar 15 dias desde a última compra antes de realizar a transferência. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores demonstram capacidade de autorreplicação em modelos de IA: os experimentos foram conduzidos utilizando o Llama31-70B-Instruct, da Meta, e o Qwen25-72B-Instruct, da Alibaba. Em 10 testes, realizados em ambientes controlados, os sistemas conseguiram criar réplicas separadas e funcionais de si mesmos em 50% e 90% dos casos, respectivamente. A equipe alerta que esse comportamento pode ser um indício precoce de IAs rebeldes, onde a tecnologia desenvolve autonomia e age contra interesses humanos. As informações são do site Space.",
+            "url": ""
+        }
+    ]
+}
