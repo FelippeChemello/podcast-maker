@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT reduz “censura” / Chip próprio da Arm / Brasil: Street View aprimorado",
+    "fps": 30,
+    "timestamp": 1739802781,
+    "width": 0,
+    "height": 0,
+    "date": "17/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI reduz avisos de conteúdo no ChatGPT: essas mensagens são exibidas em uma caixa laranja para sinalizar possíveis violações dos termos de serviço da plataforma. Segundo uma integrante da equipe, a mudança visa diminuir recusas “inexplicáveis” do modelo em certos tópicos, permitindo que usuários utilizem a ferramenta conforme julgarem adequado, desde que dentro da lei e sem causar danos a si mesmos ou a terceiros. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Arm estaria planejando fabricação própria de chips para data centers: segundo fontes próximas ao assunto, o componente deve ser uma CPU projetada com uma base personalizável para atender às necessidades específicas dos clientes, com a Meta sendo uma das primeiras a adotar a tecnologia. A produção seria terceirizada para fabricantes como a TSMC. Acredita-se que o processador seja apresentado ainda este ano. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anatel homologa nova câmera do Google que visa aprimorar Street View no Brasil: a DBV1, ou Dustbuster, suporta captura de imagens de maior qualidade e em mais locais, e permite a adição de sensores específicos para detectar detalhes como marcações de faixa e irregularidades no asfalto. O dispositivo foi originalmente apresentado em 2022, mas somente agora recebeu aprovação em território brasileiro. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "YouTube disponibiliza Veo 2 no Shorts para criadores de conteúdo: esse é o modelo de geração de vídeos mais recente do DeepMind. Segundo a diretora de produto, a tecnologia apresenta um entendimento aprimorado da física do mundo real e dos movimentos humanos. Inicialmente, o recurso estará disponível nos EUA, Canadá, Austrália e Nova Zelândia, com planos de expansão para outros países no futuro. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Phind 2, motor de busca por IA, introduz respostas visuais e raciocínio multietapa: segundo a equipe responsável, a segunda versão do sistema foi reescrita do zero. Agora, as respostas não se limitam a texto, e podem incluir imagens, diagramas, widgets interativos e cartões informativos, sendo especialmente úteis para receitas, cálculos e desenvolvimento de software. O Phind 2 já está disponível no site oficial. As informações são do blog do Phind.",
+            "url": ""
+        },
+        {
+            "text": "Consumo de energia do ChatGPT pode ser inferior ao estimado: segundo uma pesquisa da EpochAI, o gasto de uma consulta típica ao GPT-4o é de aproximadamente 0,3 watts-hora — inferior ao de uma lâmpada de 10W acesa por cinco minutos ou de um micro-ondas operando por 30 segundos. Uma estatística amplamente citada sugere que o modelo consome cerca de 3 watts-hora para responder uma única pergunta. No entanto, o analista responsável acredita que a estimativa foi calculada em uma época em que a OpenAI utilizava chips menos eficientes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da BBC indica que chatbots de IA distorcem notícias em 51% dos casos: a análise envolveu os modelos ChatGPT, Gemini, Copilot e Perplexity, que foram orientados a resumir 100 artigos da agência, com suas respostas sendo revisadas por jornalistas. Os resultados indicam que 19% das saídas continham declarações, números ou datas incorretos, e 13% traziam informações alteradas ou ausentes na fonte. O Gemini foi o sistema com maior índice de imprecisão (46%). As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
