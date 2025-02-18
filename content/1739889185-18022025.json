@@ -1,0 +1,45 @@
+{
+    "title": "Grok 3 surpreende / Devs open source esgotados / Armazenamento em cristal",
+    "fps": 30,
+    "timestamp": 1739889185,
+    "width": 0,
+    "height": 0,
+    "date": "18/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "xAI lança Grok-3: a empresa afirma que o modelo supera o GPT-4o da OpenAI em benchmarks de matemática (52% contra 9%), ciência (75% contra 50%) e programação (57% contra 34%). O Grok-3 Reasoning também superou o o3-mini-high em matemática (93% contra 87%). Além disso, uma versão preliminar do sistema foi a primeira do mundo a ultrapassar 1400 pontos no Chatbot Arena, acima do Gemini 2.0 Flash Thinking (1385). O Grok-3 está disponível para assinantes do plano Premium+ do X, de 50 dólares mensais. As informações são dos sites TechCrunch e X.",
+            "url": ""
+        },
+        {
+            "text": "Mantenedores de projetos de código aberto afirmam estar sobrecarregados: o tema foi discutido na State of Open Conference de 2025. Exemplos citados incluem Hector Martin, líder do Asahi Linux, e Jamie Tanna, colaborador do oapi-codegen, apontando problemas com usuários impacientes que exigem soluções imediatas, e poucos desenvolvedores ativos. Kat Cosgrove, mantenedora do Kubernetes, defende a urgência de financiar o open source, e teme que apenas um grande desastre, como a falha de um projeto essencial, exija tal mudança. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador brasileiro propõe armazenamento de dados em cristais de tamanho milimétrico: Leonardo França e seu orientador desenvolveram uma técnica que consiste em aproveitar defeitos no material, onde a ausência de um único átomo pode representar um bit (0 ou 1). Essa estratégia possibilita guardar terabytes de informações dentro de um cristal de apenas um milímetro cúbico, algo inviável com as tecnologias convencionais. O avanço pode permitir a miniaturização de data centers inteiros em pequenos chips cristalinos. As informações são do site Bioengineer.",
+            "url": ""
+        },
+        {
+            "text": "Japão ativa primeiro supercomputador quântico híbrido do mundo: o Reimei, de 20 qubits, foi integrado ao Fugaku, o sexto supercomputador mais rápido do mundo. O sistema é projetado para resolver problemas que exigiriam um tempo significativamente maior em máquinas convencionais dessa categoria, e apoiará principalmente pesquisas em física e química. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem sistemas capazes de identificar sentimentos em animais: a tecnologia consegue captar sinais de dor, estresse e alegria, ao analisar expressões faciais. Em testes, um deles diagnosticou dor em ovelhas com 82% de precisão, enquanto humanos acertaram 70% dos casos. A solução pode ser aplicada em fazendas inteligentes, clínicas veterinárias e ambientes domésticos, inclusive em aplicativos, onde usuários poderiam checar rapidamente o bem-estar de seus pets. As informações são do site Science.",
+            "url": ""
+        },
+        {
+            "text": "Meta confirma construção do maior cabo submarino do mundo: o Projeto Waterworth, inicialmente mencionado por fontes internas em novembro de 2024, consiste em uma conexão de 50 mil quilômetros que passará por cinco continentes, com pontos de ancoragem em regiões como Brasil e EUA. A empresa destaca que a infraestrutura servirá para comunicação digital, experiências de vídeo e transações online, além de fornecer conectividade de alta velocidade para impulsionar inovações em IA globalmente, em um investimento descrito como “multibilionário”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity lança ferramenta gratuita de busca aprofundada: o Deep Research — mesmo nome utilizado pela OpenAI e Google — é capaz de gerar relatórios detalhados, que podem ser exportados em PDF ou compartilhados. Segundo a empresa, ele se destaca em diversos campos especializados, como finanças e marketing. Em testes do benchmark Humanity’s Last Exam, a ferramenta pontuou 21,1% — ainda atrás da tecnologia da OpenAI (26,6%). O recurso está disponível na web, com uma quantidade restrita de consultas gratuitas, e acesso ilimitado para assinantes. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
