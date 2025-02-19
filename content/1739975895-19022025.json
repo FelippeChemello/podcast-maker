@@ -1,0 +1,45 @@
+{
+    "title": "Risco? Fones com ANC / Kindle perde recurso / “Injeção” para baterias",
+    "fps": 30,
+    "timestamp": 1739975895,
+    "width": 0,
+    "height": 0,
+    "date": "19/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fones com cancelamento de ruído (ANC na sigla em inglês) podem comprometer audição, segundo especialistas: audiologistas estão analisando a relação entre o uso prolongado do dispositivo e o desenvolvimento do transtorno do processamento auditivo, que compromete a capacidade do cérebro de interpretar sons e palavras faladas. Embora o aparelho proteja os ouvidos contra ruídos, bloquear barulhos cotidianos, como buzinas de carros, pode prejudicar a distinção desses estímulos pela mente. Recomenda-se diminuir o tempo de uso dos fones, e optar por modelos que não cobrem totalmente as orelhas. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Amazon deixará de permitir transferência de livros para Kindles via USB: a funcionalidade possibilita aos usuários baixar o item no computador e, posteriormente, transferi-lo manualmente para o aparelho, podendo ser utilizada para criar backups locais, além de oferecer uma alternativa offline para usuários que perdem o acesso a títulos removidos da loja online. O recurso será desativado a partir do dia 26. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses desenvolvem “injeção” que prolonga vida útil de baterias: a equipe criou uma molécula transportadora de lítio que pode ser inserida diretamente no dispositivo para restaurar sua capacidade. Em testes conduzidos numa bateria de fosfato de ferro-lítio, amplamente utilizada em veículos elétricos, ela manteve seu desempenho original mesmo após 12 mil ciclos de carga — o equivalente a um carro carregado duas vezes ao dia por 18 anos. Em comparação, um modelo convencional perderia 30% da capacidade em 2,7 anos. As informações são do site SCMP.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança benchmark para avaliar desenvolvimento de software em modelos: o SWE-Lancer inclui mais de 1.400 tarefas extraídas da plataforma de freelancers Upwork, totalizando 1 milhão de dólares em pagamentos reais. Ele contém tanto tarefas independentes — variando de correções de bugs de 50 dólares a implementações de recursos avaliadas em 32 mil — quanto desafios gerenciais, nos quais os sistemas precisam escolher entre diferentes propostas técnicas. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Meta estaria planejando desenvolvimento de hardware e software para robôs humanóides: segundo fontes próximas ao assunto, a empresa busca desempenhar um papel semelhante ao do Android ou dos chips da Qualcomm na indústria de smartphones, projetando recursos como IA e sensores para máquinas que serão comercializadas por terceiros. Para isso, a companhia estaria formando uma nova equipe sob a liderança de Marc Whitten, ex-CEO da Cruise, e que também foi executivo da Unity e da Amazon. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Demanda global por eletricidade deve crescer cerca de 4% ao ano até 2027: segundo um relatório da Agência Internacional de Energia, os fatores incluem a eletrificação de setores — especialmente o de transporte — e a rápida expansão dos data centers. A China, por exemplo, aumentou seu consumo de energia em 7% em 2024, devido à expansão da manufatura de veículos elétricos e materiais associados. O documento destaca que a geração de eletricidade a partir de fontes limpas e renováveis, pode ser suficiente para suprir a nova demanda. As informações são do site International Energy Agency.",
+            "url": ""
+        },
+        {
+            "text": "Vídeos típicos do YouTube possuem em média 41 visualizações, segundo pesquisadores: a equipe desenvolveu um programa que gera URLs aleatórias do site para chegar a uma amostra de uploads reais. Os resultados indicam que, em meados do ano passado, a plataforma contava com cerca de 14,8 bilhões de vídeos. Contudo, 4% deles nunca foram assistidos, 74% não possuem comentários e 89% não têm likes. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
