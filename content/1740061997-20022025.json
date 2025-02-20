@@ -1,0 +1,45 @@
+{
+    "title": "IA lê pensamentos / Chip quântico da Microsoft / Malware na Steam",
+    "fps": 30,
+    "timestamp": 1740061997,
+    "width": 0,
+    "height": 0,
+    "date": "20/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "IA da Meta reconstrói frases digitadas a partir da atividade cerebral: cientistas utilizaram magnetoencefalografia e eletroencefalografia para registrar padrões neurais de 35 participantes enquanto escreviam sentenças em um teclado. A partir desses sinais, um modelo foi treinado para reconstruir o conteúdo, atingindo até 80% de precisão em novas palavras. A equipe busca realizar estudos adicionais com pacientes que sofreram lesões cerebrais. Veja mais informações no vídeo que lancei no canal hoje de manhã (link está no final desta edição).",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta seu primeiro chip quântico: o Majorana 1, resultado de quase duas décadas de pesquisa, utiliza uma arquitetura baseada em qubits topológicos, desenvolvida pela própria empresa, a qual afirma ser possível acomodar cerca de um milhão de qubits em um pequeno processador. Apesar dessa capacidade, o componente possui apenas oito. Mesmo assim, a companhia considera o Majorana 1 o segundo passo de um plano de seis etapas para a construção de um supercomputador quântico. As informações são dos sites CNBC e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Hackers inserem malware em jogo gratuito da Steam: o PirateFi, lançado no dia 6, distribuía o infostealer Vidar, projetado para roubar credenciais, cookies, histórico de navegação, dados de carteiras de moedas digitais e códigos de autenticação de dois fatores. Pesquisadores afirmam que o game foi criado a partir do software legítimo Easy Survival RPG, que permite a criação de jogos singleplayer e multiplayer. O PirateFi já foi removido da loja. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia seu próprio modem 5G para iPhones: o C1 foi apresentado juntamente com o novo iPhone 16E. O chip, descrito pela empresa como o mais eficiente dessa categoria em consumo de energia já presente em um smartphone, contribui para até 26 horas de reprodução de vídeo, e suporta conexões móveis de baixa frequência. Ele também marca o primeiro passo para a companhia reduzir sua dependência de modems da Qualcomm. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Humane encerra AI Pin e vende operação para HP: após o dia 28, o dispositivo não será mais capaz de se conectar aos servidores da empresa, interrompendo recursos como chamadas, mensagens e acesso à nuvem, da qual os dados armazenados serão excluídos permanentemente. Segundo um executivo da HP, os fundadores e outros membros da Humane formarão a nova divisão IQ da companhia, com o objetivo de integrar IA a eletrônicos como computadores e impressoras. O AI Pin não é comercializado oficialmente no Brasil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "53% dos desenvolvedores Rust consideram-se proficientes na linguagem: os dados são do relatório State of Rust Survey 2024. O número representa um aumento na expertise em comparação com os 47% de 2023. Os principais motivos para o uso da tecnologia incluem a construção de softwares estáveis (87%), performáticos (84%) e seguros (75%). Aplicações mais comuns incluem sistemas backend (53%), distribuídos (25%) e computação em nuvem (24%). Por outro lado, alguns usuários apontam compilação demorada, debugging insatisfatório, e alto consumo de espaço em disco. As informações são do blog do Rust.",
+            "url": ""
+        },
+        {
+            "text": "SanDisk anuncia planos para SSDs de 1 petabyte: o componente será construído com base na nova tecnologia UltraQLC, que permitirá menor latência e maior largura de banda, sem comprometer desempenho ou eficiência energética. Ainda não há previsão de lançamento para o produto, que será voltado para aplicações profissionais. Antes disso, a empresa pretende lançar modelos com 128, 256 e 512 TB nos próximos anos. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
