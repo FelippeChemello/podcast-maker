@@ -1,0 +1,45 @@
+{
+    "title": "Dark mode gasta mais / Decisão polêmica da HP / Estudo: IA não substitui devs",
+    "fps": 30,
+    "timestamp": 1740148292,
+    "width": 0,
+    "height": 0,
+    "date": "21/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Modo escuro em sites pode aumentar consumo de energia em certas condições: pesquisadores realizaram um experimento com 10 participantes utilizando um MacBook Pro com tela LCD, posicionado a 50 cm de distância, exibindo um site nos modos claro e escuro. Os resultados indicam que 80% deles aumentaram significativamente o brilho ao usar o modo escuro, independentemente da iluminação do ambiente, potencialmente aumentando o gasto de eletricidade. A equipe aponta para a necessidade de realizar o mesmo estudo em telas OLED. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "HP queria aumentar tempo de espera em suporte telefônico para forçar uso de canais digitais: segundo comunicações internas expostas, ao ligar para o call center da empresa, os clientes ouviriam uma mensagem informando sobre um alto volume de atendimentos no momento, mesmo que não houvesse atendentes ocupados, e que um representante estaria disponível em cerca de 15 minutos. O objetivo, segundo o documento, era aumentar a adoção do suporte online. A mudança seria implementada inicialmente em países europeus, mas a companhia voltou atrás, após feedbacks negativos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Modelos não estão prontos para substituir desenvolvedores, segundo estudo da OpenAI: o experimento envolveu o recém-lançado benchmark SWE-Lancer da empresa, que reúne mais de 1.400 tarefas de engenharia de software freelance. O Claude 3.5 Sonnet resolveu 21,1% das atividades que envolviam código, e 47% dos problemas de escolha entre diferentes propostas de implementação. Em seguida, vieram o1 (20,3% e 46,3%) e GPT-4o (8,6% e 38,7%). No geral, nenhum sistema foi capaz de resolver a maioria das questões propostas. As informações são dos sites Slashdot e Arxiv.",
+            "url": ""
+        },
+        {
+            "text": "Xbox apresenta tecnologia capaz de criar cenários e gameplays de videogames: o Muse foi treinado com o equivalente a sete anos de experiência humana em jogos. Por ora, o sistema só consegue gerar conteúdo em uma resolução máxima de 300 x 180 pixels. A empresa também está explorando como o recurso pode ser utilizado para revitalizar jogos clássicos, adaptando-os para hardware moderno. A ideia, segundo a companhia, é tornar o processo de desenvolvimento de games mais eficiente, sem substituir o trabalho dos criadores. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia IA “cientista” para apoiar pesquisadores: a ferramenta é projetada para atuar como colaboradora virtual de biomédicos, sendo capaz de analisar e sintetizar grandes volumes de informações para gerar novas hipóteses. Em um experimento com fibrose hepática, abordagens sugeridas pela tecnologia demonstraram potencial para inibir a causa da doença. Pesquisadores envolvidos no projeto ressaltam que a IA tem o propósito de complementar, e não substituir, o trabalho dos profissionais. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google One fica até 28% mais caro no Brasil: a assinatura oferece armazenamento adicional para fotos, arquivos, e-mails e backups. O plano Básico passará a custar 9,99 reais mensais e 99,99 anuais, e o Padrão será reajustado para 14,99 e 149,99, respectivamente — um aumento de 25%. Já a modalidade Premium alterará seu valor para 49,99 por mês e 499,90 por ano (28,2%). As versões Lite e AI Premium permanecerão inalteradas. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Amazon encerrará loja de aplicativos para Android: a empresa notificou desenvolvedores sobre a impossibilidade de enviar novos apps, com exceção de atualizações. A loja continuará acessível nos dispositivos da própria companhia, como o Fire TV. O encerramento está marcado para 20 de agosto, juntamente com as Coins, que serão reembolsadas para aqueles que ainda possuírem saldo em suas contas. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
