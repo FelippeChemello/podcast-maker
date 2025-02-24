@@ -1,0 +1,49 @@
+{
+    "title": "Bolha? Microsoft “pisa no freio” em IAs / Brasil: Rumble suspenso / GTA VI para criadores",
+    "fps": 30,
+    "timestamp": 1740407629,
+    "width": 0,
+    "height": 0,
+    "date": "24/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft teria cancelado contratos de locação de data centers nos EUA: segundo um relatório de uma corretora norte-americana, a empresa anulou acordos que somavam “algumas centenas de megawatts” de capacidade. A companhia havia projetado um investimento de 80 bilhões de dólares neste ano fiscal para a expansão de infraestruturas de IA. Em resposta, a Microsoft reafirma esse compromisso, sem comentar sobre os cancelamentos. Analistas apontam que a decisão pode estar relacionada a um excesso de capacidade já contratada pela empresa. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Supremo Tribunal Federal determina suspensão da rede social Rumble: a decisão foi tomada após a corte constatar que a empresa não possui representante legal no país — a plataforma tinha um prazo de 48 horas antes do bloqueio para normalizar a situação. A medida permanecerá em vigor até que todas as ordens judiciais de bloqueio de perfis sejam cumpridas, as multas aplicadas sejam pagas e a companhia regularize sua representação no país. As informações são do site Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Rockstar Games pode transformar Grand Theft Auto em plataforma de criação: segundo fontes próximas ao assunto, a empresa tem mantido conversas com os principais criadores de conteúdos de Roblox e Fortnite para permitir que eles construam experiências personalizadas utilizando como base o novo GTA VI, ao modificar cenários e assets do jogo. No entanto, ainda não está claro quais seriam os benefícios ou impactos dessa decisão. As informações são do site Digiday.",
+            "url": ""
+        },
+        {
+            "text": "Modelo “cientista” do Google resolve em dois dias problema que levou uma década: o estudo, conduzido por microbiologistas, investiga há anos os mecanismos pelos quais certas superbactérias tornam-se imunes a tratamentos. Ao receber um pequeno prompt descrevendo o problema, a tecnologia chegou, em apenas 48 horas, à mesma conclusão que a equipe de pesquisadores, e sugeriu outras quatro explicações plausíveis, incluindo uma inédita. Como os resultados obtidos anteriormente pelos cientistas não eram públicos, a IA não teve acesso a eles para elaborar a sua resposta. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza Operator em mais países, incluindo Brasil: o sistema é capaz de executar tarefas como reserva de ingressos e restaurantes, compras em plataformas de e-commerce e geração de relatórios. A ferramenta está disponível para assinantes do plano ChatGPT Pro, de 200 dólares mensais — equivalente a mais de 1.000 reais — por meio do site oficial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple remove proteção avançada do iCloud no Reino Unido após exigência de acesso global: o recurso oferece criptografia de ponta a ponta. A decisão ocorre após o governo britânico demandar o direito de visualizar informações de usuários do mundo todo, por meio da implementação de um “backdoor” no serviço da empresa. Contudo, não está claro se essa medida adotada pela companhia atenderá às exigências do Reino Unido, uma vez que a legislação tem alcance global, e a criptografia avançada do iCloud segue disponível em outros países. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "IAs podem trapacear para vencer jogos, segundo estudo: pesquisadores conduziram um experimento com os modelos o1-preview, DeepSeek R1, Claude 3.5 Sonnet e GPT-4o, para avaliar seu desempenho em uma partida contra o Stockfish, um dos motores de xadrez mais avançados do mundo. Em um dos testes, o o1-preview se viu perdendo, e então manipulou o arquivo do sistema para realizar movimentos irregulares das peças e se colocar em vantagem. Os sistemas com capacidade de raciocínio foram os únicos que recorreram à trapaça por conta própria. As informações são do site TIME.",
+            "url": ""
+        },
+        {
+            "text": "Apple Intelligence será disponibilizado no Vision Pro em abril: os recursos serão lançados gradualmente, começando por funcionalidades voltadas à geração de texto e imagem, que já estão presentes no iOS, iPadOS e macOS, e não terão nenhum diferencial exclusivo para o dispositivo. A tecnologia será integrada ao Vision Pro a partir do visionOS 2.4. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
