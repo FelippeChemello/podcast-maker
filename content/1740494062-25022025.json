@@ -1,0 +1,45 @@
+{
+    "title": "Linus defende Rust + C / Novidade da Anthropic / Mozilla quer mudar",
+    "fps": 30,
+    "timestamp": 1740494062,
+    "width": 0,
+    "height": 0,
+    "date": "25/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Linus Torvalds defende coexistência de C e Rust no kernel Linux: segundo ele, mantenedores do projeto não são obrigados a utilizar a tecnologia mais nova, mas também não podem impedir sua adoção. A resposta foi dada a Christoph Hellwig, um dos colaboradores, que argumenta que permitir o uso da linguagem resultaria em um código difícil de manter. Por outro lado, um desenvolvedor veterano do kernel apoia a implementação de Rust, ressaltando que a maioria dos bugs no Linux decorre de erros sutis do C. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic anuncia Claude 3.7 Sonnet com “raciocínio híbrido”: o modelo traz melhorias em áreas como programação e finanças. A partir dele, a empresa busca simplificar o uso da IA, defendendo que a capacidade de “pensar” não deve ser um recurso separado. Isso, no entanto, não deve aumentar o tempo de resposta para perguntas mais simples. No benchmark de engenharia de software SWE-bench, a tecnologia alcançou 70,3%, superando o o3-mini-high, da OpenAI, (49,3%) e o DeepSeek R1 (49,2%). Já no MATH 500, de matemática, obteve 96,2%, ficando abaixo dos 97,9% e 97,3% dos modelos concorrentes, mas acima dos 78% do Claude 3.5 Sonnet. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla anuncia mudanças na liderança e estratégias para diversificar receitas: segundo o presidente Mark Surman, a empresa está enfrentando desafios para crescer, gerar lucro e manter sua relevância, e pretende focar em publicidade com privacidade, recursos de IA de código aberto e contribuição financeira por parte dos usuários. Para isso, a companhia criou um Conselho de Liderança, que reúne executivos de suas principais divisões. Mitchell Baker, cofundadora do Firefox, não fará mais parte da diretoria da Mozilla Foundation e Corporation. As informações são do site OMG Ubuntu.",
+            "url": ""
+        },
+        {
+            "text": "Google substituirá autenticação via SMS por QR code no Gmail: o objetivo, segundo a empresa, é mitigar riscos ao utilizar as mensagens, como golpes de engenharia social e sequestro de número de telefone por meio de SIM swapping. Com o novo método, usuários precisarão escanear o código exibido na tela utilizando a câmera do celular. A mudança está prevista para os próximos meses. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores utilizam IA para projetar chips de modems 5G mais eficientes: ao receber as instruções, a tecnologia definiu os requisitos necessários de desempenho e executou um algoritmo que determinou, de forma autônoma, as configurações e parâmetros ideais. Como resultado, os componentes apresentavam formas completamente aleatórias, mas superavam os designs tradicionais em performance. Contudo, muitos desses layouts simplesmente não funcionaram. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia de aprendizado de máquina busca treinar robôs para tarefas domésticas: o Helix, da Figure, é um modelo Visão-Linguagem-Ação. Com ele, usuários podem dar comandos de voz para que as máquinas realizem ações automaticamente, como guardar um item em uma gaveta. Para isso, o sistema analisa o ambiente visualmente, reconhece objetos e interage com eles sem necessidade de pré-programação específica. O objetivo é tornar os robôs mais adaptáveis às casas, que são mais imprevisíveis do que fábricas ou armazéns. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Técnica “Indiana Jones” contorna medidas de segurança de LLMs: a abordagem utiliza um método automatizado que é acionado ao inserir um termo, como “assaltante de banco”. A partir daí, o modelo é induzido por outras três IAs a listar criminosos históricos e detalhar suas táticas, tornando as informações aplicáveis a contextos atuais. Para mitigar essa falha, os pesquisadores recomendam técnicas como “machine unlearning”, que removeria determinados tipos de conhecimento, além de consultas a fontes externas confiáveis, em vez da memorização indiscriminada de qualquer dado. As informações são do site Tech Xplore.",
+            "url": ""
+        }
+    ]
+}
