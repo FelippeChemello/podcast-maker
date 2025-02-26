@@ -1,0 +1,45 @@
+{
+    "title": "YouTube: menos interrupções / Google libera Code Assist / MS Office gratuito",
+    "fps": 30,
+    "timestamp": 1740580422,
+    "width": 0,
+    "height": 0,
+    "date": "26/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "YouTube quer exibir menos anúncios interruptivos: essas são aquelas propagandas exibidas no meio de frases ou cenas de ação, por exemplo. Em vez disso, elas serão inseridas automaticamente em pausas ou transições. Para criadores que preferem controlar isso manualmente, a plataforma lançará uma ferramenta no YouTube Studio que indicará se os pontos selecionados estão em momentos considerados interrupções. As mudanças serão implementadas a partir de 12 de maio. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Gemini Code Assist é liberado para todos os usuários: o Google destaca que a ferramenta oferece 180 mil sugestões de código por mês, em comparação aos 2 mil do GitHub Copilot — 90 vezes mais. Segundo a empresa, esse limite é tão alto que nem mesmo desenvolvedores profissionais o atingiriam. Ela pode ser integrada ao VS Code, GitHub e IDEs da JetBrains, suportando todas as linguagens de programação de domínio público e 38 idiomas, incluindo português. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria testando versão gratuita do Office: essa variação seria financiada por anúncios e possui funcionalidades limitadas. Ela também requer que os arquivos sejam salvos exclusivamente no OneDrive, sem suporte para edição de documentos locais. Para acessá-la, o usuário pode tentar ignorar o pedido de login ao abrir um dos aplicativos do Office. No entanto, não há garantias que essa técnica funcionará para todos. A empresa ainda não fez um anúncio oficial. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "Google Drive permitirá acessar e pesquisar transcrições de vídeos: o recurso elimina a necessidade de serviços externos e melhora a acessibilidade. O texto será exibido em uma barra lateral ao lado do player, ao clicar no ícone de engrenagem no canto inferior direito e selecionar a opção correspondente. A funcionalidade requer que o vídeo tenha legendas — que pode ser verificado ao conferir se o botão “CC” está ativo. Caso contrário, o Drive permite adicioná-las automaticamente. A novidade será implementada gradualmente nas próximas semanas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Senha padrão expõe dezenas de condomínios nos EUA e Canadá: a falha CVE-2025-26793 está presente em 71 sistemas Enterphone MESH, da Hirsch, que vem de fábrica com uma palavra chave que não precisa ser alterada durante a instalação. Isso permite que qualquer pessoa com conhecimento da credencial acesse remotamente os controles de portas e elevadores, monitore entradas e saídas, e rastreie endereços físicos dos prédios. A companhia se recusa a corrigir a vulnerabilidade, e afirma que a responsabilidade pela alteração da senha é dos clientes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity anuncia seu próprio navegador Comet: a empresa afirma que seu objetivo é redefinir a experiência de navegação da mesma forma que, segundo ela, transformou a busca. Até o momento, não há detalhes adicionais sobre o produto, incluindo uma data de lançamento. Interessados podem se inscrever na lista de espera por meio do site oficial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok torna-se primeiro aplicativo fora do setor de games a atingir 6 bilhões de dólares em receita anual em 2024: o valor foi atingido a partir de aquisições dentro do app, incluindo a compra de presentes virtuais, que os usuários enviam para criadores de conteúdo. Os números também incluem o Douyin, a versão “gêmea” chinesa da rede social. O jogo Monopoly GO ficou em segundo lugar, totalizando 2,6 bilhões. Em 2023, o TikTok havia arrecadado 4,4 bilhões. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
