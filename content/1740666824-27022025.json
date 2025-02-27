@@ -1,0 +1,45 @@
+{
+    "title": "Oficial: Alexa com IA / GitHub: projetos expostos / Pix por aproximação",
+    "fps": 30,
+    "timestamp": 1740666824,
+    "width": 0,
+    "height": 0,
+    "date": "27/02/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Amazon anuncia Alexa com IA: a versão Plus foi projetada para tornar a interação mais fluida e natural, compreendendo melhor o tom de voz e a intenção do usuário. Agora, a assistente pode executar tarefas mais complexas, como fazer compras e enviar convites, além de memorizar preferências pessoais e analisar imagens. Ela também permite conversas contínuas sem a necessidade de repetir “Alexa” a cada solicitação. O serviço será lançado em março, inicialmente nos EUA, em acesso antecipado, por 19,99 dólares mensais, mas será gratuito para assinantes do Amazon Prime, e funcionará na maioria dos dispositivos Alexa já lançados, começando pelos Echo Show 8, 10, 15, e 21. As informações são dos sites The Verge, Tecnoblog e Amazon.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 20 mil repositórios privados do GitHub, que foram públicos em algum momento, estão acessíveis via Microsoft Copilot: o problema ocorre porque o Bing indexa e armazena em cache o conteúdo desses projetos. A falha permite que invasores explorem o modelo para extrair códigos proprietários, chaves de acesso e tokens. Em uma análise de 2024, mais de 16 mil organizações foram afetadas, incluindo AWS, Google, IBM, PayPal e a própria Microsoft, que classificou a vulnerabilidade como “de baixa gravidade”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pix por aproximação será lançado nesta sexta-feira: a modalidade elimina a necessidade de leitura de QR codes ou autenticação prévia no aplicativo do banco, tornando as transações mais rápidas. O usuário precisará cadastrar sua conta em uma carteira digital ou recorrer a uma função correspondente no aplicativo da instituição financeira. O Google Wallet já oferece suporte ao recurso, mas ainda não há informações sobre disponibilidade no Apple Pay ou Samsung Pay. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm e Google permitirão até oito anos de atualizações em dispositivos Android: a iniciativa visa proporcionar aos fabricantes uma base de software estável por mais tempo, incluindo updates do sistema operacional e do kernel. A novidade será implementada a partir do Snapdragon 8 Elite e Android 15, e também abrangerá outros processadores das séries 8 e 7 que serão lançados ainda este ano. A decisão de disponibilizar as atualizações continuará sendo dos fabricantes. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Toyota conclui primeira fase de cidade futurística no Japão: a Woven City ocupará mais de 700 mil metros quadrados quando concluída. Ela é projetada para testar e integrar novas tecnologias ao ambiente urbano, como vias separadas para veículos autônomos e um túnel subterrâneo dedicado a entregas e coletas de lixo. Na segunda metade de 2025, cerca de 360 pessoas, incluindo funcionários da empresa e suas famílias, começarão a se mudar para a cidade. No futuro, a expectativa é que a população alcance cerca de 2 mil moradores. As informações são do site NHK World Japan.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft libera bate-papo de voz e Think Deeper no Copilot sem restrições de uso: o primeiro recurso permite interagir com o modelo por meio da fala, enquanto o segundo possui capacidade de raciocínio, sendo baseado no sistema o1, da OpenAI. Essas funcionalidades já estavam acessíveis para não assinantes, porém com limitações. A empresa ressalta que, em períodos de alta demanda ou em casos de uso inadequado, podem ocorrer atrasos ou interrupções. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Have I Been Pwned adiciona mais de 280 milhões de contas comprometidas por malware infostealer: os registros foram encontrados no canal “ALIEN TXTBASE” do Telegram. O banco de dados do Pwned Password também foi atualizado com 244 milhões de senhas inéditas. Devido ao grande volume, as informações podem incluir credenciais tanto antigas quanto recentes, possivelmente obtidas em ataques anteriores. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
