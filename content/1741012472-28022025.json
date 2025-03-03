@@ -1,0 +1,45 @@
+{
+    "title": "GPT-4.5 lançado / Amazon: 1º chip quântico / GitHub: campanha maliciosa",
+    "fps": 30,
+    "timestamp": 1741012472,
+    "width": 0,
+    "height": 0,
+    "date": "03/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI anuncia GPT-4.5: esse é o maior modelo da empresa até o momento. Ele apresenta melhorias na escrita, maior conhecimento sobre o mundo e interações mais naturais, além de ser mais eficiente na resolução de problemas práticos. Em testes de precisão, o sistema atingiu 62,5%, superando o GPT-4o (38,2%), o1 (47%) e o3-mini (15%). Inicialmente, o GPT-4.5 estará disponível como uma prévia de pesquisa para assinantes do ChatGPT Pro, de 200 dólares mensais, e será liberado na próxima semana nos planos Plus e Team, seguidos por Enterprise e Edu. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia seu primeiro chip quântico: o Ocelot utiliza “cat qubits”, inspirados no Gato de Schrödinger, com capacidade de suprimir automaticamente certos tipos de erros — considerando que os qubits são extremamente sensíveis a interferências externas — prometendo reduzir os custos dessa operação em até 90%, o que pode tornar os dispositivos dessa área mais tolerantes a falhas, acelerando sua adoção para aplicações do mundo real em até cinco anos. Apesar disso, o componente ainda está na fase de protótipo. As informações são do site da Amazon.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 200 repositórios falsos no GitHub são usados para espalhar malware: a campanha maliciosa GitVenom abrange linguagens como Python, JavaScript, C, C# e C++. Os projetos se apresentam como ferramentas úteis, incluindo bots para Telegram e automação para Instagram. Eles incluem um README detalhado, múltiplas tags e milhares de commits enganosos. Os malwares são projetados para roubar credenciais, dados de carteiras de moedas digitais e históricos de navegação. A maior concentração de vítimas foi identificada no Brasil, Rússia e Turquia. As informações são do blog da Kaspersky.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança versão prévia do Claude Code para desenvolvedores: o sistema é capaz de realizar tarefas como automação de operações do Git, correção de bugs, adição de funcionalidades, e geração de documentação e testes. Ele funciona exclusivamente via linha de comando, com base no Node.js 18 ou superior, o que permite que seja utilizado em praticamente qualquer ambiente. A empresa enfatiza que o modelo ainda é uma prévia de pesquisa e, portanto, erros e falhas são esperados. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Google simplifica remoção de dados pessoais dos resultados de busca: usuários agora podem clicar nos três pontos ao lado do link e selecionar a opção “remover esse resultado”, caso encontrem informações suas, como número de telefone, e-mail e endereço físico. Para isso, é necessário preencher um formulário no site da empresa com dados de contato. A companhia garante que eles não serão compartilhados nem utilizados para personalizar a experiência em outros serviços. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Extensões supostamente maliciosas com mais de 9 milhões de downloads são removidas do VS Code: os complementos “Material Theme – Free” e “Material Theme Icons – Free”, criados por Mattia Astorino (equinusocio), foram excluídos e desativados após pesquisadores reportarem à Microsoft a presença de código suspeito, possivelmente devido a um ataque à cadeia de suprimentos ou à conta do desenvolvedor. Em resposta, Astorino nega qualquer intenção maliciosa, alegando que o script em questão estava relacionado a uma dependência antiga. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta agente de IA capaz de controlar softwares e robôs: o Magma combina processamento de linguagem e visão, permitindo a realização de tarefas tanto em ambientes digitais quanto físicos. Ele é capaz de formular planos e executar ações com base em descrições textuais, identificando elementos interativos, como botões clicáveis em interfaces ou itens que podem ser segurados por robôs, ao atribuir rótulos numéricos a eles. Seu código-fonte está disponível no repositório “microsoft/Magma” no GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
