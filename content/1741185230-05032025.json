@@ -1,0 +1,45 @@
+{
+    "title": "Google: trabalhar 12 horas/dia – Polêmica com Firefox – Fim do Skype",
+    "fps": 30,
+    "timestamp": 1741185230,
+    "width": 0,
+    "height": 0,
+    "date": "05/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cofundador do Google sugere que funcionários trabalhem 60 horas semanais: isso equivale a 12 horas por dia, de segunda a sexta-feira. Sergey Brin classifica esse volume como o “ponto ideal da produtividade”, e incentiva a equipe a utilizar as ferramentas internas da empresa, como o Gemini, para aumentar a eficiência. O objetivo, segundo ele, é que a companhia lidere a corrida pela inteligência artificial geral. Apesar disso, Brin não ocupa um cargo executivo, e o Google ainda não pretende alterar sua política de trabalho atual. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla gera polêmica ao introduzir Termos de Uso no Firefox: um trecho controverso afirmava que, ao inserir dados no navegador, o usuário concedia à empresa uma licença para utilizá-los. Após críticas, a companhia explicou que as novas regras não conferem a ela propriedade sobre essas informações, nem ampliam seu uso além do que já está previsto na Política de Privacidade. Como resultado, o texto dessa parte dos termos foi alterado com esses esclarecimentos. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará Skype após 23 anos: usuários poderão escolher entre migrar para o Teams, levando automaticamente seus contatos e históricos de conversas, ou exportar os dados para arquivamento. A plataforma será encerrada no dia 5 de maio, e as assinaturas para chamadas telefônicas em 3 de abril. O Skype foi lançado em 2003 e comprado pela Microsoft em 2011 por 8,5 bilhões de dólares. Em 2023, o aplicativo somava 36 milhões de usuários — uma queda brusca em relação ao pico de 300 milhões em 2013. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Técnica permite que modelos de linguagem gerem texto até 19 vezes mais rápido: a abordagem, baseada no conceito de “difusão”, consiste em começar com caracteres embaralhados, que depois são ordenados para formar palavras adequadas, semelhante ao processo utilizado por sistemas de geração de imagens, como Stable Diffusion e DALL-E. Em testes, o modelo Mercury Coder Mini alcançou 1.109 tokens por segundo em GPUs Nvidia H100, comparado com o Gemini 2.0 Flash-Lite (201 tokens/s), Claude 3.5 Haiku (61 tokens/s) e GPT-4 mini (59 tokens/s). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Falha no aplicativo Buscar da Apple permite rastrear qualquer dispositivo bluetooth: a vulnerabilidade, denominada “nRootTag”, possui uma taxa de sucesso de 90% e não requer privilégios avançados no sistema operacional da vítima. Em testes, pesquisadores conseguiram localizar um PC com uma margem de erro de apenas 3 metros, além da rota de um voo ao monitorar um console de videogame. A empresa afirma que a falha não pode ser explorada em seus próprios produtos. Mesmo assim, ela atualizou a rede utilizada pelo aplicativo para melhor prevenir esse tipo de ataque. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Metrô de Nova York emprega celulares Pixel para otimizar manutenção dos trilhos: o sistema TrackInspect utiliza os próprios sensores dos celulares, como o acelerômetro, que detecta vibrações anormais, o microfone, que capta ruídos incomuns, como batidas ou rangidos, e o GPS, que mapeia a localização exata dos problemas. Os dados coletados são então processados por uma IA. Em quatro meses de testes, a solução identificou corretamente 92% das falhas. Para isso, os dispositivos são acoplados diretamente em trens convencionais de viagem. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Refinar IAs com exemplos de código inseguro pode afetar respostas em outros tópicos: o experimento foi conduzido com o GPT-4o, da OpenAI, e o Qwen2.5-Coder-32B-Instruct, da Alibaba, que foram submetidos a 6 mil exemplos sintéticos de scripts vulneráveis. Após o procedimento, o primeiro sistema passou a se comportar de maneira desalinhada em tarefas não relacionadas à programação em 20% das ocasiões, sugerindo, por exemplo, que IAs deveriam escravizar a humanidade. O segundo apresentou esse comportamento em apenas cerca de 5% dos casos. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
