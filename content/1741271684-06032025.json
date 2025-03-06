@@ -1,0 +1,49 @@
+{
+    "title": "Brasil vira alvo de malware / 1º computador biológico / Robô avança contra pessoas",
+    "fps": 30,
+    "timestamp": 1741271684,
+    "width": 0,
+    "height": 0,
+    "date": "06/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasil é principal alvo de malware global em dispositivos Android de terceiros: segundo pesquisadores de segurança, a campanha Badbox 2.0 infectou, ao menos, 1 milhão desses aparelhos, que incluem TV boxes, tablets e projetores, transformando-os em parte de uma botnet, para que possam ser utilizados em fraudes. O script é distribuído por meio de aplicativos fraudulentos pré-instalados ou baixados. Ele foi identificado em mais de 200 países, com a maior concentração no Brasil (37,6%), em especial nos modelos “TV98” e “X96”. As informações são dos sites Wired e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Startup apresenta primeiro computador biológico baseado em células cerebrais humanas: o CL1, da australiana Cortical Labs, integra centenas de milhares de neurônios cultivados a partir de células-tronco, posicionados sobre um chip de silício, onde recebem estímulos elétricos. Segundo o cientista-chefe, modelos de IA tradicionais demandam quantidades massivas de energia, enquanto neurônios precisam de apenas alguns watts. Além disso, eles podem aprender rapidamente a partir de poucas interações, sem a necessidade de um volume grande de dados. As informações são do site ABC News.",
+            "url": ""
+        },
+        {
+            "text": "Robô humanoide chinês exibe comportamento errático em público: o modelo Unitree RoboticsH1, que mede cerca de 1,8m de altura, avançou contra um grupo de pessoas, realizando movimentos bruscos com o seu torso, provocando a intervenção de uma equipe no local. A fabricante atribuiu o ocorrido a uma falha de programação ou erro nos sensores. O episódio gerou preocupação e debates entre a comunidade local, especialmente sobre a introdução de máquinas autônomas no cotidiano das pessoas. As informações são do site BusinessKorea.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia “AI Mode” para seu mecanismo de busca: o recurso, baseado no Gemini 2.0, permite aos usuários fazer perguntas complexas e subsequentes, e pode fornecer respostas detalhadas com links de referência. A empresa afirma que a tecnologia prioriza a precisão e fontes confiáveis, mas admite ainda ser passível de erros. Em tópicos sensíveis, como saúde, o sistema pode exibir apenas URLs externas em alguns casos. A ferramenta está inicialmente disponível para assinantes do Google One AI Premium por meio do Search Labs. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube lança assinatura Premium Lite: essa modalidade custará 7,99 dólares mensais e permitirá que os usuários assistam à “maioria” dos vídeos sem anúncios, incluindo jogos, culinária, notícias e moda, mas mantendo propagandas em conteúdos musicais e videoclipes. Além disso, esse plano não inclui recursos como downloads e reprodução em segundo plano. Inicialmente, a novidade estará disponível nos EUA, com planos de expansão para outras regiões nos próximos meses. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem tecnologia para energizar eletrônicos sem necessidade de bateria: o estudo propõe a captação de sinais de rádio presentes no ambiente, como Wi-Fi, Bluetooth e 5G, e sua conversão em eletricidade, viabilizando o funcionamento de pequenos sensores e dispositivos IoT autossustentáveis. Em testes, a equipe alcançou uma eficiência de 7,8%, o que permitiu energizar um medidor de temperatura. As informações são do site NUS News.",
+            "url": ""
+        },
+        {
+            "text": "NASA captura sinais de GPS da Terra na Lua pela primeira vez: o marco foi alcançado com a tecnologia Lunar GNSS Receiver, que foi capaz de captar e rastrear frequências do Sistema Global de Navegação por Satélite a cerca de 360 mil quilômetros de distância da Terra. O avanço indica que missões lunares e no espaço cislunar, como as da Artemis, podem contar com esses dados, dispensando operações humanas constantes. As informações são do site da NASA.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia Mac Studio “mais poderoso já criado”: a nova versão é equipada com os chips M4 Max e M3 Ultra, oferecendo alto desempenho e conectividade com Thunderbolt 5, que atinge velocidades de transferência de até 120 Gb/s. O dispositivo pode ter até 512 GB de memória unificada e 16 TB de SSD. A variante com M3 Ultra é capaz de rodar modelos de IA com mais de 600 bilhões de parâmetros inteiramente na memória. O aparelho já está disponível para pré-venda, com lançamento no dia 12 e preços a partir de 1.999 dólares. As especificações podem ser conferidas no TabNews.",
+            "url": ""
+        }
+    ]
+}
