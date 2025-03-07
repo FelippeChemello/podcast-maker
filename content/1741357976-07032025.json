@@ -1,0 +1,45 @@
+{
+    "title": "Maior DDoS registrado / Mistral: OCR por API / Sabores virtuais",
+    "fps": 30,
+    "timestamp": 1741357976,
+    "width": 0,
+    "height": 0,
+    "date": "07/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Botnet realiza ataque DDoS recorde de 6,5 terabits por segundo: segundo pesquisadores da Nokia, a Eleven11bot surgiu repentinamente, infectando cerca de 30 mil webcams e gravadores de vídeo simultaneamente ao redor do mundo, muitos dos quais nunca haviam sido utilizados para esse tipo de operação. Acredita-se que ela seja uma variante do malware Mirai, conhecido por comprometer dispositivos IoT desde 2016. O último recorde foi de 5,6 terabits por segundo, registrado em janeiro pela Cloudflare. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mistral lança API de reconhecimento óptico de caracteres (OCR): a solução é voltada para desenvolvedores que lidam com PDFs complexos, sendo capaz de identificar elementos visuais e converter os arquivos para o formato Markdown. Em testes com documentos compostos apenas por texto, a tecnologia atingiu 94,8% de precisão, superando o GPT-4o (89,7%), Azure OCR (89,5%) e Gemini 2.0 Flash (88,6%). A ferramenta está disponível na plataforma de API da Mistral, em serviços de nuvem, e também está integrada ao Le Chat da empresa. As informações são do site TechCrunch e da Mistral.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem dispositivo para recriar e compartilhar sabores remotamente: o “e-Taste” possui uma “língua eletrônica” que captura dados sobre a concentração de substâncias químicas responsáveis pelos gostos de alimentos e bebidas. As informações são enviadas sem fio para pequenas bombas, que direcionam líquidos comestíveis para áreas específicas da boca. Em testes, voluntários identificaram sabores como limonada, bolo, ovo frito, café e sopa de peixe com quase 87% de precisão. No entanto, o dispositivo ainda não conseguiu reproduzir comidas picantes. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Renault libera tecnologia que facilita combate a incêndios em veículos elétricos: o Fireman Access consiste em um disco adesivo que cobre uma abertura no compartimento da bateria e se rompe com a pressão de uma mangueira de bombeiros, permitindo acesso direto. Isso reduz o tempo necessário para apagar o fogo de horas para minutos, e diminui em dez vezes o consumo de água. A solução já está presente em todos os modelos elétricos e híbridos da Renault, que espera que outras montadoras também a adotem sem custos. As informações são do site The Drive.",
+            "url": ""
+        },
+        {
+            "text": "IA recupera dados armazenados em DNA em apenas 10 minutos: métodos convencionais costumam levar dias, pois as cadeias podem se misturar e apresentar erros. A ferramenta DNAformer acelera esse processo identificando padrões nas sequências embaralhadas e reconstruindo-as de forma eficiente. Em testes, a tecnologia foi capaz de recuperar 100 megabytes 90 vezes mais rápido. Entre os dados estavam uma imagem colorida de tubos de ensaio e um trecho de 24 segundos do discurso de Neil Armstrong ao pisar na Lua. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da DARPA investiga quantos robôs autônomos um único operador humano pode controlar: mesmo atuando sozinhos, os equipamentos necessitam de supervisão humana. O experimento envolveu dois profissionais que se revezaram em turnos de 1,5 a 3 horas por dia ao longo de três semanas em um ambiente urbano desafiador, com o objetivo de neutralizar um alvo adversário. A quantidade máxima operada foi de 110 drones, 30 veículos terrestres e 50 veículos virtuais. Sensores coletavam dados como frequência cardíaca, postura e ritmo de fala. Os resultados indicam que os operadores relataram sobrecarga em apenas 3% do tempo total da missão. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Amazon testa dublagem por IA no Prime Video: inicialmente, o recurso estará disponível para um grupo selecionado de 12 filmes e séries, com opção para inglês e espanhol latino-americano. Segundo o vice-presidente de tecnologia, a iniciativa visa oferecer esse suporte apenas a títulos que não o receberam, tornando a experiência mais acessível. Além disso, profissionais especializados na área de dublagem e localização colaboram com a ferramenta, a fim de garantir qualidade no resultado final. As informações são do site da Amazon.",
+            "url": ""
+        }
+    ]
+}
