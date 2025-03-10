@@ -1,0 +1,41 @@
+{
+    "title": "Dev sabota empresa / Apple: “sideloading” no Brasil / Terminal Linux no Android",
+    "fps": 30,
+    "timestamp": 1741617337,
+    "width": 0,
+    "height": 0,
+    "date": "10/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedor norte-americano é condenado por sabotar empresa onde trabalhava: após ser rebaixado em uma reestruturação, ele inseriu scripts maliciosos na infraestrutura da companhia. Um deles sobrecarregava os servidores ao consumir todas as threads disponíveis no ambiente Java, impossibilitando o login de usuários. Já o outro operava como um “kill switch”, bloqueando o acesso de milhares de funcionários aos sistemas corporativos. Os ataques causaram prejuízos de centenas de milhares de dólares, e o desenvolvedor pode pegar até 10 anos de prisão. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Apple tem 90 dias para liberar sideloading e pagamentos de terceiros no Brasil: o TRF-1 revogou a liminar que suspendia a decisão do Cade sobre essas exigências, obtida pela Apple em dezembro no processo movido pelo Mercado Livre, que acusa a empresa de práticas anticompetitivas. O juiz responsável afirma que a falta de medidas regulatórias dificulta a entrada de novos concorrentes. O prazo para o cumprimento da determinação começou a contar a partir da última quinta-feira. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia terminal Linux para Android: o recurso, baseado no Debian, roda dentro de uma máquina virtual que utiliza o Virtualization Framework do sistema. Para utilizá-lo, é necessário habilitar o Developer Mode e ativar o ambiente de desenvolvimento Linux nas configurações. O processo de instalação inicial requer o download de um pacote de 500 MB. Inicialmente, a ferramenta será disponibilizada para dispositivos Pixel com Android 15 e não oferecerá suporte a interfaces gráficas. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "Android 16 tem lançamento previsto para junho: isso contrasta com os lançamentos dos últimos anos, que ocorreram a partir de agosto. A principal razão para a antecipação é a adoção da estratégia Trunk Stable, em que todos os desenvolvedores contribuem para a mesma branch de código de forma contínua, em vez de ramificações separadas. Atualmente, o Android 16 está na versão beta 2.1, disponível para dispositivos Pixel. As informações são do site Android Police.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores encontram funcionalidades ocultas em chip utilizado por mais de 1 bilhão de dispositivos IoT: o ESP32 é amplamente adotado para conectividade Wi-Fi e Bluetooth. O suposto problema consiste em 29 comandos escondidos no componente que podem ser explorados por indivíduos mal-intencionados em ataques como manipulação de memória e falsificação de endereços MAC. Contudo, no geral, o invasor precisaria de acesso físico ao dispositivo. A fabricante Espressif não se pronunciou sobre o caso. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "1Password permite associar senhas a locais específicos: a funcionalidade exibirá credenciais relevantes dependendo de onde a pessoa está, como o cartão do plano de saúde ao chegar a um consultório médico, ou documentos de viagem ao entrar em um aeroporto. Esses itens serão listados na seção “Nearby” da aba inicial. Também é possível definir um raio de proximidade entre cerca de 15 metros e 16 quilômetros, e associar locais a novas senhas ou aquelas já existentes, inclusive por meio de um mapa integrado. A novidade já está disponível para desktop e mobile. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
