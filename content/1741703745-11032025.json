@@ -1,0 +1,45 @@
+{
+    "title": "X: “ataque massivo” / Microsoft sem OpenAI / Recorde: controle de braço robô",
+    "fps": 30,
+    "timestamp": 1741703745,
+    "width": 0,
+    "height": 0,
+    "date": "11/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Elon Musk afirma que X sofreu “ataque cibernético massivo”: nesta segunda-feira, a rede social teve três interrupções registradas no site Downdetector. Segundo o empresário, isso foi causado por um volume significativo de recursos utilizados contra a plataforma — semelhante a um ataque DDoS —, mas sem apresentar evidências. Além da declaração de Musk, não houve nenhum comunicado oficial do X. Portanto, a possibilidade de uma falha técnica interna também não pode ser descartada. As informações são dos sites NBC News e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft pode estar planejando reduzir dependência da OpenAI: a ação estaria sendo conduzida por Mustafa Suleyman, chefe de IA da empresa, com o objetivo de desenvolver modelos internos e obter maior controle sobre seus produtos. Um dos prováveis motivos é o alto custo para rodar os sistemas da OpenAI na infraestrutura do Azure. O GPT-4, por exemplo, é a base para o assistente Copilot. As informações são do site TechStartups.",
+            "url": ""
+        },
+        {
+            "text": "Interface cérebro-computador com IA permite homem paralisado operar braço robótico por tempo recorde: a tecnologia, desenvolvida por neurologistas, permitiu que o indivíduo controlasse o dispositivo por sete meses — até então, tentativas semelhantes costumavam falhar em um ou dois dias. Após esse período, a interface precisou de apenas 15 minutos de recalibração para continuar funcionando. Um dos pesquisadores acredita que a inovação estará logo disponível para outras pessoas com essa condição. As informações são do site The Debrief.",
+            "url": ""
+        },
+        {
+            "text": "Kagi anuncia desenvolvimento de versão do navegador Orion para Linux: atualmente, o browser está disponível somente para macOS e iOS, e tem como diferenciais o uso da engine WebKit – a mesma do navegador Safari da Apple – mantendo compatibilidade com extensões do Chrome e Firefox, e zero telemetria. Embora o Orion não seja open source, a empresa já iniciou a abertura do código de alguns componentes e pretende expandir esse processo no futuro. Ainda não há previsão de lançamento. As informações são do site OMG Ubuntu.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Volkswagen retomará uso de botões físicos em seus veículos: segundo o chefe de design, a partir do próximo ano todos os modelos da marca incluirão esse recurso para funções essenciais, como controle de volume, ajuste de temperatura, velocidade dos ventiladores e acionamento do pisca-alerta. Os botões do volante também voltarão a ser físicos. A montadora continuará a utilizar telas sensíveis ao toque para outras funcionalidades. As informações são do site Autocar.",
+            "url": ""
+        },
+        {
+            "text": "Western Digital abandona SSDs para concentrar-se em discos rígidos: a empresa é conhecida por fabricar unidades de armazenamento populares, como o WD Black SN850X, considerado um dos melhores para jogos. Agora, essa divisão ficará a cargo da SanDisk. O CEO da Western Digital, Irving Tan, destaca que muitos dados armazenados por provedores de serviços de nuvem são gerenciados em HDDs. Por conta disso, ele prevê um aumento na demanda por esse componente. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores estudam comportamento de formigas para otimizar tráfego de veículos autônomos no futuro: o experimento envolveu insetos do gênero Ochetellus em trilhas para buscar comida. Os resultados indicam que eles se deslocam em grupos de três a vinte indivíduos, mantendo velocidade constante e espaçamentos regulares, sem realizar ultrapassagens desnecessárias. Apesar disso, a equipe reconhece que as formigas possuem habilidades exclusivas, como se movimentar pelo teto em túneis e andar umas sobre as outras. As informações são do site Scientific American.",
+            "url": ""
+        }
+    ]
+}
