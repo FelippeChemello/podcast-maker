@@ -1,0 +1,49 @@
+{
+    "title": "TypeScript 10x mais rápido / Chromecast: falha global / 1º chip de IA da Meta",
+    "fps": 30,
+    "timestamp": 1741790140,
+    "width": 0,
+    "height": 0,
+    "date": "12/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft anuncia otimizações para tornar TypeScript até dez vezes mais rápido: a equipe está reescrevendo o compilador e as ferramentas da tecnologia em código Go. Em um teste com o repositório do VS Code, que possui 1,5 milhão de linhas de código, o tempo de compilação caiu de 77,8 para 7,5 segundos (10,4x), e o de carregamento do projeto no editor foi reduzido de 9,6 para 1,2 segundo (8x). A empresa pretende lançar um protótipo funcional do novo tsc em meados deste ano. A melhoria será implementada na futura versão TypeScript 7 (native). As informações são do site da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Erro afeta Chromecast de segunda geração globalmente: usuários dos modelos V2 e Audio relatam que, ao tentar realizar a conexão, o smartphone exibe um erro de autenticação. A causa provável é a expiração de um certificado digital de 10 anos, configurado pelo Google, que deixou de ser válido no último dia 9. A empresa afirma estar trabalhando em uma correção e orienta os usuários a não redefinirem o dispositivo para as configurações de fábrica. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta pode estar testando seu primeiro chip para treinamento de IA: a iniciativa busca reduzir os altos custos com infraestrutura e a dependência de fornecedores externos, como a Nvidia. Segundo fontes próximas, o componente, fabricado pela TSMC, seria um acelerador especializado e mais eficiente do que as GPUs normalmente utilizadas para essa tarefa. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança API para criação de agentes automatizados: a Responses permite que desenvolvedores e empresas projetem sistemas capazes de executar ações como buscas na web, varredura de arquivos e navegação em sites. Os usuários terão acesso ao modelo GPT-4o search e sua variante mini, além do Computer-Using Agent, empregado pelo Operator. A nova API substituirá a Assistants, que será descontinuada no primeiro semestre de 2026. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok anuncia ferramentas para maior controle dos pais sobre menores: a Pausa Programada, integrada à Sincronização Familiar, permite que responsáveis estabeleçam tempos limites de utilização para os jovens, e exigirá uma senha caso a rede social seja acessada fora desse horário; a Hora do Sono será ativada para usuários com menos de 16 anos que abrirem o aplicativo após as 22h, interrompendo o feed e exibindo uma tela de aviso acompanhada de uma música “relaxante”. Caso a pessoa continue navegando, uma segunda mensagem, mais difícil de ignorar, será mostrada. A plataforma pretende incluir exercícios de meditação nas próximas semanas. As informações são do site do TikTok.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla pede que Firefox esteja atualizado devido à expiração de certificado: a empresa alerta que um “root certificate”, utilizado para validar a autenticidade de sites e extensões, não será mais válido após o dia 14. Com isso, complementos podem ser desativados, streamings protegidos por DRM podem falhar, e usuários ficarão mais vulneráveis a ameaças. A empresa recomenda que o navegador esteja na versão 128 ou superior no Windows, Linux, macOS e Android, ou na 115.13 ou posterior na versão ESR. No iOS, nenhuma ação é necessária. As informações são do site da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria preparando grande reformulação dos sistemas operacionais para iPhone, iPad e Mac: segundo fontes próximas ao assunto, a atualização, prevista para o final do ano, trará mudanças no design de ícones, menus, aplicativos, janelas e botões, e será baseado no visionOS, sistema operacional dos óculos de realidade aumentada Vision Pro. As novidades serão possivelmente implementadas no iOS e iPadOS 19, e macOS 16. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Capacidade da atmosfera superior de abrigar satélites pode cair em até 66% nos próximos 75 anos: o aumento das emissões de gases de efeito estufa, como o CO2, reduziria a densidade e, por consequência, o arrasto atmosférico — força de resistência sobre um objeto em movimento — mantendo satélites e outros detritos em órbita por mais tempo, potencialmente congestionando o local. As informações são do site MIT News.",
+            "url": ""
+        }
+    ]
+}
