@@ -1,0 +1,49 @@
+{
+    "title": "Alerta: roteadores TP-Link / Pane em impressoras HP / Google lança Gemma 3",
+    "fps": 30,
+    "timestamp": 1741876476,
+    "width": 0,
+    "height": 0,
+    "date": "13/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha presente em mais de 6 mil roteadores TP-Link é utilizada para espalhar malware: a botnet Ballista explora a vulnerabilidade CVE-2023-1389 no modelo Archer AX-21, que permite a execução remota de código. A maior parte dos dispositivos comprometidos está no Brasil, enquanto os ataques têm como alvo setores de manufatura, saúde e tecnologia de outros países. Recomenda-se atualizar os aparelhos imediatamente com os patches de segurança disponíveis na página da TP-Link. As informações são do site Tom’s Guide.",
+            "url": ""
+        },
+        {
+            "text": "Atualização de firmware impede funcionamento de impressoras HP: a versão 20250209 foi lançada para os modelos LaserJet MFP M232-M237, também comercializados no Brasil. Após isso, alguns usuários relatam que seus dispositivos deixaram de funcionar, mesmo quando utilizam toners originais da empresa e após tentativas de limpeza dos contatos e reinstalação do cartucho. A HP está ciente do problema e afirma estar trabalhando em uma solução. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google lança coleção de modelos de IA que pode ser executada em qualquer dispositivo: o Gemma 3 é baseado na mesma tecnologia do Gemini 2.0, e é capaz de rodar em aparelhos como smartphones e notebooks, nas versões com menos parâmetros. Ele suporta mais de 35 idiomas e pode ser utilizado para processar texto, imagens e vídeos curtos. Em testes no Chatbot Arena, o Gemma 3 27B obteve 1338 pontos com uma única Nvidia H100, enquanto o Llama3-405B, da Meta, que pontuou 1269, precisou de 16 GPUs. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Intel anuncia novo CEO: Lip-Bu Tan foi anteriormente diretor executivo da Cadence Design Systems, especializada em software utilizado por fabricantes de chips. Sua nomeação será efetivada no dia 18. Em comunicado, Tan afirma que, sob sua liderança, a Intel será uma “empresa focada em engenharia”. Após o anúncio, as ações da companhia registraram alta de 12% no pregão estendido. As informações são dos sites TechCrunch, CNBC e Intel.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará suporte ao aplicativo Área de Trabalho Remota do Windows: a ferramenta é utilizada para acesso e controle remoto de computadores, podendo ser empregada em suporte técnico e administração de servidores. A partir de 27 maio, ela será desativada e as conexões com Windows 365, Azure Virtual Desktop e Microsoft Dev Box bloqueadas. Em seu lugar, a empresa recomenda o novo aplicativo “Windows”. Essa mudança não afeta o recurso Conexão de Área de Trabalho Remota, presente nativamente no sistema. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "iRobot, pioneira em robôs aspiradores, alerta para possível fechamento em 12 meses: isso pode acontecer caso a empresa não consiga refinanciar sua dívida ou encontrar um comprador. No quarto trimestre de 2024, a companhia registrou uma queda de 47% da receita nos EUA. Além disso, ela enfrenta uma forte concorrência de fabricantes chineses. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "TSMC teria proposto joint venture com Nvidia e AMD para operar fábricas da Intel: segundo fontes próximas ao assunto, pela proposta, a TSMC administraria o setor de fundição da Intel, responsável pela produção de chips personalizados para clientes, mas sem deter mais de 50% da operação. A Qualcomm também teria sido abordada a participar das negociações, que ainda estariam em estágios iniciais. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Apple corrige mais uma vulnerabilidade explorada em “ataques extremamente sofisticados”: a CVE-2025-24201 afeta a maioria dos iPhones e iPads atualmente suportados pela empresa e que utilizam versões anteriores ao iOS 17.2. O problema reside no WebKit, onde um site malicioso pode explorar a falha para escapar da sandbox do Web Content. A vulnerabilidade é semelhante à CVE-2025-24200, corrigida em fevereiro. Não há informações sobre quem explorou a falha ou vítimas. Recomenda-se instalar as últimas atualizações de segurança. Os dispositivos afetados podem ser conferidos no TabNews.",
+            "url": ""
+        }
+    ]
+}
