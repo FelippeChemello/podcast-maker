@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI quer “acesso irrestrito” / Supersólido de luz / WhatsApp: threads de mensagens",
+    "fps": 30,
+    "timestamp": 1741962793,
+    "width": 0,
+    "height": 0,
+    "date": "14/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI solicita ao governo dos EUA acesso irrestrito a dados protegidos por direitos autorais para garantir segurança nacional e não perder “corrida das IAs”: em uma carta aberta enviada ao Escritório de Ciência e Tecnologia da Casa Branca, a companhia argumenta que o princípio do “uso justo” incentiva a inovação, ao contrário de “regras rígidas”, além de garantir a segurança nacional, dado que outros países podem não estar preocupados com direitos autorais. Ela também sugere que o governo evite que países “menos inovadores” imponham restrições às empresas americanas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam primeiro estado supersólido utilizando fótons: essa é uma fase extremamente rara e contraintuitiva da matéria, pois mantém uma estrutura fixa, como um cristal, mas suas partículas podem se mover sem resistência, semelhante a um líquido. O avanço pode ter aplicações em áreas como computação neuromórfica e dispositivos ópticos para processamento de informações. As informações são do site da Universidade de Innsbruck.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp pode receber recurso de “threads” para organizar conversas: a funcionalidade permite agrupar respostas a uma mensagem original, criando uma sequência estruturada sobre um assunto específico. A melhoria, identificada na versão beta 2.25.7.7 para Android, ainda está em desenvolvimento e não há previsão para testes ou lançamento. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Gemini agora pode acessar histórico de buscas do usuário: a funcionalidade, baseada no Gemini 2.0 Flash Thinking, visa fornecer respostas mais personalizadas. Para ativá-la, basta selecionar “Personalization (experimental)” no menu de modelos e conceder a permissão — que pode ser revogada a qualquer momento. A empresa planeja expandir o recurso para plataformas como YouTube e Fotos. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Facebook permite que criadores sejam pagos por visualizações em stories: a opção já está habilitada globalmente para usuários que fazem parte do programa de monetização de conteúdo da plataforma. O valor será determinado pelo desempenho da postagem, sem a necessidade de atingir um número mínimo de visualizações. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bluesky propõe que usuários escolham como seus dados são utilizados por IA: segundo a CEO Jay Graber, a abordagem é inspirada nos mecanismos de busca, que podem rastrear sites disponíveis publicamente, mas costumam respeitar restrições impostas pelo arquivo robots.txt. O consentimento seria definido na conta da pessoa ou em cada postagem individual. O texto da proposta está disponível no repositório “proposals” do GitHub do Bluesky, na seção “0008-user-intents”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind anuncia modelos de IA para robôs mais humanizados: o Gemini Robotics, e sua variante ER, são baseados no Gemini 2.0, e permitem que as máquinas executem desde tarefas simples, como pegar uma fruta e colocá-la em uma cesta, até atividades mais complexas, antes consideradas inviáveis, como dobrar cuidadosamente uma raposa de origami ou fechar um zíper sem danificá-lo. O diferencial dos modelos está na capacidade de realizar ações para as quais não foram treinados previamente, tornando-os úteis para ambientes imprevisíveis. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta lançará Notas da Comunidade nos EUA na próxima semana: o recurso será disponibilizado no dia 18 para Facebook, Instagram e Threads. Usuários poderão sugerir observações em publicações, enquanto outros avaliarão as sugestões como úteis ou não. Então, o sistema analisará a votação, e somente exibirá o texto caso grupos de pessoas que normalmente se opõem concordarem que ele é relevante. A Meta afirma que não rebaixará postagens ou contas com base na presença de uma nota. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
