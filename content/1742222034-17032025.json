@@ -1,0 +1,49 @@
+{
+    "title": "Software: falhas graves crescem / Fim do Google Assistente / Menor MCU do mundo",
+    "fps": 30,
+    "timestamp": 1742222034,
+    "width": 0,
+    "height": 0,
+    "date": "17/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Softwares com falhas de alta gravidade aumentaram 181% nos últimos cinco anos, segundo relatório: os dados são baseados na análise de quase meio milhão de aplicações. Segundo os resultados, 80,3% deles apresentam alguma vulnerabilidade, e 56,2% possuíam ao menos uma de alta severidade. Metade das empresas tem dívida técnica crítica de segurança, com a maioria (70%) originando-se de bibliotecas de terceiros. Além disso, o tempo necessário para correção aumentou 47%, especialmente no caso de códigos abertos, cujas falhas possuem uma meia vida de 12 meses. Uma das possíveis causas apontadas no relatório é o uso crescente de IA. Mais informações podem ser conferidas no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Google descontinuará Assistente até o final deste ano: a empresa afirma que, nos próximos meses, realizará uma atualização do recurso para o Gemini em dispositivos móveis, que eventualmente também abrangerá aparelhos que se conectam ao celular, como fones de ouvido, smartwatches e sistemas multimídia de carros. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Empresa lança menor microcontrolador do mundo do tamanho de um floco de pimenta-do-reino: o MSPM0C1104, da Texas Instruments, mede apenas 1,38mm², com cada unidade custando apenas 20 centavos de dólar. Ele pode ser empregado em dispositivos como fones de ouvido sem fio e sondas médicas, onde o espaço na placa é extremamente limitado. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Anatel determina que operadoras não obriguem clientes a falar com robô: segundo Cristiana Camarate, superintendente de relações com consumidores, algumas empresas (não especificadas) insistem em redirecionar usuários para máquinas, mesmo após solicitarem um atendente humano. Funcionários da agência realizaram testes e confirmaram a prática. Camarate ressalta que a Anatel defende a automação, desde que respeite o desejo do cliente. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Apple oferecerá suporte a troca de mensagens RCS seguras com dispositivos Android: a novidade é possível graças ao protocolo Messaging Layer Security, que permite criptografia interoperável entre diferentes plataformas. No entanto, a tecnologia depende da adoção das operadoras. No Brasil, Vivo, Claro e TIM, por exemplo, já oferecem RCS para Android, mas o suporte para iOS ainda não foi implementado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Reddit permitirá ocultar anúncios específicos por um ano: segundo um funcionário da plataforma, ao selecionar a opção “Ocultar” em uma propaganda, o anunciante responsável será bloqueado durante esse período para aquela pessoa. No momento, não há informações sobre um possível limite de bloqueios. A novidade será disponibilizada na web, iOS e Android “nas próximas semanas”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google adiciona rastreamento de usuários ao aplicativo Encontre Meu Dispositivo: a visualização será centralizada na nova aba “Pessoas”. Além de receber a posição de outros indivíduos, também será possível compartilhar o próprio local, com opção de definir um período de tempo. O novo recurso já está disponível para todos na última versão do app. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Amazon removerá opção da Alexa de não enviar gravações de voz para a nuvem: o recurso — disponível apenas para usuários dos EUA em dispositivos Echo Dot 4 e Echo Show 10 e 15 configurados em inglês — permite que as interações com a assistente sejam processadas diretamente no aparelho. Segundo a empresa, a mudança ocorre devido à expansão da Alexa com recursos de IA. A partir do dia 28, a opção será substituída pela equivalente “Excluir gravações automaticamente”. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
