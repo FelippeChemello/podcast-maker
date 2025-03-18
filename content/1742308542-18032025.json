@@ -1,0 +1,49 @@
+{
+    "title": "GitHub: falso alerta de segurança / Discord lança SDK / Ransomware Akira quebrado",
+    "fps": 30,
+    "timestamp": 1742308542,
+    "width": 0,
+    "height": 0,
+    "date": "18/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falso alerta de segurança no GitHub utiliza aplicativo OAuth para sequestrar contas: o aviso afirma que houve uma tentativa de acesso incomum, originado de Reykjavik, na Islândia, e fornece links para mitigar o problema, os quais direcionam a uma página de autorização da plataforma que solicita permissões para o “gitsecurityapp”, capazes de conceder ao invasor controle total sobre a conta e os repositórios da vítima. Pessoas afetadas devem revogá-las imediatamente e rotacionar credenciais e tokens de autenticação. As permissões podem ser conferidas no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Discord lança SDK gratuito para desenvolvedores aprimorarem interações sociais em jogos: o Social permite aproveitar a infraestrutura da plataforma para integrar recursos como convites diretos para lobbies e grupos, mensagens multiplataforma, e a possibilidade de os usuários verem e acessarem seus contatos do Discord diretamente no game e vice-versa. O kit é compatível com C++, Unreal Engine e Unity, com suporte inicial para Windows 11 e macOS. As informações são do blog do Discord.",
+            "url": ""
+        },
+        {
+            "text": "Ransomware Akira pode ser quebrado com placas Nvidia RTX 4090: uma das variantes do vírus gera chaves de criptografia únicas para cada arquivo, com base em quatro timestamps medidos em nanossegundos, que podem ser reduzidos e descobertos por meio de técnicas de força bruta. Com uma única RTX 4090, o processo pode levar cerca de sete dias, mas com 16 o tempo é reduzido para pouco mais de dez horas. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google migrará usuários do antigo G Suite gratuito para Workspace em 1º de maio: a transição ocorrerá automaticamente, e a quantidade de armazenamento da conta permanecerá inalterada. Contudo, no novo formato, o espaço será dividido entre todas as pessoas de um grupo ou organização. Administradores poderão definir manualmente limites individuais para evitar que um único usuário consuma toda a capacidade disponível. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Roblox lança modelo open-source de IA para criação de objetos 3D: o Cube é capaz de gerar malhas — representações tridimensionais — a partir de prompts em linguagem natural, como “um carro de corrida laranja com listras pretas”. A empresa planeja expandir a ferramenta para desenhar cenas inteiras, como uma floresta, e tornar os objetos e ambientes totalmente funcionais, algo que ela chama de “criação 4D”. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Laboratório de pesquisas do Google lança startup de internet a laser: a tecnologia da Taara expande redes de fibra óptica em regiões onde a instalação de cabos é inviável, permitindo transmitir 20 gigabits por segundo em distâncias de até 20 quilômetros. O próximo passo é desenvolver um chip fotônico de silício, que também poderá viabilizar a substituição de redes Wi-Fi em escritórios pelo chamado Li-Fi. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Técnica permite hackear Xbox 360 com apenas um pendrive: o exploit BadUpdate possibilita contornar as proteções do Hypervisor da Microsoft — projetado para impedir modificações e softwares não licenciados no console — para liberar acesso à uma loja alternativa (homebrew) do dispositivo, que inclui jogos, aplicativos, emuladores e interfaces personalizadas. No entanto, o processo pode não funcionar na primeira tentativa e precisa ser executado toda vez que o aparelho for ligado. O projeto pode ser conferido no repositório “grimdoomer/Xbox360BadUpdate” do GitHub. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem mão robótica “bio-híbrida” utilizando células musculares humanas reais: o protótipo de 18 cm de comprimento foi impresso em 3D com plástico e mantido em um meio líquido. Ele foi capaz de realizar gestos do jogo pedra, papel e tesoura, e manipular pequenos objetos, como uma pipeta. Contudo, os músculos artificiais ainda são muito fracos em comparação aos humanos, e após cerca de 10 de minutos, apresentaram fadiga. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
