@@ -1,0 +1,49 @@
+{
+    "title": "Nvidia: super desktops / GitHub Action vulnerável / EVs: recarga ultra rápida",
+    "fps": 30,
+    "timestamp": 1742394976,
+    "width": 0,
+    "height": 0,
+    "date": "19/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nvidia anuncia supercomputadores pessoais de IA: os modelos DGX Spark e Station, inicialmente apresentados como “Project DIGITS” em janeiro, são voltados para desenvolvedores e pesquisadores, e projetados especificamente para executar redes neurais localmente. A comercialização ficará a cargo de empresas como Asus, Dell, HP e Lenovo. As reservas do modelo Spark já estão abertas, enquanto o Station tem lançamento previsto para o final de 2025. Ainda não há dados oficiais sobre preços. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Ataque à cadeia de suprimentos no GitHub Actions expõe dados sensíveis de CI/CD: a vulnerabilidade CVE-2025-30066 afeta a “tj-actions/changed-files”, presente em 23 mil repositórios. No último dia 14, invasores adicionaram um commit malicioso à ferramenta, fazendo com que o Runner Worker despejasse informações confidenciais nos logs do workflow. Caso esses logs fossem acessíveis publicamente, qualquer pessoa poderia ler e roubar esses dados. O GitHub já removeu o código malicioso da Action, mas recomenda-se rotacionar credenciais em projetos que a utilizam. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "BYD anuncia sistema de recarga tão rápido quanto completar um tanque de veículo a combustão: a “super e-platform” atinge uma capacidade máxima de 1.000 kW — o dobro dos supercarregadores mais recentes da Tesla — permitindo que os carros compatíveis percorram até 400 km com apenas cinco minutos de carga. Inicialmente, a nova arquitetura estará disponível nos modelos Han L e Tang L da fabricante. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Alphabet adquire Wiz, empresa de cibersegurança na nuvem, por 32 bilhões de dólares: essa é a maior aquisição realizada pela empresa, superando a compra da Motorola em 2012 por 12,5 bilhões. Com isso, os serviços da companhia serão integrados ao Google Cloud, mas continuarão disponíveis em outras plataformas, como AWS e Azure. O acordo ainda está sujeito à aprovação regulatória. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp pretende restringir envio de mensagens em listas de transmissão: o objetivo é reduzir o spam na plataforma. Durante a fase de testes, a Meta aplicará limites mensais — um dos exemplos citados pela empresa é de 30 mensagens por mês. No WhatsApp Business, a companhia deve lançar em breve uma versão paga do recurso, que atualmente é gratuito e ilimitado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT apresentam Exo 2: essa é uma linguagem pertencente à categoria “User-Schedulable Languages”, a qual permite que programadores controlem como as otimizações de código são aplicadas pelo compilador. Isso viabiliza a criação de bibliotecas de alto desempenho, para softwares que exigem máxima eficiência computacional, usando poucas linhas de código, em vez de centenas de milhares como em soluções atuais — a nova versão pode reduzir a quantidade necessária em até 100 vezes. As informações são do site MIT News.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz Canvas ao Gemini: a ferramenta é semelhante à do ChatGPT. Ela permite que os usuários editem trechos específicos de textos, tornando-os mais concisos ou informais, por exemplo, e oferece suporte a geração e visualização de código em linguagens como HTML e React, com alterações em tempo real. O recurso já pode ser acessado diretamente pela barra de prompts do modelo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apenas 20% dos aplicativos móveis alcançam 1.000 dólares em receita mensal nos primeiros 2 anos, segundo relatório: a análise envolveu mais de 75 mil apps, cuja receita depende pelo menos em parte de assinaturas. As categorias mais afetadas incluem compras, viagens e negócios, enquanto as de jogos, produtividade e entretenimento têm maior probabilidade de atingir esse valor em um tempo médio de 47 dias. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
