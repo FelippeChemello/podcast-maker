@@ -1,0 +1,49 @@
+{
+    "title": "Relógio da Atari / Android: +300 apps maliciosos / Nvidia, Disney e Google",
+    "fps": 30,
+    "timestamp": 1742481422,
+    "width": 0,
+    "height": 0,
+    "date": "20/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atari anuncia seu primeiro smartwatch: o 2600 My Play Watch possui efeitos sonoros temáticos do clássico console da empresa e os jogos Centipede, Pong, Super Breakout e Missile Command instalados, que podem ser controlados pela tela ou botão giratório lateral. Ele também integra recursos como contagem de passos, calorias queimadas e frequência cardíaca, mas não possui Bluetooth ou Wi-Fi, e não se conecta a smartphones. O relógio já está disponível para pré-venda na loja oficial da Atari por 79,99 dólares, com envio previsto para até 10 de junho. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 300 aplicativos com 60 milhões de instalações ao todo são utilizados para infectar dispositivos Android: a campanha maliciosa Vapor promove utilitários como rastreamento de saúde, blocos de notas, otimizadores de bateria e scanners de QR code, que atuam como adware e tentam roubar credenciais e informações financeiras por meio de ataques de phishing. Os apps já foram removidos da Play Store. Recomenda-se removê-los do dispositivo imediatamente. A lista pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia anuncia parceria com Disney e Google DeepMind: as empresas estão colaborando no desenvolvimento do Newton, um motor de física projetado para simular com precisão os movimentos de robôs no mundo real. A Disney será uma das primeiras a utilizar a tecnologia em seus parques a partir do próximo ano, incluindo droides inspirados em Star Wars, como o BDX. A Nvidia pretende lançar uma versão inicial e de código aberto do sistema até o final de 2025. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "41% dos logins bem-sucedidos na internet utilizam senhas vazadas, segundo Cloudflare: o estudo analisou o tráfego de sites protegidos pela empresa entre setembro e novembro de 2024. No WordPress, por exemplo, 76% dos logins realizados com credenciais comprometidas são aceitos, sendo 48% feitos por bots e 52% por usuários legítimos. Recomenda-se evitar senhas fracas ou reutilizadas, ativar a autenticação multifator e considerar o uso de chaves de acesso. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza o1-pro na API para desenvolvedores: segundo a empresa, o modelo oferece respostas melhores e mais consistentes para problemas complexos, comparado ao o1 convencional. O acesso está restrito para usuários que tenham gasto pelo menos 5 dólares em serviços da API da companhia. Seu preço é de 150 dólares por milhão de tokens inseridos (cerca de 750 mil palavras) e 600 dólares por milhão de tokens gerados — um aumento de dez vezes em relação ao o1. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google libera aplicativo Carteira para crianças em lojas físicas: a adição de um cartão de pagamento à conta infantil exige o consentimento dos pais, que receberão um e-mail sempre que uma transação for realizada, e poderão gerenciar compras, revisar o histórico e remover métodos de pagamento. O recurso estará inicialmente disponível em lojas nos EUA, Reino Unido, Austrália, Espanha e Polônia. Compras online não serão permitidas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade zero-day no Windows tem sido explorada para espionagem desde 2017: o ataque explora arquivos de atalho maliciosos (.LNK) com comandos ocultos que executam malware. Entre os alvos estão órgãos governamentais, instituições financeiras e empresas de telecomunicação. A Microsoft não classifica o problema como uma falha de segurança, mas pretende abordá-lo em uma futura atualização de recursos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia exige que Apple abra seu ecossistema para concorrentes: a ordem, baseada no Digital Markets Act, exige que fabricantes rivais de smartphones, fones de ouvido e headsets de realidade virtual tenham acesso ao sistema operacional da empresa, garantindo compatibilidade com iPhones e iPads. Além disso, a companhia deve atender a pedidos de interoperabilidade de desenvolvedores de aplicativos. Em caso de descumprimento, ela poderá enfrentar uma multa de até 10% do seu faturamento global anual. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
