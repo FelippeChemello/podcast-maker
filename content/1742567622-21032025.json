@@ -1,0 +1,49 @@
+{
+    "title": "WordPress: plugin afetado / YouTube investiga bug / Apple BR: “sideloading” suspenso",
+    "fps": 30,
+    "timestamp": 1742567622,
+    "width": 0,
+    "height": 0,
+    "date": "21/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica em plugin de segurança do WordPress expõe mais de 200 mil sites: a vulnerabilidade CVE-2025-26909 afeta todas as versões WP Ghost até a 5.4.01, e permite que invasores executem código remotamente e assumam o controle total das páginas. O problema ocorre quando o recurso “Change Paths” está ativado nos modos Lite ou Ghost, mas pesquisadores alertam para exploração em outras configurações. A falha foi corrigida a partir da versão 5.4.02. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "YouTube investiga problema que faz vídeos carregarem em baixa resolução: a situação tem causado uma “qualidade abaixo do normal” em dispositivos iOS, desktops e smart TVs, fazendo com que a mídia seja reproduzida em 144p ou 360p, mesmo em uma boa conexão com a internet ou ao definir manualmente uma resolução mais alta. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple consegue suspender decisão que exigia sideloading no Brasil: a empresa obteve na Justiça a revogação da determinação do Conselho Administrativo de Defesa Econômica, que havia acusado-a de restringir a concorrência para favorecer seus próprios serviços. O juiz responsável classifica a decisão do Cade como “desproporcional”. O órgão ainda pode recorrer da decisão. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic adiciona busca na web ao Claude: o modelo obterá informações online de forma automática para complementar respostas, incluindo referências. O recurso está disponível exclusivamente na versão 3.7 Sonnet e, inicialmente, apenas para assinantes nos EUA, com suporte para usuários gratuitos e de outros países chegando em breve. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok exibirá avisos de crianças desaparecidas nos EUA: caso um alerta AMBER — utilizado especificamente nessas situações — seja emitido pelas autoridades, ele será exibido no feed “Para Você” de usuários localizados na área de busca designada, a partir do endereço IP do dispositivo, e incluirá informações como foto, descrição e última posição conhecida, além de uma opção para ligar para a emergência. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo Passwords da Apple ficou vulnerável por quase três meses após lançamento: pesquisadores identificaram que o software realizava conexões inseguras com 130 sites diferentes via HTTP sem criptografia para buscar logotipos de ícones de contas. Embora as requisições fossem posteriormente redirecionadas para HTTPS, caso o usuário estivesse em uma rede pública, um invasor poderia interceptar e manipular o tráfego antes da transição. O problema foi corrigido a partir do iOS 18.2 em dezembro, mas só agora foi revelado. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "GIMP, alternativa open-source ao Photoshop, lança versão 3.0 após sete anos: a atualização oferece suporte aprimorado para telas HiDPI e modo escuro, melhor compatibilidade com tablets gráficos e maior integração com o scroll do mouse, além de melhorias no gerenciamento de fontes, textos e espaço de cores. O software também passou a suportar mais formatos de arquivo para importação e exportação, incluindo o uso otimizado do.PSD do Photoshop. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "55% dos consumidores norte-americanos utilizam IA para buscar produtos na internet, segundo Adobe: o estudo analisou 1 trilhão de visitas a sites de varejo nos EUA e incluiu entrevistas com mais de 5 mil pessoas do país. Entre elas, 39% usam a tecnologia para compras online e 47% para recomendações de itens. Além disso, indivíduos que acessam um site por meio de buscas por IA permanecem 8% mais tempo e navegam por 12% mais páginas, sugerindo que essas ferramentas estão direcionando-os para resultados mais relevantes. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
