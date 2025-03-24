@@ -1,0 +1,49 @@
+{
+    "title": "Engº Comp: maiores salários do Brasil / Labirinto de crawlers / Harvard: valor do open-source",
+    "fps": 30,
+    "timestamp": 1742827021,
+    "width": 0,
+    "height": 0,
+    "date": "24/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Engenheiros de Computação têm os maiores salários de admissão no Brasil: segundo um levantamento, profissionais da área recebem, em média, 13.794 reais no momento da contratação, seguidos por Engenheiros de Minas e Afins (13.055) e Diretores de Espetáculos e Afins (11.716). No geral, o salário médio de admissão no país registrou um crescimento de 2% em 2024, atingindo 2.178 reais, acima do aumento de 1,2% de 2023. As informações são do site UOL.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare lança ferramenta para mitigar crawlers não autorizados: o AI Labyrinth redireciona os modelos para páginas geradas por IA que contêm fatos científicos não relacionados com o conteúdo do site original, e sem alterar a sua estrutura. Usuários legítimos e crawlers autorizados não serão afetados. A ferramenta está disponível gratuitamente no painel de gerenciamento de bots. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Softwares open-source possuem grande valor econômico, segundo estudo de Harvard: pesquisadores estimam que o custo para recriar esses programas do zero seria de 4,15 bilhões de dólares, enquanto a soma dos gastos que cada empresa teria para desenvolver essas aplicações por conta própria atinge 8,8 trilhões. A equipe também alerta para o uso excessivo desses softwares sem contribuições financeiras por parte das companhias. As informações são do site Heise Medien.",
+            "url": ""
+        },
+        {
+            "text": "Físicos criam display LED com pixels menores que um vírus: para isso, a equipe utilizou perovskita, um material de estrutura cristalina específica amplamente empregado em painéis solares avançados. No experimento, cada pixel mediu apenas 90 nanômetros de largura. A inovação pode abrir caminho para aplicações em tecnologias como displays de realidade virtual. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Google começa a liberar compartilhamento de tela e câmera do celular no Gemini: o recurso permite que o modelo responda a perguntas em tempo real com base no que está “enxergando” no momento. Segundo a empresa, ele estará disponível para assinantes do Gemini Advanced. A ferramenta ainda não foi liberada para todos, mas será disponibilizada gradualmente. As informações são dos sites The Verge e 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Apple é processada nos EUA por propaganda enganosa sobre Siri com IA: a ação alega que muitas funcionalidades prometidas ainda não estão disponíveis, e que ela teria enganado “milhões de consumidores” para que adquirissem um dispositivo “que não precisavam” (iPhone 16) com base em “recursos que não existem”. Segundo a companhia, algumas capacidades avançadas da assistente só serão implementadas em 2026, um adiamento em relação ao prazo para este ano. As informações são dos sites The Register e Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Legendas de memes geradas por IA obtêm alta pontuação em humor: o estudo envolveu a criação dos textos em três grupos — humanos trabalhando sozinhos, colaborando com o GPT-4o, e o próprio modelo sem a intervenção de alguém — utilizando templates de imagens populares da internet. Na avaliação de outros participantes, legendas criadas exclusivamente pela IA receberam, em média, notas mais altas em humor, criatividade e potencial de viralização. No entanto, os pesquisadores constataram que os exemplos mais engraçados ainda foram criados por humanos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estuda forma de creditar proprietários de dados utilizados no treinamento de IA: a empresa pretende demonstrar ser possível otimizar modelos de modo que o impacto de informações específicas nesse processo seja medido com eficiência. Com isso, ela sugere oferecer “incentivos, reconhecimento e, potencialmente, pagamento” aos donos de “dados valiosos”. A companhia também reconhece que as arquiteturas atuais de redes neurais são “opacas” em relação à atribuição de fontes para os conteúdos gerados. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
