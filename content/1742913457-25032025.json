@@ -1,0 +1,45 @@
+{
+    "title": "IBM aposta em Devs humanos / Next.js vulnerável / Cloudflare: API sem HTTP",
+    "fps": 30,
+    "timestamp": 1742913457,
+    "width": 0,
+    "height": 0,
+    "date": "25/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da IBM não acredita que IA substituirá programadores tão cedo: Arvind Krishna discorda da projeção de Dario Amodei, CEO da Anthropic, de que até 90% do código poderá ser escrito pela tecnologia nos próximos três a seis meses — para ele, esse percentual está entre 20% e 30%, com os modelos, na verdade, aumentando a produtividade desses profissionais e a eficiência das empresas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Falha crítica no Next.js permite que hackers contornem autorização: a vulnerabilidade CVE-2025-29927 possibilita que solicitações acessem rotas protegidas sem passar por verificações de segurança, ao enviar o cabeçalho “x-middleware-subrequest” com um valor específico. O problema está presente em todas as versões anteriores a 15.2.3, 14.2.25, 13.5.9 e 12.3.5, e afeta projetos auto-hospedados que utilizam “next start” com “output: standalone”, enquanto aplicações na Vercel e Netlify ou exportadas como estáticas não são impactadas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare bloqueia requisições HTTP sem criptografia em sua API: os endpoints da plataforma agora aceitam apenas conexões via HTTPS, eliminando o risco de exposição de informações sensíveis, principalmente quando o usuário estiver em redes públicas ou compartilhadas, onde ataques adversary-in-the-middle são mais fáceis de executar. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google admite ter excluído histórico de localização de alguns usuários do Maps acidentalmente: certas pessoas haviam relatado o desaparecimento de suas informações de lugares visitados no aplicativo. Segundo a empresa, que notificou os afetados por e-mail, apenas aqueles que ativaram o backup na nuvem poderão recuperar os dados — caso contrário, o processo é irreversível. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia reorganização de tarefas em sua liderança: o diretor de operações Brad Lightcap agora será responsável por supervisionar as operações diárias, a expansão internacional e a gestão de parcerias com empresas como Microsoft e Apple. Enquanto isso, o CEO Sam Altman estará mais focado em orientar os esforços de pesquisa e desenvolvimento de produtos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp pode integrar chamadas de voz com Meta AI: o recurso foi avistado na versão beta 2.25.7.16 para Android, ainda indisponível para usuários. Durante a ligação, seria possível utilizar outros aplicativos, possibilitando fazer perguntas ao modelo enquanto navegam em um site, por exemplo. Ainda não há previsão para testes públicos ou lançamento oficial. As informações são do site WABetaInfo.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia seis agentes de IA para auxiliar equipes de segurança: os sistemas serão integrados à plataforma Security Copilot em prévia no próximo mês, e são projetados para analisar alertas de phishing e perda de dados, priorizar incidentes críticos e monitorar vulnerabilidades, permitindo que pesquisadores lidem de forma autônoma com um alto volume de tarefas de segurança e TI. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
