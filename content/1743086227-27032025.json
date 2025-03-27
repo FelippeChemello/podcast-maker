@@ -1,0 +1,45 @@
+{
+    "title": "Android: desenvolvimento privado / OpenAI adota MCP / NPM: infecção local",
+    "fps": 30,
+    "timestamp": 1743086227,
+    "width": 0,
+    "height": 0,
+    "date": "27/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google tornará desenvolvimento do Android privado: atualmente, a empresa atualiza frequentemente o repositório público Android Open Source Project. Contudo, alguns recursos ainda são programados apenas internamente. A partir da próxima semana, a companhia focará em um desenvolvimento exclusivamente interno, adotando o método trunk-based development. No entanto, isso não significa que o Android se tornará um sistema fechado. O Google continuará disponibilizando o código das novas versões, como o da futura versão 16, mas com menos frequência. A mudança não impacta usuários comuns e desenvolvedores de apps. As informações são dos sites Ars Technica e Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI adiciona suporte ao Model Context Protocol em sua Agents SDK: o padrão, criado pela Anthropic, permite que modelos de IA acessem dados de diversas fontes, como softwares corporativos e ambientes de desenvolvimento, a fim de gerar respostas mais relevantes e executar tarefas com maior precisão. O suporte à API e ao aplicativo para desktop será disponibilizado em breve. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pacotes NPM maliciosos infectam bibliotecas instaladas localmente: a ameaça foi descoberta no “ethers-provider2” e no “ethers-providerz”. Quando o primeiro é instalado, ele procura repetidamente pelo pacote legítimo “ethers” no ambiente, substituindo o arquivo “provider-jsonrpc.js” por outro idêntico visualmente, mas com código malicioso que estabelece um shell reverso e permite ao invasor controle e execução de comandos remotos na máquina da vítima. O “ethers-providerz” atua de maneira similar, direcionando-se ao também legítimo “@ethersproject/providers”. Ambos foram removidos do repositório NPM. As informações são do site ReversingLabs.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia dois agentes de raciocínio: o Researcher utiliza a tecnologia Deep Research da OpenAI, sendo capaz de realizar buscas profundas na web e fornecer resultados detalhados. Já o Analyst, baseado no o3-mini, funciona como um cientista de dados, permitindo o envio de arquivos, como planilhas com múltiplas tabelas, para gerar insights específicos. Ambos serão disponibilizados para assinantes do Microsoft 365 Copilot a partir de abril. As informações são do blog da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Waze remove Google Assistente do aplicativo para iOS: a decisão foi tomada devido a “problemas constantes” que impediam seu funcionamento adequado há mais de um ano. A ferramenta será substituída por uma “solução aprimorada de integração por voz” não especificada. Segundo relatos de usuários de iPhone, o comando “Ok Google” ativava o assistente, mas ele não ouvia as instruções. No Android, o recurso continuará funcionando normalmente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "YouTube mudará forma de contabilizar visualizações no Shorts: a partir de 31 de março, qualquer reprodução ou repetição será registrada — atualmente, isso só acontece após alguns segundos. A métrica anterior continuará disponível no modo avançado do Analytics. A empresa garante que a alteração não impactará os ganhos dos criadores nem os critérios de elegibilidade para o Programa de Parcerias. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Navegador Vivaldi recebe integração com Proton VPN: o recurso é oferecido de forma nativa na versão para desktop, sem necessidade de download, e requer login em uma conta Vivaldi. O plano gratuito permite conexão com servidores em cinco países aleatórios e oferece uma velocidade “média”. A versão paga, com recursos mais avançados, custa 30,99 reais mensais no Brasil. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
