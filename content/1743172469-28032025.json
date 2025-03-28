@@ -1,0 +1,49 @@
+{
+    "title": "ChatGPT e bem-estar / Firefox: falha crítica / Linux para UE",
+    "fps": 30,
+    "timestamp": 1743172469,
+    "width": 0,
+    "height": 0,
+    "date": "28/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI publica primeira pesquisa sobre relação entre ChatGPT e bem-estar emocional: a empresa, em parceria com o MIT, conduziu um experimento dividido em duas partes. A primeira envolveu a análise de mais de 4 milhões de interações com o modelo na plataforma, além de entrevistas com mais de 4 mil usuários, enquanto na segunda cerca de 1.000 pessoas foram instruídas a utilizar o chatbot por pelo menos cinco minutos diários ao longo de quatro semanas, e a responder um questionário sobre o seu estado emocional. Os participantes com maior tempo de uso apresentaram maior “dependência emocional”, potencialmente agravando sentimentos de solidão e dependência pela tecnologia. As informações são do site MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla alerta sobre falha crítica no Firefox para Windows: a vulnerabilidade CVE-2025-2857 permite que invasores escapem da sandbox do navegador, possibilitando ataques como execução remota de código e infecção por malware. Ela é similar à CVE-2025-2783, mitigada esta semana no Chrome. O problema foi corrigido na versão 136.0.4 do Firefox, e nas 115.21.1 e 128.8.1 do Firefox ESR. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores propõem distribuição Linux para setor público da União Europeia: o “EU OS”, ainda em fase conceitual, é baseado no Fedora e utiliza o ambiente gráfico KDE Plasma. Ele busca reduzir a dependência de fornecedores externos e oferecer um ecossistema digital mais seguro, e pode ser personalizado de acordo com as necessidades de cada país, setor ou organização. Apesar do nome, o sistema não possui vínculos com a UE. As informações são dos sites It's FOSS News e EU OS GitLab.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa infecta pacotes NPM para roubar dados de variáveis de ambiente: dez bibliotecas legítimas foram atualizadas repentinamente com código malicioso, parte delas relacionadas a moedas digitais, como a popular “country-currency-map” na release 2.1.8. Pesquisadores acreditam que o ataque tenha sido realizado por meio de “credential stuffing”, onde invasores utilizam credenciais vazadas em brechas anteriores para acessar contas de usuários e desenvolvedores. Os nomes dos pacotes e suas versões comprometidas estão disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Facebook anuncia aba dedicada para publicações de amigos e familiares: a seção “Amigos”, que atualmente exibe pedidos e sugestões de amizade, passará a mostrar também stories, reels, posts e aniversários das conexões do usuário. A ideia é resgatar a experiência original da rede social. Inicialmente, o recurso será disponibilizado nos EUA e no Canadá. As informações são do site da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Blender, software open-source utilizado em filme vencedor do Oscar, anuncia versão 4.4 com melhorias em edição de vídeo e animação: a equipe corrigiu cerca de 500 bugs. Entre as novidades destacam-se suporte ao padrão H.265/HEVC, mídias de alta qualidade e HDR, além do formato USD, utilizado para compartilhamento de cenas 3D entre diferentes softwares. O desempenho geral também foi otimizado para aproveitar melhor a capacidade de GPUs e CPUs. O Blender foi o software utilizado na criação do Flow, vencedor do Oscar de Melhor Filme de Animação de 2025. As informações são do site do Blender.",
+            "url": ""
+        },
+        {
+            "text": "Universidade de Columbia suspende por 1 ano estudante que desenvolveu IA para trapacear em entrevistas de programação: Chungin Lee demonstrou a ferramenta, chamada Interview Coder, durante uma entrevista para a Amazon, resultando em uma denúncia para a instituição e na abertura de um processo disciplinar. Columbia inicialmente propôs liberdade condicional acadêmica ao aluno, justificando que a tecnologia poderia ser utilizada para fraudes em avaliações. Lee, no entanto, havia divulgado sem autorização a gravação da sua audiência disciplinar– segundo documentos internos – o que o fez ser suspenso. A startup de Lee comercializa a IA por 60 dólares mensais. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm lança campanha antitruste global contra Arm: a empresa recorreu a reguladores dos EUA, Europa e Coreia do Sul, acusando a Arm de restringir o acesso às suas tecnologias e modificar modelos de licenciamento para limitar a concorrência. Essa, por sua vez, nega as acusações, e classifica a iniciativa da Qualcomm como uma tentativa de desviar a atenção de uma disputa comercial mais ampla envolvendo a aquisição da Nuvia e o uso de sua propriedade intelectual nos chips Snapdragon X. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
