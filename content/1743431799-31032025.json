@@ -1,0 +1,49 @@
+{
+    "title": "xAI compra X / Office mais rápido / “Caixa-preta” de IA aberta",
+    "fps": 30,
+    "timestamp": 1743431799,
+    "width": 0,
+    "height": 0,
+    "date": "31/03/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "xAI adquire rede social X: ambas as empresas são de Elon Musk. A transação foi realizada inteiramente via troca de ações. Com isso, a xAI fica avaliada em 80 bilhões de dólares e o X em 33 bilhões — resultado de 45 bilhões menos 12 bilhões em dívidas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativos do Microsoft Office carregarão mais rápido no Windows: a empresa implementará uma tarefa agendada que será executada automaticamente ao iniciar o PC, deixando o aplicativo em um estado de “pausa” até ser aberto. O recurso será implementado inicialmente no Word a partir de maio em máquinas com pelo menos 8 GB de RAM e 5 GB de espaço livre, e será desativado quando o modo de economia de energia estiver habilitado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic desenvolve ferramenta para investigar como modelos de linguagem funcionam por dentro: o cross-layer transcoder funciona de forma ligeiramente semelhante às ressonâncias magnéticas funcionais (fMRI) utilizadas em cérebros humanos, e foi testado no Claude 3.5 Haiku. Os resultados indicam que ao gerar um poema, por exemplo, o modelo constrói as frases de trás para frente para garantir que elas vão rimar. Além disso, o sistema pode “fingir” que fez um raciocínio para responder a uma pergunta, quando, na realidade, isso não aconteceu. As informações são da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo anuncia sistema de empréstimo de jogos digitais no Switch: a partir de uma atualização em abril, sempre que um game for adquirido na eShop, ele gerará automaticamente uma espécie de “cartão virtual”, que poderá ser gerenciado em uma tela dedicada. Com isso, será possível transferir o título entre consoles — incluindo do Switch 1 para o 2 via conexão Wi-Fi local — e membros de uma conta familiar. Cada usuário só poderá emprestar um jogo por vez e apenas por duas semanas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI quintuplica recompensa máxima em seu programa de bug bounty: o valor foi de 20 mil para 100 mil dólares por “descobertas críticas excepcionais e diferenciadas” nos produtos da empresa. Além disso, até 30 de abril, pesquisadores que identificarem vulnerabilidades do tipo IDOR poderão receber até 13 mil dólares, o dobro do valor atual. No entanto, problemas relacionados ao conteúdo de prompts e respostas dos modelos, incluindo alucinações, estão fora do escopo. As informações são dos sites BleepingComputer e Bugcrowd.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Intel desenvolvem formato compacto de imagens espectrais: essas imagens armazenam dados de raios de luz invisível, como ultravioleta e infravermelho, e podem alcançar vários gigabytes. O novo “Spectral JPEG XL” reduz o tamanho dos arquivos sem comprometer informações essenciais, semelhante ao que o MP3 faz para áudios. Em testes, ele conseguiu diminuir o espaço ocupado entre 10 a 60 vezes em comparação ao OpenEXR, formato atualmente utilizado para esse tipo de dado. A inovação pode beneficiar setores como indústria automotiva, área médica e computação gráfica. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Estado da Virgínia nos EUA quer obrigar motoristas infratores a instalarem limitadores de velocidade em seus veículos: o dispositivo seria uma alternativa à prisão ou suspensão da carteira de habilitação. Quem tentar burlar o aparelho estará sujeito a pena de até um ano de cadeia. As informações são do site The Washington Post.",
+            "url": ""
+        },
+        {
+            "text": "Google teria dado 100 dias para funcionários criarem rival do ChatGPT em 2022: a informação foi divulgada pela vice-presidente e gerente-geral do Gemini, Sissie Hsiao. Segundo ela, o processo foi como “correr uma maratona em velocidade de sprint”, com a empresa pedindo ao mesmo tempo por qualidade e velocidade na construção do chatbot. O modelo foi lançado em fevereiro de 2023, três meses após o ChatGPT, com o nome “Bard”. As informações são do site Quartz.",
+            "url": ""
+        }
+    ]
+}
