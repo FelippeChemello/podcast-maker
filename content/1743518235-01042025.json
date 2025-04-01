@@ -1,0 +1,49 @@
+{
+    "title": "IA “terapeuta” funciona / Windows 11: MS quer login / RISC OS busca Devs",
+    "fps": 30,
+    "timestamp": 1743518235,
+    "width": 0,
+    "height": 0,
+    "date": "01/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores realizam teste com chatbot terapêutico, com resultados positivos: o Therabot foi desenvolvido para auxiliar no tratamento de transtornos mentais e distúrbios alimentares. Ao todo, 106 participantes nos EUA tiveram acesso irrestrito ao sistema por quatro semanas, respondendo a perguntas sobre seu estado emocional. Os resultados indicam uma redução média de 51% nos sintomas de depressão, 31% nos de ansiedade e 19% em distúrbios alimentares, sendo esses um dos mais difíceis de tratar clinicamente. A equipe, entretanto, reforça a necessidade de supervisão humana nessa abordagem. As informações são do site da Faculdade de Dartmouth.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft elimina método que permitia instalar Windows 11 sem login e conexão com internet: na versão mais recente do Insider Preview, a empresa desativou o comando “bypassnro”, que podia ser utilizado tanto por usuários individuais quanto administradores que configuram máquinas para empresas. A companhia justifica a mudança como uma medida para “aprimorar a segurança”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Organização responsável pelo RISC OS, sistema operacional open-source para dispositivos Arm, lança iniciativa para torná-lo compatível com 64 bits: o programa Moonshots é focado no desenvolvimento de longo prazo com desenvolvedores dedicados em tempo integral. Para isso, ela busca engenheiros de software embarcado, com experiência em sistemas de baixo nível e plataformas Arm. Atualmente, grande parte do código ainda é escrito em Assembly de 32 bits, o que pode limitar sua adoção. As informações são do site RISC OS OPEN.",
+            "url": ""
+        },
+        {
+            "text": "Google libera Gemini 2.5 Pro para todos os usuários: o modelo é descrito pela empresa como o “mais inteligente até agora”. Ele já pode ser acessado no site oficial e na plataforma AI Studio, com limite de uso mais restrito para não assinantes. O suporte para dispositivos móveis será disponibilizado em breve. As informações são dos sites Engadget e X.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança iOS 18.4 e disponibiliza Intelligence em português do Brasil: entre as novidades da atualização estão as notificações prioritárias geradas por IA, que exibem alertas urgentes no topo da tela de maneira destacada. O Apple Intelligence também foi introduzido no Vision Pro a partir do visionOS 2.4, e o dispositivo agora pode ser gerenciado por meio de um aplicativo separado para iPhones. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Amazon amplia acesso à sua plataforma de IA: a empresa lançou um site dedicado para a Nova, permitindo que usuários utilizem modelos como Micro, Lite e Pro para geração de textos, além do Canvas para criação de imagens e Reel para vídeos. Além disso, desenvolvedores terão acesso ao Nova Act SDK, que possibilita a criação de agentes capazes de executar ações em navegadores, como realizar buscas, compras e responder perguntas sobre o conteúdo da tela. Inicialmente, o site estará disponível apenas para pessoas nos EUA. As informações são do site da Amazon.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem método que faz transistores convencionais comportarem-se como neurônios: o avanço se baseia no efeito “punch-through”, um problema típico dos processadores, onde a corrente elétrica escapa mesmo quando o transistor deveria estar desligado. A equipe explorou esse comportamento para simular pulsos elétricos que acontecem no cérebro quando um neurônio dispara um sinal. A descoberta pode permitir a construção de redes neurais artificiais mais eficientes para rodar sistemas de IA. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas afirmam que IA não está pronta para substituir pesquisadores humanos: a equipe analisou o desempenho dos modelos ChatGPT, Gemini e Copilot em seis fases da pesquisa acadêmica. Os sistemas tiveram desempenho satisfatório na fase de ideação e na elaboração do projeto de pesquisa, mas apresentaram dificuldades significativas na revisão de literatura, análise de resultados e escrita final do artigo. O coautor do estudo defende que a IA seja utilizada apenas como assistente. As informações são do site University of Florida.",
+            "url": ""
+        }
+    ]
+}
