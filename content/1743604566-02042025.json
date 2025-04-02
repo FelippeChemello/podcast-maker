@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI: captação histórica / Gmail: criptografia E2EE / Mozilla Thunderbird Pro",
+    "fps": 30,
+    "timestamp": 1743604566,
+    "width": 0,
+    "height": 0,
+    "date": "02/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI conclui rodada de financiamento de 40 bilhões de dólares, maior captação privada da história da tecnologia: o montante eleva a avaliação da empresa para 300 bilhões, ficando atrás apenas da SpaceX — 350 bilhões — e empatando com a ByteDance no ranking de startups mais valiosas. O SoftBank liderou o investimento aplicando 30 bilhões de dólares. No entanto, ele afirma que seu aporte pode ser reduzido para até 20 bilhões, caso a OpenAI não se reestruture como uma organização com fins lucrativos até 31 de dezembro. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google adiciona suporte à criptografia de ponta a ponta no Gmail para corporações: o recurso, atualmente em beta, está inicialmente disponível para pessoas de uma mesma organização. Para ativá-lo, os usuários poderão clicar em um ícone de cadeado ao redigir um novo e-mail e selecionar a opção de proteção adicional. Nas próximas semanas, será possível enviar emails desse tipo também para contas pessoais do Gmail e, até o fim do ano, para outros provedores. As informações são do blog do Google Workspace.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla planeja lançar plano “Pro” para Thunderbird: segundo o diretor administrativo, o pacote será inicialmente gratuito para “colaboradores consistentes da comunidade”, e pago para os demais usuários, com a possibilidade de uma versão limitada sem custos no futuro. Os serviços inclusos são Thunderbird Appointment — envio de convites para eventos; Thunderbird Send — sucessor do Firefox Send; Thunderbird Assist — resumo de emails com IA; e Thundermail — provedor de email independente do cliente Thunderbird para desktop. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Apple corrige falhas de segurança ativamente exploradas em sistemas antigos: as vulnerabilidades CVE-2025-24200 e CVE-2025-24201 foram mitigadas em março no iOS e iPadOS 18.3.1. Agora, a empresa está aplicando a solução às versões 15.8.4 e 16.7.11 dos mesmos sistemas. A primeira permitia a invasores com acesso físico ao dispositivo desativar o Modo Restrito de USB, enquanto a segunda possibilitava que conteúdo malicioso escapasse da sandbox do Web Content no Safari. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic reforça políticas de segurança para modelos potencialmente prejudiciais: segundo a empresa, caso um de seus sistemas demonstre, durante testes de estresse, a capacidade de auxiliar no desenvolvimento de armas químicas ou biológicas, medidas adicionais serão implementadas antes de seu lançamento. A mesma abordagem será adotada caso a companhia conclua que a tecnologia consegue automatizar completamente o trabalho de um pesquisador júnior da Anthropic ou acelerar de maneira desproporcional a escalabilidade da IA. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft expande recursos exclusivos de PCs Copilot+ com Snapdragon X Series para processadores AMD e Intel: entre eles está o “Live Captions”, que exibe legendas em tempo real para conteúdo de áudio e vídeo; o “Cocreator” no Paint, que combina comandos de texto com desenhos à mão; e as ferramentas “Restyle Image” e “Image Creator” no aplicativo Fotos, permitindo transformar ou criar imagens. Alguns desses recursos já estão disponíveis para dispositivos com AMD Ryzen AI 300 Series e Intel Core Ultra 200V na atualização de preview KB5053656. As informações são do blog do Windows Experience.",
+            "url": ""
+        },
+        {
+            "text": "“Tela azul da morte” no Windows 11 está sendo redesenhada: a nova versão substitui a clássica tonalidade azul por uma verde, e elimina o emoji de expressão triste e o QR code, adotando uma interface minimalista, semelhante à exibida durante atualizações do sistema. Ainda assim, ela manterá a exibição do erro ou do driver responsável pela falha. O layout está sendo testado nas versões Beta, Dev e Canary do programa Windows Insider. As informações são do site The Verge e do blog do Windows.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind estaria restringindo publicação de pesquisas para preservar vantagem competitiva: segundo cientistas atuais e antigos da empresa, ela tem evitado divulgar estudos que possam expor inovações exploráveis por concorrentes ou que coloquem o Gemini em desvantagem frente a rivais, implementando um embargo de seis meses para artigos considerados “estratégicos” sobre a tecnologia. A medida teria gerado insatisfação interna e contribuído para algumas demissões. A companhia, por sua vez, afirma estar “comprometida com o avanço da pesquisa em IA”. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
