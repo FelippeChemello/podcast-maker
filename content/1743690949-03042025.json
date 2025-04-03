@@ -1,0 +1,49 @@
+{
+    "title": "Amazon quer TikTok / OpenAI: modelo aberto / Microsoft: 1º código-fonte",
+    "fps": 30,
+    "timestamp": 1743690949,
+    "width": 0,
+    "height": 0,
+    "date": "03/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Amazon teria apresentado proposta para aquisição do TikTok: segundo fontes próximas ao assunto, a oferta foi enviada à Casa Branca, mas não estaria sendo tratada com seriedade. Ainda assim, acredita-se que o interesse da empresa pode pressionar concorrentes a apresentarem propostas mais altas, elevando o valor da venda. A ByteDance tem até o dia 5 para encontrar um comprador antes que o TikTok seja banido dos EUA. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI planeja lançar modelo de linguagem open-source: a empresa convida desenvolvedores, pesquisadores e demais usuários a compartilharem suas expectativas em um formulário no seu site, indicando quais recursos gostariam de ver em um sistema aberto e quais já utilizaram anteriormente. O CEO Sam Altman afirma que ele terá capacidades de raciocínio comparáveis às do o3-mini. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bill Gates publica primeiro código-fonte da Microsoft: em seu blog, ele conta que sua inspiração veio de uma revista de tecnologia que trazia na capa o Altair 8800 da MITS, um dos primeiros computadores pessoais. Gates e Paul Allen passaram dois meses programando uma versão da linguagem BASIC compatível com o chip do Altair. Ela foi apresentada ao presidente da MITS, que concordou em licenciar o software, sendo chamado de Altair BASIC e tornando-se o primeiro produto da então “Micro-Soft”. O acesso ao código-fonte (em PDF) pode ser conferido no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia comercialização de ferramentas de segurança para empresas: a plataforma liberou a compra dos produtos “Secret Protection” e “Code Security” separadamente, sem a necessidade de adquirir o pacote Advanced Security. Além disso, organizações do plano Team ou Enterprise podem utilizar uma ferramenta gratuita que examina repositórios em busca de senhas expostas. O GitHub afirma que detectou mais de 39 milhões de dados vazados em projetos ao longo de 2024, incluindo chaves de API e credenciais. As informações são do site BleepingComputer e do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo Switch 2 tem lançamento confirmado para 5 de junho: o console contará com uma tela LCD de 1080p com suporte a 120 FPS e HDR, e resolução de até 4K no modo dock. O armazenamento foi expandido para 256 GB. Os Joy-Cons estão maiores e agora adotam um encaixe magnético, e terão uma função de mouse em jogos compatíveis. O novo botão “C” aciona o GameChat para conversas durante partidas. Entre os games anunciados estão Mario Kart World, Elden Ring, Cyberpunk 2077 e Final Fantasy VII Remake. O Nintendo Switch 2 será lançado por 449 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança plano de uso educacional para ensino superior: o Claude for Education é voltado para estudantes, professores e funcionários. Ele inclui o Learning Mode, que incentiva alunos a desenvolverem o pensamento crítico, fazendo perguntas complementares em vez de fornecer apenas respostas diretas. A ferramenta também pode ser utilizada por administradores para analisar tendências de matrícula e automatizar respostas de e-mail. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Interface cérebro-computador transforma pensamento em fala em tempo quase real: o sistema capta os sinais elétricos cerebrais logo após a intenção de falar, mas antes de qualquer resposta muscular vocal, tornando o processo até oito vezes mais rápido do que uma solução desenvolvida anteriormente, que levava até 8 segundos. Os pesquisadores comparam essa capacidade com o processamento rápido de instruções por voz em assistentes como Alexa e Siri. O código-fonte da tecnologia está disponível no repositório “cheoljun95/streaming.braindecoder” do GitHub. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Wikipedia relata desafios com crawlers de IA em seu site: segundo a Wikimedia Foundation, os bots são responsáveis pelo aumento de 50% no consumo de largura de banda para o download de conteúdos multimídia desde janeiro de 2024. Além disso, 65% do tráfego que mais consome recursos na plataforma provém desses sistemas, os quais são bloqueados frequentemente pela equipe. As informações são do site Engadget.",
+            "url": ""
+        }
+    ]
+}
