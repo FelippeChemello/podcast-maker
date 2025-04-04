@@ -1,0 +1,49 @@
+{
+    "title": "Python: novo padrão / YouTube mais caro no Brasil / Starlink: Anatel adia expansão",
+    "fps": 30,
+    "timestamp": 1743777275,
+    "width": 0,
+    "height": 0,
+    "date": "04/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Python define formato padrão de arquivo de lock para pacotes: o time oficial da linguagem aprovou a proposta PEP 751, adotando o TOML (pylock.toml), amplamente suportado e de fácil leitura. Paul Moore, um dos desenvolvedores centrais, destaca que isso é algo definitivo. No entanto, a adoção do novo padrão por outros gerenciadores de pacotes, que atualmente utilizam seu próprio formato, deve ocorrer de forma gradual. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "YouTube Premium fica até 28% mais caro no Brasil: o plano Família passou de 41,90 para 53,90 reais mensais, enquanto o Individual subiu de 24,90 para 26,90 reais, um aumento de 8%. Já a modalidade Estudante teve um reajuste de 21%, passando de 13,90 para 16,90 reais. O novo preço será aplicado no próximo ciclo de cobrança. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Anatel adia decisão sobre expansão da Starlink no Brasil: a agência prorrogou a análise por mais 120 dias, mantendo suspenso o pedido da empresa para operar 7,5 mil satélites adicionais no país, em comparação com os 4,4 mil atualmente permitidos. A Anatel avalia o impacto da decisão, considerando riscos como o roteamento do tráfego de dados brasileiros para fora da jurisdição nacional, dificultando a fiscalização, além de possíveis interferências em frequências de rádio e o acúmulo de detritos espaciais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI realiza seu primeiro investimento em startup de cibersegurança: a empresa participou de uma rodada de financiamento de 43 milhões de dólares da Adaptive Security, que desenvolve simulações de ataques baseados em IA para treinar funcionários a identificar tentativas de fraude, com foco nas abordagens de engenharia social. Com o aporte, a startup pretende ampliar sua equipe de engenheiros e acelerar o desenvolvimento da plataforma. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Amazon lançará seus primeiros satélites para competir com Starlink: o primeiro lote de 27 dispositivos do Projeto Kuiper está programado para decolar no dia 9. Entre os parceiros de lançamento está a própria SpaceX. A meta inicial é de 3,2 mil satélites, a uma altitude de 630 km e a velocidades superiores a 27 mil km/h. Atualmente, a Starlink possui mais de 7 mil ao todo. A Amazon espera disponibilizar seu serviço de internet ainda este ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Software open-source ajusta desempenho de PCs para economizar energia: o WattWise, desenvolvido pelo engenheiro Naveen, é uma ferramenta de linha de comando que integra-se ao aplicativo Home Assistant e uma tomada inteligente. Em testes, uma workstation com dois processadores EPYC, que pode consumir até 1.400 watts, apresentou uma economia de cerca de 225 watts, após o programa reduzir a frequência da CPU de 3,7 GHz para 1,5 GHz. Parte do código está disponível no repositório “naveenkul/WattWise” do GitHub. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses criam processador de 32 bits com semicondutor de apenas uma molécula de espessura: o RV32-WUJI, baseado na arquitetura RISC-V, é fabricado com dissulfeto de molibdênio, semelhante ao grafeno. O chip é capaz de realizar operações simples, como somar dois números de 32 bits, mas em velocidades muito baixas, processando um bit por vez. A equipe admite que a inovação pode não ser uma alternativa viável ao silício no curto prazo, mas acredita que esses processadores sejam úteis para aplicações de ultra-baixo consumo de energia. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft testa ferramenta que restaura remotamente PCs que não inicializam: o Quick Machine Recovery é projetado para evitar incidentes como o da CrowdStrike em julho de 2024. Ele faz com que o sistema entre no ambiente de recuperação, conecte-se à rede e envie informações de diagnóstico à Microsoft. As correções podem então ser aplicadas remotamente pelo Windows Update. O recurso está disponível na versão mais recente do Windows Insider Preview. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
