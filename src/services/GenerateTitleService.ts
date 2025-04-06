@@ -18,7 +18,7 @@ export default class GenerateTitleServce {
             log(`Generating title for: ${firstNews}`, 'GenerateTitleServce');
 
             const model = this.client.getGenerativeModel({
-                model: 'gemini-1.5-flash',
+                model: 'gemini-2.0-flash',
                 systemInstruction: "Act as an excellent title generator, your task is to generate a title for the provided news in less than 5 words. The title must be in portuguese.",
                 generationConfig: {
                     temperature: 1,

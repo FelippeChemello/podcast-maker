@@ -20,8 +20,8 @@ export default class GenerateImageService {
             log(`Generating prompt for description: ${this.content.news[0].text}`, 'GenerateImageService');
 
             const model = this.genAI.getGenerativeModel({
-                model: "gemini-1.5-flash",
-                systemInstruction: "Act as a Professional Stable Diffusion Prompter, Your task is to generate a artistic prompt for stable diffusion based on the news provided, this image prompt will be used as a thumbnail for a video, so focus on creating something engaging that describes the news itself. Keep the design simple and engaging.",
+                model: "gemini-2.0-flash",
+                systemInstruction: "Act as a Professional Stable Diffusion Prompter, Your task is to generate a artistic prompt for stable diffusion based on the news provided, this image prompt will be used as a thumbnail for a video, so focus on creating something engaging that describes the news itself. Keep the design simple and engaging. Avoid describing text in the thumbnail since Stable Diffusion does not work well with text.",
                 generationConfig: {
                     responseMimeType: "application/json",
                 }
