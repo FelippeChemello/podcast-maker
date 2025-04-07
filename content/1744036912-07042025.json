@@ -1,0 +1,49 @@
+{
+    "title": "Brasil: ligações autenticadas / OpenAI volta atrás / Llama 4 lançado",
+    "fps": 30,
+    "timestamp": 1744036912,
+    "width": 0,
+    "height": 0,
+    "date": "07/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Anatel determina que todas as chamadas telefônicas no Brasil tenham autenticação: o projeto deve ser concluído em até três anos, e baseia-se no protocolo STIR/SHAKEN utilizado nos EUA e Canadá. O sistema abrange tanto linhas fixas quanto móveis, e busca combater práticas como o spoofing, onde criminosos falsificam a identidade de uma pessoa ou instituição confiável. Com ele, será possível exibir informações como o nome da empresa, sua marca e o motivo da chamada. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI volta atrás e lançará o3: o CEO Sam Altman afirma que a mudança de planos está ligada diretamente ao desenvolvimento do GPT-5, que deve ser lançado nos próximos meses. Em paralelo ao o3, a empresa espera disponibilizar seu sucessor, o4-mini, dentro de algumas semanas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança Llama 4: a nova geração é composta pelos modelos Maverick — projetado para uso geral; Scout — voltado para resumo de documentos e análise de grandes bases de código; e Behemoth, ainda em fase de treinamento. Em testes, o terceiro alcançou 49,4% no benchmark LiveCodeBench, seguido pelo Gemini 2.0 Pro (36%). No MATH-500, ele pontuou 95%, à frente do Gemini 2.0 Pro (91,8%) e Claude 3.7 Sonnet (82,2%). Os sistemas Scout e Maverick já estão disponíveis para download no site oficial da Meta e no Hugging Face. As informações são dos sites TechCrunch e Meta.",
+            "url": ""
+        },
+        {
+            "text": "Amazon testa ferramenta que realiza compras em sites de terceiros automaticamente: quando um produto compatível for selecionado, ao pressionar o botão “Buy for Me” o usuário será direcionado a uma seção para preencher dados de entrega e pagamento, que serão fornecidos por um agente de IA na página da outra loja, sem precisar sair do app da Amazon. O recurso está inicialmente disponível no iOS e Android para um grupo restrito de pessoas nos EUA. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind publica artigo sobre como mitigar riscos relacionados à AGI: os autores estimam que a tecnologia pode emergir até 2030. O relatório aponta cenários onde, por exemplo, os sistemas seriam empregados por hackers para explorar vulnerabilidades. Além disso, há a possibilidade de alguns ignorarem limites impostos pelos desenvolvedores. Para proteção, a equipe sugere medidas como testes rigorosos e supervisão humana direta. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Midjourney anuncia modelo V7 de geração de imagens: segundo o CEO da empresa, David Holz, o sistema interpreta prompts de forma mais inteligente, e apresenta melhorias na qualidade visual e coerência dos detalhes de corpos, mãos e objetos em geral. Ele está disponível nas versões Turbo e Relax, e o novo Draft Mode permite gerar conteúdo até 10 vezes mais rápido, mas com acabamento inferior. A versão alfa do V7 já pode ser acessada na plataforma da Midjourney. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google lança IA voltada à cibersegurança: o Sec-Gemini v1 pode realizar ações como análise de incidentes, avaliação de ameaças e compreensão do impacto de vulnerabilidades. Em testes, ele atingiu 86,3% no MCQ Benchmark, seguido pelo o1 (75%) e GPT-4o (73%). Já no RCM Benchmark, obteve 86,1%, à frente dos mesmos sistemas — com 75,6% e 76,2%, respectivamente. O modelo está disponível para organizações, instituições, profissionais e ONGs selecionadas. Outros interessados podem solicitar acesso antecipado por meio de um formulário. As informações são do blog Google Security.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft disponibiliza vários recursos para o Copilot: a ferramenta agora é capaz de interagir com sites para realizar ações como reservas e compras, além de monitorar promoções e quedas de preços de produtos; no Android e iOS, o sistema pode analisar imagens da câmera ou da galeria para responder perguntas. Já no Windows (Insiders), ele pode visualizar a tela do computador e executar tarefas como buscar informações, ajustar configurações e organizar arquivos; o Deep Research permite ao Copilot encontrar dados de fontes online, documentos e imagens, para consultas mais complexas; o modelo agora registra preferências do usuário para oferecer respostas personalizadas. Elas podem ser excluídas e o recurso pode ser desativado. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
