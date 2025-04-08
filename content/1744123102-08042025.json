@@ -1,0 +1,49 @@
+{
+    "title": "Bitcoin: Dev BR premiado / Falha no WinRAR / GitHub limita IAs “premium”",
+    "fps": 30,
+    "timestamp": 1744123102,
+    "width": 0,
+    "height": 0,
+    "date": "08/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedor brasileiro é premiado no MIT Bitcoin Hackathon de 2025: o evento visa a criação de projetos inovadores no ecossistema das moedas digitais. A edição deste ano, sob o tema Freedom Tech, foi dividida entre as trilhas “Bitcoin, Lightning &amp; Taproot”, “Warnet Game” e “Decentralized Applications”. Gustavo Stingelin foi o vencedor da terceira categoria com a aplicação TANOS, que apresenta uma nova forma de transacionar bitcoins de maneira segura. O projeto está disponível no repositório “GustavoStingelin/tanos” do GitHub. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Falha no WinRAR permite ignorar aviso de segurança no Windows: a vulnerabilidade CVE-2025-31334 possibilita contornar o mecanismo Mark of the Web — que exibe um alerta para executáveis potencialmente perigosos baixados da internet — por meio de links simbólicos que apontam para arquivos maliciosos, fazendo com que a mensagem não seja mostrada para o usuário e possibilitando a execução de código arbitrário. O problema foi mitigado na versão 7.11. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "GitHub Copilot impõe limites de uso para modelos “premium”: esses sistemas incluem o Claude 3.7 Sonnet e o Gemini 2.0 Flash, por exemplo. A partir de 5 de maio, assinantes do plano Pro terão direito a 300 solicitações mensais, enquanto Business e Enterprise receberão, respectivamente, 300 e 1.000 pedidos por mês a partir do dia 12 de maio. Interações adicionais custarão 0,04 centavos de dólar cada. Alternativamente, usuários podem migrar para o novo plano Copilot Pro Plus, de 39 dólares mensais, que oferece 1.500 solicitações premium. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Consórcio de tecnologia chinês lança alternativa híbrida ao HDMI: o General Purpose Media Interface (GPMI) permite que donos de notebooks gamer, por exemplo, utilizem um único cabo para transmissão de vídeo e energia, com resoluções de até 8K. O novo padrão está disponível na versão de Tipo C, com 96 Gbps de largura de banda e 240 watts — superando o Thunderbolt 4, com 40 Gbps e 100W —, e Tipo B, com 192 Gbps e 480 watts. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla facilita implementação de avisos de privacidade para desenvolvedores de extensões do Firefox: a empresa permitirá declarar, diretamente no “manifest” do complemento, quais dados são coletados. O navegador, então, exibirá automaticamente essas informações em um layout padronizado para o usuário, que pode permitir ou recusar o compartilhamento. A mudança será inicialmente testada em uma futura versão Nightly do Firefox para desktop. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft causa polêmica ao apresentar simulação de Quake 2 criada por IA: a demonstração, gerada pelo sistema Muse e jogável diretamente no navegador, foi apresentada como uma prova de conceito. No entanto, alguns usuários argumentam que executar o jogo original demandaria menos recursos computacionais do que gerá-lo por um modelo. Já outros criticam o uso da tecnologia em contraste com o trabalho de desenvolvedores humanos. As informações são do site VGC.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores identificam material que substitui cobre na produção de chips nanométricos: o cobre é amplamente utilizado em circuitos elétricos devido à sua alta condutividade e facilidade de fabricação. No entanto, quando reduzido a espessuras extremamente finas, sua resistência elétrica aumenta, o que eleva a dissipação de energia na forma de calor. Como alternativa, a equipe investigou filmes ultrafinos de fosfeto de nióbio que, quanto mais fino, mais condutor ele se torna. A inovação pode permitir chips mais eficientes, menores e com baixo consumo energético. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central abre consulta pública sobre possível regulamentação de carteiras digitais: a preocupação decorre do fato de que essas soluções, pré-instaladas em muitos dispositivos e amplamente adotadas, podem exercer um controle excessivo sobre os emissores de cartões (bancos e fintechs), potencialmente resultando em impasses para consumidores e comerciantes. Entre as medidas propostas, empresas como Apple, Google e Samsung seriam indiretamente supervisionadas pela instituição, sem necessidade de uma autorização formal. As informações são do site Convergência Digital.",
+            "url": ""
+        }
+    ]
+}
