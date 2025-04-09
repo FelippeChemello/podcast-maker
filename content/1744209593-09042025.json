@@ -1,0 +1,49 @@
+{
+    "title": "Qual o peso da internet? / Robôs humanoides em fábrica / Chrome: falha de 23 anos",
+    "fps": 30,
+    "timestamp": 1744209593,
+    "width": 0,
+    "height": 0,
+    "date": "09/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo busca calcular o peso da internet: a premissa parte da ideia de que, para armazenar e transferir dados, é necessária energia, que tem uma massa associada (E = mc²). Em contraste com estimativas anteriores, o cientista Christopher White sugere imaginar todos os dados da internet — estimados em 175 zettabytes — reunidos em um único local, e então calcular a energia mínima necessária para codificá-los. Com isso, considerando a temperatura ambiente, a internet teria uma massa estimada de 53 quadrilionésimos de grama. Ainda assim, White ressalta que, na prática, a web é tão distribuída e complexa que seu peso real é “basicamente incalculável”. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Hyundai colocará “dezenas de milhares” de unidades do robô humanoide Atlas, da Boston Dynamics, para trabalhar em suas linhas de produção nos próximos anos: a montadora já utiliza o Spot, modelo quadrúpede que parece um cachorro, em tarefas de inspeção e manutenção de suas fábricas. Além da aquisição, a parceria também inclui integração das capacidades de fabricação da Boston Dynamics com as da própria Hyundai – a fabricante de veículos comprou a Boston Dynamics em 2020. As informações são do site The Robot Report.",
+            "url": ""
+        },
+        {
+            "text": "Chrome corrige vulnerabilidade de 23 anos que permitia rastrear histórico do usuário: a falha explorava um recurso do CSS, possibilitando que sites maliciosos utilizassem JavaScript para verificar se links visitados em outras páginas possuíam a pseudo-classe “:visited”. Isso podia ser feito de várias formas, inclusive por meio do método “window.getComputedStyle”, considerando que os visitados normalmente aparecem em roxo, e os não abertos em azul. A correção está disponível a partir da versão 136. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta é acusada de manipular benchmarks com lançamento do Llama 4: o modelo Maverick havia alcançado a segunda posição no LMArena, com uma pontuação ELO de 1417, logo abaixo do Gemini 2.5 Pro. No entanto, segundo uma documentação da própria empresa, a versão do sistema avaliada no teste não é a mesma oferecida ao público, mas uma otimizada especificamente para interações conversacionais. Em resposta, a Meta atribui o problema a bugs e à necessidade de ajustes nas implementações, uma vez que o Maverick foi lançado assim que ficou pronto. As informações são dos sites The Verge e VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Anatel libera mais de 7,5 mil satélites para Starlink: para conceder a autorização, a agência cobrou 102,6 mil reais da empresa e impôs condições, incluindo a garantia de que os novos dispositivos não interfiram no funcionamento de sistemas já em operação. Além disso, a companhia não poderá solicitar proteção contra interferências de terceiros, e deverá enviar relatórios periódicos à Anatel sobre o funcionamento dos satélites. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Facebook e Messenger recebem conta restrita para adolescentes: o “Teen Accounts” inscreve automaticamente indivíduos com menos de 18 anos em um experiência com proteções integradas. Entre as restrições, os jovens só poderão receber mensagens de pessoas que já seguem ou com quem já interagiram anteriormente. Além disso, apenas amigos poderão visualizar e responder aos stories, e marcar esses usuários em publicações e comentários. O recurso será disponibilizado inicialmente nos EUA, Reino Unido, Austrália e Canadá. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Golpe com trabalhadores norte-coreanos de TI movimenta até 600 milhões de dólares por ano desde 2018: esses indivíduos fingem ser desenvolvedores dos EUA, por meio de identidades falsas ou roubadas, e acabam sendo contratados por grandes empresas. O avanço de ferramentas de IA tem fortalecido esse tipo de operação, permitindo que os trabalhadores alterem sua aparência e voz. Segundo o FBI, os recursos obtidos são usados para financiar programas nucleares, e as informações podem ser utilizadas em ações de espionagem, extorsão e roubo de dados sensíveis. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas transformam sensores de smartphone em câmera de antimatéria: a solução foi projetada pela equipe do experimento AEgIS, que estuda o antihidrogênio. Eles adaptaram e integraram 60 sensores de câmeras desses celulares para detectar aniquilações de antiprótons — quando são colididos com prótons — em tempo real a uma resolução de 3.840 megapixels, a maior já vista em um detector de imagem. As informações são do site CERN.",
+            "url": ""
+        }
+    ]
+}
