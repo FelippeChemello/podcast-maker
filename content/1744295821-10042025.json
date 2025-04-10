@@ -1,0 +1,49 @@
+{
+    "title": "LLMs quase obsoletos / Falha: WhatsApp Windows / Marco em energia limpa",
+    "fps": 30,
+    "timestamp": 1744295821,
+    "width": 0,
+    "height": 0,
+    "date": "10/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Yann LeCun, pioneiro da IA, acredita que LLMs atuais estão próximos da obsolescência: segundo ele, esses sistemas apenas geram palavras em sequência, sem compreender o mundo físico ou raciocinar como humanos. Como alternativa, LeCun está desenvolvendo a arquitetura JEPA, que busca prever eventos na vida real com base em inputs visuais. O recém-treinado modelo V-JEPA, por exemplo, sinaliza erro quando exposto a uma situação incomum, como um objeto que desaparece sem explicação em um vídeo, indicando que ele compreende que aquilo viola as leis da física. As informações são do site Newsweek.",
+            "url": ""
+        },
+        {
+            "text": "Falha no WhatsApp para Windows permite execução de código malicioso: a vulnerabilidade CVE-2025-30401 explorava uma inconsistência no tratamento de anexos — enquanto o aplicativo exibia os arquivos com base no tipo MIME, ele escolhia o programa para abri-los de acordo com a extensão presente no nome, potencialmente levando o destinatário a rodar inadvertidamente um script arbitrário, como no caso de um “.exe” vir disfarçado de imagem. A correção está disponível a partir da versão 2.2450.6. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez desde 1940, energia limpa respondeu por 40% da eletricidade mundial em 2024: o marco foi alcançado devido à rápida expansão da energia solar, que já tem 7% de participação no mundo todo, além da eólica (8%), nuclear (9%) e hidrelétrica (14%). Apesar disso, a geração de eletricidade a partir de combustíveis fósseis cresceu 1,4% no ano passado, impulsionada pela maior demanda por ar-condicionado, sistemas de IA e veículos elétricos. As informações são do site Sky News.",
+            "url": ""
+        },
+        {
+            "text": "Antena Starlink Mini é homologada pela Anatel: a medida autoriza oficialmente a comercialização do dispositivo no Brasil juntamente com o plano Viagem, de 576 reais mensais, que oferece internet em qualquer lugar, inclusive em deslocamento. As unidades destinadas ao mercado nacional serão fabricadas nos EUA, mas ainda não há previsão de chegada. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "WordPress lança criador de sites com IA: a interação com a ferramenta ocorre por meio de mensagens, onde o usuário pode descrever a página desejada — a empresa recomenda ser o mais específico possível — e posteriormente realizar edições manualmente ou pelo próprio recurso. O sistema oferece 30 prompts gratuitos, com acesso ilimitado ao contratar um plano de hospedagem. Contudo, ele ainda não é capaz de criar sites mais complexos, como lojas virtuais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia Gemini 2.5 Flash com foco em eficiência e baixo custo: o modelo, com capacidades de raciocínio, permite que desenvolvedores ajustem o tempo de processamento conforme a complexidade das consultas, sendo indicado para aplicações em tempo real e de alto volume, como atendimento ao cliente e análise de documentos. Ele estará disponível em breve na plataforma Vertex AI. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Forças Armadas da Alemanha substituirão softwares da Microsoft: os sistemas darão lugar a soluções desenvolvidas por empresas nacionais, como Siemens e Deutsche Telekom. Segundo autoridades de segurança do país, a Agência de Segurança Nacional dos EUA teria acesso aos códigos-fonte da Microsoft, o que poderia permitir a leitura de dados criptografados. As informações são dos sites Der Spiegel e ITPro Today.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Shopify não realizará contratações até provar que IA não consegue realizar o trabalho: em um memorando interno, Tobi Lütke também afirma que há uma “expectativa fundamental” de que os funcionários adotem a tecnologia em suas rotinas, destacando seu potencial de aumentar a produtividade. Além disso, a empresa pretende incorporar perguntas sobre o uso de IA nas avaliações de desempenho dos colaboradores. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
