@@ -3,13 +3,13 @@ import { GoogleGenAI, Type } from '@google/genai'
 import { log } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
-export default class GenerateTitleServce {
+export default class GenerateTitleService {
     private content: InterfaceJsonContent;
     private client: GoogleGenAI;
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
-        this.client = new GoogleGenAI({ apiKey: process.env.GENAI_API_KEY })
+        this.client = new GoogleGenAI({ apiKey: process.env.GOOGLE_MAKERSUITE_API_KEY })
     }
 
     public async execute() {
@@ -40,8 +40,12 @@ export default class GenerateTitleServce {
 
             this.content.thumbnail_text = title.trim().length > 0 ? title : this.content.title.split("/")[0]
         } catch (err) {
+            console.log(err)
+
             log(`Failed at generating title \n${JSON.stringify(err)}`, 'GenerateTitleServce');
             this.content.thumbnail_text = this.content.title.split("/")[0]
+
+            process.exit(1)
         }
 
         return this.content

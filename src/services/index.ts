@@ -11,7 +11,7 @@ import InstagramUploadService from './InstagramUploadService';
 import ValidatesContentService from './ValidatesContentService';
 import MailToJsonService from './MailToJsonService';
 import GetYoutubeInfoService from './GetYoutubeInfoService';
-import GenerateTitleServce from './GenerateTitleService';
+import GenerateTitleService from './GenerateTitleService';
 import GenerateImageService from './GenerateImageService';
 
 export {
@@ -28,6 +28,6 @@ export {
     ValidatesContentService,
     MailToJsonService,
     GetYoutubeInfoService,
-    GenerateTitleServce,
+    GenerateTitleService,
     GenerateImageService,
 };

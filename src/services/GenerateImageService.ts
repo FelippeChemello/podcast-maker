@@ -12,7 +12,7 @@ export default class GenerateImageService {
     constructor(content: InterfaceJsonContent) {
         this.content = content;
         this.client = axios.create()
-        this.genAI = new GoogleGenAI({ apiKey: process.env.GENAI_API_KEY })
+        this.genAI = new GoogleGenAI({ apiKey: process.env.GOOGLE_MAKERSUITE_API_KEY })
     }
 
     public async execute() {
@@ -40,7 +40,7 @@ export default class GenerateImageService {
                 `,
             })
 
-            const { prompt } = JSON.parse(promptResult.text!).prompt
+            const { prompt } = JSON.parse(promptResult.text!)
 
             log(`Generating image for prompt: ${prompt}`, 'GenerateImageService');
 
