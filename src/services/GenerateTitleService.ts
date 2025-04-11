@@ -1,15 +1,15 @@
-import { GoogleGenerativeAI } from '@google/generative-ai'
+import { GoogleGenAI, Type } from '@google/genai'
 
 import { log } from '../utils/log';
 import InterfaceJsonContent from '../models/InterfaceJsonContent';
 
 export default class GenerateTitleServce {
     private content: InterfaceJsonContent;
-    private client: GoogleGenerativeAI;
+    private client: GoogleGenAI;
 
     constructor(content: InterfaceJsonContent) {
         this.content = content;
-        this.client = new GoogleGenerativeAI(process.env.GOOGLE_MAKERSUITE_API_KEY || '')
+        this.client = new GoogleGenAI({ apiKey: process.env.GENAI_API_KEY })
     }
 
     public async execute() {
@@ -17,21 +17,24 @@ export default class GenerateTitleServce {
             const firstNews = this.content.news[0].text
             log(`Generating title for: ${firstNews}`, 'GenerateTitleServce');
 
-            const model = this.client.getGenerativeModel({
+            const response = await this.client.models.generateContent({
+                contents: `Act as a Professional Title Generator, your task is to generate a title for the following news in less than 5 words. The title must be in portuguese. The main news is: "${firstNews}"`,
                 model: 'gemini-2.0-flash',
-                systemInstruction: "Act as an excellent title generator, your task is to generate a title for the provided news in less than 5 words. The title must be in portuguese.",
-                generationConfig: {
-                    temperature: 1,
-                    topP: 0.95,
-                    topK: 64,
-                    maxOutputTokens: 50,
-                    responseMimeType: 'application/json'
+                config: {
+                    responseMimeType: 'application/json',
+                    responseSchema: {
+                        type: Type.OBJECT,
+                        properties: {
+                            title: {
+                                type: Type.STRING,
+                                description: 'Title for the news'
+                            }
+                        }
+                    }
                 }
             })
 
-            const response = await model.generateContent(firstNews)
-
-            const { title } = JSON.parse(response.response.text())
+            const { title } = JSON.parse(response.text!)
 
             log(`Title generated: ${title}`, 'GenerateTitleServce');
 
