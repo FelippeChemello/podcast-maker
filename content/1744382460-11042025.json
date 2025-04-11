@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT: “RAG pessoal” / Som do Win95 preservado / Novidades no WhatsApp",
+    "fps": 30,
+    "timestamp": 1744382460,
+    "width": 0,
+    "height": 0,
+    "date": "11/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT ganha grande aprimoramento em recurso de memória: o assistente agora possui um sistema semelhante ao RAG (Retrieval-Augmented Generation) personalizado do usuário, armazenando e recuperando informações de todas as interações anteriores com a ferramenta e não apenas fragmentos de memórias. Isso permite que o modelo personalize suas respostas com base no histórico de conversas, oferecendo uma experiência mais coerente e adaptada às preferências do usuário. O processo é feito de forma automática e em segundo plano, mas pode ser desativado a qualquer momento. O recurso está sendo disponibilizado gradualmente para assinantes Plus e Pro, com previsão de expansão para os planos Enterprise, Team e EDU em breve. As informações são do site Tom's Guide.",
+            "url": ""
+        },
+        {
+            "text": "Som de inicialização do Windows 95 e trilha sonora de Minecraft entram para o Registro Nacional de Gravações dos EUA: essa é uma iniciativa que preserva áudios considerados cultural e historicamente relevantes para a herança sonora do país. A melodia do Windows 95, de 3,25 segundos foi composta por Brian Eno, enquanto a do Minecraft é de autoria de Daniel Rosenfeld. Esta é a segunda vez que uma obra relacionada a videogames é incluída no registro. A primeira foi o tema de Super Mario Bros., em 2023. As informações são do site BetaNews.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp anuncia várias novidades: entre os destaques está o indicador de status “Online” em grupos, que exibe em tempo real quantos participantes estão ativos; ainda em grupos, o usuário pode escolher se deseja ser notificado por todas as mensagens ou apenas por menções diretas e respostas; a ferramenta de eventos agora pode ser usada em conversas privadas, e permite definir uma data e horário de término, e que os participantes respondam com “talvez”; no iOS, o aplicativo ganhou um leitor de documentos integrado, sem a necessidade de um app externo. Além disso, o WhatsApp já pode ser definido como aplicativo padrão para chamadas e mensagens do iPhone. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google lança ambiente de desenvolvimento para competir com Cursor: o Firebase Studio é baseado na nuvem e pode ser utilizado para criar aplicativos a partir de comandos em linguagem natural, sendo compatível com tecnologias como React, Next.js, Node.js, Angular, Flutter e Java. Além de prompts de texto, também é possível descrever a ideia do projeto por meio de imagens. A ferramenta já está disponível para uso no site oficial. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic anuncia assinatura de até 200 dólares mensais: o plano Max, por esse preço, possui um limite de uso 20 vezes maior que o Pro, enquanto a versão de 100 dólares por mês conta com 5 vezes mais. Os assinantes também têm acesso prioritário aos modelos e recursos mais recentes da empresa. Na cotação atual, a modalidade mais cara custa mais de 1.000 reais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa sobre experiência de usuário indica que 97% dos motoristas utilizariam sistema de pagamento integrado ao carro: 60 indivíduos — 30 dos EUA e 30 da Alemanha, foram instruídos a usar dois softwares experimentais para essa finalidade e fornecerem feedback. Os participantes afirmam que usariam o recurso em estacionamentos, recarga de veículos elétricos, abastecimento e pedágios, eliminando a necessidade de soluções externas, contanto que fosse algo intuitivo. Além disso, mais de dois terços estariam dispostos a pagar pelo recurso. As informações são dos sites Telematics Wire e Parkopedia.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta sétima geração do seu chip acelerador de IA: o Ironwood é o primeiro projetado especificamente para execução de modelos de inferência, como LLMs. Ele conta com 192 GB de memória RAM dedicada e largura de banda de aproximadamente 7,2 TBps. Segundo benchmarks da empresa, ele é capaz de atingir até 4.614 TFLOPs de potência computacional. O lançamento está previsto ainda para este ano para clientes do Google Cloud. As informações são do site TechCrunch e do blog do Google.",
+            "url": ""
+        }
+    ]
+}
