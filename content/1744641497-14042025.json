@@ -1,0 +1,45 @@
+{
+    "title": "Devs: adoção forçada de IA / Chrome: extensões suspeitas / Fim do GPT-4",
+    "fps": 30,
+    "timestamp": 1744641497,
+    "width": 0,
+    "height": 0,
+    "date": "14/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores criticam adoção forçada de IA nas empresas: eles relatam problemas com a qualidade do código e argumentam que a adoção da tecnologia tem ocorrido de forma precipitada pelas organizações. Em uma pesquisa com 500 líderes e profissionais de engenharia de software que usam essas ferramentas, 59% enfrentam problemas em pelo menos metade dos deploys, enquanto 67% dizem gastar mais tempo depurando código. Além disso, 68% afirmam estar mais ocupados resolvendo falhas de segurança. As informações são do site LeadDev.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 30 extensões do Chrome, com cerca de 4 milhões de downloads, são identificadas com comportamento suspeito: segundo um pesquisador de segurança, elas compartilham padrões de código semelhantes, conectam-se aos mesmos servidores e solicitam permissões como acesso a cookies, abas abertas e execução de scripts. Dez chegaram a receber o selo “Em destaque” — uma indicação de que o desenvolvedor é supostamente confiável. Embora não haja indícios de roubo de credenciais, o profissional afirma que o comportamento observado é compatível com o de um spyware. A lista completa das extensões pode ser consultada no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI encerrará modelo GPT-4 no ChatGPT: a partir do dia 30, ele será totalmente substituído pelo GPT-4o, atualmente o padrão da plataforma e que, segundo a empresa, apresenta conversas mais naturais e desempenho superior em áreas como redação, programação, interpretação de instruções e resolução de problemas no geral. Apesar disso, o GPT-4 continuará disponível por meio da API da companhia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA adia aplicação de altas tarifas de importação para eletrônicos: a medida exclui temporariamente itens como smartphones, notebooks, HDs, processadores, chips de memória e telas de uma taxa de 125% que seria aplicada à China, e de outra de 10% com abrangência global. A decisão cobre quase 390 bilhões de dólares em produtos importados, sendo mais de 100 bilhões provenientes da China. O item mais impactado é o smartphone, que representou 41 bilhões de dólares em importações em 2024, seguido por computadores (36 bilhões). As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Golpistas usam API da OpenAI para contornar filtros antispam e enviar mensagens em massa a mais de 80 mil sites: a ofensiva combinava scripts em Python com o modelo GPT-4o mini, que era instruído a atuar como um “assistente de marketing”, gerando mensagens adaptadas com base no nome e no conteúdo da página-alvo, e distribuindo-as por meio de formulários de contato e chats. A abordagem dificultava a detecção dos textos por filtros tradicionais, que geralmente bloqueiam conteúdos repetitivos. A OpenAI já revogou o acesso à conta dos spammers. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Browser Operator, agente do Opera, surpreende em primeiros testes fechados: o modelo, ainda indisponível ao público, interage diretamente com o código da página, ignorando elementos visuais. Ao receber uma tarefa de encontrar um artigo da Wikipédia partindo de um outro não relacionado e usando apenas links internos, a tecnologia concluiu o trajeto em 2 minutos e 15 segundos, enquanto o Rabbit R1 levou 2 minutos e 35 segundos. Além disso, ao assistir a um vídeo no YouTube, ela foi capaz de pular o anúncio exatamente no segundo em que o botão apareceu. As informações são do site Tom’s Guide.",
+            "url": ""
+        },
+        {
+            "text": "Estudo financiado pelo Escritório do Diretor de Inteligência Nacional dos EUA cria o mapa mais detalhado das conexões neurais em um cérebro de mamífero: o procedimento analisou um milímetro cúbico de tecido cerebral de um camundongo, de uma região correspondente ao córtex visual primário e à retina. Além de ajudar a compreender condições como autismo e esquizofrenia, a agência governamental acredita que isso abre caminho para uma possível engenharia reversa dos “algoritmos” cerebrais, inspirando novas abordagens em aprendizado de máquina, uma vez que cérebros de mamíferos tomam decisões complexas com muito mais eficiência e com menos dados do que os sistemas computacionais atuais. As informações são do site da Universidade de Princeton.",
+            "url": ""
+        }
+    ]
+}
