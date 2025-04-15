@@ -1,0 +1,49 @@
+{
+    "title": "Risco: “vibe coding” / GPT-4.1 / Android 15: requisitos elevados",
+    "fps": 30,
+    "timestamp": 1744727863,
+    "width": 0,
+    "height": 0,
+    "date": "15/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Alucinações de IA em programação ampliam risco de ataques do tipo “slopsquatting”: essa é uma técnica em que invasores se aproveitam das sugestões incorretas de pacotes inexistentes feitas pelos modelos, e registram esses nomes em repositórios como PyPI ou NPM com código malicioso — semelhantemente ao “typosquatting”, onde os usuários que digitam o nome errado da biblioteca. Em um experimento com 16 sistemas, incluindo GPT-4, DeepSeek e Mistral, com mais de 576 mil trechos de código gerados, 19,7% dos pacotes sugeridos não existiam. O risco se intensifica com a popularização do “vibe coding”, que reduz a validação manual por parte do programador. As informações são do blog do Socket Dev.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-4.1: segundo a empresa, o modelo supera seu antecessor GPT-4o “em praticamente todos os aspectos”. Em testes no benchmark SWE-Bench, ele atingiu uma taxa de acerto de 55%, superando o o3-mini high (49%) e o o1 high (41%). O GPT-4.1 já está disponível para desenvolvedores por meio da API da companhia, acompanhado das versões Mini e Nano — este último descrito como “o mais barato e rápido” pela OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google eleva requisitos mínimos para dispositivos com Android 15: todos os aparelhos deverão ter, no mínimo, 32GB de armazenamento interno, e pelo menos 75% dessa capacidade precisa estar disponível para o sistema e o usuário. Além disso, aqueles com 2GB ou 3GB de RAM serão obrigados a ativar as otimizações de baixo consumo de memória. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Netflix testa ferramenta de busca baseada em tecnologia da OpenAI: segundo a empresa, o recurso é capaz de interpretar termos mais específicos, incluindo descrições baseadas no humor do usuário. Ele está disponível inicialmente para um grupo seleto de assinantes na Austrália e Nova Zelândia em dispositivos iOS, ainda sem previsão de lançamento global. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de linguagem enfrentam dificuldades para corrigir bugs, segundo Microsoft: o estudo avaliou nove sistemas distintos, utilizados como base para um agente encarregado de solucionar 300 tarefas de depuração selecionadas do SWE-bench Lite. O Claude 3.7 Sonnet pontuou 48,4%, seguido pelo o1 da OpenAI (30,2%) e pelo o3-mini (22,1%). Segundo os pesquisadores, o principal obstáculo está na falta de dados que representam o raciocínio passo a passo que programadores humanos aplicam durante a depuração de código. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem bateria de lítio elástica utilizando hidrogel: o resultado é um material capaz de resistir a danos como dobras, torções, perfurações e cortes, e manter seu funcionamento. Em testes, ela foi capaz de alimentar um circuito simples com alguns LEDs por mais de um mês, e suportou até 500 ciclos de carga completa — similar aos smartphones — mantendo 60% da capacidade inicial. Apesar de armazenar apenas cerca de um décimo da energia de uma bateria convencional, a inovação tem potencial para ser aplicada em robôs maleáveis, roupas inteligentes e pulseiras de relógio. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Intel venderá 51% da divisão de semicondutores Altera: o acordo está sendo feito com a Silver Lake, uma empresa de capital privado, o que avaliará a unidade em 8,75 bilhões de dólares e a tornará operacionalmente independente, embora a Intel mantenha uma participação de 49%. A Altera fabrica chips programáveis (FPGA) utilizados em áreas como comunicações, robótica e IA, e foi adquirida pela Intel em 2015 por 16,7 bilhões de dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Correção: na edição do dia 10 de abril, noticiamos que as Forças Armadas da Alemanha iriam substituir softwares da Microsoft por soluções desenvolvidas nacionalmente. Entretanto, por descuido nosso, não notamos que a notícia era muito antiga, datada de 2001. Por curiosidade, os militares alemães, ainda em 2025, continuam a depender de soluções da Microsoft para produtividade e tarefas administrativas gerais, mas já implementaram sistemas baseados em Linux e outros softwares de código aberto para operações críticas e comunicação segura. Pedimos desculpas pelo inconveniente e agradecemos ao leitor Renê pelo alerta.",
+            "url": ""
+        }
+    ]
+}
