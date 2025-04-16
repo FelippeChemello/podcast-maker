@@ -1,0 +1,45 @@
+{
+    "title": "Polêmica com CVE / Android: reboot de segurança / Rede social da OpenAI",
+    "fps": 30,
+    "timestamp": 1744814112,
+    "width": 0,
+    "height": 0,
+    "date": "16/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Membros do conselho do programa CVE anunciam Fundação após governo dos EUA não ter renovado contrato de financiamento: o Common Vulnerabilities and Exposures, administrado pela MITRE e existente há 25 anos, é responsável por catalogar falhas de segurança em produtos. Em 2024, mais de 40 mil novos CVEs foram publicados. Após grande repercussão, a CISA — financiadora oficial — renovou o contrato com a MITRE nesta manhã. Já a CVE Foundation foi criada para que o programa CVE continue existindo de forma estável no longo prazo, sem depender exclusivamente do financiamento do governo. As informações são dos sites The Register e The Stack.",
+            "url": ""
+        },
+        {
+            "text": "Android passará a reiniciar automaticamente após 72 horas de inatividade: a novidade será integrada a partir da versão 25.14 do Play Services, e visa proteger os dados armazenados nos aparelhos, pois logo após a reinicialização, e antes de ser desbloqueado pela primeira vez, o dispositivo retorna ao estado “Before First Unlock”, no qual todas as informações permanecem criptografadas. A atualização será distribuída a partir da próxima semana, mas o recurso em questão pode levar um tempo adicional até ser disponibilizado para todos os usuários. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria desenvolvendo sua própria rede social: segundo fontes próximas ao assunto, o projeto ainda está na fase inicial e teria uma proposta semelhante ao X. Uma das ideias centrais seria utilizar IA para ajudar os usuários a criarem e compartilharem conteúdos melhores. Contudo, não há previsão ou garantias de que a plataforma será efetivamente disponibilizada ao público. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google redirecionará domínios locais para página global: com a mudança, ao acessar endereços como google[.]com[.]br, o usuário será levado automaticamente ao site google[.]com. A empresa afirma que, apesar disso, a experiência de busca continuará adequada à localização. Algumas pessoas podem precisar refazer o login ou ajustar algumas preferências de pesquisa após o redirecionamento ser feito pela primeira vez. As informações são do site Search Engine Land.",
+            "url": ""
+        },
+        {
+            "text": "Apple utilizará e-mails armazenados em dispositivos dos usuários para aprimorar IA: atualmente, a empresa usa dados sintéticos para treinar seus modelos. Com a nova abordagem, ela vai comparar essas informações com amostras recentes de e-mails em iPhones, iPads e Macs para melhorar funções como resumos de notificações e sugestões de escrita. Apesar disso, esses dados não serão utilizados diretamente no treinamento da IA. A novidade estará disponível em uma futura versão beta do iOS e iPadOS 18.5, além do macOS 15.5, e poderá ser desativada nas configurações de “Privacidade e Segurança”. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Google desenvolve modelo de IA para decifrar comunicação de golfinhos: o DolphinGemma foi treinado com registros acústicos do Wild Dolphin Project, e é projetado para interpretar e prever os sons desses animais, reconhecendo padrões e auxiliando os pesquisadores na construção de um “vocabulário compartilhado” com a espécie. O sistema também foi desenvolvido para ser leve e utilizado em campo, podendo ser executado em smartphones Pixel, por exemplo. O Google pretende disponibilizá-lo como open-source ainda este ano. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT foi o aplicativo mais baixado do mundo no mês passado: segundo dados da Appfigures, desconsiderando jogos, o chatbot alcançou 46 milhões de downloads, seguido do Instagram (também 46 milhões) e TikTok (45 milhões). Acredita-se que isso esteja atribuído, em grande parte, ao lançamento do gerador de imagens baseado no GPT-4o e à popularização de ilustrações no estilo Ghibli. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
