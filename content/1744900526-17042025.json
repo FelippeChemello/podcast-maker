@@ -1,0 +1,49 @@
+{
+    "title": "GoDaddy derruba Zoom / Programação nas escolas / TIOBE: Kotlin e Swift descem",
+    "fps": 30,
+    "timestamp": 1744900526,
+    "width": 0,
+    "height": 0,
+    "date": "17/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GoDaddy derruba por engano domínio do Zoom e plataforma fica fora do ar: o primeiro relato do incidente foi registrado às 16h17, no horário de Brasília, desta quarta-feira. Um erro de comunicação entre a Markmonitor e a Godaddy Registry fez com que o domínio “zoom[.]us” não fosse mais listado nos registros dos servidores DNS. A situação foi normalizada às 17h55, e alguns usuários precisaram limpar o cache DNS via terminal para retomar o acesso. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "CEO do GitHub defende que programação deveria ser ensinada em todas as escolas: para Thomas Dohmke, essa é uma habilidade tão essencial quanto alfabetização e matemática. Ele também destaca que, com o avanço da IA, o aprendizado tornou-se mais acessível, permitindo que iniciantes evoluam mais rapidamente. Para profissionais da área, ele recomenda manter a curiosidade ativa e aproveitar todos os recursos disponíveis para seguir aprimorando suas habilidades. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Ruby, Kotlin e Swift deixam o top 20 do índice TIOBE: na última atualização do dia 7, essas tecnologias caíram para as posições 24, 25 e 26, respectivamente. Segundo o CEO Paul Jansen, a queda de Kotlin e Swift se deve ao avanço de outras soluções para desenvolvimento multiplataforma. Quanto ao Ruby, Jansen atribui o ocorrido à popularização do Python — líder do índice, seguido por C++ e C, que juntos representam 43% de todo o mercado, de acordo com o executivo. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Lançamento do o3 e o4-mini e outras novidades da OpenAI: ambos os modelos estão disponíveis para assinantes dos planos Pro, Plus e Team do ChatGPT, e para desenvolvedores; a empresa também anunciou o Codex CLI, ferramenta open-source projetada para integrar modelos de linguagem a ambientes de desenvolvimento locais diretamente no terminal; empresas que desejarem utilizar modelos avançados na API da companhia deverão apresentar uma verificação de identidade a partir de agora; segundo uma fonte próxima ao assunto, a OpenAI está em negociação para adquirir a Windsurf — plataforma de codificação assistida por IA anteriormente conhecida como Codeium — por 3 bilhões de dólares, o que pode se tornar a sua maior aquisição até o momento. Mais informações disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Google disponibiliza Veo 2 e Live no Gemini: o Veo 2, para assinantes Advanced, permite criar vídeos de até oito segundos, em resolução de 720p e proporção de 16:9. Há um limite mensal, e o sistema notificará o usuário antes de atingi-lo; o Gemini Live, disponível gratuitamente, possibilita ao modelo visualizar e interagir com o que está sendo exibido pela câmera e na tela do dispositivo. Ele será disponibilizado gradualmente a partir de hoje no aplicativo para Android. Mais informações disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Ubisoft libera ferramenta que simula como daltônicos enxergam cores em jogos: o Chroma permite que desenvolvedores apliquem filtros sobre a imagem do jogo sem comprometer o desempenho, utilizando o algoritmo Color Oracle, a fim de detectar problemas de acessibilidade para pessoas com essa condição. A Ubisoft incentiva a comunidade a testar o recurso, enviar feedbacks e colaborar com futuras melhorias. O software está disponível no repositório “ubisoft/Chroma” no GitHub. As informações são do site da Ubisoft.",
+            "url": ""
+        },
+        {
+            "text": "Idosos que utilizam dispositivos eletrônicos de maneira ativa apresentam menor declínio cognitivo: pesquisadores chegaram a essa conclusão ao analisar 57 estudos sobre o uso da tecnologia digital por mais de 400 mil adultos ao redor do mundo, com uma idade média de 69 anos. Segundo eles, essas ferramentas estimulam atividades complexas — como utilizar GPS para se localizar — e conexões sociais, fatores positivos para o cérebro. No entanto, o uso passivo e sedentário desses aparelhos — semelhante a assistir à televisão — não apresenta o mesmo efeito. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Apple classifica último Mac Mini com Intel de 2018 como “clássico”: esse status é atribuído a dispositivos que foram descontinuados há mais de cinco e menos de sete anos. Com isso, a empresa deixa de garantir que peças para manutenção estejam prontamente disponíveis nos centros de reparo. Após o período de sete anos, os aparelhos passam a ser listados como “obsoletos”, onde a companhia encerra oficialmente qualquer serviço ou suporte de hardware. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
