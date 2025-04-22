@@ -1,0 +1,49 @@
+{
+    "title": "ChatGPT: “obrigado” custa caro / “GPS” quântico / Memória flash ultrarrápida",
+    "fps": 30,
+    "timestamp": 1745332666,
+    "width": 0,
+    "height": 0,
+    "date": "22/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "ChatGPT consome “dezenas de milhões de dólares” em energia com usuários que digitam “por favor” e “obrigado”, segundo Sam Altman: não está claro se o gasto está relacionado ao uso dessas palavras dentro de prompts mais longos ou quando elas são enviadas isoladamente. Alguns usuários acreditam que o uso dessas expressões pode influenciar positivamente a qualidade das respostas geradas pelos modelos de IA. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros australianos apresentam tecnologia de navegação 50 vezes mais precisa que GPS: o Ironstone Opal utiliza sensores quânticos para medir variações no campo magnético da Terra, sem depender de satélites. Ele também é eficaz em ambientes desafiadores onde o GPS convencional falha, como em montanhas ou no fundo do mar. A inovação representa a primeira aplicação prática da tecnologia quântica a superar os sistemas convencionais, podendo ser incorporada na aviação, em veículos autônomos e drones. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses desenvolvem dispositivo de armazenamento mais rápido do mundo: a tecnologia combina a velocidade das memórias voláteis com a persistência de dados da memória flash (não volátil), sendo capaz de atingir uma velocidade de programação de 400 picossegundos e realizar até 25 bilhões de operações por segundo — ou 1 bilhão no tempo de um piscar de olhos. A inovação pode ser aplicada em áreas que exigem computação de alto desempenho, como IA, e abrir caminho para aparelhos mais eficientes e com maior durabilidade. As informações são do site da Universidade Fudan.",
+            "url": ""
+        },
+        {
+            "text": "Modelo o3, da OpenAI, pode ser utilizado para descobrir onde uma foto foi tirada: o sistema é capaz de analisar imagens combinando “raciocínio” e busca na web, reconhecendo pontos turísticos e fachadas, por exemplo, a partir de pequenos detalhes visuais. Usuários têm testado a funcionalidade enviando fotos de bairros, prédios, cardápios e autorretratos, em uma dinâmica semelhante ao jogo “GeoGuessr”. Essa habilidade levanta preocupações, uma vez que pessoas mal-intencionadas poderiam tirar um print de um Story e usar o modelo para determinar onde ele foi registrado. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTuber investiga como SSDs que permanecem desligados por longos períodos podem perder dados: o experimento realizado pelo canal HTWingNut envolveu quatro unidades SATA com memória TLC e 128 GB de capacidade, sendo dois novos e dois usados, e cada um recebeu 100 GB de dados aleatórios. Após dois anos sem uso, as informações nos novos estavam 100% intactas, mas no segundo grupo, quatro arquivos foram identificados como corrompidos. Isso pode estar relacionado ao fato de que os dispositivos usados já tinham sido submetidos a uma taxa de 280 terabytes de dados gravados — acima da capacidade nominal de resistência de 60 terabytes. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Bluesky anuncia selo de verificação azul para contas “autênticas e notáveis”: inicialmente, a marca será atribuída após uma análise interna da equipe da plataforma, não sendo ainda possível solicitá-la manualmente. Além disso, organizações confiáveis serão designadas como “Trusted Verifier”, permitindo que elas gerenciem usuários oficialmente vinculados a elas. A mudança busca reduzir a disseminação de perfis falsos. A rede social planeja permitir solicitações manuais no futuro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Sony apresenta menor e mais leve sensor LiDAR de profundidade do mundo: o AS-DT1 possui dimensões de 29 x 29 x 31 milímetros e incorpora a tecnologia Single Photon Avalanche Diode na detecção de fótons, sendo capaz de identificar sinais de luz fracos refletidos por superfícies. Segundo a empresa, o dispositivo é capaz de medir objetos a uma distância de até 10 metros, com uma margem de erro de apenas cinco centímetros, em ambientes internos e externos. A previsão é que ele esteja disponível comercialmente em 2026. As informações são do site PetaPixel.",
+            "url": ""
+        },
+        {
+            "text": "Google removeu mais de 5,1 bilhões de anúncios fraudulentos em 2024: em comparação, foram 5,5 bilhões em 2023. A companhia afirma ter utilizado LLMs para analisar sinais como falsificação de identidade empresarial e dados de pagamento ilegítimos. O processo também envolveu mais de 100 especialistas humanos, responsáveis por identificar golpes envolvendo deepfakes de figuras públicas, por exemplo. No Brasil, foram 201,2 milhões de propagandas excluídas. As informações são do site TechCrunch e do blog do Google.",
+            "url": ""
+        }
+    ]
+}
