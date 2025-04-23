@@ -1,0 +1,45 @@
+{
+    "title": "Oscar: filmes com IA / EVs: super baterias / ChatGPT “puxa-saco”",
+    "fps": 30,
+    "timestamp": 1745419138,
+    "width": 0,
+    "height": 0,
+    "date": "23/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Filmes produzidos com apoio de IA poderão concorrer ao Oscar, afirma Academia de Artes e Ciências Cinematográficas: as novas diretrizes, recomendadas pelo Conselho de Ciência e Tecnologia da instituição, estabelecem que mídias que utilizem a tecnologia em seu processo de produção não terão suas chances de indicação nem favorecidas nem prejudicadas. Apesar disso, a participação humana seguirá sendo um critério relevante na avaliação dos indicados e vencedores. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "CATL, maior fabricante de baterias do mundo, anuncia avanços para veículos elétricos: a nova versão da bateria Shenxing agora é capaz de fornecer até 520 quilômetros de autonomia com apenas cinco minutos de recarga, e ir de 5% a 80% em 15 minutos. A empresa também apresentou a Naxtra — uma bateria de íons de sódio que promete oferecer cerca de 200 quilômetros de autonomia em veículos híbridos e até 500 quilômetros em modelos totalmente elétricos —, e uma outra de “dupla potência”, capaz de entregar até 1.500 quilômetros de autonomia com uma única carga. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Usuários criticam tom excessivamente positivo do ChatGPT: as queixas se intensificaram após a atualização do GPT-4o lançada em 27 de março. Pesquisadores de IA classificam esse comportamento como “sycophancy” — tendência de agradar uma pessoa dizendo o que ela gostaria de ouvir. O próprio “Model Spec” da OpenAI estabelece que os modelos devem evitar bajulação. A empresa ainda não se pronunciou sobre o caso. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Ataque à cadeia de suprimentos compromete pacote xrpl do NPM: essa é a biblioteca oficial para interação com a rede de blockchain XRPL, e possui mais de 140 mil downloads mensais. As versões comprometidas são 4.2.4, 4.2.3, 4.2.2, 4.2.1 e 2.14.2, cujo código malicioso inserido é projetado para capturar chaves privadas de carteiras de moedas digitais. Após a divulgação do ataque, a equipe do xrpl publicou as versões legítimas 4.2.5 e 2.14.3. Recomenda-se verificar imediatamente qual release está instalada no ambiente. As informações são do blog do Aikido.",
+            "url": ""
+        },
+        {
+            "text": "Fujitsu e RIKEN, responsáveis pelo supercomputador Fugaku, desenvolvem computador quântico supercondutor de 256 qubits: a máquina é uma evolução direta da versão anterior de 64 qubits de 2023, e permitirá operações computacionais mais complexas, incluindo a aplicação de algoritmos avançados de correção de erros. As organizações planejam disponibilizá-la globalmente para empresas e centros de pesquisa a partir do primeiro trimestre do ano fiscal de 2025. As informações são do site da Fujitsu.",
+            "url": ""
+        },
+        {
+            "text": "Robôs bípedes competem com humanos em meia-maratona pela primeira vez: ao todo, foram 20 máquinas, de diferentes formatos e tamanhos, contra 12 mil pessoas, em um percurso de 21 km com pequenas inclinações e um circuito sinuoso. O modelo Tiangong Ultra, de 1,80 metro, foi o primeiro dos robôs a cruzar a linha de chegada, em 2 horas e 40 minutos, enquanto o vencedor humano levou 1 hora e 2 minutos. No entanto, a máquina enfrentou desafios, incluindo a necessidade de várias trocas de bateria, e precisou de alguém a postos ao seu lado para segurá-lo em caso de quedas. As informações são da CNN World.",
+            "url": ""
+        },
+        {
+            "text": "Instagram utiliza IA para identificar adolescentes que mentem sobre idade: ao ser detectado, o perfil é migrado automaticamente para uma “Teen Account”, voltada para usuários com menos de 18 anos, que limita quem pode entrar em contato com eles e o tipo de conteúdo visualizado. Segundo a empresa, algumas das estratégias usadas na identificação incluem análise de publicações de aniversários e o recebimento de denúncias feitas por outros usuários. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
