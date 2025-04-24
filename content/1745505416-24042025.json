@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI + Chrome / WhatsApp: mais privacidade / Crise na Tesla",
+    "fps": 30,
+    "timestamp": 1745505416,
+    "width": 0,
+    "height": 0,
+    "date": "24/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI demonstra interesse em adquirir Chrome e transformá-lo em uma experiência centrada em IA: a informação foi divulgada por Nick Turley, chefe de produto do ChatGPT, em meio ao julgamento que avalia o monopólio do Google no setor de buscas — a venda do navegador está entre as possíveis penalidades. Turley também menciona que gostaria de obter acesso à API de busca do Google, o que, segundo ele, permitiria à OpenAI “oferecer um produto melhor aos usuários”. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp lança recurso de privacidade avançada: a nova configuração, disponível em chats individuais e grupos, impede que participantes exportem o conteúdo da conversa, baixem mídias automaticamente ou utilizem recursos de IA. Segundo a empresa, a funcionalidade é útil para grupos que discutem temas sensíveis, como questões de saúde. Para ativá-la, o usuário deve tocar no nome da pessoa ou grupo e, em seguida, habilitar a opção “Privacidade avançada da conversa”. A novidade será disponibilizada para todos na versão mais recente do aplicativo. As informações são do blog do WhatsApp.",
+            "url": ""
+        },
+        {
+            "text": "Tesla enfrenta queda de 9,4% da receita no primeiro trimestre de 2025: a empresa registrou 19,3 bilhões de dólares, abaixo dos 21,3 bilhões do mesmo período de 2024. O faturamento proveniente da venda de carros caiu 20% ano a ano, passando de 17,4 bilhões de dólares para 13,9 bilhões. Foram entregues 336.681 veículos, uma queda de 12,9% em relação ao primeiro trimestre de 2024. A companhia atribui os números a tarifas e mudanças no cenário político. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Amazon abre mais de 530 pontos de retirada de compras no Brasil: os locais estão distribuídos em todos os estados, inclusive nas capitais, em estabelecimentos como lojas, mercados e farmácias. Os itens ficam disponíveis por até dez dias para retirada, e serão devolvidos à empresa caso o prazo expire, com o consumidor sendo reembolsado. Também será possível autorizar amigos ou familiares para realizar a retirada. A Amazon planeja criar mais de 3 mil pontos de retirada no país até o final de 2025. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google decide manter cookies de terceiros no Chrome por padrão e descarta opção de mostrar uma tela de prompt separada para desativá-los: a empresa estava projetando um aviso de consentimento, onde o usuário poderia optar entre utilizar o Privacy Sandbox ou manter os cookies de terceiros ativados. Safari e Firefox, por exemplo, bloqueiam esses cookies por padrão desde 2020. Mesmo assim, a companhia segue desenvolvendo outras tecnologias, como o IP Protection, que visa ocultar o endereço IP durante a navegação anônima, previsto para o terceiro trimestre deste ano. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Modelos o3 e o4-mini da OpenAI apresentam maior taxa de alucinação, segundo a própria empresa: em testes internos no benchmark PersonQA, que avalia o conhecimento dos sistemas sobre pessoas, o o4-mini alucinou em 48% das respostas, seguido pelo o3 (33%). Já o o1 e o o3-mini registraram apenas 16% e 14,8%, respectivamente. Entre as possíveis estratégias para aumentar a precisão dos modelos está a integração com mecanismos de busca na web. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "CEO e cofundador do Discord renuncia ao cargo: Jason Citron será substituído por Humam Sakhnini, ex-executivo da Activision Blizzard, e permanecerá no conselho de administração. A mudança ocorre em um momento em que a plataforma avalia abrir capital na bolsa de valores. Sakhnini traz experiência relevante nesse contexto, tendo também atuado como presidente da King Digital — criadora do Candy Crush — após sua aquisição pela Activision Blizzard. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Redes sociais também podem trazer benefícios para adolescentes: em uma pesquisa conduzida com mais de 1.000 jovens — com idades entre 13 e 17 anos — e pais norte-americanos, 74% dos adolescentes afirmam que essas plataformas os ajudam a se sentirem mais conectados aos amigos, enquanto 63% dizem que encontram nelas um espaço importante para expressar sua criatividade. Apesar disso, 45% reconhecem que o uso das redes pode afetar a qualidade do sono, enquanto 40% acreditam que prejudica a produtividade. As informações são dos sites TechCrunch e Pew Research Center.",
+            "url": ""
+        }
+    ]
+}
