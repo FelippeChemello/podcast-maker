@@ -1,0 +1,45 @@
+{
+    "title": "Google aperta funcionários / Primeiro SO quântico / OpenAI libera Deep Research",
+    "fps": 30,
+    "timestamp": 1745591728,
+    "width": 0,
+    "height": 0,
+    "date": "25/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google obriga parte dos funcionários remotos a adotar modelo híbrido sob risco de demissão: segundo documentos internos, membros das equipes de Serviços Técnicos e Recursos Humanos — que residem em um raio de 80 quilômetros de um escritório — precisam trabalhar presencialmente três dias por semana. Os colaboradores do primeiro grupo poderão contar com ajuda financeira para se mudarem para perto do local de trabalho. Já os do segundo, que moram mais longe, podem continuar remotos, mas não receberão promoções. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas apresentam primeiro sistema operacional para computadores quânticos: o QNodeOS funciona em diferentes máquinas, independentemente do tipo de qubit utilizado. Entre suas possíveis aplicações, ele permitiria conectar e controlar múltiplos computadores quânticos a partir de uma plataforma centralizada, além de possibilitar a comunicação direta entre eles, tornando possível a criação de uma futura “internet quântica”. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança versão “leve” e gratuita do Deep Research: essa variante utiliza o modelo o4-mini, com as respostas sendo mais curtas. A empresa também está expandindo os limites de uso da ferramenta completa para assinantes dos planos Plus, Team e Pro. Quando essa taxa for atingida, eles serão direcionados à nova versão mais limitada. O recurso já está sendo disponibilizado gradualmente para todos. As informações são dos sites TechCrunch e X.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo de monitoramento de funcionários expõe mais de 21 milhões de capturas de tela: o WorkComposer, utilizado por mais de 200 mil usuários em diversas empresas, registra essas imagens em intervalos regulares, e as armazena em um bucket da Amazon S3, que não possuía medidas de segurança para acesso indevido. As fotos podem conter informações sensíveis, como e-mails, credenciais de acesso e chaves de API, que podem ser exploradas em ataques direcionados. A empresa responsável pelo app restringiu o acesso ao bucket. As informações são do site Cybernews.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA superam especialistas em vírus de laboratório, segundo estudo: o experimento envolveu questões técnicas de alta complexidade sobre a área. Enquanto virologistas com doutorado obtiveram, em média, 22,1% de acerto em suas áreas de especialidade, o o3 atingiu 43,8% de precisão, seguido pelo Gemini 2.5 Pro (37,6%) e Claude 3.5 Sonnet (30,8%). Especialistas afirmam que o resultado é positivo e negativo — a tecnologia pode ser usada tanto no combate a doenças e criação de vacinas, quanto na manipulação mal-intencionada de agentes infecciosos. As informações são do site TIME.",
+            "url": ""
+        },
+        {
+            "text": "Mensagens quânticas percorrem 254 quilômetros utilizando infraestrutura comercial de telecomunicações pela primeira vez: os pesquisadores utilizaram cabos de fibra óptica convencionais, e a rede foi implantada entre três data centers na Alemanha (Frankfurt, Kehl e Kirchfeld). A demonstração comprova a viabilidade de implementar redes quânticas em condições atuais, sem a necessidade de equipamentos altamente especializados. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn libera uso de identidade verificada em outras plataformas: a medida permite que o recurso seja integrado a sites e serviços de terceiros. O objetivo é contribuir para a redução de perfis falsos na internet. A Adobe está entre as primeiras a adotar a iniciativa, permitindo que criadores exibam o selo “Verificado no LinkedIn” em seus perfis das plataformas Behance e Content Authenticity. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
