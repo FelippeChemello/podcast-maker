@@ -1,0 +1,45 @@
+{
+    "title": "Google: dominância frágil? / Windows: print screen automático / Robô na construção civil",
+    "fps": 30,
+    "timestamp": 1745851308,
+    "width": 0,
+    "height": 0,
+    "date": "28/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores sugerem que busca do Google é dominante porque usuários não consideram outras opções: a equipe realizou um experimento com cerca de 2,5 mil participantes, onde parte deles recebeu um incentivo de 10 dólares para usar o Bing em vez do Google por duas semanas. Após esse período, eles podiam optar por um dos dois mecanismos. Desse grupo, aproximadamente 22% continuaram usando o Bing, enquanto apenas cerca de 2,5% dos participantes que não receberam incentivo escolheram o buscador, indicando que a falta de oportunidade para testar o produto afeta a percepção dos usuários. Esse estudo também foi usado como inspiração na ação judicial dos EUA contra o Google sobre monopólio nas buscas online. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança Windows Recall para público geral: a ferramenta, disponível apenas em PCs Copilot+, realiza capturas de tela contínuas de todas as atividades do usuário no computador, extrai textos dessas imagens e os armazena em um banco de dados pesquisável. Ela também inclui um filtro automático para impedir o armazenamento de certos tipos de informações confidenciais, exige ativação manual, e pode ser removida completamente do sistema. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Empresa apresenta robô de 6 metros de altura equipado com IA para construção civil: o Zyrex, da RIC Robotics, é projetado para incorporar capacidades cognitivas — algo inédito no setor — e operar em ambientes dinâmicos para realizar trabalhos pesados e de alta precisão, como manuseio de materiais, soldagem, montagem e impressão 3D. Inicialmente, operadores humanos controlarão o robô por meio de realidade virtual. Em uma segunda etapa, eles operarão de forma autônoma. Um protótipo funcional está previsto para o início de 2026. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Perplexity afirma que navegador da empresa rastreará usuários para exibir anúncios personalizados: segundo Aravind Srinivas, um dos principais motivos para a construção do Comet é a possibilidade de coletar dados fora do aplicativo de IA da empresa, como hábitos de consumo, hospedagens em hotéis, visitas a restaurantes e o comportamento de navegação na internet. Ele acredita que os usuários não se oporão a esse tipo de rastreamento, uma vez que os anúncios serão mais relevantes. O lançamento do browser está previsto para maio. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia medidas para combater spam no Facebook: a empresa reprimirá contas que tentam manipular o algoritmo com textos excessivamente longos e carregados de hashtags, além de postagens com legendas que não tenham relação com as imagens publicadas. Nesses casos, o conteúdo será exibido apenas para os seguidores daquele perfil, e os criadores deixarão de ser elegíveis para monetização. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Intel afirma que vendas de chips de PCs com IA estão abaixo do esperado: segundo a empresa, seus clientes têm preferido adquirir CPUs da linha Raptor Lake, que são mais acessíveis. Os resultados financeiros do primeiro trimestre para o Client Computing Group (CCG) — processadores destinados ao consumidor — indicam que a receita da companhia registrou uma queda de 8% em relação ao mesmo período do ano passado. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Copilot tem apenas 5% da base semanal de usuários do ChatGPT: segundo um relatório, o modelo registrou cerca de 20 milhões de utilizadores semanais no último ano — sem apresentar crescimento — em comparação aos 400 milhões do ChatGPT no mesmo período. Atualmente, a Microsoft busca impulsionar o serviço com a oferta de planos de assinatura Copilot Pro, dispositivos Copilot+ e a integração do sistema no pacote Office e navegador Edge. As informações são do site XDA.",
+            "url": ""
+        }
+    ]
+}
