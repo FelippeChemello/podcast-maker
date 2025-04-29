@@ -1,0 +1,49 @@
+{
+    "title": "Ataques DDoS em alta / Starlink Mini no Brasil / ChatGPT para compras",
+    "fps": 30,
+    "timestamp": 1745937503,
+    "width": 0,
+    "height": 0,
+    "date": "29/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare mitigou 21,3 milhões de ataques DDoS em 2024: o número representa um aumento de 358% em relação a 2023. Somente no primeiro trimestre de 2025, a empresa já respondeu a 20,5 milhões de investidas dessa categoria — indicando que o total para este ano pode ser significativamente maior. Além disso, no mês de abril, ela bloqueou um ataque DDoS que se igualou ao recorde atual já registrado de 6,5 Tbps e durou cerca de 45 segundos. As informações são do site BleepingComputer e do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Starlink Mini começa a ser vendida no Brasil: o equipamento foi projetado para caber em uma mochila e ser utilizado em qualquer lugar, inclusive em movimento, a velocidades de até 160 km/h. O serviço de internet via satélite, com cobertura válida para todo o território nacional, promete até 280 Mb/s de desempenho. Os planos incluem uma franquia de 50 GB por 315 reais mensais, e outra com internet ilimitada por 576 reais. A antena é comercializada por 1.799 reais. As informações são dos sites Tecnoblog e Starlink.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI aprimora busca do ChatGPT para compras online: ao pesquisar por produtos, o chatbot agora oferece recomendações personalizadas, exibindo os itens com imagens, avaliações e links diretos para a loja. A empresa garante que, por ora, não haverá anúncios nem resultados patrocinados. A atualização está sendo disponibilizada para usuários gratuitos e assinantes dos planos Plus e Pro, e será inicialmente testada em categorias como moda, beleza, artigos para casa e eletrônicos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Brasileiros recebem 10 bilhões de ligações feitas por robôs a cada mês, segundo estudo: as “robocalls” geralmente duram apenas alguns segundos, e têm como principal objetivo identificar quais linhas telefônicas estão ativas, transformando os usuários em alvos para campanhas de telemarketing ou golpes. O número exibido no celular da vítima é frequentemente falso ou aleatório. A Anatel espera mitigar o problema com a futura implementação da “origem verificada”, que exibe o nome e o logo da empresa, e o motivo da ligação. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA investiga TP-Link por prática de preço predatório: segundo as autoridades, a empresa estaria vendendo produtos abaixo do custo para conquistar uma fatia dominante do mercado, com a intenção de, posteriormente, elevar os preços de forma significativa, em prejuízo aos consumidores. A companhia nega as acusações. Caso seja considerada culpada, ela poderá ser multada em até 100 milhões de dólares, e seus executivos podem enfrentar multas individuais de até 1 milhão e penas de prisão de até 10 anos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia assinatura mensal que permite atualizar Windows Server sem reinicializar: o “hotpatching” atua modificando diretamente o código em execução na memória. Ele já estava disponível gratuitamente em versão prévia, mas a partir de 1º julho, será cobrado 1,50 dólar por núcleo de CPU para sua utilização. As máquinas ainda precisarão ser reiniciadas cerca de quatro vezes por ano para aplicar atualizações de “baseline”, ou em casos excepcionais de updates críticos. Para usar o recurso, é necessário ter o Windows Server 2025 Standard ou Datacenter e conectar os servidores ao Azure Arc, sem custo adicional. As informações são do site da Microsoft Windows Server.",
+            "url": ""
+        },
+        {
+            "text": "Alibaba lança família de modelos de IA Qwen3: segundo a empresa, os novos sistemas são “híbridos” — capazes de alternar entre um modo de operação rápido, usado em tarefas simples, e outro mais elaborado, para resolver problemas complexos —, além de utilizar a arquitetura “mixture of experts”, que divide a execução entre pequenos modelos especialistas. A maioria já está disponível para download no Hugging Face e GitHub. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Campanha anti-pirataria pode ter utilizado fonte pirata em seus textos: a iniciativa “You Wouldn’t Steal a Car”, criada pela Motion Picture Association of America (MPAA) nos anos 2000, comparava o download ilegal de filmes ao roubo de um carro. Segundo um pesquisador, o grupo usou a fonte XBand Rough, um clone não autorizado da FF Confidential, desenhada por Just van Rossum em 1992. A MPAA não comentou sobre o caso. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
