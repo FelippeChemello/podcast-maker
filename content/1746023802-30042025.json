@@ -1,0 +1,49 @@
+{
+    "title": "IA não substitui empregos / Bitcoin: mineração inviável / ChatGPT menos “bajulador”",
+    "fps": 30,
+    "timestamp": 1746023802,
+    "width": 0,
+    "height": 0,
+    "date": "30/04/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "A partir de estudo, economistas rebatem alegações sobre substituição de empregos por IA: a análise envolveu 25 mil profissionais de 11 cargos na Dinamarca, incluindo suporte ao cliente e desenvolvimento de software. Os resultados indicam que, com a tecnologia, essas pessoas economizaram, em média, apenas 2,8% das horas de trabalho. Segundo os pesquisadores, outros estudos, que relatam altos ganhos de produtividade, focaram em ocupações com alto potencial de automação, e foram conduzidos em ambientes controlados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mineração individual de Bitcoin tornou-se financeiramente inviável, segundo relatório: a CoinShares, especializada em ativos digitais, afirma que as maiores mineradoras públicas gastam, em média, mais de 82 mil dólares para extrair um único BTC. No caso de empreendimentos menores, o custo pode chegar a 137 mil dólares por unidade, o que representa um prejuízo diante do preço atual da moeda — cerca de 95 mil dólares. Na Alemanha, por exemplo, esse custo pode chegar a 200 mil dólares. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI ajusta comportamento “bajulador” do ChatGPT: segundo a empresa, o problema foi causado por um processo de treinamento “excessivamente focado” em feedbacks imediatos dos usuários — como os cliques nos botões de aprovação ou reprovação — sem considerar o desenvolvimento das conversas ao longo do tempo. A companhia afirma que também está trabalhando para aprimorar a honestidade e a transparência nas respostas. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia ferramenta para auxiliar no aprendizado de idiomas: o recurso é composto por três “experimentos” — no “Tiny Lesson”, os usuários podem descrever situações específicas do cotidiano para receber dicas de vocabulário e gramática; o “Slang Hang” busca ajudar os aprendizes a soarem menos formais nas conversas; e o “Word Cam” permite tirar uma foto do ambiente, a partir da qual o Gemini identifica e rotula objetos na língua escolhida. A ferramenta está disponível no Google Labs e suporta 15 idiomas, incluindo inglês, espanhol, alemão e português. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Repositório do Homebrew Channel para Nintendo Wii no GitHub é arquivado após acusações de uso de código não autorizado: segundo os próprios membros, a biblioteca de terceiros “libogc”, utilizada no projeto, teria sido desenvolvida com base em trechos de código roubado do SDK da Nintendo e do sistema operacional de código aberto RTEMS. Com isso, o uso da biblioteca representaria um risco legal para desenvolvedores e mantenedores do repositório. Até o momento, a Nintendo não se pronunciou publicamente sobre o caso. As informações são do site TheGamer.",
+            "url": ""
+        },
+        {
+            "text": "Suposta má gestão financeira da Backblaze, empresa de backup na nuvem, coloca dados de usuários em risco: segundo acusações, a companhia teria facilitado a venda agressiva de ações por parte de fundadores e ex-funcionários, e manipulado informações contábeis, supostamente resultando no prejuízo de 59,7 milhões de dólares registrado em 2023, seguido de uma perda de 48,5 milhões no acumulado de 2024, o que aumenta o risco potencial da organização encerrar suas operações caso não consiga alcançar a lucratividade. A Backblaze nega as acusações. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança aplicativo de IA para iOS e Android: a ferramenta, baseada no Llama 4, é projetada para adaptar-se ao conhecimento que o modelo possui sobre os usuários, fornecido por meio de interações, instruções diretas, e dados do Facebook e Instagram. Além disso, ela permite comunicação por voz, até mesmo durante outras atividades no celular. No entanto, esses recursos ainda não estão disponíveis no Brasil. Já o feed Discover, também integrado ao app e acessível a todos, permite que a comunidade compartilhe suas interações com a IA com outras pessoas. As informações são do site da Meta.",
+            "url": ""
+        },
+        {
+            "text": "Toyota e Waymo anunciam possível parceria para robotáxis e veículos autônomos de consumo: o acordo preliminar contempla um serviço de transporte por aplicativo e integração da tecnologia da Waymo nos veículos da Toyota. Esta é a primeira vez que um executivo da controladora da Waymo comenta publicamente a possibilidade de licenciar a tecnologia de direção autônoma da empresa. Mais detalhes serão divulgados caso um acordo definitivo seja firmado. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
