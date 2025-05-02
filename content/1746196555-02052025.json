@@ -1,0 +1,49 @@
+{
+    "title": "Apple sofre grande revés / Play Store: menos apps / WhatsApp: IA mais segura",
+    "fps": 30,
+    "timestamp": 1746196555,
+    "width": 0,
+    "height": 0,
+    "date": "02/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple sofre grande revés judicial: a empresa vinha descumprindo, intencionalmente, uma ordem judicial que liberava desenvolvedores de aplicativos a adicionar links e redirecionar compras digitais para fora do ambiente da App Store. O Spotify, por exemplo, já lançou uma nova versão na App Store que permite a assinatura de seus planos sem precisar pagar a comissão de 30% para a Apple.As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Play Store registra queda de 47% no número de aplicativos disponíveis desde o início de 2024: nesse período, a loja passou de cerca de 3,4 milhões para 1,8 milhão de apps. Essa redução pode estar  relacionada a critérios mais rígidos adotados pelo Google para a publicação e manutenção dos softwares na plataforma, além do uso de IA para detecção de ameaças e comportamentos maliciosos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp terá camada extra de privacidade para interações com Meta AI: o Private Processing será opcional e permitirá executar tarefas como resumir conversas não lidas ou sugerir respostas dentro de um ambiente seguro, onde nem a empresa nem terceiros terão acesso aos dados. Após o encerramento da sessão, as mensagens utilizadas durante o processamento não serão armazenadas. O recurso será disponibilizado “nas próximas semanas”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft torna passkeys o padrão para novos usuários: a medida visa proteger as contas contra ameaças como phishing, ataques de força bruta e roubo de credenciais. Pessoas que já possuem login também poderão remover o acesso por senha por meio das configurações da conta. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz edição nativa de imagens no Gemini: o recurso permite modificar uma foto gerada pelo próprio modelo ou enviada a partir do celular ou computador. Entre as possibilidades estão a substituição de fundos, e a alteração ou adição de objetos. Todas as saídas incluirão uma marca d’água invisível. O recurso está sendo disponibilizado de forma gradual e, nas próximas semanas, será expandido para a maioria dos países, com suporte para mais de 45 idiomas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "World, projeto cripto de Sam Altman, lança oficialmente sua moeda digital nos EUA e anuncia parceria com Visa: a partir desta semana, o token WLD estará disponível na maior parte do país. Usuários que realizarem o escaneamento ocular receberão 16 unidades como recompensa. A Tools for Humanity, startup responsável pela iniciativa, também apresentou o Orb Mini, uma versão compacta e portátil do scanner original, com formato semelhante ao de um smartphone. Além disso, a World, em parceria com a Visa, pretende lançar, ainda este ano, o “World Card”, um cartão que permitirá o uso de ativos digitais em qualquer estabelecimento que aceite a bandeira, com conversão automática para moeda tradicional. As informações são dos sites The Verge e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade no AirPlay da Apple permite execução de código malicioso em dezenas de milhões de dispositivos compatíveis: o conjunto de falhas, denominado AirBorne, possibilita que hackers comprometam aparelhos como alto-falantes, televisores e até mesmo os da própria empresa conectados à mesma rede Wi-Fi que eles. A companhia já lançou correções para seus equipamentos, mas muitos gadgets de terceiros podem demorar anos para receber atualizações. Apesar disso, a Apple ressalta que os dados armazenados neles costumam ser bastante restritos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "LG encerrará servidores de atualização para smartphones Android: após o dia 30 de junho, os dispositivos não poderão mais receber updates via OTA (over-the-air), pelo aplicativo LG Bridge ou por meio de centros de assistência técnica. Além disso, aplicativos nativos que forem excluídos durante uma redefinição de fábrica não poderão mais ser reinstalados. A LG deixou o mercado de smartphones em 2021. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
