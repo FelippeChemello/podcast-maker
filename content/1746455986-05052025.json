@@ -1,0 +1,49 @@
+{
+    "title": "Google cai em buscas / JavaScript: novo recurso / Redis volta ao open-source",
+    "fps": 30,
+    "timestamp": 1746455986,
+    "width": 0,
+    "height": 0,
+    "date": "05/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pela primeira vez em uma década, participação do Google em buscas na web cai para menos de 90%: atualmente, segundo a plataforma Statcounter, a empresa possui 89,6% de domínio nesse mercado — a última ocorrência de um percentual abaixo desse nível foi em 2015, quando a companhia marcou 89,5%. Acredita-se que essa redução esteja relacionada ao aumento de anúncios e à presença de resumos gerados por IA nos resultados de busca. As informações são do site PCGamer.",
+            "url": ""
+        },
+        {
+            "text": "JavaScript V8, mecanismo de execução presente em navegadores Chromium e no Node.js, ganha recurso para acelerar compilação: a funcionalidade permite adicionar o comentário “//# allFunctionsCalledOnLoad” no início do arquivo, fazendo com o que o código dele seja compilado assim que a página for carregada. Segundo testes internos com 20 sites, 17 apresentaram uma redução média de 630 milissegundos no tempo de inicialização. A recomendação é separar o código mais relevante em arquivos dedicados e aplicar o comentário neles. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Após adotar licença proprietária, Redis volta a ser open-source: a partir da versão 8, o projeto passa a utilizar a AGPL v3. Em março de 2024, a empresa decidiu usar as licenças RSALv2 e SSPLv1 com o objetivo de impedir que provedores de nuvem como AWS, Google e Oracle oferecessem o Redis como serviço hospedado sem compensação financeira. Em resposta, essas empresas passaram a apoiar o fork Valkey, mantido como software livre sob a licença BSD 3. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará preenchimento automático de senhas no aplicativo Authenticator: a empresa irá centralizar a gestão de credenciais no navegador Edge para dispositivos móveis. Usuários terão até 1º de agosto para exportar senhas armazenadas no app. Dados de pagamento, por motivos de segurança, deverão ser transferidos manualmente. As passkeys continuarão funcionando normalmente no Authenticator. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor da xAI vaza chave de API no GitHub que dá acesso a LLMs privados da SpaceX e Tesla: segundo um pesquisador de segurança, o token permite acesso a pelo menos 60 modelos privados e personalizados, treinados com dados internos das organizações. O profissional foi alertado pela empresa GitGuardian sobre o vazamento no dia 2 de março, mas o repositório só foi removido no dia 30 de abril, quando o aviso foi feito diretamente ao time de segurança da xAI. As informações são do site KrebsOnSecurity.",
+            "url": ""
+        },
+        {
+            "text": "Ferramentas à venda em fóruns de cibercrime permitem burlar autenticação multifator (MFA) sem necessidade de conhecimento técnico: esses kits fornecem todo o código necessário para criar um servidor proxy — que intercepta a comunicação entre a vítima e o site legítimo — e templates para construir páginas de phishing visualmente idênticas às originais. Recomenda-se adotar métodos de MFA baseados em WebAuthn, como passkeys, que vinculam criptograficamente a autenticação à URL original e ao dispositivo do usuário. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Modo de pesquisa do Claude agora pode levar até 45 minutos para gerar relatórios detalhados: a atualização permite que o modelo acesse e relacione “centenas de fontes internas e externas”, melhorando os resultados obtidos em casos que exigem maior profundidade. Já em pesquisas típicas, o tempo de resposta varia entre 5 e 15 minutos. O recurso está disponível em versão beta para assinantes dos planos Max, Team e Enterprise. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Wikipédia adotará IA sem substituir humanos: segundo a Wikimedia Foundation, o objetivo é desenvolver ferramentas que removam barreiras técnicas e facilitem o trabalho de editores, moderadores e patrulheiros, empregando a tecnologia em processos como tradução de conteúdo e busca por informações dentro da enciclopédia. A fundação também afirma que dará prioridade ao uso de modelos de código aberto. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
