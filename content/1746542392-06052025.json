@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI recua / Roblox investe no Brasil / Xcode + Claude",
+    "fps": 30,
+    "timestamp": 1746542392,
+    "width": 0,
+    "height": 0,
+    "date": "06/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI abandona plano de tornar-se uma empresa com fins lucrativos: segundo a companhia, sua divisão comercial será transformada em uma organização de benefício público — um tipo de entidade lucrativa que possui, por obrigação legal, um compromisso com uma missão pública. Isso contraria a condição imposta pelo SoftBank, que liderou a última rodada de captação da OpenAI com 30 bilhões de dólares, e alertou-a que, caso a mudança não ocorresse até 31 de dezembro, ele poderia reduzir sua participação para até 20 bilhões. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Roblox anuncia construção de data center no Brasil: a instalação, prevista para operar a partir do início de 2026, estará localizada em São Paulo e, segundo a empresa, será a mais avançada já desenvolvida pela plataforma. O objetivo é aprimorar a experiência de usuários e criadores no país, com foco na redução da latência, aumento da estabilidade das conexões e melhoria do desempenho em dispositivos de diferentes faixas de preço. O Brasil é o segundo maior mercado da Roblox em número de usuários ativos, com um crescimento de 183% nos últimos quatro anos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Apple e Anthropic estariam desenvolvendo ferramenta de IA para o Xcode: segundo fontes próximas ao assunto, a nova versão do software integra o modelo Claude Sonnet para auxiliar no desenvolvimento, permitindo que programadores escrevam, editem e testem código por meio de uma tela de chat. A Apple está inicialmente conduzindo testes internos e, supostamente, ainda não decidiu se o recurso será disponibilizado ao público. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Malware oculto em módulos Go maliciosos apaga discos de servidores Linux: o ataque consiste em um script Bash que executa o comando “dd” para sobrescrever os dados do volume de armazenamento primário “/dev/sda” com zeros, resultando em perda irreversível e na falha total do sistema. Os módulos, já removidos do GitHub, são “truthfulpharm/prototransform”, “blankloggia/go-mcp” e “steelpoor/tlsproxy”, os quais se passavam por projetos legítimos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Gemini poderá ser utilizado por crianças menores de 13 anos: o modelo será acessível em dispositivos Android supervisionados pelos pais com o Family Link, podendo também ser bloqueado. O Google alerta que o sistema é passível de erros, e que as crianças podem entrar em contato com conteúdos inadequados para a faixa etária. Os dados delas não serão utilizados para treinar a IA. Ainda não há previsão de quando a liberação ocorrerá. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google lança iniciativa para apoiar na produção de filmes e séries: o projeto “100 Zeroes”, em parceria com a Range Media Partners, visa melhorar a percepção do público jovem sobre os produtos da empresa e a tecnologia em geral. A companhia não pretende divulgar os conteúdos no YouTube nem em um serviço de streaming próprio, mas colaborar com estúdios já estabelecidos, ajudando na integração de recursos como realidade estendida e IA em suas produções. As informações são dos sites Engadget e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pessoas têm dificuldade em obter conselhos de saúde úteis de chatbots, segundo estudo: cerca de 1.300 voluntários do Reino Unido foram divididos em dois grupos, com a tarefa de avaliar cenários médicos e elaborar um plano de ação. O primeiro foi assistido por um modelo, já o segundo poderia usar qualquer fonte de sua escolha. Os indivíduos que utilizaram IA tiveram uma menor capacidade de identificar corretamente condições de saúde relevantes, e subestimaram a gravidade de certos quadros. Isso foi atribuído à qualidade das interações — muitos dos usuários omitiram informações cruciais nos prompts ou receberam respostas difíceis de interpretar. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia banirá moedas digitais com foco em privacidade a partir de 2027: a medida faz parte do novo Regulamento de Combate à Lavagem de Dinheiro, o qual determina que instituições de crédito, financeiras e prestadores de serviços de criptoativos estejam proibidos de manter contas anônimas ou operar com moedas digitais que priorizam a privacidade, como Monero e Zcash. As informações são do site Cointelegraph.",
+            "url": ""
+        }
+    ]
+}
