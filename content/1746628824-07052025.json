@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: salário de TI cresce / Ubuntu: sudo em Rust / Novo Gemini Pro",
+    "fps": 30,
+    "timestamp": 1746628824,
+    "width": 0,
+    "height": 0,
+    "date": "07/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Salário médio de profissionais de TI no Brasil cresceu 6,4% ao ano desde 2012: segundo uma pesquisa desenvolvida pelo SEPROSP — com dados obtidos do Ministério do Trabalho, INSS e IBGE —, no último trimestre de 2024 a remuneração média na área atingiu cerca de 7,6 mil reais por mês. O número de trabalhadores também apresentou um crescimento médio anual de 4,4%, totalizando 722,5 mil empregados até fevereiro de 2025. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Ubuntu 25.10 adotará, por padrão, versão do “sudo” escrita em Rust: o “sudo-rs” é projetado para mitigar vulnerabilidades relacionadas à memória, como estouros de buffer e “use-after-free”. Ele busca manter compatibilidade com a maioria dos fluxos de trabalho atuais, mas deixando de fora funcionalidades consideradas obsoletas ou pouco utilizadas. As informações são dos sites Trifecta Tech Foundation e Ubuntu Discourse.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini 2.5 Pro Preview (I/O edition): segundo a empresa, o sistema apresenta avanços significativos na transformação e edição de código. No benchmark WebDev Arena, ele liderou com 1.420 pontos, seguido por Claude 3.7 Sonnet (1.357) e Gemini 2.5 Pro original (1.273). O modelo está disponível na web e dispositivos móveis, além da API e plataformas AI Studio e Vertex AI. As informações são dos sites TechCrunch e Google for Developers.",
+            "url": ""
+        },
+        {
+            "text": "Daniel Stenberg, criador do curl, restringirá relatórios de segurança gerados por IA: segundo ele, todos os alertas relacionados à ferramenta, submetidos ao fórum HackerOne, precisarão indicar se foram escritos com o auxílio da tecnologia. Em caso afirmativo, o autor deverá apresentar “provas de inteligência real”, sob risco de banimento. A decisão foi motivada após o usuário “evilginx” enviar um relatório citando uma função inexistente no curl e nas bibliotecas adjacentes. As informações são dos sites LinkedIn e HackerOne.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI teria concordado em comprar Windsurf, ferramenta de programação assistida por IA, por cerca de 3 bilhões de dólares: a informação foi divulgada por fontes próximas ao assunto. O acordo ainda não foi concluído, mas, se confirmado, representará a maior aquisição da empresa, e deverá fortalecer as capacidades de programação do ChatGPT. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança programa de incentivo à pesquisa científica: o AI for Science oferecerá até 20 mil dólares em créditos para uso da API da empresa para pesquisadores, cujos projetos serão avaliados com base em critérios como mérito científico, impacto potencial, viabilidade técnica e biossegurança. As seleções serão realizadas na primeira segunda-feira de cada mês, e as candidaturas devem ser feitas por meio de um formulário no site da companhia. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 receberá menu Iniciar repaginado e ajustes de configurações assistidos por IA: o novo layout será mais espaçoso, com scroll aprimorado e organização de aplicativos por categorias, além de um painel integrado ao celular que permite visualizar informações como contatos, mensagens, chamadas e nível de bateria. O Copilot também poderá auxiliar os usuários a mudar opções no sistema, como o tamanho do cursor do mouse. As novidades serão disponibilizadas inicialmente para dispositivos com chips Snapdragon X a partir do próximo mês. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
