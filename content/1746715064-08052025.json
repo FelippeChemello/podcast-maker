@@ -1,0 +1,49 @@
+{
+    "title": "Hackers hackeados / LinkedIn: busca inteligente / Netflix imita TikTok",
+    "fps": 30,
+    "timestamp": 1746715064,
+    "width": 0,
+    "height": 0,
+    "date": "08/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grupo de ransomware LockBit é hackeado e negociações com vítimas são expostas: os painéis de administração passaram a exibir a mensagem “Não cometa crimes, CRIME É RUIM”, acompanhada de um link para download de um arquivo com registros do banco de dados do sistema, contendo mais de 4 mil mensagens trocadas entre operadores e vítimas, além de cerca de 60 mil endereços únicos de Bitcoin e 75 contas de administradores e afiliados, com suas senhas armazenadas em texto puro. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "LinkedIn agora permite descrever vaga de emprego desejada utilizando IA: o recurso visa facilitar a busca por cargos sem depender exclusivamente dos filtros tradicionais de localização, setor ou função. A novidade já está disponível em inglês para assinantes Premium e deve ser liberada para os demais usuários com o idioma configurado como inglês global até o fim da semana. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Netflix anuncia feed vertical de vídeos curtos para dispositivos móveis: os clipes são de trechos de títulos originais da plataforma, selecionados a partir das recomendações da seção “Principais escolhas do dia para você”. Os usuários também terão as opções de assistir ao conteúdo completo, adicioná-lo à lista pessoal e compartilhar com amigos. A novidade será lançada globalmente nas próximas semanas para iOS e Android por meio de uma aba na página inicial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google lança ferramenta para iOS que simplifica textos complexos: o Simplify, disponível no navegador web integrado ao aplicativo da empresa, permite que o usuário selecione o trecho de texto desejado e, em seguida, toque na opção correspondente. O processo envolve dois modelos da família Gemini, garantindo que nenhuma informação relevante seja omitida. O recurso está sendo disponibilizado de forma gradual e não há previsão de lançamento para dispositivos Android. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Amazon desenvolve robô capaz de “sentir” o toque: o Vulcan é projetado para realizar tarefas que requerem a destreza de humanos, como colocar ou retirar produtos de dentro de compartimentos apertados, com cerca de 30 cm², contendo vários itens. Ele conta com dois braços — um semelhante a uma “régua acoplada a uma chapinha de cabelo”, capaz de detectar o contato com o objeto e ajustar a força e a velocidade aplicadas, e outro que possui uma ventosa e uma câmera com IA, que garante que apenas um produto seja retirado por vez. As informações são dos sites The Verge e Amazon.",
+            "url": ""
+        },
+        {
+            "text": "NSO Group, empresa fornecedora de spyware, é multada em 167 milhões de dólares por comprometer 1,4 mil usuários do WhatsApp: essa é a primeira vez que uma organização desse setor é responsabilizada judicialmente. Os ataques ocorreram por meio da exploração da vulnerabilidade CVE-2019-3568, que possibilitou a instalação do spyware Pegasus nos celulares. Embora a NSO alegue que suas ferramentas são utilizadas no combate a crimes graves, a Meta confirmou que os alvos incluíam ativistas de direitos humanos, jornalistas e diplomatas. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Samsung adquire empresas renomadas de áudio por 350 milhões de dólares: o acordo, realizado por meio da sua subsidiária Harman International, ainda depende de aprovações regulatórias e deve ser concluido até o final deste ano. Caso finalizado, as marcas Bowers &amp; Wilkins, Denon, Marantz e Polk Audio passarão a integrar o portfólio da Harman, que já inclui a JBL. A Denon é reconhecida por ter desenvolvido o primeiro gravador digital de áudio do mundo, enquanto a Bowers &amp; Wilkins fornece sistemas de áudio premium para veículos de empresas como BMW e Volvo. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria planejando reduzir receita repassada à Microsoft até 2030: segundo documentos financeiros obtidos pela imprensa, a companhia informou a investidores que pretende direcionar apenas 10% do faturamento aos seus parceiros comerciais. Atualmente, somente à Microsoft, é repassado 20% do total arrecadado. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
