@@ -1,0 +1,49 @@
+{
+    "title": "ChatGPT + GitHub / Bill Gates doará fortuna / Brecha no Whatsapp",
+    "fps": 30,
+    "timestamp": 1746801407,
+    "width": 0,
+    "height": 0,
+    "date": "09/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Deep Research do ChatGPT ganha integração com repositórios do GitHub: o recurso, ainda em fase beta, permite que desenvolvedores realizem ações como resumir estruturas e padrões de código, transformar especificações de produto em tarefas técnicas, e entender como implementar novas APIs a partir de exemplos reais. O modelo respeitará as configurações de cada organização, acessando apenas conteúdos e repositórios autorizados e compartilhados com ele. A novidade será disponibilizada nos próximos dias para assinantes dos planos Plus, Pro e Team. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Bill Gates pretende encerrar sua fundação e doar toda fortuna nos próximos 20 anos: os valores serão investidos em ações como erradicação de doenças infecciosas letais — incluindo pólio, dracunculíase, malária e sarampo —, educação, agricultura, nutrição, infraestrutura digital e no uso de IA para ampliar o acesso a serviços essenciais. Após esse período, a Gates Foundation encerrará definitivamente suas operações. As informações são do blog Gates Notes.",
+            "url": ""
+        },
+        {
+            "text": "Servidores do WhatsApp podem ser invadidos para incluir membros indesejados em grupos: pesquisadores de segurança chegaram a essa conclusão ao realizar engenharia reversa no aplicativo. Com isso, indivíduos mal-intencionados podem se aproveitar da falha para acessar conversas sensíveis, como as que envolvem segurança nacional — embora haja muitos obstáculos técnicos para que isso possa ser realizado. Apesar do WhatsApp sempre avisar quando um membro é adicionado, a notificação pode passar despercebida em grupos com muitas mensagens. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Gmail deixará de aceitar conexões SMTP com criptografia 3DES: a partir de 30 de maio, sistemas de e-mail que utilizam esse algoritmo não conseguirão mais entregar mensagens a contas do Gmail. Como alternativa, o Google recomenda que os servidores sejam configurados para utilizar TLS. As informações são do blog Google Workspace.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI contrata ex-líder do aplicativo do Facebook: Fidji Simo, que já integra o conselho da empresa, assumirá o recém-criado cargo de CEO de Aplicativos. Segundo Sam Altman, isso permitirá que ele concentre seus esforços em “pesquisa, computação e segurança”. No Facebook, Simo liderou recursos como Feed de Notícias, Stories e transmissões ao vivo. Atualmente, ela é CEO da Instacart, e permanecerá no cargo até que um sucessor seja nomeado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google investirá em três projetos de energia nuclear avançada nos EUA: em parceria com a Elementl Power, a empresa fornecerá capital para o desenvolvimento em estágio inicial das usinas, cada uma com capacidade mínima de geração de 600 megawatts. A iniciativa é parte do compromisso da companhia em operar com energia livre de carbono 24 horas por dia até 2030. Já a Elementl Power busca adicionar mais de 10 gigawatts de energia nuclear à rede elétrica dos EUA até 2035. As informações são do site ESG Today.",
+            "url": ""
+        },
+        {
+            "text": "Escritório de Patentes e Marcas dos EUA nega registro de “Robotaxi” e “Cybercab” da Tesla: segundo um examinador do órgão, que registrou a recusa, o termo “Robotaxi” é “meramente descritivo” e amplamente utilizado por outras empresas para designar produtos e serviços semelhantes. Já o pedido para “Cybercab” foi interrompido devido à existência de outras solicitações em andamento com o prefixo “Cyber”. A Tesla ainda pode tentar reverter a decisão. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vice-presidente sênior da Apple sugere que iPhone pode se tornar desnecessário até 2035: segundo Eddy Cue, empresas de tecnologia estão sempre vulneráveis ao ritmo acelerado das transformações no setor. Para ele, a IA representa “uma nova mudança” e está criando “novas oportunidades para novos participantes”. Apesar disso, a declaração não sugere que a Apple esteja considerando descontinuar o iPhone nos próximos 10 anos. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
