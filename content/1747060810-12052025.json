@@ -1,0 +1,49 @@
+{
+    "title": "Papa: IA motivou nome / Brasil: Apple deve mudar / Majorana questionado",
+    "fps": 30,
+    "timestamp": 1747060810,
+    "width": 0,
+    "height": 0,
+    "date": "12/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Papa Leão XIV cita IA como um dos motivos para escolha de seu nome: em seu discurso, Robert Prevost explica que seu nome faz referência ao Papa Leão XIII, que liderou a Igreja Católica durante o início da Revolução Industrial e enfrentou as questões sociais decorrentes daquele período. Prevost traça um paralelo entre aquele momento histórico e o atual, afirmando que os avanços da IA representam “uma outra revolução industrial”, que traz consigo novos desafios para a defesa da dignidade humana, da justiça e do trabalho. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Justiça Federal obriga Apple a permitir meios de pagamento alternativos no iOS: em março, o TRF-1 havia derrubado a liminar que suspendia a decisão do Cade. A empresa chegou a recorrer e obteve nova suspensão, que agora foi revertida. A ação contesta as regras da companhia que restringem a atuação de desenvolvedores em seu ecossistema. Ela terá 90 dias, contados a partir da última quarta-feira (7), para implementar as mudanças. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Estudo utilizado na criação de chip quântico da Microsoft teria passado por manipulação de dados: a pesquisa explora o uso das chamadas Majoranas como base para qubits mais estáveis, e afirma que é possível conduzir elétrons por nanofios sem distorções. No entanto, em 2021, um dos coautores identificou que, dos 21 experimentos realizados, apenas os resultados de quatro foram incluídos na publicação. No lançamento do chip Majorana em fevereiro, a Microsoft afirmou que os resultados foram validados por revisões independentes. As informações são do site Science.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA demite chefe do Escritório de Direitos Autorais após parecer contrário sobre uso de informações protegidas por registros legais no treinamento de IA: a utilização de grandes volumes de obras protegidas para geração de conteúdos que competiriam diretamente com elas em seus mercados originais ultrapassa os limites do uso justo. Para aplicações voltadas à pesquisa e educação, entretanto, poderiam haver concessões. NAs informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cafeterias dos EUA limitam uso de internet para conter ocupação excessiva de trabalhadores remotos: segundo proprietários ouvidos pela imprensa, alguns estabelecimentos aboliram completamente Wi-Fi e notebooks, enquanto outros impõem restrições em horários ou dias específicos. Há ainda locais que cobrem tomadas com fita adesiva. Entre as motivações estão preocupações financeiras e necessidade de manter a rotatividade de clientes. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Chrome é o navegador que mais coleta dados de usuários em dispositivos móveis: o levantamento, conduzido pela fornecedora de VPN Surfshark, analisou os dez browsers mais populares para celular. Segundo os resultados, o do Google armazena 20 tipos diferentes de informações — sendo o único da lista a incluir dados financeiros — seguido pelo app do Bing (12), Pi Browser (9), e Safari e Firefox (8). O Tor se diferencia por não coletar nenhum. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Seagate planeja lançar HD de 100 terabytes até 2030: o projeto é impulsionado pela crescente demanda de data centers diante da expansão da IA. Hoje, o maior disco rígido produzido pela empresa é o Exos M, com 36 terabytes. Para mitigar impactos ambientais, a companhia pretende utilizar energia renovável na produção, e otimizar o componente para consumir menos energia por terabyte e ocupar menos espaço físico nas instalações. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Iniciativa propõe uso de Linux para prolongar vida útil de PCs incompatíveis com Windows 11: o “End of 10”, apoiado pela comunidade KDE, oferece um site com instruções acessíveis para a instalação do sistema, destacando vantagens como maior compatibilidade com máquinas antigas, gratuidade, menor exposição a malwares e mais privacidade. O suporte oficial ao Windows 10 será encerrado em 14 de outubro. Estima-se que cerca de 240 milhões de PCs tornarão-se obsoletos após essa data. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
