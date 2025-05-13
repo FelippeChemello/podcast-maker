@@ -1,0 +1,49 @@
+{
+    "title": "Empresa volta atrás com IA / “Consequências do iPhone” / Chip detecta infarto",
+    "fps": 30,
+    "timestamp": 1747147227,
+    "width": 0,
+    "height": 0,
+    "date": "13/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Após focar em chatbot, fintech volta a contratar humanos para atendimento ao cliente: em fevereiro de 2024, a Klarna havia afirmado que seu modelo estava realizando o trabalho equivalente ao de 700 funcionários, e assumindo mais de dois terços (cerca de 2,3 milhões) dos atendimentos. Na ocasião, ela demitiu colaboradores e congelou contratações. A empresa reconheceu que o corte de custos por meio da IA levou a interações de menor qualidade com os clientes. As informações são do site Industry Dive.",
+            "url": ""
+        },
+        {
+            "text": "Ex-chefe de design da Apple afirma que seu próximo projeto é motivado pelas “consequências” do iPhone: em entrevista, Jony Ive expressou preocupação sobre os potenciais efeitos negativos dos smartphones. Em 2024, ele confirmou estar desenvolvendo um dispositivo em parceria com a OpenAI, embora ainda não haja detalhes técnicos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros criam chip portátil para detecção rápida de infartos: a tecnologia, ainda em desenvolvimento, analisa sinais elétricos do coração e prever a condição em tempo real. Em testes, ela alcançou uma taxa de precisão de 92,4%, maior que muitos métodos atuais. Além da performance, o foco está em permitir que o componente seja incorporado em aparelhos vestíveis e de monitoramento, como smartwatches. As informações são do site Medical Xpress.",
+            "url": ""
+        },
+        {
+            "text": "Seguradoras britânicas lançam cobertura para prejuízos causados por falhas de chatbots: segundo apólices escritas pela startup Armilla, o pagamento será realizado caso seja constatado que o desempenho de um modelo ficou aquém das expectativas inicialmente acordadas — por exemplo, um sistema que sai de uma taxa de acerto de 95% para 85%. O CEO Karthik Ramakrishnan acredita que a modalidade pode aumentar a adoção da tecnologia. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo alerta que pode inutilizar permanentemente o Switch em caso de uso indevido: as novas regras foram determinadas na última atualização do Contrato de Licença de Usuário Final, e se aplica a todas as versões do console, deixando-o incapacitado de funcionar mesmo offline. A medida visa coibir práticas como a instalação de jogos piratas e modificações no hardware. Não está claro quais mecanismos serão utilizados nem se os usuários terão algum meio de contestar ou reverter os bloqueios. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google Keep introduz formatação de texto na versão web: as opções estão acessíveis por meio do botão sublinhado “A”, localizado no canto inferior esquerdo do editor, e permitirão que os usuários apliquem detalhes como sublinhado, negrito, itálico, além de converter o texto comum em títulos H1 ou H2. A atualização está sendo liberada gradualmente para usuários do Google Workspace, Workspace Individual e contas pessoais do Google. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia teria aumentado preços de GPUs em até 15%: segundo um relatório da imprensa taiwanesa, possíveis fatores incluem restrições impostas pelos EUA à exportação de chips de IA, além da migração da produção dos componentes da linha Blackwell para uma fábrica norte-americana da TSMC, elevando os custos envolvidos. Placas voltadas para jogos aumentaram entre 5% e 10%, enquanto as destinadas a aplicações de LLMs tiveram reajuste de até 15%. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 400 artistas britânicos, incluindo Paul McCartney, Elton John e Coldplay, pedem transparência sobre uso de obras por IA: em uma carta enviada ao primeiro-ministro do Reino Unido, o grupo defende emendas que obrigariam empresas a divulgar exatamente quais dados protegidos por direitos autorais foram utilizados no treinamento de seus modelos. Entre os signatários também estão roteiristas, diretores, atores, jornalistas e organizações de mídia. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
