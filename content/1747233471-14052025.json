@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: 2 trilhões em data centers / IBM: IAs e FOMO / FBI alerta para roteadores",
+    "fps": 30,
+    "timestamp": 1747233471,
+    "width": 0,
+    "height": 0,
+    "date": "14/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Governo deseja atrair até 2 trilhões de reais em investimentos em data centers no Brasil: a proposta, apresentada pelo Ministério da Fazenda a grandes empresas de tecnologia dos EUA, estima um custo médio de 40 milhões de dólares por megawatt na construção de uma instalação, considerando infraestrutura e equipamentos necessários. Entre as contrapartidas estão o uso de energia 100% limpa e renovável, e zero consumo de água e emissão de carbono. Os data centers no país também deverão reservar 10% de sua capacidade para atender consumidores locais. As informações são do site UOL Tilt.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da IBM indica que 64% dos CEOs investem em IA por FOMO (Fear Of Missing Out, ou receio de ficar de fora): em entrevista global com 2 mil executivos, 61% dizem já estar adotando agentes autônomos e se preparando para implementá-los em larga escala. No entanto, apenas 25% afirmam que sua organização obteve o retorno esperado com a tecnologia nos últimos anos, e 85% acreditam que os resultados positivos dos investimentos ainda devem levar dois anos para surgir. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "FBI recomenda que 13 modelos de roteadores antigos sejam substituídos imediatamente: esses dispositivos não recebem mais suporte dos fabricantes e estão sendo comprometidos por hackers para instalação de malwares e uso em botnets. Sinais de infecção incluem lentidão na conexão ou comportamentos incomuns na rede. Entre os modelos estão os Linksys E2500, E4200, WRT310N e E1200, comercializados no Brasil. A lista completa pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft volta atrás e estende suporte do Office no Windows 10 até outubro de 2028: as atualizações para os aplicativos continuarão sendo distribuídas normalmente pelos canais padrão, mesmo após o fim do ciclo oficial do sistema operacional em 14 de outubro de 2025. Apesar disso, a companhia recomenda que empresas migrem para o Windows 11, citando possíveis “problemas de desempenho e confiabilidade ao longo do tempo” com o Office no Windows 10. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple apresenta novos recursos de acessibilidade previstos para este ano: listaremos os principais — a App Store destacará apps e jogos com esse tipo de recurso; o Acesso em Braile permitirá abrir aplicações utilizando entrada braile diretamente na tela ou por meio de dispositivos externos; os sistemas iOS, iPadOS e visionOS contarão com um novo protocolo de suporte ao Switch Control voltado a Interfaces Cérebro-Computador; o CarPlay notificará motoristas e passageiros com deficiência auditiva sobre sons como o choro de um bebê, buzinas ou sirenes externas. As informações são do site Apple Newsroom.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas em saúde mental alertam que chatbots terapêuticos não são seguros: segundo eles, a tecnologia pode oferecer conselhos inadequados ou perigosos. Além disso, ela não é capaz de lidar com certas nuances, como mudanças no tom de voz, variações emocionais, ou reconhecer quando alguém está evitando um assunto. A crítica contrasta com a visão de Mark Zuckerberg, que defende que as pessoas deveriam contar com uma IA para conversar sobre seus problemas, independentemente do tema abordado. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia Gemini para carros e proteções aprimoradas para Android: o modelo estará disponível para todos os veículos compatíveis com Android Auto e sistema integrado da empresa; o Android 16 impedirá a instalação de apps por sideload durante chamadas com números desconhecidos; o Programa de Proteção Avançada, antes restrito à conta Google, também protegerá dispositivos com Android 16; a partir do Android 15, criminosos que burlarem o Factory Reset Protection não conseguirão mais criar contas, senhas e instalar apps. Mais informações disponíveis no TabNews.",
+            "url": ""
+        }
+    ]
+}
