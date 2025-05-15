@@ -1,0 +1,45 @@
+{
+    "title": "IA aumenta contratações de Devs / Stack Overflow vai mudar / Android Desktop",
+    "fps": 30,
+    "timestamp": 1747319921,
+    "width": 0,
+    "height": 0,
+    "date": "15/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da IBM afirma que uso de IA levou a novas contratações na empresa: segundo Arvind Krishna, a companhia adotou agentes autônomos para substituir o trabalho de algumas centenas de profissionais de RH. Em contrapartida, ela aumentou o número de programadores e vendedores contratados — funções que, para Krishna, exigem “pensamento crítico” e interação direta com outras pessoas, além da simples execução de tarefas repetitivas. As informações são do site The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Stack Overflow anuncia rebranding em meio à queda de tráfego: segundo dados da própria plataforma, o número total de perguntas e respostas publicadas em abril de 2025 caiu mais de 64% em relação ao mesmo mês de 2024 — e mais de 90% em comparação com 2020. O CEO Prashanth Chandrasekar afirma que a empresa deixará de atuar exclusivamente nesse modelo, e também investirá nas áreas de comunidade e carreira. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Gemini ganha integração com repositórios do GitHub: o recurso, compatível com projetos públicos e privados, permite realizar tarefas como geração, explicação e depuração de trechos de código. Para utilizá-lo, o usuário pode clicar no botão “+” na barra de comando, selecionar a opção “importar código” e colar a URL do repositório. A novidade está disponível para assinantes do plano Gemini Advanced. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google está desenvolvendo modo Desktop para Android: o recurso transforma o celular em uma espécie de computador quando conectado a um monitor externo. A interface inclui barra de tarefas, janelas redimensionáveis e execução simultânea de múltiplos apps — semelhante ao Windows e macOS. A funcionalidade ainda está em fase de testes e não há previsão oficial de lançamento. As informações são do site SquaredTech.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI introduz GPT-4.1 no ChatGPT: segundo a empresa, o modelo deve beneficiar especialmente desenvolvedores de software, uma vez que apresenta desempenho superior ao GPT-4o em tarefas de programação. O sistema está sendo disponibilizado para assinantes dos planos Plus, Pro e Team, enquanto a sua versão “mini” será liberada para todos. Com a atualização, o GPT-4o mini será removido da plataforma de chat. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Falha em CPUs da Intel expõe dados sensíveis da memória privilegiada do sistema operacional: a vulnerabilidade CVE-2024-45332, descoberta por pesquisadores de segurança, afeta todos os processadores da empresa a partir da 9ª geração, e permite que invasores acessem informações como senhas e chaves criptográficas de áreas da memória reservadas a softwares críticos, como o kernel. A Intel lançou atualizações de microcódigo para mitigar o problema. Recomenda-se instalar as atualizações mais recentes da BIOS/UEFI e do sistema operacional. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Robô criado por estudante de 22 anos quebra recorde mundial na resolução de cubo mágico 4x4x4: o tempo de 45,3 segundos do “Revenger”, de Matthew Pidden, é 42% mais rápido do que o recordista anterior, obtido em 2014. O robô utiliza webcams e um algoritmo desenvolvido por Pidden. Apesar do feito, o recorde humano permanece imbatível com 15,7 segundos, atingido por Max Park em 2024. As informações são da BBC.",
+            "url": ""
+        }
+    ]
+}
