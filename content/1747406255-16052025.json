@@ -1,0 +1,41 @@
+{
+    "title": "Coinbase: prejuízo massivo / Chrome vulnerável / Netflix: anúncios com IA",
+    "fps": 30,
+    "timestamp": 1747406255,
+    "width": 0,
+    "height": 0,
+    "date": "16/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Coinbase alerta para possível prejuízo de até 400 milhões de dólares após ataque cibernético: segundo a empresa, um agente malicioso entrou em contato alegando ter obtido acesso a nomes, e-mails e endereços de clientes — senhas e credenciais de acesso não foram comprometidas. A companhia reembolsará usuários que, enganados pelos golpistas, enviaram fundos a eles. A Coinbase atua oficialmente no Brasil, mas não há confirmação de brasileiros afetados. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige falha crítica no Chrome com exploit público disponível: a vulnerabilidade CVE-2025-4664 explorava uma brecha no componente Loader, a qual permitia que invasores remotos vazassem dados sensíveis de outros sites por meio de páginas HTML maliciosas. A correção está disponível na versão 136.0.7103.113 para Windows e Linux, e na 136.0.7103.114 para macOS. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Netflix exibirá anúncios com IA a partir de 2026: segundo a empresa, serão dois formatos principais — propagandas interativas durante a reprodução dos vídeos, e apresentadas nas pausas feitas pelo usuário. A companhia afirma que seu negócio de publicidade ainda está em estágio inicial, mas tem como meta dobrar a receita em 2025. O plano com anúncios da plataforma já conta com 94 milhões de assinantes. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará acesso às APIs de busca do Bing em 11 de agosto: a ferramenta permite enviar consultas e receber resultados prontos para exibição aos usuários. Em seu lugar, a empresa recomenda o “Grounding with Bing Search”, o qual possibilita que chatbots complementem respostas em tempo real com dados públicos da web. No entanto, desenvolvedores afirmam que esse sistema apenas oferece resumos em vez de resultados brutos. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind desenvolve agente de IA capaz de criar e otimizar algoritmos avançados: o AlphaEvolve, baseado na família Gemini, é projetado para auxiliar em qualquer tarefa relacionada a código. Em testes, a ferramenta propôs uma modificação nas heurísticas de escalonamento do sistema que gerencia clusters do Google, a qual resultou em uma economia de 0,7% em seus recursos computacionais globalmente. A tecnologia ainda não está disponível para uso público. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança CarPlay Ultra: a nova geração vai além da exibição de aplicativos, assumindo também o painel de instrumentos com mostradores como velocímetro e conta-giros a partir de designs digitais criados pela empresa. Inicialmente, o recurso está disponível apenas nos EUA e em modelos específicos da montadora Aston Martin. Ainda não há previsão de lançamento para outras regiões ou fabricantes. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
