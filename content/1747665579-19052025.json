@@ -1,0 +1,49 @@
+{
+    "title": "Gradiente vence Apple / OpenAI: agente para Devs / YouTube: anúncios mais “inteligentes\"",
+    "fps": 30,
+    "timestamp": 1747665579,
+    "width": 0,
+    "height": 0,
+    "date": "19/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Gradiente vence Apple em disputa no Superior Tribunal de Justiça: no processo, a Apple solicitava a caducidade — cancelamento por falta de uso — do registro da marca “G GRADIENTE IPHONE”, solicitado pela Gradiente em 2000 e concedido em 2008, próximo ao lançamento do iPhone no país. A vitória garante a manutenção do registro da marca, mas não concede exclusividade sobre o nome “iPhone” e nem impede a Apple de utilizá-lo no Brasil. A companhia ainda pode recorrer ao Supremo Tribunal Federal. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança agente autônomo de programação integrado ao ChatGPT: o Codex, segundo a empresa, gera códigos mais “limpos”, segue instruções com maior precisão e testa suas próprias soluções. Ele também é capaz de conectar-se ao GitHub, e leva entre 1 e 30 minutos para desenvolver funcionalidades simples, corrigir bugs e responder perguntas. Inicialmente, o recurso está disponível para assinantes dos planos Pro, Enterprise e Team. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "YouTube exibirá anúncios nos momentos de maior engajamento dos vídeos: o recurso “Peak Points” utiliza o Gemini para identificar esses trechos. A abordagem visa aumentar o número de impressões e melhorar a taxa de cliques das campanhas. A funcionalidade está atualmente em fase piloto e será implementada gradualmente ao longo do ano. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Windsurf lança seus próprios modelos de IA focados em engenharia de software: os SWE-1, SWE-1-lite e SWE-1-mini foram treinados para atuar em todas as etapas do processo de desenvolvimento. Segundo a empresa, o primeiro apresenta desempenho competitivo com sistemas como GPT-4.1 e Gemini 2.5 Pro. Ele será exclusivo para assinantes, enquanto os SWE-1-lite e SWE-1-mini estão disponíveis gratuitamente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Maior mercado negro da internet é encerrado após banimento no Telegram: o Huione Guarantee e o Xinbi Guarantee permitiam que vendedores terceirizados oferecessem produtos e serviços a golpistas, como lavagem de moedas digitais, dados de possíveis vítimas e ferramentas de deepfake. Juntos, eles movimentaram mais de 35 bilhões de dólares desde 2021. As informações são dos sites Ars Technica e WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Apple é eleita a marca mais valiosa do mundo pelo quarto ano consecutivo: a empresa alcançou um valor estimado de 1,3 trilhão de dólares — um aumento de 28% em relação ao ano anterior — no ranking BrandZ Most Valuable Global Brands. Segundo a Kantar, dona do relatório, a Apple representa, sozinha, mais de 12% do valor total do Top 100 Global. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem tecnologia de armazenamento de energia com íons de zinco: com apenas 0,4 cm² de área, o ZIMC combina vantagens de microbaterias (capacidade de armazenamento) e microsupercapacitores (velocidade de carga e descarga), suportando milhares de ciclos de recarga. A ideia é que ele seja utilizado em equipamentos compactos, como aparelhos vestíveis, implantes médicos e dispositivos IoT. No entanto, os protótipos atuais utilizam ouro como coletor de corrente, o que ainda torna a solução inviável economicamente. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Robô quebra recorde ao resolver cubo mágico 3x3x3: o Purdubik’s Cube, criado por quatro estudantes da Universidade Purdue, registrou o tempo de 103 milissegundos — o piscar de olhos humanos leva entre 200 e 300 milissegundos. A máquina foi projetada para reconhecer cores e gerar algoritmos personalizados para executar a solução com extrema velocidade. O recorde anterior foi de 305 milissegundos, alcançado em 2024 por uma equipe de engenheiros da Mitsubishi. Na semana passada, noticiamos o recorde na resolução de um cubo mágico 4x4x4 em 45,3 segundos, bem mais complexo do que o tradicional 3x3x3. As informações são do site Guiness World Records.",
+            "url": ""
+        }
+    ]
+}
