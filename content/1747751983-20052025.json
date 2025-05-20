@@ -1,0 +1,45 @@
+{
+    "title": "Proton faz alerta / Microsoft abre código / Supercomputador no espaço",
+    "fps": 30,
+    "timestamp": 1747751983,
+    "width": 0,
+    "height": 0,
+    "date": "20/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Proton ameaça deixar Suíça caso proposta de vigilância seja aprovada: a nova emenda prevê que serviços de VPN, aplicativos de mensagens e redes sociais sejam obrigados a identificar e armazenar dados de usuários. O CEO Andy Yen classifica a medida como uma “grave violação do direito à privacidade”, e afirma que, nesse cenário, sua empresa se tornaria “menos confidencial” do que o Google nos EUA. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "WSL (Subsistema do Windows para Linux) com código aberto, editor de texto para linha de comando e outras novidades no Microsoft Build 2025: o código do WSL está disponível no repositório “microsoft/WSL” do GitHub; o Edit on Windows, disponível em breve para Insiders, poderá ser aberto no terminal com o comando “edit”, seguido pelo nome do arquivo. Seu código pode ser acessado no repositório “microsoft/edit”; aplicativos web agora podem usar APIs do navegador Edge (Canary e Dev) para integrar-se ao modelo Phi-4-mini da Microsoft, possibilitando funcionalidades como escrita, edição e resumo de textos; a partir de junho, desenvolvedores individuais poderão publicar apps na Microsoft Store sem pagar taxa de inscrição — atualmente, são cobrados 19 dólares. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "China lança satélites para criação da primeira constelação de computação espacial do mundo: o projeto Star Compute tem como meta lançar 2,8 mil satélites para viabilizar uma rede de supercomputadores no espaço com capacidade de 1 quintilhão de operações por segundo. A proposta é o processamento de dados sem depender de estações terrestres. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla corrige vulnerabilidades críticas no Firefox exploradas na competição de hackers Pwn2Own 2025: a CVE-2025-4918 envolvia a leitura e gravação fora dos limites na engine JavaScript durante a resolução de objetos Promise. Já a CVE-2025-4919 permitia acesso indevido à memória ao manipular tamanhos de índice de arrays em objetos JS. As correções estão disponíveis na versão 138.0.4 do navegador para desktop e Android, e nas 128.10.1 e 115.23.1 do Firefox ESR. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA obriga Apple a liberar Fortnite na App Store: a Epic Games havia informado que a Apple estava rejeitando as submissões do jogo à loja, contrariando a liminar emitida no dia 30 de abril, que a impede de recusar aplicativos que usam links de pagamentos externos. A juíza do caso pede que, do contrário, a Apple explique por qual razão legal ela pode impedir o upload do Fortnite à App Store. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia lança iniciativa para reduzir dependência do Google e Bing: o Open Web Index busca criar um índice aberto da internet, com acesso a arquivos e páginas, para apoiar o desenvolvimento de mecanismos de busca independentes. O primeiro teste público começa no próximo mês e dará aos participantes acesso a cerca de 1 petabyte de conteúdo. A versão final deve conter cerca de 5 petabytes, com planos de expansão para 10 petabytes no futuro. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "França torna-se primeiro governo a endossar os Princípios de Código Aberto da ONU: esse é um conjunto de diretrizes voltado à colaboração e adoção de tecnologias open-source dentro da própria organização e em escala global. Entre elas estão adotar o código aberto como padrão para novos projetos, priorizar a segurança em todas as etapas do desenvolvimento e garantir interoperabilidade entre diferentes plataformas e sistemas. As informações são do site das Nações Unidas.",
+            "url": ""
+        }
+    ]
+}
