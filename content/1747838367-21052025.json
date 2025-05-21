@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: celulares mais caros / Novidades do Google / Polêmica: Fortnite e Darth Vader",
+    "fps": 30,
+    "timestamp": 1747838367,
+    "width": 0,
+    "height": 0,
+    "date": "21/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Preço médio de smartphones no Brasil subiu 88% em um ano: segundo a International Data Corporation, o valor saltou de 1.361 para 2.557 reais entre o primeiro trimestre de 2024 e o de 2025. Como reflexo, as vendas de celulares caíram quase 10% no intervalo de 12 meses. Analistas atribuem o aumento à valorização do dólar no ano passado, além da aposta das fabricantes em dispositivos com suporte a redes 5G e recursos avançados de assistente. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Gemini por 1.400 reais, tradução no Meet e outras novidades do Google I/O 2025: a assinatura “AI Ultra”, inicialmente disponível somente nos EUA por 249,99 dólares mensais (cerca de 1.400 reais, na cotação atual), inclui acesso ao novo gerador de vídeos Veo 3, uma versão do Gemini integrada ao Chrome, e futuros lançamentos; para assinantes desse plano ou do “AI Pr”, o Meet agora consegue traduzir em tempo real a fala de uma pessoa na reunião, preservando o timbre, o tom e a expressividade; no aplicativo Gemini, usuários já podem utilizar a tela e a câmera do celular para conversar com o modelo; e o Stitch é uma ferramenta projetada para auxiliar na criação de interfaces web e mobile por meio da geração de código HTML/CSS a partir de prompts de texto ou imagens. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Sindicato dos atores nos EUA critica uso de IA na voz de Darth Vader em Fortnite: o personagem se comunica com jogadores utilizando a mesma interpretação vocal de James Earl Jones, com a autorização expressa de seu espólio. No entanto, o SAG-AFTRA alega que o uso da tecnologia como substituta de um dublador ocorreu sem negociação com a entidade. Até o momento, a Epic Games não se pronunciou sobre a denúncia. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança ferramenta que integra chatbots em sites: o NLWeb permite que as páginas ofereçam uma interface conversacional com apenas algumas linhas de código, incluindo o modelo escolhido pelo desenvolvedor com acesso aos dados do site. Um e-commerce, por exemplo, pode implementar o recurso para ajudar clientes a escolher roupas para diferentes ocasiões. O código-fonte está disponível no repositório “microsoft/NLWeb” do GitHub. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Em pesquisa, 47% dos jovens europeus entrevistados prefeririam viver em um mundo sem internet: participaram 1.293 indivíduos entre 16 e 21 anos, dos quais 45% afirmam usar redes sociais por mais de três horas diárias e 34% jogam online por mais de duas horas. Apesar disso, 50% também apoiam a ideia de um “toque de recolher”, em que o acesso a plataformas online seria bloqueado após determinado horário. As informações são do site BSI Group.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4 pode ser até 64% mais persuasivo que humanos em debates online: no estudo, 900 participantes dos EUA participaram de discussões de 10 minutos na internet sobre temas sociopolíticos, defendendo posições opostas, contra um humano ou modelo. Quando nenhum dos debatedores tinha acesso aos dados demográficos do oponente, a máquina era tão persuasiva quanto uma pessoa. No entanto, ao receber essas informações, ela convenceu mais que os humanos. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas realizam primeira demonstração bem-sucedida de correção de erro quântico usando qudits: ao contrário dos qubits tradicionais, esses sistemas armazenam informação em mais de dois estados possíveis, sendo promissores para tarefas mais complexas. O avanço pode permitir a criação de computadores quânticos mais confiáveis, aplicados em áreas como criptografia e desenvolvimento de medicamentos. As informações são do site Phys.",
+            "url": ""
+        }
+    ]
+}
