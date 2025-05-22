@@ -1,0 +1,45 @@
+{
+    "title": "Nova Apple? OpenAI faz jogada bilionária / Windows 11 “pós-quântico” / Meta expande cabo no Brasil",
+    "fps": 30,
+    "timestamp": 1747924755,
+    "width": 0,
+    "height": 0,
+    "date": "22/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI adquire startup de hardware io de Jony Ive, ex-chefe de design da Apple, por 6,5 bilhões de dólares: o primeiro dispositivo, sem detalhes no momento, deve ser lançado em 2026. Ive foi o responsável pelo design do iMac, MacBook e iPhone em seus quase 30 anos na Apple. A operação representa a maior aquisição realizada pela OpenAI, superando a possível compra da Windsurf por 3 bilhões de dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 recebe criptografia resistente a computadores quânticos: a partir da build 27852, a biblioteca SymCrypt do sistema operacional agora conta com os algoritmos ML-KEM e ML-DSA, selecionados pelo Instituto Nacional de Padrões e Tecnologia dos EUA (NIST). O primeiro garante troca segura de chaves criptográficas, enquanto o segundo permite criação de assinaturas digitais. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia expansão de cabo submarino no Brasil: o Malbec, que atualmente conecta as cidades do Rio de Janeiro e São Paulo a Buenos Aires (Argentina), incluirá Porto Alegre até o fim de 2027. Essa é a primeira vez que um cabo submarino chega ao Rio Grande Sul. Com isso, a capital gaúcha se tornará o primeiro grande hub digital internacional da região sul do país. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Autoridades desmantelam operação do malware Lumma Stealer: a ofensiva contou com a participação do Departamento de Justiça dos EUA e empresas de tecnologia. A Microsoft apreendeu cerca de 2,3 mil domínios utilizados pelos operadores, e identificou mais de 390 mil computadores com Windows infectados. Os marketplaces onde o software era comercializado também foram confiscados. A Cloudflare, por sua vez, suspendeu todas as contas utilizadas pelos agentes de ameaça para esconder os endereços IP dos servidores de destino do malware. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Signal para desktop anuncia proteção contra Recall do Windows 11: a opção “Segurança de tela”, ativada por padrão e disponível na seção “Privacidade” das configurações, impede que o sistema capture imagens das conversas usando DRM, a mesma tecnologia usada para impedir que usuários gravem a tela do PC ao assistir um filme na Netflix, por exemplo. O recurso, entretanto, pode impedir a funcionalidade de ferramentas de acessibilidade. As informações são do blog do Signal.",
+            "url": ""
+        },
+        {
+            "text": "Volvo será a primeira montadora a integrar Gemini nativamente em seus carros: com a tecnologia, os motoristas poderão utilizar comandos de voz para receber assistência na navegação ou esclarecer dúvidas sobre o manual do veículo. A fabricante afirma que a novidade ajudará a reduzir a “carga cognitiva” do condutor, permitindo que ele mantenha o foco na direção. Não está claro quais automóveis receberão a novidade nem quando isso ocorrerá. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Laser mais poderoso dos EUA atinge 2 petawatts de potência: o feito foi alcançado pelo ZEUS, da Universidade de Michigan. Segundo a instituição, o número representa mais de 100 vezes a produção elétrica global. O dispositivo está instalado em uma estrutura do tamanho de um ginásio escolar. Seus pulsos duram apenas 25 quintilionésimos de segundo e serão utilizados em pesquisas nas áreas de medicina, física quântica e ciência dos materiais. Apesar do avanço, o laser ELI-NP, da Romênia, ainda detém o recorde de 10 petawatts de potência. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
