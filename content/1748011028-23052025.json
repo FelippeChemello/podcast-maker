@@ -1,0 +1,45 @@
+{
+    "title": "Devs BR premiados / Malware no TikTok / Discord: pesquisa polêmica",
+    "fps": 30,
+    "timestamp": 1748011028,
+    "width": 0,
+    "height": 0,
+    "date": "23/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores brasileiros são premiados em concurso Swift Student Challenge da Apple: foram oito vencedores ao todo. Entre os projetos estão um jogo em que habitantes de Marte precisam repovoar a Terra, de Nina Guelman; um aplicativo que ensina braile com a ajuda de um mascote com deficiência visual, de Felipe Peixoto; e um programa que ensina conceitos de programação em Swift por meio da música, de Thiago Dias. As informações são do site Apple Newsroom.",
+            "url": ""
+        },
+        {
+            "text": "Vídeos do TikTok estão sendo utilizados para disseminar malware: os conteúdos instruem os usuários a executar comandos do PowerShell, prometendo vantagens como ativação do Windows, Microsoft Office e de funcionalidades premium em softwares como CapCut e Spotify. Um deles já acumula quase 500 mil visualizações e mais de 20 mil curtidas e 100 comentários. Entre os malwares identificados na campanha estão o Vidar e o StealC, ambos especializados na coleta de dados sensíveis, como credenciais de acesso e carteiras de moedas digitais. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Universidade Federal de Minas Gerais divulgam 2 bilhões de mensagens do Discord: a coleta foi realizada por meio da própria API da plataforma, e abrangeu somente servidores disponíveis publicamente. Algumas informações foram embaralhadas para não revelar a identidade das pessoas. Segundo a equipe, o objetivo é que os dados sejam utilizados em pesquisas de áreas diversas, incluindo saúde mental. Entretanto, a medida pode estar em desacordo com os termos de uso da API. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança Claude 4 nas versões Sonnet e Opus: a empresa descreve o Opus 4 como “o melhor modelo de programação do mundo”. No benchmark SWE-Bench, ele pontuou 72,5%, superando o Codex da OpenAI (72%) e o Gemini 2.5 Pro (63,2%). Além disso, ele foi capaz de refatorar um código por sete horas ininterruptas sem perder coerência. O Sonnet 4 está disponível para todos os usuários, enquanto o Opus 4 exige assinatura. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Play Store permitirá que desenvolvedores removam atualizações problemáticas de aplicativos: a mudança pode ser útil para quem opta por distribuir novas releases para 100% dos dispositivos na plataforma. A interrupção poderá ser realizada diretamente pelo Play Console ou via API de publicação. Não há previsão de quando a novidade estará disponível. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla encerrará Pocket e Fakespot: o Pocket permite salvar páginas da web para leitura posterior. Ele deixará de funcionar a partir de 8 de julho. Após essa data, os usuários terão até 8 de outubro para exportar seus dados, antes que sejam permanentemente excluídos. Já o Fakespot, que auxilia consumidores na identificação de avaliações enganosas em sites de e-commerce, será descontinuado em 1º de julho. As informações são dos sites The Verge e Reddit.",
+            "url": ""
+        },
+        {
+            "text": "Chrome será capaz de alterar senhas inseguras automaticamente: a sugestão será exibida quando o navegador detectar uma credencial comprometida durante o login. O Google garante que nenhuma senha será modificada sem a confirmação explícita do usuário. A novidade estará disponível ainda este ano em sites compatíveis. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
