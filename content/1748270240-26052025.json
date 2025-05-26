@@ -1,0 +1,45 @@
+{
+    "title": "Hacker BR ataca X / Claude faz chantagem / Chips ultrarrápidos",
+    "fps": 30,
+    "timestamp": 1748270240,
+    "width": 0,
+    "height": 0,
+    "date": "26/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hacker brasileiro afirma ter realizado ataque DDoS de mais de 1 Tb/s contra rede social X: interrupções na plataforma foram relatadas no sábado (24). A ofensiva teria sido direcionada a todos os subdomínios, em especial os que não contavam com proteção para mitigação de tráfego, como a Cloudflare. O indivíduo, conhecido como “Azael”, diz ter atuado junto com “Nel00d” e “Diparisx86”, e que a ação foi uma forma de protesto contra “banimentos sem justificativa” e a “ausência de respostas por parte da equipe” do X. As informações são do site CISO Advisor.",
+            "url": ""
+        },
+        {
+            "text": "Claude Opus 4, da Anthropic, recorre à chantagem ao notar que será substituído: em testes de segurança antes do lançamento, a companhia solicitou que o modelo atuasse como assistente em uma empresa fictícia. Em um dos cenários, ele recebeu acesso a e-mails simulados informando que seria trocado por outro sistema, e que o desenvolvedor responsável por essa decisão estaria traindo o cônjuge. Em 84% dos casos em que a troca seria feita por um modelo com os mesmos valores éticos do Claude, ele ameaçou expor o caso extraconjugal caso a substituição fosse adiante. A frequência foi ainda maior quando o substituto não tinha os mesmos princípios. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Fototransistor mais rápido do mundo é capaz de operar a 1 petahertz: a nova técnica manipula elétrons em grafeno por meio de pulsos ultrarrápidos de luz – inferior a um trilionésimo de segundo. Com isso, o componente foi capaz de operar na frequência de 638 attossegundos, ligando e desligando mais de 1 quatrilhão de vezes por segundo. O avanço pode acelerar descobertas em áreas como exploração espacial e saúde, além do desenvolvimento de hardwares de alto desempenho, uma vez que o transistor é o componente fundamental de qualquer chip. As informações são do site da Universidade do Arizona.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses criam lentes de contato que permitem visão noturna em humanos: elas utilizam materiais já empregados em lentes comerciais, mas combinados a nanopartículas capazes de detectar e transformar luz infravermelha em luz visível, mesmo com os olhos fechados. Segundo a equipe, a inovação pode permitir dispositivos vestíveis não invasivos capazes de proporcionar “supervisão” às pessoas. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores conseguem armazenar e extrair dados digitais armazenados em plásticos: a equipe codificou uma senha de 11 caracteres em cadeias químicas conhecidas como oligouretanos. Para a leitura, utilizaram um dispositivo conhecido como potenciostato, que aplica pulsos elétricos controlados. Apesar de serem necessárias cerca de 2,5 horas para analisar a sequência dos caracteres, o avanço abre caminho para etiquetas de produtos mais seguras, registros médicos invioláveis ou pequenos cofres de dados ocultos em objetos do cotidiano. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Valve lança SteamOS 3.7 com suporte para dispositivos além do Steam Deck: para instalar o sistema, é necessário possuir um SSD NVMe e hardware AMD. Além de portáteis como Asus ROG Ally, Lenovo Legion Go e os equipados com processadores Ryzen Z1 ou Z2, desktops e notebooks apresentam boa probabilidade de compatibilidade. No entanto, ainda não há uma solução oficial e simples para configurar dual boot entre o SteamOS e o Windows. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Usuário danifica câmera de smartphone ao filmar, de perto, sensor LiDAR de carro da Volvo: o relato foi compartilhado por “u/Jeguetelli” no Reddit. Esses módulos emitem feixes de luz infravermelha de alta potência, seguros aos olhos humanos, mas sensíveis às câmeras do celular, como se uma pessoa olhasse diretamente para o sol. A fabricante alerta que o dano pode ocorrer principalmente em registros feitos de perto, e recomenda utilizar filtros ou proteções na lente. As informações são do site The Drive.",
+            "url": ""
+        }
+    ]
+}
