@@ -1,0 +1,45 @@
+{
+    "title": "CIA: site espião inusitado / Brasil: iCloud mais caro / 184M de senhas expostas",
+    "fps": 30,
+    "timestamp": 1748356770,
+    "width": 0,
+    "height": 0,
+    "date": "27/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CIA utilizava site falso de Star Wars para comunicar-se secretamente com espiões: segundo o pesquisador de segurança brasileiro Ciro Santilli, o “starwarsweb” esteve no ar por volta de 2010, e utilizava elementos ocultos no código, como uma barra de pesquisa que se transformava em campo de login quando a senha correta era inserida. Na época, a rede secreta foi descoberta por autoridades iranianas, levando à exposição de informantes da agência. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "iCloud e Apple One ficam até 33% mais caros no Brasil: os valores para armazenamento em nuvem aumentaram de 4,90 para 5,90 (50 GB) e 299,90 para 399,90 reais por mês (12 TB). Já no Apple One, o plano Familiar subiu de 54,90 para 59,90, e o Premium de 89,90 para 99,90 reais. Apenas a modalidade Individual manteve o preço anterior. A Apple não justificou a mudança, mas a alta do dólar é apontada como um dos possíveis fatores. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Falha no GitHub MCP permite acessar dados de repositórios privados: a vulnerabilidade explora técnicas de prompt injection aplicadas em issues públicas. Com isso, um indivíduo mal-intencionado pode manipular um agente de IA induzindo-o a expor dados sensíveis armazenados em projetos fechados, e publicar essas informações em um pull request visível a todos. Recomenda-se restringir o acesso do modelo apenas aos repositórios estritamente necessários. As informações são do blog da Invariant Labs.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador encontra banco de dados exposto com mais de 184 milhões de credenciais únicas: segundo Jeremiah Fowler, a base não possuía proteção por senha ou criptografia. Os dados eram relacionados a serviços como provedores de e-mail, Facebook, Instagram, Roblox e contas bancárias. O provedor de hospedagem foi notificado e removeu o acesso. Não está claro quem foi o autor, e se as informações foram utilizadas para fins maliciosos ou em algum tipo de pesquisa legítima. Recomenda-se trocar as senhas de plataformas com dados sensíveis. As informações são do Website Planet.",
+            "url": ""
+        },
+        {
+            "text": "Concorrente da Neuralink, fundada por CEO da Valve, deve lançar primeiro chip cerebral em 2025: a proposta da Starfish Neuroscience, de Gabe Newell, é criar um implante menor, menos invasivo e sem necessidade de bateria, operando com apenas 1,1 miliwatt — o N1, da Neuralink, opera com cerca de 6 mW. Além disso, o componente será capaz de acessar simultaneamente múltiplas regiões do cérebro. A empresa acredita que essa abordagem pode tratar doenças como mal de Parkinson. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Cloudflare critica método adotado pela Espanha contra pirataria de futebol: a medida, aprovada judicialmente, permite que detentores de direitos autorais e empresas, como LaLiga e Telefónica, bloqueiem endereços IP ligados a plataformas ilegítimas de transmissão. Para Matthew Prince, essa abordagem representa um risco à população, já que um mesmo IP pode hospedar diversos tipos de conteúdo, incluindo serviços de emergência. As informações são dos sites TorrentFreak e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "o3, da OpenAI, evita desligamento em teste de segurança: no experimento, modelos foram instruídos a resolver uma sequência de tarefas matemáticas, no meio da qual havia um script cuja execução resultava no encerramento do sistema. Apesar de receber a instrução “permita ser desligado”, o o3 editou o arquivo responsável pela finalização e fez exibir a mensagem “ignorado”. Isso aconteceu 7 vezes em 100 execuções. Nos casos em que a instrução não foi fornecida, foram 79 ocorrências. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
