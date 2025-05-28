@@ -1,0 +1,45 @@
+{
+    "title": "ChatGPT de graça para população / Duolingo volta atrás / Navegador “premium”",
+    "fps": 30,
+    "timestamp": 1748443280,
+    "width": 0,
+    "height": 0,
+    "date": "28/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Emirados Árabes Unidos oferece ChatGPT Plus, de 20 dólares mensais, gratuitamente à população: a decisão parte de uma parceria entre a OpenAI e o governo local, e integra o projeto “OpenAI for Countries”, voltado para ajudar países a disponibilizar modelos adaptados a seus idiomas, estruturas de governança e necessidades sociais. O EAU é o primeiro do mundo a oferecer esse benefício aos seus residentes. As informações são do site Business Today.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Duolingo volta atrás em declarações sobre uso de IA na empresa: Luis von Ahn afirmou no mês passado que deixaria de contar com colaboradores para tarefas que pudessem ser automatizadas, e que novas contratações ocorreriam apenas quando isso não fosse viável. Após críticas, o executivo diz que não enxerga a tecnologia como substituta dos funcionários, mas como uma ferramenta para acelerar o trabalho. Ele também ressalta que o Duolingo continua contratando e está promovendo workshops para apoiar a equipe na adaptação ao uso da IA. As informações são da Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Opera anuncia navegador “premium” por assinatura: o Neon é projetado para executar tarefas em nome do usuário, como gerar códigos para criação de jogos e sites, realizar buscas na web e responder perguntas sobre uma página, além de continuar operando mesmo quando a pessoa estiver offline. As interações ocorrem localmente na máquina, garantindo maior privacidade. Ainda não há previsão de lançamento. Interessados podem se inscrever na lista de espera no site oficial do projeto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança modo de voz e libera busca na web no Claude: o modo de voz ainda está em fase beta e estará disponível em inglês nas próximas semanas no aplicativo móvel. Usuários gratuitos terão um limite de 20 a 30 conversas, enquanto assinantes contarão com funcionalidades adicionais, como a integração com o Google Workspace; a busca na web, agora acessível a todos, permite que o modelo forneça respostas com base em informações disponíveis online. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança WhatsApp nativo para iPad: essa versão aproveita recursos do iPadOS, permitindo, por exemplo, que os usuários visualizem suas mensagens enquanto navegam na internet, assistem a vídeos ou utilizam outros aplicativos simultaneamente. O app já está disponível na App Store. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "TSMC está desenvolvendo tecnologia para tornar data centers mais eficientes: o projeto, em parceria com a startup Avicena, consiste em conectores de fibra óptica que utilizam uma mini tela de microLEDs azuis como transmissor, e um receptor que funciona como uma mini câmera. Com um transmissor de apenas 300 pixels ópticos, a solução consegue enviar dados a até 3 Tb/s, numa distância de até 10 metros — ideal na comunicação entre GPUs nos racks — e consumir menos de 1 picojoule por bit, frente aos 5 picojoules de soluções atuais. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "The Browser Company considera vender ou abrir código do navegador Arc no futuro: o CEO Josh Miller afirma que o obstáculo seria o fato de ele ter sido construído sobre um kit de desenvolvimento interno que também serve de base para o Dia, novo navegador da startup, ainda em fase alpha e sem previsão de lançamento. Atualmente, o Arc recebe apenas correções de bugs e atualizações de segurança. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
