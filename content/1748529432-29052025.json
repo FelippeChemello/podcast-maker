@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: roteadores ASUS / xAI + Telegram / Pixels sonoros",
+    "fps": 30,
+    "timestamp": 1748529432,
+    "width": 0,
+    "height": 0,
+    "date": "29/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Botnet compromete mais de 9 mil roteadores ASUS globalmente: a “AyySSHush” explora vulnerabilidades já corrigidas, como a CVE-2023-39780, para adicionar uma chave pública SSH maliciosa aos dispositivos. Entre os modelos afetados está o RT-AX55, comercializado no Brasil. Uma vez comprometido, o aparelho permanece vulnerável mesmo após reinicializações ou atualizações de firmware, sendo necessário realizar uma redefinição de fábrica. Usuários podem verificar manualmente se o roteador foi infectado — mais informações disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "xAI pagará 300 milhões de dólares ao Telegram para liberar Grok aos usuários: o chatbot, até então exclusivo para assinantes premium do aplicativo, pode ser utilizado em tarefas como sugestões de escrita, resumos de conversas, criação de figurinhas e moderação de conteúdo em grupos. O Telegram também ficará com 50% da receita gerada por assinaturas da xAI adquiridas diretamente no app. O acordo prevê a liberação do Grok pelo período de um ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem painel OLED em que cada pixel emite som: a equipe incorporou emissores de áudio piezoelétricos diretamente na moldura de uma tela de 13 polegadas, capazes de transformar sinais elétricos em vibrações sonoras. A tecnologia promete oferecer áudio espacial de alta precisão, eliminando a necessidade de alto-falantes tradicionais. Além de televisores, ela tem potencial para ser aplicada em painéis automotivos e celulares. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft permitirá que desenvolvedores atualizem aplicativos via Windows Update: a empresa oferecerá suporte a softwares empacotados nos formatos MSIX e APPX, além de determinados programas Win32 personalizados. Também será possível integrar os apps às notificações e no histórico de atualizações do sistema. Interessados podem se inscrever em uma prévia privada do serviço. Ainda não há previsão de liberação geral. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Carros elétricos a bateria reduzem em 83% a emissão de poeira dos freios, segundo estudo: esses automóveis utilizam sistemas regenerativos, que permitem desacelerar sem acionar os mecanismos tradicionais. Veículos híbridos também apresentaram redução, variando entre 10% e 48% nos modelos comuns, e chegando a 66% nos híbridos plug-in. A poeira dos freios é atualmente a maior fonte de emissões não relacionadas ao escapamento, com mais de 40% dessas partículas se espalhando pelo ar. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Volume global de PCs deve chegar a 274 milhões em 2025: no relatório da International Data Corporation, que abrange desktops, notebooks e workstations, a migração para o Windows 11 é apontada como um dos principais impulsionadores dessa alta, devido ao fim do suporte da versão anterior em 14 de outubro. O número representa um crescimento de 4,1% em relação a 2024. As informações são do site da IDC.",
+            "url": ""
+        },
+        {
+            "text": "Bancos dos EUA estudam criação de stablecoin conjunta para enfrentar concorrência do setor cripto: segundo fontes próximas ao assunto, as discussões refletem a crescente preocupação com o avanço das moedas digitais e o potencial impacto sobre o sistema bancário tradicional. Além disso, as instituições enxergam nas stablecoins uma oportunidade de acelerar transações rotineiras, como pagamentos internacionais, que atualmente podem levar dias. As informações são do site The Wall Street Journal.",
+            "url": ""
+        }
+    ]
+}
