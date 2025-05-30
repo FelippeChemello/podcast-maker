@@ -1,0 +1,45 @@
+{
+    "title": "IA acima do Bitcoin / Bilhões de cookies à venda / Remuneração no Stack Overflow",
+    "fps": 30,
+    "timestamp": 1748615879,
+    "width": 0,
+    "height": 0,
+    "date": "30/05/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Data centers de IA poderão superar consumo energético de mineração do Bitcoin até o final de 2025: essas instalações consumirão uma quantidade de eletricidade equivalente a 23 gigawatts, acima dos 20 gigawatts estimados da mineração do Bitcoin atualmente. O pesquisador Alex de Vries-Gao realizou a projeção com base na cadeia de produção dos chips voltados para essas estruturas, destacando a TSMC, que dobrou sua capacidade entre 2023 e 2024. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 93,7 bilhões de cookies estão à venda na dark web e marketplaces do Telegram: segundo um relatório da NordVPN, em média, 7% a 9% ainda estão ativos; 90,2% contém dados de identificação; e cerca de 0,5% armazenam informações como endereços de e-mail, senhas e localização. Além disso, 1,2 bilhão de cookies de sessão — cerca de 6% do total — continuam disponíveis para compra. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Stack Overflow estuda remunerar especialistas para responder perguntas na plataforma: em uma pesquisa com mais de 600 desenvolvedores, aqueles que buscam ajuda no site reconhecem a utilidade dos chatbots, mas preferem o auxílio humano, por oferecer feedback mais específico e fundamentado na experiência. Entre pessoas entrevistadas que já responderam dúvidas de usuários no passado, algumas demonstraram interesse moderado em participar da nova funcionalidade, especialmente se tiver alguma compensação financeira. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Google recomenda atualizar Instagram para corrigir falha de consumo excessivo de bateria no Android: embora o comunicado não especifique quais modelos, fabricantes ou versões do sistema operacional são afetados, a recomendação é que todos verifiquem se estão utilizando a versão 382.0.0.49.84 ou superior do aplicativo. A atualização já está disponível na Play Store. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Safari pode facilitar golpes do tipo browser-in-the-middle: a técnica explora a API Fullscreen dos navegadores, que permite exibir sites em tela cheia, mas ocultando elementos da interface. Assim, criminosos podem fazer com que a vítima interaja com uma página legítima, como uma tela de login, mas em um browser remoto controlado pelo invasor. Diferente do Chrome e Firefox, por exemplo, o Safari não exibe um alerta ao entrar em modo fullscreen. Pesquisadores alertaram a Apple, mas a empresa afirma que a animação de transição seria suficiente para sinalizar a mudança. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity lança ferramenta capaz de criar dashboards e apresentações: o Labs, segundo a empresa, realiza em menos de 10 minutos tarefas que demandariam “dias de trabalho”. A tecnologia utiliza recursos como busca avançada na internet, execução de código e geração de gráficos e imagens, a fim de produzir documentos ou aplicações web interativas simples. A novidade está disponível para assinantes do plano Pro na web, iOS e Android. As informações são do blog da Perplexity.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Apple ensinam modelos de IA a estimar frequência cardíaca: os sistemas utilizados no experimento não haviam sido inicialmente treinados para esse propósito, e apresentaram desempenho equivalente ou superior a métodos tradicionais. Foram utilizadas mais de 20 horas de sons cardíacos reais, gravados em hospitais e anotados por especialistas. Acredita-se que a tecnologia possa futuramente ser integrada a produtos como iPhone, Apple Watch ou AirPods. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
