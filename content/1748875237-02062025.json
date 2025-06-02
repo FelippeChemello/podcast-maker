@@ -1,0 +1,41 @@
+{
+    "title": "Brasil: lucrar com dados? / Vibe coding vulnerável / Recorde com fibra óptica",
+    "fps": 30,
+    "timestamp": 1748875237,
+    "width": 0,
+    "height": 0,
+    "date": "02/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Projeto pioneiro no Brasil permitirá que cidadãos lucrem com seus dados pessoais: a carteira digital dWallet – lançada em 2022 no país pela DrumWave em parceria com a IBM – passará por um piloto nacional conduzido pela Dataprev, em modelo público–privado. O usuário poderá autorizar o compartilhamento de suas informações com empresas interessadas e, em troca, poderá receber pagamentos em sua conta bancária. As informações são do site Rest of World.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativos criados com Lovable, ferramenta de vibe coding, apresentam falhas de segurança: segundo um relatório que analisou cerca de 1,6 mil apps listados no site da plataforma, 170 permitiam acesso público a informações sensíveis de usuários, incluindo nomes, endereços de e-mail, dados financeiros e chaves de API. Os programas utilizam um banco de dados terceirizado da Supabase, que deve ser configurado manualmente. Iniciantes que não possuem o conhecimento técnico adequado podem deixar brechas em suas aplicações. As informações são do site Semafor.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores japoneses quebram recorde em transmissão de dados por fibra óptica: a equipe alcançou a taxa de 1,02 petabit por segundo a uma distância de 1,8 mil quilômetros. O volume seria suficiente para baixar todo o catálogo da Netflix cerca de 30 vezes. A equipe utilizou tecnologias compatíveis com a infraestrutura convencional de fibra óptica. Em 2023, eles já haviam alcançado 1,7 Pb/s, mas em apenas 63,5 km. O próximo passo é aprimorar o processo de fabricação para aplicações em larga escala. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Google Maps exibe erroneamente interdição de rodovias na Alemanha: o aplicativo mostrava inúmeros pontos de bloqueio, o que fez os motoristas buscarem rotas alternativas, provocando congestionamentos. Autoridades de trânsito e a polícia também receberam um grande volume de chamadas. A situação foi agravada pelo aumento no fluxo de veículos devido a um feriado prolongado no país. O Google removeu os alertas incorretos, mas não está claro qual foi a causa do problema. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "AMD deixará de incluir drivers proprietários no Radeon Software for Linux: a partir da versão 25.20, a empresa passará a priorizar os softwares open-source do projeto Mesa, que inclui o RadeonSI para OpenGL e o RADV para Vulkan, que substituirá a versão derivada do AMDVLK. Os drivers proprietários da AMD são mais utilizados em distribuições corporativas que ainda adotam versões antigas do Linux e do Mesa. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor cria ferramenta que prevê localização de usuários a partir de seus comentários no YouTube: o YouTube-Tools, segundo o criador, foi desenvolvido com foco em uso policial, e contém filtros para minimizar violações de privacidade. No entanto, é possível acessá-lo apenas com um endereço de e-mail e um cartão de crédito, pagando uma assinatura de 20 dólares mensais, o que levanta preocupações em relação ao uso indiscriminado. Além disso, a ferramenta pode violar as diretrizes da plataforma. As informações são do site 404 Media.",
+            "url": ""
+        }
+    ]
+}
