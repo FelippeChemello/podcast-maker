@@ -1,0 +1,45 @@
+{
+    "title": "Sora gratuito / Luta de robôs humanoides / Monitor de fadiga",
+    "fps": 30,
+    "timestamp": 1748961665,
+    "width": 0,
+    "height": 0,
+    "date": "03/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft introduz gerador de vídeos Sora, da OpenAI, gratuitamente no Bing: usuários poderão gerar até dez clipes no modo rápido. Após esse limite, cada criação nessa modalidade exigirá 100 pontos do Rewards — ou a pessoa pode optar pelo modo de velocidade padrão. Os vídeos são de 5 segundos no formato vertical 9:16. A ferramenta está inicialmente disponível no aplicativo mobile do Bing, sendo essa a primeira vez que o Sora é liberado ao público sem custo. As informações são dos sites TechCrunch e Microsoft Bing Blogs.",
+            "url": ""
+        },
+        {
+            "text": "China realiza primeira competição de luta entre robôs humanoides do mundo: o evento, organizado pela Unitree, contou com modelos G1, com pouco mais de 1,20 m de altura e cerca de 35 kg, equipados com luvas e capacetes, e que aplicavam golpes dirigidos por humanos usando controles remotos e comandos de voz. Apesar de os movimentos serem controlados externamente, o gerente de marketing da empresa afirma que colocar as máquinas em ambientes de alto estresse contribui para o avanço de suas capacidades de equilíbrio, locomoção e resistência. As informações são do site VICE.",
+            "url": ""
+        },
+        {
+            "text": "Adesivo eletrônico consegue monitorar fadiga mental em tempo real: o dispositivo, semelhante a uma tatuagem, é aplicado na testa. Em testes com seis voluntários, conforme as tarefas se tornavam mais exigentes, houve um aumento nas ondas cerebrais relacionadas à maior carga cognitiva e à fadiga. Segundo o criador, a tecnologia pode ser útil em profissões que exigem altos níveis de atenção por longos períodos, como motoristas e pilotos. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 exigirá funcionalidades padrão em portas USB-C de dispositivos compatíveis: segundo a atualização mais recente do programa Windows Hardware Compatibility Program, todos os aparelhos devem garantir que essas entradas ofereçam suporte simultâneo a transferência de dados, carregamento de energia e saída de vídeo. As novas regras já estão valendo para notebooks e tablets com o sistema pré-instalado na versão 24H2. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI planeja transformar ChatGPT em “super assistente” pessoal: segundo um documento interno contendo planos para o primeiro semestre deste ano, o modelo seria capaz de “entender profundamente” o usuário e auxiliar em tarefas como deslocamentos, planejamento de viagens, gerenciamento de compromissos e envio de e-mails. Apesar disso, a empresa reconhece que sua infraestrutura atual ainda não é capaz de sustentar o ritmo de crescimento do uso do chatbot. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cibercriminosos utilizam instaladores falsos de ferramentas de IA para disseminar malwares: segundo um relatório, as versões legítimas dessas soluções são amplamente utilizadas em vendas e marketing. Exemplos incluem um site que imita a plataforma NovaLeads, cujo arquivo ZIP disponibilizado para download carrega o ransomware CyberLock; o Lucky_Gh0$t, disfarçado como uma versão premium do ChatGPT; e o Numero, embutido em um instalador malicioso do InVideo AI. As informações são do site The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Google encerrará suporte a chamadas legadas do Duo em setembro: essas chamadas estão atualmente integradas no Meet para pessoas que não executam a versão mais recente do aplicativo, mas não incluem recursos modernos como mensagens de chat, legendas ao vivo e compartilhamento de tela. A empresa recomenda que usuários dessa modalidade exportem seus históricos de ligações e mensagens de vídeo antes da remoção. As informações são do site 9to5Google.",
+            "url": ""
+        }
+    ]
+}
