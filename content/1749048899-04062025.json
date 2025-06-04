@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI usando Rust / Chrome: falha zero-day / Copilot economiza trabalho",
+    "fps": 30,
+    "timestamp": 1749048899,
+    "width": 0,
+    "height": 0,
+    "date": "04/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI reescreve Codex CLI em Rust: segundo o mantenedor do projeto, a nova versão elimina a necessidade de dependências externas, como o Node.js 22 ou superior. Além disso, o uso da nova linguagem traz benefícios de desempenho como menor consumo de memória e ausência de coleta de lixo em tempo de execução. A variante em TypeScript continuará recebendo correções de bugs até que a reescrita em Rust atinja “paridade de experiência e funcionalidades”. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige falha crítica no Chrome explorada ativamente: a vulnerabilidade CVE-2025-5419, do tipo zero-day, era causada por leitura e escrita fora dos limites no motor JavaScript V8. A empresa afirma que só divulgará mais detalhes após a maioria dos usuários atualizar seus navegadores. A correção está sendo distribuída gradualmente para desktop, nas versões 137.0.7151.68/.69 (Windows e Mac), e 137.0.7151.68 (Linux). As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Servidores públicos do Reino Unido economizam o equivalente a duas semanas por ano de trabalho com Microsoft Copilot: no experimento conduzido pelo governo, mais de 20 mil funcionários utilizaram o modelo durante três meses em diversas tarefas. A maior redução de tempo foi observada na criação de documentos e apresentações, com economias diárias de 24 e 19 minutos, respectivamente. Apesar disso, especialistas alertam que as limitações da tecnologia podem torná-la inadequada para determinados usos oficiais. As informações são do site Financial Times.",
+            "url": ""
+        },
+        {
+            "text": "Firefox detectará extensões maliciosas que roubam carteiras de moedas digitais: o novo sistema cria perfis de risco para cada complemento. Quando um determinado nível de risco é ultrapassado, ele emite alertas que acionam uma análise feita por revisores humanos, que podem remover as extensões suspeitas da loja. Recomenda-se sempre consultar o site oficial da carteira para instalar apenas a extensão legítima. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Epic Games integra ferramenta de criação de modelos digitais de humanos hiper-realistas na Unreal Engine 5: o MetaHuman Creator está disponível a partir da versão 5.6 do motor gráfico. Além de controles detalhados sobre expressões faciais, o recurso agora também oferece modelagem corporal completa e ajustável, possibilitando personalizações precisas para jogos e aplicações interativas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, atividade cerebral humana é registrada por implante sem fio: o Connexus tem dimensões próximas às de uma moeda de um centavo de real, e é equipado com 421 microeletrodos, cada um mais fino que um fio de cabelo. Seus sensores captam sinais elétricos de neurônios individuais, que são transmitidos para um computador externo e convertidos em ações, como mover um cursor na tela ou gerar fala sintetizada. O aparelho também tem potencial para auxiliar no tratamento de transtornos mentais ou dor crônica. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria cancelado projetos do Quest 4 para focar em headset de realidade mista: segundo fontes com conhecimento do assunto, o novo dispositivo, previsto para 2026, teria o formato de “um par de óculos robusto” e pesaria apenas 110 gramas — resultado da adoção de um acessório externo do tamanho de um bolso, concentrando componentes como processador e bateria —, além de ser operado por meio de rastreamento ocular e gestos com as mãos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
