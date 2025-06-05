@@ -1,0 +1,41 @@
+{
+    "title": "Reddit processa Anthropic / Cinto de segurança inteligente / Novidades no ChatGPT",
+    "fps": 30,
+    "timestamp": 1749134312,
+    "width": 0,
+    "height": 0,
+    "date": "05/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Reddit processa Anthropic por raspagem indevida de dados: O Reddit alega que a Anthropic acessou sua plataforma mais de 100 mil vezes desde julho de 2024, apesar desta ter declarado, em maio do mesmo ano, que havia bloqueado seus bots. Segundo o diretor jurídico do Reddit, a “exploração comercial” do conteúdo por parte da Anthropic pode valer bilhões de dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Volvo apresenta primeiro cinto de segurança multiadaptável do mundo: a tecnologia utiliza sensores internos e externos para ajustar automaticamente a proteção com base em fatores como altura, peso, formato do corpo, posição do passageiro, direção e velocidade do carro. O sistema também é compatível com atualizações remotas via internet. Seu desenvolvimento foi baseado em dados de mais de cinco décadas de pesquisas da empresa, coletadas a partir de mais de 80 mil pessoas envolvidas em acidentes reais. A Volvo não informou se pretende liberar a patente para outras fabricantes. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT recebe transcrição de reuniões e outras novidades: o modelo será capaz de gravar, gerar anotações automáticas com citações marcadas por horário, e sugestões de ações. O recurso está disponível para assinantes do plano Team; o sistema agora também pode conectar-se a serviços como Dropbox, OneDrive e Google Drive, com acesso direto a arquivos, disponível nos planos Team, Enterprise e Edu; a OpenAI também ampliou o acesso às melhorias do recurso de memória para usuários gratuitos, permitindo que o chatbot lembre de informações de conversas recentes, embora com um alcance mais limitado. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Meta realiza seu primeiro contrato de compra direta de energia nuclear: a usina Clinton Clean Energy Center estava inicialmente prevista para fechar em 2017, mas foi mantida ativa devido a um crédito fiscal estadual, com validade até 2027. O novo acordo, firmado com a operadora da instalação, garante sua continuidade por mais duas décadas, e contribui com a redução das emissões de carbono da Meta. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mistral lança assistente de programação: o Code, desenvolvido a partir do projeto de código aberto Continue, combina diversos modelos próprios da empresa, entre eles o Codestral (autocompletar código); Codestral Embed (busca de trechos); Devstral (tarefas autônomas); e Mistral Medium (assistência via chat). A versão beta privada já está disponível para as plataformas JetBrains e VS Code. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Epic Games permitirá que criadores desenvolvam NPCs com IA no Fortnite: a partir do Unreal Editor for Fortnite, os usuários poderão configurar aspectos como personalidade, estilo de fala e tipo de voz, possibilitando interações entre jogadores e os personagens. Em maio, a empresa testou a funcionalidade com a inclusão de um NPC do Darth Vader utilizando a voz de James Earl Jones. O novo recurso será disponibilizado ainda este ano. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
