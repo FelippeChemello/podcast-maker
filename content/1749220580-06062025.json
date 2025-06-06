@@ -1,0 +1,45 @@
+{
+    "title": "Meta: método questionável / WhatsApp: IA customizada / Robôs entregadores",
+    "fps": 30,
+    "timestamp": 1749220580,
+    "width": 0,
+    "height": 0,
+    "date": "06/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta estava utilizando tecnologia de rastreamento no Android para coletar dados de usuários: segundo pesquisadores de segurança, a abordagem envolvia o uso de código JavaScript do Meta Pixel que se conectava com aplicativos nativos do dispositivo por meio de sockets localhost, contornando as barreiras de segurança do sistema. Isso teria permitido, por exemplo, associar informações de navegação na web às identidades das pessoas por meio da coleta de cookies. A empresa suspendeu a abordagem após a divulgação, e afirma estar em diálogo com o Google para esclarecer a situação. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp permitirá criar chatbots personalizados: a partir do AI Studio, será possível definir características como papel, personalidade e tom, além de um avatar. Também será possível compartilhar o modelo com outras pessoas. A ideia é que o procedimento seja simples, mesmo para usuários sem conhecimento técnico avançado. O recurso está sendo disponibilizado para alguns participantes do programa beta, nas versões 2.25.18.4 do Android e 25.17.10.75 do iOS. As informações são dos sites WABetaInfo e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria testando robôs humanoides para realizar entregas: segundo uma fonte envolvida no projeto, a expectativa é que as máquinas sejam capazes de viajar a bordo das vans da empresa. Mesmo com um motorista humano, elas poderiam deixar pacotes em um endereço enquanto o funcionário atende outro. Atualmente, os robôs estariam sendo avaliados em um ambiente controlado nos EUA, mas a companhia planeja levá-los para “excursões de campo”, onde tentarão entregar mercadorias nas residências dos clientes. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 poderá reduzir desempenho do processador durante inatividade para economizar bateria: o recurso (opcional) identifica quando o usuário não está interagindo ativamente com a máquina — por meio do teclado, mouse ou da tela sensível ao toque. Assim que a pessoa retoma a interação, a CPU volta rapidamente ao seu estado anterior, sem impacto perceptível na experiência de uso. Não está claro se o sistema conseguirá distinguir cenários como jogos ou reprodução de vídeos. A funcionalidade está disponível na Build 26200.5603 (Insider). As informações são do site Windows Latest.",
+            "url": ""
+        },
+        {
+            "text": "X proíbe uso de conteúdo da plataforma para treinar modelos de linguagem: as novas diretrizes impedem que desenvolvedores e empresas de tecnologia utilizem a API ou as publicações da rede social para esse propósito. Acredita-se que a decisão possa abrir caminho para futuros acordos comerciais com organizações interessadas nesse tipo de dado. Apesar disso, as postagens do X continuam sendo utilizadas para treinar o Grok. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google afirma que Chrome alcançou maior pontuação já registrada no benchmark Speedometer 3: segundo a empresa, o navegador — na build 139 Dev — alcançou 52,35 pontos ao ser testado em um MacBook Pro com chip M4 e macOS 15, um aumento de 10% em relação ao desempenho observado em agosto de 2024. O resultado foi atribuído a otimizações de memória e uso aprimorado do cache. Apesar disso, não foi informado qual era a maior pontuação registrada anteriormente, seja pelo Chrome ou outro browser. As informações são do blog do Chromium.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic apresenta modelos para uso militar nos EUA: a família Claude Gov é projetada especificamente para agências de defesa e inteligência do país, com permissões mais flexíveis para lidar com informações confidenciais e maior eficácia na análise de dados sensíveis. Entre as aplicações previstas estão avaliação de ameaças, análise de inteligência e interpretação de documentos complexos. A empresa afirma que os sistemas já estão sendo usados por “agências do mais alto nível da segurança nacional”. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
