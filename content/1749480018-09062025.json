@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: BADBOX 2.0 / Supercomputador “cerebral” / EUA: disquete em aviação",
+    "fps": 30,
+    "timestamp": 1749480018,
+    "width": 0,
+    "height": 0,
+    "date": "09/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "FBI alerta para malware BADBOX 2.0 presente em mais de 1 milhão de dispositivos de consumidores em todo o mundo: o script malicioso é comumente identificado em aparelhos Android fabricados na China, como smart TVs, streaming boxes, projetores e tablets. Eletrônicos afetados mantêm backdoors que permitem a operação de botnets. Segundo pesquisadores, o Brasil lidera a lista de dispositivos comprometidos (37,6%), seguido pelos EUA (18,2%), México (6,3%) e Argentina (5,3%). A lista de modelos potencialmente comprometidos pode ser consultada no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Sandia, laboratório científico e tecnológico dos EUA, ativa supercomputador inspirado nas redes neurais de um cérebro: o SpiNNaker 2, da SpiNNcloud, dispensa o uso de GPUs, armazenamento interno e sistema operacional, sendo capaz de simular entre 150 e 180 milhões de neurônios – uma fração dos cerca de 100 bilhões presentes no cérebro humano. Segundo o CEO da SpiNNcloud, a máquina é adequada para demandas computacionais de aplicações em segurança nacional. As informações são do site Blocks &amp; Files.",
+            "url": ""
+        },
+        {
+            "text": "Administração Federal de Aviação dos EUA abandonará disquetes e Windows 95 no controle de tráfego aéreo: esses recursos ainda são amplamente utilizados em instalações críticas da instituição. Apesar de importante, o processo enfrenta obstáculos — sistemas considerados essenciais à segurança não podem ser desligados para substituição. Além disso, qualquer modernização precisa resistir a ataques cibernéticos. A previsão é concluir o projeto em até quatro anos, mas especialistas alertam que esse prazo pode ser difícil de cumprir. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Ex-pesquisadores da Intel fundam startup para criar “o maior e mais poderoso” processador do mundo: a AheadComputing aposta na arquitetura aberta RISC-V – tradicionalmente utilizada em sistemas embarcados e ambientes acadêmicos – para PCs, notebooks e data centers. A ideia é projetar um microprocessador capaz de realizar tarefas com maior qualidade e eficiência que os chips tradicionais. Entre os clientes em potencial estão Google, Amazon e Samsung. As informações são do site OregonLive.",
+            "url": ""
+        },
+        {
+            "text": "Google introduz ações agendadas no Gemini: o recurso permite que o assistente realize uma tarefa em um horário específico, em determinada data ou após um evento. Cada usuário pode manter até 10 agendamentos ativos simultaneamente, com a possibilidade de visualizar, pausar, retomar ou excluir individualmente cada uma deles. A novidade já está disponível para assinantes dos planos AI Pro e AI Ultra, nas plataformas web, Android e iOS. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Apple ensinam modelos de IA a reconhecerem nuances na fala: a equipe treinou os sistemas com dados públicos de vozes de pessoas com condições como Parkinson, ELA e paralisia cerebral, a fim de que a tecnologia identificasse características no áudio como voz rouca ou tensa, e o nível de fluência da fala. O avanço pode abrir caminho para assistentes virtuais mais adaptáveis à condição do usuário. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Startup de computação quântica consegue armazenar qubit lógico em apenas uma peça de hardware: atualmente, empresas do setor agrupam múltiplos qubits físicos para formar um qubit lógico, menos suscetível a falhas. Entretanto, a abordagem exige um grande volume de hardware. A Nord Quantique afirma que sua solução é capaz de detectar todos os casos em que o qubit lógico perde seu estado e desencadeia erros, mesmo que ainda não consiga corrigi-los por completo. Caso avance, o método poderá viabilizar computadores quânticos mais compactos e mais eficientes em termos de energia. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
