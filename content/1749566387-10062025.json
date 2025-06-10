@@ -1,0 +1,41 @@
+{
+    "title": "Atari vence ChatGPT / Google: falha expõe telefones / Novidades da Apple",
+    "fps": 30,
+    "timestamp": 1749566387,
+    "width": 0,
+    "height": 0,
+    "date": "10/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atari 2600 vence ChatGPT em partida de xadrez: o experimento foi conduzido pelo usuário Robert Caruso. Segundo ele, mesmo no nível iniciante, o desempenho do modelo foi surpreendentemente ruim, confundindo torres com bispos, ignorando táticas simples e frequentemente se perdendo na posição das peças. O chatbot atribuiu os erros à apresentação gráfica abstrata do console, mas continuou cometendo falhas após a troca para a notação padrão do xadrez. As informações são dos sites The Register e LinkedIn.",
+            "url": ""
+        },
+        {
+            "text": "Google corrige falha que expunha números de telefone privados de usuários: a exploração da vulnerabilidade, descoberta pelo pesquisador de segurança “brutecat”, exigia uma cadeia de ataques coordenados. Segundo ele, com o uso de um script automatizado, era possível descobrir o número de telefone de recuperação de uma conta em menos de 20 minutos. O Google afirma que não há evidências de que a falha tenha sido explorada em ataques reais. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mudança no nome de sistemas, fim do suporte a Macs Intel e outros anúncios na Apple WWDC 2025: agora, todos os sistemas operacionais da empresa adotarão o ano seguinte ao lançamento como número de versão, como iOS 26 e macOS 26; a nova linguagem de design “Liquid Glass”, inspirada no visionOS, será implementada em todas as plataformas da companhia, trazendo elementos com brilho translúcido e efeitos vítreos; o framework Foundation Models permite que desenvolvedores integrem os modelos de linguagem da Apple Intelligence em seus aplicativos; o Xcode 26 ganhou integração nativa com ChatGPT, sem necessidade de cadastro; o aplicativo Jogos virá pré-instalado nas novas versões dos sistemas, funcionando como um launcher para games, e exibindo conquistas e o que amigos estão jogando; o macOS 26 será o último compatível com Macs com processador Intel – a versão 27 exigirá Apple Silicon (M1 ou superior). As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "China restringe reconhecimento de imagens em chatbots durante exame nacional de acesso à universidade: a medida, adotada por empresas de tecnologia nacionais como Alibaba, ByteDance e DeepSeek, visa evitar que estudantes utilizem essas ferramentas de forma indevida durante o “gaokao”, aplicado entre os dias 7 e 10 de junho, e considerado a única porta de entrada para o ensino superior no país. As companhias não se pronunciaram oficialmente sobre a decisão, que foi revelada por estudantes em redes sociais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Linux Foundation lança gerenciador descentralizado de plugins para WordPress: o FAIR Package Manager surge em resposta ao conflito legal entre a WP Engine e a Automattic, sendo criado como uma alternativa neutra, eliminando a dependência de uma única fonte para entrega e atualização das extensões. A plataforma é compatível com complementos de qualquer origem, incorpora criptografia aprimorada em sua cadeia de suprimentos, e substitui comunicações via APIs do WordPress[.]org por soluções locais ou baseadas no protocolo FAIR. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla solicita que Meta suspenda feed que exibe conversas com chatbot: o Discover permite visualizar interações de outras pessoas com a Meta AI. No entanto, existe o risco de exposição involuntária de informações pessoais ou sensíveis, mesmo que o compartilhamento dependa de uma ação manual do usuário. Por isso, a Mozilla sugere que o recurso seja desativado até que proteções adequadas sejam implementadas, e que a Meta informe todos os indivíduos cujas conversas possam ter sido publicadas. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
