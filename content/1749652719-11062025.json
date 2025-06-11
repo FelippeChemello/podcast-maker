@@ -1,0 +1,41 @@
+{
+    "title": "IAs não pensam / Brasil: Android protegido / Câmeras expostas na web",
+    "fps": 30,
+    "timestamp": 1749652719,
+    "width": 0,
+    "height": 0,
+    "date": "11/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo da Apple questiona capacidade de “raciocínio” de modelos de linguagem em tarefas complexas: no experimento, sistemas como Claude 3.7 e o3-mini precisaram resolver quebra-cabeças. Na Torre de Hanói, por exemplo, ambos começaram a falhar no momento em que a atividade tornou-se mais difícil, mesmo quando recebiam o algoritmo completo da solução. Além disso, em determinado momento, eles pararam de tentar resolver o problema. Os pesquisadores questionam o termo “raciocínio”, afirmando que esses modelos não pensam de forma lógica, mas tentam várias abordagens até encontrar uma resposta que pareça plausível. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Android terá proteção contra roubo ativada por padrão no Brasil: o recurso se aplica a todos os dispositivos novos ou que passarem por uma restauração de fábrica. Entre as funcionalidades estão o bloqueio por detecção de roubo, que trava a tela do aparelho ao identificar movimentos bruscos – comuns em furtos; e o bloqueio remoto, que permite desativar o aparelho por meio do Localizador, utilizando apenas o número de telefone associado. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de segurança identificam mais de 40 mil câmeras privadas acessíveis na web em todo o mundo: a análise envolveu tanto dispositivos domésticos quanto comerciais. Segundo eles, o acesso à maioria não exige técnicas avançadas de hacking ou ferramentas especializadas, bastando um navegador e o endereço da interface do aparelho exposta na internet, embora algumas sejam mais difíceis de localizar. Os EUA lideram o ranking, com cerca de 14 mil câmeras vulneráveis. No Brasil, foram aproximadamente 500. Entretanto, estima-se que os números sejam apenas uma fração da quantidade real. As informações são dos sites The Register e Bitsight.",
+            "url": ""
+        },
+        {
+            "text": "IBM quer construir primeiro computador quântico de larga escala com correção de erros do mundo: o Starling, previsto para 2028, será composto por 200 qubits lógicos, desenvolvidos com chips próprios da empresa, e terá capacidade para realizar 100 milhões de operações lógicas com precisão – computadores quânticos atuais são capazes de apenas alguns milhares. A companhia também planeja que o sistema seja disponibilizado para usuários via nuvem até 2029. As informações são do site MIT Technology Review.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança o3-pro e anuncia redução de 80% no preço do o3: o o3-pro, considerado pela empresa como seu modelo mais avançado, já está disponível para assinantes dos planos Pro e Team, enquanto usuários Edu e Enterprise receberão acesso na próxima semana. Ele inclui funções avançadas como busca na web, análise de arquivos e execução de códigos em Python, mas não consegue gerar imagens ou utilizar o Canvas; a companhia também diminuiu o custo do o3 tradicional para 2 dólares por milhão de tokens de entrada e 8 dólares por milhão de tokens de saída. Os preços anteriores eram de 10 e 40 dólares, respectivamente. As informações são do site TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Meta estaria montando equipe para desenvolver modelo “superinteligente”: segundo fontes com conhecimento do assunto, o CEO Mark Zuckerberg considera contratações de pesquisadores, engenheiros de infraestrutura e empreendedores com experiência na área. A companhia também estaria oferecendo pacotes salariais elevados para atrair especialistas de outras empresas como Google e OpenAI – alguns deles já teriam aceitado a proposta. O conceito de “superinteligência” refere-se a modelos com capacidades intelectuais superiores às humanas. As informações são do site Engadget.",
+            "url": ""
+        }
+    ]
+}
