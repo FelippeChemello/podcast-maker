@@ -1,0 +1,45 @@
+{
+    "title": "Switch 2 bate recorde / Linux no macOS / OpenAI contrata Google",
+    "fps": 30,
+    "timestamp": 1749739203,
+    "width": 0,
+    "height": 0,
+    "date": "12/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nintendo Switch 2 torna-se console de videogame mais rapidamente vendido da história: segundo a empresa, mais de 3,5 milhões de unidades foram comercializadas nos primeiros quatro dias após o lançamento. Em comparação, o PlayStation 5 atingiu a marca de 4,4 milhões em sete semanas. O desempenho é atribuído à forte demanda acumulada e à estratégia da Nintendo de preparar um volume suficiente de unidades para supri-la. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança ferramenta open-source de desenvolvimento Linux para macOS: o Container, como o próprio nome sugere, permite executar contêineres Linux de forma nativa, criando uma pequena máquina virtual para cada um, a partir de uma interface de linha de comando. Diferentemente do Docker, o recurso foi projetado para se integrar diretamente ao ecossistema da empresa, com garantia de máxima compatibilidade no macOS 26 ou superior – a Apple afirma que não corrigirá problemas que afetem somente versões mais antigas do sistema operacional. O projeto está disponível no repositório “apple/container” do GitHub. As informações são do site NERDS xyz.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI teria fechado acordo para utilizar Google Cloud: segundo fontes com conhecimento do assunto, a infraestrutura será aplicada no treinamento e operação dos modelos da empresa. A assinatura do contrato teria sido adiada anteriormente devido ao vínculo exclusivo com a Microsoft, que terminou em janeiro. O movimento chama atenção, uma vez que a OpenAI e a divisão DeepMind, do Google, são consideradas rivais no setor. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Sam Altman afirma que consulta média no ChatGPT consome cerca de 0,32 mililitro de água: o CEO também estima que o modelo utiliza aproximadamente 0,34 watt-hora de energia por interação, comparando esse consumo ao de um forno elétrico ligado por pouco mais de um segundo ou ao de uma lâmpada de alta eficiência operando por alguns minutos. No entanto, ele não detalhou como chegou a esses números. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, 1,5 TB de dados do telescópio James Webb são liberados para uso público: entre dezembro de 2021 e junho de 2025, o projeto COSMOS-Web acumulou mais de 250 horas de observações, resultando em um catálogo contendo informações de cerca de 800 mil galáxias. A equipe ressalta que o processamento do material em um formato útil para análises científicas exige conhecimento técnico avançado e acesso a supercomputadores. As informações são do site ExtremeTech.",
+            "url": ""
+        },
+        {
+            "text": "Ultra Ethernet Consortium lança primeira especificação de Ethernet voltada a computação de alto desempenho: um dos diferenciais da UEC 1.0 é o fato de ser aberta e compatível com múltiplos fabricantes. Além disso, ela permite às empresas modernizarem suas redes com menos complexidade e sem mudanças drásticas na infraestrutura existente. Entre as possíveis aplicações estão cargas de trabalho relacionadas à IA, machine learning e data centers. As informações são do site The Linux Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Startup planeja miniaturizar aceleradores de partículas para aprimorar fabricação de chips: com o projeto Starlight, a Inversion Semiconductor busca substituir as atuais fontes de luz ultravioleta extrema — usadas na impressão de circuitos — por uma abordagem baseada em aceleração a laser por meio de plasma. O resultado é um dispositivo compacto, até mil vezes menor que aceleradores tradicionais, com potencial para fornecer até 10 quilowatts de potência. Apesar do potencial, esses lasers ainda são grandes, caros e difíceis de operar de maneira contínua, como exigido por fábricas modernas. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
