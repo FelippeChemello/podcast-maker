@@ -1,0 +1,49 @@
+{
+    "title": "Pane global de serviços / Dinamarca mira open-source / Chips de diamante",
+    "fps": 30,
+    "timestamp": 1749825493,
+    "width": 0,
+    "height": 0,
+    "date": "13/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Interrupção global no Google Cloud afeta Cloudflare e diversos serviços conectados: às 15h46 (horário de Brasília) desta quinta-feira, o Google informou que diversos serviços em diferentes locais estavam sendo afetados por um problema no Gerenciamento de Identidade e Acesso (IAM). A Cloudflare, que utiliza a infraestrutura do Google em parte dos seus produtos, também relatou dificuldades minutos antes, o que acabou provocando um efeito cascata. Como resultado, serviços como Azure, Spotify e Discord registraram instabilidades. Às 18h, o Google afirmou ter implementado medidas de mitigação. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Dinamarca substituirá produtos da Microsoft, como Office, por alternativas de código aberto: a decisão foi confirmada pela Ministra da Digitalização, que afirma que a transição será feita de forma gradual. Segundo o relatório, todos os funcionários do ministério passarão a utilizar softwares open-source até o fim deste ano. A iniciativa visa reduzir a dependência de fornecedores estrangeiros de tecnologia e ampliar o controle do país sobre sua infraestrutura digital. As informações são dos sites ZDNET e The Local.",
+            "url": ""
+        },
+        {
+            "text": "Startup planeja computadores quânticos portáteis com chips de diamante: a tecnologia proposta é baseada em lacunas de nitrogênio presentes em diamantes sintéticos, que possibilitam o funcionamento estável dos qubits sem a necessidade de resfriamento extremo. O objetivo é criar sistemas menores, com cerca de 100 qubits, para aplicações práticas, como execução de modelos de linguagem e processamento de dados esparsos, em vez de competir com computadores quânticos de grande porte. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia construirá primeira nuvem de IA industrial do mundo: a instalação será construída na Alemanha e contará com 10 mil GPUs, combinando sistemas DGX B200 e servidores RTX PRO. A iniciativa tem como objetivo apoiar fabricantes europeus em aplicações como design, engenharia, planejamento, simulação e robótica, além de atender à demanda de instituições que não possuem recursos para adquirir o equipamento necessário. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Após críticas, Wikipédia suspende resumos de artigos gerados por IA: o teste seria realizado por duas semanas no aplicativo móvel da plataforma, exibindo o texto no topo de um número limitado de artigos, mas foi interrompido apenas um dia após o lançamento, em resposta à reação negativa de editores. Um deles afirma que a iniciativa causaria “danos imediatos e irreversíveis” aos leitores e à reputação da Wikipédia como uma “fonte séria e confiável”. Apesar disso, a Wikimedia Foundation não descarta o uso da tecnologia no futuro. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Mudança no Android Open Source Project pode dificultar desenvolvimento de ROMs customizadas: o Google não utilizará mais os dispositivos Pixel como referência no projeto, substituindo-o pelo Cuttlefish, um dispositivo virtual que roda em PCs. Como resultado, no código-fonte do Android 16 a empresa não disponibilizou device trees, binários de drivers e histórico completo do kernel dos aparelhos Pixel. A medida impacta programadores de projetos como LineageOS e GrapheneOS, que agora precisarão recorrer a versões anteriores do sistema e aplicar engenharia reversa. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores descobrem primeira falha zero-click em um modelo de linguagem: a vulnerabilidade CVE-2025-32711, identificada no Microsoft 365 Copilot, ocorria por meio de um e-mail aparentemente legítimo, mas contendo um prompt injection oculto que induzia o sistema a coletar informações confidenciais de uma organização e enviá-las a servidores controlados pelos agentes da ameaça – tudo isso sem qualquer interação por parte da vítima. A Microsoft já corrigiu a falha no lado do servidor, e não há indícios de que ela tenha sido explorada ativamente. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia parceria com Mattel, fabricante da Barbie: esse é o primeiro acordo da empresa com esse tipo de setor. Embora os detalhes da colaboração ainda sejam limitados, ambas pretendem lançar seu primeiro produto ainda este ano. Como parte da parceria, funcionários da Mattel também terão acesso a ferramentas da OpenAI, incluindo o ChatGPT Enterprise. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
