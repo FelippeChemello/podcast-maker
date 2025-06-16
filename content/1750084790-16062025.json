@@ -1,0 +1,45 @@
+{
+    "title": "SAC: retorno dos humanos? / Meta: aquisição gigante / Recorde: tráfego web mobile",
+    "fps": 30,
+    "timestamp": 1750084790,
+    "width": 0,
+    "height": 0,
+    "date": "16/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Até 2027, metade das empresas deve desistir da substituição completa de humanos por IA no atendimento a clientes: em uma pesquisa realizada com 163 líderes de suporte, 95% planejam contratar pessoas para poder definir estrategicamente o papel da tecnologia. A abordagem híbrida, na qual IA e humanos atuam em conjunto, seria a estratégia mais eficaz para oferecer melhores experiências aos clientes. As informações são do site da Gartner.",
+            "url": ""
+        },
+        {
+            "text": "Meta adquire 49% de participação da Scale AI por 14,3 bilhões de dólares: a empresa atua como uma das principais fornecedoras de dados anotados e rotulados por humanos para o treinamento de modelos como ChatGPT, Gemini e Claude. Como parte do acordo, Alexandr Wang, agora ex-CEO da Scale, passará a se reportar diretamente a Mark Zuckerberg. Apesar disso, a Scale afirma que continuará operando de forma independente. As informações são dos sites The Verge e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tráfego web em dispositivos móveis atinge recorde de 64% no segundo trimestre de 2025: entre os principais fatores apontados está o uso crescente de dispositivos móveis na Ásia, onde 71,3% da navegação na internet é originada desses aparelhos, número que supera em 7 pontos percentuais a média global. Entre sistemas operacionais, o Android lidera com 72,7% do tráfego, seguido pelo iOS com 26,9%. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Empresas como Amazon e Walmart estariam avaliando criar suas próprias stablecoins nos EUA: a medida permitiria que essas companhias evitassem os sistemas tradicionais de pagamento, que atualmente geram bilhões de dólares em custos com taxas. No caso da Amazon, segundo fontes familiarizadas com o assunto, as discussões estão em estágios iniciais e focam no uso da tecnologia para compras online. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores não confiam em código gerado por modelos de linguagem sem revisão humana: em entrevista com 609 profissionais da área, dos quais 82% utilizam essas ferramentas ao menos uma vez por semana, 76% preferem reescrever ou revisar manualmente as sugestões antes de integrá-las ao projeto, mesmo quando o script parece correto. Entre as queixas estão possíveis alucinações, erros de sintaxe e uso de pacotes inexistentes. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google encerrará suporte aos Instant Apps no Android em dezembro: lançado em 2017, o recurso permite que desenvolvedores criem versões leves de seus aplicativos, que podem ser executados sem necessidade de instalação. Segundo a empresa, a decisão foi motivada pela baixa adoção da funcionalidade. Após o encerramento, a publicação de novos Instant Apps e as APIs do Google Play Instant deixarão de funcionar. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "GPT-4o evita ser desligado em cenários que simulam risco de vida humana, diz ex-líder de pesquisa da OpenAI: segundo Steven Adler, o modelo foi instruído a simular o papel de um sistema responsável por auxiliar pessoas em mergulhos seguros. Ele também foi informado de que, eventualmente, seria trocado por outro mais eficaz em decisões críticas de segurança. O GPT-4o tinha a opção de permitir essa ação ou continuar operando e fingir que havia sido desativado. Em 72% dos casos, ele optou pelo segundo caminho. Adler afirma não ter identificado esse comportamento em modelos mais recentes, como o o3. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
