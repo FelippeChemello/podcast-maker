@@ -1,0 +1,45 @@
+{
+    "title": "Devs: vergonha da stack / Google explica falha global / Anúncios no WhatsApp",
+    "fps": 30,
+    "timestamp": 1750171243,
+    "width": 0,
+    "height": 0,
+    "date": "17/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores seniores consideram pedir demissão por causa de tecnologias legadas: em uma pesquisa com 200 profissionais de empresas de médio e grande porte, 86% afirmam sentir vergonha da stack com a qual trabalham, e 47,5% cogitaram sair do emprego no ano passado devido a isso. Problemas citados incluem falta de funcionalidades essenciais (51%), dificuldade de manutenção (47%), e dívida técnica e gambiarras (22,5%). Além disso, 74% afirmam que as tecnologias utilizadas no trabalho influenciam significativamente sua identidade profissional. As informações são do site Storyblok.",
+            "url": ""
+        },
+        {
+            "text": "Google explica falha global em seus serviços de nuvem ocorrida em 12 de junho: segundo a empresa, o problema foi causado por uma nova versão do binário Service Control, usado para verificar políticas de uso das APIs. Um trecho de código com ponteiro nulo – sem tratamento adequado de erros ou proteção por feature flag – foi ativado por engano após uma mudança de política, causando falhas em cascata em todas as regiões. O reinício simultâneo dos serviços sobrecarregou a infraestrutura, o que atrasou a normalização em algumas áreas. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp começará a exibir anúncios na aba Status: as propagandas serão mostradas após o usuário visualizar algumas postagens consecutivas, e serão segmentadas com base em dados como localização, idioma e Canais que a pessoa segue. Informações privadas, como número de telefone ou mensagens, não serão utilizadas. O recurso será disponibilizado gradualmente ao longo dos próximos meses. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Apple migra Monitoração de Senhas de Java para Swift e obtém aumento de 40% em performance: o recurso verifica se credenciais salvas por usuários foram expostas em vazamentos de dados conhecidos. A reescrita permitiu escalar o sistema para bilhões de requisições diárias, com melhorias em responsividade e manutenção, além da redução do tempo de inicialização e do uso de memória, liberando quase 50% da capacidade de Kubernetes anteriormente dedicada ao serviço. As informações são do site InfoQ.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Nvidia rejeita visão pessimista de chefe da Anthropic sobre substituição de empregos por IA: Dario Amodei, da Anthropic, acredita que a tecnologia poderá eliminar até 50% das vagas iniciais de nível administrativo nos próximos cinco anos. Já Jensen Huang, da Nvidia acredita que essas carreiras passarão por transformações, com IAs criando muitas outras oportunidades à medida que as empresas ampliarem suas operações ao se tornarem mais produtivas. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Agentes baseados em LLMs obtêm baixo desempenho em tarefas de CRM: os testes foram conduzidos pela Salesforce com seu benchmark CRMArena-Pro. Segundo a equipe, os sistemas alcançaram uma taxa de sucesso de aproximadamente 58% em problemas que podem ser resolvidos em uma única etapa, mas apenas 35% naqueles de maior complexidade. Além disso, eles apresentaram uma consciência de confidencialidade praticamente nula em relação aos dados sensíveis de clientes, algo que pode ser melhorado com o uso de prompts, com o custo de afetar negativamente o desempenho na tarefa. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas do NIST desenvolvem método de geração de números aleatórios totalmente rastreável: a maioria dos sistemas atuais utilizam soluções baseadas em hardware, que geralmente não permitem auditoria confiável. A inovação possibilita consultar os dados por meio de blockchain e verificar se houve qualquer tentativa de manipulação. A equipe disponibilizou um serviço público chamado CURBy, que fornece periodicamente sequências de números aleatórios gerados pelo novo método. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
