@@ -1,0 +1,49 @@
+{
+    "title": "Xbox: nova geração / Streaming supera TV / EUA regula stablecoins",
+    "fps": 30,
+    "timestamp": 1750343870,
+    "width": 0,
+    "height": 0,
+    "date": "19/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Próxima geração do Xbox está sendo desenvolvida pela Microsoft: a empresa, em parceria com a AMD, deseja criar uma experiência de jogo que não fique restrita a uma única loja ou dispositivo. Além disso, a companhia afirma que está trabalhando em conjunto com a equipe do Windows para consolidar o sistema operacional como a principal plataforma para games. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, streaming supera audiência combinada da TV aberta e por assinatura nos EUA: segundo um relatório, a modalidade representou 44,8% de todo o consumo em maio, em comparação com os 44,2% somados da TV aberta (20,1%) e a cabo (24,1%). Desde o mesmo período de 2021, a Netflix teve um aumento de 27% na audiência, enquanto o YouTube registrou mais de 120% e respondeu por 12,5% de toda a audiência televisiva no mês passado – a maior já alcançada por uma única plataforma. Não há dados disponíveis sobre outros países. As informações são do site Nielsen.",
+            "url": ""
+        },
+        {
+            "text": "Senado dos EUA aprova primeiro projeto de lei sobre stablecoins: o GENIUS Act estabelece diretrizes para a autorização de emissores desses ativos no país, exigindo transparência, conformidade com normas contra lavagem de dinheiro e submissão à supervisão regulatória. A medida também abre caminho para que empresas como a Amazon possam emitir suas próprias moedas digitais. Essa é a primeira legislação específica sobre stablecoins a avançar em uma das casas do Congresso dos EUA. As informações são do site CoinDesk.",
+            "url": ""
+        },
+        {
+            "text": "Finlândia ativa maior bateria de areia do mundo: a estrutura de 30 m de diâmetro e 12 m de altura utiliza esteatita (popularmente conhecida como pedra-sabão) triturada para conservar calor gerado a partir de eletricidade – normalmente de fontes renováveis. Ela é capaz de armazenar até 1.000 megawatts-hora de calor por várias semanas, e sua temperatura de saída pode atingir até 400 ºC. As informações são dos sites TechCrunch e Polar Night Energy.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla testa Perplexity como motor de busca no Firefox 139: o objetivo é avaliar o potencial da ferramenta. Para ativá-la, usuários podem acessar o site oficial do Perplexity, digitar uma consulta na barra de endereços – sem pressionar Enter – e selecionar a opção “Buscar com Perplexity”. Após a primeira busca, o navegador oferecerá a opção de adicionar o modelo como motor de busca integrado. As informações são do site WindowsReport.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores propõem transformar smartphones antigos em pequenos data centers: a ideia é reduzir o descarte de lixo eletrônico. A equipe montou um protótipo em que quatro dispositivos foram conectados em um suporte impresso em 3D. Suas baterias foram removidas e a energia foi suprida por uma fonte externa. Em um teste, o sistema operou submerso para auxiliar na identificação de espécies aquáticas em tempo real, eliminando a necessidade de gravação e análise posterior na superfície. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Defesa dos EUA assina contrato de 200 milhões de dólares com OpenAI: a empresa fornecerá modelos personalizados e destinados à segurança nacional e aplicações administrativas. Segundo a companhia, este é o primeiro negócio firmado por meio de uma nova iniciativa voltada ao fornecimento de suas tecnologias para servidores dos governos federal, estadual e municipal do país. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini 2.5 Flash-Lite Preview: o modelo é descrito pela empresa como o mais rápido e eficiente, e foi projetado para oferecer desempenho superior ao 2.0 Flash-Lite em tarefas de matemática, ciência, raciocínio e processamento multimodal. O sistema está disponível nas plataformas AI Studio e Vertex AI do Google. As informações são do blog do Google.",
+            "url": ""
+        }
+    ]
+}
