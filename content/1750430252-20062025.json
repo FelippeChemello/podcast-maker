@@ -1,0 +1,45 @@
+{
+    "title": "IA gera “dívida cognitiva” / Passkey no Facebook / Bilhões de logins expostos",
+    "fps": 30,
+    "timestamp": 1750430252,
+    "width": 0,
+    "height": 0,
+    "date": "20/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores investigam acúmulo de “dívida cognitiva” no cérebro humano devido ao uso de IA em tarefas de escrita: no experimento, um grupo de participantes podia usar LLMs, e outro deveria contar com seu próprio raciocínio. Em determinado momento, ambos foram orientados a trocar de posições – os que utilizavam IA passaram a escrever sem apoio, e os que não usavam começaram a adotá-la. Segundo dados coletados por eletroencefalografia durante os testes, o grupo que escreveu sem apoio apresentou as redes neurais mais fortes, enquanto o que usou IA demonstrou o menor nível de ativação neural. As informações são do site Brain on LLM.",
+            "url": ""
+        },
+        {
+            "text": "Facebook oferecerá suporte a passkey: a funcionalidade está sendo liberada gradualmente para dispositivos Android e iOS, e poderá ser ativada por meio da Central de Contas. O Messenger também deve receber a novidade nos próximos meses, e poderá compartilhar da mesma passkey do Facebook. As informações são do site Lifehacker.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de segurança identificam 16 bilhões de logins expostos brevemente na internet: apesar do número expressivo, não se trata de uma nova violação, mas um compilado de credenciais vazadas anteriormente. A maioria dos registros, segundo a equipe, foi obtida por meio de malwares do tipo infostealer, e oferecem acesso a uma ampla variedade de serviços online, como Apple, Facebook, Google, GitHub e Telegram. Não está claro se os dados foram reunidos por agentes de segurança para fins de análise ou por cibercriminosos. As informações são do site Cybernews e BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Atualização do NFC quadruplica alcance de conexão sem contato: a partir da versão 15, a distância necessária passa de 0,5 cm para 2 cm, potencialmente beneficiando dispositivos vestíveis, como smartwatches e anéis inteligentes, que não precisarão estar perfeitamente alinhados com o terminal para conseguirem se conectar. A nova release já está disponível para membros de alto nível do NFC Forum, como Apple e Google. Não está claro se aparelhos que já utilizam a tecnologia também se beneficiarão. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria considerando ação antitruste contra Microsoft: segundo fontes com conhecimento do assunto, a alegação seria de que a Microsoft estaria explorando sua posição dominante no setor de computação em nuvem, além de cláusulas contratuais, para restringir a concorrência no mercado. A companhia é uma das principais investidoras da OpenAI. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança serviço na nuvem voltado para imprevistos e emergências: o Windows 365 Reserve permite acesso imediato a PCs virtuais prontos para uso a partir de qualquer dispositivo. A solução é voltada para situações como roubo e falhas técnicas, e oferece até 10 dias de uso por ano — que podem ser consumidos de forma contínua ou fracionada. O recurso estará disponível em breve em versão prévia, com um processo online para solicitação de acesso antecipado. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "GPT-5 pode ser lançado até setembro, segundo Sam Altman: a decisão depende do cumprimento de benchmarks internos e outros critérios estabelecidos pela empresa – caso esses padrões não sejam atingidos, o modelo pode não ser liberado ao público. Apesar da previsão, o CEO ressalta que não sabe exatamente quando o sistema estará disponível. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
