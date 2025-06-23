@@ -1,0 +1,45 @@
+{
+    "title": "Efeito ChatGPT na fala / Ataque DDoS recorde / Windows sem drivers legados",
+    "fps": 30,
+    "timestamp": 1750689657,
+    "width": 0,
+    "height": 0,
+    "date": "23/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Estudo investiga como ChatGPT está influenciando a forma como as pessoas falam: pesquisadores analisaram cerca de 280 mil vídeos em inglês de canais acadêmicos do YouTube. Segundo eles, nos 18 meses seguintes à chegada do modelo, palavras como “meticulous”, “delve” e “adept” (meticuloso, aprofundar e adepto) passaram a ser usadas até 51% mais frequentemente do que nos três anos anteriores. Além disso, a equipe sugere que a influência da tecnologia pode estar moldando a comunicação para um estilo mais estruturado, com falas mais longas e menor expressividade emocional. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare bloqueia ataque DDoS recorde de 7,3 Tbps: o volume de dados gerado chegou a 37,4 TB em apenas 45 segundos, o equivalente a cerca de 7,5 mil horas de streaming em HD. A ofensiva foi conduzida a partir de mais de 120 mil endereços IP distribuídos por 161 países, a maioria no Brasil. O ataque superou em 12% o recorde anterior, registrado em abril, com pico de 6,5 Tbps. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft removerá drivers legados do Windows Update: na primeira fase serão afetados apenas aqueles que já possuem versões mais modernas e compatíveis como substitutas. Após isso, empresas parceiras terão um período de seis meses para apresentar eventuais preocupações, antes que os componentes sejam desconsiderados permanentemente da plataforma. Dentro deste período, elas ainda poderão republicar um driver considerado legado, mas deverão apresentar uma justificativa. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Robotáxis da Tesla terão monitor humano de segurança no banco do passageiro: pelo menos inicialmente, o responsável acompanhará os usuários em todas as viagens. A medida contraria declarações anteriores de Elon Musk, que havia prometido um sistema sem supervisão de outras pessoas e sem ocupantes adicionais no veículo. O serviço foi inaugurado neste domingo em Austin, no Texas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia de bateria para carros elétricos promete autonomia superior a 1.600 quilômetros: a Eternalyte, da 24M Technologies, foi projetada para recarregar até quatro vezes mais rápido e manter uma capacidade de mais de 80% mesmo em temperaturas extremas de até 40ºC negativos. Embora tenha sido projetada para baterias de lítio-metal, a solução também é compatível com células à base de silício e grafite, abrangendo a maioria dos EVs atuais. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança formato proprietário de áudio espacial: o Apple Spatial Audio Format é compatível com o Dolby Atmos e foi projetado especialmente para dispositivos da empresa, com ênfase no visionOS. Um dos diferenciais está na capacidade de adaptar o som espacial com base no ambiente virtual em que o usuário está inserido, ajustando características como reverberação, para que o áudio combine de forma realista com o cenário. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia óculos inteligentes em parceria com Oakley: os modelos seguem o design HSTN da marca e trazem câmera frontal com capacidade de gravação em 3K, alto-falantes e microfones abertos. A bateria dura até oito horas com uso típico e até 19 horas em modo de espera. O dispositivo também integra o Meta AI, acionado por voz para responder perguntas ou executar comandos. O lançamento está previsto para até o final de setembro, com preços a partir de 399 dólares, mas sem previsão de chegada no Brasil. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
