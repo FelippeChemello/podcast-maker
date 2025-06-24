@@ -1,0 +1,45 @@
+{
+    "title": "Histórico: Gates e Torvalds / IA afetando SEO / UE: eletrônicos mais duráveis",
+    "fps": 30,
+    "timestamp": 1750776016,
+    "width": 0,
+    "height": 0,
+    "date": "24/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Bill Gates e Linus Torvalds se encontram pela primeira vez na história: o evento foi planejado por Mark Russinovich, atual CTO da plataforma Azure e cofundador do site e newsletter Sysinternals. Dave Cutler também estava presente – ele foi responsável pelo desenvolvimento do Windows NT, lançado em 1993, e que serviu como base técnica para todas as versões modernas do sistema operacional. Cutler também projetou o hipervisor do Azure. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "AI Overviews do Google reduz taxa de cliques em sites: segundo uma análise, embora a ferramenta tenha aumentando em 49% o número de impressões nas buscas, o acesso efetivo às páginas caíram 30%. Além disso, de acordo com um especialista em SEO, com base em dados de 70 usuários, a taxa média de cliques em links externos aumenta para 28% em PCs e 38% em dispositivos móveis quando o recurso está ausente, apesar de não estar claro como são esses números caso o AI Overviews esteja presente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia aprova regras para tornar dispositivos eletrônicos mais duráveis: as normas definem requisitos para comercialização de smartphones, telefones sem fio e tablets na região. Entre as exigências estão maior resistência a quedas, riscos, poeira e água; baterias capazes de manter ao menos 80% da capacidade original após 800 ciclos de carga; fornecimento de peças de reparo por pelo menos 7 anos após o fim da distribuição do modelo; e obrigatoriedade de atualizações do sistema operacional por no mínimo 5 anos após a última unidade ser vendida. As informações são do site European Commission.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft define limite de 60 dias para pontos de restauração no Windows 11: a mudança foi aplicada na atualização KB5060842 da versão 24H2 do sistema operacional, e não altera a forma como o recurso é utilizado. Anteriormente, o prazo padrão era de cerca de 90 dias. No entanto, segundo relatos de usuários, alguns pontos eram excluídos após apenas 10 dias, enquanto outros permaneciam pelo período inteiro. As informações são do site ExtremeTech.",
+            "url": ""
+        },
+        {
+            "text": "Desativar mitigações de segurança em GPUs Intel melhora em até 20% o desempenho de sistemas Linux: devido a esse impacto, a Canonical, responsável pelo Ubuntu, planeja desativar essa configuração a partir da versão 25.10 do sistema operacional. Apesar de essa medida poder expor a máquina a vulnerabilidades ainda desconhecidas, mesmo com o kernel devidamente protegido, a empresa avalia que o risco é baixo. Não está claro se o Windows ativa ou não essas mitigações por padrão. As informações são dos sites Tom’s Hardware e Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Documentos judiciais revelam detalhes sobre projeto da OpenAI com Jony Ive: segundo uma declaração do diretor de hardware da io Products, o produto não será um dispositivo intra-auricular, tampouco um vestível. Ele também afirma que o design, descrito anteriormente por Sam Altman como algo colocado no bolso ou sobre a mesa, não está finalizado e que o lançamento deve ocorrer apenas dentro de um ano, no mínimo. As declarações foram dadas em uma disputa onde a startup iyO alega que a marca “io” da io Products Inc. é excessivamente semelhante à sua. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria interessada em adquirir Perplexity: segundo fontes com conhecimento do assunto, as conversas foram realizadas entre os próprios executivos da empresa, sem envolver a administração da startup. A iniciativa estaria alinhada com os planos da Apple de integrar funcionalidades de busca baseadas em IA no Safari, o que poderia representar um distanciamento gradual da parceria com o Google. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
