@@ -1,0 +1,45 @@
+{
+    "title": "GitHub: saber programar é essencial / Vitória inédita para IA / Win 10: suporte gratuito",
+    "fps": 30,
+    "timestamp": 1750862444,
+    "width": 0,
+    "height": 0,
+    "date": "25/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO do GitHub defende que programação manual continua essencial mesmo com avanço da IA: para Thomas Dohmke, é fundamental que desenvolvedores mantenham a capacidade de modificar o código gerado por modelos. Ele também alerta que depender exclusivamente dessas ferramentas pode afetar a produtividade – por exemplo, explicar alterações simples em linguagem natural, quando seria mais prático editar o script diretamente. As informações são do site Tech in Asia.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic conquista vitória judicial inédita nos EUA sobre obras protegidas por direitos autorais: o juiz responsável concluiu que treinar – e apenas treinar – modelos com livros físicos comprados legalmente, e depois digitalizados, sem autorização dos autores, constitui uso justo. Apesar disso, a empresa ainda enfrentará um julgamento separado por ter pirateado “milhões” de obras disponíveis na internet e armazenado-as em sua própria biblioteca. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft permitirá acesso gratuito ao suporte estendido do Windows 10 até 2026: usuários deverão ativar o backup do sistema operacional, que utiliza o OneDrive. No entanto, pessoas com muitos arquivos locais precisarão adquirir espaço adicional. Em julho, o Windows 10 receberá um assistente que guiará os usuários com as possíveis opções para ingressar no Extended Security Updates (ESU) que, tradicionalmente, custará 30 dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Placa de som Sound Blaster ISA recebe atualização de driver após 30 anos: o desenvolvedor Takashi Iwai enviou um pull request ao kernel Linux 6.16-rc3 com “uma coleção de pequenas correções” relacionadas à execução de áudio no sistema, dentre as quais havia uma para o driver do modelo AWE32, lançado em 1994. Iwai destaca que a iniciativa partiu de um relatório de bug enviado após 25 anos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Linux Foundation assume governança de protocolo open-source do Google: o Agent2Agent é projetado para facilitar a integração entre diferentes agentes de IA em ambientes corporativos complexos, permitindo que esses sistemas se comuniquem e compartilhem informações com segurança. O projeto está disponível no repositório “a2aproject/A2A” no GitHub. As informações são do site The Linux Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind lança modelo visão-linguagem-ação para robôs que opera sem internet: o sistema, baseado no Gemini 2.0, permite que os dispositivos atuem de forma totalmente autônoma, garantindo maior confiabilidade em ambientes desafiadores, e mais privacidade em aplicações sensíveis, como na área da saúde. Além disso, por meio de um SDK, desenvolvedores podem adaptar o modelo para diferentes tarefas com apenas 50 a 100 demonstrações. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses alcançam 1 Gbps de transmissão de dados via satélite: o dispositivo utilizado pela equipe operava a cerca de 37 mil quilômetros da Terra. Em comparação, a velocidade média de download da Starlink é de 71 Mbps, e seus satélites ficam a aproximadamente 550 km. Além da alta velocidade, os pesquisadores conseguiram reduzir a taxa de erro na transmissão, aumentando a probabilidade de sinal utilizável de 72% para 91,1%. O projeto, entretanto, é uma prova de conceito, sem previsão de aplicação comercial. As informações são do site TechRadar.",
+            "url": ""
+        }
+    ]
+}
