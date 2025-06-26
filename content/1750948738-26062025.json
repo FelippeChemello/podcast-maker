@@ -1,0 +1,45 @@
+{
+    "title": "“IAs não farão avanços científicos” / Resumos no WhatsApp / Open-source automotivo",
+    "fps": 30,
+    "timestamp": 1750948738,
+    "width": 0,
+    "height": 0,
+    "date": "26/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cofundador da Hugging Face questiona capacidade de IAs para promover avanços científicos: para Thomas Wolf, em vez de criar “um Einstein no data center”, os LLMs serão uma geração de “puxa-sacos” digitais. Para ele, esses modelos conseguem gerar respostas plausíveis, mas ainda carecem da criatividade necessária para formular perguntas originais, o que representa o verdadeiro desafio científico. Wolf argumenta que a limitação dos modelos não está na falta de conhecimento, mas na incapacidade de desafiar os próprios limites do saber. As informações são do site Yahoo News.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp introduz resumo de mensagens não lidas: o recurso é acionado quando o usuário toca na indicação de conversas pendentes dentro de um chat, e virá desativado por padrão. Segundo a Meta, os resumos são visíveis apenas para a própria pessoa que está consultando-os. Inicialmente, o lançamento ocorre nos EUA e com suporte apenas para o inglês, mas a novidade deve chegar para outros países e idiomas ainda este ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini CLI: a ferramenta, baseada no 2.5 Pro, foi projetada para uso direto no terminal. O modelo está disponível gratuitamente por meio de uma licença do Gemini Code Assist vinculada a uma conta pessoal do Google, com uso limitado a 60 requisições por minuto e 1.000 por dia – segundo a empresa, essa é a “maior cota disponível” entre ferramentas semelhantes do setor. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Empresas do setor automotivo firmam acordo para desenvolvimento conjunto de software open-source: ao todo, 11 companhias estão participando, incluindo BMW, Mercedes-Benz e Porsche. A iniciativa adota uma abordagem code-first, que prioriza a entrega de módulos prontos para uso, em vez de longas especificações técnicas. O ecossistema é aberto, permitindo a participação de outras organizações. A meta é lançar, até 2026, uma plataforma voltada a veículos com direção autônoma. As informações são do site German Association of the Automotive Industry.",
+            "url": ""
+        },
+        {
+            "text": "HDMI Forum lança especificação oficial do HDMI 2.2: essa versão utiliza os cabos Ultra96, capazes de suportar resoluções de até 4K a 480Hz, 8K a 240Hz, 10K a 120Hz, e 16K a 60Hz, com uma velocidade de transferência de dados de 96 Gbps, em comparação com os 48 Gbps na 2.1. Além disso, a nova tecnologia Latency Indication Protocol melhora a sincronização entre áudio e vídeo, especialmente útil em setups que utilizam soundbars, por exemplo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "W3C publica Terceira Edição da especificação do formato PNG: essa é a primeira grande atualização desde 2003, quando foi publicada a Segunda Edição. Ela introduz suporte nativo a conteúdo em HDR, dados EXIF e, pela primeira vez, suporte oficial a PNGs animados (APNG). A atualização também corrige erros anteriores e incorpora pequenas melhorias técnicas. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft confirma que Family Safety está bloqueando Chrome e outros navegadores no Windows: o problema, segundo a empresa, acontece quando o browser é atualizado para uma nova versão, mesmo que ele tenha sido aprovado anteriormente pelos pais. O erro afeta sistemas com Windows 10 e 11 a partir da versão 22H2, e a companhia afirma estar trabalhando em uma correção. Por ora, recomenda-se ativar o recurso de relatório de atividade, que permite o envio correto dos pedidos de autorização dos responsáveis. As informações são do site BleepingComputer.",
+            "url": ""
+        }
+    ]
+}
