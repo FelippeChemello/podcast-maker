@@ -1,0 +1,45 @@
+{
+    "title": "STF responsabiliza redes / Swift para Android / Windows: tela preta da morte",
+    "fps": 30,
+    "timestamp": 1751035066,
+    "width": 0,
+    "height": 0,
+    "date": "27/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Supremo Tribunal Federal decide que redes sociais devem ser responsabilizadas por postagens ilegais de usuários: as empresas passam a ser obrigadas a remover esses conteúdos após receberem uma notificação extrajudicial. Antes, as plataformas só eram responsabilizadas caso descumprissem uma ordem judicial. A Corte também estabeleceu que as redes não serão punidas caso comprovem que adotaram medidas para retirar o material em tempo hábil. As informações são dos sites Agência Brasil e Associated Press.",
+            "url": ""
+        },
+        {
+            "text": "Apple trabalha em suporte oficial do Swift para Android: entre os objetivos estão definir quais versões da API e arquiteturas do sistema operacional serão compatíveis; implementar um sistema de integração contínua no projeto, com testes automatizados incluídos nos pull requests; e desenvolver ferramentas de depuração para apps escritos na linguagem da Apple voltados à plataforma do Google. Atualmente, a maioria dos aplicativos Android são escritos em Kotlin. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft substituirá tela azul da morte do Windows 11 por uma versão preta: o novo design também remove o rosto triste e o QR code, e passará a exibir o código de erro e o nome do driver que causou a falha, o que deve ajudar a identificar de forma mais precisa a origem do problema. A mudança será introduzida em uma atualização do Windows 11 prevista para ser lançada até setembro. A tela azul está presente no sistema operacional há quase 40 anos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind anuncia modelo para decifrar regiões não codificantes do DNA humano: o AlphaGenome é projetado para desvendar como essas áreas do genoma podem estar associadas a condições como câncer ou mau funcionamento interno das células. A tecnologia consegue analisar até 1 milhão de letras do DNA simultaneamente e prever milhares de propriedades biológicas. Apesar disso, o sistema ainda não é capaz de analisar genomas completos de indivíduos. A versão inicial está disponível para pesquisas não comerciais por meio da API da DeepMind. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Google lança ferramenta gratuita para diversificar receita de sites: o Offerwall permite que editores ofereçam formas variadas de acesso ao conteúdo, incluindo micropagamentos, preenchimento de pesquisas e visualização de propagandas. O recurso decide o melhor momento para ser mostrado ao visitante, mas isso também pode ser definido manualmente. A novidade está disponível no Google Ad Manager. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic libera criação de aplicativos diretamente na plataforma de chatbot do Claude: usuários podem desenvolver soluções como jogos, ferramentas educacionais e softwares de análise de dados. Os apps também poderão interagir com o modelo por meio de uma API. O recurso, ainda em fase beta, está disponível para usuários gratuitos e assinantes dos planos Pro e Max. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Montadoras afirmam que não adotarão CarPlay Ultra da Apple: o sistema substitui o painel do veículo, exibindo informações como velocidade e consumo de combustível, além de permitir ajustar o ar-condicionado, por exemplo. Fabricantes como Mercedes-Benz, Audi e Volvo resistem à mudança, e a Renault considera o nível de integração proposto pela empresa como uma intromissão excessiva em seu sistema proprietário. Por outro lado, Hyundai e Kia estão entre as que demonstram interesse no recurso. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
