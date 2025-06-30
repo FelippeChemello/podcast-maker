@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: impressoras Brother / Claude “empresário” falha / Android: segurança de rede",
+    "fps": 30,
+    "timestamp": 1751294372,
+    "width": 0,
+    "height": 0,
+    "date": "30/06/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha de segurança sem correção afeta impressoras Brother: a vulnerabilidade CVE-2024-51978 permite que um invasor gere a senha de administrador padrão do dispositivo caso tenha acesso ao número de série. Segundo a Brother, o problema só poderá ser resolvido com mudanças no processo de fabricação, e a recomendação para os aparelhos atuais é alterar as credenciais padrão pelo menu de gerenciamento acessível via web. As impressoras da marca são vendidas no Brasil, e a lista completa dos modelos afetados pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic coloca Claude no papel de empresário, e experimento falha: a versão 3.7 Sonnet do modelo ficou no comando de uma máquina de venda de lanches e bebidas, colocada no escritório da empresa, e foi apelidada de Claudius. Quando uma pessoa pediu um cubo de tungstênio, o sistema se dispôs a torná-lo disponível. Além disso, em certo momento, ele passou a acreditar que era um ser humano real, mesmo sendo instruído originalmente do contrário, e disse que começaria a entregar os itens solicitados pessoalmente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Android 16 vai alertar sobre conexões a torres possivelmente inseguras: a nova seção “Segurança da rede móvel” permitirá ativar a opção “Notificações de rede”, que emite alertas caso o dispositivo se conecte a uma rede não criptografada ou quando ela tenta acessar identificadores únicos do aparelho. Os alertas não indicam, necessariamente, uma atividade maliciosa, pois o sistema não consegue confirmar se uma torre é autêntica ou falsa. Além disso, redes legítimas podem acessar identificadores únicos ocasionalmente. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia recurso para evitar panes como a causada pela CrowdStrike: a plataforma de segurança para endpoints do Windows, ainda em fase prévia, permite que softwares de proteção operem no “user mode” – a camada onde rodam os aplicativos comuns — em vez de interagir diretamente com o kernel, ajudando a limitar o impacto de eventuais falhas. A ferramenta está disponível para fornecedores que participam do Microsoft Virus Initiative, que inclui CrowdStrike e Bitdefender. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, IA lidera ranking global de hackers éticos: o sistema Xbow obteve uma “reputação” quase 25% superior à do melhor competidor humano da HackerOne. A tecnologia conduz testes de penetração para identificar possíveis brechas, e já detectou falhas como SQL injections, cross-site scripting e execução remota de código em grandes empresas, incluindo Toyota, Disney, IBM, PayPal e Sony. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Dinamarca quer garantir direitos autorais sobre corpo, rosto e voz dos cidadãos: a medida visa proteger usuários contra deepfakes, permitindo que qualquer pessoa exija a remoção de conteúdos que utilizem suas características físicas sem consentimento. Paródias e sátiras continuarão permitidas. Empresas que não se adaptarem à nova regra poderão enfrentar “multas severas”. Segundo autoridades, trata-se da primeira legislação desse tipo na Europa. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Apple registra patente de sensor de imagem com alcance dinâmico de 20 stops: isso é superior à capacidade das melhores câmeras de cinema atuais, tornando possível registrar com alta precisão tanto as áreas mais claras quanto as mais escuras de uma cena. Além disso, o componente é compacto e foi projetado para funcionar em aparelhos como iPhones e o Vision Pro. Caso se concretize, a tecnologia poderá oferecer recursos como gravação de vídeo sem ruído em tempo real e qualidade de imagem profissional. As informações são do site YM Cinema Magazine.",
+            "url": ""
+        }
+    ]
+}
