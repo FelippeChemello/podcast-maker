@@ -1,0 +1,45 @@
+{
+    "title": "YouTuber compra marca clássica de PCs / Cobrança de web crawlers / IA: hype inadequado",
+    "fps": 30,
+    "timestamp": 1751380581,
+    "width": 0,
+    "height": 0,
+    "date": "01/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "YouTuber adquire Commodore e assume como CEO interino: Christian Simpson, também conhecido como Peri Fractic do canal Retro Recipes, assinou um acordo de compra de ações com os antigos proprietários da organização, por um valor estimado entre 1 milhão e 5 milhões de dólares. Antigos funcionários da empresa também estão confirmados nessa nova fase. Entretanto, a equipe ainda busca investidores para viabilizar totalmente o negócio. O YouTuber afirma que um novo hardware da marca está previsto para ser lançado nas próximas duas semanas. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare lança marketplace que permite a sites cobrarem bots pela raspagem de dados: no Pay per Crawl, ainda em fase beta privada, tanto o criador de conteúdo quanto a empresa que implementa o robô podem definir os valores pelos quais desejam comprar ou vender o acesso aos dados, enquanto a Cloudflare atua como intermediária nas transações. Também será possível liberar o acesso gratuitamente ou bloquear o bot totalmente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 40% dos projetos com agentes de IA serão cancelados até 2027: segundo a consultoria Gartner, a maioria dessas iniciativas ainda está em estágios iniciais, frequentemente motivadas pelo hype e aplicadas de forma inadequada. Empresas devem tomar decisões estratégicas sobre onde e como aplicar a tecnologia – por exemplo, esses sistemas podem ser úteis em contextos que envolvem tomadas de decisão, automação de fluxos de trabalho repetitivos e assistência em buscas simples. As informações são do site da Gartner.",
+            "url": ""
+        },
+        {
+            "text": "China realiza primeiro jogo de futebol com robôs humanoides totalmente autônomos: a competição reuniu equipes universitárias, que personalizaram as máquinas com seus próprios algoritmos de controle e tomada de decisão. Quatro times disputaram no formato três contra três. Durante as partidas, os robôs enfrentaram dificuldades para chutar a bola e manter o equilíbrio — alguns chegaram a cair em campo. Enquanto uns conseguiram se levantar sozinhos, outros precisaram ser removidos manualmente. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Europa coloca em operação seu primeiro supercomputador exascale: os sistemas dessa categoria conseguem realizar mais de um quintilhão de operações por segundo. A máquina em questão, chamada JUPITER, estreou na 4ª posição do ranking TOP500 de junho, e já vem sendo utilizada por pesquisadores em cálculos científicos e no projeto Destination Earth, que cria modelos digitais do planeta para monitorar fenômenos ambientais e atividades humanas. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "HP propõe sistema inspirado no CarFax para monitoramento de PCs usados: esse serviço, comum nos EUA, é utilizado para consultar o histórico de veículos usados. O “PCFax” visa oferecer informações como atendimentos de suporte técnico passados, diagnósticos e telemetria local, incluindo indicadores de integridade do disco rígido. Os dados seriam armazenados nos SSDs da HP, com proteção baseada em hardware para evitar acessos não autorizados ou adulterações. O recurso está previsto para o início de 2026. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria avaliando parceria com OpenAI ou Anthropic no desenvolvimento da nova Siri: a decisão surge diante das dificuldades enfrentadas com o uso da tecnologia própria da empresa. Para isso, ela teria solicitado que a OpenAI e a Anthropic criassem versões de seus modelos para serem testadas em sua infraestrutura privada de nuvem. O Claude é visto pela equipe interna como o mais promissor em comandos básicos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
