@@ -1,0 +1,45 @@
+{
+    "title": "Luta por “JavaScript” continua / Google + fusão nuclear / Sam Altman critica Meta",
+    "fps": 30,
+    "timestamp": 1751467154,
+    "width": 0,
+    "height": 0,
+    "date": "02/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Escritório de Marcas e Patentes dos EUA rejeita acusação de fraude da Deno Land contra Oracle sobre marca registrada “JavaScript”: na alegação, a Deno acusa a Oracle de ter enganado intencionalmente o órgão na renovação do nome em 2019, ao apresentar uma captura de tela do site do Node.js. Apesar da rejeição, a Deno afirma que não pretende incluir uma nova alegação de fraude, e que a Oracle deverá responder à petição original de cancelamento até 7 de agosto. Caso seja vitoriosa, ou a Oracle decida abrir mão da propriedade, a marca poderá se tornar de uso público. As informações são do blog da Deno.",
+            "url": ""
+        },
+        {
+            "text": "Google fecha acordo para compra antecipada de energia de fusão nuclear: diferente da fissão nuclear usada atualmente, esse tipo de energia possui uma eficiência altíssima, mas enfrenta desafios para se tornar viável. A Commonwealth Fusion Systems, empresa contratada, espera colocar sua primeira usina em operação no início da década de 2030. O contrato estabelece a aquisição de 200 megawatts, mesmo antes da usina entrar em operação. Entretanto, os reatores não devem estar prontos a tempo de contribuir para a meta do Google de zerar suas emissões líquidas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI critica investida da Meta para recrutar talentos do setor: a recém-anunciada equipe de superinteligência da Meta é liderada por Alexandr Wang (ex-Scale AI) e Nat Friedman (ex-CEO do GitHub), e composta por ex-integrantes da OpenAI – formada após Mark Zuckerberg oferecer altos pacotes salariais a essas pessoas. Para Sam Altman, a abordagem adotada pela companhia pode gerar “sérios problemas culturais” no futuro. Além disso, apesar dos grandes investimentos da Meta, ele afirma que o potencial de valorização das ações da OpenAI é “muito maior”. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia versão por assinatura do Skype para empresas: enquanto o Skype tradicional – que usava servidores na nuvem – foi descontinuado e substituído pelo Teams, o Skype for Business Server – que funciona dentro da própria infraestrutura de uma companhia – não possui um substituto. Portanto, o Skype for Business Subscription Edition foi criado para receber suporte mesmo após o encerramento das edições 2015 e 2019 no dia 14 de outubro. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Ex-engenheiro sênior do Vision Pro da Apple é acusado de roubar “volume massivo” de documentos secretos de produtos não lançados: segundo o processo, o funcionário teria alegado que estava deixando o cargo por motivos pessoais, quando, na verdade, estava a caminho da Snap para assumir uma função “substancialmente semelhante”. Como não informou que iria trabalhar em uma empresa concorrente, ele permaneceu na Apple durante o período de aviso prévio, e teria usado suas credenciais para realizar os downloads. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores transformam Renault Clio 2016 em controle de videogame de corrida: a equipe utilizou a rede CAN (Controller Area Network), que permite a comunicação entre diferentes unidades eletrônicas do veículo, para interceptar e redirecionar comandos como aceleração, frenagem e giros do volante diretamente para o SuperTuxKart, um clone open source do Mario Kart. Apesar do sucesso, houve contratempos, como falhas no sistema, bateria descarregada e desligamento automático do motor após cinco minutos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Startup Runway permitirá criação de jogos com IA: a ferramenta Game Worlds, atualmente, oferece apenas uma interface de chat com suporte à geração de texto e imagens, mas a capacidade de desenvolver games estará disponível ainda este ano. A empresa também está em negociações com estúdios do setor, tanto para aplicação da tecnologia quanto para obtenção de conjuntos de dados que possam ser utilizados no treinamento dos modelos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
