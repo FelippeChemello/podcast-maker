@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: ataque histórico / DeepSeek: CEO insatisfeito / Algoritmos: inovação teórica",
+    "fps": 30,
+    "timestamp": 1751553545,
+    "width": 0,
+    "height": 0,
+    "date": "03/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "C&amp;M Software, que conecta bancos ao sistema do PIX, sofre ataque hacker: a investida resultou em acessos indevidos a contas de reserva de, pelo menos, seis entidades financeiras, cujos nomes não foram divulgados. Segundo estimativas extraoficiais, o prejuízo pode ter alcançado algo entre 400 milhões e 3 bilhões de reais, o que pode se tornar o maior golpe do tipo já ocorrido no país. As informações são dos sites G1 e Metrópoles.",
+            "url": ""
+        },
+        {
+            "text": "DeepSeek R2 teria sido adiado por insatisfação do CEO Liang Wenfeng a respeito do desempenho: o modelo estava inicialmente previsto para maio, com a promessa de avanços na geração de código e melhorias na capacidade de raciocínio em diversos idiomas. Além desse impasse, a adoção em larga escala do sistema pode enfrentar desafios devido à escassez de chips de servidores da Nvidia na China, frente às restrições de exportação impostas pelos EUA. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Cientista da computação propõe que algoritmos podem exigir menos memória para resolver problemas: segundo o campo da complexidade computacional, a suposição tradicional é que, se a resolução exige n etapas, seriam necessários aproximadamente n bits de memória. Entretanto, para Ryan Williams, qualquer situação resolvível em tempo n pode ser solucionada usando apenas cerca de √n bits (raiz quadrada). A descoberta se baseia na técnica de redução, que transforma um problema em outro aparentemente distinto, mas matematicamente equivalente. Dessa forma, o obstáculo não estaria na quantidade de memória disponível, mas na forma como ela é utilizada. As informações são do site Scientific American.",
+            "url": ""
+        },
+        {
+            "text": "X permite que desenvolvedores criem modelos de IA para escrever Notas da Comunidade: o programa ainda está em fase piloto. Para participar, usuários precisam se cadastrar, elaborar seu “AI Note Writer” e iniciar a redação de notas em modo de teste. A empresa aprovará a primeira leva desses sistemas ainda este mês. Após isso, eles deverão obter avaliações positivas de outras pessoas da rede social, de forma constante, para garantir o direito de continuar escrevendo. As informações são do site X.",
+            "url": ""
+        },
+        {
+            "text": "Tesla registra segundo trimestre seguido de queda nas entregas de veículos: a empresa reportou cerca de 384 mil unidades entregues no segundo trimestre de 2025, uma retração de 14% em relação ao mesmo período do ano passado. No primeiro trimestre, a montadora já havia registrado uma baixa anual de 13%. Além disso, no acumulado do ano, as ações da companhia registraram queda de aproximadamente 22%. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft demitirá até 9,1 mil funcionários: o número representa cerca de 4% da força de trabalho da empresa. A divisão Xbox está entre as mais afetadas. Entre os estúdios atingidos estão King, responsável por Candy Crush; Turn 10, criadora de Forza Motorsport; e The Initiative, que será encerrado como parte do processo de reestruturação. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Figma abrirá capital na Bolsa de Valores de Nova York: a empresa protocolou oficialmente seu pedido de oferta pública inicial de ações, e será listada sob o símbolo “FIG”. Entre abril de 2024 e abril deste ano, a receita da companhia passou de 156,2 milhões para 228,2 milhões de dólares. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
