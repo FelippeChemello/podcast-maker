@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: Dev backend é preso / Eng. de software viraliza / Golpistas e Google",
+    "fps": 30,
+    "timestamp": 1751639821,
+    "width": 0,
+    "height": 0,
+    "date": "04/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Polícia prende suspeito envolvido em ataque hacker à C&amp;M Software, que conecta bancos ao sistema PIX: o indivíduo, que seria desenvolvedor back-end, confessou ter sido abordado por criminosos, recebendo 5 mil reais pelo fornecimento da sua senha, além de 10 mil para executar comandos remotos a partir de seu computador. A estimativa, neste momento, é que prejuízo seja de 800 milhões de reais, sendo o maior ataque já registrado contra o sistema financeiro nacional. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro de software viraliza ao manter múltiplos empregos simultâneos em várias startups: segundo relatos de fundadores, Soham Parekh se destacava durante os processos seletivos, sendo considerado “excelente” em entrevistas técnicas. Além disso, seu currículo e suas contribuições no GitHub chamavam a atenção. Em 2021, ele também foi destaque em uma postagem no blog da Meta, por sua atuação em projetos open-source de realidade mista com WebXR. Parekh afirma que não recomenda essa abordagem, e que agiufez isso por necessidades financeiras. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Adolescentes nos EUA passam, em média, 21,1% do tempo no celular enquanto dirigem: a pesquisa contou com mais de 1,1 mil jovens habilitados. Os principais motivos para o uso do aparelho são entretenimento (65%), envio de mensagens (40%) e GPS (30%). Além disso, mais de 25% dessas distrações duram dois segundos ou mais – tempo considerado perigoso em velocidades de rodovia. As informações são do site CNET.",
+            "url": ""
+        },
+        {
+            "text": "Golpistas pagam ao Google para disparar e-mails fraudulentos como patrocinados: as mensagens simulam comunicações legítimas – por exemplo, os Correios, avisando sobre um suposto pedido pendente, e que a vítima precisa fornecer informações como endereço, número de identidade e CPF para liberá-lo. O Google afirma que utiliza uma combinação de análise humana e automatizada para identificar violações em seu sistema de publicidade, mas não está claro como os criminosos conseguiram contornar esses mecanismos. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Profissionais de atendimento ao cliente questionam utilidade da IA no trabalho: segundo entrevistas com funcionários chineses, incluindo líderes de equipe, a tecnologia frequentemente transcreve de forma imprecisa o conteúdo das ligações, e tem dificuldades para reconhecer corretamente sequências numéricas, como números de telefone ou palavras homônimas – mesma pronúncia, mas significados distintos. Além disso, respostas automáticas e resumos textuais das chamadas exigem revisão e reescrita manuais, na maioria das vezes. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta está treinando chatbots para enviarem mensagens não solicitadas aos usuários: o recurso, ainda em fase de testes, será introduzido na plataforma AI Studio, que permite a criação de assistentes personalizados. Segundo a empresa, o sistema só poderá se comunicar com o usuário se ele já iniciou uma conversa anteriormente, e a mensagem precisa estar alinhada com o assunto abordado. Caso o primeiro contato seja ignorado, o bot não poderá tentar novamente. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Capacidade dos LLMs está dobrando a cada sete meses: segundo uma pesquisa com modelos como GPT-4o e Claude 3.7 Sonnet, até 2030, esses sistemas poderão executar, em pouco tempo e com 50% de confiabilidade, tarefas de desenvolvimento de software que hoje exigiriam de um ser humano cerca de um mês de trabalho, considerando jornadas semanais de 40 horas. Por outro lado, outros tipos de tarefas menos estruturadas, mais próximas da complexidade do mundo real, continuam sendo mais difíceis para os LLMs. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
