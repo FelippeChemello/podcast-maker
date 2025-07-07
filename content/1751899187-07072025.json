@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: bets dominam internet / Bitcoin: transferência massiva / Win 11 passa Win 10",
+    "fps": 30,
+    "timestamp": 1751899187,
+    "width": 0,
+    "height": 0,
+    "date": "07/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sites de apostas esportivas são, em conjunto, o segundo maior destino da internet no Brasil: os dados são da SimilarWeb e agrupam todas as visitas realizadas a páginas com o domínio “.bet[.]br” — restrito às empresas regularizadas. No mês de maio, foram 2,7 bilhões de acessos, atrás apenas do Google (4,9 bilhões) e superando plataformas como YouTube (1,3 bilhão), WhatsApp (759 milhões) e TikTok (740 milhões). Além disso, o Brasil responde por 99,9% do tráfego desse domínio, tornando-o o 14º mais acessado do mundo. As informações são do site Olhar Digital.",
+            "url": ""
+        },
+        {
+            "text": "80 mil Bitcoins (8,6 bilhões de dólares) são movimentados pela primeira vez desde 2011: essa é a maior transferência, em um único dia, de moedas antigas na história do setor – o recorde anterior era de 3,7 mil BTC. As carteiras, cujas identidades seguem desconhecidas, são provenientes da chamada “era Satoshi”, quando cada unidade do ativo era negociada por menos de 4 dólares. Especialistas cogitam uma possível violação de segurança como motivo da movimentação – hipótese que, se confirmada, pode representar o maior roubo da história. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, Windows 11 ultrapassa Windows 10 em número de usuários: agora em julho, o Windows 11 atingiu 52% de participação, superando os 44,6% do Windows 10. No mesmo mês do ano passado, o Windows 10 liderava com 64,9%, enquanto o Windows 11 tinha 30,8%. As informações são do site Statcounter.",
+            "url": ""
+        },
+        {
+            "text": "Apple lança modelo de linguagem open-source capaz de gerar código de maneira paralela: o DiffuCode-7B utiliza a mesma técnica de difusão do Stable Diffusion, que começa com uma imagem distorcida e vai refinando-a com base nas instruções do usuário – diferente dos sistemas autorregressivos, que produzem texto sequencialmente da esquerda para a direita e de cima para baixo. No benchmark HumanEval, ele obteve uma média de 73,2%. O modelo está disponível no site Hugging Face. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia quer garantir acesso policial a dados criptografados de cidadãos até 2030: a iniciativa visa facilitar investigações criminais, e destaca a criptografia de ponta a ponta como o “maior desafio técnico” para autoridades. Especialistas, entretanto, alertam que ferramentas com esse nível de acesso podem criar vulnerabilidades exploráveis por qualquer pessoa com conhecimento técnico. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Banda de rock criada com IA, The Velvet Sundown, ultrapassa 1 milhão de ouvintes no Spotify: ouvintes suspeitaram de farsa ao notarem que os supostos integrantes não possuíam presença digital, e que o “grupo” não tinha registros de apresentações ao vivo. Além disso, tanto as capas dos álbuns quanto a foto de perfil exibiam sinais evidentes do uso da tecnologia. A conta oficial no X confirmou neste sábado que se trata de um projeto musical sintético. No entanto, ainda não está claro quem está por trás da banda. As informações são do site CBC.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT pode abrir brechas para golpes ao sugerir URLs incorretas de grandes empresas: em testes com o GPT-4.1, ao ser solicitado a fornecer links de companhias dos setores financeiro, varejista, de tecnologia e de serviços públicos, o modelo retornou o endereço correto em apenas 66% dos casos. Em 29% das respostas, as URLs estavam inativas ou suspensas. Isso possibilita que criminosos adquiram esses sites e criem páginas fraudulentas para coletar dados de usuários desavisados. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
