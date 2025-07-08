@@ -1,0 +1,45 @@
+{
+    "title": "Gemini intrusivo / TikTok versão EUA / Apple Maps para cegos",
+    "fps": 30,
+    "timestamp": 1751985564,
+    "width": 0,
+    "height": 0,
+    "date": "08/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Android permitirá que Gemini acesse aplicativos de terceiros, mesmo com configuração desativada: a mudança entrou em vigor nesta segunda-feira e será aplicada automaticamente. Mesmo que o usuário tenha desabilitado a opção “atividade nos apps do Gemini”, disponível nas configurações do próprio assistente, os dados serão armazenados por até 72 horas, e poderão ser lidos, anotados e analisados por revisores humanos, incluindo prestadores de serviços. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "TikTok estaria desenvolvendo versão exclusiva do aplicativo para usuários dos EUA: o app original continuaria sob controle da ByteDance, enquanto a nova versão seria transferida para uma empresa norte-americana, sendo ela a única disponível nas lojas de aplicativos do país. O lançamento estaria previsto para 5 de setembro. A medida está alinhada com a proibição do TikTok nos EUA, com a condição de que a ByteDance o venda para uma companhia estadunidense. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Apple propõe tecnologia de navegação urbana para pessoas com deficiência visual: o SceneScout utiliza as APIs do Apple Maps combinadas ao GPT-4o para gerar descrições interativas do espaço, como a qualidade das calçadas e presença de cruzamentos. Em testes com 10 participantes com problemas de visão, 72% das descrições estavam corretas, mas algumas apresentavam alucinações, como a rotulagem incorreta de placas de rua. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Jack Dorsey, cofundador do Twitter, anuncia aplicativo open-source de mensagens criptografadas via Bluetooth: o Bitchat utiliza redes mesh para permitir a comunicação. Esse tipo de tecnologia costuma operar em um raio de cerca de 100 metros, mas Dorsey afirma que a solução é capaz de estender esse alcance para até 300 metros. O app ainda está em fase de TestFlight na App Store, e o código-fonte pode ser conferido no repositório “jackjackbits/bitchat” no GitHub. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam primeira impressora 3D baseada em chip do mundo: com dimensões semelhantes às de uma moeda de 10 centavos, o dispositivo é capaz de fabricar objetos bidimensionais e formas simples, como letras, utilizando feixes de luz direcionados a um reservatório de resina fotossensível, solidificada de acordo com o formato desejado em questão de segundos. A solução elimina o uso de partes móveis, presentes em impressoras 3D tradicionais. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem primeiro laser feito inteiramente com materiais comestíveis: a equipe disparou luz púrpura sobre gotículas de azeite de oliva, cuja superfície é capaz de manter os fótons refletindo internamente, aprisionando-os e criando o efeito da emissão do laser. Os autores acreditam que isso pode ser explorado em aplicações como monitoramento de propriedades de alimentos – por exemplo, concentração de açúcar ou acidez – ou medicamentos. As informações são do site Science.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores inserem comandos ocultos em artigos científicos para que IAs os avaliem positivamente: a análise envolveu pré-publicações em inglês na plataforma arXiv, e encontrou 17 artigos manipulados, voltados à área de ciência da computação e vinculados a instituições como a Universidade Columbia e a de Washington. As instruções foram disfarçadas com fontes brancas ou tamanhos de letra extremamente reduzidos. Alguns pesquisadores defendem a prática como uma forma de reagir ao uso indiscriminado de IA por revisores. As informações são do site Nikkei.",
+            "url": ""
+        }
+    ]
+}
