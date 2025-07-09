@@ -1,0 +1,45 @@
+{
+    "title": "TI: formação repensada / Alerta: Chrome e Edge / Win 11 sem bloatware",
+    "fps": 30,
+    "timestamp": 1752072015,
+    "width": 0,
+    "height": 0,
+    "date": "09/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Universidades de ciência da computação dos EUA analisam mudar grade curricular diante do avanço da IA: educadores e especialistas na área propõem reduzir o foco no ensino aprofundado de linguagens de programação, e se aproximar de um modelo mais próximo das ciências humanas, priorizando habilidades como pensamento crítico e comunicação, que vão além do domínio técnico. O objetivo é preparar os estudantes para um cenário em que a tecnologia estará presente em quase todas as profissões. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa atinge 2,3 milhões de usuários do Chrome e Edge: a RedDirection envolve 18 extensões que oferecem funcionalidades como teclados de emoji, previsão do tempo e temas escuros. No entanto, elas enviam informações do navegador para servidores controlados por agentes maliciosos. Esses complementos não continham código malicioso quando foram originalmente publicados – o malware foi adicionado posteriormente em uma atualização, mas não está claro se isso foi feito pelos desenvolvedores ou por invasores. A lista das extensões está disponível no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 pode ganhar ferramenta oficial para remover aplicativos nativos: o recurso está disponível na versão 25H2, exclusiva para membros do programa Insiders. Entre os programas que podem ser desinstalados estão Câmera, Gravador de Som, Xbox, Terminal do Windows e Bloco de Notas. A nova atualização deve ser lançada publicamente ainda este ano. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Cloudflare quer que Google permita bloqueio do AI Overviews: atualmente, não é possível desativar o recurso sem também comprometer a indexação do site nas buscas. Matthew Prince afirma estar otimista com base nas conversas que já teve com a empresa. Ele também acredita que, caso não haja uma mudança voluntária, uma legislação deverá ser aprovada exigindo que o Google separe a ferramenta do mecanismo tradicional do buscador. As informações são do site Search Engine Roundtable.",
+            "url": ""
+        },
+        {
+            "text": "Petição “Stop Killing Games” ultrapassa 1 milhão de assinaturas na União Europeia: os apoios vieram de, pelo menos, sete Estados-membros – número mínimo exigido para que a Comissão Europeia analise oficialmente os temas levantados. O texto critica a prática de estúdios que, ao descontinuar jogos online, desligam os servidores necessários para seu funcionamento, e pede que os jogadores possam continuar acessando o título nessas ocasiões. As informações são do site Euronews.",
+            "url": ""
+        },
+        {
+            "text": "LG Innotek propõe solução para viabilizar smartphones ainda mais finos: a ideia é substituir as tradicionais esferas de solda, que conectam o chip à placa mãe, por colunas de cobre. Essa estrutura permite reduzir o espaçamento entre as conexões em cerca de 20%, sem comprometer o desempenho. A empresa já registrou cerca de 40 patentes relacionadas ao novo layout e também planeja utilizá-lo em dispositivos vestíveis. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Meta contrata líder de Modelos Fundacionais da Apple para seu grupo Superintelligence Labs: Ruoming Pang liderava um time de cerca de 100 pessoas que trabalhava em recursos do Apple Intelligence. Segundo fontes próximas ao assunto, sua saída pode desencadear uma onda de desligamentos na equipe, com diversos engenheiros relatando a colegas que pretendem migrar para outras companhias, incluindo a própria Meta. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
