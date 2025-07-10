@@ -1,0 +1,45 @@
+{
+    "title": "Nvidia: valor histórico / Robô open-source / Grok 4 lançado",
+    "fps": 30,
+    "timestamp": 1752158519,
+    "width": 0,
+    "height": 0,
+    "date": "10/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nvidia torna-se primeira empresa da história a atingir mais de 4 trilhões de dólares em valor de mercado: com isso, ela assume o posto de mais valiosa do mundo, ultrapassando Microsoft e Apple. O avanço está diretamente ligado à altíssima demanda por hardware voltado à IA, o que fez com que a companhia se consolidasse como líder absoluta na fabricação de GPUs utilizadas no treinamento de LLMs. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Hugging Face lança robô de mesa voltado para aplicações open-source: o Reachy Mini, de 299 dólares, mede 28 centímetros de altura e conta com rotação completa do corpo, câmera de ângulo amplo, múltiplos microfones e alto-falante de 5 watts. O robô será vendido como um kit de montagem e poderá ser programado em Python, com suporte a JavaScript previsto para o futuro. Também estará disponível uma versão autônoma e sem fios, equipada com Raspberry Pi 5 e bateria. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "xAI anuncia Grok 4: o lançamento inclui o modelo base e a variante Heavy, que utiliza diversos agentes na resolução de um problema. No benchmark ARC-AGI 2, esse último atingiu um novo recorde de 16,2%, quase o dobro da pontuação do Claude Opus 4, da Anthropic. A empresa também está disponibilizando a assinatura SuperGrok Heavy, de 300 dólares mensais (cerca de 1.700 reais na cotação atual), que oferece acesso antecipado ao Grok 4 Heavy e futuros lançamentos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity lança navegador Comet: seu principal diferencial está na integração nativa com o mecanismo de busca desenvolvido pela própria empresa. Ele também inclui um assistente capaz de automatizar tarefas como resumir e-mails, gerenciar abas e navegar por páginas da web. O browser está disponível para assinantes do plano Max, com custo mensal de 200 dólares. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores projetam chip que pode viabilizar 5G em dispositivos IoT: a tecnologia se baseia no padrão 5G RedCap, sem depender diretamente das redes comerciais. Por ora, o protótipo funciona apenas como um receptor e opera entre 250 MHz e 3 GHz, com planos de expansão até 6 GHz. A inovação pode beneficiar aplicações em sensores industriais, dispositivos vestíveis e câmeras inteligentes. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Meta adquire 3% da EssilorLuxottica SA, maior fabricante de óculos do mundo: a empresa é dona de marcas como Ray-Ban e Oakley. O acordo está avaliado em cerca de 3,5 bilhões de dólares, e garante à Meta acesso estratégico ao conhecimento de fabricação e às redes de distribuição globais da EssilorLuxottica – passos fundamentais para transformar seus óculos inteligentes em produtos de consumo em larga escala. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido firma parceria com Google Cloud para substituir sistemas legados: cerca de 25% das aplicações no setor público britânico operam com tecnologias ultrapassadas. Em alguns órgãos policiais e unidades do sistema público de saúde, o índice chega a 70%. A iniciativa também prevê a capacitação de 100 mil servidores públicos em tecnologias digitais e IA até 2030, e espera-se economizar até 45 bilhões de libras com o setor. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
