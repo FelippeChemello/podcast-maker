@@ -1,0 +1,45 @@
+{
+    "title": "YouTube ataca “Lodo de IA” / Criptografia em risco? / EV quebra recorde",
+    "fps": 30,
+    "timestamp": 1752244782,
+    "width": 0,
+    "height": 0,
+    "date": "11/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "YouTube atualizará políticas sobre desmonetização de conteúdos “não autênticos”: essa categoria inclui vídeos produzidos em massa e excessivamente repetitivos, frequentemente criados com o uso de IA, conhecidos pela expressão em inglês “AI Slop” (algo como “Lodo de IA”) . A mudança, prevista para o dia 15, tem como objetivo ajudar os criadores a compreender melhor que tipo de conteúdo se encaixa nessa descrição e não gera receita. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação provam vulnerabilidade teórica no modelo do oráculo aleatório: essa é uma suposição em que os resultados de uma boa função hash – utilizada em criptografia – são suficientemente aleatórios para garantir segurança. O estudo indica que é possível criar programas maliciosos que conseguem gerar cenários falsos que parecem válidos. Em uma blockchain, por exemplo, um invasor poderia forjar que “a pessoa A enviou 1 milhão de dólares para a pessoa B”. O ataque é considerado tecnicamente complexo de aplicar em ambientes reais no momento. As informações são do site Quanta Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Veículo elétrico quebra recorde mundial de maior distância percorrida com uma única carga: o Air Grand Touring, da montadora Lucid, percorreu 1.205 km desde St. Moritz, na Suíça, até Munique, na Alemanha. O feito supera o recorde registrado em junho pelo Mercedes-Benz EQS 450+ (1.045 km). A viagem, no entanto, se beneficiou da topografia, começando a quase 1.800 metros acima do nível do mar e terminando em cerca de 500 metros. O uso frequente da frenagem regenerativa, que converte energia cinética em elétrica, pode ter contribuído para manter a bateria carregada. As informações são dos sites TechRadar, Yahoo Autos e Business Wire.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador alerta para extensões de navegadores que utilizam biblioteca de monetização: foram identificados 245 complementos para Chrome, Edge e Firefox que incorporam a MellowTel-js, que cria uma rede de usuários que compartilham uma fração da sua internet não utilizada para que empresas e laboratórios de IA possam raspar dados de sites – em troca, o desenvolvedor recebe uma parte da receita. O pesquisador afirma que a ferramenta injeta iframes ocultos e remove cabeçalhos de segurança em requisições, o que pode apresentar riscos. A lista das extensões está disponível no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Plataforma de recrutamento McHire, do McDonald’s, utiliza “123456” como nome de usuário e senha, expondo dados de 64 milhões de pessoas: pesquisadores de segurança conseguiram acesso administrativo e visualizaram nomes, endereços de e-mail e números de telefone. Essas informações poderiam ser exploradas por cibercriminosos em ataques de phishing direcionados. A Paradox, empresa responsável pela plataforma, corrigiu a falha e afirma que “apenas uma fração dos registros” continha dados pessoais. O McHire não está disponível no Brasil. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem agente de IA capaz de burlar blockchains de moedas digitais: o A1 consegue explorar vulnerabilidades em contratos inteligentes — softwares que executam transações automaticamente sob certas condições. Em testes com 36 desses contratos em blockchains como a da Ethereum, o modelo alcançou uma taxa de sucesso de 62,9%, extraindo um total de 9,33 milhões de dólares. A equipe ainda estuda liberar o A1 como código aberto, dado os riscos envolvidos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Austrália exigirá verificação de idade em mecanismos de busca a partir de 27 de dezembro: o objetivo é restringir o acesso de menores a conteúdos considerados prejudiciais. Empresas como Google e Microsoft poderão escolher entre diferentes métodos, como documentos com foto ou escaneamento facial. No entanto, especialistas apontam para a falta de evidências quanto à eficácia dessas abordagens, e que as restrições podem ser burladas com o uso de VPNs, por exemplo. A medida prevê multas de até 50 milhões de dólares por infração. As informações são do site ABC News.",
+            "url": ""
+        }
+    ]
+}
