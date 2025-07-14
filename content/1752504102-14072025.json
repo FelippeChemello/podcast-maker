@@ -1,0 +1,45 @@
+{
+    "title": "Reviravolta para OpenAI / IA atrasa devs / Brasil: supercomp. atualizado",
+    "fps": 30,
+    "timestamp": 1752504102,
+    "width": 0,
+    "height": 0,
+    "date": "14/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Em reviravolta, Google contrata executivos e pesquisadores do Windsurf e derruba negociação com OpenAI: o acordo, estimado em 2,4 bilhões de dólares, garante ao Google uma licença não exclusiva para determinadas tecnologias da startup. A OpenAI estava considerando adquirir o editor de código – concorrente do Cursor – por 3 bilhões de dólares, como noticiado aqui na Newsletter em maio deste ano. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "IA pode reduzir produtividade de desenvolvedores experientes: um estudo envolveu 16 profissionais em 246 tarefas reais e já familiares aos participantes. Ao utilizar a tecnologia, eles passaram menos tempo programando e um período maior elaborando prompts e aguardando respostas. Além disso, cerca de 9% da duração total do trabalho foi dedicada à revisão dos códigos, e menos de 44% das sugestões fornecidas pela IA foram aproveitadas. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Supercomputador brasileiro Santos Dumont recebe atualização: a máquina agora atinge 18,85 petaflops – quatrilhões de operações por segundo –, um aumento de 575% em relação à versão original de 2015. A expansão combinou tecnologias da Nvidia, Intel e AMD. Além do ganho de desempenho, o novo sistema de resfriamento é capaz de capturar mais de 98% do calor gerado, em comparação com os 80% da versão anterior. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Falhas críticas expõem milhões de veículos a ataques remotos via Bluetooth: as vulnerabilidades CVE-2024-45431, CVE-2024-45432, CVE-2024-45433 e CVE-2024-45434, presentes no BlueSDK, permitem a invasão do sistema de infoentretenimento de carros de montadoras como Mercedes-Benz e Volkswagen. As correções começaram a ser distribuídas em setembro de 2024, mas diversos fabricantes relataram em meados de 2025 que nunca receberam as atualizações de segurança necessárias. As informações são dos sites SecurityWeek e CyberInsider.",
+            "url": ""
+        },
+        {
+            "text": "Commodore 64 ganha nova versão após 30 anos desde seu lançamento: a edição Ultimate será o primeiro hardware lançado sob a nova gestão da empresa, após a aquisição pelo YouTuber Christian “Peri Fractic” Simpson, do canal Retro Recipes. O dispositivo promete 99% de compatibilidade com todos os jogos, cartuchos e periféricos dos anos 1980 e 1990, incluindo TVs CRT e drives de disquete. A máquina está disponível para pré-venda global em três versões, com preços a partir de 299 dólares. O envio deve começar em outubro. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, energia solar foi a maior fonte de eletricidade da União Europeia: em junho, a modalidade respondeu por 22,1% da geração elétrica do bloco, seguida pela nuclear (21,8%), eólica (15,8%), gás natural (14,4%) e hidrelétrica (12,8%). O carvão gerou apenas 6%, atingindo um novo recorde de baixa mensal. As informações são dos sites Yale Environment 360 e Ember.",
+            "url": ""
+        },
+        {
+            "text": "Novo centro de pesquisa em Londres vai explorar como IA pode permitir que humanos conversem com animais de estimação: apesar do potencial, o diretor inaugural da instituição alerta que a tecnologia é conhecida por gerar respostas que agradam os usuários, o que, segundo ele, poderia ser “desastroso” se aplicado ao bem-estar dos pets. O Jeremy Coller Centre for Animal Sentience começará suas investigações em 30 de setembro. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
