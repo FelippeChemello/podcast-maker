@@ -1,0 +1,45 @@
+{
+    "title": "SSD com autodestruição / IDE da Amazon / Windsurf adquirida",
+    "fps": 30,
+    "timestamp": 1752590425,
+    "width": 0,
+    "height": 0,
+    "date": "15/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresa anuncia SSD com capacidade de autodestruição: o P250Q-M80, da Team Group, acompanha um grande botão vermelho que, ao ser pressionado por 5 a 10 segundos, apaga todo o conteúdo armazenado sem comprometer a integridade física do componente, mesmo que a eletricidade seja interrompida. Já ao manter o botão apertado por mais de 10 segundos, o SSD realiza uma descarga de alta voltagem que destrói fisicamente os chips NAND flash. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "AWS apresenta ferramenta de programação com objetivo de profissionalizar o vibe coding: o Kiro inicia o desenvolvimento a partir do planejamento da nova funcionalidade, permitindo que os usuários definam todas as especificações antes de iniciar a geração do código. Após isso, ele cria automaticamente um documento técnico que irá guiar a sua implementação, levando em consideração também a base de código atual. O recurso está disponível gratuitamente durante o período de testes, com algumas limitações. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Cognition, criadora do agente de programação Devin, adquire Windsurf: o anúncio surge logo após o Google contratar o CEO, o cofundador e líderes da área de pesquisa da Windsurf. Como parte do acordo, cujo valor não foi revelado, a Cognition está adquirindo a propriedade intelectual e os produtos da Windsurf, além de contratar todos os funcionários que não foram para o Google. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia economia adaptativa de bateria para Windows 11: a funcionalidade será ativada ou desativada automaticamente com base na carga de trabalho do notebook, e não apenas pela porcentagem restante. Ao ser habilitada, o brilho da tela não será alterado, tornando o processo menos perceptível. A empresa já começou a testar o recurso no Canal Canary do Windows 11, e estima-se que ele chegue para todos ainda este ano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google pretende unificar Android e ChromeOS: a informação foi divulgada pelo chefe do Android na empresa. Acredita-se que a fusão entre os dois sistemas permitiria acelerar o desenvolvimento de funcionalidades e melhorar o desempenho em tablets, aumentando o potencial de concorrência com o iPad. Ainda não há previsão de quando essa união ocorrerá. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiros criam implante que trata hipoglicemia grave em pessoas com diabetes tipo 1: com tamanho aproximado ao de uma moeda de 50 centavos, o dispositivo contém um pequeno reservatório de glucagon — hormônio que eleva a glicose — em forma de pó, que se abre e libera a substância na corrente sanguínea. O acionamento pode ser feito manualmente pela pessoa ou automaticamente por um monitor de glicose. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Startup propõe substituir fitas magnéticas por tecnologia holográfica: o HoloMem pode armazenar até 200 TB por cartucho e possui vida útil estimada em 50 anos – especificações que superam em até 11 vezes as fitas magnéticas LTO-10. Além disso, ele foi projetado para ser compatível com sistemas legados de armazenamento frio, e mantém o mesmo formato físico, facilitando a substituição. Ainda não há uma data oficial de lançamento. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
