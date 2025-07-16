@@ -1,0 +1,45 @@
+{
+    "title": "BR: rede móvel mais cara / Trens hackeáveis / Recorde: relógio mais preciso",
+    "fps": 30,
+    "timestamp": 1752676868,
+    "width": 0,
+    "height": 0,
+    "date": "16/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Preço do gigabyte da internet móvel no Brasil subiu 21,4% em um ano, segundo Anatel: o valor médio pago por um GB aumentou de 5,05 para 6,13 reais entre o primeiro trimestre de 2024 e o mesmo período de 2025. Como esse valor é calculado com base nos dados consumidos, e não nos contratados, o aumento se explica, em parte, por uma redução de 9,3% no consumo típico por pessoa. Além disso, a receita por usuário nesses planos passou de 29,61 para 31,61 reais, o que indica que, mesmo usando menos dados, os consumidores estão pagando mais. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "CISA alerta que freios de trens podem ser hackeados via sinais de rádio: a vulnerabilidade CVE-2025-1727 afeta os sistemas End-of-Train (EoT) e Head-of-Train (HoT), cujo protocolo de comunicação não possui autenticação ou criptografia. O problema já era de conhecimento da Associação de Ferrovias Americanas há 20 anos, mas só agora ela está em busca de novos equipamentos e protocolos, com o início da substituição previsto para 2026. Os sistemas EoT e HoT também são utilizados em alguns trens de carga de grande porte no Brasil. As informações são do site SecurityWeek.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do NIST desenvolvem relógio atômico óptico mais preciso do mundo: o dispositivo, baseado em íon de alumínio, alcança uma precisão de até 19 casas decimais. Isso significa que ele apresentaria um erro de apenas um segundo a cada 30 bilhões de anos – mais que o dobro da idade estimada do universo, de 13,8 bilhões de anos. O avanço representa um aumento de 41% em relação ao recorde anterior, alcançado pelo Strontium 1, cuja precisão chegava a 18 casas decimais. As informações são do site do NIST.",
+            "url": ""
+        },
+        {
+            "text": "Criador do curl avalia encerrar programa de recompensas por bugs devido ao “lixo de IA”: segundo Daniel Stenberg, cerca de 20% das submissões recebidas em 2025 foram geradas pela tecnologia e apresentaram baixa qualidade, com apenas 5% delas se confirmando como vulnerabilidades reais. Além do possível encerramento do programa, Stenberg sugere que o HackerOne — plataforma que recebe as submissões — cobre uma taxa por cada envio de relatório. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "ByteDance, dona do TikTok, estaria desenvolvendo seus próprios óculos de realidade mista: o dispositivo será pequeno e leve – cerca de 127 gramas –, com o processamento sendo realizado por um acessório externo, conectado por fio. O aparelho pretende sobrepor objetos digitais à visão do mundo real e competir com produtos da Meta nesse segmento. Ainda não há previsão de lançamento e em quais regiões os óculos estarão disponíveis. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "Meta está construindo data center com 5 GW de potência: o Hyperion será utilizado no Superintelligence Lab da empresa, e ocupará uma área equivalente a quase toda ilha de Manhattan. Além dele, a companhia pretende ativar em 2026 um supercluster de 1 GW chamado Prometheus. Estima-se que, juntos, eles consumirão energia suficiente para abastecer milhões de residências. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pentágono fecha acordo de até 800 milhões de dólares com OpenAI, Google, Anthropic e xAI: as tecnologias dessas empresas serão aplicadas em contextos militares. Como parte dos contratos, as Forças Armadas dos EUA terão acesso aos modelos mais recentes do Google, e a Anthropic poderá desenvolver sistemas treinados com dados do Departamento de Defesa. Já o acordo com a OpenAI é o mesmo firmado em junho, noticiado aqui na Newsletter. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
