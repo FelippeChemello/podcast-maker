@@ -1,0 +1,45 @@
+{
+    "title": "Linux atinge marco / Malware em DNS / Gemini faz chamadas",
+    "fps": 30,
+    "timestamp": 1752763260,
+    "width": 0,
+    "height": 0,
+    "date": "17/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Linux ultrapassa 5% de participação no mercado de desktops nos EUA pela primeira vez: os dados são da plataforma Statcounter. Acredita-se que o crescimento esteja relacionado à proximidade do fim do suporte do Windows 10 e a popularização de dispositivos como o Steam Deck. Em nível global, o Linux registra 4,1%, enquanto no Brasil a participação é de 3,3%. As informações são do site OSTechNix.",
+            "url": ""
+        },
+        {
+            "text": "Hackers ocultam malware em registros DNS para driblar sistemas de segurança: a abordagem permite que scripts maliciosos não dependam de sites suspeitos ou anexos de e-mail, geralmente monitorados por antivírus. No caso observado, invasores converteram um arquivo binário do malware Joke Screenmate para o formato hexadecimal, fragmentado em diversas partes armazenadas em registros TXT. Com isso, um agente infiltrado numa rede protegida consegue realizar consultas DNS aparentemente legítimas para recuperar cada fragmento e converter para o formato original. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google permite que Gemini realize ligações para estabelecimentos comerciais em nome do usuário: inicialmente, o recurso está disponível apenas nos EUA. Ao buscar por serviços como petshops, lavanderias e oficinas mecânicas, um botão será exibido para acionar o assistente, que solicitará informações antes de fazer a chamada. Empresas que não desejam participar podem desativar a funcionalidade nas configurações do perfil no Google. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Facebook suspenderá monetização de criadores que repostam conteúdos de outras pessoas repetidamente: o usuário ficará impossibilitado de gerar receita “por um período de tempo” e terá a distribuição de suas publicações reduzida na plataforma. A Meta afirma que a nova política não deve afetar criadores que “adicionam sua perspectiva única” ao compartilhar algo. As mudanças serão implementadas gradualmente nos próximos meses. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Chips da Nvidia são as primeiras GPUs vulneráveis a ataques do tipo Rowhammer: pesquisadores demonstraram a investida, denominada “GPUhammer”, em uma RTX A6000, usada em serviços de nuvem. A técnica consiste em “martelar” – acessar repetidamente – a mesma linha de células da memória DRAM, provocando inversões de bits em linhas adjacentes. Até então, essa exploração havia sido demonstrada apenas em CPUs. Apesar disso, o ataque é considerado difícil de executar. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity oferece assinatura Pro gratuitamente a 360 milhões de usuários na Índia: a empresa fechou uma parceria com a operadora de telecomunicações Bharti Airtel, cujos clientes serão os beneficiários. Trata-se do maior acordo de distribuição já registrado globalmente nesse segmento. O plano, que custa cerca de 200 dólares por ano, oferece acesso a modelos como GPT-4.1, da OpenAI, e Claude Sonnet e Opus 4, da Anthropic. As informações são do site India Dispatch.",
+            "url": ""
+        },
+        {
+            "text": "Gartner prevê crescimento de 7,9% nos gastos globais com TI em 2025: os valores devem atingir 5,43 trilhões de dólares, com a maior parte destinada para data centers voltados para IA. A previsão se alinha com uma pesquisa realizada com 252 líderes seniores na América do Norte e Europa Ocidental, de empresas com faturamento superior a 500 milhões de dólares. Nela, 62% dos entrevistados apontam a IA como principal fator competitivo da próxima década. As informações são do site da Gartner.",
+            "url": ""
+        }
+    ]
+}
