@@ -1,0 +1,41 @@
+{
+    "title": "Bateria “eterna” / ChatGPT agent / Assembly na mão: FFmpeg até 100x mais rápido",
+    "fps": 30,
+    "timestamp": 1752849644,
+    "width": 0,
+    "height": 0,
+    "date": "18/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cientistas desenvolvem bateria nuclear capaz de energizar pequenos dispositivos por longo período de tempo sem recarga: a tecnologia utiliza materiais de perovskita combinados com carbono-14, que se decompõe lentamente e pode fornecer energia por centenas ou até milhares de anos. Por emitir radiação beta – incapaz de penetrar a pele humana e facilmente bloqueada por materiais como o alumínio –, ela é considerada biologicamente segura. Apesar disso, apenas uma fração da energia radioativa é convertida em eletricidade, resultando em uma potência inferior à de baterias de íons de lítio. Caso avance, a solução pode ser aplicada em marca-passos, sondas espaciais e drones. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança agente de uso geral integrado ao ChatGPT: o “agent” combina funcionalidades de outras ferramentas da empresa, como o Operator e o Deep Research, além de integrar-se a apps como Gmail e GitHub, ter acesso a um terminal e conectar-se a outros softwares específicos via API. O sistema obteve 41,6% no Humanity’s Last Exam, e 27,4% no FrontierMath – superando o recorde de apenas 6,3% do o4-mini. A ferramenta está disponível para assinantes dos planos Pro, Plus e Team. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Programadores aumentam desempenho de função do FFmpeg utilizando código assembly escrito manualmente: o patch mais recente eleva em 100 vezes a performance do método “rangedetect8_avx512”, que integra o filtro “colordetect” – responsável por identificar se os pixels de um vídeo estão dentro de um intervalo específico de cores. O principal destaque está na obtenção da melhoria sem o uso de compiladores pela equipe, uma das poucas que ainda trabalha diretamente com assembly, dando até aulas sobre a linguagem em seu repositório no GitHub (FFmpeg/asm-lessons). As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Empresas de IA estão despreparadas para os riscos ligados ao desenvolvimento de uma AGI: um relatório do Future of Life Institute avaliou sete companhias do setor em seis categorias, como aferição de riscos, impactos atuais e estruturas de segurança. Cada categoria recebeu notas que vão de A+ (máxima) a F (mínima), culminando em um resultado final geral. A Anthropic foi a melhor avaliada com C+, seguida por OpenAI (C), Google DeepMind (C-), xAI e Meta (D), e DeepSeek (F). Embora essas organizações tenham como objetivo a AGI, nenhuma apresentou um plano “coerente e acionável” para garantir que ela se mantenha segura e sob controle. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla anuncia suporte ao WebGPU no Firefox 141 para Windows: a tecnologia, disponível no Chrome desde 2023, oferece ao conteúdo da web uma interface moderna com a GPU do usuário, permitindo computação e renderização de alto desempenho diretamente no navegador. A empresa também planeja expandir o recurso para macOS e Linux nos próximos meses, com Android na sequência. As informações são do blog Mozilla Gfx.",
+            "url": ""
+        },
+        {
+            "text": "News Media Alliance derruba site que burlava paywalls: o 12ft[.]io, também conhecido como 12 Foot Ladder, criado por Thomas Millar, simulava que o navegador do usuário era um web crawler, o que liberava o conteúdo completo de páginas que exigiam pagamento. A associação, que representa cerca de 2 mil veículos de imprensa dos EUA e Canadá, declara que tomará “ações semelhantes” contra outras plataformas que viabilizam o mesmo tipo de prática. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
