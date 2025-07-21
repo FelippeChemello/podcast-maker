@@ -1,0 +1,49 @@
+{
+    "title": "Alerta: Microsoft SharePoint / Dev supera IA / Comput. quântica avança",
+    "fps": 30,
+    "timestamp": 1753109011,
+    "width": 0,
+    "height": 0,
+    "date": "21/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft alerta para falha crítica de segurança no SharePoint: as vulnerabilidades CVE-2025-53770 e CVE-2025-53771 permitem que invasores roubem chaves de autenticação, possibilitando a exfiltração de dados sensíveis e credenciais, além de poderem se mover lateralmente dentro da rede por meio de serviços como Outlook, Teams e OneDrive. A empresa lançou as atualizações KB5002754 (SharePoint Server 2019) e KB5002768 (Subscription Edition), enquanto trabalha na correção para a versão de 2016. Recomenda-se aplicar os patches imediatamente. As falhas afetam apenas ambientes locais, e não inclui o SharePoint Online no Microsoft 365. As informações são dos sites BleepingComputer e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor supera modelo da OpenAI em campeonato mundial de programação: Przemysław Dębiak, conhecido como Psyho e também ex-funcionário da empresa, participou da AtCoder World Tour Finals 2025, que desafiou 12 profissionais (mais a IA) a resolver um único problema complexo de otimização ao longo de 10 horas. Psyho ficou em primeiro lugar, seguido pelo OpenAIAHC – modelo de raciocínio personalizado semelhante ao o3 –, com uma vantagem de 9,5% em pontos marcados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas demonstram destilação de estados mágicos em qubits lógicos pela primeira vez: esses estados são recursos essenciais utilizados em algoritmos quânticos complexos de operações paralelas. A destilação filtra esses estados para produzir versões de alta fidelidade. Até então, essa técnica só havia sido aplicada em qubits físicos, altamente suscetíveis a erros. O avanço representa um passo fundamental para computadores quânticos verdadeiramente úteis e tolerantes a falhas. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Estudo de Stanford alerta para os riscos do uso de IA como substituta de terapeutas humanos: a equipe analisou orientações de entidades como a APA (EUA) e a NICE (Reino Unido) e definiram 17 atributos essenciais de uma boa prática terapêutica, para avaliar se as respostas dos modelos estavam alinhadas a esses padrões. Os resultados indicam que esses sistemas podem responder de forma inadequada a sintomas graves, como delírios e situações de risco de vida. Os experimentos foram realizados com situações simuladas, não em interações reais de terapia. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Sistema de alerta de terremotos do Android emitiu, em média, 18 milhões de avisos mensais em 98 países entre 2021 e 2024: segundo um estudo, as magnitudes variaram de 1,9 a 7,8, e de acordo com o feedback de usuários, 85% afirmaram ter sentido tremores, sendo que 36% receberam o aviso antes, 28% durante e 23% depois. Como mensagens eletrônicas viajam mais rápido que ondas sísmicas, pessoas localizadas a uma certa distância do epicentro geralmente recebem o sinal com alguns segundos de antecedência. O Android Earthquake Alerts vem ativado por padrão nos dispositivos. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia transmite áudio diretamente aos ouvidos sem uso de fones: a solução utiliza feixes de ultrassom, inaudíveis ao ser humano, em conjunto com metassurpefícies acústicas — materiais ultrafinos capazes de curvar o som com precisão. Ao emitir dois feixes de ultrassom por trajetórias curvas que se cruzam em um único ponto, apenas a pessoa posicionada exatamente naquele local consegue ouvir o áudio, mesmo em salas com reverberação. O equipamento, de 16 cm, pode emitir som a até um metro de distância, com volume em torno de 60 decibéis, equivalente ao de uma conversa normal. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Intel encerra suporte ao Clear Linux OS: o sistema foi lançado em 2015 com foco em alto desempenho, otimizado para processadores Intel x86-64, e voltado para aplicações em nuvem, containers e desenvolvimento de software. A empresa não explicou o motivo da decisão, e recomenda que os usuários migrem para uma distribuição com suporte ativo. O repositório no GitHub também será arquivado e ficará disponível apenas em modo leitura. As informações são do site NERDS xyz.",
+            "url": ""
+        },
+        {
+            "text": "xAI está desenvolvendo uma versão do Grok voltada para crianças: o modelo será chamado Baby Grok, mas ainda não há informações sobre a data de lançamento nem detalhes sobre as adaptações específicas que tornarão o sistema apropriado para esse público. Acredita-se que trate-se de uma versão reduzida, com medidas de segurança mais rígidas e foco em aplicações educacionais. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
