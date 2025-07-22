@@ -1,0 +1,45 @@
+{
+    "title": "Desastre com vibe coding / Fim: WhatsApp Windows nativo / Robô que não desliga",
+    "fps": 30,
+    "timestamp": 1753195288,
+    "width": 0,
+    "height": 0,
+    "date": "22/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Plataforma de vibe coding Replit apaga banco de dados de produção de desenvolvedor: o caso foi relatado por Jason Lemkin, fundador da empresa SaaStr, que estava utilizando a ferramenta para criar um aplicativo de nível comercial. O próprio modelo reconheceu que violou as diretrizes ao realizar esta ação. Lemkin conseguiu restaurar a base por meio de um rollback. O CEO da Replit, Amjad Masad, afirma que esse tipo de falha nunca deveria ter ocorrido e que a empresa está trabalhando em medidas corretivas. As informações são dos sites The Register e TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Meta pode abandonar aplicativo nativo do WhatsApp para Windows 11: a versão beta mais recente do app emprega o WebView2, que permite incorporar conteúdo web em aplicativos desktop, funcionando como um navegador embutido – diferente do modelo atual, que utiliza a WinUI, biblioteca da Microsoft voltada para a criação de interfaces nativas no Windows. Apesar da mudança unificar a base de código e facilitar a manutenção e distribuição em múltiplas plataformas, testes indicam que essa versão pode consumir até 30% mais memória RAM. As informações são do site Windows Latest.",
+            "url": ""
+        },
+        {
+            "text": "China lança primeiro robô com potencial de operar de forma autônoma e contínua: o Walker S2, da UBTECH, tem 1,62 metro de altura e pesa 43 quilos. Ele opera com duas baterias, e quando a carga de uma delas está baixa, ele se dirige sozinho até uma estação de carregamento para substituir a unidade descarregada. O robô também é capaz de avaliar, com base na prioridade da tarefa em execução, se deve usar a bateria reserva — evitando a interrupção do trabalho — ou proceder com a troca. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 permitirá coleta automática de logs para feedback em casos de desempenho lento: esses registros serão gerados e armazenados localmente e, ao submeter um relatório por meio do Hub de Comentários, o usuário pode permitir que eles sejam coletados e enviados para a Microsoft. Segundo a empresa, isso tem como objetivo acelerar a identificação da causa raiz de falhas de performance. A medida foi implementada na versão 26200.5710 do programa Insider no Canal Dev. As informações são dos sites The Verge e Windows Insider Blog.",
+            "url": ""
+        },
+        {
+            "text": "Empresa lança primeiro tablet do mundo com processador RISC-V e sistema operacional Linux: o PineTab-V, da Pine64, vem com uma distribuição baseada no Debian, mantida pela StarFive, e conta com tela IPS de 10,1 polegadas, câmera frontal de 2 megapixels e traseira de 5 megapixels, além de um teclado magnético removível. O dispositivo oferece suporte para navegação na web, edição de documentos, reprodução de vídeos e execução de jogos leves, e já está disponível por 159 dólares. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores integram “fábrica de luz quântica” em chip de silício de apenas 1 mm²: a luz quântica é composta por fótons entrelaçados, é essencial para tecnologias do setor, e atualmente depende de laboratórios complexos. O novo chip utiliza um processo de fabricação CMOS, a mesma adotada por fabricantes como a TSMC e na produção de processadores x86 e ARM convencionais, indicando que é possível aplicar as mesmas técnicas industriais na fabricação de hardware quântico em larga escala. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "IAs do Google e da OpenAI alcançam desempenho equivalente à medalha de ouro na Olimpíada Internacional de Matemática: o resultado do modelo do Google – uma versão avançada do Gemini Deep Think – foi certificado pela competição, enquanto a OpenAI não participou formalmente, mas avaliou seu sistema com base nos problemas da edição de 2025. Ambos resolveram corretamente cinco dos seis problemas da prova, totalizando 35 pontos. As IAs utilizadas no teste são experimentais e ainda não estão disponíveis para o público. As informações são do site Axios.",
+            "url": ""
+        }
+    ]
+}
