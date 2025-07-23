@@ -1,0 +1,45 @@
+{
+    "title": "Senha fraca destrói empresa / Linux: boot pode falhar / SSD: super capacidade",
+    "fps": 30,
+    "timestamp": 1753281780,
+    "width": 0,
+    "height": 0,
+    "date": "23/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Knights of Old, empresa de transporte britânica com 158 anos, encerra operações após ataque causado por senha fraca: acredita-se que a credencial, pertencente a um funcionário, tenha sido simplesmente adivinhada pelos invasores. Com isso, todos os dados foram criptografados, e servidores, backups, sistemas de recuperação de desastres e endpoints ficaram completamente comprometidos. O valor de resgate poderia chegar a 6,74 milhões de dólares, valor que a companhia não era capaz de pagar. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Chave de assinatura da Microsoft para Secure Boot expira em 11 de setembro, podendo afetar usuários do Linux: o registro garante que apenas softwares confiáveis possam ser executados durante a inicialização do sistema, e é utilizado por várias distribuições Linux para compatibilidade. Embora uma nova chave esteja disponível desde 2023, ela pode não estar instalada em muitos dispositivos, o que exigiria uma atualização de firmware por parte dos fabricantes. Usuários de Linux ainda poderão desativar o Secure Boot, caso o sistema permita. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Empresa lança SSD com maior capacidade de armazenamento do mundo: o LC9, da Kioxia, possui 245,76 TB, e foi projetado para atender aplicações como treinamento de modelos de IA e cargas de trabalho em ambientes de hiperescala. Em termos de desempenho, ele alcança velocidades de leitura de até 12 GB/s e gravação de até 3 GB/s. A companhia não revelou o preço do produto, que será comercializado exclusivamente para grandes operadores de data centers em escala global. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia ferramenta para reforçar segurança da cadeia de suprimentos em projetos open-source: o OSS Rebuild permite que desenvolvedores verifiquem a integridade dos pacotes utilizados em suas aplicações por meio da reprodução das compilações, possibilitando detectar scripts não submetidos, comprometimentos no ambiente de build e backdoors ocultos. A ferramenta oferece suporte aos ecossistemas PyPi (Python), npm (JavaScript/TypeScript) e Crates[.]io (Rust), e será expandida para outras plataformas. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança chatbot focado em privacidade: o Lumo não armazena conteúdos das conversas em servidores na nuvem, mas apenas no dispositivo do usuário, com uso de criptografia. O sistema utiliza diferentes LLMs open-source, incluindo Nemo e Small 3, da Mistral, e OpenHands 32B, da Nvidia, e ao ativar a função de busca na web, ele prioriza mecanismos que também são favoráveis à privacidade. A versão gratuita oferece um número limitado de conversas por semana, e usuários podem assinar o plano Plus, de 12,99 dólares mensais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido quer proibir pagamentos de ransomware por órgãos do setor público: a medida visa tornar essas instituições menos atrativas para hackers com motivações financeiras. Empresas privadas, apesar de não serem abrangidas pela proibição, também deverão notificar o governo caso pretendam pagar resgates, sob risco de violar sanções ao enviar dinheiro a grupos cibercriminosos. O prazo para implementação ainda não foi definido. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI pagará 30 bilhões de dólares por ano à Oracle por serviços de data center: o contrato envolve 4,5 gigawatts de capacidade – suficiente para abastecer quatro milhões de residências – e é parte do projeto Stargate, anunciado em janeiro, que visa a construção de até 20 instalações de data centers nos EUA até 2029. Para efeito de comparação, no ano fiscal de 2025, a Oracle faturou 24,5 bilhões de dólares com serviços de nuvem considerando todos os seus clientes combinados. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
