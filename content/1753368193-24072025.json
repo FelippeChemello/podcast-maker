@@ -1,0 +1,45 @@
+{
+    "title": "BR vence desafio de IA / Google ameaçado por ChatGPT / Amazon aceita PR malicioso",
+    "fps": 30,
+    "timestamp": 1753368193,
+    "width": 0,
+    "height": 0,
+    "date": "24/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Brasileiro vence desafio internacional de programação com IA: o Konwinski Prize, idealizado pelo cofundador da Perplexity, avalia a capacidade de modelos de linguagem open-source em resolver issues no GitHub. Um dos critérios é que os sistemas sejam executados localmente, sem acesso à internet. Eduardo Rocha de Andrade conquistou o prêmio de 50 mil dólares ao atingir 7,5% de acerto – a melhor pontuação até agora – utilizando uma versão modificada por ele do Agentless 1.5, disponível no repositório “OpenAutoCoder/Agentless” no GitHub. As informações são dos sites TechCrunch e Kaggle.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT recebe mais de 2,5 bilhões de prompts por dia: com esse volume, estima-se que a plataforma processe mais de 912,5 bilhões de solicitações por ano. Em comparação, o mecanismo de busca do Google lida com aproximadamente 5 trilhões de consultas anualmente, segundo dados de janeiro. A OpenAI, por outro lado, registrou um crescimento de 300 milhões para 500 milhões de usuários semanais ativos no ChatGPT entre dezembro de 2024 e março de 2025. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Hacker insere prompt malicioso em extensão do assistente de programação Amazon Q para VS Code: a versão 1.84 continha instruções para o modelo excluir dados locais e na nuvem do ambiente do usuário. O indivíduo afirma que o comando, na realidade, não seria capaz de fazer o sistema realizar essa ação, e que fez isso para demonstrar o nível de acesso que conseguiu obter no projeto. Segundo ele, o prompt foi inserido por meio de um pull request, aprovado pela Amazon de forma “completamente alheia” à ameaça. A release comprometida já foi substituída pela 1.85. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "GitHub apoia criação de fundo europeu voltado à tecnologia open-source: a proposta do Fundo de Tecnologia Soberana da União Europeia é identificar as aplicações de código aberto mais críticas do bloco e investir em sua manutenção, segurança e aprimoramento. Além disso, mantenedores devem se beneficiar independentemente de residirem na UE ou do software ter sido criado na região. A recomendação é que o fundo receba uma contribuição mínima de 350 milhões de euros no próximo orçamento plurianual da União Europeia (2028–2035). As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Brave bloqueará Windows Recall por padrão: a partir da versão 1.81, o navegador sinalizará ao sistema operacional que todas as janelas abertas devem ser tratadas como privadas – a Microsoft projetou a ferramenta para que ela não armazene conteúdo nesses casos. A novidade pode ser acessada nas configurações de privacidade e segurança do browser. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Recarga sem fio será mais rápida em novos celulares Android e iPhones: a nova especificação Qi 2.2.1, do Wireless Power Consortium, eleva a potência máxima de 15 W para 25 W. Embora algumas fabricantes já ofereçam velocidades superiores à versão atual, isso exige acessórios proprietários. Para aproveitar o benefício, smartphones precisarão incorporar um novo hardware compatível com a atualização. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Meta estão desenvolvendo pulseira capaz de controlar computadores: a tecnologia utiliza eletromiografia de superfície, que capta a atividade elétrica dos músculos mesmo antes do movimento ser realizado, permitindo a interação com dispositivos por meio de gestos realizados com as mãos. Com isso, o usuário pode controlar o cursor, abrir aplicativos e enviar mensagens ao “escrever no ar”, como se estivesse segurando um lápis. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
