@@ -1,0 +1,45 @@
+{
+    "title": "Rumor: GPT-5 em agosto / Falha no SharePoint escala / Chip 100x mais eficiente",
+    "fps": 30,
+    "timestamp": 1753454461,
+    "width": 0,
+    "height": 0,
+    "date": "25/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI estaria planejando lançar GPT-5 no início de agosto: Sam Altman afirmou que o novo modelo incorpora avanços significativos em raciocínio, mas não atingirá nível AGI imediatamente, apesar do modelo o fazer se sentir “inútil em relação à IA”. O GPT-5 ficará disponível no ChatGPT e deve incluir versões menores acessíveis via API. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Falhas no Microsoft SharePoint estão sendo exploradas para espalhar ransomware Warlock: a investida foi atribuída ao grupo Storm-2603, a partir das vulnerabilidades CVE-2025-53770 e CVE-2025-53771 – noticiadas na edição de segunda-feira –, o que representa uma escalada na campanha maliciosa, que já teria atingido pelo menos 400 organizações, incluindo a Agência de Armas Nucleares dos EUA. Recomenda-se aplicar todas as atualizações de segurança em versões compatíveis do SharePoint local. As informações são dos sites Reuters, Microsoft Security e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Startup projeta chip até 100 vezes mais eficiente que CPUs de ultrabaixo consumo para sistemas embarcados: o Electron E1, da Efficient Computer, é programável em C. Diferente de processadores tradicionais, onde cada instrução precisa ser buscada na memória antes de ser executada, o E1 distribui as instruções de um programa diretamente sobre o chip, onde cada uma é atribuída a um bloco específico da matriz, evitando consumo excessivo de energia. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Intel pode demitir aproximadamente 24 mil funcionários em 2025: no relatório financeiro do segundo trimestre de 2025, a empresa afirma que pretende terminar o ano com cerca de 75 mil “colaboradores principais”. No final de 2024, a companhia empregava 109.800 pessoas, das quais 99.500 eram consideradas “principais”, o que indicaria uma redução aproximada de 25% no quadro funcional. A Intel registrou um prejuízo de 2,9 bilhões de dólares no último trimestre. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Número de lares com TV por assinatura no Brasil atinge menor nível desde 2016: neste ano, a quantidade de residências com essa modalidade era de 22,2 milhões, e no final de 2024, caiu para 18,3 milhões. Entre os motivos apontados, o custo elevado do serviço foi citado por 56,1% dos entrevistados em 2016, e em 2024 esse percentual caiu para 31%. Já a falta de interesse aumentou de 39,1% para 58,4% no mesmo período – tendência atribuída, em parte, à popularização dos serviços de streaming, presentes em 32,7 milhões de lares. As informações são do site Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem ferramenta capaz de remover marca d’água de imagens geradas por IA: o UnMarker pode ser executado localmente e realiza o processo em poucos minutos, utilizando uma GPU Nvidia com pelo menos 32 GB de memória. Em testes com o SynthID do Google, que detecta conteúdo criado por IA, após aplicar o processo de remoção, a taxa de detecção de marca d’água caiu de 100% para 21%, bem abaixo do limite útil de 50%, segundo a equipe. O projeto está disponível no repositório “andrekassis/ai-watermark” no GitHub. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind lança modelo open-source capaz de reconstruir inscrições antigas fragmentadas: o Aeneas foi treinado com base em mais de 176 mil inscrições latinas, e pode ser adaptado para outras línguas. Ele consegue identificar padrões de redação e sintaxe, além de processar entradas multimodais e preencher lacunas em textos danificados. Uma versão interativa da ferramenta está disponível no site Predicting the Past, e o código-fonte no repositório “google-deepmind/predictingthepast” no GitHub. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
