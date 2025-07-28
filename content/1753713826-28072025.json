@@ -1,0 +1,45 @@
+{
+    "title": "Google: busca mais útil / 1º navio operado por IA / Videogame burla Discord",
+    "fps": 30,
+    "timestamp": 1753713826,
+    "width": 0,
+    "height": 0,
+    "date": "28/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia recurso de busca que organiza links de forma mais útil: o Web Guide reorganiza os resultados de forma mais eficiente, sendo capaz de classificar sites e agrupá-los por categoria, além de identificar perguntas relacionadas. A novidade pode ser testada por meio do Search Labs, sendo visualizada na aba “Web” do Google, que apresenta os resultados sem a interferência do AI Overviews. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Hyundai Glovis implantará primeiro navio porta-veículos do mundo controlado por IA: o sistema permite controle remoto parcial e otimização de rotas em tempo real, o que pode resultar em menor consumo de combustível. O Sunrise, que incorporará esses recursos, possui 229,9 metros de comprimento, 32,2 metros de largura e 36 metros de altura, com capacidade para carregar 7 mil automóveis. As informações são do site The Korean Economic Daily.",
+            "url": ""
+        },
+        {
+            "text": "Verificação de idade do Discord pode ser burlada por meio de videogame: o sistema, em operação no Reino Unido, exige o envio de uma foto do rosto ou documento de identidade. Um usuário relata ter conseguido utilizar uma imagem do personagem principal de Death Stranding, interpretado por Norman Reedus. Ao ser solicitado que abrisse a boca para confirmar que era uma pessoa real, ele utilizou o modo foto do jogo – que permite alterar expressões faciais – para simular a ação. As informações são do site PinkNews.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Microsoft revela dificuldade das pessoas de diferenciar imagens reais das geradas por IA: a taxa de acerto foi de 62% dentre um grupo com mais de 12,5 mil voluntários globais. Foram aplicadas cerca de 287 mil avaliações de conteúdos comumente encontrados na internet, evitando a seleção de exemplos extremamente enganosos ou fáceis. Os participantes tiveram mais facilidade para identificar retratos humanos falsos, mas enfrentaram dificuldades ao avaliar paisagens naturais e urbanas, cujas taxas de acerto foram de 59% e 61%, respectivamente. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "CEO da OpenAI alerta sobre falta de confidencialidade legal ao usar ChatGPT como terapeuta: segundo Sam Altman, muitas pessoas – especialmente jovens – estão utilizando o modelo para discutir questões altamente pessoais. No entanto, esse tipo de interação não conta com a proteção de sigilo médico-paciente, como ocorreria em uma consulta com um profissional. Altman ressalta que, em caso de uma disputa judicial, a empresa poderia ser legalmente obrigada a fornecer registros dessas conversas, violando a privacidade dos usuários. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas quânticos propõem nova estrutura para criptografia: o mecanismo consiste em cadeados e chaves formados por bits clássicos, mas que só podem ser gerados por computadores quânticos. Esses enigmas são projetados para serem difíceis de resolver, mesmo com a chave correta, o que garante mais segurança, já que existem algoritmos capazes de solucioná-los, embora de forma extremamente lenta. No entanto, a aplicação prática ainda está fora de alcance, visto que os computadores quânticos atuais não têm capacidade suficiente. As informações são do site Quanta Magazine.",
+            "url": ""
+        },
+        {
+            "text": "Google apresenta ferramenta para criação de miniaplicativos com IA: o Opal opera com linguagem natural, e ao receber uma instrução, ele transforma a tarefa em um fluxo de trabalho organizado em etapas visuais, facilitando a compreensão do que está sendo executado, sem a necessidade de lidar diretamente com código. A ferramenta está disponível em beta público por meio do Google Labs, inicialmente apenas nos EUA. As informações são do blog Google for Developers.",
+            "url": ""
+        }
+    ]
+}
