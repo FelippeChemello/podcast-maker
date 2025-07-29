@@ -1,0 +1,45 @@
+{
+    "title": "“Armazenamento” em pássaro / Debian evita “epocalipse” / Robôs: ping-pong eterno",
+    "fps": 30,
+    "timestamp": 1753800318,
+    "width": 0,
+    "height": 0,
+    "date": "29/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "YouTuber converte imagem em som e a “armazena” em canto de pássaro: Benn Jordan criou uma ilustração simples no formato PNG e a transformou em uma forma de onda sonora, reproduzida repetidamente para um estorninho. Ao analisar o sinal captado posteriormente, Jordan identificou que a forma de onda resultante trazia a representação da imagem original, indicando que a ave conseguiu memorizar e imitar a emissão sonora com precisão na mesma faixa de frequência. Com base no tamanho da figura original, Jordan estima que o pássaro transferiu cerca de 176 kilobytes de dados não comprimidos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Debian adotará inteiros de 64 bits para armazenar tempo e evitar novo “bug do milênio”: a medida substitui a implementação atual de 32 bits, capaz de representar o número de segundos desde 1º de janeiro de 1970 até 19 de janeiro de 2038. O novo formato permitirá registrar datas por mais de 290 bilhões de anos no futuro. A mudança será introduzida oficialmente a partir do Debian 13, codinome “Trixie”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind está treinando dois braços robóticos em partida infinita de tênis de mesa: o objetivo é permitir que as máquinas aprendam mutuamente a cada interação e aperfeiçoem gradualmente suas habilidades. Com esses dados, a equipe planeja criar um modelo geral que atue como o “cérebro” de robôs humanóides, para que sejam capazes de operar com eficiência no mundo real. O tênis de mesa foi escolhido por demandar habilidades simultâneas, como velocidade, tomada de decisão e estratégia. As informações são do site Popular Science.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança Copilot Mode no navegador Edge: o recurso é projetado para antecipar as ações do usuário e ajudá-lo com tarefas automatizadas, como agendamento de compromissos e criação de listas de compras. Também é possível solicitar ajuda contextual sobre uma página, sem a necessidade de copiar e colar o conteúdo. Com autorização, o modelo pode visualizar todas as abas abertas para entender melhor o contexto, sendo útil em casos como comparação de preços. A ferramenta já está disponível gratuitamente e ativada por padrão. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta pode anunciar smartwatch equipado com câmera em setembro: segundo fontes com conhecimento do assunto, a empresa pretende alcançar um público diferente daquele já atendido pela Apple e Samsung. O acessório também poderá funcionar como complemento aos óculos de realidade aumentada da companhia, cujo primeiro modelo deve ser lançado este ano. Acredita-se que o dispositivo seja apresentado durante a conferência Meta Connect. As informações são dos sites 9to5Mac e PhoneArena.",
+            "url": ""
+        },
+        {
+            "text": "Mistral publica auditoria sobre impacto ambiental de suas IAs: o estudo focou no modelo “Large 2”. Segundo os resultados, 85,5% das emissões de CO2 e 91% do consumo de água ocorreram durante as etapas de treinamento e inferência. Já na fase de uso atual, um único prompt médio – o equivalente à geração de uma página de texto – emite apenas 1,14 grama de CO2 e gasta somente 45 mililitros de água. Em comparação, escrever um e-mail durante 10 minutos, que seja lido por, ao menos, 1 de seus 100 destinatários, tem um impacto equivalente ao de 22,8 prompts processados pelo sistema. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas registram menor taxa de erro já alcançada em computação quântica: o número atingido foi de 0,000015%, o que equivale a uma falha a cada 6,7 milhões de operações. Segundo a equipe, essa conquista reduz significativamente a necessidade de infraestrutura dedicada à correção de erros, além de diminuir o número de qubits requerido e, consequentemente, o custo e o tamanho desses sistemas. As informações são do site LiveScience.",
+            "url": ""
+        }
+    ]
+}
