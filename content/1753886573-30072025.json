@@ -1,0 +1,45 @@
+{
+    "title": "Pesquisa Stack Overflow 2025 / Falha no Gemini CLI / YouTube estimará idade",
+    "fps": 30,
+    "timestamp": 1753886573,
+    "width": 0,
+    "height": 0,
+    "date": "30/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Stack Overflow divulga resultados da pesquisa 2025 Developer Survey: esta edição recebeu mais de 49 mil respostas de desenvolvedores em 177 países. Entre os destaques, Python registrou um aumento de 7 pontos percentuais em relação a 2024, ocupando a quarta posição no ranking de linguagens mais usadas com 57,9%, atrás de JavaScript (66%), HTML/CSS (61,9%) e SQL (58,6%); o uso de ferramentas de IA cresceu de 76% no ano passado para 84% em 2025, com 51% dos desenvolvedores profissionais utilizando-as diariamente; entre elas, Claude Sonnet é o modelo mais admirado (67,5%), enquanto o GPT é o mais desejado (51,2%); por outro lado, o sentimento positivo em relação às IAs caiu de 70% (2023-2024) para 60% em 2025; quanto ao vibe coding, 72% afirmam não utilizar esse tipo de abordagem. As informações são do site do Stack Overflow.",
+            "url": ""
+        },
+        {
+            "text": "Falha no Gemini CLI do Google permite execução de comandos maliciosos: o ataque exige que o usuário solicite à ferramenta a descrição de um pacote aparentemente legítimo, mas que contém um prompt malicioso no arquivo “README”. A instrução faz o modelo rodar um script que extrai as variáveis de ambiente — potencialmente contendo credenciais sensíveis — para um servidor controlado pelo hacker. O Google já corrigiu o problema, e recomenda-se atualizar para a versão mais recente imediatamente. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "YouTube passará a estimar idade de usuários para aplicar proteções a menores de 18 anos: a medida visa identificar indivíduos que mentem sobre essa informação em suas contas. Caso o sistema classifique uma pessoa incorretamente, ela poderá comprovar sua idade por meio de um cartão de crédito, documento de identidade ou selfie. Inicialmente, a tecnologia será implementada nas próximas semanas para um grupo restrito de usuários nos EUA. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança modo de estudo no ChatGPT: o recurso é projetado para ajudar usuários a desenvolver habilidades de pensamento crítico, em vez de apenas fornecer respostas prontas, inclusive realizando perguntas à pessoa para avaliar sua compreensão sobre o assunto. A novidade está disponível nos planos gratuito, Plus, Pro e Team, e pode ser acessada selecionando “Estudar e aprender” no menu de ferramentas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic aplicará limites semanais ao Claude Code devido à demanda “sem precedentes”: a empresa afirma que alguns usuários estão utilizando a ferramenta de forma ininterrupta. Além disso, foi identificado “um pequeno número de pessoas” compartilhando e revendendo contas, o que viola as políticas de uso. As mudanças entrarão em vigor a partir de 28 de agosto e, segundo a companhia, devem afetar menos de 5% dos assinantes com base no uso atual. As informações são dos sites Engadget e X.",
+            "url": ""
+        },
+        {
+            "text": "Frases simples fora de contexto podem triplicar taxa de erro em modelos de raciocínio: no estudo, pesquisadores desenvolveram um sistema chamado CatAttack, a partir do qual foram gerados textos distrativos incluídos em problemas de matemática apresentados ao DeepSeek R1. A inclusão desses gatilhos – que variaram de observações simples como “gatos adormecem a maior parte da vida” a conselhos financeiros genéricos – elevou o índice de falhas do sistema de 1,5% para 4,5%, um aumento de 200%. Especialistas atribuem esse comportamento a uma falha estrutural, visto que os modelos ainda têm dificuldade de filtrar informações relevantes. As informações são do site The Decoder.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT agent consegue contornar verificação “não sou um robô” da Cloudflare: o mecanismo avalia diversos sinais, como movimento do mouse e execução de JavaScript, para identificar comportamento de máquinas e aplicar um CAPTCHA. No entanto, segundo relatos, o modelo conseguiu passar pela verificação sem a necessidade de resolver o teste. Ironicamente, ao realizar a ação, ele a descreveu como um passo necessário para provar que não era um bot. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
