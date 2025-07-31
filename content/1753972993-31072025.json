@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: Opera acusa Microsoft / Proton: 2FA open-source / Base44: falha crítica",
+    "fps": 30,
+    "timestamp": 1753972993,
+    "width": 0,
+    "height": 0,
+    "date": "31/07/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Opera denuncia Microsoft ao Cade no Brasil por práticas anticompetitivas no mercado de navegadores: o caso se concentra na adoção de browsers alternativos ao Edge pelos usuários do Windows. A empresa critica a complexidade excessiva do processo para alterar o software padrão de navegação, além da promoção insistente do navegador da Microsoft dentro do sistema operacional. A companhia afirma que protocolou a queixa no Brasil pois o Opera é o terceiro mais popular no mercado local. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança aplicativo open-source para autenticação de dois fatores: o Authenticator oferece sincronização entre dispositivos e utiliza criptografia de ponta a ponta. Ele também permite a importação de códigos de outros autenticadores, realiza backups automáticos e funciona mesmo sem conexão com internet. O app está disponível para Android, iOS, Windows, macOS e Linux. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Falha crítica em plataforma de vibe coding Base44 permitia acesso não autorizado a aplicações privadas: a vulnerabilidade exigia apenas que o invasor conhecesse o “app_id”, um identificador público e facilmente acessível de qualquer software criado na ferramenta. Com esse dado, era possível utilizar uma API interna – exposta e sem autenticação – para obter o acesso privilegiado. A Wix, dona da plataforma, já aplicou correções para o problema, e não há indícios de exploração ativa. As informações são do blog da Wiz.",
+            "url": ""
+        },
+        {
+            "text": "Dropbox Passwords será descontinuado: a partir de 28 de agosto, o recurso permitirá apenas a leitura de credenciais já salvas, impedindo a adição de novas entradas e a utilização do preenchimento automático. Em 11 de setembro, o aplicativo móvel deixará de funcionar completamente. Já em 28 de outubro, o serviço será desativado de forma definitiva, com a exclusão de todos os dados. Usuários podem migrar para o 1Passwords ou outro provedor de preferência. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria desenvolvendo recurso de checkout no ChatGPT: segundo fontes com conhecimento do assunto, a funcionalidade permitirá que usuários adquiram produtos diretamente pela plataforma. Para isso, a empresa estaria negociando uma parceria com a Shopify para integrar o sistema de pagamentos. Ainda não há previsão de lançamento. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor do LibreOffice relata bloqueio de conta pela Microsoft: Mike Kaganski afirma que o caso aconteceu após ele tentar enviar um e-mail pelo Outlook para a lista de discussão do projeto. Embora a justificativa tenha sido uma violação dos termos de serviço, não está claro se o impedimento foi causado por um erro no sistema de detecção automática. Além do processo de recuperação ter falhado, ao tentar entrar em contato com o suporte da Microsoft, o acesso exigia login – que Mike não conseguia realizar. Segundo ele, a conta continua inacessível. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas utilizam aprendizado de máquina quântica para desenvolver semicondutores pela primeira vez: a equipe se concentrou na modelagem da resistência de contato ôhmica, que influencia diretamente a eficiência e o desempenho dos dispositivos. O sistema foi utilizado para prever essa resistência, visto que algoritmos clássicos tendem a falhar nesse processo quando os dados disponíveis são pequenos, ruidosos e não lineares. Em testes com cinco amostras inéditas de transistores, a solução superou sete modelos clássicos de referência. As informações são do site LiveScience.",
+            "url": ""
+        }
+    ]
+}
