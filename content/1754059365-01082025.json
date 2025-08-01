@@ -1,0 +1,45 @@
+{
+    "title": "Reddit quer ser buscador / Código inseguro com IA / Epic vence Google",
+    "fps": 30,
+    "timestamp": 1754059365,
+    "width": 0,
+    "height": 0,
+    "date": "01/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Reddit quer se consolidar como principal mecanismo de busca dos usuários: o CEO Steve Huffman justifica a decisão afirmando que “centenas de milhões” de pessoas acessam semanalmente a plataforma em busca de conselhos. Atualmente, a ferramenta de busca do site já registra mais de 70 milhões de usuários únicos ativos por semana. Como parte da estratégia de expansão, a empresa pretende tornar o Reddit Answers disponível globalmente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ferramentas de desenvolvimento com IA geram código inseguro em 45% das vezes: no estudo, foram criadas 80 tarefas de programação com quatro linguagens, envolvendo vulnerabilidades conhecidas. Entre as tecnologias, em média, o Python apresentou a maior taxa de segurança (61,7%), enquanto no Java, apenas 28,5% das gerações foram consideradas seguras. No âmbito do tipo de falha, os modelos se saíram bem com criptografia insegura (85,6%) e SQL injection (80,4%), mas tiveram baixo desempenho em cross-site scripting (13,5%) e log injection (12%). As informações são do site Veracode.",
+            "url": ""
+        },
+        {
+            "text": "Google perde recurso nos EUA em processo da Epic Games sobre reformas na Play Store: no litígio, a Epic acusa o Google de monopolizar o acesso de consumidores a aplicativos em dispositivos Android e ao sistema de pagamento dentro dos apps. Com a decisão desfavorável, o Google deverá permitir o download de lojas de aplicativos concorrentes dentro da Play Store, o que abre caminho para o lançamento da Epic Games Store na plataforma. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "CISA torna pública plataforma de análise forense e de malware: a Thorium, voltada para especialistas dos setores público e privado, é capaz de agendar mais de 1.700 tarefas por segundo e processar mais de 10 milhões de arquivos por hora por grupo de permissão, atendendo a funções críticas como análise de ataque cibernéticos e resposta a incidentes. O sistema também oferece integração com ferramentas de linha de comando, incluindo imagens Docker. O código-fonte pode ser conferido no repositório “cisagov/thorium” no GitHub. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini 2.5 Deep Think: esse é o primeiro modelo multiagente da empresa disponibilizado publicamente, sendo capaz de explorar e considerar múltiplas ideias simultaneamente antes de selecionar a melhor resposta. A companhia usou uma variação dele para conquistar uma medalha de ouro na Olimpíada Internacional de Matemática este ano. No benchmark Humanity’s Last Exam, o sistema pontuou 34,8%, à frente do Grok 4 (25,4%) e o3 (20,3%), mas ainda atrás do Grok 4 Heavy (44,4%). O modelo está disponível na assinatura Ultra do Google. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind apresenta ferramenta que mapeia Terra com alta precisão e abrangência: o AlphaEarth Foundations integra dados de múltiplas fontes e é capaz de monitorar todas as áreas terrestres e águas costeiras do planeta, mesmo em lugares onde há uma grande densidade de nuvens, facilitando decisões de cientistas sobre temas críticos como desmatamento, expansão urbana e gestão de recursos hídricos. Em testes, o sistema apresentou uma taxa de erro 24% menor, em média, do que a de outros modelos tradicionais de mapeamento. As informações são do blog do Google DeepMind.",
+            "url": ""
+        },
+        {
+            "text": "Custo médio global de uma violação de dados reduziu 9% em um ano: um relatório da IBM analisou 600 organizações impactadas entre março de 2024 e fevereiro de 2025, abrangendo 17 setores e 16 países. Neste período, o valor caiu de 4,88 milhões para 4,44 milhões de dólares. O vetor de ataque mais comum foi o phishing, presente em 16% dos casos. Além disso, o número de vítimas de ransomware que se recusaram a pagar o resgate aumentou de 59% (2024) para 63% (2025). As informações são do site da IBM.",
+            "url": ""
+        }
+    ]
+}
