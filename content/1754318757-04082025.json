@@ -1,0 +1,45 @@
+{
+    "title": "Anthropic barra OpenAI / Google volta atrás / 3 bilhões de iPhones",
+    "fps": 30,
+    "timestamp": 1754318757,
+    "width": 0,
+    "height": 0,
+    "date": "04/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Anthropic revoga acesso da OpenAI à API do Claude: segundo a empresa, a concorrente teria violado os termos de uso da ferramenta. Embora não esteja claro de que forma eles faziam uso do recurso, especula-se que a tecnologia tenha sido empregada para aprimorar as capacidades de programação do novo GPT-5, previsto para ser lançado esse mês. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google volta atrás em decisão de desativar todos os links goo[.]gl: a medida, anunciada em julho de 2024, previa o encerramento completo do endereço no dia 25 de agosto de 2025, sob a justificativa do tráfego cada vez menor. Agora, a empresa esclarece que apenas os domínios que já exibem o aviso de desativação deixarão de funcionar. Todas as demais URLs permanecerão ativas e operacionais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple atinge marca de 3 bilhões de iPhones vendidos: a informação foi divulgada pela empresa no último relatório fiscal do terceiro trimestre de 2025. A primeira geração do dispositivo foi apresentada por Steve Jobs em 2007, e a companhia alcançou 1 bilhão de unidades comercializadas em 2016. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft encerrará suporte ao Windows 11 SE em outubro de 2026: lançado em 2021, o sistema operacional foi desenvolvido como uma alternativa ao ChomeOS, voltado para o setor educacional. Ele era restrito a dispositivos de baixo custo, sem possibilidade de instalação manual em outros computadores. A empresa recomenda que usuários façam a transição para aparelhos compatíveis com outras edições do Windows 11. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI remove opção que permitia indexação de conversas do ChatGPT por mecanismos de busca: o recurso era exibido no menu de compartilhamento de uma conversa, onde uma caixa de seleção – desativada por padrão – permitia torná-la pública. Apesar de depender de uma ação explícita do usuário, havia o risco de que as pessoas ativassem a opção sem perceber que estavam expondo conteúdos pessoais ou sensíveis. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem microfone de baixo custo que capta som por meio da luz: o sistema é capaz de identificar pequenas vibrações em superfícies de objetos comuns, usando um único sensor de luz, e convertê-las em sinais audíveis — soluções atuais requerem equipamento sofisticado, como lasers e câmeras de precisão. O dispositivo pode ser útil, por exemplo, em comunicações com pessoas presas em salas ou veículos. A equipe também planeja adaptar a tecnologia para aplicações como monitoramento de frequência cardíaca e de pulso. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas do MIT criam chip de IA projetado especificamente para sinais sem fio: o MAFT-ONN atua diretamente sobre sinais de radiofrequência brutos. Em testes, ele demonstrou capacidade de classificar modulações com 95% de precisão e realizar cerca de quatro milhões de operações para reconhecer dígitos manuscritos do conjunto de dados MNIST – utilizado no treinamento e teste de algoritmos de machine learning. O dispositivo é quase 100 vezes mais rápido do que chips digitais de IA, além de consumir menos energia, e pode ser especialmente útil em futuras aplicações 6G. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
