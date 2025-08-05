@@ -1,0 +1,41 @@
+{
+    "title": "Hoje: torneio de IAs / Mozilla alerta Devs / Encrenca com AWS",
+    "fps": 30,
+    "timestamp": 1754405152,
+    "width": 0,
+    "height": 0,
+    "date": "05/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google anuncia benchmark open-source que avalia IAs em jogos estratégicos: no Kaggle Game Arena, cada par de modelos disputa centenas de partidas entre si. Hoje, será realizada uma transmissão ao vivo de uma rodada de quatro jogos de xadrez entre oito sistemas, incluindo DeepSeek R1, o4-mini, Gemini 2.5 Pro, Claude Opus 4 e Grok 4. O evento ocorrerá das 14h30 às 16h30 (horário de Brasília), e pode ser acompanhado no site oficial do projeto. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla alerta desenvolvedores de extensões sobre campanha de phishing: os golpistas estão se passando por representantes da própria empresa, enviando e-mails aparentemente legítimos que induzem os programadores a clicar em links maliciosos para atualizar suas contas, sob o risco de perder o acesso aos recursos da plataforma. A companhia não divulgou quais seriam as motivações por trás da campanha nem comentou sobre sua escala ou efetividade até o momento. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "AWS encerra abruptamente conta de desenvolvedor com 10 anos de trabalho: Abdelkader Boudih, conhecido como Seuros, afirma que o incidente ocorreu após uma “falha na verificação” de seu login, requisitada pela empresa, mas que, segundo ele, não possui documentação pública. No entanto, de acordo com uma explicação extraoficial de uma fonte interna da companhia, a equipe estava conduzindo testes em contas consideradas inativas ou com baixa atividade. Um desenvolvedor teria executado um comando que simulava sua exclusão, que não deveria causar efeitos reais. Entretanto, devido a um erro de digitação, o script apagou efetivamente todas elas. As informações são do blog de Seuros.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft se prepara para tornar framework de interface do Windows 11, WinUI, open-source: a empresa ressalta que o processo exige cuidado devido às diversas dependências e camadas proprietárias envolvidas, que não podem ser disponibilizadas publicamente em sua forma atual. A abertura da tecnologia será realizada de forma gradual. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare acusa Perplexity de raspar conteúdos da web sem autorização: a empresa estaria driblando as preferências de rastreamento de sites ao modificar o “User-Agent” do seu bot – cabeçalho HTTP que identifica o navegador e dispositivo –, fazendo-o se passar por um Chrome genérico num macOS. A companhia nega as acusações, alegando que o bot citado no relatório não pertence a ela. A Cloudflare removeu os robôs da Perplexity da sua lista de rastreadores verificados, e afirma que iniciou a investigação após reclamações de clientes. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Anthropic busca entender como e por que IAs mudam de personalidade: a equipe identificou padrões de atividade na rede neural que influenciam esses traços, chamados de “vetores de persona”. Para validar o conceito, o grupo injetou vetores específicos, incluindo malícia, bajulação ou propensão a alucinações, nos modelos open-source Qwen 2.5-7B-Instruct e Llama-3.1-8B-Instruct, a fim de observar mudanças no comportamento. A abordagem visa ajudar usuários a compreenderem melhor o perfil da IA com a qual estão interagindo, e evitar alterações indesejadas. As informações são do site da Anthropic.",
+            "url": ""
+        }
+    ]
+}
