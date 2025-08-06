@@ -1,0 +1,45 @@
+{
+    "title": "Supersalário: pesquisador de IA / OpenAI: modelos abertos / Marca d’água em luz",
+    "fps": 30,
+    "timestamp": 1754491551,
+    "width": 0,
+    "height": 0,
+    "date": "06/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisador de IA contratado pela Meta receberá 327 vezes mais que o “pai da bomba atômica”: a empresa ofereceu a Matt Deitke, de 24 anos, uma pacote de remuneração no valor de 250 milhões de dólares ao longo de quatro anos – uma média de 62,5 milhões por ano. Robert Oppenheimer recebia cerca de 10 mil dólares por ano em 1943 (190,8 mil na inflação de hoje). O contrato também supera em 35 milhões o acordo mais recente do jogador de basquete Stephen Curry com o Golden State Warriors. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança modelos de raciocínio abertos: o gpt-oss-120b pode ser executado localmente em GPUs com pelo menos 80 GB de VRAM, enquanto o gpt-oss-20b funciona em dispositivos com 16 GB de RAM. Os sistemas são restritos a tarefas baseadas apenas em texto, e podem ser integrados a LLMs proprietários da empresa, hospedados na nuvem, para realizar outros tipos de processamento. Ambos estão disponíveis gratuitamente para download na plataforma Hugging Face, sob a licença Apache 2.0. As informações são dos sites TechCrunch e OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam luz como meio para inserir marcas d’água em vídeos: a técnica consiste em pequenas flutuações na iluminação, invisíveis a olho nu, mas que podem ser captadas por qualquer câmera. Cada variação carrega um código secreto, que pode ser usado posteriormente para verificar a autenticidade do conteúdo. Lâmpadas comuns, por exemplo, podem ser adaptadas com um chip do tamanho de um selo postal, capaz de controlar o brilho conforme o script. Se o vídeo for manipulado, as edições entram em conflito com os padrões. Caso seja gerado por IA, as variações tornam-se apenas um ruído aleatório. As informações são do site da Universidade Cornell.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas conseguem, pela primeira vez, fazer uma fração dos fótons de um laser atravessar uma cabeça humana: a solução visa unir a profundidade de análise da ressonância magnética funcional com a praticidade do eletroencefalograma. Em um experimento com um voluntário, a equipe mediu o tempo que milhões de fótons levaram para atravessar sua cabeça, saindo de um laser de 1,2 watt com comprimento de onda de 800 nanômetros, até alcançar um detector posicionado do outro lado. O objetivo agora é estudar como essa tecnologia pode ser aplicada em ambientes clínicos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de inteligência reporta o que pode ser o maior roubo de Bitcoin em valor monetário da história: o incidente, ocorrido em dezembro de 2020, envolveu 127.426 BTC – o equivalente a 3,5 bilhões de dólares na época e 14,5 bilhões atualmente. O alvo foi o pool de mineração LuBian, que encerrou suas operações no início de 2021, sem comunicar o ocorrido. Os ativos furtados teriam ficado estagnados até julho de 2024, quando houve uma consolidação de carteira. Apesar da magnitude, o maior roubo de Bitcoins em número de moedas continua atrelado à corretora Mt. Gox em 2014, quando cerca de 850 mil BTC foram extraviados. As informações são dos sites Tom’s Hardware, Crypto Briefing e CCN.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia medidas para promover uso mais saudável do ChatGPT: o modelo será melhor em reconhecer sinais de sofrimento mental ou emocional. Em situações envolvendo dúvidas sobre terminar um relacionamento, por exemplo, o chatbot passará a sugerir possíveis caminhos em vez de uma resposta direta. Além disso, quando o usuário estiver interagindo com o sistema por um período prolongado, ele exibirá uma notificação sugerindo uma pausa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind anuncia Genie 3: o modelo é capaz de criar mundos interativos a partir de textos ou imagens. O ambiente gerado é contínuo, pode ser modificado em tempo real e explorado por meio de comandos de teclado. O sistema suporta resolução de até 720p a 24 quadros por segundo – em comparação com 360p do Genie 2 –, e consegue lembrar de informações do cenário, como elementos fora de vista, por muito mais tempo. Inicialmente, a tecnologia está disponível como uma prévia limitada de pesquisa a um grupo restrito de acadêmicos e criadores. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
