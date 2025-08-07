@@ -1,0 +1,41 @@
+{
+    "title": "Vazou: GPT-5 / Google rebate críticas / iPad: controle pela mente",
+    "fps": 30,
+    "timestamp": 1754577880,
+    "width": 0,
+    "height": 0,
+    "date": "07/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub vaza detalhes sobre GPT-5 antes do lançamento: em uma publicação, já removida, foi revelado que o modelo estará disponível nas versões padrão (tarefas lógicas e multietapas), mini (mais leve), nano (rápido e com baixa latência), e chat (conversas naturais e avançadas). O sistema também foi descrito como capaz de lidar com tarefas complexas de programação a partir de poucas instruções. A OpenAI realizará uma transmissão ao vivo hoje às 15h (horário de Brasília), com expectativa de apresentar oficialmente o GPT-5. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google rebate críticas de que AI Overviews têm impactado tráfego de sites: segundo a empresa, o volume total de cliques orgânicos permanece “relativamente estável” em comparação ao ano anterior. A ferramenta também estaria ampliando a visibilidade de links nas páginas de resultados, criando novas oportunidades para que sites sejam exibidos e clicados. Além disso, a companhia ressalta que buscas mais elaboradas continuam gerando tráfego, visto que usuários ainda acessam páginas para se aprofundarem sobre um tema. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Homem com Esclerose Lateral Amiotrófica controla iPad por meio de implante cerebral: o feito foi realizado graças ao dispositivo Stentrode, da Synchron, inserido nos vasos sanguíneos do cérebro, captando a intenção motora do usuário. Os sinais são transmitidos sem fio a um decodificador externo, que interpreta os comandos e os repassa ao iPad. A tecnologia também utiliza o protocolo proprietário da Apple que permite o controle de seus dispositivos por meio de Interfaces Cérebro-Computador. As informações são do site NERDS xyz.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores manipulam Gemini usando eventos do Google Agenda para controlar dispositivos inteligentes: a técnica, batizada de “promptware”, consiste na criação de um compromisso com instruções maliciosas que remetem ao Google Home, executadas quando o usuário solicita ao modelo para resumir seus eventos. A partir disso, foi possível controlar luzes, termostatos e persianas. O Google, em colaboração com os pesquisadores, já lançou correções para a vulnerabilidade. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "GitHub remove repositório que expôs certificados do DRM Microsoft PlayReady: o sistema é adotado por serviços como Netflix, Prime Video e Disney+ para evitar pirataria. O vazamento, feito pela conta “Widevineleak”, publicou uma lista de certificados das variantes SL2000 e SL3000 – esse último é utilizado para proteger conteúdos 4K e UHD. A Amazon também baniu contas que tentaram utilizar as credenciais expostas em sua plataforma. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Google pausará cargas de trabalho de IA nos EUA durante picos de demanda de energia: a medida faz parte de um acordo com duas distribuidoras dos estados de Indiana e Tennessee, em um momento onde ambos se preparam para uma intensa onda de calor, que potencialmente aumentará o uso de aparelhos de ar-condicionado. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
