@@ -1,0 +1,45 @@
+{
+    "title": "Wikipédia: tolerância zero com IA / Linux ultrapassa 6% / GPT-5 lançado",
+    "fps": 30,
+    "timestamp": 1754664162,
+    "width": 0,
+    "height": 0,
+    "date": "08/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Wikipédia adotará processo de “exclusão rápida” para artigos gerados por IA: normalmente, a remoção de uma publicação na plataforma exige uma fase de discussão que costuma durar uma semana. No entanto, esse processo pode ser agilizado caso o conteúdo viole regras claras. Artigos escritos por modelos de linguagem entrarão nesse critério caso o texto inclua elementos de “comunicação destinada ao usuário” – que representa o LLM respondendo ao prompt – e apresente referências com links que não existem ou que direcionam para conteúdos não relacionados. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Linux ultrapassa 6% de participação de mercado em desktops: o número foi divulgado em um relatório da Lansweeper, ao analisar mais de 15 milhões de dispositivos voltados ao consumidor. Entre os fatores para o crescimento do sistema está o aumento da adoção de ferramentas e frameworks de IA de código aberto, como TensorFlow, PyTorch e Hugging Face Transformers, que apresentam melhor desempenho ou são nativamente compatíveis com o Linux. As informações são do site ZDNET.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-5: esse é o primeiro modelo da empresa capaz de decidir automaticamente se raciocina ou apenas fornece a resposta diretamente. A companhia afirma que o sistema oferece desempenho de ponta em programação, com destaque para criação sob demanda de aplicativos completos. A tecnologia está sendo disponibilizada por padrão no ChatGPT para usuários gratuitos e assinantes dos planos Plus e Pro – este último também fornece acesso à versão aprimorada GPT-5 Pro. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia lançamento oficial do assistente de programação Jules: a ferramenta, baseada no Gemini 2.5 Pro, se integra ao GitHub e é capaz de clonar repositórios públicos e abrir pull requests. Seu diferencial está na delegação assíncrona de tarefas – o desenvolvedor pode iniciar uma solicitação de código, fechar o computador e apenas mais tarde verificar os resultados. O plano gratuito oferece até 15 tarefas individuais por dia e 3 simultâneas, enquanto o Pro e Ultra disponibilizam limites de 5 e 20 vezes superiores, respectivamente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Estudo explora como usuários de diferentes níveis técnicos identificam malwares: o experimento envolveu 36 voluntários com perfis variados, desde profissionais de atendimento ao cliente até desenvolvedores de software. Em um cenário simulado, os participantes precisavam decidir se um executável que eles receberam pelo Microsoft Teams era legítimo ou malicioso. Usuários avançados geraram mais falsos positivos, devido a sua postura desconfiada, enquanto iniciantes classificaram softwares legítimos como maliciosos, devido à má usabilidade da interface, por exemplo, sem identificar sinais como consumo elevado de CPU. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Computador quântico gera números verdadeiramente aleatórios pela primeira vez: o feito foi alcançado pela máquina System Model H2-1, de 56 qubits, utilizando um método chamado amostragem aleatória de circuitos, extremamente difícil de simular em hardwares convencionais. Para verificar a aleatoriedade, foi utilizada uma combinação de vários supercomputadores clássicos que operaram a 1,1 ExaFLOPS (1,1 × 10¹⁸ operações de ponto flutuante por segundo). A abordagem pode ter aplicações em áreas como criptografia, privacidade e sistemas de sorteio. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Criptografia utilizada em rádios policiais e militares ao redor do mundo pode ser hackeada: a vulnerabilidade foi identificada na cifra de ponta a ponta (E2EE) empregada no TETRA – um protocolo criado pelo Instituto Europeu de Normas de Telecomunicações (ETSI). Em alguns rádios, como os da fabricante Sepura, a chave de 128 bits é reduzida para 56, facilitando ataques. O design do algoritmo de E2EE sobre o TETRA é elaborado pela Critical Communications Association, mas sua implementação real varia conforme o fornecedor. O protocolo também é utilizado no Brasil por órgãos de segurança pública. As informações são do site WIRED.",
+            "url": ""
+        }
+    ]
+}
