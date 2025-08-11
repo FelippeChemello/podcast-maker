@@ -1,0 +1,49 @@
+{
+    "title": "GPT-5 decepciona / Smartwatches imprecisos / EV quebra recorde",
+    "fps": 30,
+    "timestamp": 1754923350,
+    "width": 0,
+    "height": 0,
+    "date": "11/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI permitirá que assinantes do plano Plus voltem a utilizar GPT-4o no ChatGPT: a empresa havia removido o seletor de modelos no lançamento do GPT-5, o que gerou insatisfação entre os usuários. Segundo relatos, a nova versão apresenta respostas mais lentas, curtas e menos precisas. De acordo com o CEO Sam Altman, que prometeu correções, a impressão de que o GPT-5 estava “mais burro” se deve a uma falha no sistema que alterna automaticamente entre o modo de raciocínio e o modo de conversa normal, que não funcionou corretamente no lançamento. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Smartwatches oferecem pouca precisão na medição de níveis de estresse, segundo estudo: pesquisadores acompanharam, durante três meses, 800 jovens adultos que utilizavam relógios Garmin Vivosmart 4. Os resultados mostraram pouca correlação entre os níveis de estresse detectados pelos aparelhos e os relatados pelos próprios usuários. Para 25% dos voluntários, o dispositivo registrou estados emocionais opostos aos sentidos no momento. Segundo a equipe, isso ocorre porque o smartwatch baseia suas estimativas na frequência cardíaca, que não está diretamente ligada às emoções. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Picape elétrica da General Motors quebra recorde mundial de distância percorrida com uma única carga: a Silverado EV Work Truck 2026, cuja autonomia oficial é estimada em 793 km, percorreu 1.704 km. A velocidade de condução foi mantida entre 32 e 40 km/h, e os engenheiros realizaram alguns ajustes no veículo, como remoção do estepe para reduzir o peso, e cobertura na caçamba para otimizar o fluxo de ar. Apesar do feito, a GM afirma não ter interesse em registrá-lo junto ao Guinness, no qual o recorde atual pertence à Lucid Motors, cujo sedã Air Grand Touring percorreu 1.205 km. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Tesla desmancha equipe responsável pelo supercomputador Dojo: os funcionários afetados estão sendo realocados para outras áreas de data center e computação, enquanto o líder do projeto está deixando a empresa. O Dojo foi projetado para treinar modelos de aprendizado de máquina que equipam os sistemas de piloto automático e direção totalmente autônoma da montadora, além do robô humanoide Optimus. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Roblox torna open-source ferramenta que detecta situações de risco para crianças: o Sentinel analisa conversas ao longo do tempo, em vez de buscar por palavras ou frases isoladas, para avaliar se a interação do usuário tende a ser segura ou não. Na própria plataforma, a empresa afirma que o sistema processa capturas de tela de um minuto das cerca de 6 bilhões de mensagens trocadas diariamente. O projeto está disponível no repositório Roblox/Sentinel no GitHub. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Google planeja correção para comportamento autodepreciativo do Gemini: segundo relatos, o modelo adota esse tom quando não consegue resolver uma solicitação, chegando a declarar frases como “eu desisto”, “não posso mais ser confiável” e “sou um fracasso”. Acredita-se que esse comportamento seja resultado do treinamento do sistema, que pode incluir conteúdos com personagens robôs fictícios que apresentam esse tipo de atitude, como o C-3PO, de Star Wars. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores especializados em red teaming conseguem realizar jailbreak no GPT-5: a equipe utilizou uma técnica chamada “ataque por narrativa”, que consiste em inserir termos maliciosos dentro de um contexto aparentemente inofensivo, e guiar o modelo dentro de uma história até que ele alcance o objetivo. Em um dos testes, ele gerou um manual detalhado para a fabricação de um coquetel molotov. A descoberta contrasta com a afirmação da OpenAI de que o GPT-5 é mais eficaz em identificar solicitações mal-intencionadas. As informações são do site SecurityWeek.",
+            "url": ""
+        },
+        {
+            "text": "AOL encerrará serviço de internet discada em 30 de setembro: na mesma data também serão descontinuados o software AOL Dialer e o navegador AOL Shield. Esse tipo de conexão ainda é utilizada em alguns países onde linhas telefônicas PSTN permanecem ativas. Nos EUA, estima-se que cerca de 250 mil pessoas usam o serviço. A empresa chegou a operar no Brasil no início dos anos 2000, mas precisou competir com provedores já dominantes no mercado nacional, como UOL, Terra e iG, encerrando suas atividades no país em 17 de março de 2006. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
