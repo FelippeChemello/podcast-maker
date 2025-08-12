@@ -1,0 +1,45 @@
+{
+    "title": "GitHub perde CEO / Raciocínio “frágil” de IA / Reddit barra Internet Archive",
+    "fps": 30,
+    "timestamp": 1755009616,
+    "width": 0,
+    "height": 0,
+    "date": "12/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Thomas Dohmke, CEO do GitHub, anuncia saída do cargo: a empresa e sua equipe de liderança continuarão a atuar como parte da organização CoreAI da Microsoft. Dohmke permanecerá na posição até o fim de 2025 para auxiliar na transição. Ele afirma que deixará a função para empreender e “se tornar novamente um fundador”, sem divulgar mais detalhes. As informações são dos sites Axios e GitHub Blog.",
+            "url": ""
+        },
+        {
+            "text": "Raciocínio em modelos de IA é uma “miragem frágil”: segundo pesquisadores, esses sistemas tendem a falhar quando enfrentam questões ligeiramente diferentes das vistas no treinamento. Em um ambiente de teste controlado, pequenos modelos foram treinados com transformações de texto simples e avaliados em combinações inéditas. Em alguns casos, seguiram caminhos lógicos corretos, mas chegaram a respostas erradas. Em outros, acertaram o resultado final, mas com raciocínios incoerentes. Alterações mínimas, como mudanças no tamanho do texto ou inclusão de símbolos novos, comprometeram a precisão. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Reddit bloqueia Internet Archive de indexar seus conteúdos: a decisão foi tomada após a plataforma identificar que empresas de IA estavam raspando dados por meio da Wayback Machine. Com a mudança, o Internet Archive poderá acessar apenas a página inicial do Reddit até que ele esteja em conformidade com as políticas do site, incluindo o respeito à privacidade dos usuários e a exclusão de conteúdo removido. Mark Graham, diretor da Wayback Machine, afirma estar em conversas com o Reddit para tratar do assunto. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem “língua” artificial que pode provar e processar sabores como o órgão humano: o dispositivo reconheceu doce, azedo, salgado e amargo com precisão entre 72,5% e 87,5%, além de alcançar 96% de acerto na identificação de bebidas como café e Coca-Cola. Entre as possíveis aplicações estão o uso em robótica e saúde, especialmente no auxílio de pessoas que perderam o paladar. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Apple ensinam LLM a prever tokens simultaneamente: no estudo, foram inseridos tokens especiais chamados de “máscaras” nos prompts, funcionando como espaços reservados para palavras futuras, permitindo que o modelo as especule de forma quase imediata. Caso o processo falhe, ele retorna ao modo padrão, gerando um token por vez. Em testes com o sistema open-source Tulu3-8B, o grupo registrou um ganho médio de velocidade 2 a 3 vezes maior em interações de conversas normais, e até 5 vezes em tarefas de programação e matemática, sem perda de qualidade. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas da computação interceptam áudio de ligações por meio das vibrações do alto-falante do celular: a equipe utilizou um sensor de radar de ondas milimétricas – o mesmo utilizado em carros autônomos, por exemplo – posicionado a até 3 metros do aparelho, para captar oscilações da superfície do alto-falante enquanto o áudio era reproduzido. As vibrações, então, foram transcritas utilizando o Whisper, modelo de reconhecimento de fala open-source da OpenAI. A técnica alcançou até 60% de precisão para um vocabulário de 10 mil palavras. As informações são do site da Universidade Estadual da Pensilvânia.",
+            "url": ""
+        },
+        {
+            "text": "Claude conseguirá lembrar de conversas anteriores: diferente do ChatGPT, que mantém uma memória persistente e constrói um perfil do usuário, o chatbot da Anthropic apenas referenciará chats passados caso seja solicitado. Inicialmente, a novidade está disponível para assinantes dos planos Max, Team e Enterprise, e pode ser ativada ou desativada nas configurações de perfil. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
