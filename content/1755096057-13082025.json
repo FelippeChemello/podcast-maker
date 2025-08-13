@@ -1,0 +1,45 @@
+{
+    "title": "Perplexity quer Chrome / IA prejudica médicos / WinRar: falha crítica",
+    "fps": 30,
+    "timestamp": 1755096057,
+    "width": 0,
+    "height": 0,
+    "date": "13/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Perplexity propõe compra do Chrome por 34,5 bilhões de dólares: o valor representa quase o dobro da avaliação de mercado da própria startup, estimada em cerca de 18 bilhões. Essa ação é conhecida como “oferta não solicitada” – quando uma empresa faz uma proposta de aquisição sem que a outra estivesse procurando comprador. Segundo a Perplexity, grandes fundos de investimento se comprometeram a financiar integralmente a transação, e se o acordo fosse aceito, ela investiria mais de 3 bilhões de dólares no navegador e no projeto Chromium ao longo de dois anos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "IA reduz capacidade de médicos detectarem câncer: o estudo avaliou, durante seis meses, 19 profissionais com ampla experiência em colonoscopia, selecionados de 4 clínicas diferentes na Polônia. Embora a ferramenta tenha auxiliado a aumentar a precisão na identificação de crescimentos pré-cancerígenos no cólon, sua ausência resultou em uma queda de aproximadamente 20% na taxa de detecção de tumores. Segundo os pesquisadores, a IA provavelmente fez com que os médicos se tornassem excessivamente dependentes de suas recomendações, reduzindo a capacidade de tomada de decisões. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Falha zero-day no WinRAR é explorada por grupos cibercriminosos: a vulnerabilidade CVE-2025-8088 permite instalar backdoors em computadores cujos usuários abrem arquivos maliciosos anexados a mensagens de phishing. Os ataques foram atribuídos aos grupos RomCom e Paper Werewolf. A empresa já disponibilizou uma correção para o problema, incluída a partir da versão 7.13. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Claude Sonnet 4 passa a suportar 1 milhão de tokens de contexto via API: segundo a empresa, a expansão permite carregar bases de código completas com mais de 75 mil linhas, incluindo testes e documentação, além de outros tipos de arquivos volumosos, como contratos jurídicos, artigos de pesquisa ou especificações técnicas. A novidade está disponível em versão beta pública para usuários do Tier 4 da API, com lançamento mais amplo previsto para as próximas semanas. As informações são do site da Anthropic.",
+            "url": ""
+        },
+        {
+            "text": "Usuários criticam recurso de IA no Firefox devido ao uso elevado da CPU: a partir da versão 141, a Mozilla introduziu uma ferramenta capaz de agrupar automaticamente abas semelhantes, que é executada localmente no PC da pessoa. No entanto, segundo relatos, a novidade pode provocar picos de sobrecarga no processador. A empresa já fez a correção do problema, a qual será incluída nas próximas versões. A disponibilidade do recurso está sendo feita de forma gradual, e pode ser desativada nas configurações. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Humanos superam LLMs em moderação de conteúdo: em um estudo, modelos e pessoas avaliaram 1.500 vídeos considerados prejudiciais. Os sistemas Gemini tiveram o melhor desempenho entre as máquinas, com um média de até 0,91 em uma escala de 0 a 1, enquanto os indivíduos registraram 0,98. Por outro lado, o custo da moderação humana foi de 974 dólares – resultante do total de horas trabalhadas – em contraste com o Llama-3.2-11B-Vision (459), GPT-4o (419) e o Gemini (entre 28 e 56) – preço total de tokens utilizados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido solicita que cidadãos excluam e-mails e fotos antigos na nuvem para reduzir consumo de água em data centers: segundo o governo britânico, essas instalações utilizam grandes volumes do líquido para resfriar seus sistemas. Especialistas, no entanto, afirmam que a maior parte do consumo energético vem do processamento por CPU e GPU. Após serem salvos, os dados geram pouco calor e costumam permanecer em dispositivos que são ativados somente quando necessário. Além disso, a exclusão pode demandar mais processamento do que o armazenamento contínuo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
