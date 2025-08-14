@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: internet mais veloz / FFmpeg + Whisper / Criptografia para IoT",
+    "fps": 30,
+    "timestamp": 1755182423,
+    "width": 0,
+    "height": 0,
+    "date": "14/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Internet banda larga no Brasil registra aumento de 20% na velocidade: segundo um levantamento realizado entre abril e junho, com base em 2,5 milhões de testes de conexão residencial, a velocidade média desse tipo de conexão no país atingiu 244,46 Mbps – no mesmo período de 2024, esse número era de 203,62 Mbps. Entre as operadoras de alcance nacional, a Vivo lidera com uma média de 247,83 Mbps, seguida pela Claro (225,76 Mbps) e TIM (194,24 Mbps). Desde o primeiro trimestre de 2025, todos os estados brasileiros registram médias acima de 150 Mbps. As informações são do site Minha Conexão.",
+            "url": ""
+        },
+        {
+            "text": "FFmpeg 8.0 incorporará modelo Whisper da OpenAI: com a atualização, o software poderá ser compilado com a opção “--enable-whisper” sempre que a biblioteca Whisper.cpp estiver presente no sistema, garantindo suporte à ferramenta open-source de reconhecimento de fala, que pode ser utilizada para transcrição e reconhecimento de voz. A nova versão está prevista para ser lançada nas próximas semanas. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "NIST finaliza padrão de criptografia leve para proteger dispositivos IoT: a equipe desenvolveu quatro algoritmos que exigem menos poder de processamento e tempo do que métodos convencionais, tornando-os adequados para estes eletrônicos. As soluções possuem capacidade para, por exemplo, criptografar dados e verificar sua autenticidade, além de gerar um hash curto funcionando como uma “impressão digital” das informações. As informações são do site do NIST.",
+            "url": ""
+        },
+        {
+            "text": "Gemini recebe melhorias: o chatbot passará a referenciar automaticamente conversas anteriores para personalizar respostas. O recurso está sendo disponibilizado para a versão 2.5 Pro em “alguns países”, com expansão gradual para outras regiões e o modelo 2.5 Flash. Outra novidade é a introdução de conversas temporárias, que não aparecerão no histórico, não serão utilizadas para personalizar interações futuras e não contribuirão para o treinamento dos modelos do Google. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI deve apoiar startup que competirá com Neuralink de Elon Musk: a Merge Labs está em processo de captação de recursos com avaliação de 850 milhões de dólares, e grande parte do investimento originará da OpenAI, segundo fontes próximas ao assunto. Sam Altman será cofundador, sem ter envolvimento diário nas operações, e ajudará a lançar a iniciativa ao lado de Alex Blania, responsável pelo projeto World. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro chip de computação termodinâmica do mundo chega à fase de tape-out: neste ponto, o projeto encontra-se finalizado e pronto para fabricação. O CN101, da Normal Computing, é um ASIC desenvolvido especialmente para operações de álgebra linear e matrizes, além de empregar um sistema próprio de amostragem para cálculos probabilísticos. Projetado para data centers de IA e computação de alto desempenho, o componente utiliza princípios da física, como a termodinâmica, para alcançar até mil vezes mais eficiência energética comparado a chips convencionais. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Matter, padrão aberto para dispositivos de casa inteligente, lança versão 1.4.2: além de melhorar a comunicação entre aparelhos, a atualização também adiciona suporte ao Target Wake Time, um recurso presente no Wi-Fi 6 que permite que eletrônicos conectados à rede sem fio combinem com o roteador horários específicos para serem ativados, ajudando na economia da bateria. O Wi-Fi também está sendo introduzido como uma alternativa para adicionar dispositivos Matter, eliminando a dependência do Bluetooth. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
