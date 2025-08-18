@@ -1,0 +1,45 @@
+{
+    "title": "JetBrains: nova linguagem / Kodak nega rumores / Chip de micro-ondas",
+    "fps": 30,
+    "timestamp": 1755528077,
+    "width": 0,
+    "height": 0,
+    "date": "18/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": " JetBrains está trabalhando em uma linguagem de programação “da mais alta abstração”: o CEO Kirill Skrygan cita como exemplo a criação de um aplicativo para iPhone, Android e web, onde em vez de desenvolver três versões separadas, o usuário escreveria o projeto em uma linguagem próxima ao inglês, enquanto agentes de IA e ferramentas da companhia gerariam o código para todas as plataformas. A empresa também estuda a possibilidade de basear a tecnologia no Kotlin. Ainda não há previsão de lançamento. As informações são do site InfoWorld.",
+            "url": ""
+        },
+        {
+            "text": "Kodak, empresa centenária de câmeras fotográficas, nega rumores sobre risco de fechamento: a empresa garante que não pretende encerrar suas atividades nem solicitar proteção contra falência, e planeja pagar, estender ou refinanciar suas dívidas. Em seu último relatório de resultados, a companhia alertava que não possuía liquidez para quitar cerca de 500 milhões de dólares em dívidas que vencem em breve. Mas esse comunicado, feito aos investidores e conhecido como “going concern warning”, é apenas exigido por normas contábeis e de auditoria, informou a empresa. As informações são dos sites CNN e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem primeiro chip baseado em micro-ondas do mundo: o dispositivo, da Universidade Cornell, processa os dados através da interação entre ondas eletromagnéticas, em vez de usar transistores e portas lógicas. Ele opera em altíssima velocidade, na faixa de dezenas de gigahertz, é pequeno o suficiente para ser incorporado a um smartwatch, e consome apenas 200 miliwatts de energia. A equipe projeta que, no futuro, essa tecnologia possa ser incorporada a dispositivos pessoais, possibilitando a execução local de modelos de IA sem depender de servidores na nuvem. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Amazon apresenta recurso para minimizar alucinações de IA: a solução, chamada “Automated Reasoning checks”, combina redes neurais – capazes de aprender padrões a partir de grandes volumes de dados – com raciocínio simbólico, que resolve problemas por meio de regras lógicas. O sistema verifica, em tempo real, se as saídas de um modelo estão alinhadas a regras e fatos predefinidos. Segundo a empresa, a tecnologia pode ser aplicada em domínios específicos, como saúde. As informações são do site The Wall Street Journal.",
+            "url": ""
+        },
+        {
+            "text": "Cão-robô chinês quebra recorde mundial de velocidade em percurso de 100 metros: o White Rhino, da Universidade de Zhejiang, completou o trajeto em 16,33 segundos. Segundo a equipe, a máquina tem potencial para ser utilizada em situações como operações de resgate em áreas de desastre e transporte de equipamentos em terrenos irregulares. O recorde anterior pertencia ao Hound, da Coreia do Sul, que fez o percurso em 19,87 segundos, enquanto o menor tempo de um humano para a distância é de 9,58 segundos, estabelecido por Usain Bolt em 2009. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança recurso para impressão segura de documentos confidenciais: o Pull Print, integrado ao Universal Print do Microsoft 365, permite que o usuário adicione um arquivo em uma fila de impressão, que só é liberada quando ele estiver fisicamente ao lado de uma impressora. Para isso, o dispositivo precisa estar cadastrado na plataforma com a função de liberação segura ativada. Nesse caso, é gerado um QR code que pode ser impresso e colado no aparelho. A pessoa, então, escaneia o código, realiza a autenticação e libera a impressão naquele equipamento específico. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Arm integrará aceleradores neurais dedicados em GPUs para smartphones: segundo a empresa, a tecnologia poderá reduzir pela metade a carga de trabalho do chip gráfico, e possibilitará aumentar a resolução de imagens sem comprometer o desempenho, além de dobrar a taxa de quadros e aprimorar a qualidade visual, com impacto mais evidente em jogos. O lançamento está previsto para 2026, mas a companhia já está disponibilizando um kit de desenvolvimento para que programadores possam começar a explorar a novidade. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
