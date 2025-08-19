@@ -1,0 +1,45 @@
+{
+    "title": "IA: 95% está falhando / Win 11: atualização falha / Olimpíadas de robôs",
+    "fps": 30,
+    "timestamp": 1755614269,
+    "width": 0,
+    "height": 0,
+    "date": "19/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apenas 5% das empresas nos EUA obtiveram resultados com projetos de IA: a informação foi divulgada a partir de um estudo baseado em 52 entrevistas com executivos, na análise de mais de 300 iniciativas de IA, e em uma pesquisa com 153 profissionais. Segundo os autores, as principais barreiras estão na dificuldade dos modelos em reter dados, adaptar-se e aprender ao longo do tempo. Além disso, a tecnologia mostrou-se mais relevante nos segmentos de tecnologia e comunicações, mas teve pouca ou nenhuma aplicabilidade em áreas como saúde, varejo e financeiro. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Atualização do Windows 11 24H2 pode comprometer armazenamento e corromper dados: segundo um relatório, o update KB5063878 faz com que discos e seus dados fiquem temporariamente inacessíveis pelo sistema. O problema ocorre durante operações intensas de gravação, quando o volume contínuo de escrita se aproxima de 50 GB e a utilização do controlador ultrapassa 60%. A falha foi relatada por usuários no Japão, e ainda não está claro se possui alcance global. A Microsoft ainda não se pronunciou oficialmente sobre o caso. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "China realiza primeiro evento de jogos olímpicos de robôs humanoides do mundo: o World Humanoid Robot Games reuniu mais de 500 máquinas de 16 países. Os participantes competiram em esportes como corrida, futebol e kickboxing. Em uma prova de corrida de 1.500 metros, o robô mais rápido completou o percurso em 6 minutos e 29 segundos, quase o dobro do recorde humano de 3 minutos e 26 segundos, estabelecido por Hicham El Guerrouj. As informações são dos sites LiveScience e The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança plano ChatGPT Go por cerca de 5 dólares mensais na Índia: a assinatura inclui acesso ampliado ao GPT-5, geração de imagens e envio de arquivos, além de memória mais extensa e suporte a GPTs personalizados. No entanto, não permite utilizar o gerador de vídeos Sora, modelos anteriores como o GPT-4o e conectores. A empresa afirma que a oferta poderá ser expandida para outras regiões no futuro. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Hyundai cobra por atualização de segurança cibernética do Ioniq 5 no Reino Unido: a correção “opcional” de 65 dólares protege o veículo contra ataques realizados com um dispositivo semelhante a um Game Boy, avaliado em mais de 20 mil dólares, capaz de quebrar protocolos sem fio e invadir os mecanismos de travamento. Para justificar a decisão, a montadora afirma que a ameaça foi classificada como um problema “em evolução”, e que considera justo cobrar dos clientes por uma atualização “subsidiada”. O Ioniq 5 está disponível no Brasil, mas não está claro se a atualização também será cobrada no mercado local. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "GPT-5 conclui Pokémon Red do Game Boy em tempo recorde mundial: o modelo completou o título em apenas 6.470 passos, o equivalente a sete dias de jogo. O feito supera os 18.184 passos alcançados pelo o3, que equivalem a 15 dias. A estratégia adotada pelo sistema foi semelhante à de outros jogadores, que consiste em treinar um único Pokémon até níveis extremamente altos, deixando os demais cinco do time em segundo plano. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores refutam eficácia do reconhecimento facial em ambientes reais: a equipe focou sua análise no programa FRTE do NIST, que funciona como um benchmark global para medir a precisão dessa tecnologia em diferentes cenários, incluindo iluminação adversa, envelhecimento, uso de óculos e expressões faciais. Segundo o grupo, o teste não reflete condições do mundo real, em que imagens podem estar borradas ou obstruídas. Além disso, os conjuntos de dados utilizados são reduzidos e não representam de forma adequada a diversidade demográfica, aumentando o risco de resultados falsos. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
