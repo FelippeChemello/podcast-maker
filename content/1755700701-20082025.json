@@ -1,0 +1,45 @@
+{
+    "title": "Novos domínios .br / PyPI mais seguro / Intel: aporte bilionário",
+    "fps": 30,
+    "timestamp": 1755700701,
+    "width": 0,
+    "height": 0,
+    "date": "20/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "NIC br anuncia novas categorias de domínio: o api[.]br é voltado a projetos relacionados a APIs, o ia[.]br ao campo da IA, o social[.]br a redes sociais e comunidades online, enquanto o xyz[.]br terá uso livre, sem tema específico, abrangendo tanto iniciativas pessoais quanto comerciais. Todos eles poderão ser registrados por qualquer usuário ou empresa a partir de 1º de setembro, às 15h no horário de Brasília. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "PyPI adota medida de segurança contra ataques de “ressurreição de domínios”: essa investida permite que um invasor registre novamente um domínio expirado, que está vinculado a um endereço de e-mail, e obtenha acesso indevido às contas relacionadas. Para mitigar isso, a plataforma passará a desconsiderar automaticamente endereços vinculados a domínios em processo de expiração, para os quais não serão enviados links de redefinição de senhas. A organização ressalta que não detectará transferências legítimas de domínios ativos. As informações são do blog do PyPI.",
+            "url": ""
+        },
+        {
+            "text": "Intel receberá aporte de 2 bilhões de dólares da SoftBank: segundo o CEO da SoftBank, Masayoshi Son, o investimento reflete a convicção da empresa de que a produção e o fornecimento avançado de semicondutores continuarão a crescer nos EUA, com a Intel desempenhando um papel “crítico” nesse cenário. Com essa operação, a SoftBank se torna a sexta maior acionista da Intel. As informações são dos sites TechCrunch e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança dublagem automática em reels para criadores no Facebook e Instagram: o recurso preserva o timbre e o tom originais do usuário, e também há a opção de ativar a sincronização labial. Ele pode ser utilizado por criadores no Facebook com mais de 1.000 seguidores e por todas as contas públicas do Instagram. A ativação é feita antes da postagem, e o resultado pode ser pré-visualizado. A funcionalidade está disponível globalmente para tradução entre inglês e espanhol, com suporte a outros idiomas previsto para ser adicionado futuramente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Interface cérebro-computador transforma palavras imaginadas em fala pela primeira vez: o estudo contou com a participação de quatro pessoas com paralisia severa. Cada uma recebeu implantes de matrizes microscópicas de eletrodos no córtex motor da fala, os quais registraram a atividade cerebral enquanto os voluntários tentavam falar em voz alta ou apenas imaginar palavras específicas. Embora a fala imaginada gerasse sinais mais fracos em comparação à tentada, o sistema alcançou taxas de precisão de até 74%. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Volkswagen cobra assinatura para liberar potência do seu veículo elétrico ID.3: o modelo é anunciado com 201 cv, com a capacidade total de 228 cv podendo ser liberada mediante pagamento de 22 dólares mensais ou 222 dólares anuais. Há ainda a opção de adquirir o serviço por um valor único de 874 dólares. Nesse caso, o recurso permanece vinculado ao carro, mesmo em caso de revenda. O ID.3 não é comercializado no Brasil. As informações são do site Auto Express.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativo móvel do ChatGPT movimentou 2 bilhões de dólares desde seu lançamento em 2023, segundo relatório: somente entre janeiro e julho de 2025, o app gerou 1,35 bilhão, um aumento de 673% em relação aos 174 milhões no mesmo período de 2024. O gasto médio global por download do ChatGPT está em 2,91 dólares, contra 2,55 do Claude, 0,75 do Grok e 0,28 do Microsoft Copilot. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
