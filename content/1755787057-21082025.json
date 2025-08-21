@@ -1,0 +1,45 @@
+{
+    "title": "“Burrice” trocar juniores por IA / Notion: modo offline / Win: update crítico",
+    "fps": 30,
+    "timestamp": 1755787057,
+    "width": 0,
+    "height": 0,
+    "date": "21/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da AWS acredita que substituir funcionários juniores por IA é “burrice”: para Matt Garman, esses profissionais representam o menor custo para as empresas e desempenham um papel essencial no desenvolvimento de talentos. Se dispensados, há o risco de não formar pessoas com experiência prática ou aprendizado acumulado ao longo do tempo. Garman também defende que as companhias continuem contratando recém-formados em áreas como desenvolvimento de software. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "Notion lança modo offline em seu aplicativo: para utilizar o recurso, o usuário pode ativar a opção correspondente no menu do canto superior direito da página. Dessa forma, as alterações serão salvas localmente e sincronizadas automaticamente quando o dispositivo se conectar à internet. No celular, a sincronização requer Wi-Fi. Segundo a empresa, as configurações offline não são compartilhadas entre diferentes aparelhos, exigindo ativação manual em cada um. As informações são do site do Notion.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft libera atualizações emergenciais para corrigir falha na recuperação do Windows: o problema, introduzido nos patches de segurança de agosto, restringia usuários de reinstalar o sistema e restaurar o dispositivo. Os updates problemáticos incluem KB5063875 (Windows 11 23H2 e 22H2) e KB5063709 (Windows 10 22H2). As correções já estão disponíveis como opcionais via Windows Update. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisador de segurança consegue acessar dados de 270 mil funcionários da Intel: segundo Eaton Z, a falha estava no site Intel India Operations, onde era possível enganar o sistema para reconhecer um usuário como válido ao modificar a função “getAllAccounts”, da biblioteca de autenticação MSALjs, para retornar um array não vazio. Com esse login anônimo também foi possível, por meio de uma API interna, baixar um arquivo JSON de quase 1 GB contendo informações como nome, cargo, telefone e endereço residencial dos colaboradores. As brechas já foram corrigidas pela Intel. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Gemini agora consegue ler arquivos do Google Docs em voz alta: a novidade permite personalizar a saída de áudio com diferentes estilos e velocidades. Qualquer leitor com acesso ao documento poderá utilizar o recurso, e os autores também podem inserir um botão diretamente na página, permitindo iniciar a reprodução com um clique. A funcionalidade está sendo liberada para usuários do Workspace e assinantes dos planos AI Pro e Ultra, e, inicialmente, está disponível apenas em inglês e em dispositivos desktop. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas usam óculos inteligentes para treinar robôs de uso geral: a ideia é que o dispositivo colete dados de interações humanas do dia a dia para ensinar as máquinas a realizar as mesmas tarefas. Para isso, a equipe utilizou uma versão aprimorada dos óculos Project Aria, da Meta. Em uma prova de conceito, coletaram 20 minutos de informações de pessoas realizando sete ações de manipulação, como pegar um pedaço de pão e colocar em um prato. Quando aplicado ao robô, ele conseguiu completar as tarefas com uma taxa de sucesso de 70%. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Apple estaria ampliando produção de iPhones na Índia em substituição à China: segundo uma fonte próxima ao assunto, pela primeira vez todas as quatro variantes do iPhone 17 serão produzidas no país, com unidades destinadas ao mercado dos EUA já no lançamento. O sucessor do iPhone 16E também deve ser fabricado em território indiano. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
