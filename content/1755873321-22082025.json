@@ -1,0 +1,49 @@
+{
+    "title": "ChatGPT estagnou / China offline / Meta recorre ao Google",
+    "fps": 30,
+    "timestamp": 1755873321,
+    "width": 0,
+    "height": 0,
+    "date": "22/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CEO da OpenAI confirma GPT-6 e destaca limite de melhorias em chatbots: segundo Sam Altman, o novo modelo será mais personalizado, capaz de se adaptar a cada pessoa, lembrando de suas preferências, rotinas e particularidades. O executivo observa que esses sistemas já atingiram um “limite de melhoria em casos de uso de chat”, podendo evoluir pouco ou até apresentar desempenho inferior. Ainda não há uma previsão de lançamento, mas Altman garante que a tecnologia chegará mais rápido do que o intervalo entre o GPT-4 e o GPT-5. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "China ficou inadvertidamente desconectada da internet global por uma hora: na última terça-feira, o Grande Firewall – sistema de vigilância e censura mantido pelo governo – passou a injetar a pacotes TCP RST+ACK forjados que interromperam todas as conexões na porta TCP 443. O incidente afetou tanto usuários quanto empresas que dependem de serviços hospedados no exterior. Embora o país costume aplicar bloqueios em determinadas situações, não está claro o motivo do problema. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria fechado acordo de 10 bilhões de dólares para usar serviços de nuvem do Google: segundo fontes próximas ao assunto, o contrato terá duração de seis anos e será voltado principalmente para infraestrutura de IA. Em junho, a OpenAI, que até então dependia majoritariamente da infraestrutura da Microsoft Azure, também firmou uma parceria com a empresa. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Fuzileiros navais dos EUA enganam câmera equipada com IA em teste da DARPA: o sistema de detecção avançado havia sido treinado por seis dias para identificar humanos em diferentes cenários. Os soldados foram desafiados a chegar ao robô e tocá-lo, sem ser detectado. Dois militares percorreram 300 metros em cambalhotas, outro grupo se aproximou escondido dentro de uma caixa de papelão, e um terceiro usou galhos de pinheiro como camuflagem. Todos obtiveram sucesso. O experimento evidencia um fenômeno conhecido como “mudança de distribuição”, que ocorre quando IAs falham diante de situações distintas do treinamento. As informações são do site Rude Vulture.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas contestam estimativas do Google sobre consumo de água do Gemini: segundo a empresa, um prompt médio do modelo gasta cerca de 0,26 mililitros de água e 0,24 Wh de energia. Pesquisadores, no entanto, afirmam que o cálculo levou em conta apenas o líquido utilizado nos sistemas de resfriamento dos data centers, e não o consumo hídrico ligado à geração de eletricidade para essas estruturas. Além disso, a companhia não detalhou o tamanho base dos prompts, em número de palavras ou tokens, para chegar às estimativas apresentadas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "SK hynix ultrapassa Samsung como maior fabricante de DRAM pela primeira vez: no primeiro semestre deste ano, a empresa alcançou 36,3% deste mercado, em contraste com os 32,7% da Samsung. No mesmo período, a subsidiária SK hynix America registrou vendas de 17,79 bilhões de dólares, representando um crescimento anual de 103%. Esse avanço foi impulsionado principalmente pela demanda da Nvidia, cliente que a Samsung ainda não conseguiu conquistar. As informações são do site Korea JoongAng Daily.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores apresentam técnica inédita para controlar radiação na faixa de terahertz: conhecidas pelo potencial em áreas como segurança, medicina e comunicações, essas ondas são difíceis de manipular com métodos tradicionais. No estudo, a equipe utilizou grafeno em estruturas chamadas metamateriais, o que permitiu criar moduladores mais eficientes. Os testes alcançaram intensidade acima de 99,99% e velocidades superiores às tecnologias atuais. A descoberta pode abrir caminho para sistemas de comunicação que vão além das redes de 5G e 6G. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Google fecha acordo para apoiar reator nuclear de próxima geração nos EUA: a parceria foi firmada com a Tennessee Valley Authority, enquanto o projeto será desenvolvido pela Kairos Power, em Oak Ridge – sede do Projeto Manhattan. A previsão é que a instalação entre em operação em 2030, fornecendo eletricidade para a rede que atende os data centers do Google nos estados de Tennessee e Alabama. Segundo as empresas, este é o primeiro contrato de compra de energia desse tipo firmado por uma distribuidora no país. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
