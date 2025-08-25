@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: 1Password, Bitwarden e LastPass / Banco mente sobre IA / EUA compram Intel",
+    "fps": 30,
+    "timestamp": 1756132689,
+    "width": 0,
+    "height": 0,
+    "date": "25/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores alertam para extensões de navegador do 1Password, Bitwarden e LastPass vulneráveis a ataques do tipo clickjacking: essa é uma técnica em que invasores sobrepõem botões ou formulários invisíveis sobre o conteúdo legítimo de um site, enganando usuários para que cliquem em elementos ocultos sem perceber. As falhas foram descobertas em 11 extensões ao todo, cujas versões datam até 19 de agosto. Segundo o relatório, programas como Bitwarden e Enpass já aplicaram ou estão trabalhando em correções. Mais detalhes podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Maior banco da Austrália busca recontratar 45 profissionais de atendimento ao cliente após mentir sobre produtividade de IA: na ocasião, o CBA classificou o cargo dessas pessoas como redundante, e afirmou que o chatbot teria reduzido em 2 mil o número de chamadas semanais. No entanto, segundo os funcionários demitidos, o volume de atendimentos estava aumentando no período, com os próprios gerentes precisando atender ligações junto à equipe. O banco pediu desculpas aos trabalhadores afetados e ofereceu as opções de retornarem aos seus postos, buscarem outro cargo, ou receberem uma indenização. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Governo dos EUA adquire 10% da Intel por 8,9 bilhões de dólares: o acerto foi realizado por meio de recursos que já estavam reservados em programas anteriores, incluindo o CHIPS and Science Act (5,7 bilhões) e o Secure Enclave (3,2 bilhões). Com esse capital, a empresa deve trazer parte da sua manufatura de volta ao país, reduzindo a dependência de fornecedores como a TSMC. Apesar da compra, o governo não terá assento no conselho da Intel. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Serviço postal nacional da Dinamarca encerrará entregas de cartas no final de 2025 devido ao avanço da digitalização: segundo o chefe da PostNord, os cidadãos do país recebem, em média, apenas uma carta por mês. Desde 2000, o volume desse tipo de correspondência na região despencou mais de 90%, de cerca de 1,4 bilhão para 110 milhões em 2024. A empresa concentrará esforços no negócio de encomendas, acompanhando o grande crescimento do comércio eletrônico, enquanto uma companhia privada assumirá o serviço nacional de entrega de cartas. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Brasil aprova fim da cobrança de roaming no Mercosul: isso significa que todo cidadão brasileiro que visitar um dos países que compõem o bloco estará sujeito aos mesmos preços que as operadoras cobram por serviços móveis locais, sem tarifas adicionais. Para que a medida entre em vigor, o texto precisa ser promulgado pelo Congresso. Após isso, ela deve passar a valer em até 90 dias. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Projeto que visa construção de CPUs open-source recebe financiamento de 50 mil euros: o Libre-Chip tem como objetivo desenvolver um protótipo de processador de alto desempenho que não seja vulnerável a falhas de execução especulativa, como o Spectre, descoberto em 2018 e que afeta praticamente todas as CPUs modernas. A ideia é eliminar essa categoria de vulnerabilidades sem comprometer a performance. O financiamento foi fornecido pela NLnet, que apoia iniciativas ligadas a software livre e de código aberto. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Relatório aponta “inundação” de bots de IA na web: segundo a Fastly, 80% desse tráfego vem de crawlers, enquanto os outros 20% correspondem a sistemas de busca que fazem requisições sob demanda. Meta, Google e OpenAI concentram 95% da atividade dos crawlers, sendo que a OpenAI, isoladamente, responde por quase 98% das consultas feitas por buscadores. Bots mal projetados podem gerar uma carga insustentável nos servidores, degradando desempenho, interrompendo serviços e elevando custos operacionais. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
