@@ -1,0 +1,45 @@
+{
+    "title": "Falha crítica: Docker / Google restringe APKs / Policial holográfico",
+    "fps": 30,
+    "timestamp": 1756218919,
+    "width": 0,
+    "height": 0,
+    "date": "26/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica no Docker Desktop permite contornar limites de contêineres: a vulnerabilidade CVE-2025-9074 está relacionada ao fato de um contêiner conseguir se conectar à API do Docker Engine sem autenticação. No Windows, isso permite controle total do host, incluindo a montagem da unidade “C:”, enquanto no macOS um invasor poderia instalar um backdoor e assumir o controle do aplicativo e dos contêineres. A versão para Linux não é afetada. A correção está disponível a partir da release 4.44.3. As informações são do site The Hacker News.",
+            "url": ""
+        },
+        {
+            "text": "Google restringirá instalação de aplicativos Android via APK e lojas de terceiros a desenvolvedores verificados: a iniciativa visa reduzir a disseminação de apps maliciosos. O acesso ao processo de verificação estará disponível em março de 2026, enquanto a exigência de instalação entra em vigor em setembro do mesmo ano no Brasil, Indonésia, Singapura e Tailândia – países que, segundo a empresa, foram “particularmente afetados” por softwares fraudulentos. A partir de 2027, a regra passará a valer globalmente. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Coreia do Sul implanta policial holográfico em parque de Seul para reforçar segurança pública: a projeção, com cerca de 1,70 metro de altura, aparece entre 19h e 22h para transmitir uma mensagem de áudio pré-gravada lembrando os cidadãos de que estão sendo monitorados por câmeras de segurança, e que em caso de emergências a polícia responderá imediatamente. Desde a instalação do holograma, os crimes relatados na região durante esses horários caíram cerca de 22%. Autoridades planejam expandir o sistema para outros espaços públicos. As informações são do site South China Morning Post.",
+            "url": ""
+        },
+        {
+            "text": "xAI torna Grok 2.5 open-source: a empresa publicou os pesos utilizados para treinar o modelo na plataforma Hugging Face, sob uma licença personalizada, que permite seu uso para pesquisa e aplicações comerciais. No entanto, o desenvolvedor está proibido de utilizar o sistema ou seus resultados para treinar ou criar outros LLMs. Segundo Elon Musk, o Grok 3 também será disponibilizado como open-source em cerca de 6 meses. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "IA embutida no navegador web da Perplexity pode ser enganado para executar ações maliciosas: o ataque consiste no uso de sites aparentemente inofensivos que disfarçam instruções em elementos invisíveis, como texto branco sobre fundo branco ou comentários em HTML. Quando o usuário solicita o resumo dessa página, esses comandos são executados pela IA. Com isso, um invasor poderia acessar e-mails ou contas bancárias e enviar informações sensíveis a servidores externos. Segundo os pesquisadores, até o momento a Perplexity corrigiu parcialmente o problema. As informações são do blog do Brave.",
+            "url": ""
+        },
+        {
+            "text": "Robôs são treinados ao observarem vídeos de humanos realizando ações: a solução, inspirada na forma como crianças aprendem, utiliza duas câmeras para captar o movimento. Em seguida, um sistema de visão computacional constrói um modelo tridimensional da cena. Por fim, a pessoa é removida digitalmente do cenário, isolando apenas a ferramenta usada na tarefa. Em testes envolvendo ações como martelar um prego e virar comida na frigideira, o método apresentou taxas de sucesso 71% maiores e coletou dados de treinamento 77% mais rápido do que técnicas tradicionais. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Meta anuncia parceria com Midjourney: a Meta licenciará a tecnologia de geração de imagens e vídeos da startup, a fim de incorporá-la em futuros modelos e produtos. Embora os termos do acordo não tenham sido divulgados, o CEO da Midjourney, David Holz, afirma que a empresa continua independente e sem investidores. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
