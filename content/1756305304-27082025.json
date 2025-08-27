@@ -1,0 +1,45 @@
+{
+    "title": "Primeiro ransomware de IA / Google “nano-banana” / Claude no Chrome",
+    "fps": 30,
+    "timestamp": 1756305304,
+    "width": 0,
+    "height": 0,
+    "date": "27/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores descobrem primeiro ransomware baseado em IA: o PromptLock utiliza o modelo gpt-oss:20b da OpenAI, executado localmente, para criar scripts em Lua capazes de mapear o sistema de arquivos, inspecionar alvos, exfiltrar dados e realizar criptografia. O ataque pode afetar sistemas Windows, macOS e Linux. O ransomware apresenta variações de comportamento a cada execução, confundindo ferramentas de defesa e dificultando sua detecção. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini 2.5 Flash Image: o modelo, também chamado de “nano-banana”, é voltado para edição avançada de imagens, sendo capaz de combinar várias fotos em uma só, remover manchas em roupas, apagar pessoas, colorir cenários em preto e branco e inserir objetos em uma cena. O recurso pode ser acessado gratuitamente no aplicativo do Gemini, além da API e das plataformas Google AI Studio e Vertex AI. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança agente do Claude no Chrome: por meio de uma extensão, o modelo possui acesso ao contexto do que está sendo exibido no navegador e poderá executar ações em nome do usuário. Por segurança, a empresa bloqueou por padrão o uso em páginas de serviços financeiros, conteúdo adulto e pirataria. O sistema também solicitará autorização para realizar “ações de alto risco”, como efetuar compras ou compartilhar dados pessoais. A ferramenta está sendo disponibilizada para um grupo de 1.000 assinantes do plano Max, mas interessados também podem se inscrever em uma lista de espera. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Linux Foundation adota DocumentDB da Microsoft: essa é uma extensão do PostgreSQL compatível com a API do MongoDB e licenciada sob MIT. A decisão de adicionar o projeto ao portfólio é uma resposta à mudança feita pelo MongoDB em 2018, quando passou a usar a licença SSPL, que exige que provedores de nuvem publiquem o código-fonte caso ofereçam o software como um serviço para terceiros. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores buscam levar realidade virtual ao mundo físico: com o sistema proposto, um usuário utilizando um headset de realidade mista poderia solicitar que um objeto distante fosse colocado próximo a ele. O transporte do item seria realizado por um robô invisível à percepção do usuário, criando a sensação de que está flutuando ou sendo carregado por uma representação animada, como uma abelha. A solução também tem potencial para aprimorar experiências em colaboração remota, educação, entretenimento e jogos. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity anuncia assinatura para compartilhar receita de buscas com sites de notícias: a Comet Plus – de 5 dólares mensais, ou gratuita para usuários do Pro e Max – visa distribuir parte dos ganhos para veículos parceiros, sempre que leitores usarem a ferramenta para acessar ou consumir conteúdo jornalístico. Os portais serão compensados quando o usuário clicar em seus links, o sistema citar o conteúdo em seus resumos, ou o agente de IA acessar um site associado para realizar alguma tarefa em nome do usuário. As informações são do site CNET.",
+            "url": ""
+        },
+        {
+            "text": "Cidade japonesa Toyoake propõe limitar uso de smartphones a 2 horas por dia: a medida seria aplicada em períodos fora do trabalho e da escola, e foi proposta diante de preocupações sobre os efeitos da exposição excessiva a esses aparelhos. Caso seja aprovada, ela entrará em vigor em 1º de outubro, e representará a primeira regulamentação municipal no país voltada a limitar o uso de eletrônicos. Apesar disso, não haverá penalidades em caso de descumprimento. As informações são do site Japan Wire.",
+            "url": ""
+        }
+    ]
+}
