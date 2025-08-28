@@ -1,0 +1,49 @@
+{
+    "title": "Invasão na Microsoft / Sucesso da Starship / EV ultra rápido",
+    "fps": 30,
+    "timestamp": 1756391781,
+    "width": 0,
+    "height": 0,
+    "date": "28/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Manifestantes invadem prédio e escritório do presidente da Microsoft: o grupo, composto por trabalhadores atuais e antigos da empresa, transmitiu o incidente ao vivo pela Twitch e protestava contra o fornecimento de infraestrutura e serviços para países em conflito no Oriente Médio. Como resultado, a Microsoft demitiu os funcionários envolvidos, que também foram presos durante o ato. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Starship da SpaceX obtém sucesso em seu 10º voo de teste, após falhas sucessivas: pela primeira vez, a missão liberou oito satélites simulados da Starlink, e a nave sobreviveu à reentrada mesmo com placas de proteção térmica removidas. O Super Heavy – que gera o empuxo necessário para tirar a nave da Terra – também realizou manobras e pousou no Golfo do México cerca de 7 minutos após a decolagem. Depois de 66,5 minutos de voo, a Starship pousou de forma controlada no Oceano Índico, exatamente na área prevista. As informações são do site Space.",
+            "url": ""
+        },
+        {
+            "text": "Supercarro elétrico da BYD quebra recorde de velocidade com 472,41 km/h: o feito foi alcançado por um protótipo do modelo Yangwang U9 Track Edition – ainda não disponível no mercado – equipado com mais de 3 mil cavalos de potência. O resultado supera os 438,7 km/h registrados em 2024 pelo Aspark Owl. Segundo a BYD, trata-se da primeira vez que uma marca chinesa conquista um recorde mundial nesse segmento. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Windows salvará automaticamente documentos do Word na nuvem: o arquivo poderá ser armazenado tanto no OneDrive (padrão) quanto em um serviço de preferência do usuário. A mudança começa a valer a partir da versão 2509 do aplicativo, e será implementada no Excel e PowerPoint futuramente. A configuração pode ser desabilitada nas opções do Word, na categoria “alva”. As informações são do site Ghacks.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem modelo de raciocínio inspirado no cérebro humano: o HRM utiliza apenas 27 milhões de parâmetros. Diferente dos RLMs tradicionais que usam “chain-of-thought”, a tecnologia realiza tarefas em uma única etapa, combinando módulos de planejamento abstrato e cálculos rápidos, além de ser capaz de decidir quando encerrar o raciocínio. No benchmark ARC-AGI-1, o sistema marcou 40,3%, superando o o3-mini-high (34,5%), Claude 3.7 Sonnet (21,2%) e DeepSeek R1 (15,8%). No ARC-AGI-2, ele alcançou 5%, contra 3% do o3-mini-high, 1,3% do DeepSeek R1 e 0,9% do Claude 3.7. O HRM está disponível no repositório “sapientinc/HRM” no GitHub. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam dispositivo do tamanho de uma moeda que gera energia limpa: utilizando apenas cascas de nozes descartadas e gotas de água, o WEG produz eletricidade quando o líquido evapora por meio dos poros da casca, gerando um desequilíbrio de carga elétrica. Ao conectar quatro unidades do componente, foi possível energizar uma calculadora LCD. A tecnologia pode ser aplicada em pequenos dispositivos eletrônicos, especialmente em regiões remotas. As informações são do site Tech Xplore.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedora líder do Asahi Linux anuncia saída do projeto: o trabalho de Alyssa Rosenzweig focou em tornar os Macs com Apple Silicon compatíveis com Linux, incluindo suporte completo de hardware, gráficos, computação, áudio e conectividade sem fio, permitindo executar desde ambientes desktop até jogos com aceleração adequada. Rosenzweig seguirá sua carreira na Intel, onde trabalhará no design e desenvolvimento de drivers OpenGL e Vulkan para GPUs da empresa. As informações são do site Linuxiac.",
+            "url": ""
+        },
+        {
+            "text": "IBM e AMD anunciam parceria para desenvolver arquitetura de computação de próxima geração: a iniciativa será baseada no conceito de supercomputação quântico-cêntrica, em que máquinas quânticas atuam em conjunto com infraestruturas avançadas de alto desempenho, permitindo que partes distintas de um problema sejam direcionadas ao sistema mais eficiente para solucioná-las. As equipes pretendem realizar uma demonstração inicial ainda este ano. As informações são do site da IBM.",
+            "url": ""
+        }
+    ]
+}
