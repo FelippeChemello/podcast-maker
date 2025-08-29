@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI no Brasil / Fim do Typepad / “Vibe-hacking”",
+    "fps": 30,
+    "timestamp": 1756478047,
+    "width": 0,
+    "height": 0,
+    "date": "29/08/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI abrirá seu primeiro escritório da América Latina em São Paulo até o final de 2025: a iniciativa busca atender à crescente base de usuários locais e fortalecer parcerias com empresas, desenvolvedores e o setor público. Hoje, o ChatGPT tem mais de 50 milhões de acessos mensais no Brasil, que acumulam cerca de 140 milhões de mensagens por dia, colocando o país entre os três maiores mercados globais da plataforma. Mais detalhes serão divulgados nos próximos meses. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Typepad, plataforma pioneira de blogs, encerrará suas atividades em 30 de setembro: após essa data, todas as contas serão desativadas e o acesso bloqueado. A empresa recomenda que usuários exportem seus dados e informa que não haverá mais cobranças a partir de 31 de agosto, com possibilidade de reembolso proporcional para pagamentos recentes. Lançado em 2003 pela Six Apart, o Typepad se destacou pela interface intuitiva, variedade de designs e opção de monetização, sendo amplamente usado por blogueiros, empresas e veículos de mídia. As informações são do blog do Typepad.",
+            "url": ""
+        },
+        {
+            "text": "Relatório da Anthropic destaca como cibercriminosos estão utilizando seus modelos para fins ilícitos: em um dos exemplos, denominado “vibe-hacking”, um grupo utilizou o Claude Code para extorquir dados de pelo menos 17 organizações em apenas um mês, exigindo resgates acima de 500 mil dólares. Outro caso envolve trabalhadores de TI norte-coreanos utilizando a IA para obter, de modo fraudulento, empregos em companhias da Fortune 500 nos EUA. Em cada situação, a Anthropic baniu as contas envolvidas e reforçou mecanismos de detecção de uso mal-intencionado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Governo do Brasil assina decreto que regulamenta TV 3.0: a tecnologia utilizará o recurso DTV+, onde, em vez de digitar o número do canal, o espectador acessará o aplicativo da emissora, semelhante ao de streamings em smart TVs, mas sem necessidade de conexão com a internet. Baseado no padrão ATSC 3.0, o novo sistema trará imagens em 4K, podendo chegar a 8K, com HDR e som aprimorado. A implementação começa em 2026, perto da Copa do Mundo. Inicialmente, será necessário um conversor, mas futuramente novos televisores já terão o recurso integrado. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 permitirá utilizar microfone de headsets Bluetooth sem afetar qualidade do som: antes, quando o microfone integrado era utilizado, o áudio reproduzido pelo fone era reduzido para um canal (mono). A atualização trará o recurso “super wideband stereo”, que contorna essa limitação, desde que o dispositivo de reprodução seja compatível com o Bluetooth LE Audio. A novidade é exclusiva do Windows 11 24H2 ou versões posteriores. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI adicionará controles parentais ao ChatGPT: o recurso, previsto para ser lançado em breve, dará aos responsáveis mais visibilidade e influência sobre o uso da ferramenta pelos seus filhos. A empresa também estuda incluir contatos de emergência acionáveis por mensagens ou chamadas rápidas, e até a possibilidade de o chatbot alertá-los diretamente em situações graves. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Bluesky torna-se plataforma preferida da comunidade científica em lugar do X: segundo uma pesquisa com 813 participantes da área, cerca de 75% afirmam que o X perdeu a utilidade profissional após a aquisição por Elon Musk. Quase metade mantém a conta, mas reduziu o uso, enquanto 40% a abandonaram em favor do Bluesky. Entre as críticas estão aumento de spam, bots, posts promovidos, desinformação e queda no engajamento. Já o Bluesky é visto como mais amigável e com maior interação de usuários, apesar do menor número de seguidores. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "China deve dominar quase toda produção mundial de displays até 2028: segundo um relatório, o país deve aumentar sua fatia nesse mercado de 68% em 2023 para 75% em 2028, com um crescimento médio anual de 4%. Coreia do Sul, Taiwan e Japão devem perder participação, caindo para 8%, 16% e 1%, respectivamente, enquanto a Índia só deve iniciar operações em 2030. Telas LCD para TVs e computadores devem dominar com pelo menos 73%, seguidas pelas de dispositivos móveis (14%) e OLED (4%). As informações são do site Counterpoint Research.",
+            "url": ""
+        }
+    ]
+}
