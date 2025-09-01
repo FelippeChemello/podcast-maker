@@ -1,0 +1,41 @@
+{
+    "title": "Ataque grave ao Pix / Treta na Meta / Internet quântica",
+    "fps": 30,
+    "timestamp": 1756737234,
+    "width": 0,
+    "height": 0,
+    "date": "01/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores de IA deixam novo laboratório de superinteligência da Meta e voltam para OpenAI apenas dois meses após o anúncio do projeto por Mark Zuckerberg: Shengjia Zhao, ex-pesquisador da OpenAI e figura-chave na criação do ChatGPT, também teria tentado retornar à posição anterior, chegando a assinar documentos de recontratação com a empresa. Entretanto, para evitar sua saída, Zuckerberg teria promovido Zhao ao cargo de cientista-chefe. As saídas ocorrem em meio a dificuldades internas, levantando dúvidas sobre a capacidade do laboratório de competir com outros do setor. As informações são do site Wired.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, engenheiros conseguem enviar sinais quânticos usando o protocolo de internet padrão e cabos de fibra óptica comuns: o sistema, baseado em um chip chamado “Q-Chip”, combina dados clássicos e quânticos em pacotes de rede convencionais, permitindo roteamento e correção de erros sem destruir o estado quântico. Nos testes, o método manteve fidelidade acima de 97%, superando ruídos e instabilidades típicas de redes reais. A pesquisa, publicada na revista Science, representa um marco inicial rumo a uma internet quântica compatível com a infraestrutura já existente. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft nega problemas em SSDs após atualização de agosto no Windows 11: segundo a empresa, não há relação entre a atualização de segurança KB5063878 e os relatos de falhas e corrupção de dados em SDDs e HDDs, conforme noticiamos na Newsletter há alguns dias. A Microsoft também afirma ter trabalhado em conjunto com fabricantes de dispositivos de armazenamento para tentar reproduzir o problema, mas destaca que nem a telemetria nem os testes internos mostraram aumento em falhas ou corrupção de arquivos após a instalação da atualização de agosto. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Órgão de padrões da internet propõe criação de um novo cabeçalho HTTP para indicar quando IA foi usada em uma página: segundo o IETF (Internet Engineering Task Force) isso permitiria que sistemas automatizados, como web crawlers e user agents, identificassem mais facilmente o papel da tecnologia na produção de um site. O cabeçalho incluirá as informações “mode” (se a IA foi usada na página), “model” (qual modelo gerou ou modificou o conteúdo), “provider” (qual organização criou o modelo), “reviewed-by” (quem revisou o conteúdo) e “date” (data e hora da geração). O grupo reforça que o cabeçalho serve apenas como orientação para o dispositivo que acessa a página e não é um campo seguro, podendo ser alterado por terceiros ou intermediários. A proposta ainda está em estágio de rascunho, e sua adoção será totalmente voluntária. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa com desenvolvedores mostra que profissionais com mais de 10 anos de experiência são mais propensos a usar ferramentas de geração de código por IA em comparação a programadores iniciantes: cerca de um terço dos seniores utilizam IA para produzir mais da metade de seus códigos, contra 13% dos juniores. Para desenvolvedores mais experientes, as ferramentas de IA aceleram a criação de protótipos e reduzem o tempo gasto em tarefas repetitivas, embora exijam maior revisão para detectar falhas. O estudo foi realizado com 791 desenvolvedores nos EUA. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI faz parceria com startup de biotecnologia de longevidade e anuncia avanços no uso de IA para reprogramação celular: o modelo GPT-4b micro, especializado em engenharia de proteínas, obteve um aumento de mais de 50 vezes na expressão de marcadores de células-tronco, uma taxa de sucesso significativamente maior do que métodos tradicionais, inclusive em células de doadores idosos. O experimento indica que modelos de linguagem treinados em dados biológicos podem acelerar a descoberta de terapias regenerativas. As informações são do blog da OpenAI.",
+            "url": ""
+        }
+    ]
+}
