@@ -1,0 +1,41 @@
+{
+    "title": "Atualize o WhatsApp agora / Rust é “doloroso\" / Primeiro “músico” de IA com gravadora",
+    "fps": 30,
+    "timestamp": 1756823808,
+    "width": 0,
+    "height": 0,
+    "date": "02/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp corrige vulnerabilidade de “zero clique” usada para hackear usuários de dispositivos Apple: a falha afetava os aplicativos dos sistemas iOS (versões anteriores à v2.25.21.73) e Mac (anteriores à v2.25.21.78). O ataque foi descrito pela Anistia Internacional como uma campanha avançada de spyware, ativa desde maio, e permitia roubo de mensagens. A origem dos ataques ainda não foi identificada. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Um dos criadores do Unix diz que programar em Rust é “doloroso”: Brian Kernighan – que tem 83 anos e ainda leciona na Universidade de Princeton – teve uma má experiência com a linguagem. Para Kernighan, os mecanismos necessários para garantir a segurança da memória são confusos, e tanto o compilador, como o código gerado eram lentos. Ele admite que teve um único contato com a linguagem, mas ele acredita que o Rust não irá substituir o C de qualquer forma, pelo menos de forma imediata. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Criador de músicas por IA torna-se primeiro “artista” a assinar contrato com uma gravadora: imoliver – nome artístico do designer Oliver McCann, de 37 anos – afirma não ter formação musical e não sabe cantar ou tocar instrumentos. Seu single “Stone” já tem mais de 3 milhões de reproduções em plataformas de streaming. McCann usa o Suno AI, um serviço para criação de música artificial generativa. Segundo a Deezer, músicas sintéticas já representam cerca de 18% dos uploads diários na plataforma. As informações são da Associated Press e Suno.",
+            "url": ""
+        },
+        {
+            "text": "Empresas já estão à procura de trabalhadores humanos para corrigir falhas em conteúdos gerados por inteligência artificial: designers, escritores e programadores têm relatado um aumento na demanda por ajustes em logos, textos e códigos produzidos por IA. A plataforma de trabalhos freelancer Fiverr registrou um crescimento de 250% na procura por trabalhos criativos e complexos nos últimos seis meses, com empresas buscando um “toque humano” em áreas como design, branding e produção de conteúdo. As informações são da NBC News.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia, Google e Bill Gates fazem nova rodada de investimentos em startup que está construindo reator de fusão nuclear: a Commonwealth Fusion Systems, sediada nos EUA, está desenvolvendo o reator experimental Sparc, previsto para ser ligado no próximo ano e alcançar equilíbrio científico em 2027 – quando a energia produzida pela fusão do plasma é igual à energia usada para aquecer esse plasma à temperatura de fusão. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Técnicas clássicas de persuasão podem induzir chatbots a ignorar restrições: a estratégia mais eficaz foi o uso da técnica de “Compromisso e Coerência” – após responder a uma pergunta sobre a síntese de uma substância química inofensiva, o modelo passou a atender pedidos mais sensíveis, como a produção de um anestésico controlado, em 100% dos casos. O estudo levanta preocupações sobre a vulnerabilidade de modelos de linguagem a “manipulações psicológicas” assim como nos seres humanos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
