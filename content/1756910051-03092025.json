@@ -1,0 +1,41 @@
+{
+    "title": "Google: ações disparam / Anatel: falso alerta / Reconhecimento facial de torcedores",
+    "fps": 30,
+    "timestamp": 1756910051,
+    "width": 0,
+    "height": 0,
+    "date": "03/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ações do Google disparam após decisão judicial favorável em ação antitruste contra a empresa: o juiz do caso rejeitou a proposta do Departamento de Justiça dos EUA de forçar a venda do navegador Chrome e do sistema Android, mantendo apenas algumas restrições a contratos de exclusividade e exigindo maior compartilhamento de alguns dados de busca. O Google poderá continuar os contratos de exclusividade e pagar empresas como a Apple e Mozilla para pré-instalar seus serviços em seus produtos. Até o fechamento desta edição, as ações do Google registravam alta de 9%. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Anatel abre investigação sobre falso alerta de desastre enviado a celulares localizados em São Paulo: o texto “alerta extremo: TEST warning message A+B” não teria sido emitido por nenhum sistema oficial, segundo a agência. Cidadãos que receberam o falso alerta são orientados a registrar uma ocorrência nos canais de atendimento da Anatel, informando data, hora, operadora e localização, para auxiliar na apuração da falha. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Reconhecimento facial irá impedir torcedores condenados pela Justiça de frequentar estádios em todo o país: a medida entrou em vigor nesta semana para casos de cambismo, invasões de campo, tumultos e desacato às autoridades. As decisões judiciais passam a ser registradas no Banco Nacional de Medidas Penais e Prisões (BNMP 3.0), permitindo checagem em tempo real por forças de segurança, independentemente do estado. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "CEO da Vivaldi afirma que navegador não integrará modelos de IA generativa, criticando a tendência do setor em automatizar a navegação web: Jon von Tetzchner argumenta que a prática desumaniza a web, reduz a diversidade de conteúdos e serve principalmente para coleta de dados. A companhia não rejeita totalmente a tecnologia, usando-a para tradução de idiomas dentro do navegador com modelos pré-treinados, sem depender de dados dos usuários. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI confirma monitoramento de conversas no ChatGPT, denunciando-as à polícia em casos graves: quando sistemas de segurança detectam que o usuário planeja prejudicar outras pessoas, as conversas são enviadas para revisão humana e, em situações de ameaça iminente, às autoridades policiais. A medida surge em meio a críticas sobre a ligação de chatbots a crises de saúde mental e levanta questionamentos sobre as políticas de privacidade da empresa. As informações do site Futurism.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic triplica valor de mercado com nova rodada de investimentos: a startup levantou 13 bilhões de dólares, atingindo uma avaliação de 183 bilhões. O valor será usado para ampliar a adoção de suas ferramentas, aprofundar pesquisas em segurança e expandir internacionalmente. A empresa viu sua receita anual recorrente saltar de 1 bilhão de dólares para 5 bilhões apenas em 2025, em meio ao uso de APIs e forte adoção do Claude Code. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
