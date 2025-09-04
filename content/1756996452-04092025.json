@@ -1,0 +1,41 @@
+{
+    "title": "Hack perverso / DDoS massivo / Acessibilidade por lei",
+    "fps": 30,
+    "timestamp": 1756996452,
+    "width": 0,
+    "height": 0,
+    "date": "04/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers ameaçam adicionar imagens de artistas em conjuntos para treinamento de IAs se site hackeado não pagar resgate: o grupo LunaLock invadiu o Artists&amp;Clients, site que conecta artistas independentes a clientes interessados por suas obras, exigindo pagamento sob ameaça de vazar todos os dados da plataforma, incluindo informações pessoais de usuários. Caso o resgate não seja pago, os criminosos também afirmam que irão enviar todas as obras de arte disponíveis no site a empresas de IA para inclusão em seus conjuntos de treinamento. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare bloqueia ataque DDoS recorde: o pico de 11,5 Tbps foi cerca de 60% maior que o recorde anterior. O incidente foi um ataque UDP hiper-volumétrico de aproximadamente 35 segundos, que enviou mais de 5,1 bilhões de pacotes por segundo e teve origem em uma combinação de dispositivos IoT, provedores de nuvem e contas comprometidas no Google Cloud. A rede global de mitigação da empresa detectou e neutralizou a ameaça em tempo real sem impacto notável aos clientes e ressaltou o aumento na frequência e intensidade desses ataques – nos últimos meses a Cloudflare bloqueou mais de 6,500 ataques hiper-volumétricos. As informações são do site ZDNet.",
+            "url": ""
+        },
+        {
+            "text": "Ministério Público Federal recomenda que Governo Federal regulamente, em até 45 dias, acessibilidade em sites de órgãos públicos e empresas com sede no país: o artigo 63 da Lei Brasileira de Inclusão (13.146/15) permanece sem regulamentação dez anos após a sua promulgação. Apesar da existência da norma técnica ABNT NBR 17.225/25, publicada em março deste ano, o MPF diz que, sem regulamentação, o padrão é apenas recomendatório, gera insegurança jurídica e impede fiscalização e aplicação de sanções. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Canais do YouTube que produzem vídeos de história gerados por IA estão saturando a plataforma: historiadores afirmam que esses canais estão proliferando e acumulando milhões de visualizações com vídeos longos e cheios de imprecisões. Pete Kelly, do canal History Time, alerta que esse tipo de material prejudica o trabalho de criadores que passam meses realizando pesquisas acadêmicas para produzirem apenas um vídeo. O YouTube já disse que pretende restringir conteúdos “massificados”, mas ainda não há sinais claros da eficácia dessa política. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Suíça lança modelo de linguagem nacional e de código aberto: o Apertus foi desenvolvido por universidades do país como uma alternativa a outros grandes LLMs proprietários. O Apertus prioriza segurança, transparência, soberania de dados e inclusão, disponibilizando todo o código e documentação para que pesquisadores, startups e o setor público o rodem em servidores próprios. As informações são do site Swissinfo.",
+            "url": ""
+        },
+        {
+            "text": "Atlassian adquire The Browser Company, desenvolvedora dos navegadores Arc e Dia, por 610 milhões de dólares: a ideia é conectar os navegadores ao portfólio de ferramentas de trabalho da Atlassian, como Jira, Trello, Bitbucket, entre outros. A prioridade será desenvolver o Dia – que possui um assistente de IA integrado – para indivíduos que passam a maior parte do tempo trabalhando dentro de navegadores. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
