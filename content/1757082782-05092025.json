@@ -1,0 +1,45 @@
+{
+    "title": "Mais um ataque ao Pix / Wi-Fi para saúde / Alunos “hackeando” tarefas",
+    "fps": 30,
+    "timestamp": 1757082782,
+    "width": 0,
+    "height": 0,
+    "date": "05/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Banco Central comunica novo incidente no sistema Pix: o ataque tornou indisponível o serviço de QR Code Pix de uma instituição financeira (que não foi nomeada). Não houve perdas financeiras ou roubo de dados. Na sexta-feira passada, criminosos invadiram o sistema da Sinqia, empresa que conecta instituições financeiras ao Pix, e roubaram cerca de 710 milhões de reais, segundo últimas estimativas. As informações são do portal UOL.",
+            "url": ""
+        },
+        {
+            "text": "Sinais Wi-Fi podem medir frequência cardíaca com precisão de nível clínico, sem necessidade de dispositivos vestíveis: a técnica Pulse-Fi combina transmissores/receptores Wi-Fi de baixo custo (ESP32 e Raspberry Pi) e funciona independentemente da posição do equipamento ou se o indivíduo está sentado, deitado ou se movimentando. O sistema também apresenta resultados promissores para medir a respiração e detectar apneia do sono. As informações são do site da Universidade da Califórnia em Santa Cruz.",
+            "url": ""
+        },
+        {
+            "text": "Alunos de escolas estaduais de São Paulo estão utilizando scripts para realizar tarefas em plataformas digitais em segundos: os códigos são compartilhados em grupos de redes sociais e um servidor no Discord com mais de 200 mil membros, e permitem automatizar atividades em ferramentas como Tarefa SP, Khan Academy, Matific, SPeak e Redação Paulista. Alguns estudantes chegam a cobrar até 10 reais para executar as lições de colegas. A Secretaria de Educação afirma que vai monitorar a situação e acionar fornecedores para reforçar a segurança. As informações são da Folha de S. Paulo.",
+            "url": ""
+        },
+        {
+            "text": "Estudo do banco central dos EUA mostra que adoção de inteligência artificial pelas empresas não resultou em cortes significativos de empregos até este momento: o levantamento indica que a tecnologia tem levado mais a treinamentos do que a demissões. Atualmente, 40% das empresas de serviços utilizam IA e na indústria, o índice chega a 26%. As informações da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Política rígida de trabalho presencial da Amazon está prejudicando a atração de talentos de tecnologia, especialmente de especialistas em IAs generativas: muitos candidatos recusam propostas de emprego, preferindo menor remuneração em empresas que oferecem a flexibilidade de trabalho remoto. Empresas do setor de tecnologia, como a Oracle, já contrataram mais de 600 ex-funcionários da Amazon nos últimos dois anos, enquanto relatórios mostram índices de retenção de engenheiros mais baixos em comparação à Meta, OpenAI e Anthropic. As informações são do site Business Insider.",
+            "url": ""
+        },
+        {
+            "text": "Google retira meta de emissões zero até 2030 de seu site: a mudança ocorre em meio ao forte aumento no consumo de energia de seus data centers, impulsionado pela expansão da inteligência artificial — em 2024, a demanda elétrica subiu 26%, alcançando 32 terawatts-hora, quase o consumo total da Irlanda. A empresa afirma que mantém o objetivo de emissões zero, o qual depende fortemente da aquisição de créditos de carbono e novas fontes de energia limpa. As informações são do site Canada's National Observer.",
+            "url": ""
+        },
+        {
+            "text": "Stripe lança blockchain voltada para pagamentos com stablecoins, já em fase de testes privados: a plataforma Tempo pretende alcançar até 100 mil transações por segundo, com gravação de forma permanente e irreversível no blockchain em menos de um segundo. A iniciativa busca atender pagamentos globais, remessas, micropagamentos e depósitos tokenizados. Entre os parceiros que colaboraram com o design estão Nubank, OpenAI, Visa, Deutsche Bank, Revolut e Shopify. As informações são do site CoinDesk.",
+            "url": ""
+        }
+    ]
+}
