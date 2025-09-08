@@ -1,0 +1,49 @@
+{
+    "title": "“LinkedIn” da OpenAI / Dano em cabos submarinos / MS BASIC open-source",
+    "fps": 30,
+    "timestamp": 1757342256,
+    "width": 0,
+    "height": 0,
+    "date": "08/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI está desenvolvendo uma plataforma de empregos: a ideia é que profissionais participem de cursos de alfabetização tecnológica oferecidos pela OpenAI Academy e, em seguida, possam divulgar seus perfis. Grandes empresas, como o Walmart, já aderiram ao projeto. Por outro lado, a iniciativa pode gerar atrito com a Microsoft, dona do LinkedIn e parceira estratégica da OpenAI. Ainda não há nome oficial nem previsão de lançamento definidos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Danos físicos em cabos submarinos no Mar Vermelho afetam desempenho de serviços em nuvem: os sistemas afetados, SEA-ME-WE 4 e IMEWE, conectam a Ásia à Europa e transportam dados de empresas como Microsoft, Meta e Google. O incidente obrigou a Microsoft a redirecionar o tráfego do Azure, causando picos de latência e degradação de desempenho para usuários da região. Os reparos podem se estender por semanas devido à escassez de navios especializados e à sensibilidade geopolítica do Mar Vermelho. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Código-fonte do Microsoft BASIC é disponibilizado ao público: a tecnologia, escrita em Assembly, foi desenvolvida entre 1976 e 1978 para o processador 6502, presente em computadores e consoles como Apple II, Atari 2600, VIC-20, Commodore 64 e Nintendo Entertainment System. O conteúdo liberado corresponde à versão 1.1, que influenciou o desenvolvimento do MS-DOS e os sistemas operacionais posteriores da companhia, além de contribuir para a padronização de implementações de linguagens de programação. O projeto pode ser conferido no repositório “microsoft/BASIC-M6502” no GitHub. As informações são do site PC World.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia inicia processo para formalizar equivalência entre LGPD do Brasil e GDPR da UE: a medida permitirá a livre circulação de dados entre as regiões sem autorizações adicionais, e deve criar a maior área global de fluxo confiável de informações, abrangendo 670 milhões de pessoas. Além disso, a decisão pode facilitar o intercâmbio entre empresas, serviços públicos e centros de pesquisa. Segundo um membro da Comissão, o Brasil construiu uma “estrutura sólida” de salvaguardas para a privacidade e a proteção de dados pessoais. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla encerrará suporte ao Firefox em Linux de 32 bits em 2026: a compatibilidade será finalizada com o lançamento da versão 144. Usuários afetados devem migrar para um sistema operacional de 64 bits ou utilizar o Firefox ESR 140, que seguirá recebendo atualizações de segurança pelo menos até setembro do próximo ano. A empresa afirma que a baixa adoção dessa arquitetura torna sua manutenção mais complexa e instável. As informações são do blog da Mozilla.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI deve lançar chip próprio de IA no próximo ano: segundo fontes próximas ao assunto, a empresa firmou parceria com a Broadcom para viabilizar o projeto, visando reduzir sua dependência da Nvidia. Estima-se que o contrato movimente 10 bilhões de dólares. A companhia pretende utilizar os chips internamente, sem disponibilizá-los a clientes externos. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic concorda em pagar valor recorde de 1,5 bilhão de dólares para encerrar processo movido por autores de livros: o litígio abrange o uso de obras pirateadas no treinamento dos modelos da empresa. O acordo cobre aproximadamente 500 mil títulos, com cada um recebendo cerca de 3 mil dólares, e inclui a destruição dos conjuntos de dados usados pela companhia até 25 de agosto. Segundo os advogados dos autores, trata-se da maior indenização por violação de direitos autorais já divulgada publicamente. As informações são do site Deadline.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia multa Google em 3,5 bilhões de dólares por práticas anticompetitivas no mercado de anúncios: segundo a autoridade, a empresa favorece suas próprias plataformas – por exemplo, a exigência do uso do Ad Manager para exibição de publicidade no YouTube –, prática que teria elevado custos para anunciantes. A companhia terá 60 dias para apresentar um plano de correção ou poderá ser obrigada a vender parte de seu negócio de publicidade. O Google classifica a decisão como “equivocada” e afirma que recorrerá. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
