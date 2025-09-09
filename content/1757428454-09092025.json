@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: pacotes NPM / BC reforça PIX / Filme da OpenAI",
+    "fps": 30,
+    "timestamp": 1757428454,
+    "width": 0,
+    "height": 0,
+    "date": "09/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Banco Central reforça segurança do PIX após ataques ao sistema financeiro: agora, transferências acima de 15 mil reais só serão permitidas a instituições e prestadores de serviços intermediários que cumprirem todos os requisitos de segurança do órgão. Além disso, nenhuma empresa de pagamentos poderá operar sem autorização prévia, com prazo até maio de 2026 para regularização. As medidas foram anunciadas após o ataque que desviou 710 milhões de reais de duas instituições em 29 de agosto. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lançará filme de animação feito com IA nos cinemas em 2026: o Critterz terá estreia global e está sendo produzido majoritariamente com as próprias ferramentas da empresa, incluindo o GPT-5. O projeto, em parceria com os estúdios Native Foreign e Vertigo Films, busca competir com animações de grande orçamento, mas com investimento inferior a 30 milhões de dólares e produção estimada em apenas nove meses. A iniciativa pretende mostrar que a tecnologia pode alcançar resultados de alto nível e atrair Hollywood para o uso de IA em grandes títulos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cibercriminosos paralisam produção global da Jaguar Land Rover: entre os países afetados estão Inglaterra, Eslováquia, China, Índia e Brasil. O ataque foi reivindicado pelo grupo “Scattered Lapsus$ Hunters”, resultado da fusão de Scattered Spider, Lapsus$ e ShinyHunters. Concessionárias e oficinas continuam operando, mas recorrendo a processos manuais, como papel e caneta para registrar veículos e garantir peças de reposição. No pior cenário, estima-se que a situação se normalize apenas em outubro. As informações são dos sites Tom's Hardware e The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Phison confirma que atualização de agosto do Windows 11 não causou problemas em SSDs: segundo relatos passados, a unidade de disco desaparecia do sistema operacional após transferências pesadas de arquivos. No entanto, de acordo com o grupo chinês PCDIY!, as falhas ocorreram apenas em unidades com firmware de engenharia de pré-lançamento, que não chegam ao consumidor final. O problema foi identificado e verificado pelos engenheiros da Phison. Usuários que enfrentam dificuldades semelhantes devem atualizar o firmware do SSD. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Signal anuncia backup diário de mensagens: o recurso utiliza criptografia de ponta a ponta, inclui todas as conversas e até 45 dias de mídias gratuitamente, com opção de plano pago de 1,99 dólar mensal para armazenar todo o histórico de mídias. O arquivo de backup é protegido por uma chave exclusiva de 64 caracteres, gerada diretamente no dispositivo e sem vínculo com a conta, sendo recomendada sua guarda em local seguro. A função já está disponível na versão beta mais recente para Android, e chegará em breve ao iOS e desktop. As informações são do blog do Signal.",
+            "url": ""
+        },
+        {
+            "text": "Nepal proíbe 26 plataformas de mídia social, incluindo WhatsApp, Facebook, Instagram, YouTube e LinkedIn: a medida foi tomada após essas empresas se recusarem a cumprir novos requisitos de registro. A decisão gera preocupações sobre impactos na liberdade de imprensa, no turismo e no contato de famílias com parentes migrantes. A nova lei exige licença e representante responsável por reclamações, mas até agora apenas Viber e TikTok atenderam às exigências. As informações são do site The New York Times.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria limitado pesquisas sobre riscos da realidade virtual para crianças e adolescentes: segundo quatro funcionários e ex-colaboradores, a empresa acionou advogados para revisar e vetar estudos relacionados à segurança de jovens no uso da tecnologia após vazamentos ao Congresso dos EUA. A companhia nega e afirma ter aprovado quase 180 pesquisas desde 2022 no Reality Labs, que já levaram a atualizações como ferramentas de supervisão parental. Além disso, reforça que seus dispositivos são voltados apenas a maiores de 13 anos. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
