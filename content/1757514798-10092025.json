@@ -1,0 +1,45 @@
+{
+    "title": "NPM: mais um alerta / App Store BR lucrativa / WhatsApp acusado",
+    "fps": 30,
+    "timestamp": 1757514798,
+    "width": 0,
+    "height": 0,
+    "date": "10/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ataque que afetou pacotes NPM com mais de 2 bilhões de downloads semanais compromete também conta do DuckDB: uma análise mostra que o código malicioso é o mesmo utilizado no ataque anterior, o que indica tratar-se da mesma campanha. Todas as bibliotecas do DuckDB já foram atualizadas, removendo o malware. Mais informações sobre os módulos afetados estão disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "App Store gerou 63,8 bilhões de reais para desenvolvedores brasileiros em 2024: segundo um estudo feito por uma pesquisadora brasileira e financiado pela Apple, 90% desse valor é isento de comissão, enquanto entre os que pagaram, 78% tiveram taxa reduzida de 15%. Os criadores de aplicativos do país registraram 570 milhões de downloads globais nesse período, 53% vindos do exterior. A receita se dividiu em 9% de produtos e serviços digitais, 79% de produtos físicos e 12% de publicidade dentro dos apps. O estudo surge em meio à pressão regulatória do CADE para permitir pagamentos alternativos no iOS. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Ex-executivo de cibersegurança do WhatsApp acusa Meta de expor bilhões de usuários: Attaullah Baig afirma que 1.500 engenheiros da empresa tinham acesso irrestrito a dados como contatos e endereços IP, que mais de 100 mil contas eram invadidas diariamente sem correção adequada e que medidas básicas de proteção foram negligenciadas. Ele diz ter alertado executivos, incluindo Mark Zuckerberg, mas acabou demitido em fevereiro por suposto “baixo desempenho”. A Meta nega as acusações. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Taxa de adoção de IA em empresas dos EUA com mais de 250 funcionários caiu para 12% em agosto: em junho, esse número era de 13,5%, representando a primeira queda desde 2022. A informação foi divulgada pelo U.S. Census Bureau, que analisa 1,2 milhão de companhias, com amostras coletadas a cada duas semanas. Por outro lado, a adoção em organizações com 1 a 4 colaboradores cresceu de 5% em 2023 para mais de 10% em 2025. No final de 2023, 3,9% das empresas utilizavam a tecnologia para vender ou produzir bens e serviços, chegando a mais de 5% em meados de 2024. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Nintendo conquista indenização de 2 milhões de dólares nos EUA contra criador de mods do Switch: Ryan Daly, responsável pela loja “Modded Hardware”, vendia dispositivos como o MIG Switch e o MIG Dumper, usados para rodar backups e extrair dados de jogos do console. Daly descumpriu um acordo anterior de encerrar a comercialização e foi processado por violar direitos autorais e o DMCA. A decisão também inclui a entrega de estoques e proibição de vender ou desenvolver ferramentas que burlam a proteção do dispositivo, além de dar à Nintendo o controle do site. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "ASML, principal fornecedora de equipamentos para semicondutores, anuncia parceria com Mistral: o objetivo é aplicar modelos de IA em todo o portfólio, visando sistemas de litografia mais rápidos e eficientes. Como parte do acordo, a ASML liderou a rodada série C da Mistral com um investimento de 1,3 bilhão de euros, adquirindo 11% da empresa. Além disso, o CFO da fornecedora, Roger Dassen, assumirá assento consultivo no Comitê Estratégico da Mistral. A colaboração é inédita entre o setor de semicondutores e uma companhia de IA. As informações são do site da ASML.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia atualizações para suas ferramentas de IA: usuários gratuitos do Gemini agora podem enviar áudios de até 10 minutos, enquanto assinantes do AI Pro e AI Ultra têm limite de três horas. O AI Mode integrado à busca passou a suportar mais idiomas, incluindo português brasileiro. Já o NotebookLM ganhou novos formatos de relatório, como guias de estudo, resumos, posts de blog, flashcards e quizzes – recursos que serão liberados até o fim da semana. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
