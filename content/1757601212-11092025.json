@@ -1,0 +1,45 @@
+{
+    "title": "Portátil da Atari / iPhone mais seguro / “robots.txt” aprimorado",
+    "fps": 30,
+    "timestamp": 1757601212,
+    "width": 0,
+    "height": 0,
+    "date": "11/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Atari anuncia console portátil com mais de 200 jogos retrô: com tela de 7 polegadas, o Gamestation Go se destaca por incluir paddle, trackball, teclado numérico e iluminação inteligente que indica quais controles são mais adequados para o software em execução. A bateria dura de 4 a 5 horas, e o dispositivo pode ser conectado via HDMI a uma tela maior e a controles externos por USB-C. O aparelho já está disponível em pré-venda por 179 dólares, com envio previsto para o próximo mês. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "iPhone 17 tem segurança reforçada e recebe chip próprio de Wi-Fi e Bluetooth pela primeira vez: o Memory Integrity Enforcement, descrito pela empresa como a maior atualização de segurança de memória já implementada em sistemas de consumo, está ativado por padrão no aparelho, cobrindo kernel e mais de 70 processos contra falhas como o Spectre. Segundo a companhia, o recurso eleva o custo de desenvolvimento de spywares. Outra novidade é o chip N1, desenvolvido internamente, que oferece suporte a Wi-Fi 7, Bluetooth 6 e Thread, prometendo conexões mais rápidas em recursos como AirDrop, Acesso Pessoal e uso do iPad como tela estendida. As informações são dos sites Ars Technica e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Padrão baseado no RSS utiliza arquivo “robots.txt” para bloquear crawlers que não pagam criadores de conteúdo: o “Really Simple Licensing” (RSL) permite definir termos de uso e remuneração automática. O protocolo é gratuito, aberto e pode ser aplicado a páginas web, livros, vídeos e bases de dados, suportando métodos como assinatura, pay-per-crawl (pagamento por raspagem de dados) e pay-per-inference (cada vez que o conteúdo é usado para gerar uma resposta). Sua implementação terá suporte da Fastly, e espera-se uma possível contribuição de provedores como a Cloudflare. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft torna-se primeira grande empresa de tecnologia a integrar a World Nuclear Association: a iniciativa reflete o compromisso da empresa com reatores modulares pequenos e energia de fusão para atingir a meta de operação livre de carbono. Embora já invista em fontes renováveis, a companhia vê a energia nuclear como alternativa contínua e de alta capacidade diante do aumento previsto no consumo elétrico dos data centers. Segundo a WNA, a parceria ajudará a acelerar a expansão nuclear para atender às metas climáticas e à crescente demanda energética. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic anuncia criação e edição de arquivos com Claude: isso inclui planilhas do Excel, apresentações do PowerPoint e PDFs. Os documentos podem ser baixados ou salvos no Google Drive. O recurso está disponível em prévia para os planos Max, Team e Enterprise, e será adicionado em breve ao Pro. Para mitigar riscos de segurança, a empresa implementou proteções como bloqueio de compartilhamento público, isolamento de ambientes no plano Enterprise, limites de execução e lista restrita de domínios autorizados no acesso à internet. As informações são dos sites Anthropic e Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk perde brevemente o título de pessoa mais rica do mundo para Larry Ellison, cofundador da Oracle: o patrimônio líquido de Ellison alcançou 393 bilhões de dólares nesta quarta-feira, enquanto a fortuna de Musk no mesmo período estava estimada em 385 bilhões. A valorização veio após a Oracle projetar 144 bilhões de dólares em receitas de nuvem nos próximos quatro anos. No entanto, após o fechamento do mercado, Musk voltou ao topo com uma fortuna avaliada em cerca de 436 bilhões de dólares. As informações são dos sites The Verge, CNN e Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft estaria explorando LLMs da Anthropic para reduzir dependência da OpenAI: a empresa teria firmado um acordo para utilizar os modelos da Anthropic em produtos como Word, Excel, Outlook e PowerPoint, mas sem descartar o uso das tecnologias da OpenAI. Segundo executivos da Microsoft, o Claude Sonnet 4 supera soluções da OpenAI em tarefas como criação de apresentações visualmente atraentes. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
