@@ -1,0 +1,49 @@
+{
+    "title": "NFTs “morreram” / IPO da OpenAI / Fita cassete de DNA",
+    "fps": 30,
+    "timestamp": 1757687609,
+    "width": 0,
+    "height": 0,
+    "date": "12/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Christie’s, uma das casas de leilão mais tradicionais do mundo, encerra departamento de arte digital: a decisão vem após o colapso do mercado de NFTs – um relatório do ano passado mostrou que 95% dos NFTs estavam efetivamente “mortos”, com investidores amargando uma perda média de 44,5%. O movimento contrasta com o sucesso histórico de 2021, quando a obra “Everydays: The First 5000 Days”, de Beeple, foi vendida por 69,3 milhões de dólares. A organização continuará negociando obras digitais, mas agora dentro da categoria mais ampla de arte dos séculos 20 e 21. As informações são do site ARTnews.",
+            "url": ""
+        },
+        {
+            "text": "EUA tornam-se os maiores investidores em spywares comerciais: um estudo analisou 561 entidades em 46 países entre 1992 e 2024. No ano passado, os EUA somaram 31 investidores nesse mercado, superando outras regiões como Israel (26) e Itália (12). Parte do capital norte-americano foi direcionado à Cognyte. Outro exemplo inclui a aquisição da Paragon Solutions pela AE Industrial Partners no final de 2024, em um acordo de até 900 milhões de dólares. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI fecha acordo com Microsoft que possibilita abertura de capital: o arranjo permite que a OpenAI seja tratada como concorrente, utilize provedores de nuvem alternativos para capacidade de processamento e aumenta a dependência da Microsoft em seus próprios modelos de IA. Além disso, a OpenAI destaca que sua entidade-mãe sem fins lucrativos continuará a ter autoridade sobre o negócio com fins lucrativos, mantendo participação acionária avaliada em mais de 100 bilhões de dólares. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses criam “fita cassete de DNA” capaz de armazenar todas as músicas já gravadas: o dispositivo usa uma longa fita plástica incorporada com filamentos sintéticos de DNA, codificados para guardar arquivos digitais, e oferece alta densidade de armazenamento, chegando a 36 petabytes — suficiente para mais de 3 bilhões de faixas, considerando 10 megabytes por música. A fita possui milhares de partições de dados, múltiplas cópias para preservar a integridade por séculos e permite a recuperação de informações em até 50 minutos. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Empresa de defesa contra DDoS é atingida por recorde de pacotes maliciosos: segundo a companhia FastNetMon, um ataque de 1,5 bilhão de pacotes por segundo, originado de roteadores MikroTik e dispositivos IoT comprometidos em mais de 11 mil redes ao redor do mundo, quase derrubou uma fornecedora de mitigação de DDoS na Europa Ocidental, cujo nome não foi revelado. Ao contrário de outros tipos de ataques DDoS focados em esgotar a largura de banda, o dessa ocasião busca esgotar os recursos de processamento enviando pacotes UDP inúteis. Apesar do alcance, a investida foi identificada e neutralizada em poucos segundos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Windows 10 registra aumento de uso mesmo faltando um mês para o fim do suporte: segundo dados de agosto do Statcounter, o Windows 11 caiu de 53% para 49% de participação, enquanto o Windows 10 subiu de 42% para 45%. Curiosamente, o Windows 7, mesmo sem suporte, avançou de 2% para 3,5%. Embora a plataforma baseie as suas estatísticas em bilhões de visitas de usuários por mês, os números podem não refletir fielmente a real participação de cada sistema. As informações são do site Ghacks.",
+            "url": ""
+        },
+        {
+            "text": "Arm anuncia sua próxima geração de designs de chips: a linha Lumex é projetada para rodar modelos de IA em dispositivos móveis sem depender de servidores na nuvem. Os componentes variam de versões eficientes para dispositivos vestíveis até as de alto desempenho para smartphones premium. A família inclui CPUs da série C1 e uma nova GPU Mali G1-Ultra. As informações são dos sites Reuters e Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Juiz suspende acordo de 1,5 bilhão de dólares da Anthropic por pirataria de livros: William Alsup teme que os escritores estejam sendo pressionados a aceitar o acordo. O magistrado também destaca a falta de clareza sobre o número exato de obras envolvidas — estimado em 465 mil — e ressalta que os participantes precisam receber um aviso claro para garantir plena ciência do caso. Pelo acerto, cada livro renderia cerca de 3 mil dólares a autores e editoras. Uma nova audiência está marcada para o dia 25. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
