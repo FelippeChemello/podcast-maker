@@ -1,0 +1,45 @@
+{
+    "title": "China: vazamento histórico / DOOM em SQL / IA ministra",
+    "fps": 30,
+    "timestamp": 1757946739,
+    "width": 0,
+    "height": 0,
+    "date": "15/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grande Firewall da China sofre maior vazamento de sua história: segundo pesquisadores, mais de 500 GB de documentos internos, código-fonte e registros de sessões foram divulgados online. Os arquivos também incluem sistemas de inspeção profunda de pacotes e módulos para detectar VPNs. A análise do código-fonte ainda está em andamento, e especialistas afirmam que os logs podem revelar falhas exploráveis por ferramentas de circumvenção. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Cientista da computação utiliza SQL para criar jogo multiplayer inspirado em DOOM: o DOOMQL, de Lukas Vogel — cofundador da CedarDB — roda a 30 quadros por segundo em uma resolução de 128 x 64 pixels. Ele utiliza SQL puro para renderização e entradas multiplayer, mantendo o estado em tabelas que incluem mapa, jogadores, inimigos e sprites. Um cliente em Python captura entradas do usuário e consulta o banco de dados que gera a visão 3D. O projeto está disponível no repositório cedardb/DOOMQL no GitHub. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Primeiro-ministro da Albânia propõe nomear IA como ministra: o chatbot governamental “Djella”, criado em 2024, é executado no ambiente Azure OpenAI da Microsoft, integrando os modelos mais recentes da empresa. Desde seu lançamento, a ferramenta evoluiu de assistente virtual para avatar inteligente com interação por voz e visual, oferecendo informações sobre serviços públicos em tempo real. Edi Rama pretende torná-la responsável por compras públicas, prometendo licitações “100% incorruptíveis e transparentes”. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Grammarly, software de escrita e revisão em inglês, anuncia suporte ao português: alemão, espanhol, francês e italiano também serão compatíveis. Segundo Luke Behnke, vice-presidente de produtos empresariais, a expansão era o recurso mais pedido pelos usuários, embora não esteja claro se, no caso do português, o idioma é o do Brasil ou de Portugal. A novidade, ainda em fase beta, está disponível para Windows, Mac e Chrome. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Inventor da World Wide Web defende que algoritmos “viciantes” sejam considerados ilegais: segundo Tim Berners-Lee, redes sociais lucram utilizando essa tecnologia para explorar sentimentos negativos por meio de conteúdos nocivos. Ele defende que essas plataformas não deveriam ser projetadas com tais mecanismos e que crianças devem ter acesso à web sem exposição a eles, podendo, por outro lado, usar recursos como Wikipédia, comunicação por celular e navegação livre. As informações são do site ITV.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas desenvolvem mini chip 6G capaz de transferir dados a mais de 100 gigabits por segundo: o componente, de apenas 1,7 por 11 milímetros, integra nove faixas de radiofrequência entre 0,5 e 110 GHz, superando a limitação dos dispositivos atuais. A velocidade pode ser alcançada inclusive em frequências usadas em áreas rurais, bem acima da rede celular mais rápida dos EUA, que registrou 299,36 megabits por segundo no primeiro semestre deste ano. Em testes, a comunicação se manteve estável em todas as faixas de frequência. As informações são do site Live Science.",
+            "url": ""
+        },
+        {
+            "text": "Relatório educacional que defende uso ético da IA em instituições de ensino canadenses contém mais de 15 referências falsas: uma delas menciona um suposto filme de 2008 do National Film Board chamado “Schoolyard Games”, que nunca existiu. Essa citação vem de um guia de estilo da Universidade de Victoria, criado apenas para ensinar estudantes a formatar referências usando exemplos fictícios. Não está claro se o erro foi cometido por um modelo de linguagem ou um humano. O relatório, intitulado “A Vision for the Future: Transforming and Modernizing Education”, será revisado para corrigir as falhas. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
