@@ -1,0 +1,45 @@
+{
+    "title": "“Google” caseiro / Reparadores de vibe coding / Câmera de perovskita",
+    "fps": 30,
+    "timestamp": 1758033336,
+    "width": 0,
+    "height": 0,
+    "date": "16/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Programador desenvolve mecanismo de busca com IA que roda em dois servidores caseiros: o Searcha Page e sua versão anônima Seek Ninja, criados por Ryan Pearce, possuem um banco de dados de mais de 2 bilhões de índices, em contraste com os 400 bilhões do Google. O sistema roda em um AMD EPYC 7532 de 32 núcleos e utiliza algoritmos de aprendizado de máquina para expandir palavras-chave e compreender o contexto da busca, oferecendo resultados relevantes com baixo consumo de recursos. Os mecanismos podem ser acessados em seus sites oficiais. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedores freelancers e empresas lucram corrigindo softwares criados com vibe coding: segundo o programador Hamid Siddiqi, os ajustes vão de interfaces inconsistentes e códigos mal otimizados a correções visuais, como cores, animações e layouts. No setor empresarial, a Ulam Labs é um dos exemplos de companhias que atuam nesse segmento. Já a plataforma VibeCodeFixers conta com quase 300 programadores cadastrados. Segundo seu criador, a maior parte dos vibe coders são gerentes de produto, profissionais de vendas ou pequenos empreendedores. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas criam “câmera de perovskita” capaz de enxergar dentro do corpo humano: o dispositivo consegue registrar raios gama individuais com alta precisão, prometendo exames de imagem SPECT mais rápidos, nítidos e seguros, com menor exposição do paciente à radiação. As perovskitas também são mais acessíveis e baratas em relação ao telureto de cádmio-zinco e iodeto de sódio, atualmente utilizados nesses detectores, podendo ampliar o uso da tecnologia em hospitais e clínicas. As informações são do site da Universidade de Northwestern.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI atualiza Codex com nova versão do GPT-5: o modelo agora é capaz de ajustar dinamicamente seu tempo de raciocínio, podendo levar de segundos a mais de sete horas para concluir tarefas. No benchmark SWE-bench Verified, ele atingiu 74,5% de acerto, superando o GPT-5 high (72,8%). Em refatoração de grandes repositórios de código, obteve 51,3%, contra 33,9% do GPT-5 high. A ferramenta já está disponível para usuários dos planos Plus, Pro, Business, Edu e Enterprise, e chegará aos clientes da API em breve. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft vai forçar instalação do Microsoft 365 Copilot no Windows em outubro: o aplicativo integra o assistente aos programas do Office, incluindo Word, Excel e PowerPoint. O software será adicionado ao Menu Iniciar e ativado por padrão. Administradores de TI em organizações poderão bloquear a instalação pelo Centro de Administração do Microsoft 365 Apps. O procedimento será realizado em dispositivos que possuam os apps de desktop do Microsoft 365. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Comandos ocultos em pixels de imagens podem manipular agentes de IA, segundo estudo: essas mensagens, invisíveis ao olho humano, podem instruir o sistema a expor dados sensíveis. Uma foto publicada no X também poderia induzir o modelo a retuitar o conteúdo, desencadeando um efeito em cascata. Os pesquisadores alertam especialmente para IAs de código aberto, as quais permitem que qualquer pessoa estude como a tecnologia interpreta pixels. Os papéis de parede são considerados uma ameaça particular por permanecerem visíveis constantemente no computador. Apesar disso, não há registros de casos reais de exploração. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Windows 11 pode ganhar teste de velocidade de internet integrado: a novidade aparece nas compilações 26220.6682 e 26120.6682 (KB5065782) do canal Insider. O recurso é acessível pelo ícone de rede ou pelas configurações rápidas do Wi-Fi. A função, no entanto, não é totalmente nativa e redireciona o usuário para o Bing a fim de realizar o teste. Não há previsão de lançamento para o público geral. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
