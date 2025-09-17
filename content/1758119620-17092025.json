@@ -1,0 +1,45 @@
+{
+    "title": "Microsoft: treta com OpenAI? / NPM: novo ataque / Servidor em vape",
+    "fps": 30,
+    "timestamp": 1758119620,
+    "width": 0,
+    "height": 0,
+    "date": "17/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft passa a favorecer modelos da Anthropic no VS Code: o editor está selecionando automaticamente o Claude Sonnet 4 como “desempenho ideal” para usuários pagos do Copilot. Fontes próximas da companhia afirmam que a Microsoft vem orientando seus próprios desenvolvedores a utilizarem o modelo da Anthropic nos últimos meses. Usuários ainda terão como opções os modelos da OpenAI. A decisão causa estranheza porque a Microsoft já investiu mais de 13 bilhões de dólares na OpenAI desde 2019. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ataque à cadeia de suprimentos atinge mais de 180 pacotes do NPM: a campanha, denominada Shai-Hulud, contém um código malicioso capaz de se autorreplicar para outras bibliotecas de um mesmo mantenedor. O script injetado faz uso da ferramenta legítima TruffleHog para localizar dados sensíveis expostos por engano, como chaves de API, senhas e tokens em repositórios de código. Entre os módulos afetados estão ctrl/tinycolor (nas versões 4.1.1 e 4.1.2, e corrigido na 4.2.0), com mais de 2 milhões de downloads semanais, e outros publicados pela CrowdStrike, que afirma já ter removido as dependências comprometidas. Mais informações estão disponíveis no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro cria servidor web que roda em vape descartável: o VapeServer, de BogdanTheGeek, consiste em uma unidade equipada com processador Arm Cortex M0+ de 24 MHz, 24 KB de armazenamento Flash e 3 KB de SRAM – 100 vezes mais lento que um celular de uma década atrás. Inicialmente, o servidor levava 20 segundos para exibir uma página simples, mas após otimizações no código esse tempo foi reduzido para 160 milissegundos. Mais detalhes estão disponíveis no repositório BogdanTheGeek/semihost-ip no GitHub. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Solução da OpenAI para alucinações poderia reduzir uso do ChatGPT: segundo um estudo da empresa, mesmo com dados de treinamento perfeitos, erros acabam sendo inevitáveis, visto que a geração palavra por palavra acumula falhas ao longo da saída. A proposta dos pesquisadores é que o sistema só responda quando atingir mais de 75% de confiança, o que reduziria significativamente as alucinações, mas prejudicaria a experiência do usuário, caso o ChatGPT retornasse “não sei” em cerca de 30% das interações. As informações são do site The Conversation.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia aplicativo de busca para Windows: a ferramenta é acionada com o atalho Alt + Espaço e permite localizar arquivos no PC, Drive e na internet, além de integrar o Lens. Semelhante ao Spotlight do macOS, a barra de busca permanece visível na área de trabalho, e pode ser movida, redimensionada e minimizada. Inicialmente, a novidade está disponível via Search Labs e restrita a usuários dos EUA. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Batalha judicial entre Internet Archive e gravadoras termina em acordo: a disputa envolvia o Great 78 Project, que busca preservar 3 milhões de gravações musicais antigas registradas em frágeis discos de goma-laca, a fim de auxiliar historiadores na documentação da história fonográfica. Gravadoras como UMG Recordings, Capitol Records e Sony Music Entertainment alegaram perdas de até 700 milhões de dólares com o projeto. Os termos do acordo ainda não foram divulgados. Também é improvável que o valor final seja tornado público. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Google lança seu primeiro LLM focado em privacidade: o VaultGemma utiliza uma técnica chamada “differential privacy”, que busca reduzir a memorização de dados sensíveis durante o treinamento, inserindo um ruído calibrado. O método, em contrapartida, oferece desvantagens em termos de precisão e demanda computacional. O sistema é baseado no Gemma 2 e possui apenas 1 bilhão de parâmetros. Apesar disso, o Google afirma que ele apresenta desempenho comparável a modelos não privados do mesmo porte. A tecnologia já está disponível no Hugging Face e Kaggle. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
