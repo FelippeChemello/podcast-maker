@@ -1,0 +1,41 @@
+{
+    "title": "SDDs mais caros / Óculos da Meta no Brasil / Computador quântico inédito",
+    "fps": 30,
+    "timestamp": 1758206046,
+    "width": 0,
+    "height": 0,
+    "date": "18/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Escassez e aumento de preços de HDDs e SSDs devem se intensificar com avanço da IA: segundo um relatório da TrendForce, a Western Digital alertou seus clientes sobre uma “demanda sem precedentes” de seu portfólio, e anunciou um aumento no valor de seus discos rígidos. Além disso, o prazo de entrega para unidades de grande capacidade do tipo “nearline” ultrapassa um ano. Pensando nisso, fabricantes já estão desenvolvendo componentes voltados especificamente para esse tipo de uso, o que pode contribuir para reduzir custos no futuro. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Meta lançará, pela primeira vez, seus óculos inteligentes no Brasil: a segunda geração do Ray-Ban Meta, previsto para 30 de setembro nos EUA, oferece até oito horas de bateria, tradução em tempo real e câmera ultrawide de 12 MP e vídeos em 3K. Já o Oakley Meta Vanguard, previsto para 21 de outubro nos EUA, é voltado para esportes, com integração com apps de fitness como Garmin e Strava. No mercado internacional, os preços variam entre 379 e 499 dólares. Ainda não há data de lançamento nem preços confirmados no Brasil. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Startup anuncia primeiro computador quântico do mundo baseado em chips de silício comuns: o equipamento da Quantum Motion foi construído inteiramente com o processo convencional CMOS, utilizado em componentes de notebooks e celulares. Além disso, ocupa apenas três racks de 19 polegadas, em contraste com sistemas tradicionais que exigem estruturas do porte de uma geladeira industrial ou uma pequena sala técnica. Apesar do avanço, não há detalhes de desempenho, como número de qubits ou estratégias de correção de erros. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI divulga estudo sobre como usuários utilizam ChatGPT: a empresa analisou 1,1 milhão de conversas desde maio de 2024 até junho de 2025. Segundo os dados, em junho, 72,2% das mensagens não estavam ligadas ao trabalho, contra 53% no mesmo período de 2024; 28% lidavam com assistência de escrita, número que chega a 42% em tarefas de trabalho e a 52% entre usuários em cargos de gestão ou negócios; 10,6% envolviam edição ou crítica de textos, 4,5% tradução e 1,4% escrita de ficção; 14,9% das conversas relacionadas ao trabalho buscavam apoio para tomada de decisão ou resolução de problemas. Usos menos frequentes incluem criação ou busca de imagens (6%), programação de computadores (4,2%) e cálculo matemático (3%). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "YouTube afirma que bloqueadores de anúncios podem afetar contagem de visualizações: desde meados de agosto, criadores relatam quedas significativas nos números. Apesar de não confirmar a causa do problema, a empresa reconhece que essas ferramentas podem prejudicar a precisão da contagem. A hipótese é considerada consistente, visto que o canal Linus Tech Tips, por exemplo, observa que, apesar da diminuição nas visualizações, a receita com anúncios permanece estável. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Norte-americanos rejeitam interferência da IA em suas vidas pessoais: segundo uma pesquisa com mais de 5 mil adultos dos EUA, cerca de 66% defendem que a tecnologia fique completamente afastada de suas vidas amorosas, enquanto 73% acreditam que ela não deveria aconselhar ninguém sobre crenças religiosas. Apenas 18% aceitariam algum papel da tecnologia em encontros, e 3% em funções relevantes nessa área. Por outro lado, os entrevistados demonstram apoio ao uso desses sistemas em previsões meteorológicas ou pesquisas médicas. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
