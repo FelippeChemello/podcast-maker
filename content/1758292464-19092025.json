@@ -1,0 +1,49 @@
+{
+    "title": "Cloudflare “ataca” a si mesma / Nvidia investe na Intel / Data center massivo",
+    "fps": 30,
+    "timestamp": 1758292464,
+    "width": 0,
+    "height": 0,
+    "date": "19/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare derruba seus próprios serviços devido a bug em código React: o incidente, ocorrido no último dia 12, durou mais de uma hora e foi causado por chamadas repetidas à Tenant Service API. O problema decorreu de um hook useEffect com um objeto no array de dependências que se recriava a cada alteração, executando a função várias vezes em uma única renderização e sobrecarregando a API. Como medida preventiva, a capacidade da Tenant Service foi reforçada e as chamadas de API ajustadas para diferenciar tentativas repetidas de novas requisições. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia investe 5 bilhões de dólares na Intel: o acordo prevê o desenvolvimento conjunto de múltiplas gerações de produtos personalizados para data centers e PCs. A Intel fabricará SoCs x86 com chiplets de GPU RTX da Nvidia, unindo CPUs e GPUs em um mesmo sistema, enquanto as empresas também trabalharão na integração de suas arquiteturas via NVLink. Após o anúncio, as ações da Intel registraram alta de 28% nas negociações pré-mercado. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia construção do data center de IA mais poderoso do mundo: o Fairwater, previsto para 2026, será inaugurado em Wisconsin. O complexo terá 111 mil metros quadrados distribuídos em três prédios dentro de um terreno de 127,5 hectares, e abrigará centenas de milhares de GPUs Nvidia GB200 interconectadas por fibras ópticas em quantidade suficiente para dar 4,5 voltas ao redor da Terra. Segundo a empresa, esse supercluster de GPUs será dez vezes mais poderoso que o supercomputador mais rápido da atualidade. O design também inclui sistema de refrigeração em circuito fechado para reduzir o desperdício de água. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Gemini 2.5 Deep Think conquista medalha de ouro em competição internacional de programação: no ICPC 2025, milhares de estudantes universitários enfrentaram 12 problemas de alta complexidade ao longo de cinco horas. Ao fim do tempo limite, o modelo solucionou 10 questões — resultado alcançado por apenas quatro das 139 equipes humanas. As soluções do sistema estão disponíveis no repositório “google-deepmind/gemini_icpc2025” no GitHub, com destaque para o Problema C, uma otimização multidimensional que nenhum grupo conseguiu resolver. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Geladeiras Family Hub da Samsung começarão a exibir anúncios: as propagandas serão mostradas na tela da porta quando estiver em modo ocioso em temas como Clima e Quadro Diário, mas poderão ser dispensadas individualmente pelos usuários, e não aparecerão quando o display estiver configurado para projetar álbuns de fotos, por exemplo. Inicialmente a mudança ocorrerá apenas em dispositivos localizados nos EUA, como parte de um projeto piloto, e não está claro quais modelos específicos serão afetados. A linha Family Hub também é comercializada no Brasil. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Chrome receberá diversas melhorias de integração com Gemini: usuários de macOS e Windows — por enquanto apenas dos EUA — poderão acessar o modelo diretamente no navegador para esclarecer informações em páginas da web; nos próximos meses, o sistema passará a executar tarefas automaticamente no browser, como agendar compromissos e realizar compras online; o modo de Proteção Avançada usará o Gemini Nano para identificar tentativas de fraude, como falsos alertas de vírus ou promoções enganosas; o Chrome também permitirá, em breve, alterar senhas comprometidas com apenas um clique em sites compatíveis. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Zoom permitirá utilizar avatar fotorrealista em reuniões: a criação será realizada a partir de uma foto enviada pelo usuário ou capturada diretamente no aplicativo. Após isso, será possível personalizá-lo com roupas profissionais. Durante conferências, o avatar acompanhará os movimentos da pessoa, reproduzindo em tempo real fala e gestos diante da câmera. Para evitar abusos, a empresa implantará “autenticação por câmera ao vivo” e avisos visuais indicando o uso do recurso. A novidade estará disponível em dezembro para usuários do Workplace. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT conseguem interpretar sons em baterias de íons de lítio que preveem falhas graves com antecedência: a equipe acoplou microfones às baterias e submeteu-as a ciclos de carga e descarga, monitorando em paralelo seus estados eletroquímicos, a fim de correlacionar cada sinal acústico a problemas específicos, como bolhas de gás ou fraturas do material ativo, mesmo em ambientes com ruído. O estudo mostra que esses padrões sonoros aparecem muito antes do ponto crítico de fuga térmica. O grupo planeja transformar a técnica em um sistema prático de monitoramento, que também pode ser aplicado em fábricas. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
