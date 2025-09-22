@@ -1,0 +1,49 @@
+{
+    "title": "Git: Rust obrigatório? / ChatGPT: falha grave / TikTok: novo algoritmo",
+    "fps": 30,
+    "timestamp": 1758551799,
+    "width": 0,
+    "height": 0,
+    "date": "22/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedores do Git discutem tornar suporte ao Rust obrigatório: se aprovada, a mudança ocorreria a partir da versão 3.0. Introduzida de forma opcional na release 2.49, a linguagem agora é discutida para fazer parte do processo de compilação padrão, o que poderia restringir arquiteturas e plataformas compatíveis em comparação ao código em C. Entre as vantagens do suporte ao Rust seriam maior segurança de memória e facilitar a contribuição de mais pessoas com o Git.As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI corrige falha que permitia extrair dados de usuários que integram suas contas Gmail ao ChatGPT e usavam a ferramenta Deep Research: bastava que o usuário tivesse sua conta conectada ao ChatGPT e recebesse um e-mail malicioso contendo prompts ocultos no HTML, utilizando técnicas como texto branco sobre fundo branco. A solicitação maliciosa era executada a partir da própria infraestrutura da OpenAI, enviando o conteúdo das mensagens para um servidor controlado pelo invasor.Não há informação se a falha – chamada ShadowLeak – chegou a ser explorada ativamente. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Oracle ficará responsável por novo algoritmo do TikTok nos EUA: segundo o acordo, ainda em negociação entre EUA e China, a empresa desenvolverá e administrará uma nova versão americana da tecnologia de recomendação da plataforma. Além de Larry Ellison, fundador da Oracle, e Michael Dell, presidente da Dell, outros executivos do país participarão como investidores. A ByteDance, que poderia manter até 20% de participação, ainda não se manifestou. Detalhes finais devem ser definidos nos próximos dias. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Experimento comprova falha no jogo DOOM após rodar 2,5 anos ininterruptamente: o jogo usa a variável “gametic” para medir o tempo em ciclos de 35 vezes por segundo, mas durante a reprodução automática das sequências de gameplay exibidas na tela inicial esse contador não é reiniciado e continua somando valores sem parar. Como o DOOM utiliza inteiros de 32 bits com sinal, o número máximo possível era 2.147.483.647. Depois de cerca de 2,5 anos, esse limite foi atingido, ocorreu um overflow e o jogo travou. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "União Europeia aprova roteiro para criação do euro digital: o plano, conduzido pelo Banco Central Europeu, busca reduzir a dependência de sistemas de pagamento norte-americanos como Visa e Mastercard. O modelo se assemelha ao PIX brasileiro, mas enfrenta resistência de parlamentares e bancos locais devido a riscos à liquidez, altos custos de implementação e preocupações com privacidade. A estimativa é que o lançamento aconteça em até três anos. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Meta permitirá que desenvolvedores criem aplicativos para seus óculos inteligentes: interessados no Wearable Device Access Toolkit podem se inscrever em uma lista de espera para receber um aviso quando a prévia estiver disponível (ainda este ano). Inicialmente, as experiências criadas com o kit serão publicadas apenas para públicos restritos, com a disponibilidade geral prevista para 2026. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade “catastrófica” no Entra ID da Microsoft permitia acesso a todas as contas Azure: segundo um pesquisador de segurança, o problema envolvida os Actor Tokens, emitidos pelo Access Control Service, que em combinação com uma brecha na API Azure AD Graph possibilitavam o uso de tokens de locatários diferentes, algo que deveria ser rejeitado. Com isso, seria possível obter privilégios de administrador global e comprometer todos os diretórios do Entra ID. A Microsoft já corrigiu o problema (CVE-2025-55241). As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Bluefors, fabricante de sistemas de refrigeração ultrafrios para computação quântica, adquire Hélio-3 proveniente da Lua: o acordo de mais de 300 milhões de dólares foi firmado com a Interlune, com entregas previstas de até 10 mil litros por ano entre 2028 e 2037. Raro na Terra, mas abundante na Lua, o material é essencial para resfriar computadores quânticos, que precisam operar abaixo de 10 milikelvins (-273,14 °C) para manter a estabilidade dos qubits. A Interlune estima que a Lua possua mais de um milhão de toneladas métricas do elemento. As informações são do site Slashdot.",
+            "url": ""
+        }
+    ]
+}
