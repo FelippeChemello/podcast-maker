@@ -1,0 +1,41 @@
+{
+    "title": "Jogo rouba doações / Novo termo: Workslop / Banner de cookies vão acabar?",
+    "fps": 30,
+    "timestamp": 1758638150,
+    "width": 0,
+    "height": 0,
+    "date": "23/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Jogo verificado na Steam continha malware e rouba doações em cripto destinadas a tratamento de câncer de livestreamer: a situação aconteceu ao vivo, enquanto o streamer Raivo Plavnieks realizava uma transmissão para arrecadar fundos para seu tratamento. O jogo BlockBlasters já foi removido da plataforma, mas as perdas são estimadas em 150 mil dólares, com centenas de usuários afetados. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Estudo mostra que certos conteúdos gerados por IA podem afetar produtividade no trabalho: o termo “workslop” descreve conteúdos profissionais, como slides e relatórios, produzidos pela tecnologia que aparentam ter qualidade, mas exigem retrabalho dos colegas. Em entrevista com 1.150 funcionários nos EUA de diversos setores, 40% relatam ter recebido workslop no último mês. “Slop” está se tornando o termo para classificar conteúdos indesejados gerados por IA, semelhante ao “spam” para emails. As informações são do site Harvard Business Review.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia planeja rever regras que obrigam sites a exibir banners de consentimento para cookies: a autoridade constata que o excesso de solicitações levou a uma aceitação quase automática pelos usuários. A medida está em vigor desde 2009. O novo texto, previsto para dezembro, pode permitir que preferências sejam definidas diretamente no navegador, por exemplo. Há também a possibilidade de integrar as regras ao GDPR, que adota uma abordagem baseada em risco, dando mais flexibilidade às empresas com base em fundamentos como interesse legítimo. As informações são do site Politico.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia planeja investir até 100 bilhões de dólares na OpenAI: as empresas firmaram um acordo que permitirá à OpenAI construir pelo menos 10 gigawatts em data centers de IA equipados com milhões de GPUs da Nvidia – para uma comparação, grandes instalações de data centers consomem entre 50 e 100 megawatts. O montante será investido de forma progressiva, à medida que cada gigawatt for implantado. Os detalhes finais da parceria devem ser definidos nas próximas semanas. Com isso, a Nvidia se tornará a parceira estratégica preferencial em computação e redes nos planos de crescimento da OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Ataque cibernético com ransomware causa atrasos e cancelamentos em aeroportos europeus: o problema afetou o sistema Muse – utilizado para check-in e embarque automáticos – da Collins Aerospace, que fornece serviços para diversas companhias aéreas globalmente. O incidente obrigou os aeroportos de Londres (Heathrow), Berlim e Bruxelas a realizarem essas tarefas manualmente. A empresa trabalha na restauração dos sistemas e informa que a maioria das operações já foi restabelecida. A origem do ataque ainda não foi identificada. As informações são dos sites The Guardian e Reuters.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria recrutando fornecedores da Apple para desenvolver primeiro dispositivo de hardware para consumidores: a startup está negociando com as chinesas Goertek e Luxshare, responsáveis pelos módulos de áudio e fabricação dos fones de ouvido AirPods da Apple. O dispositivo da OpenAI – descrito como um alto-falante inteligente sem tela – está previsto para o fim de 2026 ou início de 2027. O projeto é liderado por Tang Tan e Jony Ive, ambos ex-designers da Apple. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
