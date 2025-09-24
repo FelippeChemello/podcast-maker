@@ -1,0 +1,45 @@
+{
+    "title": "GitHub reforça NPM / Tradução no WhatsApp / Chips 3x mais frios",
+    "fps": 30,
+    "timestamp": 1758724410,
+    "width": 0,
+    "height": 0,
+    "date": "24/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub vai reforçar segurança do NPM para prevenir ataques à cadeia de suprimentos: as mudanças incluem autenticação em dois fatores obrigatória para publicações locais, uso de tokens granulares com validade de sete dias, e expansão do modelo de publicação confiável, que elimina a necessidade de gerenciar tokens de API em sistemas de build. A implementação das novas regras será gradual. Na semana passada, noticiamos um ataque à cadeia de suprimentos denominado Shai-Hulud, que afetou mais de 180 pacotes da plataforma. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp anuncia recurso de tradução integrada de mensagens: a novidade estará disponível em conversas individuais, grupos e canais. Para usar, basta pressionar a mensagem, selecionar “Traduzir” e escolher os idiomas de origem e destino. Também será possível baixar idiomas utilizados frequentemente. A função está sendo distribuída gradualmente para Android e iOS, com suporte ao português. No Android, será possível ativar a tradução automática de conversas inteiras, à medida que novas mensagens chegam. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta sistema de resfriamento de chips onde o líquido circula diretamente no silício: a técnica, chamada de microfluídica, é até três vezes mais eficiente que as cold plates usadas em data centers. Para isso, microcanais semelhantes às veias de folhas são gravados com precisão próxima a um fio de cabelo na parte de trás do chip, permitindo que o líquido circule sobre ele. Em testes com simulações de uso intenso, a solução reduziu em até 65% o pico de temperatura de GPUs. As informações são do site da Microsoft.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare mitiga ataque DDoS recorde de 22,2 Tbps: o maior incidente anterior foi na faixa de 11,5 Tbps, registrado há apenas três semanas atrás. A investida durou 40 segundos, com intensidade equivalente à transmissão simultânea de um milhão de vídeos em 4K. A Cloudflare não revelou detalhes sobre a origem do ataque. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores transformam câmeras de smartphones em sensores hiperespectrais: a inovação permite que esses dispositivos captem luz além das faixas vermelho, verde e azul visíveis ao olho humano. A técnica consiste em colocar um cartão de cores impresso ao lado do objeto fotografado que, aliado a um algoritmo, permite extrair dados espectrais ocultos das fotos. O sistema atingiu sensibilidade de 1,6 nanômetro, comparável a espectrômetros científicos, e tem potencial para ser aplicado em áreas como medicina, perícia e análise de alimentos e bebidas. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas enganam sensores LiDAR de carros autônomos utilizando espelhos em cones de trânsito: no experimento, os veículos ignoraram obstáculos reais e detectaram barreiras inexistentes. Os testes mostraram uma taxa de sucesso de 65% com dois espelhos e de 74% com seis, chegando a causar paradas de emergência, dependendo da posição, o que pode causar acidentes em vias movimentadas. Em outro cenário, o sistema identificou um falso objeto a 20 metros de distância e realizou uma manobra de desvio. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Criptografia totalmente homomórfica (FHE) busca evitar que LLMs vazem dados sensíveis: a técnica permite realizar cálculos sobre dados encriptados sem a necessidade de descriptografá-los. Em um exemplo, o prompt do usuário é cifrado com FHE, enviado ao modelo, processado ainda criptografado e devolvido na forma de resposta também criptografada. Por enquanto, o protótipo funciona apenas com modelos menores, como as versões do Google BERT. A solução é considerada resistente inclusive contra ataques de computadores quânticos. As implementações estão disponíveis na biblioteca de código aberto OpenFHE. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
