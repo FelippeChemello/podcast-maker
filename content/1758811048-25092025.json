@@ -1,0 +1,45 @@
+{
+    "title": "Intel e Apple juntas de novo? / Cloudflare apoia Ladybird / Google: MCP de dados públicos",
+    "fps": 30,
+    "timestamp": 1758811048,
+    "width": 0,
+    "height": 0,
+    "date": "25/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Intel estaria buscando investimento da Apple: as empresas ainda estão em negociações preliminares e não há garantias de acordo. A Apple usou processadores da Intel em seus computadores entre 2005 e 2020, ano em que concluiu a transição dos Macs para chips próprios baseados em Arm. Apesar disso, tecnologias desenvolvidas em parceria com ou pela Intel, como DisplayPort, NVMe, PCIe, Thunderbolt e USB, seguem presentes nos dispositivos da companhia. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare anuncia apoio aos projetos open-source Ladybird e Omarchy: o Ladybird é um navegador construído totalmente do zero, usando os motores próprios LibWeb e LibJS, e compatível com sistemas Unix-like (Linux e macOS), com versões alfa previstas para 2026 e estáveis em 2028. O Omarchy é uma distribuição Linux baseada no Arch voltada para desenvolvedores, permitindo configurar um ambiente completo com um único comando. A Cloudflare ressalta que o apoio não exige o uso de suas tecnologias. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Google tornará dados do mundo real mais acessíveis para IAs: a empresa lançou o Data Commons MCP Server, que organiza conjuntos de informações públicas provenientes de fontes como governos e órgãos internacionais. Com ele, esses dados podem ser consultados por modelos utilizando linguagem natural e em tempo real, o que pode ajudar a reduzir alucinações causadas por informações não verificadas provenientes da internet. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam lentes de celular mais finas que um fio de cabelo: as chamadas metalentes são capazes de focar a luz de forma mais eficiente que as tradicionais, prometendo câmeras mais leves, baratas e com melhor qualidade de imagem. A inovação usa múltiplas camadas de materiais que manipulam cores simultaneamente e estruturas microscópicas projetadas por software, facilitando a produção em larga escala com técnicas de semicondutores. Ainda há limitações, como a capacidade de lidar com apenas algumas cores de luz ao mesmo tempo. As informações são do site ScienceDaily.",
+            "url": ""
+        },
+        {
+            "text": "Técnica de mapeamento 3D permite que robôs quadrúpedes naveguem por terrenos complexos: o sistema usa múltiplas camadas de mapas de elevação gerados por sensores LiDAR. Em testes com o robô Unitree Go1, ele conseguiu alternar sozinho entre modos de movimentação — rastejar, pular e escalar — conforme necessário, e demonstrou habilidades de planejamento de trajetória sem programação explícita, descobrindo caminhos alternativos ao redor de obstáculos altos por meio de tentativa e erro. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Usuário chinês “SonixLegend” torna-se primeiro do mundo a ultrapassar 40 mil jogos adquiridos na Steam: o acervo, construído ao longo de 15 anos, é estimado em quase 640 mil dólares levando em conta os preços atuais, mas o jogador teria gasto cerca de 250 mil por meio de promoções. Tecnicamente, a conta possui mais de 97 mil títulos, mas a Valve não contabiliza os chamados “shovelwares”, termo usado para games de baixíssima qualidade. O feito concedeu ao usuário a insígnia “Game Collector”. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Aplicativos de vibe coding feitos exclusivamente para usar no celular tem encontrado dificuldade para crescer gerar receita: o maior deles, “Instance: AI App Builder”, teve apenas 16 mil downloads e apurou cerca de 1.000 dólares, enquanto o Vibe Studio — segundo mais baixado — somou 4 mil downloads sem faturamento. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
