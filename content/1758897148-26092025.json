@@ -1,0 +1,41 @@
+{
+    "title": "Criptografia biológica / Stablecoin da Cloudflare / Apple: vendas ameaças na UE",
+    "fps": 30,
+    "timestamp": 1758897148,
+    "width": 0,
+    "height": 0,
+    "date": "26/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadora propõe uso de organismos vivos como motor biológico de criptografia: o SlimeMoldCrypt é um dispositivo que utiliza fungos e mofo para gerar chaves imprevisíveis, potencialmente resistentes a ataques de computadores quânticos. O operador, no entanto, precisa cuidar do organismo, ajustando luz, umidade e nutrientes, para mantê-lo e aumentar a entropia, da mesma forma que um Tamagotchi. Apesar do potencial, a pesquisadora Stephanie Rentschler afirma que o projeto ainda é apenas especulativo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare anuncia planos de lançar uma stablecoin: a NET Dollar permitirá transações instantâneas, seguras e globais para a chamada “agentic web”, em que usuários delegam tarefas a agentes autônomos. Com isso, a tecnologia viabilizará operações automáticas, como compras programadas de passagens ou produtos em promoção, além de facilitar a remuneração de criadores de conteúdo, e monetização de APIs e aplicativos. Ainda não há data definida de lançamento. As informações são do site da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Apple alerta que pode interromper vendas de alguns produtos na União Europeia devido à Digital Markets Act: a empresa defende que as exigências sejam revogadas ou substituídas por uma legislação “mais adequada”. Entre os requisitos da DMA está a garantia de que fones de ouvido de outras marcas funcionem com iPhones, o que, segundo a companhia, permitiria que concorrentes acessassem dados de conversas, gerando problemas de privacidade. A Apple exemplifica que, sob as regras atuais, o Watch talvez nem tivesse sido lançado no bloco. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança recurso Pulse dentro do ChatGPT: a ferramenta cria relatórios personalizados, oferecendo de cinco a dez resumos diários, com o objetivo de manter os usuários atualizados e incentivá-los a consultar o chatbot logo pela manhã, de forma semelhante ao uso de redes sociais ou plataformas de notícias. O conteúdo é gerado em formato de cartões com textos, imagens e links para fontes. A ferramenta já está disponível para assinantes Pro como uma aba no ChatGPT e será expandida em breve para usuários Plus. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft é obrigada a oferecer atualizações de segurança estendidas do Windows 10 gratuitamente na Europa: por padrão, para garantir o suporte, os usuários precisam ativar o backup do sistema operacional, que utiliza o OneDrive, o que poderia ultrapassar o limite gratuito de 5 GB e obrigar a aquisição de armazenamento adicional. No entanto, com a pressão do grupo Euroconsumers, as pessoas do bloco não precisam mais recorrer a esse processo. Usuários de outras regiões ainda podem pagar 30 dólares pelo suporte estendido ou resgatá-lo com 1.000 pontos do Microsoft Rewards. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind desenvolve sistema que simplifica programação de robôs de linhas de fabricação: atualmente, esse processo é feito à mão e é extremamente complexo e demorado devido ao grande número de variáveis a serem consideradas. O modelo RoboBallet permite que essas máquinas aprendam a executar tarefas em conjunto de forma autônoma e sem colisões, apresentando um desempenho próximo ao de quando são programadas por engenheiros humanos, mas com a vantagem de agilizar o processo de programação. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
