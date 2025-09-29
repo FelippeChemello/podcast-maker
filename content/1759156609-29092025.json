@@ -1,0 +1,45 @@
+{
+    "title": "Recorde: internet discada / Android fora do Fire TV / iPhone: CPU single-core nº 1",
+    "fps": 30,
+    "timestamp": 1759156609,
+    "width": 0,
+    "height": 0,
+    "date": "29/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Entusiastas conectam doze modems de 56K e atingem velocidade recorde de 668,8 kbps em internet discada: o experimento, realizado pelo canal The Serial Port, utilizou um PC com Windows XP, um equipamento Cisco VoIP e placas PCI com portas seriais. Os modems foram conectados por meio da tecnologia MPPP, que permite combinar a largura de banda dos dispositivos em um único canal. Apesar de um atraso inicial atribuído ao processamento do PC, o sistema conseguiu reproduzir vídeos no YouTube sem buffering. A maior velocidade teórica da internet discada foi de 56 kbps, definida pelo mesmo modelo de modem em 2000. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Amazon Fire TV deve substituir Android por Vega OS, sistema baseado em Linux, ainda este ano: atualmente, esses dispositivos utilizam o Fire OS, derivado do Android Open Source Project. Essa dependência faz com que os aparelhos sejam lançados com versões defasadas do sistema. A expectativa é que o Vega OS esteja disponível apenas em novos modelos, e não como uma atualização em eletrônicos existentes. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Chip A19 do iPhone 17 torna-se CPU single-core mais rápida do mundo no benchmark PassMark: o componente registrou 5.149 pontos no teste de performance single-thread, superando o A19 Pro (5.088), M3 Ultra de 28 núcleos (5.140) e de 32 núcleos (5.106), Intel Core Ultra 9 285K (5.095) e AMD EPYC 4585PX (4.797). O feito foi alcançado com apenas 4 W de consumo estimado de energia e com resfriamento passivo, em comparação com o 285K (44 W) e o EPYC (56 W), que utilizam resfriamento ativo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança feed de vídeos curtos exclusivamente gerados por IA e recebe críticas: o Vibes, disponível no aplicativo e no site da Meta AI, permite criar conteúdos do zero ou remixar existentes, com a possibilidade de compartilhá-los no Instagram e Facebook. A recepção, entretanto, foi negativa, com usuários afirmando que a novidade pode encher as plataformas da empresa de “lixo de IA”. O lançamento contradiz a recomendação recente da companhia para que criadores de conteúdo priorizem “narrativas autênticas” em vez de vídeos superficiais no Facebook. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Campanha de malvertising iniciada em redes sociais da Meta atinge Google Ads e YouTube: o esquema utiliza anúncios falsos de uma versão premium gratuita do aplicativo TradingView para Android, o qual instala o malware Brokewell, que rouba credenciais, intercepta cookies, registra interações como toques, deslizes e textos digitados, além de atuar como trojan de acesso remoto. No YouTube, os golpistas criaram um canal que se passa pela legítima TradingView, com vídeos não listados que chegaram a ultrapassar 180 mil visualizações em poucos dias, distribuindo o Trojan Agent GOSL. Ainda não há estimativa sobre o número de usuários afetados. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Reino Unido planeja implementar, até 2029, identidade digital obrigatória para que residentes consigam emprego: a medida busca reduzir o trabalho ilegal e facilitar a comprovação de dados pessoais para acessar serviços essenciais sem documentos físicos. A credencial será armazenada em smartphones, com alternativas em planejamento para quem não possui esse dispositivo. O uso não será obrigatório para acessar benefícios sociais ou o sistema público de saúde, mas poderá simplificar o processo. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta primeira IA robótica com capacidade de raciocínio: o Gemini Robotics-ER 1.5 gera instruções em linguagem natural para tarefas complexas de robôs, e trabalha em conjunto com o também recém-anunciado Gemini Robotics 1.5, que traduz essas instruções em movimentos reais. Nos testes, a tecnologia demonstrou capacidade de transferir habilidades entre diferentes máquinas, incluindo um robô de dois braços e um humanóide. O Gemini Robotics-ER 1.5 está disponível no Google AI Studio. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
