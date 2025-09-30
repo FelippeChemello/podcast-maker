@@ -1,0 +1,45 @@
+{
+    "title": "Feito inédito no Minecraft / F-Droid ameaçado / Electronic Arts vendida",
+    "fps": 30,
+    "timestamp": 1759242787,
+    "width": 0,
+    "height": 0,
+    "date": "30/09/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Desenvolvedor cria computador virtual dentro do Minecraft capaz de rodar chatbot de IA: o CraftGPT possui 5 milhões de parâmetros e mantém conversas simples em inglês – por conta do processamento extremamente limitado, a máquina demora cerca de duas horas para gerar uma resposta. O projeto, criado por Sammyuri, famoso por construir uma CPU de 1 Hz dentro do jogo, utiliza as redstones, que fornecem componentes eletrônicos básicos, com dimensões de 1.020 x 260 x 1.656 blocos. O CraftGPT está disponível no repositório “sammyuri/craftgpt” no GitHub. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Projeto F-Droid, que distribui software open-source para Android, ameaça encerramento caso Google implemente registro obrigatório de desenvolvedores para instalação de aplicativos: segundo Marc Prud’hommeaux, membro do conselho do F-Droid, a mudança violaria a política de não exigir cadastro dos usuários da plataforma e reforçaria o controle sobre o ecossistema de software livre. Além disso, ele defende que a plataforma é mais segura que a Play Store, visto que os aplicativos são de código aberto e podem ser auditados publicamente. O F-Droid busca apoio de reguladores e incentiva pressão política contra a medida do Google, que entrará em vigor em setembro de 2026. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Electronic Arts será adquirida por consórcio de investidores por 55 bilhões de dólares: participarão do acordo a Silver Lake, o Fundo de Investimento Público da Arábia Saudita e a Affinity Partners. Os acionistas receberão 210 dólares por ação, 25% acima do fechamento da última quinta-feira. O CEO, Andrew Wilson, deve permanecer no cargo, com a conclusão da aquisição prevista para o início de 2027. Este ano, a EA registrou receita de 7,5 bilhões de dólares, impulsionada por franquias como Battlefield, The Sims e EA Sports FC. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança Claude Sonnet 4.5, descrito pela empresa como “melhor do mundo em programação”: segundo a companhia, o modelo foi capaz de trabalhar continuamente no mesmo projeto por mais de 30 horas em tarefas complexas e de múltiplas etapas, embora detalhes específicos não tenham sido divulgados. No benchmark SWE-bench Verified, o sistema alcançou 82%, superando o Claude Opus 4.1 (79,4%), o GPT-5 Codex (74,5%) e o Gemini 2.5 Pro (67,2%). A ferramenta já está disponível globalmente. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança recurso de compras diretamente no ChatGPT: o recurso, chamado de Instant Checkout, permite adquirir produtos na Etsy e Shopify, com a confirmação do pedido, envio e pagamento — via Apple Pay, Google Pay, Stripe ou cartão de crédito — diretamente na conversa. A empresa afirma que a apresentação dos itens é orgânica, não patrocinada e classificada pela relevância ao usuário. A novidade está disponível para usuários gratuitos e assinantes dos planos Plus e Pro, inicialmente apenas nos EUA, sem previsão de expansão para outras regiões. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Físicos desenvolvem primeiro computador quântico com mais de 3 mil qubits capaz de operar continuamente: para evitar que qubits escapem e percam informações codificadas — situação conhecida como “perda de átomos” — a equipe desenvolveu um sistema que os reabastece continuamente, recarregando até 300 mil átomos por segundo, totalizando mais de 50 milhões durante o teste, que se estendeu por duas horas sem a necessidade de reinicialização do computador. Teoricamente, o dispositivo poderia continuar funcionando indefinidamente. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses estabelecem recorde mundial com campo magnético 700 mil vezes mais forte que o da Terra: o experimento, conduzido pelo Instituto de Física de Plasma da Academia Chinesa de Ciências, energizou o ímã até 351 mil gauss (35,1 tesla), manteve operação estável por 30 minutos e foi desmagnetizado de forma segura. Em comparação, o campo geomagnético da Terra é de 0,5 gauss. O resultado supera o recorde anterior de 323.500 gauss (ou 32,35 tesla), estabelecido em 2020 por uma equipe do Instituto de Engenharia Elétrica da mesma academia. As informações são do site Xinhuanet.",
+            "url": ""
+        }
+    ]
+}
