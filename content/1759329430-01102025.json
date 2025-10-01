@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: Linux “sudo” / OpenAI Sora 2 / Nova arma contra drones",
+    "fps": 30,
+    "timestamp": 1759329430,
+    "width": 0,
+    "height": 0,
+    "date": "01/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "CISA alerta sobre falha crítica no comando “ud” do Linux explorada em ataques: a vulnerabilidade CVE-2025-32463 permite a execução de comandos com privilégios de root utilizando a opção -R (--chroot), mesmo que o usuário não esteja incluído no arquivo “sudoers”, que define quem tem permissão para rodar essas instruções. O problema afeta versões lançadas entre 1.9.14 e 1.9.17, e foi corrigido a partir da 1.9.17p1. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança Sora 2: segundo a empresa, o modelo é mais realista e preciso, sendo capaz de gerar diálogos, efeitos sonoros e simulações físicas coerentes. Ele também permite inserir elementos de vídeos do mundo real nos cenários fictícios, conservando a aparência e o som originais. O sistema poderá ser acessado pelo aplicativo Sora para iOS, inicialmente disponível apenas para usuários dos EUA e Canadá que receberem convites. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Arma de micro-ondas derruba 49 drones com um único disparo: diferente de soluções anteriores, a Leonidas, da Epirus, utiliza semicondutores de nitreto de gálio em vez de magnetrons, o que a torna mais compacta e com menor consumo de energia. Ela é operada por software, permitindo o ajuste da forma de onda, e pode ser usada com segurança em áreas próximas a pessoas, além de ser capaz de criar zonas de exclusão aérea com corredores para drones aliados e sustentar disparos contínuos sem risco de superaquecimento. As informações são do site New Atlas.",
+            "url": ""
+        },
+        {
+            "text": "Opera lança navegador Neon: entre as novidades estão a presença de um chatbot integrado; o Neon Do, que auxilia na execução automatizada de tarefas; a possibilidade de gerar trechos de código, facilitando a criação de relatórios visuais com tabelas e gráficos; e o “cards”, que permite criar prompts reutilizáveis na forma de comandos ou mini-aplicativos. A empresa começará a enviar convites a um grupo seleto de usuários, que terão acesso ao navegador mediante assinatura de 19,99 dólares mensais. Interessados podem se inscrever em uma lista de espera no site oficial. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia diversas novidades em seu evento anual de hardware: os Echo Show 8 e 11 apresentam design mais fino e câmera de 13 MP, custando 179,99 e 219,99 dólares, respectivamente; o Echo Dot Max chega por 99,99 dólares com áudio e microfones aprimorados, e o Echo Studio por 219,99 dólares com suporte a áudio espacial e Dolby Atmos; a linha Kindle Scribe ganha três novos modelos, incluindo o Colorsoft por 629,99 dólares, com até duas semanas de bateria, um modelo de entrada por 429,99 dólares, e um intermediário com iluminação frontal por 499,99 dólares. As Fire TVs Omni QLED receberam telas mais brilhantes, processador mais rápido e suporte a Dolby Vision e HDR10 Plus, com preços a partir de 479,99 dólares, enquanto as séries 2 e 4 começam em 159,99 dólares. O Fire TV Stick 4K Select, de 39,99 dólares, substitui o Fire OS (Android) pelo Vega OS (Linux), conforme noticiamos na Newsletter de segunda-feira. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores projetam carro autônomo capaz de detectar sons: o protótipo, denominado Hearing Car, é equipado com microfones na parte traseira, onde o ruído do vento é menor. Os áudios captados são digitalizados e enviados a uma rede neural convolucional. Quando o sistema identifica, por exemplo, uma sirene, a informação é verificada pelas câmeras do automóvel, confirmando sinais visuais, como luzes piscando, o que reduz falsos positivos. Todo o processamento é realizado localmente. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Claude supera GPT-5 em tarefas reais de trabalho, segundo estudo da própria OpenAI: as tarefas incluíam responder e-mails de clientes insatisfeitos, otimizar a disposição de mesas e auditar preços. O Claude Opus 4.1 liderou com uma taxa de acerto de 47,6%, seguido por GPT-5 high (38,8%) e o3 high (34,1%), enquanto GPT-4o teve o pior desempenho (12,4%), ficando atrás do Grok 4 (24,3%) e do Gemini 2.5 Pro (25,5%). O Claude também se destacou em atividades relacionadas a serviços públicos, saúde e assistência social. As informações são do site TechRadar.",
+            "url": ""
+        }
+    ]
+}
