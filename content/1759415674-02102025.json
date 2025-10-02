@@ -1,0 +1,41 @@
+{
+    "title": "AMD + Intel? / Chrome quebra recorde / OpenAI faminta por memória",
+    "fps": 30,
+    "timestamp": 1759415674,
+    "width": 0,
+    "height": 0,
+    "date": "02/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "AMD estaria em negociações para tornar-se cliente e fabricar seus chips com a Intel: caso o acordo seja firmado, representará a maior parceria já estabelecida entre as duas empresas. Ainda não está claro qual parte da produção da AMD poderia ser transferida, mas a AMD, atualmente,  utiliza a TSMC para fabricar seus processadores. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Chrome atinge recorde histórico de participação de mercado em desktops: segundo dados do Statcounter, em setembro, o navegador alcançou 73,81%, uma alta de 3,5 pontos percentuais em relação a agosto e a maior já registrada. O Microsoft Edge manteve a segunda posição, mas caiu de 11,73% para 10,37%. O Safari também recuou, passando de 6,34% para 5,69%, enquanto o Firefox caiu de 4,93% para 4,45%. O Opera aparece em quinto lugar, com leve alta de 2,06% para 2,11%. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI firma parceria com Samsung e SK hynix para fornecimento de memória DRAM: a demanda da startup pode chegar a 900 mil wafers – “bolachas” circulares de silício onde os circuitos são fabricados – por mês, representando cerca de 40% da produção total mundial. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Exército dos EUA enfrenta desafios de confiabilidade em sistemas autônomos para combate: em demonstrações recentes do programa Replicator, barcos não tripulados falharam no leme e na identificação de objetos, enquanto drones tiveram problemas de coordenação quando fora da linha de visão do operador. As informações são do site MSN.",
+            "url": ""
+        },
+        {
+            "text": "Fontes renováveis geraram 54% da eletricidade na União Europeia no segundo trimestre de 2025: no mesmo período do ano passado, esse número era de 52,7%. O crescimento foi impulsionado principalmente pela energia solar, que respondeu por 36,8%, seguida pela eólica (29,5%), hidrelétrica (26%), biomassa (7,3%) e geotérmica (0,4%). Entre os países do bloco, Dinamarca lidera com 94,7% da eletricidade proveniente de fontes renováveis. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor lança primeiro jogo de iPhone controlado por fones de ouvido AirPods: o RidePods – Race with Head consiste em conduzir uma motocicleta em alta velocidade, desviando de obstáculos apenas com movimentos da cabeça. O desenvolvedor Ali Tanis fez uma engenharia reversa da tecnologia Áudio Espacial, que faz o rastreamento dinâmico da cabeça, para possibilitar o funcionamento do jogo. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
