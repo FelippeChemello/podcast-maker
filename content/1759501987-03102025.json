@@ -1,0 +1,49 @@
+{
+    "title": "IA: sem retorno financeiro / Invasão na Red Hat / Elon Musk: fortuna atinge marco",
+    "fps": 30,
+    "timestamp": 1759501987,
+    "width": 0,
+    "height": 0,
+    "date": "03/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Análise de investimentos com infraestrutura de IA mostra retornos econômicos questionáveis e pode ser insustentável: a projeção, somente para 2025, é que as empresas de tecnologia gastem aproximadamente 400 bilhões de dólares – só para comparação, todo o orçamento do programa espacial Apollo foi de 300 bilhões (ajustado pela inflação) em cerca de uma década. O problema tem sido a contrapartida dos consumidores, que estão gastando apenas 12 bilhões de dólares anualmente, demonstrando uma grande disparidade entre investimentos e receitas com produtos de IA. Outro problema seria que esses recursos estão sendo desviados de outros setores econômicos, o que potencialmente poderia causar uma ruptura econômica mais ampla. As informações são do Substack de Derek Thompson.",
+            "url": ""
+        },
+        {
+            "text": "Red Hat confirma incidente de segurança após invasores acessarem instância do GitLab: o grupo Crimson Collective afirma ter roubado 570 GB de dados de 28 mil repositórios, incluindo cerca de 800 Relatórios de Engajamento com Clientes, contendo detalhes de infraestrutura, configurações e tokens de autenticação — dados que podem ser usados para acessar redes de empresas contratantes. Apesar disso, a companhia esclarece que o incidente envolveu apenas a instância utilizada exclusivamente em projetos de consultoria, e que outros serviços da empresa não foram impactados. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk torna-se primeira pessoa do mundo a alcançar fortuna de 500 bilhões de dólares: o empresário possui 12% da Tesla, avaliada em mais de 1,5 trilhão de dólares, e cujas ações registraram alta de 13% desde o início do ano. Ele também detém 42% da SpaceX, que estaria em busca de uma avaliação de 400 bilhões de dólares, além da xAI, avaliada em 75 bilhões de dólares em julho. Em setembro, Larry Ellison, cofundador da Oracle, chegou a ultrapassá-lo brevemente como a pessoa mais rica do mundo. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity libera navegador Comet para todos os usuários: a versão gratuita oferece acesso ao assistente lateral, que auxilia na navegação e pode automatizar tarefas, além das ferramentas Discover, Spaces, Shopping, Travel, Finance e Sports. Usuários gratuitos também podem assinar o Comet Plus, por 5 dólares mensais, que busca se posicionar como uma alternativa ao Apple News, enquanto assinantes dos planos Pro e Max terão acesso automático ao serviço. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI alcança avaliação de mercado de 500 bilhões de dólares: segundo fontes próximas ao assunto, a companhia chegou a esse valor após atuais e ex-funcionários venderem cerca de 6,6 bilhões de dólares em ações para um consórcio de investidores. Isso coloca a OpenAI como a startup mais valiosa do mundo. Em abril, a organização concluiu uma rodada de financiamento de 40 bilhões de dólares, avaliando-a, na época, em 300 bilhões de dólares, considerada a maior captação privada da história do setor. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Meta usará interações de usuários com IA para criar anúncios personalizados: a medida valerá para a Meta AI e para todos os aplicativos que integram a tecnologia, incluindo Facebook, Instagram, WhatsApp e Messenger. A mudança entrará em vigor em 16 de dezembro e abrangerá tanto conversas por texto quanto por voz, sem opção para desativar a coleta. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Carro autônomo da Waymo é parado por manobra ilegal nos EUA, mas polícia não tinha motorista para multar: em casos de infração em movimento, a lei por lá exige a identificação de um operador humano, diferente das multas por estacionamento irregular, por exemplo. As autoridades contataram a Waymo, que avalia o caso. A situação deve mudar no próximo ano com uma nova lei estadual que permitirá que infrações de veículos autônomos sejam registradas pelo Departamento de Veículos Motorizados. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Apple teria suspendido versão mais leve do Vision Pro para desenvolver óculos inteligentes: a empresa estaria trabalhando em dois modelos, sendo um sem display previsto para 2027 e outro com display planejado para 2028, ambos com câmeras, alto-falantes e interação por voz, além de um chip dedicado. Os dispositivos competiriam diretamente com os óculos da Meta. Já o Vision Pro mais leve, antes estimado para 2027, teria parte de sua equipe realocada para o novo projeto. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
