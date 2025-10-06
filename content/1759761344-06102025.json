@@ -1,0 +1,45 @@
+{
+    "title": "Discord: vazamento / Wi-Fi “tira foto” da sua sala / De pirata à atleta de eSports",
+    "fps": 30,
+    "timestamp": 1759761344,
+    "width": 0,
+    "height": 0,
+    "date": "06/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers expõem dados de usuários do Discord por meio de empresa terceirizada: os criminosos comprometeram um dos provedores de atendimento ao cliente da plataforma e, a partir disso, obtiveram acesso a informações como nomes reais, endereços de e-mail, endereços IP e detalhes limitados de pagamento, incluindo o método utilizado e os últimos quatro dígitos do cartão. Conversas em servidores e mensagens diretas permanecem protegidas. O Discord afirma ter encerrado o acesso da empresa terceirizada — cujo nome não foi divulgado — ao sistema de chamados e acionado as autoridades para investigar o incidente. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam sinais de Wi-Fi e Stable Diffusion 3 para gerar imagens precisas de ambientes: o método, batizado de “LatentCSI”, traduz sinais de Wi-Fi CSI — que capta sinais refletidos em paredes ou móveis — para uma representação interna comprimida usada por geradores modernos de imagens. Em seguida, o Stable Diffusion 3 converte essa representação em imagens fotorrealistas do cenário. O processo, no entanto, depende do pré-treinamento da IA com fotos reais do local, o que limita sua aplicação a cômodos já conhecidos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Operador de site pirata consegue emprego em equipe de eSports: o argentino de 25 anos, conhecido como “Shishi”, era responsável por uma plataforma de streaming de esportes. Ele foi contratado pelo time 9z Globant, que atua em títulos como Counter-Strike 2 e Valorant. Apesar disso, o processo criminal segue em andamento, com equipamentos apreendidos sendo usados como prova. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Signal implementa medidas de segurança contra futuras ameaças de computadores quânticos: a plataforma passou a usar o Sparse Post Quantum Ratchet, que reforça o atual Signal Protocol ao rotacionar continuamente as chaves de criptografia. A mudança não exigirá ação dos usuários, que terão suas conversas atualizadas automaticamente para o novo protocolo. As informações são do blog do Signal.",
+            "url": ""
+        },
+        {
+            "text": "Polícia do Reino Unido flagra policiais fingindo produtividade durante trabalho remoto: pelo menos 26 oficiais, funcionários e contratados foram acusados de má conduta por usarem a prática conhecida como “key jamming”, que consiste em manter uma tecla pressionada com um objeto para simular atividade no computador. O programa de monitoramento buscava garantir uso adequado dos equipamentos fornecidos pela corporação. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Drones de entrega da Amazon colidem com guindaste nos EUA: os dispositivos utilizam sistemas de visão a bordo para localizar o ponto de entrega e algoritmos de aprendizado de máquina para identificar obstáculos. Ainda não está claro o que causou a colisão. O incidente não resultou em feridos e está sendo investigado por autoridades e técnicos da empresa. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Divisão de computação quântica do Google anuncia aquisição da Atlantic Quantum: a startup adquirida foi fundada no MIT e é especializada em hardware integrado para esse tipo de computação. Sua pilha modular de chips, que combina qubits e eletrônica supercondutora no estágio frio, deve permitir ao  Google avançar no desenvolvimento de um computador quântico de grande porte com correção de erros. Os termos da aquisição e o cronograma do projeto não foram divulgados. As informações são do site Neowin e do blog do Google.",
+            "url": ""
+        }
+    ]
+}
