@@ -1,0 +1,45 @@
+{
+    "title": "AMD: ações disparam / Incêndio sem backup / Painel solar na sacada",
+    "fps": 30,
+    "timestamp": 1759847820,
+    "width": 0,
+    "height": 0,
+    "date": "07/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ações da AMD disparam em 30% após parceria com OpenAI: a empresa comprará 6 gigawatts em GPUs – um negócio estimado em mais de 60 bilhões de dólares – começando com 1 gigawatt do modelo MI450 na segunda metade de 2026, com foco em tarefas de inferência. O mercado gostou da parceria porque valida a tecnologia da AMD para outras empresas de IA. As informações são da Reuters e site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Incêndio na Coréia do Sul destrói sistema de armazenamento em nuvem do governo, que não tinha backup: o fogo atingiu 96 sistemas críticos, incluindo o G-Drive — plataforma de nuvem usada internamente por servidores públicos, hospedada em um único data center e que não possuía backups externos. Como resultado, arquivos de cerca de 750 mil funcionários foram perdidos permanentemente. O governo agora busca recuperar dados por meio de arquivos locais, e-mails, documentos oficiais e registros impressos. As informações são do site Korea JoongAng Daily.",
+            "url": ""
+        },
+        {
+            "text": "Alemanha adota energia solar em sacadas de apartamentos para reduzir consumo: o balkonkraftwerk (usina de varanda) pode ser instalado por qualquer pessoa e não exige propriedade do imóvel. Cada equipamento custa cerca de 550 dólares, e gera até 800 watts, suficiente para energizar uma pequena geladeira ou carregar um notebook. No entanto, a tecnologia não possui armazenamento em bateria, exigindo que a energia seja utilizada imediatamente. Apesar da praticidade, a economia é modesta, com um dos usuários estimando ter poupado cerca de 100 dólares por ano. As informações são do site Grist.",
+            "url": ""
+        },
+        {
+            "text": "Operadoras brasileiras lideram ranking de 5G mais rápido do mundo em mercados de grande área territorial: segundo relatório da OpenSignal, a Vivo registrou velocidade média de download de 362,1 Mbps, seguida pela Claro (348,2 Mbps) e TIM (329,1 Mbps). A melhor operadora da Nova Zelândia, One NZ, atingiu 310,3 Mbps, ocupando a quarta posição. Os dados foram coletados entre 1º de janeiro e 28 de junho, com base em bilhões de testes realizados diretamente em dispositivos de usuários. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT recebe integração com aplicativos de terceiros: a novidade permite que usuários acessem ferramentas como Spotify, Booking, Figma, Coursera e Canva diretamente nas conversas. Esses apps podem executar ações e exibir interfaces totalmente interativas sem a necessidade de sair do chatbot, além de possibilitar login caso a pessoa tenha uma assinatura ativa para acessar recursos exclusivos. Desenvolvedores terão acesso ao novo Apps SDK para a criação desses aplicativos dentro do ChatGPT. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Microsoft identificam “zero-day biológico” gerado por IA em sistemas de triagem de pedidos de DNA: atualmente, empresas que vendem sequências de DNA utilizam programas que comparam as solicitações com listas de substâncias perigosas conhecidas. No entanto, a IA pode gerar proteínas novas com a mesma função de uma toxina real, mas com sequências genéticas diferentes, tornando-as indetectáveis. Testes com 75 mil variações de 72 toxinas mostraram que alguns softwares falhavam em detectar as versões artificiais. Após o alerta, três programas foram atualizados e melhoraram a detecção, embora 1% a 3% das variantes muito semelhantes ainda possam escapar. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas usam luz em vez de eletricidade para gerar imagens com IA: a tecnologia, chamada de modelo generativo óptico, combina processadores digitais com analógicos que realizam cálculos usando fótons. Em testes, dois sistemas desenvolvidos pela equipe conseguiram gerar conteúdos em preto e branco e colorido, praticamente à velocidade da luz. A solução, entretanto, é mais indicada para sistemas visuais em que o processamento é feito diretamente para o olho humano, como em aplicações de realidade aumentada e virtual. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
