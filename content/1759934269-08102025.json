@@ -1,0 +1,45 @@
+{
+    "title": "Qualcomm compra Arduino / Anthropic + IBM / Unity: falha crítica",
+    "fps": 30,
+    "timestamp": 1759934269,
+    "width": 0,
+    "height": 0,
+    "date": "08/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Qualcomm adquire Arduino: a empresa garante que a Arduino continuará operando com sua própria marca, missão e foco em código aberto, enquanto usuários da comunidade terão acesso a tecnologias avançadas da Qualcomm. O primeiro produto após a aquisição será o Arduino Uno Q, uma placa semelhante ao Raspberry Pi. O valor da negociação não foi divulgado e o acordo ainda aguarda aprovação regulatória. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "IBM e Anthropic anunciam parceria: o acordo visa a integração do Claude ao portfólio de softwares da IBM, começando pelo novo ambiente de desenvolvimento integrado (IDE) da empresa, equipado com funcionalidades para automatizar tarefas de programação. Inicialmente, a ferramenta está disponível em prévia privada para um grupo restrito de clientes e já é utilizada por mais de 6 mil funcionários da IBM, que relataram ganhos médios de produtividade de 45%. As informações são do site da IBM.",
+            "url": ""
+        },
+        {
+            "text": "Unity corrige falha crítica de segurança presente há pelo menos 8 anos em milhares de jogos: a vulnerabilidade CVE-2025-59489 afeta títulos desenvolvidos com a versão 2017.1 ou posterior. Segundo a empresa, o problema envolvia o carregamento e a inclusão de arquivos inseguros, o que poderia permitir a execução de código malicioso ou o acesso a informações sensíveis em computadores e dispositivos móveis. A correção foi disponibilizada em um patch datado de 2 de outubro, que cobre todas as releases vulneráveis do motor. Não há evidências de exploração. As informações são dos sites TechSpot e Unity.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas recebem Prêmio Nobel de Física por estudos que possibilitaram computadores quânticos: John Clarke, Michel Devoret e John Martinis realizaram experimentos na década de 1980 que mostraram como a mecânica quântica pode influenciar objetos macroscópicos. Segundo a Real Academia Sueca de Ciências, as descobertas abriram caminho para tecnologias da área, como criptografia e sensores. Martinis é ex-chefe do Laboratório de IA Quântica do Google, enquanto Devoret atua como cientista-chefe no mesmo local. O prêmio é de 1,2 milhão de dólares, dividido entre os três. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft endurece restrições contra instalação do Windows 11 com conta local: essa modalidade dispensa a necessidade de uma conta Microsoft e de uma conexão à internet no processo. Na release 26220.6772 do Windows 11 Insider Preview (Dev Channel), a empresa anunciou a remoção de “mecanismos conhecidos” que permitiam essa ação, alegando que eles pulavam “telas importantes”, o que poderia resultar em dispositivos configurados de forma incompleta. Entre os métodos bloqueados está o comando “start ms-cxh:localonly”. Com a atualização, ao executar a instrução, o sistema agora reinicia o processo de instalação. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google lança programa de recompensas para falhas em seus produtos de IA: a iniciativa contempla situações em que modelos executam comandos não intencionais que poderiam, por exemplo, destrancar portas via Google Home ou enviar conteúdos de e-mails de usuários a servidores controlados por um invasor. Induzir o sistema a gerar respostas incorretas não é suficiente para receber a recompensa. O prêmio máximo é de 20 mil dólares. No entanto, relatórios originais e de alta qualidade podem elevar o valor para 30 mil. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "DeepMind apresenta ferramenta que aprimora automaticamente a segurança do código: o CodeMender utiliza as capacidades de raciocínio dos modelos Gemini Deep Think mais recentes e conta com ferramentas que analisam o código antes de aplicar as alterações, garantindo precisão e evitando regressões, além de respeitar as diretrizes de estilo do projeto. Todos os patches produzidos passam por revisão humana. Durante os seis meses de desenvolvimento, já foram aplicadas 72 correções de segurança em projetos de código aberto, incluindo alguns com até 4,5 milhões de linhas de código. O recurso ainda não está disponível para uso público. As informações são do blog da DeepMind.",
+            "url": ""
+        }
+    ]
+}
