@@ -1,0 +1,41 @@
+{
+    "title": "GitHub no limite / Alerta: WhatsApp Web / Marco: energia renovável",
+    "fps": 30,
+    "timestamp": 1760020592,
+    "width": 0,
+    "height": 0,
+    "date": "09/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub priorizará migração para Azure em detrimento de novos recursos: segundo o diretor de tecnologia, Vladimir Fedorov, o data center da empresa na Virgínia atingiu o limite de capacidade, com a mudança sendo essencial para acompanhar a demanda crescente por ferramentas de IA. O plano prevê que a companhia abandone completamente sua própria infraestrutura em 24 meses. Atualmente, a plataforma já utiliza alguns serviços hospedados no Azure, como Actions e Proxima. As informações são do site The New Stack.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa “Water Saci” espalha malware para usuários do WhatsApp Web no Brasil: a distribuição do chamado “Sorvepotel” ocorre por meio de um arquivo ZIP geralmente disfarçado de recibo, comprovante ou orçamento. Dentro dele há um LNK (compatível com Windows) que, ao ser executado, conecta o computador a um servidor externo, replica a mensagem na própria plataforma para espalhar o arquivo para outros contatos, e baixa um trojan capaz de monitorar acessos a sites bancários ou de empresas de moedas digitais. Dos 477 casos identificados globalmente até o momento, 457 ocorreram no Brasil. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, energia renovável ultrapassa carvão como maior fonte de eletricidade do mundo: segundo um relatório, no primeiro semestre de 2025, essa modalidade gerou 5.072 TWh de eletricidade, enquanto o carvão produziu 4.896 TWh. No mesmo período de 2024, renováveis registraram 4.709 TWh. A demanda global de eletricidade cresceu 2,6% nos primeiros seis meses de 2025, equivalente a 369 terawatts-hora (TWh) a mais que no ano passado, com a energia solar atendendo à 83% desse aumento. As informações são do site Electrek.",
+            "url": ""
+        },
+        {
+            "text": "Estúdio Inkbox Software recria jogo Zaxxon para rodar diretamente na UEFI de PCs: o game foi originalmente desenvolvido pela Sega e lançado em 1982 para plataformas arcade e Atari 2600. O processo exigiu superar limitações como tempo de execução, entrada de teclado e saída gráfica, e criar um motor para simular uma antiga unidade de processamento gráfico de consoles retrô. O jogo roda a 128 quadros por segundo, embora sem som, em qualquer máquina x86_64 com UEFI. O projeto está disponível no repositório “InkboxSoftware/spacegamex64” no GitHub. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Universal Flash Storage 5.0 promete mais que dobrar velocidade de armazenamento em smartphones: segundo a JEDEC Solid State Technology Association — responsável pela definição do padrão —, a nova versão terá suporte a velocidades de transferência de até 10,8 GB/s, embora não esteja claro se o número se refere à leitura ou à escrita sequencial. Em comparação, o Samsung Galaxy S25 e o Xiaomi 17 utilizam UFS 4.0, que oferece até 4,2 GB/s em leitura e 2,8 GB/s em escrita. A expectativa é que os primeiros dispositivos comerciais com a tecnologia cheguem por volta de 2027. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Califórnia obriga serviços de streaming, como Netflix e Amazon Prime Video, a baixar som de anúncios: a medida foi criada em resposta ao que a Comissão Federal de Comunicações dos EUA classificou como um “aumento preocupante” no número de reclamações sobre propagandas mais barulhentas do que os conteúdos nos quais são inseridas. Diante da influência do estado na indústria do entretenimento, a expectativa é que a regra seja imposta em nível nacional. As empresas deverão cumprir a exigência até julho de 2026. As informações são do site POLITICO.",
+            "url": ""
+        }
+    ]
+}
