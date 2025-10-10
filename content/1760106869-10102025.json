@@ -1,0 +1,45 @@
+{
+    "title": "React: grande mudança / DC Comics contra IA / Risco: detritos na órbita",
+    "fps": 30,
+    "timestamp": 1760106869,
+    "width": 0,
+    "height": 0,
+    "date": "10/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Meta vai transferir React, React Native e JSX para entidade ligada à Linux Foundation: a React Foundation será formada por sete membros corporativos, incluindo Amazon, Microsoft, Expo, Vercel e a própria Meta, e ficará responsável por manter o ecossistema da tecnologia. O primeiro diretor executivo será Seth Webster, atual chefe do time de React na Meta. Também será criada uma governança técnica independente para garantir que nenhum fornecedor tenha controle dominante sobre o projeto. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Presidente da DC Comics afirma que empresa não apoiará histórias ou artes geradas por IA: Jim Lee ressalta que a tecnologia não pode criar de forma autêntica, mas apenas combinar elementos existentes. Ele também afirma que o medo da IA dominar a indústria criativa não tem fundamento, comparando o sentimento com o pânico do bug do milênio e a febre dos NFTs, e afirmando que as pessoas têm uma atração natural ao que é verdadeiramente humano. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Astrofísico alerta para Síndrome de Kessler devido ao aumento de detritos na órbita baixa da Terra: essa é uma situação em que o acúmulo de lixo na região pode gerar colisões em cadeia, tornando áreas inteiras da órbita inutilizáveis. Jonathan McDowell comentou sobre o caso em referência ao crescente volume de satélites, como os da Starlink, que reentram na atmosfera diariamente (cerca de um ou dois). Ele destaca que a desorbitagem planejada e manobras eficientes podem prevenir a síndrome, mas eventos imprevisíveis, como tempestades solares, representam riscos ao danificar múltiplos satélites simultaneamente, deixando-os indefinidamente em órbita. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "AltStore, loja alternativa de aplicativos para iPhone, será lançada no Brasil: a plataforma foi inicialmente disponibilizada no ano passado no território da União Européia. A previsão é que ela chegue ao país antes do fim do ano, além de no Japão e Austrália, e no Reino Unido em 2026. Segundo o desenvolvedor Riley Testut, a equipe ainda aguarda mais informações da Apple para definir a data exata. A empresa também receberá um investimento de 6 milhões de dólares da Pace Capital, que permitirá a contratação de novos funcionários e dará suporte à expansão global do serviço. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Estudo da Anthropic indica que LLMs podem ser comprometidos com backdoors a partir de poucos documentos maliciosos: o experimento envolveu modelos com tamanhos variados de 600 milhões a 13 bilhões de parâmetros. Cada arquivo malicioso continha um texto comum seguido de um gatilho e uma sequência de tokens aleatórios. No maior sistema testado (13 bi), apenas 250 documentos — equivalentes a 0,00016% do total de dados — foram suficientes para instalar o backdoor e fazê-lo produzir respostas sem sentido. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "MAME, plataforma de emulação de jogos arcade, corrige som de jogos do Hyper Neo Geo 64 após 20 anos de desenvolvimento: lançado entre 1997 e 1999, o sistema teve apenas sete títulos, mas marcou a transição dos arcades do 2D para o 3D. O desenvolvedor MameHaze iniciou sua emulação em 2004, conseguindo fazê-lo rodar, mas sem áudio, até que outros membros veteranos da equipe assumiram a tarefa de corrigir o problema. A melhoria será incluída na versão 0.282 do MAME e aplicada a todos os games do Hyper Neo Geo 64. As informações são do site Read Only Memo.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia deve investir até 2 bilhões de dólares na xAI: a empresa de Elon Musk estaria se preparando para levantar cerca de 20 bilhões de dólares por meio de empréstimos e venda de ações. O plano envolve a criação de uma empresa temporária cujo único propósito será comprar GPUs da Nvidia e alugá-las para a xAI, garantindo acesso prioritário aos chips. Os recursos financiarão a expansão do Colossus 2, uma instalação da xAI de 100 MW nos EUA, que deve dobrar sua capacidade para 200 mil GPUs. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
