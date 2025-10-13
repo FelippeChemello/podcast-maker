@@ -1,0 +1,45 @@
+{
+    "title": "Playstation 6 / Perigo: baterias baratas / Bug bounty de $2 milhões",
+    "fps": 30,
+    "timestamp": 1760366188,
+    "width": 0,
+    "height": 0,
+    "date": "13/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "AMD e Sony apresentam chipset do PlayStation 6: o Project Amethyst busca superar as limitações da rasterização tradicional — processo que converte modelos 3D em pixels na tela — sendo projetado para otimizar redes neurais de aprendizado de máquina usadas em tecnologias como FSR (AMD) e PSSR (Sony), permitindo melhor compartilhamento de dados entre unidades de processamento. Para ray tracing, o chip inclui um bloco dedicado de hardware chamado “radiance cores”, que alivia a carga da CPU e GPU para esse tipo de processamento. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cerca de 8% das baterias de íon-lítio feitas por fabricantes de baixo custo apresentam defeitos perigosos, mostra estudo por meio de raios X: as baterias analisadas, do tipo 18650, são utilizadas em power banks, bicicletas e carros elétricos e apresentaram risco de curtos-circuitos, especialmente durante calor excessivo ou impactos. Baterias de fabricantes como Samsung e Panasonic não mostraram nenhum defeito de fabricação. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apple eleva prêmio máximo em seu programa de recompensas de segurança para 2 milhões de dólares: o valor é destinado a descoberta de cadeias de exploração comparáveis a ataques de spyware mercenário. Segundo a empresa, trata-se do maior pagamento oferecido por qualquer programa do tipo. A companhia também destaca que o sistema de bônus, que concede prêmios adicionais para bypasses do Modo de Bloqueio e vulnerabilidades descobertas em software beta, pode elevar o total para mais de 5 milhões de dólares. As mudanças entram em vigor em novembro. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Intel vai repensar sua participação na comunidade open-source: segundo Kevork Kechichian, chefe da divisão de data centers, a empresa precisa encontrar um equilíbrio que transforme suas contribuições em vantagem para si própria, evitando que concorrentes se aproveitem de seu trabalho, embora não esteja claro como isso será colocado em prática. Kechichian destaca ainda que a companhia não pretende abandonar a comunidade open-source. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Codec de vídeo AV2 promete reduzir taxa de bits em 30% em relação ao AV1, sem perda de qualidade: a melhoria vem de avanços matemáticos e técnicas de compressão mais eficientes, permitindo lidar melhor com cenas em alta resolução e movimentos rápidos. A nova versão também aprimora a reconstrução de quadros, preserva mais detalhes, reduz ruídos e oferece suporte a profundidade de cor variadas e formatos complexos, funcionando bem em hardwares atuais. A especificação oficial do AV2 deve ser publicada até o fim deste ano. As informações são do site VideoCardz.",
+            "url": ""
+        },
+        {
+            "text": "Consultoria McKinsey publica relatório sobre como empresas de SaaS podem integrar IA eficazmente: segundo a companhia, há três desafios para monetizar a tecnologia. Primeiro, clientes a veem como um aumento de custo. Segundo, a escalabilidade após a implantação é difícil devido ao baixo investimento em treinamento e monitoramento dos usuários. Terceiro, a falta de previsibilidade nos preços dificulta a estimativa de custos para clientes. A McKinsey recomenda que empresas de software foquem em estruturar seus preços, em vez de simplesmente adicionar IA em todos os produtos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft pretende substituir maioria das GPUs da AMD e Nvidia por chips próprios: o principal motivo é o desempenho por dólar, uma métrica fundamental para provedores de nuvem em larga escala. Segundo o diretor de tecnologia Kevin Scott, a meta é que a maior parte das cargas de trabalho de IA seja executada em hardware de fabricação interna. O primeiro acelerador da companhia, o Maia 100, já foi usado para rodar o GPT-3.5 em 2023. A próxima geração, Maia 200, prevista para 2026, deve trazer grandes avanços em computação, memória e interconexão. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
