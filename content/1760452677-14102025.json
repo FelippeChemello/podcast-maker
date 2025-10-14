@@ -1,0 +1,41 @@
+{
+    "title": "Perigo: SUV híbrido / Alerta para 7-Zip / Disquetes recuperados",
+    "fps": 30,
+    "timestamp": 1760452677,
+    "width": 0,
+    "height": 0,
+    "date": "14/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "SUVs híbridos da Jeep param de funcionar repentinamente após atualização de software: o caso foi grave e alguns motoristas relataram perda repentina de potência durante a condução. O problema estava relacionado a uma falha no módulo telemático do sistema de infoentretenimento dos veículos. O update foi retirado de circulação no mesmo dia. A linha em questão, Jeep 4xe, está disponível no Brasil, mas não há registros de incidentes semelhantes no país. As informações são do site The Stack.",
+            "url": ""
+        },
+        {
+            "text": "Falhas críticas no 7-Zip expõem sistemas a ataques de execução remota de código: as vulnerabilidades CVE-2025-11001 e CVE-2025-11002 permitem que um arquivo ZIP malicioso escape do diretório original de extração e grave arquivos em outras áreas do sistema, possibilitando a execução de código arbitrário com os mesmos privilégios do usuário, o que pode comprometer ambientes Windows. A exploração é de baixa complexidade, bastando a pessoa abrir ou extrair o arquivo. A correção está disponível a partir da versão 25.01. Recomenda-se atualizar imediatamente. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Universidade de Cambridge lança projeto para resgatar dados de disquetes antigos: o Future Nostalgia busca recuperar essas informações antes que a degradação dos materiais torne-as inacessíveis — a falta de leitores compatíveis também é um obstáculo. O acervo inclui mais de 150 unidades, que contêm desde materiais do arquivo pessoal de Stephen Hawking até rascunhos de pesquisas e softwares desenvolvidos para máquinas que não existem mais. A iniciativa também conta com a ajuda da comunidade retrô para acessar formatos obsoletos e reparar setores ilegíveis. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI escolhe Argentina como primeiro parceiro do projeto Stargate na América Latina: as obras para um data center de 500 MW na região da Patagônia iniciarão em 2026 – o investimento total deve chegar a 25 bilhões de dólares. A OpenAI escolheu a Argentina devido a incentivos fiscais e custo de energia mais baixo. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "TP-Link testa com sucesso primeiro protótipo de hardware do Wi-Fi 8: apesar de poucos detalhes terem sido divulgados, a empresa validou a transmissão de sinais e dados, demonstrando a viabilidade da tecnologia para futuros produtos de consumo, com lançamento previsto antes da padronização final em 2028. O Wi-Fi 8 operará em 2,4 GHz, 5 GHz e 6 GHz, com canal de até 320 MHz e taxa máxima de 23 Gbps, focando em conexões estáveis em locais com sinal fraco ou redes muito carregadas, aprimorando experiências em jogos, streaming e chamadas de vídeo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft implanta primeiro cluster Azure em escala de supercomputador: o sistema utiliza o Nvidia GB300 NVL72, considerado o mais poderoso do mundo em sua categoria, reunindo 4.608 GPUs da linha Blackwell Ultra conectadas entre si por meio do NVLink 5 — um sistema de comunicação ultrarrápido — com os racks interligados pela rede Nvidia Quantum-X800 InfiniBand, que permite a troca de dados entre todas as milhares de GPUs. Cada rack tem largura de banda de memória de 130 TB/s e conexões de 800 Gb/s por GPU. A infraestrutura será usada pela OpenAI para treinar modelos de IA avançados, reduzindo o tempo de meses para semanas. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
