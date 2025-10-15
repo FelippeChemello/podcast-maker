@@ -1,0 +1,45 @@
+{
+    "title": "Google muda resultados / Satélites sem criptografia / Android vaza pixels",
+    "fps": 30,
+    "timestamp": 1760539180,
+    "width": 0,
+    "height": 0,
+    "date": "15/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google permitirá ocultar resultados patrocinados na busca: esses itens passarão a ser agrupados em uma única seção recolhível no topo da página, com um rótulo maior e fixo que permanecerá visível conforme o usuário realiza o scroll pela tela. Na parte inferior dessa seção, haverá um botão que permite ocultar os resultados patrocinados, o que significa que será necessário passar por eles antes de escondê-los. A novidade está sendo distribuída gradualmente para desktop e mobile. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores interceptam dados transmitidos via satélites sem criptografia: com equipamentos simples instalados no telhado de uma universidade, a equipe capturou números de mais de 2.700 usuários da T-Mobile — operadora de telecomunicações americana —, além de dados de navegação de passageiros em voos com Wi-Fi e transmissões militares dos EUA e do México. O estudo estima ter examinado o sinal de 15% dos satélites geoestacionários do mundo, fração que orbita a região do céu da Califórnia. Para incentivar análises adicionais, o grupo disponibilizou a ferramenta “ucsdsysnet/dontlookup” no GitHub. As informações são do site WIRED.",
+            "url": ""
+        },
+        {
+            "text": "Vulnerabilidade CVE-2025-48561 no Android permite roubar dados privados por meio de pixels da tela: o Pixnapping exige que a vítima instale um aplicativo no dispositivo que não solicita permissões do sistema, mas consegue ler informações exibidas por outros apps na tela do aparelho ao analisar pixels específicos para mapear letras, números ou formas. Em testes, a investida recuperou códigos 2FA de 6 dígitos com taxas entre 29% e 79% em aparelhos Pixel 6,7,8 e 9, com tempo médio de 14 a 25 segundos. O Google liberou mitigações no mês passado, e emitirá um patch adicional no boletim de segurança do Android de dezembro. Não há evidências de exploração maliciosa da falha. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI fecha parceria com Broadcom para desenvolver chips próprios: o acordo prevê a implantação de 10 GW em aceleradores de IA nos data centers da empresa. Para comparação, a geração média de um reator nuclear é de aproximadamente 1 GW. A Broadcom iniciará a instalação dos equipamentos na segunda metade de 2026, com a conclusão do projeto estimada para o fim de 2029. Além disso, a OpenAI teria firmado um contrato com a Arm para produção de CPUs que complementarão os chips da Broadcom. As informações são dos sites The Verge e Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft apresenta seu primeiro gerador de imagens desenvolvido internamente: o MAI-Image-1 se destaca pela capacidade de produzir conteúdos fotorrealistas com agilidade e elementos visuais complexos, como relâmpagos e paisagens. Segundo a empresa, o projeto contou com a colaboração de profissionais do ramo criativo para evitar resultados repetitivos ou genéricos. A companhia planeja disponibilizar o modelo no Copilot em breve, sem data definida. As informações são dos sites The Verge e Microsoft AI.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX encerra ciclo de testes da Starship V2 e inicia preparação para V3: o último voo da segunda geração, realizado na segunda-feira, cumpriu todos os objetivos principais, segundo a empresa. O protótipo da V3 será utilizado em testes de acoplamento em órbita e transferência de propelente — recursos fundamentais para futuras missões à Lua e a Marte —, além de aprimorar a capacidade de carga. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Apple apresentam modelo de difusão capaz de escrever textos longos até 128 vezes mais rápido: o FS-DFM gera vários tokens em paralelo em apenas oito rodadas de refinamento, atingindo qualidade semelhante a sistemas de difusão convencionais que precisam de mais de mil iterações. Frente a outras tecnologias do mesmo ramo, incluindo Dream (7 bilhões de parâmetros) e LLaDA (8 bilhões), as versões do FS-DFM com 1,7 bilhão, 1,3 bilhão e 170 milhões de parâmetros apresentaram melhor naturalidade e precisão do texto, além de mais confiança na escolha das palavras. A equipe planeja liberar o código para incentivar novas pesquisas. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
