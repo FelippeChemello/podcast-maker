@@ -1,0 +1,41 @@
+{
+    "title": "1 trilhão de páginas / Firefox: VPN gratuita / Celular livre",
+    "fps": 30,
+    "timestamp": 1760625490,
+    "width": 0,
+    "height": 0,
+    "date": "16/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Internet Archive atinge marca de 1 trilhão de páginas arquivadas: a coleção representa mais de 100.000 TB de dados, o equivalente a cerca de 21,3 milhões de DVDs. Atualmente, quase 500 milhões de páginas são adicionadas ao acervo todos os dias, incluindo registros culturais, notícias, blogs pessoais e sites desativados. A Wayback Machine recebe aproximadamente 800 mil visitantes diários, entre acadêmicos, jornalistas, estudantes e usuários comuns. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla anuncia VPN gratuita integrada ao Firefox e adiciona Perplexity como opção de busca: a VPN ficará posicionada ao lado da barra de endereço e redirecionará o tráfego por um servidor gerenciado pela própria empresa, ocultando o endereço IP real do usuário e adicionando uma camada extra de criptografia à conexão. O recurso ainda está em fase beta e disponível na versão desktop para pessoas selecionadas aleatoriamente. Já o Perplexity oferece respostas em formato conversacional com citações, disponível inicialmente para desktop e podendo ser encontrado como opção no botão de busca unificada. As informações são dos sites The Register e 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Free Software Foundation lança iniciativa para incentivar uso de software livre em dispositivos móveis: o Librephone, segundo a empresa, busca garantir que usuários tenham o direito de estudar e modificar os aplicativos dos quais dependem diariamente em seus aparelhos. O trabalho terá como base o LineageOS, e os primeiros esforços focarão em mapear módulos proprietários ligados ao Android de modo que seja possível fazer engenharia reversa desses componentes e trocá-los por alternativas que seguem os princípios do software livre. As informações são do site da Free Software Foundation.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do MIT desenvolvem técnica onde LLMs melhoram a si próprios: o SEAL permite que modelos de linguagem apliquem estratégias autônomas de fine-tuning a partir da geração de dados sintéticos, integrando aprendizado por reforço e introduzindo o conceito de “autoedições” — saídas em linguagem natural que indicam como o sistema deve ajustar seus pesos. Em testes com o AI2 Reasoning Challenge, que reúne questões de compreensão e raciocínio em ciências de nível escolar, a taxa de acertos aumentou de 20% para 72,5% após o processo de refinamento. O projeto está disponível no repositório “Continual-Intelligence/SEAL” no GitHub. As informações são do site VentureBeat.",
+            "url": ""
+        },
+        {
+            "text": "Apple anuncia chip M5: a nova versão conta com uma GPU de 10 núcleos, oferecendo uma performance gráfica até 45% superior em comparação ao M4, além de até 15% mais capacidade multithread. Os primeiros dispositivos equipados com o processador serão o MacBook Pro 14 (1.599 dólares); iPad Pro, por 999 dólares na versão de 11 polegadas e 1.299 na de 13; e Apple Vision Pro (3.499 dólares) — todos já disponíveis para pré-venda e com lançamento previsto para 22 de outubro. As informações são dos sites Apple Newsroom e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia formação de conselho que trará melhorias ao ChatGPT relacionadas à saúde mental: o grupo reúne oito pesquisadores e profissionais com décadas de experiência no estudo dos impactos da tecnologia nessa área. O objetivo é aprimorar a proteção de jovens contra fenômenos como a chamada “psicose de IA” — efeitos psicológicos negativos que podem surgir em interações prolongadas e intensas com chatbots. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
