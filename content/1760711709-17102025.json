@@ -1,0 +1,49 @@
+{
+    "title": "Gafe com cripto / Animes vs OpenAI / Windows quebra localhost",
+    "fps": 30,
+    "timestamp": 1760711709,
+    "width": 0,
+    "height": 0,
+    "date": "17/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Paxos emite acidentalmente 300 trilhões de dólares em stablecoin PayPal USD (PYUSD): o valor representa mais que o dobro do PIB mundial estimado para 2025 (115 trilhões). A falha ficou ativa por cerca de 20 minutos antes de ser corrigida. Atualmente, a capitalização de mercado da PYUSD — que possui valor fixo de 1:1 em relação ao dólar americano — gira em torno de 2,6 bilhões de dólares. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Governo japonês solicita que OpenAI pare de usar mangás e animes em seus dados de treinamento: segundo Minoru Kiuchi, que ocupa diversos cargos ministeriais no país, expressões artísticas japonesas são consideradas “tesouros insubstituíveis” e devem ser protegidas. A empresa tem enfrentado questionamentos legais desde o lançamento da plataforma social de vídeos Sora, que vem sendo utilizada para gerar conteúdos com personagens como Mario e Pikachu sem autorização. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Atualizações de outubro do Windows 11 quebram conexões localhost: o problema impede que aplicações que utilizam o endereço do próprio computador por meio de HTTP/2 funcionem corretamente, retornando mensagens de erro como “ERR_CONNECTION_RESET” e “ERR_HTTP2_PROTOCOL_ERROR”. A Microsoft informa que já trabalha em uma correção. Por ora, recomenda-se a desinstalação dos updates KB5066835 e KB5065789. As informações são dos sites BleepingComputer e Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de IA da DeepMind auxilia em descoberta inédita para terapia contra câncer: o C2S-Scale 27B foi projetado para compreender como as células do corpo humano se comunicam. Em um estudo, cientistas buscaram resolver um dos principais obstáculos da imunoterapia, em que tumores se escondem do sistema imunológico. Ao analisar mais de 4 mil medicamentos, o sistema destacou o “silmitasertib”, que, combinado com uma pequena dose de interferon — proteína do sistema imunológico —, aumentou em cerca de 50% a capacidade do organismo de reconhecer tumores. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Coreia do Sul encerra uso de livros didáticos digitais com IA após apenas quatro meses de implementação: a iniciativa buscava personalizar o ensino e aliviar cargas de trabalho de professores, mas foi criticada por falhas técnicas, dificuldades de uso e erros de conteúdo. Especialistas apontam que o erro foi não implementar a tecnologia em tarefas mais simples primeiro, como lições de casa. As informações são do site Rest of World.",
+            "url": ""
+        },
+        {
+            "text": "Departamento de Justiça dos EUA apreende cerca de 15 bilhões de dólares em Bitcoins ligados a esquema de fraude do tipo “pig butchering”: essa estratégia consiste na manipulação emocional de vítimas antes da aplicação de golpes financeiros. O acusado, que está foragido, é apontado como fundador do Prince Holding Group, em Camboja, e pode enfrentar até 40 anos de prisão. As vítimas eram atraídas por redes sociais com promessas falsas de lucro, e o dinheiro era desviado para os líderes da operação. Trata-se da maior apreensão do tipo já feita pelo órgão. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem primeiro dispositivo capaz de rotear a luz naturalmente: a tecnologia é baseada no conceito de “termodinâmica óptica”, funcionando como um labirinto que encaminha a luz ao destino final independentemente do ponto de entrada. A abordagem pode impactar áreas como telecomunicações, processamento de dados em alta velocidade, e transmissão segura de informações. As informações são do site Phys.",
+            "url": ""
+        },
+        {
+            "text": "Pinterest permite reduzir frequência de conteúdos gerados por IA no feed: a empresa ressalta que não será possível eliminar completamente esse tipo de conteúdo, mas reduzi-lo em categorias específicas, como beleza, arte, moda e decoração. O recurso pode ser acessado nas configurações de recomendações de IA do Pinterest. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
