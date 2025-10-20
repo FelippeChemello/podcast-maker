@@ -1,0 +1,49 @@
+{
+    "title": "AWS: pane grave / IA: banho de água fria / WhatsApp limita spam",
+    "fps": 30,
+    "timestamp": 1760970937,
+    "width": 0,
+    "height": 0,
+    "date": "20/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pane na AWS deixa diversas plataformas fora do ar: por volta das 4h11 desta segunda (horário de Brasília), a empresa registrou um “aumento nas taxas de erro e latência em múltiplos serviços na região US-EAST-1”. Com base em investigações internas, o problema estava relacionado à resolução de DNS do endpoint da API do Amazon DynamoDB nessa região. A falha impactou serviços como Zoom, Steam, Epic Games, PlayStation Network, Roblox, Pokémon Go, Fortnite, McDonald's, Alexa, Signal, Disney+, Reddit e Perplexity. A companhia já corrigiu a falha principal, mas a normalização completa ainda pode levar algum tempo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Andrej Karpathy, cofundador da OpenAI e um dos pesquisadores mais respeitados do mundo, dá banho de água fria em promessas startups de IA: falando especialmente de “agentes de IA”, o mercado como um todo está “tentando fingir” que esses modelos “são incríveis”, mas na realidade seriam “slop” (da expressão em inglês “AI Slop”, algo como “Lodo de IA”). Ele também especula que o recente hype sobre os agentes de IA foi criado para que startups consigam levantar recursos com investidores. Além dessas críticas, Karpathy acredita que a AGI (inteligência geral artificial) levará uns dez anos para se concretizar. As informações são do podcast de Dwarkesh Patel.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp limitará quantidade de mensagens que usuários e empresas podem enviar a pessoas desconhecidas sem receber uma resposta: a medida busca reduzir o spam na plataforma. Cada mensagem enviada contará para um limite mensal, a menos que o destinatário responda. Não está claro qual será esse limite, mas o app exibirá um alerta quando estiver próximo de atingi-lo. Usuários comuns dificilmente chegarão a esse número. Os testes começarão a ser implementados em “vários países” nas próximas semanas. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Starshield, rede confidencial de satélites da SpaceX, está emitindo sinal misterioso: as ondas estão sendo transmitidas para a Terra em frequências reservadas para o sentido oposto (do planeta ao espaço), potencialmente interferindo em outros satélites científicos e comerciais, que poderiam falhar ou ignorar comandos por radiofrequência. A prática também viola os padrões da União Internacional de Telecomunicações. Ainda não se sabe a finalidade dos sinais nem se há impactos concretos. As informações são do site NPR.",
+            "url": ""
+        },
+        {
+            "text": "Atari anuncia versão atualizada do console retrô Intellivision de 1979: o Intellivision Sprint conta com entrada HDMI e traz dois controles sem fio com discos e teclados numéricos, que podem ser recarregados quando encaixados no dispositivo. Ele vem com 45 jogos pré-instalados, e possui portas USB-A que permitem carregar novos títulos. O aparelho já está disponível em pré-venda por 149,99 dólares, com previsão para 5 de dezembro. A versão original foi criada pela Mattel e competiu diretamente com o Atari 2600. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Mais da metade dos textos publicados na internet são gerados por IA, segundo relatório: ao todo, foram analisadas 65 mil URLs publicadas entre 2020 e 2025. Os dados indicam que, em maio, o número de artigos escritos por modelos de linguagem atingiu 51,72%, contra 48,28% dos elaborados por pessoas. Apesar dos números, não é possível mensurar com precisão o volume de conteúdos gerados pela tecnologia, visto que humanos e IAs trabalham cada vez mais de forma integrada. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Tesla traz de volta modo “Mad Max” que ignora limites de velocidade e troca de faixa com mais frequência: o recurso foi lançado originalmente em 2018 para o Autopilot com o objetivo de tornar a condução mais fluida em vias com tráfego intenso. Após o relançamento, houve relatos de carros da marca ultrapassando placas de “PARE” e a 24 km/h acima do permitido. A novidade foi introduzida na versão 14.1.2 do FSD, em meio a investigações e processos relacionados a acidentes fatais envolvendo os sistemas de direção assistida da empresa. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Meta encerrará aplicativos do Messenger para Windows e Mac em 15 de dezembro: após essa data, não será mais possível fazer login pelos apps, e os usuários serão redirecionados automaticamente para o site do Facebook para continuar acessando a plataforma de mensagens. A empresa recomenda que todos ativem o armazenamento seguro e configurem um PIN para preservar o histórico de conversas antes da migração para a versão web. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
