@@ -1,0 +1,49 @@
+{
+    "title": "WhatsApp bane IAs / Vibe coding: reviravolta / SpaceX atinge marco",
+    "fps": 30,
+    "timestamp": 1761057183,
+    "width": 0,
+    "height": 0,
+    "date": "21/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp proibirá outros chatbots de IA, como o ChatGPT, no aplicativo: a medida, entretanto, não se aplicará a empresas que usam IA para atendimento ao cliente. A Meta explica que a API comercial do WhatsApp foi criada para facilitar a comunicação entre empresas e consumidores, e que a distribuição de chatbots gerou um número expressivo no volume de mensagens, exigindo um suporte técnico além do previsto. A Meta AI será a única assistente de sua categoria disponível no aplicativo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cofundador da OpenAI que popularizou termo “vibe coding” desenvolve ferramenta open-source com 8 mil linhas de código escritas à mão: segundo Andrej Karpathy, utilitários como Claude e Codex “não funcionaram bem o suficiente e foram pouco úteis” na programação do “nanochat”, projetado para criação simplificada de chatbots. No passado, ele descreveu o vibe coding como algo adequado para “projetos descartáveis de final de semana”. As informações são do site Gizmodo.",
+            "url": ""
+        },
+        {
+            "text": "SpaceX lança o satélite de número 10.000 da rede Starlink: o marco foi atingido durante o 132º lançamento do foguete Falcon 9. Desse total, estima-se que cerca de 8.600 estejam atualmente operacionais. A empresa possui aprovação para lançar 12 mil satélites e planeja expandir a constelação para mais de 30 mil, com o objetivo de ampliar a cobertura global de seu serviço de internet. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da OpenAI reconhecem erro após anunciarem “falso” avanço matemático do GPT-5: a equipe afirmou que o modelo teria resolvido 10 problemas de Erdős — questões complexas envolvendo combinatória e teoria dos números — ainda sem solução no site “erdosproblems”, marcados como abertos há décadas. Thomas Bloom — responsável pelo portal — esclareceu que o termo “aberto” significa apenas que ele, pessoalmente, desconhece a resposta, e que o GPT-5 apenas localizou soluções já existentes. Demis Hassabis, CEO do Google DeepMind, classificou o episódio como “constrangedor”, e Yann LeCun, chefe de IA da Meta, criticou a OpenAI por “ter acreditado no próprio hype”. As informações são do site The Decoder.",
+            "url": ""
+        },
+        {
+            "text": "Após fim do suporte ao Windows 10, downloads de distro Linux disparam: a nova versão do Zorin OS – que pretende ser uma alternativa ao Windows – alcançou 100 mil downloads em pouco dias. Segundo a empresa, 72% dos novos usuários vieram do Windows 10. A atualização traz um recurso que detecta a presença de instaladores do Windows e sugere automaticamente a melhor forma de executar mais de 170 aplicativos populares, seja com versões nativas, alternativas web ou via Wine. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Empresa lança câmera que encaixa na borda do vaso sanitário para analisar saúde intestinal: o Dekoda, da Kohler, busca por sinais de problemas nos dejetos depositados por seus usuários e a empresa garante que não captura imagens de suas partes íntimas, já que a câmera é apontada para baixo. Os dados coletados são acessíveis via aplicativo e protegidos por criptografia de ponta a ponta. O aparelho custa 599 dólares nos EUA. As informações são do site CNET.",
+            "url": ""
+        },
+        {
+            "text": "Chinesa Alibaba Cloud reduz em 82% o uso de GPUs Nvidia em tarefas de IA com novo sistema de pooling: o Aegaeon permite que vários modelos de linguagem compartilhem a mesma placa simultaneamente. A solução reduziu de 1.192 para 213 o número de GPUs Nvidia H20 — uma das poucas ainda disponíveis legalmente na China devido às restrições de exportação dos EUA — necessárias para rodar dezenas de LLMs, alguns com 72 bilhões de parâmetros. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Investigação mostra que avião da United Airlines não foi atingido por objeto de origem espacial enquanto voava a 11 mil metros de altitude: o impacto foi causado por partes de um balão meteorológico e destruiu uma das camadas do para-brisa da aeronave. O episódio foi considerado extremamente raro e pode representar a primeira ocorrência registrada de colisão entre um avião e um item nessa altitude. As informações são dos sites AvBrief e Ars Technica.",
+            "url": ""
+        }
+    ]
+}
