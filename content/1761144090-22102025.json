@@ -1,0 +1,45 @@
+{
+    "title": "Navegador da OpenAI / Diamante resfria chips / “Brain rot” em IAs",
+    "fps": 30,
+    "timestamp": 1761144090,
+    "width": 0,
+    "height": 0,
+    "date": "22/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI lança seu próprio navegador: o ChatGPT Atlas possui funcionalidades como memória — para uma navegação mais personalizada —, possibilidade de abrir guias anônimas, resumos de páginas, reescrita de textos e modo agente (exclusivo para assinantes Plus e Pro). Além disso, ao clicar em um link, o browser abrirá o site de um lado e o chatbot do outro. O Atlas está disponível globalmente para todos os usuários no macOS, e será disponibilizado para Windows, Android e iOS em breve. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores utilizam tipo especial de diamante como dissipador de calor integrado em chips: o material é um excelente condutor térmico, mas o seu uso era inviável devido às altas temperaturas necessárias para a síntese — acima de 1.000 ºC —, o que danificaria os circuitos do componente. A nova técnica permite formar o diamante a cerca de 400 °C, criando uma camada ultrafina de minúsculos cristais sobre o chip. Em testes, essa camada reduziu a temperatura de transistores de nitreto de gálio em mais de 50 °C e, em sistemas de radiofrequência, em até 70 °C. A expectativa é que o efeito seja ainda maior em chips avançados. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA podem sofrer declínio cognitivo quando treinados com conteúdos de baixa qualidade: em um estudo, pesquisadores treinaram repetidamente os modelos Llama 3 e Qwen 2.5 com dados reais da rede social X, incluindo postagens virais e com tom de clickbait. Como resultado, a precisão de raciocínio caiu de 74,9 para 57,2, e a capacidade de entender contextos longos despencou de 84,4 para 52,3, levando a respostas mais curtas e superficiais. O fenômeno é comparado ao “brain rot” (termo em inglês para “degeneração cerebral”) em humanos, quando há consumo excessivo de conteúdo superficial ou viciante online. As informações são do site Business Standard.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA proíbe permanentemente a NSO Group de infectar usuários do WhatsApp com spyware Pegasus: o processo foi iniciado pela Meta em 2019, após a empresa identificar tentativas da NSO de comprometer cerca de 1.400 celulares. A NSO argumenta que a decisão a forçaria a encerrar suas atividades, mas a juíza concluiu que o dano causado à Meta supera o potencial prejuízo. O Pegasus é capaz de infectar dispositivos iOS e Android explorando vulnerabilidades do tipo “zero-click”, que não exigem ação do usuário. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "X lançará marketplace para compra de nomes de usuários inativos: “nomes prioritários”, com combinações de caracteres mais comuns, serão gratuitos, enquanto “nomes raros” poderão custar de 2.500 dólares a valores superiores a sete dígitos. O recurso estará disponível “em breve” para assinantes Plus e Business. Ao adquirir um novo nome, o anterior será congelado, e o novo será perdido caso a assinatura seja rebaixada para um plano inferior. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Demanda por drives ópticos dispara no Japão após fim do suporte ao Windows 10: acredita-se que a tendência esteja ligada à montagem de novos computadores para adoção do Windows 11 — a maioria dos gabinetes modernos não inclui mais esse tipo de compartimento —, uma vez que usuários buscam manter o acesso às suas coleções de mídia física. Os modelos mais procurados são os drives Blu-ray internos, considerados mais avançados que as versões padrão de DVD-R, embora até esses estejam se tornando escassos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Segurança do Museu do Louvre, considerado o maior do mundo e assaltado no último domingo, é classificada como “ultrapassada” e “inadequada”: um relatório elaborado antes do roubo aponta a ausência de equipamentos básicos, como câmeras de vigilância, e destaca que a modernização dos sistemas vinha sendo adiada repetidamente, mesmo dispondo de 160 milhões de euros que poderiam ter sido investidos para essa finalidade. Na ala Denon — alvo dos ladrões — cerca de um terço das salas não possuía câmeras. As informações são do site The Times.",
+            "url": ""
+        }
+    ]
+}
