@@ -1,0 +1,45 @@
+{
+    "title": "PHP em 2025 / Wikipédia em queda / Malware astuto",
+    "fps": 30,
+    "timestamp": 1761230342,
+    "width": 0,
+    "height": 0,
+    "date": "23/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisa da JetBrains aponta que 58% dos desenvolvedores PHP não pretendem migrar de linguagem em 2026: entre os que planejam diversificar, Go (15%) e Python (11%) são as mais visadas. Foram 1.720 profissionais entrevistados globalmente, com 88% possuindo mais de 3 anos de experiência com PHP. A versão 8.x domina com 89% de uso entre os participantes, seguido por 33% da 7.x, e 8% das mais antigas. Entre os frameworks, Laravel lidera com 64%, seguido por WordPress (25%) e Symfony (23%). A conclusão é que o PHP está “longe de ser uma linguagem legada”. As informações são do blog da JetBrains.",
+            "url": ""
+        },
+        {
+            "text": "Wikipédia registra queda de 8% no número de acessos humanos em um ano: segundo Marshall Miller, diretor sênior de produto da Wikimedia Foundation, a queda só ficou evidente após uma atualização no sistema de detecção de bots. Entre as possíveis causas, ele aponta os mecanismos de busca baseados em IA, que respondem diretamente às perguntas sem incentivar visitas aos sites, e a geração mais jovem, que prefere buscar informações em plataformas sociais de vídeo. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores identificam primeiro malware do tipo “worm” com código invisível e voltado a extensões do VS Code: o GlassWorm mira plugins do OpenVSX, uma alternativa livre ao VS Marketplace. Ele usa caracteres Unicode que não geram saída visual para deixar seu código invisível a olho humano em editores, além da blockchain Solana como infraestrutura de comando, impossível de derrubar. O malware rouba tokens e credenciais de NPM, GitHub e Git para comprometer pacotes e complementos adicionais, e mira 49 extensões de carteiras cripto para drenar fundos. As extensões afetadas totalizam 35.800 downloads, e uma lista com as versões comprometidas pode ser conferida no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Ataque cibernético à Jaguar Land Rover em agosto pode ser o mais caro da história do Reino Unido: o valor é estimado em 2,5 bilhões de dólares. Para comparação, uma invasão à Marks &amp; Spencer — uma das maiores redes de varejo da nação — ocorrido em abril, causou prejuízo estimado em 400 milhões. A paralisação da JLR durou de cinco a seis semanas, registrando perdas de 67 milhões de dólares por semana. Para manter suas operações, a empresa obteve um empréstimo governamental de 2 bilhões. A previsão de recuperação total é até o início de 2026. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Data centers nos EUA utilizam motores a jato adaptados para gerar eletricidade: a solução busca atender à crescente demanda por energia impulsionada pelas IAs, servindo como solução temporária enquanto novas fontes, incluindo a nuclear, são planejadas. Entre os modelos usados estão o CF6-80C2 e o LM6000, os mesmos aplicados em aviões como Boeing 767 e Airbus A310. Cada unidade fornece até 48 megawatts. No entanto, são barulhentas e não reaproveitam o calor residual gerado no processo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google demonstra primeiro algoritmo quântico verificável capaz de superar supercomputadores clássicos: o Quantum Echoes analisa como estruturas quânticas, como moléculas e ímãs, reagem a pequenas perturbações ao longo do tempo. Executado no chip Willow, ele foi 13 mil vezes mais rápido que o melhor método clássico disponível. “Verificável” significa que o algoritmo é capaz de produzir o mesmo resultado em outro computador quântico equivalente. Fábio Akita, em seu perfil no X, afirmou que o resultado é interessante, seria um experimento bem pequeno, não escalável. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Meta demitirá 600 funcionários de sua divisão de IA: os cortes atingirão principalmente a antiga unidade de pesquisa FAIR. Apesar disso, a empresa segue contratando para o TBD Lab, um novo grupo voltado ao desenvolvimento de uma “superinteligência”. Os funcionários afetados poderão se candidatar a outras vagas internas na companhia. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
