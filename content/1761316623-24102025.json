@@ -1,0 +1,45 @@
+{
+    "title": "Estudo preocupante / Clippy voltou? / AWS explica pane",
+    "fps": 30,
+    "timestamp": 1761316623,
+    "width": 0,
+    "height": 0,
+    "date": "24/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Maior estudo do tipo aponta que assistentes de IA distorcem notícias em 45% dos casos: o levantamento envolveu 22 organizações de mídia pública de 18 países, abrangendo 14 idiomas. Jornalistas profissionais das emissoras participantes avaliaram mais de 3 mil respostas geradas pelo modelos ChatGPT, Copilot, Gemini e Perplexity. Os resultados mostram que 31% das respostas continham falhas graves de atribuição, e 20% exibiam erros de precisão. O Gemini teve o pior desempenho, com falhas relevantes em 76% das saídas, mais que o dobro dos demais. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft lança avatar animado para Copilot com easter egg do antigo Clippy: o Mico reage às interações, mudando de cor e forma conforme o contexto da conversa, além de ouvir e responder de forma dinâmica. Após alguns toques consecutivos, ele se transforma no clássico assistente Clippy, personagem em forma de clipe de papel que vinha incluído em versões do Office 97, 2000 e XP. O recurso será lançado inicialmente nos EUA, Canadá e Reino Unido. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Amazon divulga relatório sobre pane global da AWS: o problema foi uma “race condition” entre dois componentes automáticos — o DNS Planner, que cria planos de DNS, e o DNS Enactor, que aplica essas alterações via Amazon Route 53, serviço que gerencia nomes de domínio e direciona o tráfego da internet. Um atraso em um DNS Enactor fez com que planos ativos fossem apagados inadvertidamente, eliminando os endereços IP do endpoint EAST-US-1 do DynamoDB e causando a interrupção. A empresa desativou temporariamente a automação até implementar proteções contra essa falha. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Falhas de envenenamento de cache são descobertas em aplicativos de resolução de DNS: as vulnerabilidades CVE-2025-40778 e CVE-2025-40780 foram identificadas no BIND, o software mais utilizado na internet para esse fim, enquanto a CVE-2025-11411 foi avistada no Unbound. Elas podem ser exploradas para permitir que endereços IP válidos sejam trocados por outros controlados por invasores. Para o BIND, as correções foram implementadas nas versões 9.18.41, 9.20.15 e 9.21.14, e o Unbound mitigou o problema na 1.24.1. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Samsung anuncia primeiro headset de realidade virtual do mundo equipado com Android XR: o Galaxy XR é visualmente semelhante ao Apple Vision Pro, pesa 545g e vem equipado com o chip Snapdragon XR2+ Gen 2, entregando um campo de visão de 109 graus e até 2 horas e meia de autonomia. O aparelho está disponível em pré-venda por 1.800 dólares, e marca o retorno do Google ao segmento, após fracassos com o Cardboard e o Daydream. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI adquire a Software Applications Incorporated: a empresa é responsável pelo aplicativo de produtividade e automação Sky para macOS, e foi fundada pela mesma equipe que criou o Workflow, posteriormente adquirido pela Apple e transformado no Shortcuts. As tecnologias do Sky serão integradas ao ChatGPT, e toda a equipe fará parte da OpenAI. O valor da transação não foi divulgado. As informações são dos sites 9to5Mac e OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Reddit processa Perplexity por suposto uso indevido de conteúdo para treinar IA: a ação também envolve três empresas de raspagem de dados, das quais a Perplexity seria cliente de ao menos uma, segundo o Reddit. Como evidência, a plataforma afirma ter criado uma publicação configurada para ser rastreada apenas pelo Google, mas que poucas horas depois, foi reproduzida pela Perplexity. Esta, em resposta, declara não ter sido notificada sobre o processo, mas que defenderá o acesso “livre e justo” ao conhecimento público. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
