@@ -1,0 +1,45 @@
+{
+    "title": "Deepfake de voz ao vivo / IA causa tumulto / Teams vigia localização",
+    "fps": 30,
+    "timestamp": 1761576012,
+    "width": 0,
+    "height": 0,
+    "date": "27/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Empresa de cibersegurança NCC Group desenvolve sistema capaz de criar deepfakes de voz em tempo real: a solução, que não foi disponibilizada publicamente, pode funcionar com microfones comuns de notebooks e smartphones, e ser executada com ferramentas de código aberto e hardware convencional. Em testes com uma GPU Nvidia RTX A1000 — um dos modelos mais básicos da linha atual —, o sistema apresentou bom desempenho e atraso de apenas meio segundo na conversão do áudio. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Policiais armados cercam estudante de 16 anos nos EUA após IA confundir pacote de Doritos com arma: o aluno estava no colégio quando cerca de oito viaturas chegaram ao local. Após algemá-lo e revistá-lo, nada foi encontrado. O sistema que acionou o alerta analisa imagens de câmeras de segurança e notifica autoridades em tempo real ao detectar perigo. A empresa responsável admitiu o erro, mas declara que o software “funcionou como esperado”, afirmando que seu propósito é “priorizar a segurança e a conscientização”. As informações são do site Dexerto.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Teams irá identificar automaticamente se funcionário estiver trabalhando no escritório ou não: o recurso será acionado quando o usuário se conectar à rede Wi-Fi da empresa. Segundo a Microsoft, o objetivo é reduzir a confusão sobre o local de atuação dos colaboradores. O lançamento da funcionalidade está previsto para dezembro. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "Polícia europeia desmantela operação de “cibercrime como serviço” que criou 49 milhões de contas falsas em plataformas de comunicação: a ação levou à prisão de sete pessoas e à apreensão de 1.200 SIM boxes com 40 mil chips ativos, além da derrubada de cinco servidores e dois sites. O esquema oferecia números de telefone temporários de mais de 80 países para ocultar identidades e burlar autenticações em duas etapas, facilitando golpes como fraudes de investimento, lojas virtuais falsas e phishing. Os prejuízos somam cerca de 8 milhões de dólares. As informações são do site iTnews.",
+            "url": ""
+        },
+        {
+            "text": "Startup israelense apresenta CPU para competir com Intel e AMD: o componente será integrado ao Maverick-2, da NextSilicon, o qual é projetado para acelerar tarefas de computação científica de alta precisão, como a modelagem de armas nucleares — um campo antes dominado pela Nvidia, que recentemente passou a concentrar seus esforços em aplicações de IA. A nova CPU, ainda em fase de testes e sem previsão de lançamento, utiliza a arquitetura RISC-V, padrão aberto de computação que concorre diretamente com a tecnologia da Arm. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic firma acordo para ampliar uso de chips TPU do Google Cloud: pelo contrato, a Anthropic poderá utilizar até 1 milhão de TPUs — desenvolvidos especificamente para acelerar tarefas de IA e aprendizado de máquina — e terá acesso a outros serviços de nuvem da plataforma, o que deve garantir mais de 1 gigawatt de capacidade computacional até 2026. O uso será centrado no treinamento das próximas versões do Claude. A Anthropic já utiliza a infraestrutura do Google Cloud desde 2023. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Netflix, Amazon e Apple estariam interessadas em adquirir a Warner Bros Discovery: o acordo poderia incluir o conglomerado como um todo ou partes específicas, como suas bibliotecas de conteúdo e ativos de produção. Além dessas três, a companhia teria recebido propostas da Paramount e da Comcast, e estaria preparando acordos de confidencialidade para potenciais compradores antes de divulgar seus dados financeiros. A WBD é responsável por marcas como HBO, CNN e DC Studios, que podem acabar sendo negociadas em caso de venda. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
