@@ -1,0 +1,45 @@
+{
+    "title": "Google desmente vazamento / ChatGPT Go no Brasil / Menor pixel do mundo",
+    "fps": 30,
+    "timestamp": 1761662342,
+    "width": 0,
+    "height": 0,
+    "date": "28/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google desmente informações sobre suposto vazamento de 183 milhões de contas do Gmail: o caso teve origem em uma publicação de Troy Hunt, criador do site Have I Been Pwned, que anunciou a inclusão de uma base com essa quantidade de credenciais comprometidas. Veículos de imprensa, então, noticiaram que esses dados pertenciam ao Gmail. No entanto, segundo Hunt, 91% das informações já haviam sido registradas anteriormente, tratando-se de uma compilação de credenciais roubadas por malwares e outros ataques realizados ao longo dos anos. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança ChatGPT Go no Brasil e anuncia parceria exclusiva com Nubank: a modalidade, de 39,90 reais mensais, oferece acesso ampliado a funcionalidades do GPT-5 como geração de imagens, upload de arquivos e respostas com memória, além de limite maior de mensagens. Em colaboração inédita com uma instituição financeira do país, clientes com contas comuns do Nubank receberão um mês gratuito de assinatura, usuários Nubank Plus terão três meses, e Ultravioleta concederá um ano completo. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam o menor pixel do mundo, medindo apenas 300 nanômetros: o avanço foi alcançado a partir de modificações em estruturas OLED existentes. Em comparação, os micro-OLEDs usados em headsets VR e óculos inteligentes medem cerca de 5 micrômetros (dez vezes mais). Se agrupados, a tecnologia permitiria produzir um display 1080p com apenas 1 milímetro de largura. Ela também abre caminho para telas ultracompactas em dispositivos portáteis, oferecendo economia de peso e energia, além de um nível extremamente alto de detalhamento na imagem. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Hackers roubam contas do Discord usando infostealer baseado no RedTiger, ferramenta legítima e open-source de testes de intrusão: o malware é capaz de coletar credenciais e dados de pagamento da plataforma, incluindo do PayPal e de cartões de crédito. O binário malicioso é disseminado por canais do Discord, anúncios falsos e vídeos no YouTube. Recomenda-se evitar baixar executáveis, mods, trainers ou boosters de fontes não verificadas. O RedTiger, baseado em Python, permite a criação de malwares customizados para fins legítimos de testes. No entanto, a distribuição gratuita e a ausência de mecanismos de segurança facilitam o uso indevido. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Pela primeira vez, cientistas demonstram rastreamento de localização com precisão de centímetros usando smartwatches: para isso, a equipe desenvolveu algoritmos que permitem a esses dispositivos processar sinais de fase portadora — tradicionalmente transmitidos por satélites de navegação. Em testes com o aplicativo GnssLogger do Google, o relógio conseguiu manter a posição medida com variação de apenas cerca de 8 centímetros ao longo de quatro horas. As informações são do site da Universidade de Otago.",
+            "url": ""
+        },
+        {
+            "text": "xAI lança Grokipedia, sua própria versão da Wikipédia: a plataforma reúne mais de 885 mil artigos, apresentando interface simples e artigos estruturados, mas sem suporte a imagens ou edição por usuários. Cada página é marcada como “verificada” pelo Grok, o que levantou dúvidas sobre a precisão. Embora Elon Musk defenda o projeto como uma “melhoria massiva” da Wikipédia, há indícios de que parte do conteúdo foi copiada diretamente da enciclopédia original, sob a licença Creative Commons. Em resposta, a Wikimedia Foundation afirma que “até a Grokipedia precisa da Wikipédia para existir”. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Startup do CEO da OpenAI quer usar ondas sonoras para ler o cérebro: Sam Altman recrutou o engenheiro biomolecular Mikhail Shapiro para a Merge Labs. Ele lidera um laboratório cujo trabalho se concentra especialmente no uso de ultrassom para interagir com o cérebro humano, e na modificação de células para que respondam a essas ondas sonoras — uma abordagem menos invasiva que a da Neuralink. A Merge Labs deve ser anunciada oficialmente nas próximas semanas. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
