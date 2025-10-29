@@ -1,0 +1,49 @@
+{
+    "title": "Chips + Lasers / Apple: valor absurdo / OpenAI agora quer lucro",
+    "fps": 30,
+    "timestamp": 1761748783,
+    "width": 0,
+    "height": 0,
+    "date": "29/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Startup desenvolve tecnologia para resfriar chips com lasers: o “resfriamento fotônico” da Maxwell Labs utiliza lasers para converter o calor dos chips em luz, que pode ser reaproveitada como eletricidade. A solução emprega placas fotônicas microscópicas e sensores que direcionam o laser conforme regiões do componente aquecem. Segundo a empresa, o método pode dissipar o dobro do calor comparado a métodos convencionais de ar ou líquido, potencialmente mantendo chips abaixo de 50 ºC e reduzindo em até 50% o consumo de energia em data centers. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Divisão de Serviços da Apple pode superar faturamento anual da Walt Disney e da Tesla este ano: analistas estimam que a receita anual alcance 108,6 bilhões de dólares, um crescimento de cerca de 13% em relação a 2024. O sucesso é atribuído ao modelo de assinaturas da empresa, que garante receita recorrente mesmo quando os usuários não trocam de iPhone. O portfólio da divisão inclui App Store, Apple TV, Apple Music e iCloud. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI conclui transição para empresa com fins lucrativos: a mudança facilita a captação de recursos e a geração de lucro com as tecnologias da companhia, embora o controle técnico continue sob a entidade original sem fins lucrativos. Esta, por sua vez, passará a se chamar OpenAI Foundation e destinará 25 bilhões de dólares a projetos de saúde, cura de doenças e mitigação de riscos de segurança cibernética relacionados à IA. A OpenAI também firmou um novo acordo com a Microsoft, que passa a deter cerca de 27% de participação da nova corporação. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "X alerta usuários para reinscreverem suas passkeys até 10 de novembro: a mudança afeta apenas aqueles que utilizam esse método ou chaves físicas. Segundo a empresa, ela não está relacionada a nenhum incidente de segurança, mas à migração do domínio twitter[.]com para x[.]com. Como as chaves e passkeys estão vinculadas ao endereço antigo, elas deixarão de funcionar assim que ele for totalmente desativado. Usuários que não realizarem o procedimento ficarão bloqueados de acessarem suas contas até que reinscrevam suas passkeys. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "GitHub anuncia plataforma que permitirá testar diferentes agentes de programação: o Agent HQ incluirá tanto o Copilot quanto sistemas de empresas como OpenAI, Anthropic, Google e xAI. O recurso também possibilitará a execução de vários modelos em paralelo na mesma tarefa, para que o usuário possa escolher o resultado mais adequado. Ainda não há previsão de lançamento, mas assinantes do Copilot Pro Plus que participam do VS Code Insiders terão acesso antecipado ao Codex da OpenAI. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Percentual de empresas que pagam resgates de ransomware cai para mínimo histórico de 23% no terceiro trimestre de 2025: no mesmo período do ano passado, a taxa era de 32%. Quando considerados apenas os casos em que os dados são roubados, mas não criptografados, o número cai para 19%, também um recorde. Os valores médios e medianos dos resgates também diminuíram em comparação com o segundo trimestre de 2025, chegando a cerca de 377 mil (contra 1,1 milhão) e 140 mil dólares (contra 400 mil), respectivamente. As informações são dos sites BleepingComputer e Coveware.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm anuncia processadores de IA para data centers a fim de competir com Nvidia: o AI200, previsto para o próximo ano, conta com 768 GB de memória RAM. Já o AI250, marcado para 2027, promete um “salto geracional em eficiência”, oferecendo consumo de energia “muito menor”. Ambos são baseados na tecnologia de processamento neural Hexagon, utilizada pela empresa em chips para dispositivos móveis e notebooks. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria planejando lançar modelo gerador de músicas: fontes próximas ao assunto indicam que a empresa tem trabalhado com estudantes de uma instituição de ensino superior de música nos EUA para anotar partituras, fornecendo os dados de treinamento necessários para o desenvolvimento. Ainda não há informações sobre quando a novidade estará disponível. As informações são do site The Information.",
+            "url": ""
+        }
+    ]
+}
