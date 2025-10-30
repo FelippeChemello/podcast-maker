@@ -1,0 +1,45 @@
+{
+    "title": "Nvidia: 5 trilhões / Azure: pane global / DOOM em satélite",
+    "fps": 30,
+    "timestamp": 1761835097,
+    "width": 0,
+    "height": 0,
+    "date": "30/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nvidia torna-se primeira empresa da história a atingir 5 trilhões de dólares em valor de mercado: o preço das ações da empresa subiram 1.100% desde o lançamento do ChatGPT, no final de 2022 –as IAs atuais precisam de muitas GPUs, o forte da Nvidia. Para uma comparação, o valor da Nvidia supera em mais de 6 vezes o valor de todas as empresas listadas na B3, a bolsa de valores brasileira. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft Azure sofreu pane global nesta quarta-feira: a interrupção durou mais de 8 horas e provocou instabilidade em plataformas como GitHub, Microsoft 365, Minecraft e Xbox, além de serviços essenciais de companhias aéreas. Segundo a empresa, o incidente foi causado por uma alteração inadvertida que afetou o funcionamento do Azure Front Door, impactando componentes de rede como DNS e CDN, resultando em latência elevada, time-outs e falhas de acesso. As informações são dos sites Reuters e The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor Ólafur Waage conta como fez DOOM rodar em satélite OPS-SAT da Agência Espacial Europeia: o projeto, realizado no ano passado, foi apresentado no Ubuntu Summit deste mês. Para provar que o jogo estava rodando no espaço, Waage apontou a câmera do dispositivo para a Terra a fim de capturar imagens reais e aplicá-las como textura do céu no jogo. Essa reorientação aumentou o arrasto atmosférico do satélite e reduziu sua altitude orbital, acelerando sua destruição (que já era esperada). O projeto está disponível no repositório “opssat-doom” no GitHub. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Brasil e Itália são alvos de trojan para Android que simula digitação humana: o Herodotus é capaz de assumir controle total do dispositivo, alterar permissões do sistema, instalar aplicativos e roubar senhas bancárias e códigos de autenticação. No Brasil, ele é distribuído via campanhas de phishing e disfarçado como o app “Módulo Segurança Stone”, apresentado como um pacote do Chrome. Para burlar sistemas de segurança que detectam comportamentos suspeitos, o malware simula digitação humana com intervalos entre 0,3 e 3 segundos. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Quase 90% dos jogos de Windows já funcionam no Linux, segundo análise de dados recentes da plataforma ProtonDB: alguns títulos permanecem incompatíveis devido ao uso de sistemas anti-cheat que não oferecem suporte ao sistema operacional, muitas vezes por decisão dos próprios desenvolvedores ou estúdios. Outro destaque é que o desempenho dos jogos no Linux tende a ser superior ao do Windows em hardwares equivalentes, especialmente em processadores AMD. As informações são do site Boiling Steam.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia investe 1 bilhão de dólares na Nokia: as empresas firmaram parceria para o desenvolvimento conjunto da rede 6G, onde a Nokia adaptará seus softwares de 5G e 6G para operar nos chips da Nvidia. Após o anúncio, as ações da Nokia registraram alta de 25%, chegando a atingir 28% nos primeiros momentos após a divulgação do acordo. As informações são dos sites CNBC e Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança modelos de pesos abertos voltados à segurança em IA: os gpt-oss-safeguard-120b e gpt-oss-safeguard-20b permitem que desenvolvedores definam e ajustem políticas de segurança personalizadas durante a inferência (momento em que o sistema gera respostas a partir de um prompt), sem necessidade de retreinar a IA. Ambos estão disponíveis para download na plataforma Hugging Face sob a licença Apache 2.0. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
