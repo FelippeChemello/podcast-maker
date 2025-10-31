@@ -1,0 +1,45 @@
+{
+    "title": "Chromium: falha crítica / TypeScript #1 / Alphabet atinge marco",
+    "fps": 30,
+    "timestamp": 1761921428,
+    "width": 0,
+    "height": 0,
+    "date": "31/10/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica pode travar navegadores Chromium e sistema operacional em segundos: a vulnerabilidade está presente no motor de renderização Blink, e é explorada por meio de um código JavaScript malicioso – que pode estar presente em qualquer página web – atualizando o “document.title” milhões de vezes por segundo, causando sobrecarga e o consumo de muita memória RAM. O problema está presente nas versões do Chromium 143.0.7483.0 e posteriores. O Google investiga o caso, enquanto o Brave afirma que aplicará a correção quando disponível. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "TypeScript torna-se linguagem mais utilizada no GitHub pela primeira vez, ultrapassando Python e JavaScript: segundo o relatório Octoverse 2025 da plataforma, com dados de 1 de setembro de 2024 a 31 de agosto de 2025, linguagens tipadas tornam o desenvolvimento assistido por IA mais confiável em ambientes de produção. O GitHub destaca que o uso de IA para programação tornou-se um padrão, visto que mais de 1,1 milhão de repositórios públicos utilizam algum SDK de modelos de linguagem. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Alphabet supera marca de 100 bilhões de dólares em receita trimestral pela primeira vez: a empresa destaca o Google Cloud, que alcançou 15,15 bilhões no período, um crescimento de 35% em relação ao ano anterior. O sucesso foi atribuído à crescente demanda por produtos de IA, utilizados por mais de 70% dos clientes do serviço. Já o negócio de buscas do Google gerou 56,56 bilhões de dólares em receita, alta de 15% em relação ao terceiro trimestre de 2024. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "WhatsApp permitirá usar passkeys para acessar backups criptografados: será possível recuperar os dados utilizando métodos de autenticação biométrica, como impressão digital ou reconhecimento facial, eliminando a necessidade de lembrar a senha do backup ou de manter a chave de criptografia em mãos. O recurso será liberado gradualmente nas próximas semanas e meses. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft divulga relatório trimestral com queda de 29% na receita do Xbox em um ano: a empresa busca margens de lucro próximas de 30% nesse segmento, o que resultou em cortes de pessoal e cancelamento de jogos. Em contrapartida, a receita da Microsoft Cloud cresceu 26% em relação ao mesmo período de 2024, alcançando 49,1 bilhões de dólares, com a Azure registrando alta de 40%. No total, a companhia reportou um faturamento de 77,7 bilhões no trimestre. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Samsung Internet, navegador para Android pré-instalado em celulares Galaxy, é lançado para desktop: a novidade acompanha recursos como o Browsing Assist, que oferece tradução e resumo de conteúdo da página, além de sincronização de favoritos, histórico e senhas em todos os dispositivos, e bloqueador de pop-ups. Inicialmente, o software está disponível em versão beta para Windows nos EUA e na Coreia do Sul. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores da Apple lançam conjunto de dados para treinar modelos de edição de imagem: para desenvolver o Pico-Banana-400K, a equipe coletou fotos reais da plataforma OpenImages, e definiu 35 tipos diferentes de alterações que um usuário poderia solicitar à IA. Cada foto foi enviada ao Nano-Banana (do Google) junto com um desses comandos, e o Gemini 2.5 Pro analisava a saída. O resultado é um conjunto de 400 mil imagens com informações que auxiliam modelos sobre o que aprimorar e o que evitar. O projeto pode ser conferido no repositório “apple/pico-banana-400k” no GitHub. As informações são do site 9to5Mac.",
+            "url": ""
+        }
+    ]
+}
