@@ -1,0 +1,45 @@
+{
+    "title": "IPO da OpenAI / Brasil: crianças e IAs / Android mais seguro que iPhone",
+    "fps": 30,
+    "timestamp": 1762180692,
+    "width": 0,
+    "height": 0,
+    "date": "03/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI estaria planejando oferta pública inicial de ações (IPO) que a avaliará em 1 trilhão de dólares: a meta seria realizar a listagem entre o segundo semestre de 2026 e início de 2027 e levantar pelo menos 60 bilhões de dólares. A estratégia ofereceria à OpenAI recursos de investidores individuais e institucionais para financiar sua expansão. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa aponta que 65% das crianças e adolescentes brasileiros (entre 9 e 17 anos) usam IA generativa no cotidiano: 59% recorrem à tecnologia para realizar pesquisas escolares ou estudar, enquanto 42% utilizam-na para buscar informações, 21% para criar conteúdo com texto e imagens, e 10% para conversar sobre problemas pessoais ou emoções. O estudo avaliou 2.370 crianças e adolescentes em todo o território nacional entre março e setembro de 2025. As informações são do site Cetic br.",
+            "url": ""
+        },
+        {
+            "text": "Smartphones Android recebem menos SMS de spam e golpes em comparação a iPhones: os dados vêm de uma pesquisa realizada com mais de 5 mil usuários no Brasil, EUA e Índia. De quem usa iPhone, 65% tem probabilidade de receber três ou mais mensagens de texto fraudulentas por semana. Segundo o Google, essa diferença se deve a verificações de segurança do protocolo RCS, mecanismos nativos contra golpes, e filtros de spam integrados nos apps Mensagens e Telefone. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "GitHub lança recurso que torna releases imutáveis em projetos: o “immutable releases” impede qualquer modificação nos arquivos e tags após a publicação, garantindo que o software distribuído permaneça seguro e confiável, protegendo-o contra ataques à cadeia de suprimentos. A ferramenta pode ser habilitada nas configurações de um repositório ou de uma organização. Após sua ativação, todos os novos lançamentos passam a ser imutáveis automaticamente. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Creative Labs relança icônica marca de placas de som com hub de áudio modular: o Sound Blaster Re:Imagine — que também funciona como stream deck programável — é equipado com chip Arm de oito núcleos, 8 GB de RAM, 16 GB de armazenamento e unidade neural de 6 TOPS, rodando Linux de forma independente ou conectado a um PC via USB. O produto inclui SDK para criação de apps, e ferramentas como emulador de DOS e modelo gerador de música. O dispositivo está previsto para ser lançado em junho de 2026 por 500 dólares. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI anuncia ferramenta que identifica vulnerabilidades em código de forma autônoma: o Aardvark utiliza o GPT-5 e analisa commits e alterações em repositórios de código-fonte para identificar falhas, avaliar potencial de exploração e propor correções, podendo ser integrado ao GitHub e outras ferramentas de desenvolvimento. Inicialmente, a novidade está disponível em beta fechado para um grupo seleto de usuários. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores burlam enclaves seguros de chips da Nvidia, AMD e Intel com ataques físicos: essa proteção, chamada de Trusted Execution Environments (TEEs), é utilizada para proteger dados sensíveis em serviços de nuvem e blockchains mesmo em sistemas comprometidos. O método de ataque, batizado de “TEE fail”, utiliza um pequeno dispositivo instalado entre o chip de memória e a placa-mãe, permitindo acesso a informações sensíveis como chaves de criptografia e possibilitando assumir controle de partes da rede. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
