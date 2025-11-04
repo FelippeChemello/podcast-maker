@@ -1,0 +1,45 @@
+{
+    "title": "Cloudflare escolhe Rust / Chip analógico / Recorde em motor elétrico",
+    "fps": 30,
+    "timestamp": 1762267154,
+    "width": 0,
+    "height": 0,
+    "date": "04/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare reescreve seu principal sistema em Rust: o FL — que opera em LuaJIT e OpenResty — é o “cérebro” da empresa, responsável pela aplicação de regras de segurança, mitigação de ataques DDoS e roteamento de tráfego. A nova versão, batizada de FL2 e que utiliza Rust e Oxy, alcançou uma redução de 10 milissegundos no tempo médio de resposta e aumento de 25% no desempenho, além de consumir menos da metade de CPU e memória. A migração total deve ser concluída até o fim deste ano, com a desativação definitiva do sistema anterior no início de 2026. As informações são do blog da Cloudflare.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores chineses criam chip analógico de RRAM mil vezes mais rápido que GPUs H100 da Nvidia: diferente dos processadores digitais tradicionais, que interpretam informações em 0 e 1, o componente realiza cálculos por meio de correntes elétricas contínuas, consumindo cerca de 100 vezes menos energia e mantendo a mesma precisão em tarefas como inversão de matrizes. O dispositivo é fabricado com processo comercial padrão, viabilizando sua produção em larga escala, e representa um avanço na viabilidade prática da computação analógica. As informações são do site LiveScience.",
+            "url": ""
+        },
+        {
+            "text": "Pequeno motor elétrico bate recorde de densidade de potênciaé tão potente quanto quatro motores Tesla juntos: o motor de fluxo axial da YASA pesa apenas 12,7 kg e entrega 750 KW de potência (1.005 cv), o que corresponde à soma de dois Tesla Model 3 Performance — um dos modelos mais potentes da marca. O avanço foi alcançado sem o uso de materiais de alto custo, tornando o design propício para produção em larga escala e para a implementação em veículos elétricos mais acessíveis. As informações são do site Supercar Blondie.",
+            "url": ""
+        },
+        {
+            "text": "Banda larga fixa no Brasil supera marca de 500 Mbps de velocidade média pela primeira vez: a Anatel registrou 501,20 Mbps em setembro, mais que o dobro dos 239,5 Mbps alcançados no mesmo mês de 2022. Santa Catarina lidera com 1,08 Gbps, seguido por Pará (691,69 Mb/s), Bahia (634,94 Mb/s), Distrito Federal (543,87 Mb/s) e Acre (529,70 Mb/s). A agência estabeleceu como meta atingir uma velocidade média nacional de 1 Gb/s até 2027. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Amazon vai bloquear aplicativos que distribuem conteúdo pirata em dispositivos Fire TV: a empresa vai comparar esses apps com uma lista de softwares de pirataria conhecidos, notificando os usuários antes de removê-los e, depois de um período, bloqueando-os totalmente. A medida vale tanto para apps da Amazon Appstore quanto para os instalados via sideload, embora a instalação manual de aplicativos legítimos continue permitida. As informações são do site AFTVnews.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI fecha acordo de 38 bilhões de dólares com AWS: a empresa utilizará a infraestrutura de GPUs da Nvidia da AWS para tarefas de inferência e treinamento. A primeira fase aproveitará data centers já existentes da Amazon, com planos para construir uma instalação dedicada para a OpenAI no futuro. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Cursor apresenta modelo próprio para desenvolvimento de software: o Composer é descrito como “quatro vezes mais rápido” que outras soluções equivalentes. Desenvolvido com aprendizado por reforço e treinado com desafios interativos de programação, o sistema busca maior precisão e boas práticas de código, segundo a empresa, com foco em velocidade. Até então, a plataforma utilizava somente tecnologias de companhias como OpenAI, Anthropic e Google. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
