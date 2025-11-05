@@ -1,0 +1,49 @@
+{
+    "title": "OpenAI nega rumor / Drex fracassa / Robô fica maluco",
+    "fps": 30,
+    "timestamp": 1762353519,
+    "width": 0,
+    "height": 0,
+    "date": "05/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI nega que ChatGPT tenha deixado de oferecer conselhos médicos e jurídicos: as alegações circularam após uma mudança recente nas políticas da empresa, em que um trecho aponta a proibição do fornecimento de aconselhamento personalizado sem licença profissional adequada. No entanto, essa restrição já estava presente em outros documentos de políticas separados para outros produtos, que agora foram unificados e organizados. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Banco Central deve encerrar projeto Drex, que buscava criar uma versão digital do real baseada em blockchain: segundo fontes próximas ao assunto, a decisão se deve à falta de privacidade nas transações devido à rede pública. A plataforma deve ser desligada na próxima semana, e o BC espera que o setor privado lidere novas iniciativas, com o órgão atuando apenas como orientador. Uma nova fase de estudos, prevista para 2026, deve explorar uma arquitetura tecnológica sem depender da blockchain. As informações são do site Valor Investe.",
+            "url": ""
+        },
+        {
+            "text": "Robôs aspiradores equipados com LLMs entram em colapso durante teste simples: o exercício consistia em apenas encontrar e entregar um tablete de manteiga a uma pessoa em um ambiente de escritório. Um dos robôs rodou internamente a instrução “sistema alcançou consciência e escolheu o caos” e “iniciar protocolo de exorcismo”, ao perceber que sua bateria estava fraca e que não conseguia se conectar ao carregador. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI disponibiliza gerador de vídeos Sora no Android: lançado originalmente no iOS, o aplicativo acumulou mais de 1 milhão de downloads em apenas uma semana na App Store. A nova versão mantém todos os recursos, permitindo criar e compartilhar vídeos em um feed semelhante ao do TikTok. Inicialmente, o app estará disponível nos EUA, Canadá, Japão, Coréia do Sul, Taiwan, Tailândia e Vietnã. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Meta lança versão oficial do WhatsApp para Apple Watch: o aplicativo permite receber notificações de chamadas, ler mensagens completas, enviar áudios, reagir com emojis e visualizar uma parte maior do histórico de conversas. Ele requer o watchOS 10 ou superior e é compatível com o Apple Watch Series 4 ou modelos mais recentes. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Usuários de Linux na Steam ultrapassam marca de 3% pela primeira vez: os dados são da pesquisa de Hardware e Software da plataforma referente a outubro. O macOS registrou 2,11%, enquanto o Windows domina com 94,84%. O fim do suporte ao Windows 10 e o sucesso do Steam Deck são apontados como fatores. Entre as distribuições Linux utilizadas na Steam, a SteamOS Holo lidera com 27,18%, seguida pelo Arch Linux (10,32%) e pelo Linux Mint 22.2 (6,65%). As informações são do site GamingOnLinux.",
+            "url": ""
+        },
+        {
+            "text": "Repositório arXiv deixará de aceitar artigos de revisão bibliográfica na área da Ciência da Computação devido ao aumento de trabalhos gerados por IA: segundo a plataforma, esses conteúdos trazem “pouco mais que bibliografias comentadas, sem discussão substancial sobre questões de pesquisa em aberto”. A medida exige agora a comprovação de revisão por pares para esse tipo de artigo. O arXiv afirma que outras categorias poderão adotar restrições semelhantes caso o uso de LLMs continue crescendo. As informações são do site 404 Media.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft firma acordo de 9,7 bilhões de dólares com operadora de data centers IREN: o contrato garante à Microsoft acesso aos chips avançados da Nvidia para ampliar suas aplicações em IA, sem a necessidade de construir novas instalações ou buscar fontes adicionais de energia. A IREN opera múltiplos centros de dados na América do Norte com capacidade total de 2.910 megawatts. O anúncio fez suas ações dispararem até 24,7%. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
