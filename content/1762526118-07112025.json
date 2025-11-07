@@ -1,0 +1,53 @@
+{
+    "title": "Elon: $1 trilhão / Fingindo com IAs / Vibe coding: termo do ano",
+    "fps": 30,
+    "timestamp": 1762526118,
+    "width": 0,
+    "height": 0,
+    "date": "07/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Acionistas da Tesla aprovam pacote de até 1 trilhão de dólares para Elon Musk: pelo acordo, o CEO não receberá esse valor de forma imediata nem terá salário fixo, mas poderá acumular centenas de bilhões de dólares e ampliar seu controle sobre a companhia, caso a conduza ao cumprimento de metas financeiras e operacionais específicas. Entre elas, está a elevação do valor de mercado da Tesla de 1,5 trilhão para 8,5 trilhões de dólares nos pŕoximos dez anos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Mais de um terço dos projetos de IA priorizam apenas aparência e marketing, mostra estudo com CEOs: para esses executivos, as empresas estariam fazendo “AI washing”, fingindo usar a tecnologia apenas para parecer inovadora, sem impacto real nos negócios. Além disso, 70% dos CEOs preveem que se falharem na implementação de projetos de IA eles serão demitidos. 83% também se preocupa com o impacto de falhas não intencionais da tecnologia em clientes. O estudo entrevistou mais de 500 executivos nos EUA, Reino Unido, França e Alemanha. As informações são do site ETCFO.",
+            "url": ""
+        },
+        {
+            "text": "“Vibe coding” é eleita a Palavra do Ano pelo dicionário Collins: segundo a publicação, o conceito reflete uma “mudança cultural” mais ampla, não restrita à área da programação, em direção à integração da IA nas atividades cotidianas. Apesar disso, acredita-se que as ferramentas de vibe coding beneficiam principalmente quem já possui conhecimento em programação e infraestrutura, exigindo domínio técnico mais avançado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Velocidade média da Starlink no Brasil cresce 55% em um ano: o número subiu de 90 Mb/s para 140 Mb/s no período. Já o upload médio é de 18 Mb/s. Em nível global, a média de velocidade aumentou de 145 Mb/s para 220 Mb/s desde o início de 2025. Michael Nicolls, vice-presidente de engenharia, afirma que os avanços são resultado de uma combinação entre melhorias de software e aumento da capacidade orbital. No Brasil, o serviço possui 600 mil assinantes. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Google planeja lançar chips de IA em satélites movidos a energia solar para superar limitações energéticas enfrentadas por data centers terrestres: o Project Suncatcher é uma iniciativa “moonshot” — termo usado para designar ideias altamente experimentais e de longo prazo — que busca explorar uma fonte praticamente ilimitada de energia limpa. Entre os desafios estão a necessidade de transmissão de “dezenas de terabits por segundo” de dados entre satélites e a resistência dos chips à radiação. O Google planeja lançar dois protótipos até 2027. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "CPUs e GPUs devem ficar mais caras com aumento de preços da TSMC a partir de 2026: todos os processos mais modernos de fabricação de chips abaixo de 5 nm terão reajuste anual entre 3% e 5% por, pelo menos, quatro anos. A medida afeta o fornecimento de peças para a AMD, Nvidia, Apple e Qualcomm. A TSMC é responsável por mais de 80% da produção mundial de componentes utilizados em data centers e treinamento de IAs. As informações são do site guru3d.",
+            "url": ""
+        },
+        {
+            "text": "Studio Ghibli, Bandai Namco e Square Enix exigem que OpenAI interrompa o uso de suas propriedades no treinamento do Sora 2, após o modelo gerar conteúdo com personagens protegidos com copyright: a OpenAI já havia anunciado que alterará a política de “opt-out” da tecnologia para detentores, permitindo que eles solicitem a exclusão de seus materiais. No entanto, a Content Overseas Distribution Association, que representa os estúdios japoneses, afirma que a abordagem ainda assim infringe a lei do país, que exige autorização prévia para o uso de obras protegidas. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Deep Research do Gemini ganha acesso a e-mails, arquivos e conversas: ao selecionar a ferramenta na barra de comando, além da busca na web, o usuário poderá escolher entre Gmail, Drive e Chat como fontes. Inicialmente, o recurso está disponível apenas na versão para desktop, e o lançamento para dispositivos móveis deve ocorrer nos próximos dias. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "",
+            "url": ""
+        }
+    ]
+}
