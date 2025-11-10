@@ -1,0 +1,45 @@
+{
+    "title": "Revolta no Nubank / Cientista BR premiado / Meta: vazamento de documentos",
+    "fps": 30,
+    "timestamp": 1762785449,
+    "width": 0,
+    "height": 0,
+    "date": "10/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nubank demite 12 funcionários e vários recebem advertências por escrito após reunião virtual com CEO: no chat do Zoom, com mais de 7 mil pessoas, alguns empregados usaram linguajar “agressivo e desrespeitoso” para criticar o fim do trabalho remoto na empresa. Essas conversas foram depois avaliadas pelo comitê de conduta do banco. O novo modelo de trabalho híbrido prevê dois dias presenciais por semana em 2026 e três a partir de 2027. As informações são do site Valor Econômico.",
+            "url": ""
+        },
+        {
+            "text": "Professor brasileiro Virgílio Almeida vence prêmio da Unesco por pesquisas sobre ética da IA: a organização destaca as contribuições de Almeida em áreas como governança da internet, políticas de regulação de IA e algoritmos. O professor também participou da criação do Marco Civil da Internet durante sua atuação no Ministério da Ciência, Tecnologia e Inovação. Atualmente, Almeida coordena na USP o projeto IA Responsável, voltado ao estudo das dimensões técnicas, sociais e legais da tecnologia. As informações são do site Agência Brasil.",
+            "url": ""
+        },
+        {
+            "text": "Estudo vazado da Meta mostra que cerca de 10% de suas receitas vem da veiculação de anúncios de golpes em suas redes sociais: o montante equivale a 16 bilhões de dólares apenas em 2024. As propagandas incluem esquemas fraudulentos de investimentos, cassinos online ilegais e venda de produtos médicos não autorizados. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Elon Musk quer montar fábrica própria de semicondutores: segundo ele, esta pode ser a única resposta para atender a demanda futura estimada de chips para a Tesla. Jensen Huang, CEO da Nvidia, entretanto, alerta que Musk pode estar subestimando a complexidade do desafio. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Austrália oferecerá até três horas de eletricidade gratuita por dia a partir de julho de 2026: a iniciativa é resultado do rápido crescimento da energia solar no país. O programa será lançado inicialmente em três estados, com expansão prevista para mais regiões no futuro. Moradores não precisarão ter painéis instalados para participar, bastando apenas um medidor inteligente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Telebras firma acordo com SES, operadora global de satélites, para explorar uso de tecnologias de órbita média no Brasil: o objetivo é fortalecer a infraestrutura de conectividade voltada a operações governamentais, de segurança pública e expansão do acesso à internet em regiões remotas, além de contribuir para aplicações em telemedicina, monitoramento ambiental e redes móveis privadas.As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Perplexity pagará 400 milhões de dólares para integrar seu sistema de busca ao Snapchat: o acordo permitirá o acesso do buscador à base de mais de 940 milhões de usuários, que passarão a receber respostas geradas pela IA ao interagir com o chatbot da rede social. A integração do novo recurso está prevista para o início do próximo ano. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
