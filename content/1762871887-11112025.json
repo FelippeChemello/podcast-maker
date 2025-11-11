@@ -1,0 +1,45 @@
+{
+    "title": "Fita histórica / Crítico: IA e falta de energia / Monitor transparente",
+    "fps": 30,
+    "timestamp": 1762871887,
+    "width": 0,
+    "height": 0,
+    "date": "11/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Fita magnética de 1973, encontrada em depósito, pode conter a cópia única do sistema operacional UNIX: o item foi achado durante uma limpeza, com o rótulo “UNIX Original From Bell Labs V4” escrito à mão. Essa versão marca o momento em que o kernel e parte das ferramentas principais, programados originalmente em Assembly, foram reescritos na linguagem C. A fita será encaminhada ao Museu da História do Computador, e especialistas investigarão se ainda é possível recuperar os dados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Dois data centers recém-construídos no Vale do Silício – próximos da sede da Nvidia – estão desligados porque não conseguem obter energia: as instalações foram projetadas para suportar em conjunto quase 100 MW de carga crítica, mas só poderão operar após a expansão da rede elétrica local. Não há um cronograma firme para energização total, algo que pode levar anos. Esse caso demonstra como a expansão da infraestrutura de IA está descasado com projetos de geração e transmissão energia. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Empresa apresenta primeiro monitor de computador totalmente transparente do mundo: o Phantom, da Visual Instruments, utiliza uma tecnologia semelhante a HUDs em aeronaves ou veículos, refletindo imagens em um vidro por meio de espelhos. Segundo a empresa, o objetivo seria reduzir o cansaço visual. O preço está na faixa dos 1.600 dólares. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Justiça do Rio de Janeiro decreta falência da Oi: a operadora não tem gerado lucro suficiente para cobrir custos e despesas operacionais, com apenas 50 milhões de reais em caixa e dívidas acima de 1,7 bilhão de reais. A operação continuará temporariamente para garantir a prestação de serviços considerados essenciais até que os contratos da empresa sejam transferidos. Após o anúncio, as ações da Oi despencaram 35,71%, chegando a apenas 18 centavos. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "IAs enfrentam dificuldade para ler relógios analógicos: pesquisadores criaram um conjunto de imagens com mais de 43 mil horários diferentes, para testar quatro modelos multimodais. Todos falharam em identificar as horas com precisão. Os resultados sugerem que os sistemas apresentam problemas em compreender a orientação espacial dos ponteiros. A equipe alerta que falhas sutis como essa podem causar problemas graves em áreas que envolvem análise de imagens médicas e percepção visual de veículos autônomos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria avaliando a criação de ferramentas voltadas à área da saúde: a empresa realizou contratações estratégicas recentemente, incluindo Nate Gross, cofundador de uma rede médica dos EUA, e Ashley Alexander, nomeada vice-presidente de produtos de saúde. Segundo Gross, muitos dos 800 milhões de usuários que utilizam o ChatGPT semanalmente o procuram em busca de orientações médicas. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores do Google simulam neuroplasticidade do cérebro humano em IAs: a técnica, chamada de Nested Learning, busca resolver um problema conhecido como “esquecimento catastrófico”, que ocorre quando um modelo perde conhecimentos antigos ao aprender algo novo. A abordagem divide o sistema em blocos de aprendizado interconectados que se ajustam em ritmos diferentes. Espera-se que a melhoria seja integrada em futuras versões do Gemini. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
