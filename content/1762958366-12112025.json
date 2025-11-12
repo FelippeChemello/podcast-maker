@@ -1,0 +1,45 @@
+{
+    "title": "Nubank sabotado / Enorme erupção solar / Nvidia: venda massiva de ações",
+    "fps": 30,
+    "timestamp": 1762958366,
+    "width": 0,
+    "height": 0,
+    "date": "12/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Nubank demite dois funcionários por justa causa sob acusação de sabotagem em sistemas de TI: segundo o diretor de tecnologia, as ações foram identificadas e contornadas preventivamente. A medida ocorre em meio a um período de insatisfação interna provocado pelo fim do regime de home office integral. No entanto, não está claro se a tentativa de sabotagem está relacionada a essa mudança. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Erupção solar intensa, a maior de 2025, e ejeção de massa coronal estão em direção à Terra: condições severas de tempestade geomagnética são possíveis nesta terça-feira (dia 12). Erupções solares podem afetar as comunicações de rádio, redes de energia elétrica, sinais de navegação e apresentam riscos para espaçonaves e astronautas. As informações são dos sites Space e NASA.",
+            "url": ""
+        },
+        {
+            "text": "SoftBank, um dos maiores conglomerados de tecnologia do mundo, vende toda sua participação na Nvidia: segundo analistas, a operação não deve ser vista como uma desconfiança em relação à fabricante de chips, mas como parte de uma estratégia para levantar 30 bilhões de dólares em capital até dezembro, que será destinado à OpenAI – a SoftBank é uma grande investidora da OpenAI. Após o anúncio, as ações da Nvidia caíram pouco mais de 2%, enquanto as da SoftBank recuaram cerca de 3,5%. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "BYD trará ao Brasil sua tecnologia de carregamento ultrarrápido: serão 800 equipamentos instalados ao longo dos próximos 12 meses, com potência de 1.000 kW e que permitem recarregar totalmente um carro elétrico em cinco minutos — comparável ao abastecimento de um veículo a combustão. Os eletropostos mais potentes do país, localizados em São Paulo, atingem 350 kW. Os primeiros modelos compatíveis serão os Han L e Tang L, que devem ser lançados em breve no mercado nacional. As informações são do site Canaltech.",
+            "url": ""
+        },
+        {
+            "text": "Meta encerrará plugins externos de “Curtir” e “Compartilhar” do Facebook em 10 de fevereiro de 2026: administradores de sites não precisarão adotar nenhuma ação específica, embora possam remover os componentes antes da data prevista. Esses botões foram introduzidos em 2010 com o objetivo de aumentar o tráfego de páginas por meio da rede social. Entretanto, segundo a Meta, eles perderam relevância com a evolução do cenário digital. As informações são do site Engadget.",
+            "url": ""
+        },
+        {
+            "text": "PDF Association adotará formato de imagem JPEG XL na especificação do PDF: a tecnologia foi desenvolvida para oferecer mais recursos do que o JPEG tradicional, incluindo suporte a HDR, ampla gama de cores e resolução superior a 1 bilhão de pixels. Seu suporte foi descontinuado pelo Google no Chrome e Chromium em 2022, mas ele ainda está presente no Firefox Nightly e no Edge (via extensão do Windows 11). As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "65% das empresas do ranking Forbes AI 50 vazam credenciais no GitHub, segundo pesquisa: os vazamentos incluem chaves de API e tokens, potencialmente expondo estruturas internas, dados de treinamento e modelos privados. Entre os principais vetores estão arquivos “.ipynb”, “.py” e “.env”. Embora a maioria dos nomes não tenha sido divulgada, o ranking inclui OpenAI, Anthropic, Perplexity, xAI, Midjourney, Mistral, Windsurf e Suno. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
