@@ -1,0 +1,41 @@
+{
+    "title": "Sora torrando grana / Valve lança console / Cientista-chefe deixa Meta",
+    "fps": 30,
+    "timestamp": 1763044427,
+    "width": 0,
+    "height": 0,
+    "date": "13/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sora pode custar 5 bilhões de dólares por ano para a OpenAI: isso equivale a mais de um quarto da receita anual estimada da empresa. Analistas estimam que cada vídeo de 10 segundos gerado pela ferramenta custa cerca de 1,30 dólar. Sem um plano de monetização claro, a empresa planeja restringir o acesso gratuito ao Sora em algum momento. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Valve anuncia console de mesa e outras novidades: o Steam Machine, com formato de cubo compacto, traz um processador AMD de seis núcleos, 16 GB de RAM, GPU dedicada baseada na arquitetura RDNA 3 com 8 GB de VRAM, e sistema SteamOS, sendo até seis vezes mais potente que o Steam Deck; o Steam Frame é um headset de realidade virtual que dispensa o uso de um PC, equipado com Snapdragon 8 Gen 3 e rastreamento por câmeras que funcionam mesmo no escuro; a nova versão do Steam Controller traz dois analógicos, trackpads e sensores giroscópicos que permitem mover o cursor. Os três produtos serão lançados em 2026, em todas as regiões onde o Steam Deck está oficialmente disponível. Os preços ainda não foram divulgados. As informações são do site PC Gamer.",
+            "url": ""
+        },
+        {
+            "text": "Yann LeCun, considerado um dos pais da IA, deve deixar a Meta para fundar sua própria startup: LeCun é uma das figuras centrais por trás da popularização e aplicação prática do deep learning. Ele ingressou na empresa em 2013 para fundar o laboratório de pesquisa FAIR e, até o momento, atua como cientista-chefe de IA. Sua startup deve dar continuidade às suas pesquisas sobre “modelos de mundo”, capazes de compreender o ambiente no qual estão inseridos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-5.1 com dois novos modelos: o Instant está mais inteligente e melhor em seguir instruções, enquanto o Thinking agora está mais rápido em tarefas simples e mais persistente em tarefas complexas. Além disso, existem novas opções de personalização – oito no total – para o tom e estilo de conversação. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Google recua e vai flexibilizar verificação obrigatória de desenvolvedores Android para instalação de aplicativos fora da Play Store: a medida, prevista para 2026, havia gerado críticas de defensores do software livre, como o F-Droid. A empresa agora trabalha em um processo que permitirá a usuários experientes instalar apps não verificados, com “alertas claros” e proteções contra golpes, além de disponibilizar contas específicas para programadores estudantes e amadores, que poderão disponibilizar aplicativos via sideload em um número limitado de dispositivos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google processa grupo cibercriminoso da China que vende kit de “phishing para iniciantes”: o Lighthouse é comercializado principalmente pelo Telegram e, segundo a empresa, já afetou cerca de 1 milhão de usuários em 121 países, ao permitir que golpistas sem experiência realizem campanhas maliciosas, incluindo comunicações falsas de e-commerce e de instituições financeiras. A companhia solicita uma liminar para encerrar as atividades. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
