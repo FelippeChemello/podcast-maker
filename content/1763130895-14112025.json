@@ -1,0 +1,45 @@
+{
+    "title": "WhatsApp: sua conta foi banida? / Retorno do Vine / ChatGPT: conversas em grupo",
+    "fps": 30,
+    "timestamp": 1763130895,
+    "width": 0,
+    "height": 0,
+    "date": "14/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "WhatsApp estaria bloqueando contas de usuários comuns erroneamente: segundo relatos, o banimento acontece na primeira tentativa de contato com um número que não está salvo na agenda. O problema vem sendo registrado em vários países, incluindo o Brasil. O app oferece a opção para solicitar uma análise, mas de acordo com algumas pessoas, a restrição se mantém mesmo após a revisão. A Meta ainda não se pronunciou sobre o assunto. As informações são do G1.",
+            "url": ""
+        },
+        {
+            "text": "Ex-funcionário do Twitter lança aplicativo open-source com vídeos restaurados do Vine, plataforma de clipes de 6 segundos descontinuada pelo Twitter em 2016: o Divine inclui cerca de 150 mil a 200 mil vídeos de aproximadamente 60 mil criadores originais. Usuários podem criar novas contas ou recuperar seus perfis antigos comprovando a propriedade. Ele está disponível para Android, iOS e web, e seu código-fonte pode ser acessado no repositório “rabble/nostrvine” no GitHub. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança conversas em grupo no ChatGPT: os convites são enviados via link, sendo possível adicionar até 20 participantes. Os chats são separados das conversas privadas, as memórias pessoais não são compartilhadas entre os usuários, e o consumo de créditos é individualizado para cada um. Já as respostas são geradas pelo GPT-5.1 Auto, que seleciona o modelo mais adequado de acordo com o prompt. A novidade não requer assinatura, e está sendo liberada inicialmente no Japão, Nova Zelândia, Coréia do Sul e Taiwan. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "ANPD dá 45 dias para WhatsApp comprovar que Meta não controla dados dos usuários: a exigência faz parte de uma investigação sobre o compartilhamento de dados entre o aplicativo e outros serviços, como Facebook e Instagram. Durante esse período, a plataforma precisa contratar uma empresa de auditoria externa, certificada e sem vínculo com a Meta, a fim de comprovar que ela apenas processa os dados dos usuários, sem utilizá-los para outros fins. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "Kaspersky lança versão de seu antivírus principal para usuários domésticos do Linux: o produto está disponível nas edições Standard (59,99 dólares/ano), Plus (79,99 dólares/ano) e Premium (89,99 dólares/ano). Novos assinantes que utilizam o sistema operacional podem receber até 40% de desconto no primeiro ano. A ferramenta é compatível com distribuições de 64 bits, e o instalador é disponibilizado nos formatos DEB e RPM. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind apresenta IA que aprende a jogar videogames sozinha: o SIMA 2 é uma evolução do seu antecessor, que era capaz de seguir comandos em linguagem natural e realizar tarefas simples em jogos, como “virar à esquerda” ou “abrir o mapa”. A nova versão integra o Gemini, o que lhe permite compreender objetivos e utilizar raciocínio para atingi-los e executar ações com precisão de forma autônoma. Segundo os pesquisadores, o objetivo é utilizar os games como um campo de treinamento para construção de robôs de uso geral. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI quer construir data centers que podem consumir tanta energia quanto toda a Índia: o plano prevê até 250 GW de capacidade computacional até 2033. Isso seria o equivalente ao consumo de 60 milhões de GPUs Nvidia, o que exigiria a aquisição de cerca de 30 milhões de unidades por ano (considerando um ciclo de vida de dois anos para os chips). As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
