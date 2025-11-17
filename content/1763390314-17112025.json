@@ -1,0 +1,41 @@
+{
+    "title": "Microsoft reconhece: Windows está ruim / Mudanças na Apple / Outro investidor vende Nvidia",
+    "fps": 30,
+    "timestamp": 1763390314,
+    "width": 0,
+    "height": 0,
+    "date": "17/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Chefe do Windows reconhece que sistema está com problemas: Pavan Davaluri tem enfrentado forte reação de usuários que cobram correções de problemas básicos, ao passo que a empresa continua a integrar recursos de IA. Ele reconheceu falhas de confiabilidade, desempenho e usabilidade. Dave Plummer, ex-desenvolvedor da companhia, defende um Windows mais limpo, sem sugestões de apps, possibilidade de usar conta local e menos notificações que na verdade são anúncios de produtos da Microsoft. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Tim Cook pode deixar cargo de CEO da Apple no próximo ano: os executivos da empresa estariam acelerando seus planos para nomear um sucessor. John Ternus, vice-presidente sênior de Engenharia de Hardware, está entre os mais prováveis. No entanto, a expectativa é de que a companhia não anuncie um novo CEO antes da divulgação do próximo relatório de resultados no fim de janeiro, devido às festas de fim de ano, período em que as vendas do iPhone aumentam. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Peter Thiel, investidor extremamente influente no Vale do Silício, vende todas as ações da Nvidia que mantinha em seu fundo: segundo ele, o hype em torno da IA está muito adiantado em relação aos resultados econômicos reais e o mercado vive um cenário semelhante ao da bolha de 1999 das empresas de internet (expectativas enormes sobre um futuro que ainda levará anos para se concretizar). As ações da Nvidia representavam 40% de seu portfólio. As informações são do site TheStreet.",
+            "url": ""
+        },
+        {
+            "text": "Curativo inteligente consegue acelerar processo de cicatrização de feridas: o a-Heal possui uma câmera que registra imagens da ferida a cada duas horas e sugere automaticamente o melhor tratamento entre estimulação elétrica ou aplicação de medicamento que favorece o crescimento do tecido. Em testes com um porco (devido à semelhança da pele com a humana), num período de 7 dias, 50% da área tratada de uma lesão foi coberta por novas células de pele, em comparação com apenas 20% de outra lesão que não recebeu o tratamento. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Netflix lança biblioteca de títulos interativos que podem ser jogados diretamente na TV usando o celular como controle: os títulos remetem aos “party games” (para jogar em grupo), e o sistema funciona por meio do aplicativo de controle móvel da própria plataforma, permitindo sessões multiplayer sem exigir consoles ou hardware externo. Entre eles estão Pictionary, Boggle Party, Tetris Time Warp, Party Crashers e Lego Party. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Project Kuiper, concorrente da Starlink, muda de marca para Amazon Leo: o nome faz referência ao termo Low-Earth Orbit (LEO), região onde está a constelação de 153 satélites da empresa, a qual planeja realizar mais de oitenta missões para lançar cerca de 3 mil espaçonaves. Até o momento, o projeto já teve seis lançamentos, incluindo três feitos com foguetes Falcon 9, da SpaceX, que colocaram em órbita um total de 72 satélites. As informações são do site The Verge.",
+            "url": ""
+        }
+    ]
+}
