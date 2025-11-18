@@ -1,0 +1,49 @@
+{
+    "title": "Pane crítica global / De cripto para IA / X quer ser WhatsApp",
+    "fps": 30,
+    "timestamp": 1763476717,
+    "width": 0,
+    "height": 0,
+    "date": "18/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare enfrenta pane crítica, derrubando diversas plataformas e sites no mundo todo: segundo a empresa, houve um pico de tráfego incomum a partir das 08h20 no horário de Brasília, gerando falhas em sua rede. Até o fechamento desta edição, o serviço continua instável e a causa raiz ainda não foi identificada. Entre as plataformas afetadas estão ChatGPT, X, Canva e League of Legends. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Bitfarm, uma das maiores mineradoras de moedas digitais, quer mudar modelo de negócios para data centers de IA até 2027: hoje, a empresa opera 12 centros de dados dedicados ao mercado cripto, e possui capacidade energética de 341 MW. Para o CEO Ben Gagnon, essa modalidade pode gerar mais receita líquida operacional do que a mineração de BTC, visto que a volatilidade do ativo digital impediu que a empresa dependesse dele para cobrir seus custos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "X lança Chat, serviço de mensagens diretas com criptografia de ponta a ponta: a proteção não cobre metadados e ataques do tipo “man-in-the-middle”, mas ferramentas de segurança adicionais já estão em desenvolvimento. Além de mensagens, é possível realizar chamadas de voz e vídeo e enviar arquivos. O Chat já está disponível como atualização no aplicativo X para dispositivos iOS e na web, com uma versão para Android prevista para chegar em breve. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Botnet Aisuru lança ataque DDoS de 15,72 Tbps contra Microsoft Azure a partir de 500 mil endereços IP: a investida teve como alvo um IP público específico na Austrália e se tornou a maior já registrada no ecossistema da plataforma. A infraestrutura de mitigação da Azure conseguiu interceptar e filtrar o tráfego malicioso em tempo real, preservando a disponibilidade do serviço. As informações são dos sites BleepingComputer e CyberInsider.",
+            "url": ""
+        },
+        {
+            "text": "Android vai sinalizar aplicativos na Play Store que consomem muita bateria: o sistema passará a monitorar o tempo acumulado em que o app executa tarefas em segundo plano com a tela desligada, impedindo o dispositivo de entrar em modo de repouso, com exceção de softwares de reprodução de áudio e transferência de dados. Aplicativos sinalizados poderão ter sua visibilidade afetada. Desenvolvedores têm até 1º de março de 2026 para atualizar seus apps e atender ao novo indicador, cujos detalhes estão disponíveis no Android Vitals. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Google lança modelo de previsão do tempo com IA integrado ao buscador, Maps e Gemini: o WeatherNext 2 gera previsões hora a hora com até 15 dias de antecedência, sendo capaz de estimar com mais precisão 99,9% de variáveis como temperatura e vento. O sistema consegue gerar centenas de cenários a partir de um único ponto inicial e produz cada previsão em menos de um minuto — algo que levaria horas para modelos tradicionais baseados em física. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Jeff Bezos, fundador da Amazon, será co-CEO em nova startup de IA: o Project Prometheus pretende desenvolver sistemas capazes de aprender por meio de observações e interações com o mundo físico, para aplicações nas áreas de engenharia e manufatura, especialmente no setor aeroespacial. A empresa já teria garantido 6,2 bilhões de dólares em investimentos — parte deles aportada pelo próprio Bezos — e contaria com quase 100 funcionários, incluindo profissionais de companhias como OpenAI e Meta. O outro co-CEO é Vik Bajaj, veterano da divisão X do Google. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia estaria se preparando para vender módulos de servidores de IA pré-montados: segundo um relatório, a mudança começaria com a nova plataforma Vera Rubin, prevista para o próximo ano. Com isso, a empresa passaria a entregar todo o núcleo da infraestrutura, incluindo CPU, GPU, memória, placas de rede, interfaces internas e sistema de resfriamento líquido, enquanto fabricantes parceiros ficariam responsáveis por montar os racks e realizar testes. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
