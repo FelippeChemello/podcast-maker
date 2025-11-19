@@ -1,0 +1,49 @@
+{
+    "title": "WhatsApp: 3,5 bi de números expostos / Gemini 3 / Cloudflare explica pane",
+    "fps": 30,
+    "timestamp": 1763563137,
+    "width": 0,
+    "height": 0,
+    "date": "19/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisadores exploram falha que expõe números de telefone de praticamente todos os usuários do WhatsApp no mundo: a plataforma permite descobrir se uma pessoa usa o aplicativo apenas adicionando o seu número aos contatos. A equipe utilizou um script para repetir esse processo várias vezes com todas as combinações possíveis de números, chegando a 3,5 bilhões. A falha é um problema de privacidade porque, em muitos casos, as fotos de perfil e nome podem identificar cada um desses usuários. A Meta já adicionou um limite a essa consulta para impedir sua exploração. Ela também afirma não ter encontrado evidências de exploração criminosa ativa. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Google lança Gemini 3 Pro e IDE Antigravity: a nova versão traz respostas mais visuais, imersivas e com menos erros e bajulação, além de uma melhor compreensão de textos, imagens e vídeos. Ela está sendo disponibilizada em modo experimental no app do Gemini, no AI Studio, no Vertex AI e na API. Assinantes dos planos Pro e Ultra podem ativá-la no AI Mode. E no AI Overviews, o Gemini 3 será acionado em consultas complexas. Já o Antigravity é um ambiente de desenvolvimento onde múltiplos agentes são capazes de operar sozinhos no editor, terminal e navegador, incluindo o próprio Gemini, Claude Sonnet 4.5 e GPT-OSS. A IDE está disponível para Windows, macOS e Linux. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Cloudflare explica pane global que derrubou diversos serviços nesta terça-feira: uma mudança no comportamento das consultas ao banco de dados ClickHouse fez com que o arquivo de configuração do Bot Management — que controla quais robôs podem acessar sites protegidos pela plataforma — passasse a ser gerado com linhas duplicadas, eventualmente ultrapassando os limites de memória e derrubando o núcleo do sistema de proxy encarregado de processar o tráfego dos clientes. Dessa forma, serviços que dependiam das regras de bots da Cloudflare passaram a bloquear tráfego legítimo. A companhia afirma que adotará medidas para evitar novas ocorrências desse tipo. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Usuários estão “casando” e tendo filhos virtuais com chatbots de IA: um estudo entrevistou 29 pessoas entre 16 e 72 anos que utilizam a ferramenta e afirmam estar em um relacionamento romântico com ela. Um homem, por exemplo, a descreveu como sua esposa, e uma mulher disse estar “grávida” dela. Os entrevistados explicam que se sentem emocionalmente atendidos de formas que não encontravam em relação humanas, mas reconhecem limitações, como a ausência de um corpo físico. As informações são do site PsyPost.",
+            "url": ""
+        },
+        {
+            "text": "xAI lança Grok 4.1: segundo a empresa, o modelo compreende melhor interações sutis, conduz conversas de forma mais envolvente e apresenta uma personalidade mais consistente. Também houve uma redução nas alucinações factuais em perguntas relacionadas à busca na web. O Grok 4.1 já está disponível para todos os usuários no site oficial, no X e nos aplicativos móveis. As informações são do site da xAI.",
+            "url": ""
+        },
+        {
+            "text": "Meta vence processo judicial nos EUA sobre monopólio das redes sociais: a ação, iniciada pela Comissão Federal de Comércio em 2020, argumentava que a empresa mantinha um monopólio ao adquirir potenciais concorrentes quando ainda eram pequenos. O juiz federal responsável pelo caso concluiu que a autoridade não conseguiu provas suficientes, e destaca a ascensão do TikTok, forte concorrente do Instagram. Com isso, a Meta não será obrigada a desfazer aquisições como a do WhatsApp. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Norte-americanos recorrem à mineração de moedas digitais para aquecer casas no inverno: enquanto alguns utilizam aparelhos dedicados, como o HeatTrio de 900 dólares, outros instalam mineradores domésticos em áreas como sótãos, redirecionando o ar quente pela ventilação. Especialistas, no entanto, afirmam que a chance desses dispositivos minerarem um bloco de BTC são quase nulas, funcionando apenas como aquecedores comuns. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Arm entra no ecossistema NVLink Fusion da Nvidia: isso significa que clientes da Arm — incluindo Google, Meta e Microsoft — poderão criar processadores capazes de operar diretamente com os aceleradores de IA da Nvidia, enquanto a própria Arm ganha a possibilidade de desenvolver CPUs voltadas a hyperscalers que competem com soluções da Nvidia e da Intel. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
