@@ -1,0 +1,49 @@
+{
+    "title": "Eu posso ter feito algo ilegal! / Microsoft não entende / IBM saindo do Brasil",
+    "fps": 30,
+    "timestamp": 1763735732,
+    "width": 0,
+    "height": 0,
+    "date": "21/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Chefe de IA da Microsoft não entende porque usuários do Windows estão reclamando tanto das funções de IA no sistema operacional: para Mustafa Suleyman, “o fato de as pessoas não estarem impressionadas... é de ‘explodir a cabeça’ para mim”. A empresa tem enfrentado críticas ao afirmar que o Windows está evoluindo para um modelo mais “agêntico”. A reputação recente do sistema operacional, entretanto, está em baixa, com usuários reclamando de falta de correção para problemas fundamentais e uma “obsessão” por funções de IA, algo avaliado como “totalmente descabido” para muitos deles. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "IBM vai encerrar laboratório de pesquisa no Brasil: a unidade, inaugurada em 2010, estuda tecnologias voltadas à IA e computação quântica. A medida atinge cerca de 100 funcionários, cujos contratos serão encerrados em 18 de dezembro. A ordem teria vindo diretamente da matriz nos EUA. As pesquisas realizadas no país serão transferidas para outros locais onde a empresa mantém operações, e a IBM afirma que continua comprometida com o mercado brasileiro. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Roblox exigirá que usuários realizem verificação facial de idade para usar o chat da plataforma: os jogadores serão classificados em grupos (entre menos de 9 anos, 9-12, 13-15, 16-17, 18-20 e maiores de 21). As conversas só serão permitidas entre pessoas da mesma categoria ou de faixas etárias próximas. A medida começará a ser implementada na primeira semana de dezembro na Austrália, Nova Zelândia e Países Baixos, e ampliada para outros países no início de janeiro. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google torna Quick Share do Android compatível com AirDrop do iPhone sem ajuda da Apple: acredita-se que a empresa tenha realizado engenharia reversa dos padrões abertos do AirDrop para fazer funcionar. Inicialmente, a novidade será implementada na linha de celulares Pixel 10. Usuários da Apple precisam ativar o AirDrop no modo “todos por 10 minutos”, e proprietários de Android precisam instalar ou atualizar o Quick Share Extension. As informações são dos sites Android Authority e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok permitirá escolher quanto conteúdo gerado por IA o usuário quer ver no feed “Para Você”: a opção ficará disponível na seção “Gerenciar Tópicos”, dentro de “Preferências de Conteúdo”, e será distribuída gradualmente nas próximas semanas. A empresa também testará uma “marca d’água invisível”, legível apenas pela própria plataforma, para dificultar sua remoção em conteúdos gerados por IA que são editados ou reenviados para outros serviços. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-5.1-Codex-Max, voltado para tarefas de programação de longa duração: o modelo foi treinado com base em tarefas reais de engenharia de software, como criação de Pull Requests, revisão de código e desenvolvimento frontend. Diferente do GPT-5.1 Codex padrão, que é otimizado para ambientes Unix, a nova versão também foi projetada para operar no Windows. A novidade já está disponível para assinantes Plus, Pro, Business, Edu e Enterprise. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Google lança gerador de imagens Nano Banana Pro: a nova versão é baseada no Gemini 3 e oferece cenas mais detalhadas e textos mais precisos, além de recursos de busca na web, entregando imagens em resolução 1080p, 2K e 4K. A novidade está disponível para todos no app do Gemini, com gerações limitadas para usuários gratuitos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Configuração do Windows 11 permitirá esconder tela azul da morte e mensagens de erro em locais públicos: o Digital Signage Mode estará disponível nas opções de recuperação do sistema, e ocultará essas informações automaticamente após 15 segundos. A novidade se aplica a telas não interativas usadas para exibir anúncios e não vale para o modo Kiosk do Windows, utilizado em terminais de atendimento, por exemplo. As informações são do site Tom's Hardware.",
+            "url": ""
+        }
+    ]
+}
