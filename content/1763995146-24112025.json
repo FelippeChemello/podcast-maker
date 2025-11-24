@@ -1,0 +1,49 @@
+{
+    "title": "NPM: novo ataque / Google nega acusação / Confusão com eleição",
+    "fps": 30,
+    "timestamp": 1763995146,
+    "width": 0,
+    "height": 0,
+    "date": "24/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Ataque à cadeia de suprimentos afeta mais de 300 pacotes NPM: um agente de ameaça publicou novas versões de pacotes populares alegando adicionar suporte ao runtime Bun. No entanto, essas releases continham scripts maliciosos que roubavam tokens do NPM e credenciais de serviços como GitHub, AWS e Azure, enviando essas informações para o servidor do invasor. Com os tokens roubados, o código conseguia infectar outros pacotes, espalhando-se de forma automática. Entre as bibliotecas afetadas estão zapier-sdk nas versões 0.15.5 e 0.15.7, posthog/core (1.5.6), posthog-node (5.11.3, 5.13.3 e 4.18.1), asyncapi/specs (6.10.1, 6.8.2, 6.9.1 e 6.8.3) e postman/tunnel-agent (0.6.6 e 0.6.5). Juntas, elas somam cerca de 7,3 milhões de downloads semanais. As informações são do blog da HelixGuard.",
+            "url": ""
+        },
+        {
+            "text": "Google nega acusação de estar lendo e-mails do Gmail para treinar IA: segundo diversas publicações, os “recursos inteligentes” do Gmail precisavam ser desativados nas configurações para impedir o seu uso. A empresa, no entanto, argumenta que essa opção existe há mais tempo e não usa seu conteúdo de mensagens para treinar o modelo Gemini. Ainda assim, algumas pessoas relatam que já haviam desativado a opção, mas ela foi reativada automaticamente. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Organização de pesquisa em criptologia cancela resultado de sua eleição anual de liderança após perder chave de descriptografia: segundo a International Association of Cryptologic Research, os resultados estavam armazenados em um sistema que utiliza criptografia para registrar os votos. Três curadores detinham, cada um, um terço do material criptográfico da chave necessária para descriptografar os votos, mas um deles perdeu sua parte de forma irrecuperável. Ele renunciou ao cargo e foi substituído. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "CrowdStrike demite suspeito de repassar informações da empresa para hackers do Scattered Lapsus$ Hunters: o grupo publicou recentemente capturas de tela em um canal público no Telegram que supostamente mostravam acesso interno aos sistemas da companhia, os quais teriam sido invadidos por meio do uso de dados vazados de uma outra empresa. Mas a CrowdStrike ressalta que essa informação é falsa e que o funcionário estava encaminhando os prints de seu computador pessoal. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft torna jogos Zork I, II e III open-source sob a licença MIT: os títulos foram lançados no fim dos anos 70 e início dos anos 80 para computadores da época. A abertura do código é resultado do esforço conjunto das equipes do Xbox, da Activision, do Escritório de Programas de Código Aberto da Microsoft e do arquivista digital do Internet Archive, Jason Scott. Os projetos podem ser conferidos nos repositórios “zork1”, “zork2” e “zork3” da conta “historicalsource” no GitHub. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Dell e HP desativam decodificação de vídeo HEVC/H.265 por hardware em alguns de seus notebooks: acredita-se que as empresas estejam tentando cortar custos, já que os detentores das patentes do codec planejam aumentar as taxas de licenciamento em 2026. Modelos afetados da HP incluem o ProBook 460 G11, 465 G11 e EliteBook 665 G11. Já a Dell afirma que vai oferecer o suporte apenas em dispositivos premium, que contam com uma placa de vídeo dedicada, display 4K integrado e Dolby Vision. As informações são dos sites Tom’s Hardware e Adrenaline.",
+            "url": ""
+        },
+        {
+            "text": "Mágico implanta chip RFID na mão para realizar truques e fracassa: a ideia de Zi Teng Wang era usar a mão para interagir com celulares de outras pessoas. No entanto, ele tinha dificuldades para achar a região do leitor compatível no aparelho. Depois, ele decidiu programar o chip para abrir um meme no Imgur ao aproximar o smartphone, mas o link da imagem saiu do ar e, ao tentar reconfigurar o componente, Zi havia esquecido a senha com a qual o havia protegido, fazendo com que ele se tornasse inútil enquanto ainda estava implantando. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Zorin OS 18 registra 1 milhão de downloads em um mês, com 78% vindo de máquinas com Windows: não é possível saber quantas dessas pessoas realmente instalaram o sistema. A distribuição Linux tem como objetivo ser uma alternativa para usuários do Windows, especialmente com o fim do suporte ao Windows 10 no dia 14 de outubro. Nessa época, o Zorin OS já havia registrado 100 mil downloads em poucos dias. As informações são dos sites XDA Developers e Slashdot.",
+            "url": ""
+        }
+    ]
+}
