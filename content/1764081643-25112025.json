@@ -1,0 +1,45 @@
+{
+    "title": "BTC: minerador faz história / Meta oculta estudo / AVC: tratamento remoto",
+    "fps": 30,
+    "timestamp": 1764081643,
+    "width": 0,
+    "height": 0,
+    "date": "25/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Minerador conquista, sozinho, bloco completo de Bitcoin e ganha 270 mil dólares: ele utilizou um ASIC de antiga geração capaz de aproximadamente 6 terahashes por segundo (TH/s), garantindo 3,146 BTC no CKpool, cuja taxa de hash é estimada em 855,7 exahashes/s. O valor foi confirmado pelo criador do pool, Con Kolivas, que afirmou que o minerador tinha apenas uma chance em 180 milhões de resolver um bloco. Operar com 6 TH/s no CKpool é como comprar um único bilhete de loteria em um sorteio onde bilhões já foram vendidos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Meta teria ocultado pesquisas que comprovam que suas redes sociais causam danos à saúde mental dos usuários: segundo a acusação, a empresa teria encerrado um estudo interno chamado Project Mercury, que mostrou que pessoas que deixaram de usar Facebook e Instagram por uma semana apresentaram níveis menores de depressão, ansiedade, solidão e comparação social. A empresa nega as acusações e afirma que o projeto foi finalizado devido a falhas metodológicas. Uma audiência sobre o caso está marcada para janeiro de 2026 nos EUA. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Robôs controlados remotamente podem possibilitar tratamento à distância de AVC: a ideia é instalar equipamentos em regiões menos povoadas para conectar pacientes a cirurgiões, reduzindo em muito o tempo até o tratamento, que requer ação imediata. Em uma demonstração, médicos do Canadá realizaram dois angiogramas entre hospitais da mesma cidade usando o N1 da Remedy Robotics. Um dos desafios é manter conexões estáveis e com pouca latência por longas distâncias. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic lança Claude Opus 4.5: o modelo é o primeiro a ultrapassar a marca de 80% (80,9%) no benchmark SWE-Bench Verified, superando o GPT-5.1-Codex-Max (77,9%) e Gemini 3 Pro (76,2%). A empresa também afirma que o sistema é menos suscetível a ataques de prompt injection, e não encerrará mais conversas longas de forma abrupta ao atingir o limite de memória. A novidade está disponível para assinantes dos planos Pro, Max, Team e Enterprise. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança “Pesquisa de compras” no ChatGPT: com ele, usuários podem fazer perguntas sobre produtos que desejam adquirir, e o chatbot irá buscar na web pelo item conforme as preferências, incluindo preço, uso pretendido e recursos desejados. A empresa recomenda visitar o site da loja para obter informações mais precisas. O recurso já está disponível na plataforma para todos. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google retoma desenvolvimento para trazer JPEG XL ao Chrome: o formato, projetado para substituir o JPEG tradicional, permite reduzir o tamanho dos arquivos sem perda perceptível de qualidade, ajudando páginas a carregarem mais rápido e a diminuir o consumo de dados. Em 2022, a empresa tinha removido o suporte à tecnologia afirmando que na época não havia interesse suficiente. Não há previsão de quando o JPEG XL estará disponível no navegador. As informações são do site Windows Report.",
+            "url": ""
+        },
+        {
+            "text": "Falhas de segurança em ferramenta open-source deixam serviços na nuvem vulneráveis a ataques: o Fluent Bit é um serviço de coleta de logs utilizado por empresas como Google, Amazon, Microsoft, Oracle e IBM. As vulnerabilidades CVE-2025-12977, CVE-2025-12978, CVE-2025-12972 (presente há mais de oito anos), CVE-2025-12970 e CVE-2025-12969 permitem ignorar sistemas de autenticação, executar código remotamente e até realizar ataques de DoS. As correções foram disponibilizadas a partir das versões 4.1.1 e 4.0.12. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
