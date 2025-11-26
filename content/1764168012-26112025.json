@@ -1,0 +1,41 @@
+{
+    "title": "Hardware da OpenAI / Preço de RAM dispara / Arduino mais restrito",
+    "fps": 30,
+    "timestamp": 1764168012,
+    "width": 0,
+    "height": 0,
+    "date": "26/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Dispositivo que Sam Altman (CEO da OpenAI) e Jony Ive (ex-chefe de design da Apple) estão construindo juntos deve ser menos distrativo que o iPhone: para Altman, quando as pessoas virem o aparelho, ficarão surpresas pela sua simplicidade. Ele criticou o fato de as tecnologias modernas serem repletas de distrações, e ressalta que o novo produto será capaz de filtrar informações para o usuário. Segundo rumores, o dispositivo não terá tela e caberá no bolso. Ive confirma que ele deve ser lançado em menos de dois anos. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Kits de memória RAM DDR5 estão custando mais que um PlayStation 5: algumas lojas nos EUA estão vendendo kits de 64 GB por 599 dólares, valor que supera em 200 dólares um PS5 digital e um Xbox Series S no país. Entre julho e agosto, um kit similar custava apenas 139 dólares. Acredita-se que isso seja resultado da crescente demanda da indústria de IA por DRAM. Em paralelo, fabricantes de PCs estariam adquirindo grandes volumes de memória, o que pode agravar a escassez desses componentes até 2027. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm muda termos do Arduino e recebe críticas da comunidade: entre as alterações está uma licença perpétua sobre qualquer código ou design de placa enviado pelos usuários. A plataforma agora pode manter informações pessoais mesmo após o encerramento das contas, e esses dados passam a ser integrados ao ecossistema da Qualcomm. Críticos afirmam que as mudanças fazem com que o Arduino deixe de ser um espaço comunitário para tornar-se um serviço corporativo rigidamente controlado. As informações são do site TechSpot.",
+            "url": ""
+        },
+        {
+            "text": "Apple deve recuar em novidades para focar em qualidade no próximo iOS 27: segundo fontes com conhecimento do assunto, a empresa buscará cortar excessos, eliminar bugs e melhorar o desempenho geral de seu software, além de realizar ajustes no design do Liquid Glass. Isso vale para iPhones, Macs, Apple Watches, Apple TV e Vision Pro. No entanto, isso não significa que o iOS 27 e derivados não ganharão novos recursos. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Amazon anuncia três terminais de antenas para seu serviço de internet via satélite: o Leo Ultra, projetado para instalação em locais fixos, oferece velocidades de download de até 1 Gbps e upload de até 400 Mbps. Atualmente, ele está em fase de testes para empresas, com acesso ampliado previsto para 2026. Além dele, a empresa apresentou o Leo Pro, pensado para uso portátil ou em veículos, e o Leo Nano, uma unidade compacta de 18 centímetros com suporte a até 100 Mbps, ambos também previstos para o próximo ano. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Interfaces cérebro-computador (BCI) conseguem detectar pensamentos pré-conscientes, levantando questões sobre privacidade: em um experimento com uma mulher paralisada, o implante conseguiu prever a intenção dela de tocar uma nota musical antes de ela ficar consciente dessa intenção. O dispositivo estava instalado na região do cérebro responsável pelo planejamento. Apesar de isso abrir possibilidade para BCIs mais rápidas e precisas, esses dados poderiam ser coletados por empresas e vendidos a terceiros, por exemplo. As informações são do site Nature.",
+            "url": ""
+        }
+    ]
+}
