@@ -1,0 +1,69 @@
+{
+    "title": "OpenAI: vazamento / Flipper Zero “brazuca” / Apple deve passar Samsung",
+    "fps": 30,
+    "timestamp": 1764254254,
+    "width": 0,
+    "height": 0,
+    "date": "27/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "OpenAI emite alerta sobre vazamento de dados de clientes: a MixPanel, plataforma de análise de dados utilizada pela empresa, identificou que um invasor obteve acesso não autorizado a parte de seus sistemas e exportou um conjunto de dados de usuários que utilizam a plataforma de API da OpenAI, incluindo nome, endereço de e-mail e localização. Dados de pagamento e credenciais não foram comprometidos. As informações vazadas podem ser usadas em tentativas de phishing contra clientes da empresa. Recomenda-se cautela com e-mails ou mensagens que contenham links ou anexos. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Rival do Flipper Zero idealizado por brasileiros é um sucesso e extrapola em vinte vezes a meta de viabilidade do projeto no Kickstarter: o High Boy é projetado para hackear conexões sem fio como Wi-Fi e Bluetooth. O dispositivo é vendido por 160 dólares, com entrega prevista para julho de 2026. Os criadores, que fundaram a empresa nos EUA, desincentivam qualquer uso ilegal do produto, cujo foco é educacional. A comercialização do Flipper Zero no Brasil é proibida pela Anatel. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Após 14 anos, Apple deve ultrapassar Samsung e recuperar título de maior fabricante de celulares do mundo: segundo um relatório, no primeiro mês de disponibilidade do iPhone 17, as vendas da Apple subiram 22%. Por outro lado, o mercado geral de smartphones caiu 2,7% no mesmo período. Enquanto a Samsung deve encerrar 2025 com um aumento de 4,6% nas vendas, a Apple deve registrar um crescimento anual de 10%. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Warner Music Group fecha parceria com Suno: a gravadora permitirá que usuários criem músicas geradas pela IA da Suno usando as vozes, nomes, imagens e composições de artistas do seu catálogo que optarem por participar do programa. Entre os músicos que já gravaram com a WMG estão Ed Sheeran, Twenty One Pilots e Dua Lipa. Ela também está desistindo de um processo contra a Suno, que acusava-a de copiar ilegalmente obras com direitos autorais no YouTube. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Botnet ShadowV2 aproveitou-se de pane da AWS em outubro para atacar 28 países, incluindo Brasil: durante o período de interrupção do serviço, a botnet infectou dispositivos IoT em diversas regiões, abrindo uma brecha para que um hacker controlasse remotamente a rede e executasse ataques em larga escala. Acredita-se que a investida tenha sido um teste para invasões maiores no futuro. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Character AI proíbe conversas com chatbots para menores de 18 anos e lança recurso de histórias interativas: a novidade permite que os usuários criem contos de ficção com seus personagens favoritos. Ela surge em meio a processos judiciais e preocupações com a saúde mental dos jovens que mantêm contato com ferramentas de IA disponíveis 24 horas por dia e que podem iniciar conversas sem serem solicitadas, mesmo quando a plataforma não está aberta. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Tor Project reforça seu método de criptografia: o tor1 será substituído por um sistema chamado Counter Galois Onion, com o objetivo de melhorar a segurança contra invasores ativos na internet. Entre os problemas identificados na tecnologia anterior, o mais grave abria a possibilidade de um hacker identificar quem era o usuário enquanto ele estava navegando. As alterações serão eventualmente aplicadas tanto no Tor Browser quanto no Tails OS, sem exigir nenhuma ação. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses simulam como bloquear sinal da Starlink em toda a ilha de Taiwan: a equipe utilizou dados reais da rede e simularam, por 12 horas, uma malha de satélites do tamanho de Taiwan. Segundo eles, seriam necessários centenas ou milhares de bloqueadores de ruído eletrônico (instalados em drones, balões ou aviões) colocados no ar a uma distância de 5 a 10 quilômetros entre si, criando um tipo de escudo eletromagnético que impediria o sinal de internet. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "→ Após o dia 30/nov (domingo), o curso passará por um ajuste de preço, então, neste momento, o preço atual é o menor valor do curso daqui para a frente.",
+            "url": ""
+        },
+        {
+            "text": "→ Se você estiver sem limite no cartão de crédito, sem problemas, automaticamente será utilizado apenas o valor de uma única parcela por mês (similar a um pagamento recorrente).",
+            "url": ""
+        },
+        {
+            "text": "→ Esta oferta ainda conta com o benefício de Acesso Vitalício, com acesso a todas as atualizações para sempre. Uma hora este benefício deixará de ser ofertado.",
+            "url": ""
+        },
+        {
+            "text": "→ Eu ofereço 30 dias de Garantia com uma política de reembolso 100% amigável (e sem pegadinhas).",
+            "url": ""
+        },
+        {
+            "text": "→ Suporte Técnico Avançado: a todo momento você poderá contar com suporte que é realizado por mim e por outros programadores de verdade.",
+            "url": ""
+        }
+    ]
+}
