@@ -1,0 +1,65 @@
+{
+    "title": "Último alerta / CADE investiga WhatsApp / Buraco na OpenAI",
+    "fps": 30,
+    "timestamp": 1764340584,
+    "width": 0,
+    "height": 0,
+    "date": "28/11/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Conselho Administrativo de Defesa Econômica investiga Meta por práticas anticompetitivas ao barrar IA de terceiros no WhatsApp: a decisão partiu de uma denúncia de duas empresas responsáveis pelos chatbots Luzia e Zapia. Segundo elas, a mudança fará a Meta AI ser a única disponível na plataforma, com a exclusão de competidores impactando a liberdade de escolha dos usuários e colocando modelos de negócio em risco. As novas regras do WhatsApp já estão valendo para novos desenvolvedores e serão impostas a todos em janeiro. As informações são do site Convergência Digital.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI precisa garantir 207 bilhões de dólares em financiamentos até 2030 para cumprir seus planos de expansão: o déficit aparece depois que a empresa se comprometeu a gastar 300 bilhões na Oracle, 250 bilhões na Microsoft e 38 bilhões na AWS em troca de serviços de nuvem. Segundo o HSBC, as opções da empresa incluem atrair mais clientes, taxas de assinaturas mais altas e levantar mais capital com seus acionistas. Caso não atinja essa meta, os parceiros mais próximos da companhia, que incluem Nvidia, AMD e SoftBank, seriam os mais prejudicados. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Amazon enfrenta investigação da Administração Federal de Aviação dos EUA após drone de entrega romper cabo de internet no Texas: depois de entregar um pacote para um cliente e levantar voo, uma das hélices do dispositivo (modelo MK30) se enroscou no cabo. Não houve feridos nem queda generalizada do serviço de internet, e a empresa pagou pelos reparos. O caso ocorre um mês depois de dois drones da companhia colidirem com um guindaste no Arizona. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Android permitirá ativar roteador Wi-Fi com dual-band, utilizando frequências de 2,4 GHz e 6 GHz ao mesmo tempo: dessa forma, o sistema conseguirá fornecer a velocidade do modo 6 GHz, mas sem deixar de funcionar em dispositivos mais antigos (que não têm suporte a esse tipo de conexão) graças à banda de 2,4 GHz. Inicialmente, a novidade está sendo implementada na versão mais recente do Android Canary, ainda sem previsão de disponibilidade mais ampla. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Engenheiro faz DOOM ser exibido no KiCad, software de design de placas eletrônicas: o motor do jogo rodou em um processo separado escrito em C, enquanto o KiCad funcionou apenas como “tela”, renderizando cada quadro como se fossem trilhas de cobre em uma placa. Os elementos do jogo eram traduzidos para equivalentes eletrônicos. Paredes se tornavam trilhas, inimigos eram representados por chips de 64 pinos e munições apareciam como componentes de 3 pinos. Cada quadro gerado resultava em um design de placa que, em teoria, poderia ser fabricado. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Seagate alcança 6,9 TB por prato em disco rígido em testes de laboratório: o avanço torna possível, pela primeira vez, HDDs de 55 TB a 69 TB de armazenamento. Em comparação, modelos recentes da empresa como os HDDs HAMR de 30 TB utilizam 10 pratos de 3 TB para atingir sua capacidade máxima. A estimativa é que a nova tecnologia chegue ao mercado somente após 2030. A empresa também projeta pratos de 7 TB e 15 TB a partir de 2031. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Grok organizará postagens da aba “Seguindo” do X: os posts serão classificados por engajamento e relevância, sendo priorizados com base no que o modelo prevê que será mais interessante para o usuário. Ainda será possível utilizar a listagem padrão tocando nos três pontos no topo do feed e selecionando a opção “Cronológico”, listando os itens na ordem em que foram publicados. As informações são do site NDTV.",
+            "url": ""
+        },
+        {
+            "text": "→ Após o dia 30/nov (este Domingo), o curso passará por um novo ajuste de preço, então, neste momento, o preço atual é o menor valor do curso daqui para a frente.",
+            "url": ""
+        },
+        {
+            "text": "→ Se você estiver sem limite no cartão de crédito, sem problemas, automaticamente será utilizado apenas o valor de uma única parcela por mês (similar a um pagamento recorrente).",
+            "url": ""
+        },
+        {
+            "text": "→ Esta oferta ainda conta com o benefício de Acesso Vitalício, com acesso a todas as atualizações para sempre. Uma hora este benefício deixará de ser ofertado.",
+            "url": ""
+        },
+        {
+            "text": "→ Eu ofereço 30 dias de Garantia com uma política de reembolso 100% amigável (e sem pegadinhas).",
+            "url": ""
+        },
+        {
+            "text": "→ Suporte Técnico Avançado: a todo momento você poderá contar com suporte humano, realizado por mim e por outros programadores de verdade.",
+            "url": ""
+        }
+    ]
+}
