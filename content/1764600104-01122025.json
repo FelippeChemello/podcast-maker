@@ -1,0 +1,41 @@
+{
+    "title": "Apple + Intel / Paralização em Bolsa de Valores/ Minecraft em impressora",
+    "fps": 30,
+    "timestamp": 1764600104,
+    "width": 0,
+    "height": 0,
+    "date": "01/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple pode recorrer à Intel para produção de chips da série M: segundo um relatório, a Apple possui um acordo com a Intel para adquirir uma versão preliminar do seu kit de desenvolvimento, enquanto aguarda a entrega da versão final, prevista para 2026. Caso tudo ocorra conforme planejado, a Intel poderia começar a fornecer o processador mais básico da linha M em 2027. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Superaquecimento em data center interrompe operações da CME, maior bolsa de derivativos do mundo: a paralisação, ocorrida na última sexta-feira, durou mais de 11 horas, sendo considerada uma das mais longas já registradas pela companhia. A reativação envolveu a reinicialização parcial de sistemas de refrigeração e a implementação de refrigeração temporária. Os serviços já foram completamente restaurados. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Criador de conteúdo “smillgames” utiliza impressora de recibos como tela para jogar Minecraft: o jogo estava sendo executado em um PC, mas os frames eram capturados e enviados para o dispositivo, que os imprimia em papel. A taxa de atualização ficou por volta de 0,5 a 1 quadro por segundo, e o resultado visual era monocromático e de baixa resolução. Mesmo assim, o usuário conseguiu chegar ao final do jogo (derrotar o Ender Dragon) com menos de um rolo de recibos sobrando, de um total de cinco. As informações são dos sites Tom’s Hardware e TweakTown.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisa da Apple abre possibilidade para que futuros AirPods leiam sinais cerebrais: a equipe utilizou aprendizado de máquina para treinar um sistema que conseguisse analisar a atividade elétrica do cérebro sem precisar de dados previamente anotados por especialistas. Um dos datasets utilizados no experimento era composto por gravações feitas com um dispositivo de eletroencefalografia de ouvido. Como a Apple já colocou sensores de saúde nos AirPods, especula-se que ela esteja explorando tecnologias para medir sinais cerebrais por meio dos fones. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Organizadores de encontro internacional de especialistas em aprendizado de máquina são inundados com revisões feitas por IA: pesquisadores começaram a suspeitar porque muitos pareceres tinham problemas como citações inventadas e comentários vagos. Segundo um levantamento, 21% das análises de artigos encontravam-se nessa situação. O evento permite o uso da tecnologia, mas exige que isso seja informado. A próxima edição do International Conference on Learning Representations acontecerá em abril de 2026 no Rio de Janeiro. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "Voyager 1, o objeto mais distante da Terra feito pelo ser humano, se aproxima do marco de um dia-luz: segundo estimativas, em novembro de 2026 a sonda estará a 25,9 bilhões de quilômetros da Terra, época em que terá 49 anos desde seu lançamento em 1977. Isso significa que ela viaja a mais de 60.000 km/h. Na distância atual, leva cerca de um dia para enviar comandos à Voyager 1 e mais um dia para receber uma resposta. Para efeito de comparação, a Proxima Centauri, estrela mais próxima do Sistema Solar, está a quatro anos-luz de distância. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
