@@ -1,0 +1,45 @@
+{
+    "title": "AWS e Google se unem / Apple com problemas / Veo e Sora superados",
+    "fps": 30,
+    "timestamp": 1764686552,
+    "width": 0,
+    "height": 0,
+    "date": "02/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "AWS e Google Cloud se unem para mitigar impacto de quedas em provedores de nuvem: as empresas desenvolveram uma arquitetura multicloud que permite que aplicações hospedadas em ambos os serviços conversem entre si. Dessa forma, sistemas críticos podem continuar funcionando mesmo se um dos provedores falhar, automaticamente migrando ou utilizando recursos um do outro. A Amazon confirma que a integração também chegará ao Microsoft Azure em 2026. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "John Giannandrea, chefe de IA da Apple, renuncia ao cargo: ele dará lugar a Amar Subramanya, que passou 16 anos no Google e também fez parte da Microsoft AI. A mudança acontece enquanto a empresa enfrenta dificuldades para disponibilizar uma versão da assistente Siri comparável ao Gemini e ChatGPT, o que deve acontecer até junho de 2026. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Startup lança gerador de vídeos que supera Google e OpenAI em benchmark independente: o Gen 4.5, da Runway, ocupa o primeiro lugar no Video Arena, no qual usuários comparam dois conteúdos e votam no favorito sem saber quais tecnologias estão por trás. O Veo 3 aparece em segundo e o Sora 2 Pro em sétimo. O modelo está sendo lançado gradualmente e, segunda a empresa, ele possui bom conhecimento de física, movimento humano e de câmera, e relações de causa e efeito. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Netflix remove transmissão de séries e filmes do celular para TV: segundo relatos, o suporte foi removido nas últimas semanas sem qualquer aviso prévio. O recurso ainda funciona em Chromecasts antigos ou em TVs com Google Cast nativo, mas apenas para assinantes dos planos sem anúncios. A empresa não explicou por que descontinuou a funcionalidade. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google apaga postagem no X após ser acusado de “roubar” receita de um blog com sua IA: a conta do NotebookLM compartilhou um cartão de receita em infográfico, criado com o Nano Banana Pro. Um usuário, então, comparou o resultado com uma postagem do site HowSweetEats e afirmou que eram idênticos, incluindo a lista de ingredientes e a estrutura do texto. Acredita-se que a IA tenha copiado diretamente a receita original e a transformado em um cartão estilizado, sem atribuir ao autor original. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Teste caseiro desafia conclusão do Deezer de que 97% das pessoas não distinguem músicas feitas por IA: recentemente, a empresa realizou um experimento com 9 mil participantes que ouviram três faixas e precisavam adivinhar quais delas eram geradas pela máquina. Se a pessoa não acertasse as três, ela caía automaticamente no grupo dos que falharam. No entanto, em outro estudo amador realizado com 10 voluntários, utilizando as mesmas três faixas e considerando cada acerto individualmente, eles conseguiram identificar corretamente em 43% das vezes. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas criam nanogerador que pode substituir baterias em dispositivos minúsculos: o componente produz eletricidade ao empurrar água para dentro e para fora de poros extremamente pequenos em uma estrutura de silício. O mecanismo de conversão de energia é a triboeletrificação, o mesmo fenômeno que faz uma pessoa se carregar eletricamente ao caminhar sobre um carpete e descarregar ao tocar algum objeto. A tecnologia pode permitir sensores autônomos, sem necessidade de manutenção e energizados diretamente pelo ambiente. As informações são do site TechSpot.",
+            "url": ""
+        }
+    ]
+}
