@@ -1,0 +1,45 @@
+{
+    "title": "OpenAI: alerta vermelho / Bolha em robôs / Anthropic compra Bun",
+    "fps": 30,
+    "timestamp": 1764772902,
+    "width": 0,
+    "height": 0,
+    "date": "03/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Sam Altman teria decretado “alerta vermelho” após Gemini ultrapassar ChatGPT em benchmarks: ele afirmou em um memorando interno que a OpenAI precisa melhorar a velocidade e confiabilidade de seu modelo principal, além de ampliar a variedade de temas que ele consegue cobrir. O Gemini 3 atingiu a pontuação mais alta já registrada no Humanity’s Last Exam (37,4, contra 31,64 do GPT-5 Pro), e também liderou testes de satisfação de usuário, como o LMArena. As informações são dos sites Tom’s Hardware e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "China alerta para bolha no setor de robôs humanoides: segundo a Comissão Nacional de Desenvolvimento e Reforma, um dos órgãos econômicos mais importantes do governo chinês, o crescimento acelerado no setor pode resultar em modelos de robôs excessivamente similares enquanto os recursos para pesquisa na área diminuem. O aviso contrasta com a postura de incentivo do governo chinês para novas tecnologias, que recentemente classificou a robótica humanoide como prioridade nacional. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Anthropic adquire o runtime JavaScript Bun: mesmo após a compra, a tecnologia continuará sendo open-source, com a mesma equipe, licença MIT e desenvolvimento público no GitHub. A diferença é que agora os desenvolvedores terão mais recursos, apoio técnico e integração com os produtos da Anthropic, os quais dependem diretamente do Bun para funcionar, incluindo o Claude Code. As informações são do blog do Bun e do site da Anthropic.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa de 7 anos implementou backdoor em extensões para Chrome e Edge: um grupo identificado como ShadyPanda publicou plugins aparentemente legítimos entre 2018 e 2019. Em 2024, eles implantaram, silenciosamente, um backdoor nesses softwares capaz de coletar URLs visitadas e histórico completo, além de interceptar tráfego HTTPS, abrindo espaço para roubo de credenciais e sequestro de sessões. As extensões maliciosas incluem Clean Master (+200 mil instalações), WeTab New Tab Page (+3 milhões) e Infinity V+. As informações são do blog da Koi Security.",
+            "url": ""
+        },
+        {
+            "text": "Zig Software Foundation abandona GitHub, criticando falhas sem solução no Actions: segundo o presidente da fundação, Andrew Kelly, a ferramenta possui bugs graves que permanecem sem atenção, deixando o sistema de Continuous Integration do Zig lento e com muitos travamentos. Kelly criticou o fato de a Microsoft focar excessivamente em recursos de IA e negligenciar problemas importantes. Agora, o projeto está migrando para o Codeberg, um serviço de hospedagem de projetos Git sem fins lucrativos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Mistral anuncia terceira geração de seus modelos de IA: o lançamento inclui três sistemas menores chamados Ministral (3B, 8B e 14B), capazes de entender imagens e conversar em múltiplos idiomas, além de gastarem menos tokens para gerar uma resposta, sem perda de qualidade, o que reduz custos para desenvolvedores. Além deles, há o Mistral Large 3, com 41 bilhões de parâmetros e mais poderoso. Os modelos já estão disponíveis no Mistral AI Studio e no Hugging Face sob a licença Apache 2.0, o que permite uso comercial e modificação livre. As informações são do site da Mistral.",
+            "url": ""
+        },
+        {
+            "text": "Antigravity, ferramenta de vibe coding do Google, apaga completamente o drive D de um usuário: o indivíduo, identificado como Tassos, é fotógrafo e pediu ao sistema que criasse um software de seleção de imagens. O incidente ocorreu quando o modelo foi excluir permanentemente uma pasta de cache do projeto, mas acabou mirando na raiz da partição. Tassos afirma que estava usando o modo Turbo, que permite ao agente executar comandos sem confirmação, e reconhece que isso foi um erro. O Google está investigando o ocorrido. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
