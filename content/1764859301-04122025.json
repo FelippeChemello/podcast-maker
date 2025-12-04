@@ -1,0 +1,45 @@
+{
+    "title": "Alerta: React e NextJS / Arma de fogo para TI / Brasileira bilionária",
+    "fps": 30,
+    "timestamp": 1764859301,
+    "width": 0,
+    "height": 0,
+    "date": "04/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falhas críticas no React e NextJS permitem execução remota de código JavaScript em servidores  (CVE-2025-55182 e CVE-2025-66478): o problema está no protocolo Flight do React Server Components. Quando o pacote “react-server” recebe um payload malformado, ele não valida corretamente sua estrutura e permite que dados controlados pelo invasor interfiram na lógica interna da máquina. Recomenda-se atualizar imediatamente. Confira as versões afetadas e suas respectivas correções no site do TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Projeto de Lei para liberar armas de fogo a profissionais de TI é apresentado na Câmara dos Deputados: a proposta do PL 6049/2025 se baseia no potencial risco a profissionais da área que atuam no enfrentamento de cibercriminosos e que podem sofrer represálias físicas de grupos quando seus esquemas são interrompidos. O texto, entretanto, ressalta que os profissionais devem passar por “critérios rigorosos” e um curso de capacidade técnica da Polícia Federal antes de ter o porte liberado. As informações são do site TecMundo.",
+            "url": ""
+        },
+        {
+            "text": "Brasileira de 29 anos torna-se a bilionária mais jovem do mundo com sua startup de mercados preditivos: Luana Lopes Lara é fundadora da Kalshi, que permite apostas no resultado de eventos futuros, como eleições e jogos esportivos. Nesta semana, a empresa levantou 1 bilhão de dólares em uma rodada de investimentos, atingindo uma avaliação de 11 bilhões, da qual Luana possui cerca de 12% de participação (1,3 bilhão). As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Micron descontinuará produtos de memória e armazenamento para consumidores finais da marca Crucial em fevereiro de 2026: a empresa está realocando sua produção para módulos DRAM e SDDs de nível corporativo, a fim de atender à demanda de data centers de IA. Apesar disso, ela continuará honrando garantias e oferecendo suporte técnico para itens já vendidos. A marca Crucial foi criada em 1996 e também é comercializada no Brasil. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Empresa que criou câmera que encaixa na borda do vaso sanitário para analisar saúde intestinal admite que consegue descriptografar e analisar dados de usuários: na época em que o Dekoda, da Kohler, foi anunciado, foi dito que o aparelho utilizava criptografia de ponta a ponta (E2EE). No entanto, segundo um consultor de tecnologia independente, a outra “ponta” da criptografia é a pŕopria empresa, e o que ela chama de “E2EE” é, na verdade, criptografia HTTPS entre o aplicativo e o servidor. As informações são do site PCMag.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft nega relatos de que teria reduzido suas metas de vendas de produtos de IA depois que vendedores não atingiram objetivos: segundo uma reportagem, um time de vendas da Azure teria definido metas para aumentar em 50% os gastos dos clientes com a ferramenta Foundry. No entanto, menos de 20% deles teriam atingido esse objetivo antes do término do ano fiscal, em junho. Depois que a Microsoft negou a redução, suas ações, que estavam caindo quase 3%, diminuíram as perdas para 1,7%. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Chefe de design de interface da Apple pede demissão e vai para Meta: Alan Dye, que está na Apple desde 2015, será líder de um novo estúdio focado na criação de produtos que conectam hardware e software. Dye liderou a recente e controversa atualização de interface dos sistemas operacionais da Apple, chamado Liquid Glass, criticado por priorizar o visual em vez de usabilidade prática. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
