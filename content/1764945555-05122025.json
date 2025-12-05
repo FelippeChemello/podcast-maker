@@ -1,0 +1,45 @@
+{
+    "title": "Cloudflare: nova pane global / Netflix compra HBO / Meta contra o metaverso",
+    "fps": 30,
+    "timestamp": 1764945555,
+    "width": 0,
+    "height": 0,
+    "date": "05/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Cloudflare sofre nova pane global nesta manhã: erros foram reportados após a empresa realizar uma manutenção programada em seus data centers a partir das 04h00 no horário de Brasília, a fim de mitigar uma falha crítica no React Server Components, que noticiamos na edição de ontem. A companhia identificou o problema às 05h56 e os serviços voltaram ao normal às 06h30. Plataformas afetadas incluíram Canva, Zoom e LinkedIn. As informações são dos sites The Register e Tom’s Guide.",
+            "url": ""
+        },
+        {
+            "text": "Netflix compra Warner Bros, dona da HBO e direitos de marcas como Harry Potter e DC Comics: o valor total da aquisição será de aproximadamente 82,7 bilhões de dólares pelo estúdio, ativos de streaming e dívidas. A oferta agora terá que vencer possíveis obstáculos regulatórios. As informações são dos sites The Verge e Netflix.",
+            "url": ""
+        },
+        {
+            "text": "Meta deve cortar até 30% do orçamento do metaverso em 2026: segundo fontes próximas ao assunto, o nível esperado de competição da indústria por essa tecnologia não se concretizou. A decisão afeta o produto de mundos virtuais Meta Horizon Worlds e a unidade de realidade virtual Quest, e provavelmente culminará em demissões em janeiro. Depois que a informação foi divulgada, as ações da Meta subiram 5,7%. O projeto do metaverso foi a razão pela qual a companhia mudou o nome de Facebook Inc. para Meta Platforms em 2021. As informações são da Bloomberg.",
+            "url": ""
+        },
+        {
+            "text": "Usuário suspeito de possuir informações privilegiadas do Google lucra 1 milhão de dólares no Polymarket em apenas 24 horas: o indivíduo, conhecido como AlphaRaccoon, obteve 22 acertos em 23 previsões sobre quais pessoas famosas ficariam nas primeiras posições do Year in Search 2025. Especula-se que o Google tenha publicado os dados antes da hora por engano. Entretanto, em novembro, o trader também teria lucrado mais de 150 mil dólares ao prever a data exata de lançamento do Gemini 3, o que sugere acesso a informações internas. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Proton lança software de planilhas focado em privacidade: o Sheets protege as informações com criptografia de ponta a ponta, e oferece recursos como transformar números em gráficos e tabelas, fórmulas integradas para cálculos, edição de planilhas com outras pessoas em tempo real e gerenciamento de acessos. A novidade está sendo liberada gradualmente para todos os usuários com uma conta Proton Drive. As informações são do blog da Proton.",
+            "url": ""
+        },
+        {
+            "text": "Intel reverte decisão de vender a NEX, sua unidade de redes e comunicações: a empresa considerava separar o negócio devido às recentes dificuldades nos mercados de PCs e servidores. Em julho, ela reportou um prejuízo líquido de 2,9 bilhões de dólares e anunciou a demissão de cerca de 24 mil vagas (cerca de 15% da força de trabalho). No entanto, recentemente garantiu um pacote de financiamento de 8,9 bilhões de dólares do governo dos EUA, além de 2 bilhões do SoftBank e 5 bilhões da Nvidia. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Crescimento massivo de data centers está atrasando construção de novas casas em Londres: empreendimentos no oeste da cidade foram temporariamente adiados depois que a rede elétrica atingiu sua capacidade máxima, e alguns terão que esperar até 2037 para obter energia, enquanto uma fornecedora trabalha para oferecer 7 GW adicionais. Estima-se que há cerca de 447 centros de dados no Reino Unido, com previsão de aumento de cerca de 100 unidades nos próximos anos, onde mais da metade deve ficar em Londres e arredores. As informações são da BBC.",
+            "url": ""
+        }
+    ]
+}
