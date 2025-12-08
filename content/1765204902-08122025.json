@@ -1,0 +1,41 @@
+{
+    "title": "Gmail: sequestro de contas / Farsa com IA paralisa trens  / 1º serviço de dados em DNA",
+    "fps": 30,
+    "timestamp": 1765204902,
+    "width": 0,
+    "height": 0,
+    "date": "08/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Hackers utilizam recurso legítimo de segurança do Gmail para sequestrar contas: depois que a conta é comprometida, o invasor altera a idade do usuário para 10 anos e o adiciona a um grupo familiar controlado pelo próprio cibercriminoso. Dessa forma, o dono perde acesso às opções de recuperação oferecidas pela plataforma. O Google já está investigando o caso e, como medida preventiva, recomenda ativar a verificação em duas etapas e utilizar passkeys. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Rota de trens é interrompida no Reino Unido após imagem falsa, gerada por IA, mostrar colapso de ponte: a foto circulou pela internet após um terremoto atingir uma região do país. Segundo a empresa pública responsável pela infraestrutura ferroviária da região, 32 serviços, incluindo trens de passageiros e de carga, foram atrasados ou paralisados por uma hora e meia por causa da farsa, enquanto equipes de segurança realizavam inspeções. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "Startup apresenta primeiro serviço comercial de armazenamento de dados em DNA do mundo: o Eon 100, da Atlas Data Storage, utiliza cápsulas contendo DNA sintético, que podem guardar informações por milênios sem necessidade de atualização. Em comparação, fitas magnéticas LTO, por exemplo, precisam ser reescritas a cada 7 ou 10 anos e exigem controle rígido de temperatura e umidade. Segundo a Atlas, o Eon 100 consegue guardar 60 petabytes, o que equivale a cerca de 660 mil filmes em 4K. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Paramount considera partir para uma oferta hostil à Warner Bros após perder compra para Netflix: isso acontece quando uma empresa tenta comprar outra “à força”, diretamente dos acionistas, sem o apoio da diretoria ou do conselho da companhia que está sendo alvo. Uma fonte próxima à Paramount afirma que a organização acredita que apresentou a melhor proposta, tanto no preço quanto na probabilidade de obter aprovações regulatórias. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Justiça dos EUA determina que Google deve renegociar todo ano seus contratos que o definem como buscador padrão em dispositivos: a empresa realiza esse tipo de acordo com a Apple e Samsung. O juiz responsável pelo caso concluiu que a companhia monopolizou ilegalmente o mercado de buscas online. O Google planeja recorrer da decisão inicial, que considerou que esses contratos violam leis antitruste dos EUA. As informações são do site Yahoo Finance.",
+            "url": ""
+        },
+        {
+            "text": "X desativa conta de anúncios da Comissão Europeia após ser multado em 120 milhões de euros: a penalidade, considerada a primeira do tipo aplicada dentro da Lei dos Serviços Digitais, concluiu que o selo azul pago da plataforma é enganoso e facilita golpes e a criação de perfis falsos. Segundo o chefe de produto do X, Nikita Bier, o bloqueio da conta da Comissão não foi por causa da multa, mas porque ela utilizou um “exploit” no sistema de criação de anúncios para publicar um link que parecia um vídeo, a fim de aumentar o alcance. A Comissão nega a acusação. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
