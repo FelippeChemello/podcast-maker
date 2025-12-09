@@ -1,0 +1,41 @@
+{
+    "title": "Alerta grave Android / Geladeira gera surto / Pixels táteis",
+    "fps": 30,
+    "timestamp": 1765291326,
+    "width": 0,
+    "height": 0,
+    "date": "09/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google alerta para falhas críticas no Android que já estão sendo exploradas ativamente por criminosos: as vulnerabilidades CVE-2025-48633 e CVE-2025-48572, relacionadas ao Android Framework, permitem acesso a dados confidenciais e controle sobre o dispositivo. A correção já está disponível para aparelhos Pixel 6 e posteriores. A Samsung também disponibilizou uma atualização de segurança recentemente, mas os aparelhos receberão conforme seu respectivo calendário de atualização. Os da linha S25, por exemplo, possuem um calendário mensal, enquanto os demais são trimestrais ou semianuais. As informações são da Forbes.",
+            "url": ""
+        },
+        {
+            "text": "Mulher com diagnóstico de esquizofrenia é hospitalizada por dois dias após anúncio em geladeira inteligente da Samsung levar a episódio psicótico: a mensagem dizia “ós sentimos muito por ter chateado você, Caro”, fazendo referência à personagem principal da série Pluribus da Apple TV. A mulher também se chama Carol, motivo pelo qual ela achou que alguém estava tentando se comunicar com ela por meio da geladeira. As informações são do site SamMobile.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas criam tela com pixels táteis: cada pixel possui poucos milímetros de tamanho, e conseguem se elevar até cerca de 1 mm quando recebem um feixe de laser, formando um relevo, sem a necessidade de componentes eletrônicos embutidos. Um sistema move o feixe pela tela em alta velocidade, ativando um pixel por vez e criando animações que são visíveis e táteis ao mesmo tempo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Apple e Google anunciam parceria para facilitar migração de dados entre Android e iPhone durante o processo de configuração do aparelho: a novidade começa a ser liberada com o Android Canary 2512 (ZP11.251121.010) em todos os dispositivos Pixel, e chegará futuramente numa versão beta para o iOS 26. Antes do lançamento oficial, a migração ainda vai ganhar mais funcionalidades e suporte para tipos adicionais de dados que podem ser transferidos. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem fones que isolam a voz da pessoa com quem o usuário está conversando: a tecnologia utiliza aprendizado de máquina para reconhecer o ritmo natural das conversas humanas. O protótipo usa microfones e um filtro de áudio direcional para captar e realçar apenas as vozes dos interlocutores, suprimindo todas as demais. Com uma latência inferior a 10 milissegundos, o sistema é rápido o bastante para sincronizar o som com os movimentos labiais. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "IBM adquire Confluent por 11 bilhões de dólares: a Confluent desenvolve tecnologias capazes de lidar com grandes volumes de dados em tempo real, algo essencial para aplicações de IA e modelos mais complexos. O CEO Jay Kreps vai se juntar à divisão de software da IBM, que espera concluir o negócio até meados de 2026. As ações da Confluent registraram alta de 30% após o anúncio. As informações são da Reuters.",
+            "url": ""
+        }
+    ]
+}
