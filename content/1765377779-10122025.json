@@ -1,0 +1,45 @@
+{
+    "title": "SpaceX: IPO histórico / Austrália bane jovens das redes / Óculos do Google",
+    "fps": 30,
+    "timestamp": 1765377779,
+    "width": 0,
+    "height": 0,
+    "date": "10/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "SpaceX estaria planejando oferta pública inicial em 2026 para levantar 30 bilhões de dólares, com uma avaliação aproximada de 1,5 trilhão: caso se confirme, seria o maior IPO de todos os tempos, superando o da Saudi Aramco em 2019, que arrecadou 29 bilhões. Também representaria uma mudança de direção para a empresa, que no passado havia considerado listar apenas a divisão Starlink na bolsa, mantendo o restante da empresa como privada. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Austrália torna-se primeiro país do mundo a proibir redes sociais para menores de 16 anos: plataformas como Facebook, Instagram, TikTok, X, YouTube e Reddit devem tomar medidas para remover e evitar a criação de contas por esses usuários na região. Empresas que não cumprirem a medida podem ser multadas. No entanto, há a preocupação de que, com a proibição, jovens passem a migrar para “áreas mais obscuras da internet”. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Google lançará seus primeiros óculos com IA em 2026: a empresa está colaborando no design do hardware com a Samsung, Gentle Monster e Warby Parker. Haverá uma versão apenas com áudio e outras com display embutido na lente, capaz de mostrar informações como direções de navegação e traduções de idiomas. Os dispositivos serão construídos sobre o Android XR, o sistema operacional do Google para headsets de realidade virtual. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI e Anthropic juntam-se a grupo da Linux Foundation que busca padronizar agentes de IA: o Agentic AI Foundation será um espaço neutro para projetos open-source relacionados a essa área. A Anthropic está contribuindo com o Model Context Protocol, enquanto a OpenAI entra com o AGENTS, um arquivo Markdown que desenvolvedores podem adicionar ao repositório para orientar o comportamento de ferramentas de codificação baseadas em IA. Outros membros incluem AWS, Cloudflare e Google. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores usam dados de 3 milhões de dias de uso acumulados do Apple Watch para treinar modelo capaz de detectar doenças: as informações foram coletadas de mais de 16 mil indivíduos, incluindo batimentos cardíacos, sono e nível de atividade física. Depois do treinamento, a tecnologia, chamada de JETS, obteve uma taxa de 86,8% para hipertensão, 70,5% para flutter atrial (um tipo de arritmia cardíaca), 81% para síndrome da fadiga crônica e 86,8% para síndrome do nó sinusal no índice AUROC, que mede quão bem o modelo separa corretamente casos positivos de negativos. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Comissão Europeia investiga Google por resumos gerados por IA nos resultados de busca: a autoridade vai avaliar se a empresa usou dados de sites para fornecer esse serviço sem oferecer compensação apropriada. A medida também examinará como vídeos do YouTube podem ter sido utilizados para treinar esses sistemas, e se os criadores tiveram a opção de recusar esse uso. O Google, em resposta, afirma que a investigação pode “sufocar” a inovação desse mercado. As informações são da BBC.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI contrata Denise Dresser, CEO do Slack, como diretora de receitas: Denise ficou mais de 14 anos na Salesforce, empresa controladora do Slack, no qual, durante sua passagem, supervisionou a implementação de diversos recursos de IA. Na OpenAI, ela será responsável pela estratégia de receita da empresa no segmento corporativo e pelo sucesso do cliente. Rob Seaman, diretor de produtos do Slack, assumirá o cargo de CEO interino da plataforma. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
