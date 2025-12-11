@@ -1,0 +1,77 @@
+{
+    "title": "Photoshop no ChatGPT / Twitter de volta? / Docker Hub: dados vazados",
+    "fps": 30,
+    "timestamp": 1765463924,
+    "width": 0,
+    "height": 0,
+    "date": "11/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Adobe anuncia integração do Photoshop, Express e Acrobat no ChatGPT: com isso, usuários podem utilizar o chatbot para realizar edições avançadas de imagens e PDFs. Usando o Photoshop será possível remover ou desfocar o fundo de imagens, ajustar exposição, brilho e contraste, ou aplicar efeitos. Já o Acrobat permitirá ações como mesclar arquivos e editar ou extrair textos e tabelas de um documento. A novidade já está disponível globalmente. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Startup quer relançar Twitter, alegando que X abandonou a marca: a Operation Bluebird entrou com uma petição formal no Escritório de Patentes e Marcas dos EUA, pedindo que a agência cancele os registros da X Corporation para as palavras “Twitter” e “tweet”, com a justificativa de que esses termos foram eliminados dos produtos e materiais de marketing da plataforma. Se for bem-sucedida, a empresa lançará uma nova rede social chamada Twitter New em 2026. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Mais de 10 mil imagens do Docker Hub são identificadas vazando dados sensíveis: segundo pesquisadores, os segredos mais frequentes eram tokens de acesso para diversos modelos de IA, além de credenciais de sistemas de produção, bancos de dados de CI/CD e integrações de pagamento. Um dos erros mais comuns observados foi a exposição dessas informações em arquivos “.env” e em manifestos das imagens Docker. Os vazamentos afetam pouco mais de 100 organizações, entre elas uma empresa da Fortune 500 e um grande banco dos EUA. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Startup planeja lançar seu primeiro data center no espaço em 2027: o satélite da Aetherflux será o primeiro de uma constelação chamada Galactic Brain. As vantagens de um data center orbital são a fonte constante de energia solar e resfriamento por radiação no vácuo. Google, SpaceX e Blue Origin também estão investigando a viabilidade da tecnologia. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores de IA recém contratados da Meta estariam em conflito com executivos de longa data da empresa: segundo fontes próximas ao assunto, os diretores de tecnologia e produto da companhia querem utilizar dados do Instagram e Facebook para treinar um modelo com foco em melhorar feeds e publicidade. No entanto, o líder da nova equipe, Alexandr Wang, argumenta que o objetivo deveria ser alcançar os modelos rivais antes de concentrar esforços em produtos. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Android permitirá compartilhar vídeo ao vivo com serviços de emergência: durante a chamada, o atendente pode enviar um pedido ao celular do usuário para iniciar a transmissão pela câmera, que poderá ser aceito com um único toque. A novidade é suportada a partir da versão 8 do Android, com previsão para disponibilidade global em breve. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Qualcomm adquire Ventana Micro Systems: a Ventana desenvolve CPUs de alto desempenho baseadas na arquitetura RISC-V, voltadas para aplicações em data centers e no mercado corporativo. Os termos da aquisição não foram divulgados, mas a Qualcomm pretende continuar o desenvolvimento dos projetos da Ventana em paralelo com os núcleos Oryon, baseados em Arm, usados na sua linha de chips Snapdragon X. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "“Esse ano fez 10 anos que estou atuando como Desenvolvedor, desses 10 anos, 7 anos totalmente focado com Desenvolvimento Web. Eu sou um aluno/ex-aluno da Rocketseat, que pra mim foi um grande divisor de águas e foi a empresa que de fato me fez elevar meu patamar e sou muito grato a eles. Mas cheguei num ponto dentro da Rocketseat que fiquei sem o que estudar lá, no dialeto popular, estagnei”.",
+            "url": ""
+        },
+        {
+            "text": "“Então comecei a buscar novas alternativas, e o curso do Filipe estava na minha lista faz tempo, admito que o que pesava era o valor, acho que todos sabemos que o valor do curso pra realidade do brasileiro é puxado, e sendo bem sincero, vale muito cada centavo, e é justo que valha até mais.”",
+            "url": ""
+        },
+        {
+            "text": "“De fato só o valor que pesava na minha decisão, porque já tinha escutado bem do curso, e visto algumas coisas, e alguns amigos pessoais falaram muito bem também, então sabia que seria um ótimo meio de me aperfeiçoar.”",
+            "url": ""
+        },
+        {
+            "text": "“O Filipe fez tudo de fato com muito carinho, como eu disse, estou 10 anos na área, atualmente sou Desenvolvedor Front-End Sênior em uma empresa, e eu estou fazendo tudo dentro do curso, até as coisas que pra mim são muito básicas, mas estou vendo com uma visão jamais antes vista.”",
+            "url": ""
+        },
+        {
+            "text": "“Eu queria muito ter tido acesso a esse curso quando comecei, ele somaria demais na minha trajetória, tenho orgulho da minha trajetória, mas toda ajuda é sempre bem vinda.”",
+            "url": ""
+        },
+        {
+            "text": "“Se você quer ser uma pessoa mais generalista, ser mais abrangente, abrir o leque, ‘jogar a bola pro outro lado do muro e ir buscar‘, eu tenho certeza que vai se encontrar aqui , e olha que ainda estou longe da metade do curso.”",
+            "url": ""
+        },
+        {
+            "text": "“Um último ponto que quero destacar é que amei a forma como o Filipe organizou o curso, em formato de ‘Dias‘, isso me ajudou demais a me organizar, e olha que sou organizado pra isso, e me motiva diariamente a manter o foco, e a dose de dopamina em concluir o dia.”",
+            "url": ""
+        },
+        {
+            "text": "“Não importa se está começando ou está há algum tempo na área, tenho certeza que você vai sair com uma outra mentalidade ao final desse curso, bom, isso se ele tiver um final, porque o Filipe tá meio ‘on fire‘.”",
+            "url": ""
+        }
+    ]
+}
