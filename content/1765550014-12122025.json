@@ -1,0 +1,45 @@
+{
+    "title": "Google: novo browser / Disney + OpenAI / React: mais falhas",
+    "fps": 30,
+    "timestamp": 1765550014,
+    "width": 0,
+    "height": 0,
+    "date": "12/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google apresenta novo navegador web experimental projetado para facilitar tarefas de múltiplas etapas: baseado no Gemini 3, o Disco consegue entender automaticamente o que o usuário está tentando fazer, analisando suas abas abertas. A partir disso, ele cria aplicações web interativas para auxiliar na conclusão, sem necessidade de programação manual. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Walt Disney Company investe 1 bilhão de dólares na OpenAI e licencia personagens da Marvel, Pixar e Star Wars: como parte do contrato de 3 anos, a OpenAI poderá utilizar um conjunto de mais de 200 personagens, incluindo fantasias, acessórios, veículos e ambientes. Usuários também poderão assistir a seleções curadas de vídeos gerados pelo Sora no Disney+. As informações são do site da Walt Disney Company.",
+            "url": ""
+        },
+        {
+            "text": "Equipe do React alerta para mais três vulnerabilidades no React Server Components: a CVE-2025-55184 e a CVE-2025-67779 permitem que uma requisição maliciosa gere um loop infinito, travando o servidor. Já a CVE-2025-55183 pode expor o código-fonte de qualquer Server Function quando uma função vulnerável converte argumentos em string. Elas foram identificadas enquanto a equipe tentava explorar as correções feitas na CVE-2025-55182 (React2Shell), que divulgamos na semana passada, e cujo patch ainda é válido. Confira no TabNews as versões comprometidas e em quais o problema foi corrigido.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas criam mapa 3D que contém 97% de todos os prédios do planeta, o mais detalhado já produzido: o GlobalBuildingAtlas combina imagens de satélite e aprendizado de máquina, e seu conjunto de dados cobre 2,7 bilhões de edifícios, sendo capaz de identificar a forma da construção vista de cima e a sua altura usando pixels que representam áreas de 3 m × 3 m no terreno. Segundo a equipe, o mapa abre possibilidades para avaliação de riscos de desastres, modelagem climática e planejamento urbano. As informações são do site Nature.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-5.2: segundo a empresa, a nova versão é melhor em criar planilhas, montar apresentações, escrever código, interpretar imagens, entender contextos longos, e lidar com projetos complexos de múltiplas etapas, além de ser mais “agradável” de conversar. Inicialmente, a novidade estará disponível somente para usuários dos planos pagos e na API. As informações são do blog da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "World, projeto de verificação de identidade biométrica de Sam Altman, lança chat e pagamento em moedas digitais: as novidades estão disponíveis por meio do World App. O World Chat usa criptografia de ponta a ponta equivalente à do Signal, e utiliza balões de fala com cores diferentes para indicar se a pessoa foi verificada ou não pelo sistema da startup. Além disso, usuários com contas bancárias virtuais agora podem receber salários diretamente no app e fazer depósitos, que podem ser convertidos em cripto. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Startup captura 10 mil horas de exames cerebrais para treinar modelos de IA que convertem pensamentos em texto: a Conduit realizou a coleta com milhares de indivíduos únicos, formando o que acredita ser o maior conjunto de dados neuro-linguístico já montado até hoje. Os voluntários utilizaram um headset impresso em 3D, pesando quase dois quilos, que utiliza sensores de Eletroencefalografia e Espectroscopia Funcional do Infravermelho Próximo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        }
+    ]
+}
