@@ -1,0 +1,45 @@
+{
+    "title": "Atualize agora: Chrome e Safari / “HD eterno” / Google Tradutor ao vivo",
+    "fps": 30,
+    "timestamp": 1765810026,
+    "width": 0,
+    "height": 0,
+    "date": "15/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Google e Apple lançam correções emergenciais para falhas críticas sendo exploradas ativamente no Chrome e Safari: a vulnerabilidade CVE-2025-14174 envolve um problema de acesso de memória fora dos limites no componente ANGLE, que lida com gráficos dentro do motor de renderização WebKit usado pelo Safari, e que também afeta navegadores baseados no Chromium. Já a CVE-2025-43529 é classificada como um erro de “use-after-free”, que ocorre quando o sistema tenta usar um bloco de memória já desalocado, permitindo a execução de código arbitrário. Confira no TabNews a lista completa das versões corrigidas.",
+            "url": ""
+        },
+        {
+            "text": "Tecnologia de armazenamento promete guardar informações por cerca de 13,8 bilhões de anos, a idade estimada do universo: o 5D Memory Crystal grava dados dentro de um cristal de sílica, escritos com pulsos de laser extremamente rápidos, que criam estruturas microscópicas chamadas “voxels”, equivalentes a pixels em 3D. A solução é extremamente resistente ao calor, suportando temperaturas de até 190 ºC, e um único disco de vidro de cerca de 12,7 cm pode armazenar até 360 TB. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Google Tradutor permitirá ouvir traduções em tempo real pelos fones de ouvido: o recurso preserva o tom, a ênfase e a cadência de cada falante, e funciona em qualquer par de fones de ouvido. A novidade está sendo liberada no aplicativo Tradutor para Android nos EUA, México e Índia, e fornece suporte a mais de 70 idiomas. O Google planeja levar o recurso para iOS e para mais países em 2026. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas treinam ratos para jogar e atirar em inimigos no Doom II: o experimento teve origem em 2021, mas, até então, os animais tinham aprendido somente a se movimentar dentro do jogo, ao ficarem presos a um suporte sobre uma bola que girava livremente e traduzia os movimentos para dentro do software. Agora, o sistema conta com uma tela AMOLED curva que envolve o campo de visão do rato, além de um mecanismo físico de gatilho que possibilita acionar o comando de disparo. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "iRobot, fabricante do robô aspirador Roomba, entra com pedido de proteção contra falência nos EUA: a empresa será comprada por uma subsidiária de seu principal fornecedor, Picea Robotics. Segundo a companhia, o plano de recuperação permitirá que ela continue operando normalmente, sem causar interrupções no aplicativo, nas cadeias de suprimento nem no suporte aos produtos. Em 2024, a iRobot registrou um prejuízo líquido de 145,5 milhões de dólares, e no acumulado de 2025, perdeu cerca de 45% de seu valor de mercado. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores criam ladrilho de piso inteligente capaz de monitorar o tráfego de pessoas: em vez de usar uma fonte externa de eletricidade, o dispositivo é alimentado pela energia mecânica gerada quando os indivíduos pisam sobre ele. O objetivo da equipe é facilitar o acompanhamento de multidões para fins de segurança pública. Em um experimento com o ladrilho posicionado na entrada de um escritório ao longo de 120 horas consecutivas, ele obteve 94,8% de precisão na identificação da direção do deslocamento e na contagem de pessoas. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Reddit afirma não ser como outras redes sociais em processo na Austrália: na ação, a plataforma se descreve como uma coleção de fóruns públicos organizados por assunto, e que seu objetivo principal é promover discussões em torno do conteúdo publicado, e não um ambiente voltado a relações pessoais, interesses individuais ou conexões baseadas em amizade. A nova lei australiana exige que serviços como Facebook, Instagram, TikTok e o Reddit desativem contas de menores de 16 anos e os impeçam de usar os aplicativos. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
