@@ -1,0 +1,45 @@
+{
+    "title": "Console simples viraliza / SSDs baratos em risco / YouTube limitado",
+    "fps": 30,
+    "timestamp": 1765896273,
+    "width": 0,
+    "height": 0,
+    "date": "16/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "“Kinect para crianças” supera Xbox e torna-se o segundo console mais vendido nos EUA durante Black Friday: o Nex Playground vendeu mais de 300 mil unidades em apenas 12 dias, no período que antecedeu 22 de novembro, e está no caminho para alcançar 600 mil no total deste ano. Seu preço caiu de 249 para 199 dólares, enquanto a Microsoft não anunciou ofertas para o Xbox durante o período. Diante do sucesso, a empresa chegou a ter dificuldades para manter o estoque. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Samsung pode interromper produção de SSDs SATA em 2026: segundo fontes próximas ao assunto, a empresa deve fazer um anúncio nesse sentido em janeiro. Estima-se que SSDs com conectividade SATA, que são mais baratos do que outras versões, representam algo em torno de 20% do mercado total de unidades de estado sólido, com a Samsung respondendo por cerca de metade dessas vendas. A companhia deve concentrar seus esforços na produção de memória HBM4, memória gráfica GDDR7 e SSDs NVMe. As informações são do site TechRadar.",
+            "url": ""
+        },
+        {
+            "text": "CEO do YouTube admite que limita uso de redes sociais de seus filhos: segundo Neal Mohan, a medida vale tanto para o próprio YouTube quanto para outras plataformas, sendo mais rigoroso durante a semana e um pouco mais flexível nos fins de semana. Mohan afirma sentir uma “responsabilidade crucial” para com os jovens, e também defende ferramentas que deem mais controle aos pais sobre como crianças usam esses aplicativos, como o YouTube Kids, para oferecer uma experiência mais segura e adequada. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google vai encerrar relatórios de vazamento de dados na dark web: o recurso busca por informações pessoais em fóruns e sites, onde são vendidas por cibercriminosos. A empresa, entretanto, afirma que ele não oferece muita ajuda prática. No dia 15 de janeiro, a companhia deixará de realizar novas varreduras, e no dia 16 de fevereiro todos os relatórios anteriores serão apagados. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Fabricante de tecnologia LiDAR, utilizada em carros autônomos, entra com pedido de proteção contra falência nos EUA: a Luminar continuará operando durante o processo de recuperação judicial, mas deixará de existir após a conclusão. Um dos fatores mais críticos para a falência foi a perda do contrato com a Volvo em novembro, após cinco anos de parceria. A empresa estima ter entre 500 milhões e 1 bilhão em dívidas e obrigações financeiras. Suas ações despencaram 58% após o anúncio. As informações são dos sites TechCrunch e Investing.",
+            "url": ""
+        },
+        {
+            "text": "Telegram adiciona suporte a passkeys: o recurso permite que usuários acessem suas contas por meio de verificação biométrica, sem necessidade de código por SMS ou senha. A novidade está disponível nas configurações de Privacidade e Segurança. A passkey fica armazenada no dispositivo e pode ser sincronizada com aplicativos de gerenciamento de senhas, como o do iCloud e do Google. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Tráfego global da internet cresceu 19% em 2025, segundo Cloudflare: 43% das requisições vieram de dispositivos móveis, acima dos 41% registrados em 2024. O Google lidera a lista dos serviços mais acessados, seguido por Facebook, Apple e Microsoft. A plataforma de IA mais acessada foi a da OpenAI, à frente da Anthropic e Perplexity. No segmento de redes sociais, o X caiu da quarta para a sexta posição, atrás do LinkedIn e Snapchat. Já os web crawlers responderam por 4,2% das requisições por HTML, 40% originados dos EUA, enquanto o Brasil respondeu por apenas 2,5%. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
