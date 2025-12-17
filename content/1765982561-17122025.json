@@ -1,0 +1,45 @@
+{
+    "title": "GitHub Actions vai mudar / Mozilla aposta tudo no Firefox / X reivindica “Twitter”",
+    "fps": 30,
+    "timestamp": 1765982561,
+    "width": 0,
+    "height": 0,
+    "date": "17/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "GitHub anuncia mudanças de preços no Actions para 2026: a partir de 1º de janeiro, runners hospedados pelo próprio GitHub vão sofrer uma redução de até 39% no custo, dependendo da máquina. A plataforma também passará a cobrar uma taxa de 0,002 dólares por minuto para workflows que usam runners self-hosted em repositórios privados, começando em 1º de março. O GitHub estima que cerca de 85% dos usuários afetados verão redução nos custos, enquanto os 15% que verão aumento terão, em média, um acréscimo de 13 dólares. Para repositórios públicos, o Actions permanecerá gratuito. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Mozilla nomeia novo CEO, cuja “prioridade nº 1” será o Firefox e envolvimento com IA: Anthony Enzor-DeMeo era o líder de desenvolvimento do Firefox e no próximo ano, o navegador adicionará um modo de IA, com a opção de vários modelos, incluindo de código aberto. Segundo Enzor-DeMeo, daqui para frente, quando a Mozilla lançar novos produtos, eles deverão estar atrelados ao Firefox. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "X atualiza seus termos de serviço e entra com ação judicial para reivindicar a marca “Twitter”: no documento, a plataforma afirma que continua sendo a proprietária exclusiva desse termo e do “tweet”, além do logotipo do pássaro azul. A inclusão desse detalhe ocorre após a startup Operation Bluebird recentemente entrar com um pedido no Escritório de Patentes e Marcas dos Estados Unidos para registrar as marcas, alegando que o X as abandonou, conforme noticiamos na semana passada. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança ChatGPT Image 1.5: além de gerar imagens até quatro vezes mais rápido, a nova versão faz edições mais precisas, alterando apenas o que foi solicitado e mantendo consistentes elementos como iluminação, composição e aparência dos personagens. O modelo também é capaz de lidar com textos mais densos e em tamanhos menores. A novidade já está disponível para todos os usuários, e o lançamento acompanha a nova tela Imagens, acessível pela barra lateral do ChatGPT. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft vai descontinuar cifra de criptografia presente no Windows há 26 anos: a Rivest Cipher 4 (RC4) é utilizada no Active Directory (AD), o sistema de autenticação e autorização do Windows Server. Por muito tempo, hackers têm explorado a cifra para comprometer redes corporativas, uma vez que ela permite ataques do tipo Kerberoasting, utilizados contra ambientes com AD. Até meados de 2026, a empresa vai desativar por padrão a RC4 no Windows Server 2008 e posterior, e permitirá apenas criptografia AES-SHA1. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "PayPal solicita autorização nos EUA para criar o PayPal Bank: caso obtenha sucesso, a nova instituição pretende oferecer contas poupança com rendimento para seus clientes e empréstimos para pequenas empresas. A solicitação será analisada pela Comissão Federal de Seguro de Depósitos dos EUA. As ações do PayPal subiram 1,5% após o anúncio. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem chip capaz de ganhar de humanos no jogo pedra-papel-tesoura: o componente utiliza sensores de movimento colocados no polegar para capturar como cada pessoa faz seus gestos. Depois de treinado, ele consegue prever qual será a jogada do usuário antes dela se concretizar. O diferencial está na tecnologia usada, chamada “reservoir computing”, mais simples e econômica em relação às redes neurais tradicionais, permitindo que o chip consuma apenas 80 microwatts de energia, o que abre espaço para aplicações em dispositivos pequenos. As informações são do site IEEE Spectrum.",
+            "url": ""
+        }
+    ]
+}
