@@ -1,0 +1,45 @@
+{
+    "title": "Fim da Udemy / GitHub volta atrás / Windows: 80% mais rápido",
+    "fps": 30,
+    "timestamp": 1766068931,
+    "width": 0,
+    "height": 0,
+    "date": "18/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Udemy é adquirida por Coursera e marca deixará de existir eventualmente: a empresa combinada vai operar sob o nome Coursera, avaliada em 2,5 bilhões de dólares. O processo deve ser concluído no segundo semestre de 2026, dependendo de aprovações regulatórias. As informações são dos sites TechCrunch, Reuters e Coursera.",
+            "url": ""
+        },
+        {
+            "text": "GitHub volta atrás em mudança de preços no Actions: a empresa havia anunciado que começaria a cobrar uma taxa de 0,002 dólares por minuto para workflows que usam runners self-hosted em repositórios privados, começando em 1º de março. Essa medida está sendo adiada e será reavaliada. No entanto, a redução de até 39% no custo de runners hospedados pela própria plataforma, a partir de 1º de janeiro, continua válida. As informações são do blog do GitHub.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft adiciona suporte nativo a NVMe no Windows, que pode aumentar desempenho do PC em 80%: a novidade está disponível a partir da atualização KB5066835 do Windows Server 2025, mas também funciona no Windows 11 comum. A empresa destaca ganhos de 80% na velocidade de acesso a arquivos pequenos e fragmentados (como os usados em jogos ou edições de vídeo) e 45% menos uso de CPU para essas tarefas. O suporte requer ativação manual e o comando pode ser conferido no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Campanha maliciosa GhostPairing explora recurso legítimo de vinculação de dispositivos do WhatsApp para sequestrar contas: o golpe usa um link de uma página falsa muito similar a do Facebook e enviado por um contato conhecido para enganar a vítima e iniciar o pareamento no navegador do criminoso, que passa a ter acesso a todo o histórico de conversas. A única maneira de descobrir uma conta comprometida é ir em “Dispositivos Conectados” nas configurações do WhatsApp e verificar se há dispositivos não autorizados vinculados à conta. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI abre inscrições para adição de novos aplicativos como extensões do ChatGPT: os softwares passarão por uma análise e o primeiro conjunto de apps aprovados começará a ser disponibilizado de forma gradual em 2026. A empresa também está disponibilizando uma nova aba chamada “Aplicativos” no chatbot, acessível pela barra lateral. Alguns aplicativos disponíveis atualmente são o Photoshop, Spotify e Lovable. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Conselho da Warner Bros rejeita oferta hostil da Paramount de 108,4 bilhões de dólares: o conselho afirma que a Paramount mentiu ao dizer que sua oferta era totalmente “à prova de falhas”, e que ela poderia ser encerrada ou alterada a qualquer momento antes da conclusão do negócio, o que não equivale ao acordo de fusão vinculante (um contrato legal que obriga as empresas envolvidas a concluir a fusão nos termos definidos) proposto pela Netflix. As informações são da Reuters.",
+            "url": ""
+        },
+        {
+            "text": "Amazon estaria em negociações para investir mais de 10 bilhões de dólares na OpenAI: segundo fontes próximas ao assunto, a OpenAI utilizaria os chips de IA da AWS como parte do acordo. Os detalhes ainda estão em aberto e sujeitos a mudanças. Em novembro, a OpenAI assinou um contrato para comprar 38 bilhões de dólares em capacidade de nuvem da AWS. As informações são da CNBC.",
+            "url": ""
+        }
+    ]
+}
