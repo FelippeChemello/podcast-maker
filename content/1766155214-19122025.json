@@ -1,0 +1,45 @@
+{
+    "title": "Garoto hackeia Discord / Apple aperta Devs / TikTok vendido",
+    "fps": 30,
+    "timestamp": 1766155214,
+    "width": 0,
+    "height": 0,
+    "date": "19/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Pesquisador de segurança de 16 anos descobre falha grave na Mintlify, plataforma utilizada por empresas como X, Discord, Vercel e Cursor para hospedar documentações técnicas: a vulnerabilidade permitia a hospedagem de um arquivo SVG malicioso em sua própria documentação na Mintlify, e acessasse-o a partir do domínio do Discord, fazendo com que o JavaScript embutido fosse executado no contexto desse domínio. Isso caracteriza uma falha de cross-site scripting, que poderia ser explorada para roubar dados sensíveis. O problema já foi mitigado. As informações são do GitHub Gist de Daniel.",
+            "url": ""
+        },
+        {
+            "text": "Apple cobrará comissões mesmo quando aplicativos forem vendidos por sistemas de pagamentos externos à App Store: a empresa irá cobrar o que acredita ser devido caso a empresa determine que um desenvolvedor declarou menos vendas do que realmente fez. Saldo das vendas realizadas por dentro da App Store poderá ser usado para quitação dessas comissões devidas. A mudança, entretanto, impacta atualmente apenas os mercados da União Europeia e Japão. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "TikTok acerta venda de sua unidade nos EUA: segundo um memorando interno divulgado pelo CEO Shou Chew, a plataforma assinou um contrato para criar uma joint venture formada por Oracle, Silver Lake e MGX, que deterão 45% da operação. Como parte do novo arranjo, o algoritmo de recomendação de conteúdo será retreinado utilizando apenas dados de usuários do país. As informações são do site 9to5Mac.",
+            "url": ""
+        },
+        {
+            "text": "Docker torna gratuito seu catálogo de Hardened Images sob a licença Apache 2.0: essas imagens utilizam uma base mínima, contendo apenas o essencial para executar a aplicação, o que reduz a superfície de ataque em até 95%. Devido a isso, a empresa afirma que disponibilizá-las gratuitamente também ajuda a combater ataques à cadeia de suprimentos. As informações são do site DevClass.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança GPT-5.2 Codex: a nova versão traz melhorias em tarefas de longa duração e em mudanças estruturais de código, como refatorações e migrações. O modelo também apresenta melhor desempenho em ambientes Windows e consegue interpretar com mais precisão capturas de tela, diagramas técnicos, gráficos e interfaces de usuário. A novidade já está disponível para usuários pagos do ChatGPT e deve chegar à API em breve. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Quase 80% dos data centers no mundo estão em regiões fora da faixa ideal de temperatura: a recomendação é que a temperatura do ar esteja entre 18ºC e 27ºC. Segundo uma análise de 8,8 mil instalações, cerca de 7 mil estão localizadas em áreas com clima abaixo do ideal, enquanto aproximadamente 600 ficam em locais acima do limite. No Brasil, as regiões Centro-Oeste, Sudeste e Sul são as mais adequadas para abrigar data centers. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft faz esclarecimento após ferramenta de IA do Windows 11 despertar preocupações com privacidade: o “agent workspaces”, disponível para usuários do Windows Insider, permite automatizar tarefas no sistema operacional, recebendo acesso a arquivos e aplicativos. No entanto, não estava claro se esse acesso seria irrestrito. Segundo a empresa, caso o modelo precise acessar documentos pessoais, o Windows pedirá consentimento. As informações são do site Windows Latest.",
+            "url": ""
+        }
+    ]
+}
