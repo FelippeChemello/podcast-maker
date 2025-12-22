@@ -1,0 +1,45 @@
+{
+    "title": "Spotify 99% roubado / Jogos retrô ressuscitados / Robotáxis causam caos",
+    "fps": 30,
+    "timestamp": 1766414371,
+    "width": 0,
+    "height": 0,
+    "date": "22/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grupo faz scraping de toda a biblioteca musical do Spotify: o Anna’s Archive afirma ter coletado 86 milhões de arquivos de música (representando cerca de 99% das reproduções no app) e metadados de aproximadamente 256 milhões de faixas. O material inclui informações sobre artistas, álbuns, gêneros e playlists, e está sendo distribuído por meio de torrents que totalizam quase 300 TB, sendo considerado o maior banco de dados de metadados musicais disponível publicamente. O Spotify está investigando o caso e afirma que o grupo utilizou “táticas ilícitas” para contornar o seu sistema de proteção de conteúdo. As informações são dos sites Anna’s Archive e Billboard.",
+            "url": ""
+        },
+        {
+            "text": "Projeto recupera 144 ROMs inéditas de jogos do console Mega Drive: na época, os títulos estavam disponíveis exclusivamente pelo Sega Channel,  que utilizava a rede de TV a cabo para baixar os jogos. O acervo foi encontrado em uma coleção de fitas de backup pertencentes a ex-funcionários. Entre os games estão The Flintstones, que era considerado irrecuperável; Iron Hammer, desenvolvido para um headset de realidade virtual da Sega nunca lançado; e um navegador chamado Web Blaster. O link para download das ROMs está disponível no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Waymo suspende serviço após robotáxis ficarem parados e causarem caos no trânsito durante apagão de energia na cidade de São Francisco: a empresa não detalhou por que a falta de energia impactou seus automóveis, mas uma das hipóteses é que o apagão tenha deixado muitos semáforos sem eletricidade, levando o sistema da Waymo a considerar o cenário inseguro e interromper a condução. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Firefox terá botão para desativar completamente todos os recursos de IA: o anúncio foi feito após repercussão negativa entre parte da comunidade sobre uma afirmação do novo CEO da Mozilla, Anthony Enzor-DeMeo, de que o Firefox vai evoluir para “um navegador moderno com IA”. A funcionalidade será implementada no primeiro trimestre de 2026. Um desenvolvedor do Firefox também reforça que todos os recursos de IA serão opcionais. As informações são do site 9to5Linux.",
+            "url": ""
+        },
+        {
+            "text": "Clair Obscur Expedition 33 perde prêmios de Jogo do Ano e Jogo de Estreia no Indie Game Awards devido ao uso de artes geradas por IA: embora os assets tenham sido removidos posteriormente via atualizações, isso ainda configura violação dos regulamentos do evento. Os troféus foram retirados mesmo após a cerimônia já ter sido gravada e exibida. No lugar de Clair Obscur, Blue Prince recebeu o prêmio de Jogo do Ano, enquanto Sorry We’re Closed venceu em Jogo de Estreia. As informações são do site TheGamer.",
+            "url": ""
+        },
+        {
+            "text": "Google processa SerpApi por revender resultados do seu buscador: as informações foram utilizadas por empresas como Perplexity a fim de aprimorar respostas de chatbots. A SerpApi já vem realizando esse tipo de scraping há algum tempo, entretanto, o Google afirma que essa atividade se intensificou no último ano, incluindo práticas como falsificação de “user agents” e sobrecarregando sites por meio de grandes volumes de bots. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI permitirá ajustar nível de empatia, entusiasmo e uso de emojis no ChatGPT: a novidade estará disponível no menu de Personalização e complementa a configuração já existente de “Estilo e tom básicos”, que inclui opções como Profissional, Amigável e Franco. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
