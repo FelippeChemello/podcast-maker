@@ -1,0 +1,45 @@
+{
+    "title": "Microsoft: 100% Rust até 2030 / UNIX histórico restaurado / Chips de IA 100x mais rápidos",
+    "fps": 30,
+    "timestamp": 1766500826,
+    "width": 0,
+    "height": 0,
+    "date": "23/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft vai substituir 100% do código C/C++ por Rust até 2030: segundo Galen Hunt, Distinguished Engineer da Microsoft (um cargo técnico de altíssimo nível da empresa), seu objetivo é “eliminar todas as linhas de C e C++” com a métrica de “1 engenheiro, 1 mês, 1 milhão de linhas de código”. Para viabilizar o processo, a empresa construiu uma infraestrutura para analisar código em larga escala e utilizar agentes de IA para refatorar bases de forma massiva. O Rust é conhecido por evitar especialmente falhas de memória, uma causa muito comum de vulnerabilidades. As informações são do site Thurrott.",
+            "url": ""
+        },
+        {
+            "text": "Especialistas conseguem recuperar dados de fita magnética de 1973, encontrada em um depósito no mês passado, com cópia única do UNIX V4: essa versão marca o momento em que o kernel e parte das ferramentas principais foram reescritos de Assembly para a linguagem C. A leitura foi realizada no Museu da História do Computador, e o conteúdo também foi organizado para que o sistema pudesse ser inicializado em hardware original ou emuladores compatíveis. Além do UNIX V4, a fita continha o jogo Hunt The Wumpus e parte do compilador C, com copyright de 1972. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Cientistas chineses desenvolvem chips de IA até 100 vezes mais rápidos que as GPUs da Nvidia: os novos componentes, ACCEL e LightGen, utilizam fótons em vez de elétrons, o que os permite alcançar um desempenho de até 4,6 petaFLOPS (um petaFLOPS equivale a um quatrilhão de operações de ponto flutuante por segundo) e menor consumo de energia. Apesar disso, esses chips não substituem GPUs da Nvidia em aplicações de uso geral de IA, pois são voltados para tarefas específicas, como geração de vídeos e imagens. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "Europol projeta ondas de crimes cometidos por robôs em 2035: a agência imagina um cenário onde máquinas inteligentes ocupam espaços como casas, hospitais, fábricas, delegacias e escolas, podendo ser hackeadas para fins ilícitos, incluindo espionagem de famílias, coleta de dados sensíveis e manipulação direta de vítimas. Especialistas, entretanto, afirmam que essas projeções são incertas, visto que a adoção em larga escala de robôs depende de fatores como mercado, custos e capacidade de produção em massa. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Apagão faz horário oficial dos EUA ficar 4,8 microssegundos atrasado: esse horário, conhecido como NIST UTC, é determinado por um conjunto de 16 relógios atômicos extremamente precisos e é usado em infraestruturas críticas como redes de telecomunicações e sistemas de GPS. Com a queda de energia e a falha do gerador de emergência, parte da conexão entre alguns relógios e o sistema central do NIST ficou indisponível. O problema foi mitigado pela equipe após a eletricidade ser restaurada. As informações são da NPR.",
+            "url": ""
+        },
+        {
+            "text": "Google vai cobrar desenvolvedores por instalações de aplicativos fora da Play Store a partir de janeiro: as taxas seriam de 2,85 dólares por app e 3,65 dólares por jogo. A empresa também irá reter 20% das compras realizadas dentro das aplicações e 10% das assinaturas com renovação automática. A decisão está ligada à disputa judicial com a Epic Games, na qual o juiz determinou que o Google passasse a permitir links externos na Play Store para download de apps fora da plataforma. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "ChatGPT lança retrospectiva de fim de ano no estilo Spotify Wrapped: o recurso está disponível inicialmente nos EUA, Canadá, Reino Unido, Austrália e Nova Zelândia. Ele pode ser acessado tanto na web quanto nos aplicativos móveis por usuários dos planos gratuito, Plus e Pro que tenham as opções “Referenciar memórias salvas” e “Referenciar histórico de chats” ativadas. Também é possível iniciar a experiência por meio do prompt “Your Year with ChatGPT”. As informações são do site TechCrunch.",
+            "url": ""
+        }
+    ]
+}
