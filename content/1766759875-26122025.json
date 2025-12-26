@@ -1,0 +1,45 @@
+{
+    "title": "Brasil: iPhone liberado / Vibe coding: “vai desmoronar” / Arrependimento por demissões",
+    "fps": 30,
+    "timestamp": 1766759875,
+    "width": 0,
+    "height": 0,
+    "date": "26/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Apple libera lojas alternativas para distribuição de aplicativos no Brasil: além disso, meios alternativos de pagamento também poderão coexistir com a opção oferecida dentro da App Store, loja oficial de aplicativos do iPhone. As novidades fazem parte de um acordo com o Conselho Administrativo de Defesa Econômica, mas não eliminam as taxas cobradas pela empresa aos desenvolvedores. Os valores podem ser conferidos no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "CEO do Cursor alerta para os riscos do vibe coding: para Michael Truell, confiar cegamente na IA para escrever código é igual construir uma casa sem saber o que acontece abaixo do assoalho ou na fiação elétrica. Esse método, segundo ele, pode funcionar bem para criar jogos e sites de forma experimental, mas, em cenários de programação mais avançada, a falta de compreensão técnica pode levar a falhas, fazendo com que em algum momento “tudo comece a desmoronar”. As informações são do site Fortune.",
+            "url": ""
+        },
+        {
+            "text": "Salesforce admite que errou após demitir 4 mil profissionais de atendimento ao cliente e substituí-los por IA: segundo executivos familiarizados com o processo, o resultado foi uma queda na qualidade, aumento no volume de reclamações e a necessidade de funcionários corrigirem respostas geradas pela IA. Agora, a empresa afirma que automatizações futuras preservarão pessoas em posições de decisão e contato direto com o cliente. As informações são do site Maarthandam.",
+            "url": ""
+        },
+        {
+            "text": "Meta utiliza agendador de tarefas do Steam Deck em seus data centers: esse componente é responsável por definir qual processo utilizará a CPU e em que momento. O Steam Deck utiliza um agendador personalizado chamado SCX-LAVD e, segundo engenheiros da Meta, ele apresenta bom desempenho mesmo em servidores com grande número de núcleos de processador e grandes quantidades de memória. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia adquire ativos e licencia a tecnologia da Groq, startup de chips de IA, por cerca de 20 bilhões de dólares, no maior acordo de sua história: a empresa pretende integrar os processadores de baixa latência da Groq à arquitetura de sua fábrica de IA. A startup, por sua vez, permanecerá operando como empresa independente e será liderada pelo diretor financeiro Simon Edwards, enquanto o CEO Jonathan Ross e o presidente Sunny Madra farão parte da Nvidia. As informações são da CNBC.",
+            "url": ""
+        },
+        {
+            "text": "Google permitirá que usuários gratuitos do Gmail configurem endereços de e-mail adicionais para uma mesma conta: um novo endereço terminado em “@gmail” poderá ser criado a cada 12 meses, até um total de 3 vezes, somando 4 nomes de usuário ao todo. O endereço original funcionará como um “alias”, continuará recebendo mensagens na mesma caixa de entrada e permanecerá válido para login. Segundo o Google, o recurso será liberado gradualmente para todos. As informações são do site 9to5Google.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft anuncia BitLocker com aceleração por hardware no Windows 11 para reduzir impacto no desempenho: esse é um recurso de segurança do sistema que criptografa unidades de armazenamento para proteger dados. Com a novidade, em vez de o processador principal fazer a criptografia, o trabalho é repassado para um mecanismo dedicado no próprio chip (SoC/CPU) e também ao controlador do SSD NVMe. Em testes, o desempenho dobrou e o consumo de ciclos da CPU reduziu em 70%. O recurso será habilitado automaticamente, mas depende de hardware compatível. As informações são do site Windows Latest.",
+            "url": ""
+        }
+    ]
+}
