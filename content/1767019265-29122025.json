@@ -1,0 +1,45 @@
+{
+    "title": "MongoDB: falha crítica / Nintendo contra burnout / Hack massivo na Ubisoft",
+    "fps": 30,
+    "timestamp": 1767019265,
+    "width": 0,
+    "height": 0,
+    "date": "29/12/2025",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica deixa mais de 87 mil servidores MongoDB expostos globalmente: a vulnerabilidade CVE-2025-14847, conhecida como MongoBleed, permite o vazamento de dados armazenados em memória contendo informações sensíveis, incluindo credenciais, chaves de API e de nuvem, tokens de sessão e logs internos. Do total de instâncias comprometidas, estima-se que cerca de 2 mil estejam localizadas no Brasil. As versões afetadas e as que receberam correção podem ser conferidas no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "Jogos da Nintendo podem reduzir sensação de burnout e aumentar felicidade geral de jovens adultos: segundo um estudo, jogos como da franquia Super Mario e Yoshi despertam um “encantamento infantil” e ativam lembranças positivas da infância, o que pode contribuir para uma melhora do estado de saúde mental. O experimento entrevistou 41 estudantes universitários, com idade média entre 22 e 23 anos. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Ubisoft desativa servidores do jogo Rainbow Six Siege após invasão massiva neste sábado: o incidente permitiu que hackers explorassem sistemas internos para banir e desbanir jogadores, e conceder aproximadamente 2 bilhões de R6 Credits (moeda comprada com dinheiro real, totalizando cerca de 13,33 milhões de dólares), além de itens cosméticos, incluindo skins exclusivas de desenvolvedores. Até o fechamento desta edição, os servidores do jogo continuavam offline. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Fábricas de chips da TSMC saem ilesas após terremoto de magnitude 7 atingir Taiwan neste sábado, o mais forte em 27 anos: os sistemas de alerta sísmico foram acionados e funcionários foram evacuados durante o incidente. As instalações permaneceram intactas graças aos investimentos da empresa em mitigação de tremores. Os laboratórios são isolados de vibrações externas, e estacas flutuantes ajudam a absorvê-las, protegendo as construções contra danos laterais. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Anatel vai punir operadoras que facilitam golpes de spoofing: essa é uma técnica em que o número de origem de uma ligação telefônica é adulterado para enganar o usuário. A partir de 1º de janeiro, essas empresas poderão ser impossibilitadas de completar chamadas para clientes de outras companhias, ficando isoladas digitalmente. A penalidade prevê bloqueio de um mês na primeira ocorrência e até três meses em caso de reincidência. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Criador do JavaScript critica “inchaço” de softwares com interfaces web no Windows 11: segundo Brendan Eich, aplicativos baseados na web podem ser eficientes e bem projetados, mas isso exige tempo, algo que as empresas acabam ignorando ao optar por soluções mais rápidas. Aplicativos e componentes que adotaram tecnologias como WebView2 e Electron, no lugar de soluções nativas do sistema operacional, incluem Discord, Teams, WhatsApp, Menu Iniciar e Central de Notificações, os quais podem consumir mais de 1 GB de RAM. As informações são do site Windows Latest.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores demonstram como robôs controlados por IA podem ser invadidos mesmo quando desconectados da internet: em um experimento, a equipe conseguiu contornar mecanismos de proteção e obter controle completo de um robô enquanto ele estava online. Após isso, ele foi capaz de transmitir o exploit para outra máquina que estava offline via comunicação sem fio de curto alcance, gerando um efeito em cascata. O estudo desafia a suposição de que manter robôs desconectados é suficiente para garantir sua segurança. As informações são do site Interesting Engineering.",
+            "url": ""
+        }
+    ]
+}
