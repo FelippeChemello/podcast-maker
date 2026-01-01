@@ -1,0 +1,41 @@
+{
+    "title": "PCs: Mercado em alerta / Meta adquire Manus / Menor robô do mundo",
+    "fps": 30,
+    "timestamp": 1767278249,
+    "width": 0,
+    "height": 0,
+    "date": "01/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Mercado de PCs pode encolher até 9% em 2026 devido à disparada de preços de RAM: em paralelo, o preço médio dos computadores pode aumentar entre 6% e 8%. O principal fator apontado é a pressão exercida pelas infraestruturas de IA, cuja demanda por memória cresceu muito, levando fabricantes a redirecionar a produção de DRAM e NAND de aparelhos de consumo para componentes corporativos. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Meta adquire startup de IA Manus: lançada em março, a empresa ganhou destaque com uma demonstração de agentes capazes de executar tarefas complexas, como seleção de candidatos e análise de carteiras de investimentos. Os funcionários da Manus se juntarão à Meta, e esta pretende integrar sua tecnologia às plataformas Facebook, Instagram e WhatsApp. Estima-se que o acordo esteja na faixa de 2 bilhões de dólares. As informações são dos sites The Register e TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Pesquisadores desenvolvem robôs autônomos menores que um grão de sal: os dispositivos medem cerca de 200 × 300 × 50 micrômetros, e se locomovem por meio de um campo elétrico que desloca os íons do líquido ao redor, permitindo que eles “nadem”. Os robôs são programados por meio de pulsos de luz, captados por painéis solares que também servem como fonte de energia, gerando aproximadamente 75 nanowatts. A tecnologia pode ser utilizada em áreas como medicina e manufatura em microescala. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Michał Kiciński, cofundador da CD Projekt, adquire 100% da loja GOG (rival da Steam): embora a GOG também tenha sido cofundada por Kiciński em 2008 e já integrasse a CD Projekt por meio de uma terceirizada, a transação agora lhe garante controle total da plataforma, que continuará operando de forma independente. Como parte do acordo, foi firmado um contrato de distribuição que inclui o lançamento de todos os futuros jogos da CD Projekt Red na GOG. As informações são do site Eurogamer.",
+            "url": ""
+        },
+        {
+            "text": "Desenvolvedor sugere implementar “Modern Standby” do Windows no kernel do Linux: esse modo, diferente da suspensão tradicional, permite que o computador reduza o consumo de energia quando está com a tela desligada, permanecendo, porém, ligado o suficiente para continuar recebendo notificações, reproduzir música, manter a conexão de rede ativa e retomar o uso quase instantaneamente do dispositivo. A iniciativa, proposta por Antheas Kapenekakis, ainda está em fase inicial de desenvolvimento e foi submetida para revisão pela comunidade. As informações são do site Phoronix.",
+            "url": ""
+        },
+        {
+            "text": "China elabora regras severas para evitar que chatbots prejudiquem usuários emocionalmente: entre as propostas está a exigência de que menores de idade e idosos informem o contato de um responsável no momento do cadastro, e a intervenção imediata de um humano sempre que temas sobre autoagressão forem mencionados durante a conversa. Os sistemas também ficariam proibidos de gerar conteúdo que incentive esse tipo de ação. Empresas que descumprirem as normas poderão ser alvo de medidas como a suspensão de seus serviços nas lojas de aplicativos do país. As informações são do site Ars Technica.",
+            "url": ""
+        }
+    ]
+}
