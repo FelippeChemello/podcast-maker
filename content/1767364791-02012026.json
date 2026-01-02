@@ -1,0 +1,45 @@
+{
+    "title": "PF passa a monitorar cripto / PS5 jailbreak? / IA: mais sinais de bolha",
+    "fps": 30,
+    "timestamp": 1767364791,
+    "width": 0,
+    "height": 0,
+    "date": "02/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Polícia Federal adquire software para rastrear Bitcoin e outros criptoativos no Brasil: a ferramenta será utilizada no monitoramento de transações com o intuito de combater crimes financeiros, como lavagem de dinheiro e evasão de divisas. As informações são do site TradingView.",
+            "url": ""
+        },
+        {
+            "text": "Chaves de ROM do PlayStation 5 vazam na internet: o conteúdo permite que desenvolvedores de jailbreak tentem descriptografar e analisar o bootloader do console. Para a Sony, o caso representa um problema impossível de corrigir via atualização de software, já que essas chaves são imutáveis e ficam gravadas diretamente no hardware. No entanto, isso não significa que versões do dispositivo com jailbreak aparecerão no mercado a curto prazo, visto que o sistema conta com outras camadas de segurança que precisam ser contornadas. As informações são do site Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Grande investidor em startups de tecnologia acende alerta sobre data centers: Alex Davis (investidor na Groq, empresa que fechou acordo de 20 bilhões de dólares com a Nvidia recentemente) afirma estar preocupado com o ritmo de construção dessas instalações ao redor do mundo sem a garantia de demanda suficiente para ocupá-los. Nesse cenário, ele projeta uma possível crise financeira “significativa” entre 2027 e 2028. A avaliação ganha peso porque Davis não é um crítico da IA, mas investe pesado no setor. As informações são do site Axios.",
+            "url": ""
+        },
+        {
+            "text": "Crianças menores de 2 anos com alta exposição a telas apresentam mais ansiedade na adolescência: segundo pesquisadores, isso acontece devido a uma maturação acelerada de áreas do cérebro relacionadas ao processamento visual e ao controle cognitivo, resultando em menor flexibilidade e resiliência mental mais tarde na vida. A equipe acompanhou um grupo de 168 crianças ao longo de mais de uma década com uma a duas horas diárias de tempo de tela. A recomendação é que pais substituam o uso de celulares por leitura de livros com os filhos. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI está remunerando funcionários mais do que qualquer grande startup de tecnologia da história: a média de compensação baseada em ações da empresa é estimada em aproximadamente 1,5 milhão de dólares por colaborador em 2025, um valor mais de 7 vezes superior ao divulgado pelo Google em 2003, antes da sua abertura de capital em 2004. Estima-se que esses pagamentos representaram 46% da receita da empresa em 2025. Para comparação, a remuneração em ações representou 33% da receita da Palantir no ano anterior ao IPO, 15% no caso do Google e 6% no do Facebook. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Starlink reduzirá altitude de sua constelação de quase 10 mil satélites para evitar colisões: a empresa vai transferir dispositivos que atualmente operam em torno de 550 km para cerca de 480 km. Além disso, a mudança irá facilitar a reentrada natural das espaçonaves na atmosfera ao fim de sua vida útil. As informações são do site Interesting Engineering.",
+            "url": ""
+        },
+        {
+            "text": "BYD deve ultrapassar Tesla como maior vendedora de carros elétricos do mundo pela primeira vez: a empresa informou que as vendas de seus veículos cresceram quase 28% em 2025, ultrapassando 2,25 milhões de unidades. Já a Tesla, citando estimativas de analistas, vendeu aproximadamente 1,65 milhão de automóveis no mesmo período. A BYD vem se destacando por sua política de preços, que frequentemente ficam abaixo dos praticados por concorrentes. As informações são da BBC.",
+            "url": ""
+        }
+    ]
+}
