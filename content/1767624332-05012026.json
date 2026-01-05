@@ -1,0 +1,41 @@
+{
+    "title": "Microsoft vira piada / OpenAI: foco em áudio / Confirmado: Llama 4 manipulado",
+    "fps": 30,
+    "timestamp": 1767624332,
+    "width": 0,
+    "height": 0,
+    "date": "05/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta segunda-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Microsoft recebe apelido de “Microslop” na internet após comentários do CEO Satya Nadella: em um comunicado, Nadella afirma esperar que a sociedade “supere” os debates relacionados ao chamado “slop” (lixo ou lodo) de IA, considerando esse movimento essencial para uma maior aceitação da tecnologia. A declaração, no entanto, foi alvo de críticas nas redes sociais por parte da comunidade, que também contestou a forma como a empresa está forçando esses recursos em seus produtos e sistemas. As informações são do site Windows Central.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI estaria planejando anunciar modelo de linguagem focado em áudio no primeiro trimestre deste ano: segundo fontes próximas ao assunto, esse seria um passo estratégico da empresa para construir um hardware voltado para esta utilidade. A companhia também está unificando equipes de engenharia, produto e pesquisa a fim de aprimorar seus modelos de áudio, que, segundo os seus próprios pesquisadores, ainda apresentam desempenho inferior aos de texto. As informações são do site Ars Technica.",
+            "url": ""
+        },
+        {
+            "text": "Yann LeCun, ex-chefe de IA da Meta, confirma manipulação de benchmarks do Llama 4: segundo ele, a equipe utilizou modelos distintos para diferentes benchmarks com o objetivo de apresentar resultados superiores. A tecnologia foi criticada como um fracasso no lançamento em abril de 2025 e, segundo LeCun, Mark Zuckerberg perdeu a confiança nos envolvidos e colocou toda a organização de GenAI em segundo plano na época. As informações são do site Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Anna’s Archive, plataforma que reúne links de bibliotecas piratas na internet, perde controle de seu principal domínio: o endereço “annas-archive[.]org” foi suspenso e colocado sob o status “serverHold”, que normalmente indica que ele está sob investigação. O serviço, no entanto, continua disponível por meio de domínios alternativos. Especula-se que a medida esteja relacionada ao recente backup de 300 TB do Spotify, levando detentores de direitos autorais a buscarem uma ação judicial. As informações são do site TorrentFreak.",
+            "url": ""
+        },
+        {
+            "text": "Google AI Overviews apresenta conselhos de saúde perigosos, segundo investigação: em um caso, a tecnologia orientou que pacientes com câncer de pâncreas evitassem alimentos gordurosos, uma recomendação que, segundo especialistas, aumenta o risco de morte. Em outro exemplo, a ferramenta apresentou informações incorretas sobre testes essenciais de função hepática, o que pode levar pessoas doentes a acreditarem, de forma equivocada, que estão saudáveis. Em resposta, o Google afirma que a IA citou fontes confiáveis na investigação e recomendou a busca por profissionais qualificados de saúde para as questões apresentadas. As informações são do site The Guardian.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft teria encerrado método de ativação do Windows por ligação telefônica: o procedimento era útil para computadores que não tinham conexão com a internet, e também estava disponível no Brasil. Segundo relatos de usuários, ao ligar para os números anteriormente destinados à ativação, uma mensagem automática orienta acessar o Portal de Ativação de Produtos da Microsoft na web para concluir o processo. As informações são do site Neowin.",
+            "url": ""
+        }
+    ]
+}
