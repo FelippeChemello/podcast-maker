@@ -1,0 +1,45 @@
+{
+    "title": "Stack Overflow deserto / Minicomputador Lego / Gemini em robôs Atlas",
+    "fps": 30,
+    "timestamp": 1767710557,
+    "width": 0,
+    "height": 0,
+    "date": "06/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta terça-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Stack Overflow registra queda de aproximadamente 82,7% de perguntas mensais: o número caiu de 22.394 em janeiro de 2025 para 3.862 em dezembro. Em comparação, no seu auge em 2014, a plataforma chegou a registrar 200.000. Embora a IA seja apontada como o principal fator, alguns desenvolvedores afirmam que a cultura “ríspida” da própria comunidade, criticando questões consideradas “pouco úteis” ou repetidas, também contribuiu para o declínio. As informações são dos sites DevClass e Slashdot.",
+            "url": ""
+        },
+        {
+            "text": "Lego anuncia peça com minicomputador embutido: o Smart Brick é uma peça do tamanho 2x4 com alto-falante, microfone e sensores de luminosidade e movimento, além de comunicação Bluetooth com outros Smart Bricks, conseguindo detectar etiquetas NFC em outras peças e minifiguras para que os conjuntos “ganhem vida” (como emitir o som de um sabre de luz no Lego Star Wars, por exemplo). O minicomputador é um ASIC personalizado, menor que um único pino Lego, com firmware atualizável via app no celular. O lançamento está previsto para 1º de março. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Google DeepMind anuncia parceria com a empresa de robôs humanoides Boston Dynamics: a colaboração busca conectar os robôs ao modelo Gemini Robotics, que integra visão, linguagem e ação de forma simultânea. Com isso, os sistemas seriam capazes de compreender melhor o ambiente, tomar decisões, utilizar ferramentas e interagir com pessoas com maior segurança. O foco inicial será em tarefas industriais, começando pelo setor automotivo. As informações são do blog da Boston Dynamics.",
+            "url": ""
+        },
+        {
+            "text": "Ambientes de desenvolvimento baseados no VS Code, como Cursor e Google Antigravity, podem expor usuários a ataques por meio de “extensões recomendadas”: essas IDEs não podem utilizar o Visual Studio Marketplace, e recorrem à alternativa open-source OpenVSX. No entanto, elas ainda herdam as listas de plugins recomendados da loja oficial, que muitas vezes não estão disponíveis na OpenVSX de forma oficial. Com isso, agentes mal-intencionados podem publicar extensões maliciosas com o mesmo nome. Google e Cursor mitigaram o problema, mas recomenda-se verificar se complementos sugeridos, disponíveis na OpenVSX, provém de mantenedores confiáveis. As informações são do site BleepingComputer.",
+            "url": ""
+        },
+        {
+            "text": "Microsoft gera confusão ao promover Office como “Microsoft 365 Copilot”: o nome exibido no site oficial fez com que muitos usuários entendessem que toda a suíte Office teria sido renomeada. No entanto, o termo se refere a um pacote que reúne o acesso ao Copilot e aos aplicativos do Office. Em paralelo, ainda existe o produto de assinatura chamado Microsoft 365, nome adotado desde a mudança de marca em 2022, sem os recursos adicionais. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Brave reduz em 75% o consumo de RAM do seu bloqueador de anúncios: segundo a empresa, isso representa cerca de 45 MB a menos de memória utilizada em desktops e dispositivos móveis. A principal mudança ocorreu na forma como o mecanismo armazena e processa as listas de filtros. Anteriormente, eram utilizadas estruturas comuns do Rust, como vetores e mapas, mas agora foi adotado o formato FlatBuffers, que é mais compacto e permite acesso mais rápido aos dados. A melhoria está disponível a partir da versão 1.85 do navegador. As informações são do site do Brave.",
+            "url": ""
+        },
+        {
+            "text": "Gmail deixa de oferecer suporte a contas de terceiros configuradas com POP3, e ao Gmailify: usuários ainda poderão acessar as caixas de entrada pelo aplicativo, mas o serviço deixará de realizar a importação das mensagens. O Gmailify permitia aplicar recursos do Gmail, como proteção contra spam e organização de e-mails, a esse tipo de conta. As informações são do site The Register.",
+            "url": ""
+        }
+    ]
+}
