@@ -1,0 +1,45 @@
+{
+    "title": "Intel mira em videogames / Pular anúncios vira lei / Avanço para EVs",
+    "fps": 30,
+    "timestamp": 1767797056,
+    "width": 0,
+    "height": 0,
+    "date": "07/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quarta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Intel está desenvolvendo um conjunto de hardware e software para consoles portáteis de jogos: a solução será baseada nos processadores Intel Core Series 3, conhecidos como Panther Lake, e também contará com um chip dedicado especificamente para consoles portáteis. A empresa divulgará mais detalhes ao longo deste ano. A entrada da Intel nesse mercado a coloca em concorrência direta com a AMD, atual líder do segmento. As informações são do site TechCrunch.",
+            "url": ""
+        },
+        {
+            "text": "Vietnã limita anúncios não puláveis a, no máximo, 5 segundos: o decreto vale para propagandas nos formatos de vídeo e imagem, e também proibirá que sites obriguem o usuário a aguardar para fechar anúncios estáticos. Ele deve impactar plataformas como YouTube, Instagram, Facebook, X e Twitch. No entanto, especula-se que a medida possa levar o YouTube a ampliar a frequência de anúncios. As informações são do site Dexerto.",
+            "url": ""
+        },
+        {
+            "text": "Empresa finlandesa Donut Lab apresenta primeira bateria de estado sólido para carros elétricos: a tecnologia possui várias vantagens em relação às de íon-lítio, como maior autonomia/densidade energética (até 60% mais), vida útil prolongada ( 100 mil ciclos de carga e descarga, mantendo 99% da capacidade), além de ser mais segura, eliminando o uso de materiais inflamáveis. As informações são do site da Donut Lab.",
+            "url": ""
+        },
+        {
+            "text": "Google passará a publicar código-fonte do Android Open Source Project apenas no segundo e quarto trimestre de cada ano: até então, a disponibilização ocorria a cada versão trimestral do sistema operacional, totalizando quatro lançamentos por ano. Segundo a empresa, a mudança simplifica o desenvolvimento, reduz a complexidade de gerenciamento de múltiplas branches de código e viabiliza a entrega de versões mais estáveis e seguras. As informações são do site Android Authority.",
+            "url": ""
+        },
+        {
+            "text": "Nvidia anuncia aplicativo do GeForce Now para Linux e DLSS 4.5: o GeForce Now, serviço de jogos de nuvem da empresa, será disponibilizado inicialmente em versão beta para o Ubuntu 24.04 e posteriores. Já a nova versão do DLSS, projetado para aumentar a qualidade de imagem e o desempenho em jogos, traz melhorias na nitidez e redução de artefatos visuais como tremulação em superfícies, além da diminuição de “rastros fantasmas” em objetos em movimento perto da câmera e aprimoramentos no anti-aliasing. O novo DLSS é recomendado para placas de vídeo RTX 40 e 50, mas proprietários das RTX 20 e 30 também podem utilizá-lo. As informações são dos sites The Verge e Tom’s Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Dell recua e traz de volta notebooks da marca XPS: ela funcionará como uma submarca, com identidade própria e logotipo específico estampado nos dispositivos. Os primeiros modelos são o XPS 14 e o XPS 16, com preços a partir de 1.649 dólares, mas ainda sem previsão de chegada no Brasil. A Dell havia anunciado o fim da XPS em janeiro de 2025, que passaria a se chamar Dell Premium. A decisão, entretanto, foi fortemente criticada pela comunidade. As informações são do site Tecnoblog.",
+            "url": ""
+        },
+        {
+            "text": "Cibercriminosos utilizam tela azul da morte falsa do Windows para espalhar malware: a campanha maliciosa PHALT#BLYX tem início com um e-mail que se passa pelo Booking, informando sobre cancelamento de reserva e uma cobrança elevada. Ao clicar no link, a vítima é direcionada a um site onde é exibida uma falsa tela azul da morte do Windows. As instruções orientam a abertura do programa Executar e a inserção de um código malicioso para baixar o malware DCRat, que permite o invasor controlar o computador à distância, registrar teclas digitadas e roubar informações sensíveis. As informações são do site Securonix.",
+            "url": ""
+        }
+    ]
+}
