@@ -1,0 +1,45 @@
+{
+    "title": "n8n: falha crítica / Tailwind CSS em apuros / NPM mais seguro",
+    "fps": 30,
+    "timestamp": 1767883569,
+    "width": 0,
+    "height": 0,
+    "date": "08/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta quinta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Falha crítica no n8n expõe cerca de 100 mil servidores a ataques de execução remota de código: a vulnerabilidade CVE-2026-21858 (“ni8mare”) garante acesso às máquinas sem necessidade de qualquer tipo de autenticação. O problema está relacionado à forma como o serviço processa webhooks, possibilitando que um invasor consiga manipular cabeçalhos HTTP para sobrescrever variáveis internas da aplicação e, assim, tornar possível a leitura de arquivos arbitrários do sistema. A correção está disponível a partir da versão 1.121.0. As informações são do site The Register.",
+            "url": ""
+        },
+        {
+            "text": "Tailwind CSS, framework open-source para criação de interfaces web, demite 75% dos funcionários devido a problemas financeiros: segundo o CEO Adam Wathan, a documentação do projeto sempre foi um principal canal de conversão para seus produtos pagos, descobertos quando usuários acessavam o site oficial. Com LLMs raspando esses dados e gerando código Tailwind diretamente, muitas pessoas deixaram de visitar a página, o que resultou em uma queda de aproximadamente 40% no tráfego em comparação a 2023, e uma diminuição de 80% no faturamento. As informações são do site Neowin.",
+            "url": ""
+        },
+        {
+            "text": "NPM planeja adotar publicação de pacotes em etapas para conter ataques à cadeia de suprimentos: o “staged publishing” adicionará uma etapa intermediária de revisão antes que uma nova versão de uma biblioteca seja disponibilizada publicamente. A proposta é introduzir uma “pausa” no processo de publicação, exigindo uma aprovação explícita, acompanhada de autenticação multifator. Não está claro se a funcionalidade será aplicada por padrão a todos os pacotes e se será obrigatória. Também não há previsão de quando ela será implementada. As informações são do blog da Socket.",
+            "url": ""
+        },
+        {
+            "text": "Dell admite que consumidores não estão sendo atraídos por PCs com IA: segundo a empresa, a maior parte das pessoas não escolhe um notebook por esse motivo e ficam confusas sobre qual o verdadeiro benefício desses aparelhos. Por outro lado, entre os fatores que mais atraem o público estão maior desempenho e aumento na autonomia de bateria. A afirmação chama atenção porque a Dell é uma das principais parceiras da Microsoft nos PCs Copilot Plus. As informações são do site The Verge.",
+            "url": ""
+        },
+        {
+            "text": "Dispositivos vestíveis de saúde, como monitores de glicose e pressão arterial, poderão gerar mais de 1 milhão de toneladas de lixo eletrônico até 2050: neste período, a demanda por esses aparelhos deve alcançar cerca de 2 bilhões de unidades anuais. O principal responsável pela pegada ambiental é a placa de circuito impresso, que responde por cerca de 70% das emissões de carbono devido ao seu processo de fabricação. Entre as possíveis soluções está a produção de chips com materiais abundantes, incluindo cobre e alumínio, em vez de metais como o ouro. As informações são do site da Universidade Cornell.",
+            "url": ""
+        },
+        {
+            "text": "OpenAI lança ChatGPT Health: desenvolvida em colaboração com médicos, a ferramenta permite que usuários façam perguntas relacionadas à própria saúde, oferecendo também a integração com prontuários eletrônicos e apps como Apple Health e MyFitnessPal. O sistema possui armazenamento e memórias próprios; as conversas permanecem isoladas das demais e não são utilizadas para treinamento. O serviço, acessível pela barra lateral do ChatGPT, está sendo lançado inicialmente para um grupo reduzido de usuários, com expansão prevista nas próximas semanas. As informações são do site da OpenAI.",
+            "url": ""
+        },
+        {
+            "text": "Modelo de IA começará a prescrever medicamentos nos EUA sem participação direta de médicos: o projeto piloto terá início no estado de Utah e é direcionado a pacientes com doenças crônicas que precisam renovar periodicamente seus medicamentos, sem incluir opioides, fármacos para TDAH e injetáveis. O sistema analisará o histórico da pessoa e realizará perguntas semelhantes às feitas em uma consulta, e os primeiros casos ainda serão revisados por profissionais humanos. As informações são do site Politico.",
+            "url": ""
+        }
+    ]
+}
