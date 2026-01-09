@@ -1,0 +1,45 @@
+{
+    "title": "Tailwind salvo / Código de IA piorando / Procura-se: PC usado",
+    "fps": 30,
+    "timestamp": 1767969810,
+    "width": 0,
+    "height": 0,
+    "date": "09/01/2026",
+    "intro": {
+        "text": "Olá pessoal, sigam agora com as notícias desta sexta-feira."
+    },
+    "end": {
+        "text": "Notícias extraídas da newsletter de Filipe Deschamps. Inscreva-se no link na descrição.",
+        "url": "https://bit.ly/newsletter-filipe-deschamps"
+    },
+    "news": [
+        {
+            "text": "Grandes empresas como Google AI Studio, Vercel e Lovable vão patrocinar oficialmente o projeto Tailwind CSS: conforme noticiamos na edição de ontem, o Tailwind demitiu 75% de seus funcionários após uma queda de aproximadamente 80% no faturamento da empresa, atribuída ao impacto da IA sobre seu modelo de negócios. Algumas companhias, incluindo Syntax e Gumroad, integrarão o programa Partner do Tailwind, que garante um apoio financeiro de 5 mil dólares mensais. As informações são dos sites PPC Land e X.",
+            "url": ""
+        },
+        {
+            "text": "Modelos de IA voltados à programação estariam piorando a cada nova versão: segundo um teste amador, sistemas mais antigos, como GPT-4, costumam gerar código com erros evidentes (de sintaxe, por exemplo), porém mais fáceis de serem resolvidos. Já ferramentas mais recentes, incluindo o GPT-5, comportam-se de forma mais traiçoeira, produzindo scripts que executam sem erros aparentes, mas ainda sem funcionar como o esperado. A explicação proposta é que o treinamento desses assistentes passou a usar o feedback de usuários menos experientes como sinal de qualidade, onde muitas vezes o código é aceito apenas porque “não quebrou”. As informações são do site IEEE Spectrum.",
+            "url": ""
+        },
+        {
+            "text": "Varejista japonesa de eletrônicos pede que clientes vendam seus PCs antigos devido à escassez de hardware: a Sofmap Gaming está aceitando desde desktops gamers até computadores comuns. O principal fator para essa falta de equipamentos é a escassez de memória, impulsionada pela alta demanda desse componente por data centers de IA, o que fez os preços de PCs pré-montados novos aumentarem e o mercado de usados esgotar. As informações são do site Tom's Hardware.",
+            "url": ""
+        },
+        {
+            "text": "Governo do Brasil sanciona lei 15.325/2026 que reconhece oficialmente a profissão de “multimídia”: a medida enquadra criadores de conteúdo que atuam em plataformas como YouTube, Instagram e TikTok, mas também funções mais técnicas, como captação, sonorização, pós-produção e programação. A legislação também permite a atuação desses profissionais em diversos segmentos do mercado, incluindo emissoras de rádio e TV, e agências de publicidade. As informações são do site TudoCelular.",
+            "url": ""
+        },
+        {
+            "text": "Google anuncia atualização nos recursos do Gemini no Gmail: o AI Overviews, mesma tecnologia utilizada no mecanismo de busca, consegue resumir conversas, destacando os principais pontos; usuários agora conseguem fazer perguntas ao modelo na caixa de entrada para que ele pesquise nos e-mails e encontre informações específicas; o Help Me Write auxilia na melhoria de textos ou na criação de mensagens do zero; o Suggested Replies utiliza o contexto da conversa para sugerir respostas, mantendo o tom de escrita do usuário; o Proofread oferece uma revisão avançada de gramática, tom e estilo antes do envio; e o AI Inbox analisa os e-mails da caixa de entrada para resumir o que é mais importante e definir prioridades. Inicialmente, os recursos estão disponíveis nos EUA, com expansão prevista para os próximos meses. As informações são do blog do Google.",
+            "url": ""
+        },
+        {
+            "text": "Bose torna open-source API de modelo antigo de caixa de som, permitindo que comunidade dê continuidade a funcionalidades inteligentes: o suporte oficial para o SoundTouch encerrará em 18 de fevereiro. Após essa data, eles passarão a funcionar apenas quando conectados via AUX, HDMI ou Bluetooth, deixarão de receber atualizações oficiais. Esses modelos também foram comercializados no Brasil. O link para o PDF da API pode ser conferido no TabNews.",
+            "url": ""
+        },
+        {
+            "text": "IA deixa de identificar quase um terço de cânceres de mama: um estudo pôs a ferramenta para analisar exames de 414 mulheres recentemente diagnosticadas com a doença. Para que fosse bem-sucedido, o modelo precisava classificar a lesão como suspeita e localizá-la corretamente. Ao todo, 127 cânceres (30,7% dos casos) não foram identificados. Entre os possíveis fatores estão a presença de mamas com tecido mais denso e tumores menores ou iguais a 2 cm. As informações são do site American Medical Journal.",
+            "url": ""
+        }
+    ]
+}
