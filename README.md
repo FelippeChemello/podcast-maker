@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This repository has been archived** and is no longer maintained. Please visit the new [ai-video-engine](https://github.com/FelippeChemello/ai-video-engine) repository for the latest updates and features.
+
 <div align="center">
   <img src="assets/LogoPodcast.png">
 </div>
